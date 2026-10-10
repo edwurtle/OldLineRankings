@@ -306,3 +306,10 @@ td.team-td { white-space: normal; width: 100%; }  /* the only column allowed to 
 .footer { background: var(--md-black); color: var(--ink-muted); padding: 22px 0; font-size: 13px; margin-top: 40px; }
 .footer .wrap { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
 .footer .muted { color: #8a857b; margin-left: auto; }
+
+/* Phones: drop the top-3 podium and the big hero flag */
+@media (max-width: 640px) {
+  .podium, .hero-flag { display: none; }
+  .page-head { padding-bottom: 24px; }
+  .hero-inner { padding: 28px 16px 32px; }
+}
