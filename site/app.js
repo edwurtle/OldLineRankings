@@ -359,12 +359,12 @@ function gameRow(g, t, x) {
   const orec = opp ? `<span class="mono">${opp.W}-${opp.L}-${opp.T}</span><span>${esc(opp.region)}</span>` : "";
   const raw = x.res === "T" ? [x.cp * 2, x.ow * 2] : [x.cp, x.ow];
   const calc = x.res === "W" ? `<span class="mono">${n2(raw[0])} + ${n2(raw[1])} =</span> <b class="mono">${n2(x.pts)}</b>`
-    : x.res === "T" ? `<span class="mono">½ × (${n2(raw[0])} + ${n2(raw[1])}) =</span> <b class="mono">${n2(x.pts)}</b>` : `<span class="mono">of ${n2(x.max)}</span> <b class="mono">0</b>`;
+    : x.res === "T" ? `<span class="mono">½ × (${n2(raw[0])} + ${n2(raw[1])}) =</span> <b class="mono">${n2(x.pts)}</b>` : `<b class="mono">0</b>`;
   return `<div class="game">
     <div class="res ${x.res}">${x.res}</div>${logo(x.opp, 34)}
     <div><div class="opp">${x.home ? "vs" : "@"} ${name}</div>
       <div class="det"><span>${fmtDate(x.date)}</span>${ctag}${orec}${x.ff ? "<span>Forfeit</span>" : ""}</div></div>
-    <div class="right"><div class="score mono">${x.gf ?? "–"}–${x.ga ?? "–"}</div><div class="pts">${calc} pts</div></div>
+    <div class="right"><div class="score mono">${x.gf ?? "–"}–${x.ga ?? "–"}</div><div class="pts">${calc} pts</div>${x.res === "L" ? `<div class="pts missed">win worth ${n2(x.max)}</div>` : ""}</div>
   </div>`;
 }
 function upcomingRow(g, t, u) {

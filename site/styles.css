@@ -291,6 +291,7 @@ td.team-td { white-space: normal; width: 100%; }  /* the only column allowed to 
 .score { font-weight: 600; }
 .pts { font-size: 12px; color: var(--muted); }
 .pts b { color: var(--text); font-size: 15px; }
+.pts.missed { font-size: 11px; color: var(--faint); }
 
 .footer { background: var(--md-black); color: var(--ink-muted); padding: 22px 0; font-size: 13px; margin-top: 40px; }
 .footer .wrap { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
