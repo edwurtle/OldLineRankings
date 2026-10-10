@@ -196,7 +196,7 @@ function renderHow() {
     <h1>How the <span>power rankings</span> work</h1>
     <div class="sub">Every game earns power points. A team's rating is its total points divided by games played, and teams are ranked by rating within their class.</div>
   </div></section>
-  <div class="wrap" style="margin-top:-40px;position:relative;z-index:2">
+  <div class="wrap" style="margin-top:24px">
     <div class="how-grid">
       <div class="how-card w"><div class="k">Win</div><h4>Class + opponent's wins</h4><p>1 point for beating a 1A team, 2 for 2A, 3 for 3A, 4 for 4A, plus 1 point for every game your opponent has won this season.</p></div>
       <div class="how-card t"><div class="k">Tie</div><h4>Half a win</h4><p>A tie earns half of what a win against that opponent would have earned. Ties also count as half a win in an opponent's win total.</p></div>
