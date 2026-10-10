@@ -55,14 +55,18 @@ def rank_sport(raw_games, standings):
     # Games are listed under the home team; some are entered twice. Dedupe by
     # (date, teams) and take the most common result when entries disagree.
     entries = collections.defaultdict(list)
+    unplayed = {}  # (date, a, b) -> (home team, postponed?)
     for x in raw_games:
         r = RES.get(x["result"])
-        if not r:
-            continue
         a, b = norm(x["school"]), norm(x["opponent"])
         sa, sb, home = x["your_score"], x["opponent_score"], a
         if b in std and b < a:
-            a, b, r, sa, sb = b, a, FLIP[r], sb, sa
+            a, b, sa, sb = b, a, sb, sa
+            r = FLIP.get(r)
+        if not r:
+            if x["result"] != "Cancelled" and x["game_date"]:
+                unplayed[(x["game_date"], a, b)] = (home, x["result"] == "Postponed")
+            continue
         entries[(x["game_date"], a, b)].append((r, sa, sb, home, x["result"].startswith("Forfeit")))
     rec = collections.defaultdict(list)
     for (dt, a, b), es in entries.items():
@@ -70,6 +74,21 @@ def rank_sport(raw_games, standings):
         rec[a].append(dict(date=dt, opp=b, res=r, gf=sa, ga=sb, home=home == a, ff=ff))
         if b in std:
             rec[b].append(dict(date=dt, opp=a, res=FLIP[r], gf=sb, ga=sa, home=home == b, ff=ff))
+
+    # Remaining schedule: unplayed games not already reported. A postponed game is dropped
+    # once the same matchup appears again later (rescheduled or played).
+    pairs = collections.defaultdict(list)
+    for dt, a, b in list(entries) + list(unplayed):
+        pairs[(a, b)].append(dt)
+    today = datetime.date.today().isoformat()
+    upcoming = collections.defaultdict(list)
+    for (dt, a, b), (home, postponed) in unplayed.items():
+        if (dt, a, b) in entries or (postponed and any(d > dt for d in pairs[(a, b)])):
+            continue
+        status = "postponed" if postponed else ("pending" if dt < today else "scheduled")
+        upcoming[a].append(dict(date=dt, opp=b, home=home == a, status=status))
+        if b in std:
+            upcoming[b].append(dict(date=dt, opp=a, home=home == b, status=status))
 
     record = {s: {k: sum(g["res"] == k for g in rec[s]) for k in "WLT"} for s in std}
     opp_wins = {s: r["W"] + 0.5 * r["T"] for s, r in record.items()}
@@ -89,7 +108,8 @@ def rank_sport(raw_games, standings):
                           # Strength of schedule: average points per game had every game been a win
                           sos=round(sum(g["max"] for g in games) / gp, 4) if gp else 0,
                           gf=sum(g["gf"] or 0 for g in games), ga=sum(g["ga"] or 0 for g in games),
-                          games=games))
+                          games=games,
+                          upcoming=[dict(u, member=u["opp"] in std) for u in sorted(upcoming[s], key=lambda u: u["date"])]))
     teams.sort(key=lambda t: (-t["avg"], -t["pts"]))
     for i, t in enumerate(teams, 1):
         t["stateRank"] = i

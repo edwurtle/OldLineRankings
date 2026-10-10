@@ -194,7 +194,7 @@ function renderHow() {
   <section class="page-head"><div class="wrap">
     <div class="crumbs"><a href="#/">Home</a><span>/</span><span>How it works</span></div>
     <h1>How the <span>power rankings</span> work</h1>
-    <div class="sub">One number per team: average power points earned per game played.</div>
+    <div class="sub">Every game earns power points. A team's rating is its total points divided by games played, and teams are ranked by rating within their class.</div>
   </div></section>
   <div class="wrap" style="margin-top:-40px;position:relative;z-index:2">
     <div class="how-grid">
@@ -229,7 +229,7 @@ function renderRank(r) {
   <section class="page-head"><div class="wrap">
     <div class="crumbs"><a href="#/">Home</a><span>/</span><a href="#/${r.g}/4A">${GENDERS[r.g]}</a><span>/</span><span>${r.c === "All" ? "All classes" : "Class " + r.c}</span></div>
     <h1>${title}</h1>
-    <div class="sub">${ts.length} teams · games through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})} · ranked by average power points per game</div>
+    <div class="sub">${ts.length} teams · games through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})} · ranked by rating (power points per game)</div>
     <div class="switches">
       <div class="pill-group ${r.g === "girls" ? "red" : ""}">${Object.entries(GENDERS).map(([g, l]) => `<a class="${g === r.g ? "on" : ""}" href="${href({...r, g, team: null})}">${l}</a>`).join("")}</div>
       <div class="pill-group">${[...CLASSES, "All"].map(c => `<a class="${c === r.c ? "on" : ""}" href="${href({...r, c, team: null})}">${c}</a>`).join("")}</div>
@@ -340,7 +340,8 @@ function openTeam(g, name) {
   document.getElementById("dEyebrow").textContent = `${GENDERS[g]} ${t.cls} · #${t.rank} in class · #${regionRank} in ${t.region} · #${t.stateRank} statewide`;
   document.getElementById("dName").textContent = name;
   document.getElementById("dMeta").textContent = [s.mascot, s.city, s.county && s.county + (/(City|County)$/.test(s.county) ? "" : " County")].filter(Boolean).join(" · ");
-  document.getElementById("dForm").innerHTML = t.games.map(x => `<i class="${x.res}" title="${esc(fmtDate(x.date) + " vs " + x.opp)}">${x.res}</i>`).join("");
+  document.getElementById("dForm").innerHTML = t.games.map(x => `<i class="${x.res}" title="${esc(fmtDate(x.date) + " vs " + x.opp)}">${x.res}</i>`).join("") +
+    t.upcoming.filter(u => u.status !== "postponed").map(u => `<i class="U" title="${esc(fmtDate(u.date) + (u.home ? " vs " : " @ ") + u.opp)}"></i>`).join("");
   const scoring = t.games.filter(x => x.pts > 0);
   const best = scoring.length ? scoring.reduce((a, b) => b.pts > a.pts ? b : a) : null;
   document.getElementById("dBody").innerHTML = `
@@ -352,6 +353,7 @@ function openTeam(g, name) {
       <div class="tile"><b class="mono">${t.gf}–${t.ga}</b><span>GF–GA</span></div>
     </div>
     ${best ? `<div class="sect">Best result</div><div class="best">${logo(best.opp, 40)}<div><b>${best.res === "W" ? "Beat" : "Tied"} ${esc(best.opp)}</b> ${best.gf}–${best.ga} on ${fmtDate(best.date)}<div class="muted" style="font-size:13px">Worth ${n2(best.pts)} power points</div></div></div>` : ""}
+    ${t.upcoming.length ? `<div class="sect">Upcoming (${t.upcoming.length})</div>${t.upcoming.map(u => upcomingRow(g, t, u)).join("")}<div style="height:10px"></div>` : ""}
     <div class="sect">Games played (${t.gp})</div>
     ${[...t.games].reverse().map(x => gameRow(g, t, x)).join("") || `<div class="muted">No games yet.</div>`}`;
   document.getElementById("dBody").scrollTop = 0;
@@ -370,6 +372,22 @@ function gameRow(g, t, x) {
     <div><div class="opp">${x.home ? "vs" : "@"} ${name}</div>
       <div class="det"><span>${fmtDate(x.date)}</span>${ctag}${orec}${x.ff ? "<span>Forfeit</span>" : ""}</div></div>
     <div class="right"><div class="score mono">${x.gf ?? "–"}–${x.ga ?? "–"}</div><div class="pts">${calc} pts</div></div>
+  </div>`;
+}
+function upcomingRow(g, t, u) {
+  const opp = u.member ? findTeam(g, u.opp) : null;
+  const name = opp ? `<button data-team="${esc(u.opp)}">${esc(u.opp)}</button>` : esc(u.opp);
+  const ctag = opp ? `<span class="ctag">${opp.cls}</span>` : `<span class="ctag nm">Non-public / out of state</span>`;
+  const orec = opp ? `<span class="mono">${opp.W}-${opp.L}-${opp.T}</span><span>${esc(opp.region)}</span>` : "";
+  const status = {postponed: `<span class="stat">Postponed</span>`, pending: `<span class="stat">Result pending</span>`}[u.status] || "";
+  // A win would be worth opponent class + opponent wins (to date)
+  const worth = opp ? parseInt(opp.cls) + opp.W + 0.5 * opp.T : 1;
+  const d = new Date(u.date + "T12:00:00");
+  return `<div class="game upcoming">
+    <div class="when"><small>${d.toLocaleDateString(undefined, {weekday: "short"})}</small><b class="mono">${d.getDate()}</b></div>${logo(u.opp, 34)}
+    <div><div class="opp">${u.home ? "vs" : "@"} ${name}</div>
+      <div class="det"><span>${fmtDate(u.date)}</span>${ctag}${orec}${status}</div></div>
+    <div class="right"><div class="pts">win worth</div><div class="mono worth">${n2(worth)} <span class="pts">pts</span></div></div>
   </div>`;
 }
 function closeDrawer() { drawer.classList.remove("open"); drawer.setAttribute("aria-hidden", "true"); scrim.classList.remove("open"); }
