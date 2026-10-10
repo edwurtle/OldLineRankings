@@ -236,13 +236,6 @@ function renderRank(r) {
     </div>
   </div></section>
   <div class="wrap">
-    <div class="podium">${ts.slice(0, 3).map((t, i) => `
-      <div class="pod" style="--team:${teamColor(t.school)}" data-team="${esc(t.school)}">
-        ${logo(t.school, 56)}
-        <div><div class="place">${["1st", "2nd", "3rd"][i]}${r.c === "All" ? " · " + t.cls : ""} · ${esc(t.region)}</div><h3>${esc(t.school)}</h3><div class="stats">${t.W}-${t.L}-${t.T} · SOS ${t.sos.toFixed(2)}</div></div>
-        <div class="avg-big"><b>${t.avg.toFixed(2)}</b><small>avg</small></div>
-      </div>`).join("")}
-    </div>
     <div class="card">
       <div class="toolbar">
         <div class="seg" role="tablist">

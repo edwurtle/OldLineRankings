@@ -163,7 +163,7 @@ button, select, input { font: inherit; color: inherit; }
 .logo.mono-logo { background: var(--surface-2); color: var(--muted); font-weight: 800; font-size: calc(var(--sz) * .34); filter: none; }
 
 /* Rankings page */
-.page-head { background: var(--md-black); color: var(--ink); padding: 26px 0 70px; position: relative; overflow: hidden; }
+.page-head { background: var(--md-black); color: var(--ink); padding: 26px 0 30px; position: relative; overflow: hidden; }
 .page-head::after { content: ""; position: absolute; right: -40px; top: -20px; width: 420px; height: 280px; opacity: .07; background: var(--flag-url) center / cover no-repeat; transform: rotate(-8deg); border-radius: 12px; }
 .crumbs { font-size: 13px; color: var(--ink-muted); display: flex; gap: 8px; align-items: center; }
 .crumbs a:hover { color: var(--ink); }
@@ -177,17 +177,6 @@ button, select, input { font: inherit; color: inherit; }
 .pill-group .on { background: var(--md-gold); color: var(--md-black); }
 .pill-group.red .on { background: var(--md-red); color: var(--ink); }
 
-.podium { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: -46px; position: relative; z-index: 2; }
-@media (max-width: 720px) { .podium { grid-template-columns: 1fr; } }
-.pod { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; box-shadow: var(--shadow); padding: 16px; display: flex; gap: 14px; align-items: center; cursor: pointer; position: relative; overflow: hidden; transition: transform .12s; }
-.pod:hover { transform: translateY(-2px); }
-.pod::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: var(--team); opacity: .8; }
-.pod .place { font-family: "Barlow Condensed", sans-serif; font-weight: 800; font-size: 13px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
-.pod h3 { margin: 2px 0; font-size: 18px; font-family: "Barlow Condensed", sans-serif; font-weight: 800; text-transform: uppercase; line-height: 1.05; }
-.pod .stats { font-size: 13px; color: var(--muted); }
-.pod .avg-big { margin-left: auto; text-align: right; }
-.pod .avg-big b { display: block; font-family: "Barlow Condensed", sans-serif; font-size: 32px; font-weight: 800; line-height: 1; }
-.pod .avg-big small { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .08em; }
 
 .card { background: var(--surface); border: 1px solid var(--border); border-radius: 18px; box-shadow: var(--shadow); margin: 18px 0 40px; }
 .toolbar { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; padding: 14px; border-bottom: 1px solid var(--border); }
@@ -307,9 +296,8 @@ td.team-td { white-space: normal; width: 100%; }  /* the only column allowed to 
 .footer .wrap { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
 .footer .muted { color: #8a857b; margin-left: auto; }
 
-/* Phones: drop the top-3 podium and the big hero flag */
+/* Phones: drop the big hero flag */
 @media (max-width: 640px) {
-  .podium, .hero-flag { display: none; }
-  .page-head { padding-bottom: 24px; }
+  .hero-flag { display: none; }
   .hero-inner { padding: 28px 16px 32px; }
 }
