@@ -5,7 +5,6 @@
   --text: #141414; --muted: #6b665c; --faint: #a39d90;
   --accent: var(--md-gold-deep); --accent-soft: rgba(242,183,5,.16); --accent-ink: #7a5800;
   --win: var(--md-gold); --win-ink: #1a1400; --loss: var(--md-red); --tie: #8b8b8b;
-  --gold: #f2b705; --silver: #b5bcc6; --bronze: #c3793a;
   --shadow: 0 1px 2px rgba(20,20,20,.05), 0 6px 20px rgba(20,20,20,.06);
   --hero-bg: #111111; --hero-ink: #f3f0e8;
   --ink: #f3f0e8; --ink-muted: #bdb8ad;   /* text on black panels (nav, hero, headers) */
@@ -19,7 +18,6 @@
     --text: #d5d0c5; --muted: #948f84; --faint: #64605a;
     --accent: var(--md-gold); --accent-soft: rgba(207,159,28,.13); --accent-ink: #cf9f1c;
     --win: #b98f1c; --win-ink: #15110a; --loss: #a8323f; --tie: #6f6c66;
-    --gold: #c9a227; --silver: #8f969f; --bronze: #a2683a;
     --shadow: 0 1px 2px rgba(0,0,0,.35), 0 8px 24px rgba(0,0,0,.3);
     --hero-bg: #0f0f0f; --hero-ink: #d5d0c5;
     --ink: #d5d0c5; --ink-muted: #8f8a80;
@@ -183,7 +181,7 @@ button, select, input { font: inherit; color: inherit; }
 @media (max-width: 720px) { .podium { grid-template-columns: 1fr; } }
 .pod { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; box-shadow: var(--shadow); padding: 16px; display: flex; gap: 14px; align-items: center; cursor: pointer; position: relative; overflow: hidden; transition: transform .12s; }
 .pod:hover { transform: translateY(-2px); }
-.pod::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 5px; background: var(--medal); }
+.pod::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: var(--team); opacity: .8; }
 .pod .place { font-family: "Barlow Condensed", sans-serif; font-weight: 800; font-size: 13px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
 .pod h3 { margin: 2px 0; font-size: 18px; font-family: "Barlow Condensed", sans-serif; font-weight: 800; text-transform: uppercase; line-height: 1.05; }
 .pod .stats { font-size: 13px; color: var(--muted); }
@@ -218,9 +216,6 @@ tbody tr:hover { background: var(--surface-2); }
 tbody tr:last-child td { border-bottom: 0; }
 .num { text-align: right; }
 .rk { display: inline-grid; place-items: center; min-width: 30px; height: 30px; padding: 0 4px; border-radius: 9px; font-weight: 700; font-size: 13px; background: var(--surface-2); border: 1px solid var(--border); }
-.rk.g1 { background: var(--gold); color: #2b2000; border-color: transparent; }
-.rk.g2 { background: var(--silver); color: #1c2430; border-color: transparent; }
-.rk.g3 { background: var(--bronze); color: #fff; border-color: transparent; }
 .teamcell { display: flex; align-items: center; gap: 12px; }
 .teamcell .nm { font-weight: 600; }
 .teamcell small { display: block; color: var(--muted); font-size: 12px; font-weight: 500; }

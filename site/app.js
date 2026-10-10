@@ -13,7 +13,7 @@ const n2 = x => (Math.round(x * 100) / 100).toString();          // 3.75, 4.5, 6
 const winPct = t => t.gp ? (t.W + 0.5 * t.T) / t.gp : 0;
 const pctStr = t => winPct(t).toFixed(3).replace(/^0/, "");
 const rec = t => `<span class="rec mono"><span class="w">${t.W}</span>-<span class="l">${t.L}</span>-<span class="t">${t.T}</span></span>`;
-const rkBadge = (n, medal = true) => `<span class="rk mono ${medal && n <= 3 ? "g" + n : ""}">${n}</span>`;
+const rkBadge = n => `<span class="rk mono">${n}</span>`;
 const initials = name => name.replace(/\(.*?\)/g, "").split(/[\s-]+/).filter(w => /^[A-Z]/.test(w)).slice(0, 2).map(w => w[0]).join("") || "?";
 function logo(name, size = 32) {
   const s = SCHOOLS[name];
@@ -237,7 +237,7 @@ function renderRank(r) {
   </div></section>
   <div class="wrap">
     <div class="podium">${ts.slice(0, 3).map((t, i) => `
-      <div class="pod" style="--medal:${["var(--gold)", "var(--silver)", "var(--bronze)"][i]}" data-team="${esc(t.school)}">
+      <div class="pod" style="--team:${teamColor(t.school)}" data-team="${esc(t.school)}">
         ${logo(t.school, 56)}
         <div><div class="place">${["1st", "2nd", "3rd"][i]}${r.c === "All" ? " · " + t.cls : ""} · ${esc(t.region)}</div><h3>${esc(t.school)}</h3><div class="stats">${t.W}-${t.L}-${t.T} · SOS ${t.sos.toFixed(2)}</div></div>
         <div class="avg-big"><b>${t.avg.toFixed(2)}</b><small>avg</small></div>
@@ -286,7 +286,7 @@ function renderList(r, ts) {
         const regAvg = all.reduce((s, t) => s + t.avg, 0) / all.length;
         return `<div class="rcard"><div class="rhead"><h3>${r.c === "All" ? `<span>${c}</span> ` : ""}${reg}</h3><small>${all.length} teams · avg ${regAvg.toFixed(2)}</small></div>
           ${shown.map(t => `<div class="rrow" data-team="${esc(t.school)}">
-            ${rkBadge(all.indexOf(t) + 1, sort.key === "rank")}${logo(t.school, 32)}
+            ${rkBadge(all.indexOf(t) + 1)}${logo(t.school, 32)}
             <div><div class="nm">${esc(t.school)}</div><div class="meta">${rec(t)}<span class="pct mono">${pctStr(t)}</span> · SOS ${t.sos.toFixed(2)}</div></div>
             <div class="ov">#${t.rank}<br>in ${t.cls}</div><span class="avg mono">${t.avg.toFixed(2)}</span></div>`).join("")}</div>`;
       }).join("");
