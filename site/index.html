@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Maryland Public High Schools · Soccer Power Rankings</title>
+<meta name="description" content="Power rankings for every Maryland public high school soccer team, boys and girls, Class 1A through 4A.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=20261010150419">
+</head>
+<body>
+<header class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="#/">
+      <span class="brand-flag" data-flag></span>
+      <span class="brand-text"><b>Maryland Public High Schools</b><small>Soccer Power Rankings</small></span>
+    </a>
+    <nav class="nav-links">
+      <a href="#/boys/4A" data-nav="boys">Boys</a>
+      <a href="#/girls/4A" data-nav="girls">Girls</a>
+      <a href="#/how" data-nav="how">How it works</a>
+    </nav>
+  </div>
+  <div class="flag-stripe"></div>
+</header>
+
+<main id="app"></main>
+
+<footer class="footer">
+  <div class="wrap">
+    <span class="brand-flag small" data-flag></span>
+    <span>Maryland Public High Schools · Soccer Power Rankings</span>
+    <span class="muted" id="updated"></span>
+  </div>
+</footer>
+
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-hidden="true">
+  <div class="dhead" id="dHead">
+    <button class="close" id="close" aria-label="Close">✕</button>
+    <div class="dhead-main">
+      <div id="dLogo"></div>
+      <div>
+        <div class="eyebrow" id="dEyebrow"></div>
+        <h2 id="dName"></h2>
+        <div class="dmeta" id="dMeta"></div>
+      </div>
+    </div>
+    <div id="dForm" class="form"></div>
+  </div>
+  <div class="dbody" id="dBody"></div>
+</aside>
+
+<script src="data.js?v=20261010150419"></script>
+<script src="app.js?v=20261010150419"></script>
+</body>
+</html>
