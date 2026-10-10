@@ -74,6 +74,40 @@ def accent(img):
 SIZE = 192  # output px (2x for the largest on-screen avatar)
 
 
+def main_span(counts, total):
+    """(start, end) spanning the logo's non-empty rows/columns, ignoring thin detached
+    slivers (stray border lines in some source images)."""
+    runs, start, gap = [], None, 0
+    for i, c in enumerate(counts + [0]):
+        if c:
+            start = i if start is None else start
+            gap = 0
+        elif start is not None:
+            gap += 1
+            if gap > max(2, total * .02) or i == len(counts):
+                runs.append((start, i - gap))
+                start, gap = None, 0
+    # Keep every run except thin ones (stray lines); text and separate design elements are thicker
+    keep = [r for r in runs if r[1] - r[0] + 1 > max(3, total * .03)] or runs
+    return (min(r[0] for r in keep), max(r[1] for r in keep)) if keep else (0, total - 1)
+
+
+def remove_slivers(img, bg):
+    """Erase ink outside the main body of the logo (fill with bg, or make transparent)."""
+    w, h = img.size
+    px = img.load()
+    ink = lambda c: c[3] >= 60 and not (bg and abs(c[0] - bg[0]) + abs(c[1] - bg[1]) + abs(c[2] - bg[2]) < 70)
+    cols = [sum(ink(px[x, y]) for y in range(0, h, 2)) for x in range(w)]
+    rows = [sum(ink(px[x, y]) for x in range(0, w, 2)) for y in range(h)]
+    (x0, x1), (y0, y1) = main_span(cols, w), main_span(rows, h)
+    fill = (*bg, 255) if bg else (0, 0, 0, 0)
+    for x in range(w):
+        for y in range(h):
+            if not (x0 <= x <= x1 and y0 <= y <= y1) and ink(px[x, y]):
+                px[x, y] = fill
+    return img
+
+
 def content_circle(img, bg):
     """Center and radius of the logo's visible ink: opaque pixels that differ from the background."""
     small = img.copy()
@@ -119,6 +153,7 @@ def make_logo(s):
     bg = None
     if len(opaque) > .85 * len(border):
         bg = tuple(sorted(c[i] for c in opaque)[len(opaque) // 2] for i in range(3))
+    img = remove_slivers(img, bg)
     cx, cy, radius = content_circle(img, bg)
     big = SIZE * 2  # supersample for smooth edges
     scale = (big * .42) / radius

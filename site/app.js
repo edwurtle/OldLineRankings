@@ -296,11 +296,11 @@ function renderList(r, ts) {
   }
   const cols = [
     {key: "rank", label: "#"}, {key: "school", label: "Team"},
-    ...(r.c === "All" ? [{key: "cls", label: "Class"}] : []),
-    {key: "region", label: "Region", cls: "hide-sm"}, {key: "record", label: "Record"},
-    {key: "gp", label: "GP", cls: "num hide-sm"}, {key: "gd", label: "GF–GA", cls: "num hide-sm"},
-    {key: "pts", label: "Points", cls: "num hide-sm"},
-    {key: "sos", label: "SOS", cls: "num", title: "Strength of schedule: average points per game if every game had been a win"},
+    ...(r.c === "All" ? [{key: "cls", label: "Class", cls: "hide-xs"}] : []),
+    {key: "region", label: "Region", cls: "hide-reg"}, {key: "record", label: "Record"},
+    {key: "gp", label: "GP", cls: "num hide-md"}, {key: "gd", label: "GF–GA", cls: "num hide-md"},
+    {key: "pts", label: "Points", cls: "num hide-lg"},
+    {key: "sos", label: "SOS", cls: "num hide-xs", title: "Strength of schedule: average points per game if every game had been a win"},
     {key: "avg", label: "Rating", cls: "num"},
   ];
   el.innerHTML = `<div class="table-wrap"><table><thead><tr>${cols.map(c =>
@@ -308,14 +308,14 @@ function renderList(r, ts) {
   </tr></thead><tbody>${sorted(list).map(t => `
     <tr data-team="${esc(t.school)}">
       <td>${rkBadge(t.__rank)}</td>
-      <td><div class="teamcell">${logo(t.school, 34)}<div><div class="nm">${esc(t.school)}</div><small>${esc(subline(t.school))}</small></div></div></td>
-      ${r.c === "All" ? `<td><span class="tag cls">${t.cls}</span></td>` : ""}
-      <td class="hide-sm"><span class="tag">${esc(t.region)}</span></td>
+      <td class="team-td"><div class="teamcell">${logo(t.school, 34)}<div><div class="nm">${esc(t.school)}</div><small>${esc(subline(t.school))}</small></div></div></td>
+      ${r.c === "All" ? `<td class="hide-xs"><span class="tag cls">${t.cls}</span></td>` : ""}
+      <td class="hide-reg"><span class="tag">${esc(t.region)}</span></td>
       <td>${rec(t)}<span class="pct mono">${pctStr(t)}</span></td>
-      <td class="num mono hide-sm">${t.gp}</td>
-      <td class="num mono hide-sm">${t.gf}–${t.ga}</td>
-      <td class="num mono hide-sm">${n2(t.pts)}</td>
-      <td class="num"><span class="sos mono">${t.sos.toFixed(2)}</span><span class="sosrk mono">#${r.c === "All" ? t.sosStateRank : t.sosRank}</span></td>
+      <td class="num mono hide-md">${t.gp}</td>
+      <td class="num mono hide-md">${t.gf}–${t.ga}</td>
+      <td class="num mono hide-lg">${n2(t.pts)}</td>
+      <td class="num hide-xs"><span class="sos mono">${t.sos.toFixed(2)}</span><span class="sosrk mono">#${r.c === "All" ? t.sosStateRank : t.sosRank}</span></td>
       <td class="num"><div class="avgcell"><div class="bar"><i style="width:${(t.avg / maxAvg * 100).toFixed(1)}%"></i></div><span class="avg mono">${t.avg.toFixed(2)}</span></div></td>
     </tr>`).join("")}</tbody></table></div>`;
 }

@@ -33,13 +33,13 @@ a { color: inherit; text-decoration: none; }
 button, select, input { font: inherit; color: inherit; }
 .mono { font-family: "JetBrains Mono", ui-monospace, monospace; font-variant-numeric: tabular-nums; }
 .display { font-family: "Barlow Condensed", Inter, sans-serif; text-transform: uppercase; letter-spacing: .01em; }
-.wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px; }
+.wrap { max-width: 1360px; margin: 0 auto; padding: 0 16px; }
 .muted { color: var(--muted); }
 .eyebrow { text-transform: uppercase; letter-spacing: .14em; font-size: 12px; font-weight: 700; }
 
 /* Nav */
 .nav { position: sticky; top: 0; z-index: 5; background: var(--md-black); color: var(--ink); }
-.nav-inner { max-width: 1180px; margin: 0 auto; padding: 10px 16px; display: flex; align-items: center; gap: 16px; }
+.nav-inner { max-width: 1360px; margin: 0 auto; padding: 10px 16px; display: flex; align-items: center; gap: 16px; }
 .brand { display: flex; align-items: center; gap: 12px; min-width: 0; }
 .brand-text { display: flex; flex-direction: column; line-height: 1.1; min-width: 0; }
 .brand-text b { font-family: "Barlow Condensed", sans-serif; font-size: 20px; font-weight: 800; text-transform: uppercase; letter-spacing: .02em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -58,7 +58,7 @@ button, select, input { font: inherit; color: inherit; }
 
 /* Hero */
 .hero { background: var(--hero-bg); color: var(--hero-ink); position: relative; overflow: hidden; }
-.hero-inner { max-width: 1180px; margin: 0 auto; padding: 56px 16px 64px; display: grid; grid-template-columns: 1.2fr 1fr; gap: 32px; align-items: center; position: relative; z-index: 1; }
+.hero-inner { max-width: 1360px; margin: 0 auto; padding: 56px 16px 64px; display: grid; grid-template-columns: 1.2fr 1fr; gap: 32px; align-items: center; position: relative; z-index: 1; }
 .hero h1 { font-family: "Barlow Condensed", sans-serif; font-weight: 800; text-transform: uppercase; font-size: clamp(42px, 7vw, 76px); line-height: .92; margin: 10px 0 16px; letter-spacing: -.005em; }
 .hero h1 span { color: var(--md-gold); }
 .hero .eyebrow { color: var(--md-gold); }
@@ -218,6 +218,8 @@ tbody tr:last-child td { border-bottom: 0; }
 .rk { display: inline-grid; place-items: center; min-width: 30px; height: 30px; padding: 0 4px; border-radius: 9px; font-weight: 700; font-size: 13px; background: var(--surface-2); border: 1px solid var(--border); }
 .teamcell { display: flex; align-items: center; gap: 12px; }
 .teamcell .nm { font-weight: 600; }
+td.team-td { white-space: normal; width: 100%; }  /* the only column allowed to wrap, so long names never force a scroll */
+.teamcell .nm, .teamcell small { line-height: 1.25; }
 .teamcell small { display: block; color: var(--muted); font-size: 12px; font-weight: 500; }
 .tag { display: inline-block; font-size: 12px; font-weight: 600; padding: 3px 9px; border-radius: 999px; background: var(--surface-2); border: 1px solid var(--border); color: var(--muted); }
 .tag.cls { background: var(--md-black); color: var(--md-gold); border-color: transparent; font-weight: 800; }
@@ -230,6 +232,12 @@ tbody tr:last-child td { border-bottom: 0; }
 .bar { width: 110px; height: 8px; border-radius: 99px; background: var(--surface-2); border: 1px solid var(--border); overflow: hidden; }
 .bar i { display: block; height: 100%; border-radius: 99px; background: linear-gradient(90deg, var(--md-gold-deep), var(--md-gold)); }
 .avg { font-weight: 700; min-width: 44px; text-align: right; }
+/* Drop lower-priority columns as the window narrows so the table never scrolls sideways */
+@media (max-width: 1240px) { .hide-lg { display: none; } }
+@media (max-width: 1060px) { .hide-md { display: none; } .bar { width: 70px; } }
+@media (max-width: 900px) { .hide-reg { display: none; } }
+@media (max-width: 760px) { .bar, .table-wrap .pct, .sosrk { display: none; } }
+@media (max-width: 480px) { .hide-xs { display: none; } td, th { padding: 9px 5px; } .teamcell .logo { --sz: 28px !important; } .teamcell { gap: 8px; } }
 @media (max-width: 760px) { .hide-sm { display: none; } .bar { width: 56px; } td, th { padding: 9px 8px; } .teamcell small { display: none; } }
 
 .regions { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 16px; padding: 16px; }
