@@ -6,7 +6,7 @@ X-WR-CALNAME:Queen Anne's Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-queen-anne-s-annapolis-football@oldlinerankings
-DTSTAMP:20261012T203002Z
+DTSTAMP:20261012T203552Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Annapolis at Queen Anne's
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-north-caroline-queen-anne-s-football@oldlinerankings
-DTSTAMP:20261012T203002Z
+DTSTAMP:20261012T203552Z
 DTSTART;TZID=America/New_York:20260911T180000
 DTEND;TZID=America/New_York:20260911T200000
 SUMMARY:Football: Queen Anne's at North Caroline
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-wicomico-queen-anne-s-football@oldlinerankings
-DTSTAMP:20261012T203002Z
+DTSTAMP:20261012T203552Z
 DTSTART;TZID=America/New_York:20260918T180000
 DTEND;TZID=America/New_York:20260918T200000
 SUMMARY:Football: Queen Anne's at Wicomico
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-queen-anne-s-stephen-decatur-football@oldlinerankings
-DTSTAMP:20261012T203002Z
+DTSTAMP:20261012T203552Z
 DTSTART;TZID=America/New_York:20260924T180000
 DTEND;TZID=America/New_York:20260924T200000
 SUMMARY:Football: Stephen Decatur at Queen Anne's
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/stephen-decatur-high-school-berlin-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-kent-county-queen-anne-s-football@oldlinerankings
-DTSTAMP:20261012T203002Z
+DTSTAMP:20261012T203552Z
 DTSTART;TZID=America/New_York:20261002T110000
 DTEND;TZID=America/New_York:20261002T130000
 SUMMARY:Football: Queen Anne's at Kent County
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam15f9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-queen-anne-s-easton-football@oldlinerankings
-DTSTAMP:20261012T203002Z
+DTSTAMP:20261012T203552Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Easton at Queen Anne's
@@ -65,7 +65,7 @@ DESCRIPTION:Final: Queen Anne's 16\, Easton 48
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-queen-anne-s-james-m-bennett-football@oldlinerankings
-DTSTAMP:20261012T203002Z
+DTSTAMP:20261012T203552Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Football: James M. Bennett at Queen Anne's
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-parkside-queen-anne-s-football@oldlinerankings
-DTSTAMP:20261012T203002Z
+DTSTAMP:20261012T203552Z
 DTSTART;TZID=America/New_York:20261024T120000
 DTEND;TZID=America/New_York:20261024T140000
 SUMMARY:Football: Queen Anne's at Parkside
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-kent-island-queen-anne-s-football@oldlinerankings
-DTSTAMP:20261012T203002Z
+DTSTAMP:20261012T203552Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Queen Anne's at Kent Island

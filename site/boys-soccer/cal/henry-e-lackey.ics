@@ -6,7 +6,7 @@ X-WR-CALNAME:Henry E. Lackey Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-henry-e-lackey-mcdonough-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203030Z
+DTSTAMP:20261012T203635Z
 DTSTART;TZID=America/New_York:20260908T183000
 DTEND;TZID=America/New_York:20260908T203000
 SUMMARY:Boys Soccer: McDonough at Henry E. Lackey
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gam10c0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-henry-e-lackey-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203030Z
+DTSTAMP:20261012T203635Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Huntingtown at Henry E. Lackey
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Henry E. Lackey 0\, Huntingtown 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-henry-e-lackey-la-plata-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203030Z
+DTSTAMP:20261012T203635Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: La Plata at Henry E. Lackey
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Henry E. Lackey 1\, La Plata 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-henry-e-lackey-westlake-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203030Z
+DTSTAMP:20261012T203635Z
 DTSTART;TZID=America/New_York:20260917T163000
 DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Boys Soccer: Westlake at Henry E. Lackey
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gamb3cd39
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-henry-e-lackey-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203030Z
+DTSTAMP:20261012T203635Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Great Mills at Henry E. Lackey
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Henry E. Lackey 1\, Great Mills 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-henry-e-lackey-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203030Z
+DTSTAMP:20261012T203635Z
 DTSTART;TZID=America/New_York:20260929T181500
 DTEND;TZID=America/New_York:20260929T201500
 SUMMARY:Boys Soccer: Leonardtown at Henry E. Lackey
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gamcaac
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-patuxent-henry-e-lackey-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203030Z
+DTSTAMP:20261012T203635Z
 DTSTART;TZID=America/New_York:20261001T180000
 DTEND;TZID=America/New_York:20261001T200000
 SUMMARY:Boys Soccer: Henry E. Lackey at Patuxent
@@ -73,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gamc19c6e43
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-henry-e-lackey-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203030Z
+DTSTAMP:20261012T203635Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: St. Charles at Henry E. Lackey
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gama8f0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-henry-e-lackey-thomas-stone-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203030Z
+DTSTAMP:20261012T203635Z
 DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T190000
 SUMMARY:Boys Soccer: Thomas Stone at Henry E. Lackey
@@ -93,7 +93,7 @@ URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gamc073
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-henry-e-lackey-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203030Z
+DTSTAMP:20261012T203635Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: North Point at Henry E. Lackey
@@ -101,7 +101,7 @@ LOCATION:Henry E. Lackey
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-henry-e-lackey-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203030Z
+DTSTAMP:20261012T203635Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Chopticon at Henry E. Lackey
@@ -109,7 +109,7 @@ LOCATION:Henry E. Lackey
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-henry-e-lackey-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203030Z
+DTSTAMP:20261012T203635Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Boys Soccer: Gwynn Park at Henry E. Lackey
