@@ -6,7 +6,7 @@ X-WR-CALNAME:Eastern Tech Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-loch-raven-eastern-tech-football@oldlinerankings
-DTSTAMP:20261012T213034Z
+DTSTAMP:20261012T213225Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Eastern Tech at Loch Raven
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Eastern Tech 28\, Loch Raven 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-pikesville-eastern-tech-football@oldlinerankings
-DTSTAMP:20261012T213034Z
+DTSTAMP:20261012T213225Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Eastern Tech at Pikesville
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Eastern Tech 49\, Pikesville 20
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-eastern-tech-lansdowne-football@oldlinerankings
-DTSTAMP:20261012T213034Z
+DTSTAMP:20261012T213225Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Football: Lansdowne at Eastern Tech
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Eastern Tech 47\, Lansdowne 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-eastern-tech-patapsco-football@oldlinerankings
-DTSTAMP:20261012T213034Z
+DTSTAMP:20261012T213225Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Patapsco at Eastern Tech
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Eastern Tech 34\, Patapsco 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-eastern-tech-sparrows-point-football@oldlinerankings
-DTSTAMP:20261012T213034Z
+DTSTAMP:20261012T213225Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Sparrows Point at Eastern Tech
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Eastern Tech 14\, Sparrows Point 21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-eastern-tech-dc-kipp-dc-legacy-football@oldlinerankings
-DTSTAMP:20261012T213034Z
+DTSTAMP:20261012T213225Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: DC- KIPP DC Legacy at Eastern Tech
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Eastern Tech 6\, DC- KIPP DC Legacy 47
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-eastern-tech-towson-football@oldlinerankings
-DTSTAMP:20261012T213034Z
+DTSTAMP:20261012T213225Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Football: Towson at Eastern Tech
@@ -69,7 +69,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6874262
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-western-tech-eastern-tech-football@oldlinerankings
-DTSTAMP:20261012T213034Z
+DTSTAMP:20261012T213225Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Football: Eastern Tech at Western Tech
@@ -78,7 +78,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6810446
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-eastern-tech-chesapeake-b-football@oldlinerankings
-DTSTAMP:20261012T213034Z
+DTSTAMP:20261012T213225Z
 DTSTART;TZID=America/New_York:20261031T120000
 DTEND;TZID=America/New_York:20261031T140000
 SUMMARY:Football: Chesapeake-B at Eastern Tech
