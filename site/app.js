@@ -520,9 +520,12 @@ function renderFinal8(r) {
   // small "Projected ⓘ" label that opens the games behind the projection
   const details = t => {
     const x = projected ? t.proj : t;
-    // Projected: a small ⓘ next to the record opens the games behind the projection
-    const info = projected ? `<button class="proj-link" data-proj="${esc(t.school)}" title="How this was projected" aria-label="How ${esc(t.school)}'s record was projected"><i class="pp-i">i</i></button>` : "";
-    return `<span class="d-rec mono">${recTxt(x)}${info}</span>` + (SEEDS_BY_POINTS ? `<span class="d-pts">${x.avg.toFixed(2)} MPSSAA</span>` : "");
+    const lines = `<span class="d-rec mono">${recTxt(x)}</span>` + (SEEDS_BY_POINTS ? `<span class="d-pts">${x.avg.toFixed(2)} MPSSAA</span>` : "");
+    if (!projected) return lines;
+    // Projected: a link under both lines opens the games behind the projection
+    const left = t.upcoming.filter(u => u.status !== "postponed").length;
+    return lines + (left ? `<button class="proj-link" data-proj="${esc(t.school)}" title="How this was projected">${left} game${left === 1 ? "" : "s"} left ›</button>`
+      : `<span class="d-done">Season complete</span>`);
   };
   // Region (mini) brackets get a short detail line: record and seeding number
   const slotFor = (seedOf, mini) => (x, p, cls) => {

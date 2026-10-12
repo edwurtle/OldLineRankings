@@ -486,11 +486,9 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 .bracket.mini .slot.tcard { padding: 8px 0 8px 8px; gap: 8px; }
 .bracket.mini .slot.tcard .nm { font-size: 13px; }
 .bracket.mini .slot.tcard .wp { min-width: 48px; font-size: 13px; }
-.bracket .slot.tcard .d-rec { display: inline-flex; align-items: center; gap: 6px; }
-.proj-link { all: unset; display: inline-grid; place-items: center; cursor: pointer; }
-.proj-link .pp-i { width: 14px; height: 14px; border-radius: 50%; display: inline-grid; place-items: center; background: var(--faint); color: var(--surface);
-  font: italic 700 10px/1 Georgia, serif; }
-.proj-link:hover .pp-i { background: var(--accent-ink); }
+.proj-link { all: unset; margin-top: 3px; font-size: 11px; font-weight: 700; color: var(--accent-ink); cursor: pointer; }
+.proj-link:hover { text-decoration: underline; }
+.bracket .slot.tcard .d-done { margin-top: 3px; font-size: 11px; color: var(--faint); }
 
 /* Schedule: a grid of game cards per day (away team above home team) */
 .sched .sday { border-bottom: 0; background: none; padding: 18px 16px 8px; }
