@@ -6,7 +6,7 @@ X-WR-CALNAME:Northwestern Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-central-northwestern-football@oldlinerankings
-DTSTAMP:20261012T184007Z
+DTSTAMP:20261012T184617Z
 DTSTART;TZID=America/New_York:20260904T150000
 DTEND;TZID=America/New_York:20260904T170000
 SUMMARY:Football: Northwestern at Central
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/central-high-school-capitol-heights-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-northwestern-suitland-football@oldlinerankings
-DTSTAMP:20261012T184007Z
+DTSTAMP:20261012T184617Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: Suitland at Northwestern
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Northwestern 0\, Suitland 53
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-laurel-northwestern-football@oldlinerankings
-DTSTAMP:20261012T184007Z
+DTSTAMP:20261012T184617Z
 DTSTART;TZID=America/New_York:20260918T190000
 DTEND;TZID=America/New_York:20260918T210000
 SUMMARY:Football: Northwestern at Laurel
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gama9ac5aa3a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-northwestern-eleanor-roosevelt-football@oldlinerankings
-DTSTAMP:20261012T184007Z
+DTSTAMP:20261012T184617Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Football: Eleanor Roosevelt at Northwestern
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-northwestern-bladensburg-football@oldlinerankings
-DTSTAMP:20261012T184007Z
+DTSTAMP:20261012T184617Z
 DTSTART;TZID=America/New_York:20261003T140000
 DTEND;TZID=America/New_York:20261003T160000
 SUMMARY:Football: Bladensburg at Northwestern
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-northwestern-potomac-football@oldlinerankings
-DTSTAMP:20261012T184007Z
+DTSTAMP:20261012T184617Z
 DTSTART;TZID=America/New_York:20261009T170000
 DTEND;TZID=America/New_York:20261009T190000
 SUMMARY:Football: Potomac at Northwestern
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-northwestern-parkdale-football@oldlinerankings
-DTSTAMP:20261012T184007Z
+DTSTAMP:20261012T184617Z
 DTSTART;TZID=America/New_York:20261017T140000
 DTEND;TZID=America/New_York:20261017T160000
 SUMMARY:Football: Parkdale at Northwestern
@@ -74,7 +74,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6768030
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-northwestern-duval-football@oldlinerankings
-DTSTAMP:20261012T184007Z
+DTSTAMP:20261012T184617Z
 DTSTART;TZID=America/New_York:20261024T140000
 DTEND;TZID=America/New_York:20261024T160000
 SUMMARY:Football: DuVal at Northwestern
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-northwestern-dr-henry-a-wise-football@oldlinerankings
-DTSTAMP:20261012T184007Z
+DTSTAMP:20261012T184617Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Dr. Henry A. Wise at Northwestern
