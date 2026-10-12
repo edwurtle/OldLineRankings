@@ -6,7 +6,7 @@ X-WR-CALNAME:Linganore Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-linganore-mergenthaler-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Mergenthaler at Linganore
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Linganore -\, Mergenthaler -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-linganore-meade-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Football: Meade at Linganore
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam90b7747c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-linganore-tuscarora-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Tuscarora at Linganore
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Linganore 49\, Tuscarora 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-walkersville-linganore-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Linganore at Walkersville
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Linganore 46\, Walkersville 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-linganore-frederick-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Frederick at Linganore
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Linganore 35\, Frederick 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-linganore-oakdale-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Oakdale at Linganore
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Linganore 7\, Oakdale 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-middletown-linganore-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Linganore at Middletown
@@ -71,7 +71,7 @@ URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-linganore-gov-thomas-johnson-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Gov. Thomas Johnson at Linganore
@@ -80,7 +80,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6728208
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-linganore-urbana-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Urbana at Linganore

@@ -6,7 +6,7 @@ X-WR-CALNAME:Walkersville Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-liberty-walkersville-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Walkersville at Liberty
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Walkersville 64\, Liberty 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-south-carroll-walkersville-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Walkersville at South Carroll
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Walkersville 44\, South Carroll 18
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-walkersville-urbana-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Urbana at Walkersville
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Walkersville 37\, Urbana 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-walkersville-linganore-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Linganore at Walkersville
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Walkersville 6\, Linganore 46
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-walkersville-gov-thomas-johnson-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Gov. Thomas Johnson at Walkersville
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Walkersville 58\, Gov. Thomas Johnson 19
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-catoctin-walkersville-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Walkersville at Catoctin
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Walkersville 55\, Catoctin 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-walkersville-oakdale-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Oakdale at Walkersville
@@ -69,7 +69,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6769944
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-brunswick-walkersville-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Walkersville at Brunswick
@@ -78,7 +78,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6747348
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-middletown-walkersville-football@oldlinerankings
-DTSTAMP:20261012T190513Z
+DTSTAMP:20261012T190724Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Walkersville at Middletown
