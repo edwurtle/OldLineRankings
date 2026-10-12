@@ -508,7 +508,7 @@ function renderFinal8(r) {
     <div class="crumbs"><a href="#/">Home</a><span>/</span><span>Final 8</span><span>/</span><span>${divName(r.g, r.c)}</span></div>
     <h1>${divName(r.g, r.c)} <span>Final 8</span></h1>
     <div class="sub">${projected
-      ? `Projected: future games decided by the Old Line Rating · seeded by ${SEED.name}.`
+      ? `Projected: every remaining game, regular season and playoffs, goes to the team with the higher Old Line Rating · seeded by ${SEED.name}.`
       : `Current: seeds from ${SEED.name} through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})}.`}</div>
     <div class="switches">
       ${MULTI ? `<div class="pill-group ${r.g !== DEF ? "red" : ""}">${Object.entries(GENDERS).map(([g, l]) => `<a class="${g === r.g ? "on" : ""}" href="${href({...r, g, team: null})}">${l}</a>`).join("")}</div>` : ""}
