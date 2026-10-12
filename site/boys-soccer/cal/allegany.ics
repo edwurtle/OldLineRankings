@@ -6,7 +6,7 @@ X-WR-CALNAME:Allegany Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-allegany-brunswick-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;TZID=America/New_York:20260905T100000
 DTEND;TZID=America/New_York:20260905T120000
 SUMMARY:Boys Soccer: Brunswick at Allegany
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/game45
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-allegany-francis-scott-key-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: Francis Scott Key at Allegany
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Allegany 2\, Francis Scott Key 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-allegany-fort-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Boys Soccer: Fort Hill at Allegany
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam9a9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-allegany-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Boys Soccer: Southern-G at Allegany
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-allegany-mountain-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Boys Soccer: Mountain Ridge at Allegany
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-allegany-md-bishop-walsh-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Boys Soccer: MD - Bishop Walsh at Allegany
@@ -64,7 +64,7 @@ DESCRIPTION:Final: Allegany 10\, MD - Bishop Walsh 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-allegany-md-bishop-walsh-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;TZID=America/New_York:20260922T150000
 DTEND;TZID=America/New_York:20260922T170000
 SUMMARY:Boys Soccer: MD - Bishop Walsh at Allegany
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam96a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-allegany-northern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;TZID=America/New_York:20260924T180000
 DTEND;TZID=America/New_York:20260924T200000
 SUMMARY:Boys Soccer: Northern-G at Allegany
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-allegany-wv-frankfort-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Boys Soccer: WV - Frankfort at Allegany
@@ -93,7 +93,7 @@ DESCRIPTION:Final: Allegany 2\, WV - Frankfort 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-allegany-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Boys Soccer: Southern-G at Allegany
@@ -103,7 +103,7 @@ URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam6d8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-allegany-fort-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Boys Soccer: Fort Hill at Allegany
@@ -113,7 +113,7 @@ URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam5a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-allegany-mountain-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;TZID=America/New_York:20261005T183000
 DTEND;TZID=America/New_York:20261005T203000
 SUMMARY:Boys Soccer: Mountain Ridge at Allegany
@@ -123,7 +123,7 @@ URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gamd2b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-allegany-wv-jefferson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T190000
 SUMMARY:Boys Soccer: WV - Jefferson at Allegany
@@ -133,7 +133,7 @@ URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gamef6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-allegany-northern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T192210Z
+DTSTAMP:20261012T192342Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
 SUMMARY:Boys Soccer: Northern-G at Allegany

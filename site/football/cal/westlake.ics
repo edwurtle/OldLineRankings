@@ -6,7 +6,7 @@ X-WR-CALNAME:Westlake Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-patuxent-westlake-football@oldlinerankings
-DTSTAMP:20261012T192135Z
+DTSTAMP:20261012T192318Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Westlake at Patuxent
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam6ae63f54
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-westlake-chopticon-football@oldlinerankings
-DTSTAMP:20261012T192135Z
+DTSTAMP:20261012T192318Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Chopticon at Westlake
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam9038d5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-westlake-great-mills-football@oldlinerankings
-DTSTAMP:20261012T192135Z
+DTSTAMP:20261012T192318Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Great Mills at Westlake
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Westlake 26\, Great Mills 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-westlake-leonardtown-football@oldlinerankings
-DTSTAMP:20261012T192135Z
+DTSTAMP:20261012T192318Z
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T200000
 SUMMARY:Football: Leonardtown at Westlake
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gamd867dc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-westlake-st-charles-football@oldlinerankings
-DTSTAMP:20261012T192135Z
+DTSTAMP:20261012T192318Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: St. Charles at Westlake
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam449654
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-thomas-stone-westlake-football@oldlinerankings
-DTSTAMP:20261012T192135Z
+DTSTAMP:20261012T192318Z
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T140000
 SUMMARY:Football: Westlake at Thomas Stone
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam76
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-mcdonough-westlake-football@oldlinerankings
-DTSTAMP:20261012T192135Z
+DTSTAMP:20261012T192318Z
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T200000
 SUMMARY:Football: Westlake at McDonough
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam1f712a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-westlake-north-point-football@oldlinerankings
-DTSTAMP:20261012T192135Z
+DTSTAMP:20261012T192318Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: North Point at Westlake
@@ -84,7 +84,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6767191
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-westlake-henry-e-lackey-football@oldlinerankings
-DTSTAMP:20261012T192135Z
+DTSTAMP:20261012T192318Z
 DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T200000
 SUMMARY:Football: Henry E. Lackey at Westlake
