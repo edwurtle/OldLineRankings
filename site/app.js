@@ -670,13 +670,18 @@ function openTeam(g, name) {
   const best = scoring.length ? scoring.reduce((a, b) => b.__gs > a.__gs ? b : a) : null;
   document.getElementById("dBody").innerHTML = `
     <div class="tiles">
-      <button class="tile tile-olr" id="olrBtn" title="See how this rating is calculated"><i class="info" aria-hidden="true">i</i><b class="mono">${fmtR(t.rating)}</b><span>${RATING}</span></button>
+      <div class="tile tile-olr" id="olrTile">
+        <button class="olr-head" id="olrBtn" aria-expanded="false" title="Show how this rating is calculated">
+          <b class="mono">${fmtR(t.rating)}</b><span>${RATING}</span>
+          <svg class="chev" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="olr-body" hidden>${olrBreakdown(g, t)}</div>
+      </div>
       ${PL ? `<div class="tile"><b class="mono">${SEED.fmt(SEED.val(t))}</b><span title="Playoff seeding: ${SEED.name}">${SEED.unit} · seeding</span></div>` : ""}
       <div class="tile"><b class="mono">${fmtR(t.sos)}</b><span title="Strength of schedule">SOS · #${t.sosRank} in ${cl(t.cls)}</span></div>
       <div class="tile"><b class="mono">${recTxt(t)}</b><span>Record · ${pctStr(t)}</span></div>
       <div class="tile"><b class="mono">${t.gf}–${t.ga}</b><span>${C.score.short}</span></div>
     </div>
-    <div id="olrBreak" hidden>${olrBreakdown(g, t)}</div>
     ${t.odds ? `<div class="sect">Odds to reach · 2,000 simulated seasons</div><div class="tiles odds">
       ${[["f8", "Final 8"], ["sf", "Semifinals"], ["fin", "State final"], ["champ", "State champion"]].map(([k, l]) =>
         `<div class="tile"><b class="mono">${pct(t.odds[k])}</b><span>${l}</span></div>`).join("")}</div>` : ""}
@@ -727,7 +732,7 @@ function olrBreakdown(g, t) {
   const result = (total + o.prior * avg) / (n + o.prior);
   const sgn = v => fmtR(v);
   return `<div class="olr-break">
-    <div class="sect">How ${esc(t.school)}'s Old Line Rating is calculated</div>
+    <div class="olr-title">How ${esc(t.school)}'s Old Line Rating is calculated</div>
     <p class="muted">Each game's <b>game score</b> = ${u.replace(/s$/, "")} margin (capped at ±${o.cap})${o.win_bonus ? ` ± ${o.win_bonus} for the win or loss` : ""} + the opponent's Old Line Rating${D.sports[g].home ? " − home edge" : ""}.</p>
     <div class="table-wrap"><table class="olr-table"><thead><tr><th>Date</th><th>Opponent</th><th class="num">Score</th><th class="num">Margin</th>${o.win_bonus ? `<th class="num">Win/loss</th>` : ""}<th class="num">Opp. OLR</th>${D.sports[g].home ? `<th class="num">Home</th>` : ""}<th class="num">Game score</th></tr></thead>
     <tbody>${rows.map(r => `<tr><td>${fmtDate(r.x.date)}</td><td>${r.x.home ? "vs" : "@"} ${esc(r.x.opp)}</td>
@@ -743,9 +748,12 @@ function olrBreakdown(g, t) {
     </div></div>`;
 }
 document.getElementById("dBody").addEventListener("click", e => {
-  if (!e.target.closest("#olrBtn")) return;
-  const box = document.getElementById("olrBreak");
-  box.hidden = !box.hidden;
+  const btn = e.target.closest("#olrBtn");
+  if (!btn) return;
+  const tile = document.getElementById("olrTile"), open = !tile.classList.contains("open");
+  tile.classList.toggle("open", open);
+  tile.querySelector(".olr-body").hidden = !open;
+  btn.setAttribute("aria-expanded", open);
 });
 function closeDrawer() { drawer.classList.remove("open"); drawer.setAttribute("aria-hidden", "true"); scrim.classList.remove("open"); }
 
