@@ -6,7 +6,7 @@ X-WR-CALNAME:Urbana Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-owings-mills-urbana-football@oldlinerankings
-DTSTAMP:20261012T191254Z
+DTSTAMP:20261012T192135Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Urbana at Owings Mills
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Urbana 62\, Owings Mills 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-westminster-urbana-football@oldlinerankings
-DTSTAMP:20261012T191254Z
+DTSTAMP:20261012T192135Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Urbana at Westminster
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Urbana 31\, Westminster 21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-walkersville-urbana-football@oldlinerankings
-DTSTAMP:20261012T191254Z
+DTSTAMP:20261012T192135Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Urbana at Walkersville
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Urbana 8\, Walkersville 37
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-south-river-urbana-football@oldlinerankings
-DTSTAMP:20261012T191254Z
+DTSTAMP:20261012T192135Z
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T203000
 SUMMARY:Football: Urbana at South River
@@ -43,7 +43,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-oakdale-urbana-football@oldlinerankings
-DTSTAMP:20261012T191254Z
+DTSTAMP:20261012T192135Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Urbana at Oakdale
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Urbana 8\, Oakdale 29
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-gov-thomas-johnson-urbana-football@oldlinerankings
-DTSTAMP:20261012T191254Z
+DTSTAMP:20261012T192135Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Urbana at Gov. Thomas Johnson
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Urbana 38\, Gov. Thomas Johnson 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-frederick-urbana-football@oldlinerankings
-DTSTAMP:20261012T191254Z
+DTSTAMP:20261012T192135Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Urbana at Frederick
@@ -70,7 +70,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6792286
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-tuscarora-urbana-football@oldlinerankings
-DTSTAMP:20261012T191254Z
+DTSTAMP:20261012T192135Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Urbana at Tuscarora
@@ -79,7 +79,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6715482
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-linganore-urbana-football@oldlinerankings
-DTSTAMP:20261012T191254Z
+DTSTAMP:20261012T192135Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Urbana at Linganore

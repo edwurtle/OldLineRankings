@@ -15,10 +15,14 @@
 <body>
 <header class="nav">
   <div class="nav-inner">
-    <a class="brand" href="#/">
-      <span class="brand-flag" data-flag></span>
-      <span class="brand-text"><b>Old Line {{sport}} Rankings</b><small>Maryland Public High Schools</small></span>
-    </a>
+    <!-- Breadcrumb brand: Old Line Rankings (splash page) › this sport (its home) -->
+    <div class="brand">
+      <a class="brand-flag" data-flag href="{{root}}" aria-label="Old Line Rankings: all sports"></a>
+      <span class="brand-text">
+        <b class="crumb"><a href="{{root}}">Old Line Rankings</a><span class="sep" aria-hidden="true">›</span><a class="sport" href="#/">{{sport}}</a></b>
+        <small>Maryland Public High Schools</small>
+      </span>
+    </div>
     <nav class="nav-links" id="navLinks"></nav>
   </div>
   <div class="flag-stripe"></div>

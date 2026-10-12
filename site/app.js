@@ -28,10 +28,10 @@ const watchBtn = g => g.watch ? `<a class="watch" href="${esc(g.watch)}" target=
 // GoFan ticket link, only for games that haven't happened yet
 const TODAY = new Date().toLocaleDateString("en-CA");
 const ticketBtn = g => g.tickets && g.date >= TODAY ? `<a class="tix" href="${esc(g.tickets)}" target="_blank" rel="noopener" title="Buy tickets on GoFan">Tickets</a>` : "";
-// Ranking number: MPSSAA points per game (soccer) or the Old Line Ranking (football, C.olr)
+// Ranking number: MPSSAA points per game (soccer) or the Old Line Rating (football, C.olr)
 const OLR = !!C.olr;
-// Every sport's ranking number is its Old Line Ranking; only the formula differs (see How it works)
-const RATING = "Old Line Ranking", RATING_SHORT = "OLR";
+// Every sport's ranking number is its Old Line Rating; only the formula differs (see How it works)
+const RATING = "Old Line Rating", RATING_SHORT = "OLR";
 const fmtR = x => OLR ? (x > 0 ? "+" : x < 0 ? "−" : "") + Math.abs(x).toFixed(1) : x.toFixed(2);
 const pct = x => x >= 99.5 && x < 100 ? ">99%" : x > 0 && x < 0.5 ? "<1%" : Math.round(x) + "%";
 // Chance team a beats b (football): logistic in the OLR difference, home edge from the fit
@@ -124,7 +124,7 @@ function renderHome() {
       <div>
         <div class="eyebrow">Fall ${throughAll.slice(0, 4)} · Maryland Public High School ${MULTI ? Object.values(GENDERS).join(" & ") + " " : ""}${C.sport}</div>
         <h1>Old Line<br><span>${C.sport} Rankings</span></h1>
-        <p>${OLR ? `Every public high school ${C.sport.toLowerCase()} team in the state, ranked by the Old Line Ranking: how much better than average a team is, built from capped scoring margins, wins and the strength of every opponent. MPSSAA playoff points are tracked alongside for seeding.`
+        <p>${OLR ? `Every public high school ${C.sport.toLowerCase()} team in the state, ranked by the Old Line Rating: how much better than average a team is, built from capped scoring margins, wins and the strength of every opponent. MPSSAA playoff points are tracked alongside for seeding.`
           : `Every public high school ${C.sport.toLowerCase()} team in the state, ranked by who they beat. Strength of schedule is built in: a win over a ${CLASSES[0]} team with a winning record counts for more than a win over a winless ${CLASSES[CLASSES.length - 1]} team.`}</p>
         <div class="cta">
           ${DIVS.map((g, i) => `<a class="btn ${i ? "red" : "gold"}" href="#/${g}/All">${MULTI ? GENDERS[g] + " rankings" : "Rankings"} →</a>`).join("")}
@@ -162,14 +162,14 @@ function renderHome() {
 
     <section class="section">
       <div class="section-head">
-        <div><div class="eyebrow">Top of the table</div><h2>Leaders by class</h2><p>The top five in every class by Old Line Ranking.</p></div>
+        <div><div class="eyebrow">Top of the table</div><h2>Leaders by class</h2><p>The top five in every class by Old Line Rating.</p></div>
         ${MULTI ? `<div class="gender-tabs" role="tablist">${Object.entries(GENDERS).map(([g, l]) => `<button data-hg="${g}" aria-selected="${g === homeGender}">${l}</button>`).join("")}</div>` : ""}
       </div>
       <div class="hl-grid" style="--n:${CLASSES.length > 4 ? 3 : CLASSES.length}">${CLASSES.map(c => highlightCard(homeGender, c)).join("")}</div>
     </section>
 
     <section class="section">
-      <div class="section-head"><div><div class="eyebrow">Still perfect</div><h2>Unbeaten ${MULTI ? GENDERS[homeGender] : "teams"}</h2><p>No losses with at least five games played, ordered by Old Line Ranking.</p></div></div>
+      <div class="section-head"><div><div class="eyebrow">Still perfect</div><h2>Unbeaten ${MULTI ? GENDERS[homeGender] : "teams"}</h2><p>No losses with at least five games played, ordered by Old Line Rating.</p></div></div>
       <div class="unbeaten">${D.sports[homeGender].teams.filter(t => t.L === 0 && t.gp >= 5).map(t => `
         <div class="ub" data-team="${esc(t.school)}" data-g="${homeGender}">${logo(t.school, 34)}
           <div><b>${esc(t.school)}</b><br><small>${recTxt(t)} · ${fmtR(t.rating)} ${RATING_SHORT}</small></div>
@@ -198,24 +198,24 @@ function highlightCard(g, c) {
 }
 
 // ---------- how it works ----------
-// Football's page has three sections (Old Line Ranking, MPSSAA points, Final 8); soccer has just the points section.
+// Football's page has three sections (Old Line Rating, MPSSAA points, Final 8); soccer has just the points section.
 const howHead = (eyebrow, title, blurb) => `<div class="section-head"><div><div class="eyebrow">${eyebrow}</div><h2>${title}</h2><p>${blurb}</p></div></div>`;
 function howOLR() {
   const o = C.olr, home = D.sports[DEF].home || 0, spread = 6, p = 1 / (1 + Math.exp(-o.k * spread));
   return `<section class="how-section">
-    ${howHead("The ranking", "Old Line Ranking", "How many points better than an average Maryland public school team a team is, judged by every game it has played.")}
+    ${howHead("The ranking", "Old Line Rating", "How many points better than an average Maryland public school team a team is, judged by every game it has played.")}
     <div class="how-grid">
       <div class="how-card w"><div class="k">Margin</div><h4>Capped at ${o.cap}</h4><p>Each game counts the scoring margin, capped at ${o.cap} points (just under the 35-point running clock), so running up the score doesn't help.</p></div>
       <div class="how-card w"><div class="k">Result</div><h4>±${o.win_bonus} for the win</h4><p>A win adds ${o.win_bonus} points and a loss subtracts ${o.win_bonus}, so a close win counts well ahead of a close loss.</p></div>
-      <div class="how-card w"><div class="k">Opponents</div><h4>Strength built in</h4><p>A team's rating is its average game score plus the average rating of the teams it played, solved for every team at once. Beating a good team is worth more, by exactly how good it is.</p></div>
+      <div class="how-card w"><div class="k">Opponents</div><h4>Strength built in</h4><p>A team's Old Line Rating is its average game score plus the average Old Line Rating of the teams it played, solved for every team at once. Beating a good team is worth more, by exactly how good it is.</p></div>
     </div>
-    <div class="example"><b>Reading it:</b> +14 means about 14 points better than an average team. The difference between two ratings works like a point spread:
+    <div class="example"><b>Reading it:</b> +14 means about 14 points better than an average team. The difference between two Old Line Ratings works like a point spread:
       a +20 team is about a ${spread}-point favorite over a +14 team, roughly a ${Math.round(100 * p)}% chance to win. Those chances drive the projected Final 8 bracket and each team's Final 8 odds.</div>
-    <div class="example"><b>Strength of schedule (SOS):</b> the average Old Line Ranking of the teams a team has played.</div>
-    <div class="example"><b>Fine print:</b> Every rating is pulled toward its class average by ${o.prior} games' worth, so two big early wins don't make a team No. 1.
+    <div class="example"><b>Strength of schedule (SOS):</b> the average Old Line Rating of the teams a team has played.</div>
+    <div class="example"><b>Fine print:</b> Every Old Line Rating is pulled toward its class average by ${o.prior} games' worth, so two big early wins don't make a team No. 1.
       Home field is measured from this season's results (currently ${home ? "+" + home.toFixed(1) + " points" : "no measurable edge"}).
       Out-of-state and private opponents are rated from their games against Maryland teams. Forfeits count as a win or loss with no margin.
-      Tested on 2026 weeks 3–6 using only earlier games, the Old Line Ranking picked 75% of winners versus 70% for MPSSAA points.</div>
+      Tested on 2026 weeks 3–6 using only earlier games, the Old Line Rating picked 75% of winners versus 70% for MPSSAA points.</div>
   </section>`;
 }
 function howFinal8() {
@@ -230,10 +230,10 @@ function howFinal8() {
          The two survivors from each region reach the state quarterfinals (the Final 8), which are reseeded 1–8 by MPSSAA points.`}
       Head-to-head tiebreakers are not applied.</div>
     <div class="example"><b>Current:</b> today's seeds and first-round matchups for every region. Later rounds and the Final 8 bracket stay empty until games are played.</div>
-    <div class="example"><b>Projected:</b> every remaining game, regular season and playoffs, goes to the team with the higher Old Line Ranking, and teams are seeded by
+    <div class="example"><b>Projected:</b> every remaining game, regular season and playoffs, goes to the team with the higher Old Line Rating, and teams are seeded by
       the ${SEED.name} those results produce, the way the MPSSAA seeds.${OLR ? " The % next to each team is its chance to win that game." : ""}</div>
     ${OLR ? `<div class="example"><b>Final 8 odds:</b> every team makes its region playoffs (no region has more than ${pl.region_seeds} teams), so the question is how far it goes.
-      The rest of the season and the playoffs are simulated 2,000 times, each game decided by the Old Line Ranking win chance. A team's Final 8 odds are the share of
+      The rest of the season and the playoffs are simulated 2,000 times, each game decided by the Old Line Rating win chance. A team's Final 8 odds are the share of
       simulations in which it wins its two region games; its team page also shows its odds of reaching the semifinals and state final and of winning the title.</div>` : ""}
   </section>`;
 }
@@ -250,8 +250,8 @@ function renderHow() {
   <section class="page-head"><div class="wrap">
     <div class="crumbs"><a href="#/">Home</a><span>/</span><span>How it works</span></div>
     <h1>How the <span>rankings</span> work</h1>
-    <div class="sub">${OLR ? "Every team has two numbers. The <b>Old Line Ranking</b> ranks the teams. <b>MPSSAA points</b> are the state's own formula, used to seed the playoffs."
-      : "Every game earns points. A team's Old Line Ranking is its total points divided by games played, and teams are ranked by it within their class."}</div>
+    <div class="sub">${OLR ? "Every team has two numbers. The <b>Old Line Rating</b> ranks the teams. <b>MPSSAA points</b> are the state's own formula, used to seed the playoffs."
+      : "Every game earns points. A team's Old Line Rating is its total points divided by games played, and teams are ranked by it within their class."}</div>
   </div></section>
   <div class="wrap how-page">
     ${OLR ? howOLR() : ""}
@@ -268,12 +268,12 @@ function renderHow() {
         The Old Line ${C.sport} Rankings are modeled on the MPSSAA's football seeding system (class win points plus opponent wins), so strength of schedule counts.</div>`}
       <div class="example">
         <b>Example:</b> A team beats a ${cl(ex.cls)} opponent that is ${recTxt(ex)} on the season. That win is worth <b>${exPts} + ${n2(exW)} = ${n2(exPts + exW)}</b> points.${C.ties ? ` Had it been a tie, it would be worth <b>${n2((exPts + exW) / 2)}</b>.` : ""}
-        Each team's ${OLR ? "MPSSAA average" : "Old Line Ranking"} is its total ${unit} divided by games played${OLR ? "." : ", and teams are ranked within their class."}
+        Each team's ${OLR ? "MPSSAA average" : "Old Line Rating"} is its total ${unit} divided by games played${OLR ? "." : ", and teams are ranked within their class."}
       </div>
       ${OLR ? "" : `<div class="example">
-        <b>Strength of schedule (SOS):</b> the rating a team would have if it had won every game it played, i.e. the average of
+        <b>Strength of schedule (SOS):</b> the Old Line Rating a team would have if it had won every game it played, i.e. the average of
         (opponent class points + opponent wins) across its schedule. It measures how tough the schedule is regardless of results.
-        Comparing a team's rating to its SOS shows how much of the available credit it actually earned.
+        Comparing a team's Old Line Rating to its SOS shows how much of the available credit it actually earned.
       </div>`}
       <div class="example">
         <b>Fine print:</b> Opponent win totals are for the full season to date, so ${unit} keep changing as opponents play more games.
@@ -295,7 +295,7 @@ function renderRank(r) {
   <section class="page-head"><div class="wrap">
     <div class="crumbs"><a href="#/">Home</a><span>/</span><a href="#/${r.g}/All">${GENDERS[r.g]}</a><span>/</span><span>${r.c === "All" ? "All classes" : "Class " + cl(r.c)}</span></div>
     <h1>${title}</h1>
-    <div class="sub">${ts.length} teams · games through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})} · ranked by Old Line Ranking</div>
+    <div class="sub">${ts.length} teams · games through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})} · ranked by Old Line Rating</div>
     <div class="switches">
       ${MULTI ? `<div class="pill-group ${r.g !== DEF ? "red" : ""}">${Object.entries(GENDERS).map(([g, l]) => `<a class="${g === r.g ? "on" : ""}" href="${href({...r, g, team: null})}">${l}</a>`).join("")}</div>` : ""}
       <div class="pill-group">${[...CLASSES, "All"].map(c => `<a class="${c === r.c ? "on" : ""}" href="${href({...r, c, team: null})}">${cl(c)}</a>`).join("")}</div>
@@ -311,7 +311,7 @@ function renderRank(r) {
         <label class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
           <input id="q" type="search" placeholder="Search teams, mascots, counties…" autocomplete="off" value="${esc(query)}"></label>
         <label class="sortsel">Sort by <select id="sortSel">
-          <option value="rank">Old Line Ranking</option>${OLR ? `<option value="avg">MPSSAA points</option>` : ""}<option value="record">Record (win %)</option>
+          <option value="rank">Old Line Rating</option>${OLR ? `<option value="avg">MPSSAA points</option>` : ""}<option value="record">Record (win %)</option>
           <option value="sos">Strength of schedule</option><option value="pts">${OLR ? "Total MPSSAA points" : "Total points"}</option><option value="gd">${C.score.name}</option><option value="school">Team name</option>
         </select></label>
       </div>
@@ -360,9 +360,9 @@ function renderList(r, ts) {
     {key: "gp", label: "GP", cls: "num hide-md"}, {key: "gd", label: C.score.short, cls: "num hide-md"},
     {key: "pts", label: OLR ? "MPSSAA total" : "Points", cls: "num hide-lg"},
     ...(OLR ? [{key: "avg", label: "MPSSAA avg", cls: "num hide-sm", title: "MPSSAA playoff points per game (used for seeding)"}] : []),
-    {key: "sos", label: "SOS", cls: "num hide-xs", title: OLR ? "Strength of schedule: average Old Line Ranking of opponents played"
+    {key: "sos", label: "SOS", cls: "num hide-xs", title: OLR ? "Strength of schedule: average Old Line Rating of opponents played"
       : "Strength of schedule: average points per game if every game had been a win"},
-    {key: "rating", label: "OLR", cls: "num", title: OLR ? "Old Line Ranking: points better than an average team" : "Old Line Ranking: points per game"},
+    {key: "rating", label: "OLR", cls: "num", title: OLR ? "Old Line Rating: points better than an average team" : "Old Line Rating: points per game"},
   ];
   el.innerHTML = `<div class="table-wrap"><table><thead><tr>${cols.map(c =>
     `<th class="${c.cls || ""} ${sort.key === c.key ? "active" : ""}" data-sort="${c.key}"${c.title ? ` title="${c.title}"` : ""}>${c.label}<span class="arrow">${sort.key === c.key ? (sort.dir > 0 ? "▲" : "▼") : "↕"}</span></th>`).join("")}
@@ -397,12 +397,12 @@ function setSort(key, toggle) {
 //             each region plays down to one champion, and the 8 champions make the Final 8.
 // The Final 8 is reseeded 1-8 by the same number. Current: the top seeds advance and only the
 // quarterfinals are filled in. Projected: seeds from t.proj (rest of the season played out), and every
-// playoff game goes to the team with the higher Old Line Ranking.
+// playoff game goes to the team with the higher Old Line Rating.
 const PL = C.playoffs;
 const SEED = PL && PL.seed_by === "winpct"
   ? {name: "winning percentage", label: "Win %", val: x => (x.W + 0.5 * x.T) / Math.max(x.gp, PL.min_games), fmt: v => v.toFixed(3).replace(/^0/, "")}
   : {name: "MPSSAA points", label: "MPSSAA", val: x => x.avg, fmt: v => v.toFixed(2)};
-// Views: "current", and "projected" (every remaining game goes to the higher Old Line Ranking; t.proj).
+// Views: "current", and "projected" (every remaining game goes to the higher Old Line Rating; t.proj).
 const F8_VIEWS = {current: "Current", projected: "Projected"};
 function seeding(g, c, view) {
   const projected = view !== "current";
@@ -430,7 +430,7 @@ const BYE = {bye: true};
 const isTeam = x => x && x.school;
 // Standard 8-line bracket over seeds (best first): 1v8, 4v5, 2v7, 3v6, then winners. Returns every round
 // as games {a, b, p, w} in bracket order; a is the higher seed (hosts). With pick(a, b) -> {p, w}, w is the
-// predicted winner (p = chance a wins, Old Line Ranking only); without it only byes advance, others are TBD.
+// predicted winner (p = chance a wins, Old Line Rating only); without it only byes advance, others are TBD.
 function playBracket(seeds, rounds, pick) {
   const rank = x => isTeam(x) || (x && x.label) ? seeds.indexOf(x) : Infinity;
   let slots = [1, 8, 4, 5, 2, 7, 3, 6].map(i => seeds[i - 1] || BYE);
@@ -485,7 +485,7 @@ function renderFinal8(r) {
     return `<div class="slot ${cls}" data-team="${esc(x.school)}"><span class="seed mono">${seedOf(x)}</span>${logo(x.school, 24)}
       <span class="nm" title="${esc(x.school)}">${esc(x.school)}<small>${mini ? `${projected ? "proj " : ""}${recTxt(val(x))} · ${SEED.fmt(SEED.val(val(x)))}`
         : `${esc(x.region)} · ${recLine(x)} · ${seedTxt(x)}`}</small></span>
-      <span class="avg mono" title="Chance to win this game (Old Line Ranking)">${p == null ? "" : pct(100 * p)}</span></div>`;
+      <span class="avg mono" title="Chance to win this game (Old Line Rating)">${p == null ? "" : pct(100 * p)}</span></div>`;
   };
   const stateSeed = t => final8.indexOf(t) + 1;
   // Region play: each region's own bracket
@@ -507,7 +507,7 @@ function renderFinal8(r) {
     <div class="crumbs"><a href="#/">Home</a><span>/</span><span>Final 8</span><span>/</span><span>${divName(r.g, r.c)}</span></div>
     <h1>${divName(r.g, r.c)} <span>Final 8</span></h1>
     <div class="sub">${projected
-      ? `Projected: higher Old Line Ranking wins every game · seeded by ${SEED.name}.`
+      ? `Projected: higher Old Line Rating wins every game · seeded by ${SEED.name}.`
       : `Current: seeds from ${SEED.name} through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})}. Switch to Projected to see predicted games and winners.`}</div>
     <div class="switches">
       ${MULTI ? `<div class="pill-group ${r.g !== DEF ? "red" : ""}">${Object.entries(GENDERS).map(([g, l]) => `<a class="${g === r.g ? "on" : ""}" href="${href({...r, g, team: null})}">${l}</a>`).join("")}</div>` : ""}
@@ -596,7 +596,7 @@ function upcomingRow(g, t, u) {
     <div class="when"><small>${d.toLocaleDateString(undefined, {weekday: "short"})}</small><b class="mono">${d.getDate()}</b></div>${logo(u.opp, 34)}
     <div><div class="opp">${u.home ? "vs" : "@"} ${name}</div>
       <div class="det"><span>${fmtDate(u.date)}</span>${ctag}${orec}${status}</div></div>
-    <div class="right"><div class="links">${watchBtn(u)}${ticketBtn(u)}</div>${OLR ? `<div class="prob mono" title="Chance to win (Old Line Ranking)">${pct(100 * winProb(g, t.school, u.opp, u.home ? 1 : -1))} to win</div>` : ""}<div class="pts">win worth</div><div class="mono worth">${n2(worth)} <span class="pts">pts</span></div></div>
+    <div class="right"><div class="links">${watchBtn(u)}${ticketBtn(u)}</div>${OLR ? `<div class="prob mono" title="Chance to win (Old Line Rating)">${pct(100 * winProb(g, t.school, u.opp, u.home ? 1 : -1))} to win</div>` : ""}<div class="pts">win worth</div><div class="mono worth">${n2(worth)} <span class="pts">pts</span></div></div>
   </div>`;
 }
 function closeDrawer() { drawer.classList.remove("open"); drawer.setAttribute("aria-hidden", "true"); scrim.classList.remove("open"); }

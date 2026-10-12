@@ -14,12 +14,12 @@ redirect to the right soccer site.
 - **Loss:** 0
 - Opponent wins count their ties as half a win. Non-public / out-of-state opponents = lowest class, 0 wins.
 - Football counts only the first meeting between two teams (MPSSAA football bulletin).
-- Soccer's Old Line Ranking = total points ÷ games played, ranked within class. For football the same formula
-  is the MPSSAA points (football's Old Line Ranking is margin-based; see below).
+- Soccer's Old Line Rating = total points ÷ games played, ranked within class. For football the same formula
+  is the MPSSAA points (football's Old Line Rating is margin-based; see below).
 - SOS (strength of schedule) = the rating a team would have if it had won every game.
 
-## Old Line Ranking (football)
-Football is ranked by the Old Line Ranking (`scripts/oldline.py`); MPSSAA points are kept for seeding.
+## Old Line Rating (football)
+Football is ranked by the Old Line Rating (`scripts/oldline.py`); MPSSAA points are kept for seeding.
 - Each game counts the scoring margin capped at 28, plus 4 for a win (minus 4 for a loss).
 - A team's rating is its average game value plus its opponents' average rating, solved for all teams at
   once, pulled toward its class average by 3 games' worth. Home edge is measured from the data (floored at 0).
@@ -35,7 +35,7 @@ Each sport seeds the way its MPSSAA bulletin says (`playoffs` in `SITES`):
 The Final 8 is reseeded 1–8 by the same number. The page shows each region's mini bracket, then the state bracket:
 - **Current:** today's seeds and first-round matchups only; later rounds and the Final 8 bracket stay empty.
 - **Projected:** the rest of the regular season and every playoff game go to the favorite and every game is shown.
-  Every remaining game goes to the team with the higher Old Line Ranking (football also shows each team's win chance).
+  Every remaining game goes to the team with the higher Old Line Rating (football also shows each team's win chance).
 - **Final 8 odds (football):** every team makes its region playoffs (regions have at most 8 teams), so odds measure how
   far it goes (Final 8, semifinals, state final, title), from 2,000 simulated seasons and playoffs.
 
@@ -52,7 +52,7 @@ the team drawer (live or replay). If NFHS can't be reached the build continues w
   (divisions, classes and points, regions, labels) live in its `SITES` config and are passed to `app.js`.
 - `scripts/page.html` — page template for every sport; `scripts/splash.html` — splash template
   (edit these, not the generated `index.html` files). Add coming-soon sports to `COMING` in `build.py`.
-- `scripts/oldline.py` — Old Line Ranking and simulations; `scripts/nfhs.py` — watch links; `scripts/icons.py` — sport icons
+- `scripts/oldline.py` — Old Line Rating and simulations; `scripts/nfhs.py` — watch links; `scripts/icons.py` — sport icons
 - `scripts/schools.py` — downloads school logos, mascots and counties (needs Pillow: `.venv`)
 
 ## Update

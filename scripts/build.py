@@ -2,7 +2,7 @@
 """Fetch results and write rankings for each site (site/football/, site/boys-soccer/, site/girls-soccer/)
 and the splash page (site/).
 
-Points per game (soccer's Old Line Ranking; for football the same formula is the MPSSAA points):
+Points per game (soccer's Old Line Rating; for football the same formula is the MPSSAA points):
   win  = opponent class points (soccer: 1A=5 .. 4A=8; football: MPSSAA seeding values 6/7/8)
          + opponent's season wins
   tie  = half of what a win would have earned
@@ -12,7 +12,7 @@ the state association count as the lowest class with 0 wins. Teams are ranked by
 points per game played. Strength of schedule (SOS) is the average a team
 would have earned had it won every game.
 
-Football is ranked by the Old Line Ranking instead (see oldline.py); its MPSSAA points are kept
+Football is ranked by the Old Line Rating instead (see oldline.py); its MPSSAA points are kept
 for playoff seeding.
 """
 import collections, datetime, html, json, pathlib, re, subprocess
@@ -24,7 +24,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 # Boys and girls soccer are separate sites that share everything but the division
 SOCCER = dict(
     icon="soccer", season="Fall", activity="Soccer",   # activity: the sport's name on NFHS Network / GoFan
-    ranked_by="Old Line Ranking: points per game from opponent class + opponent wins",
+    ranked_by="Old Line Rating: points per game from opponent class + opponent wins",
     classes={"4A": 8, "3A": 7, "2A": 6, "1A": 5},
     regions=["East I", "East II", "North I", "North II", "South I", "South II", "West I", "West II"],
     score=dict(short="GF–GA", name="Goal difference", plural="goals"),
@@ -38,7 +38,7 @@ SOCCER = dict(
 SITES = {
     "football": dict(
         out="site/football", sport="Football", icon="football", season="Fall",
-        ranked_by="Old Line Ranking: capped scoring margins + opponent strength",
+        ranked_by="Old Line Rating: capped scoring margins + opponent strength",
         divisions={"football": dict(label="Football", api="football", gender="Boys")},
         # MPSSAA football seeding win points (Football Tournament Bulletin, "Classification Win Points")
         classes={"4A": 8, "4A_3A": 8, "3A": 7, "2A": 7, "2A_1A": 6, "1A": 6},
@@ -49,7 +49,7 @@ SITES = {
         # Football bulletin: region top 8 by MPSSAA points play two rounds; two per region reach the
         # 8-team state quarterfinal, reseeded by MPSSAA points
         playoffs=dict(seed_by="mpssaa", region_seeds=8, per_region=2), first_meeting_only=True,
-        # Old Line Ranking: margin capped at 28 (under the 35-point running clock), 4-point win bonus,
+        # Old Line Rating: margin capped at 28 (under the 35-point running clock), 4-point win bonus,
         # pulled toward class average by 3 games' worth; k = win-probability scale per rating point.
         # Backtested on 2026 weeks 3-6 (games after the week-2 fit): picks 75% of winners vs 70% for MPSSAA points.
         # ladder: class averages pulled toward an even class ladder by 50 games' worth (backtest: better

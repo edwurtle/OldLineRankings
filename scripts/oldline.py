@@ -1,4 +1,4 @@
-"""Old Line Ranking (OLR) and season/playoff simulation for football.
+"""Old Line Rating (OLR) and season/playoff simulation for football.
 
 OLR is a margin-based rating: each game is worth the capped point margin plus a bonus for the
 win (minus for the loss). Ratings are solved jointly so that, across a team's games,
