@@ -6,7 +6,7 @@ X-WR-CALNAME:Bohemia Manor Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-bohemia-manor-edgewood-boys-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20260908T170000
 DTEND;TZID=America/New_York:20260908T190000
 SUMMARY:Boys Soccer: Edgewood at Bohemia Manor
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gam04681
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-bohemia-manor-north-east-c-boys-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: North East-C at Bohemia Manor
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Bohemia Manor 1\, North East-C 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-bohemia-manor-elkton-boys-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20260915T153000
 DTEND;TZID=America/New_York:20260915T173000
 SUMMARY:Boys Soccer: Elkton at Bohemia Manor
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-havre-de-grace-bohemia-manor-boys-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Boys Soccer: Bohemia Manor at Havre de Grace
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-bohemia-manor-kennett-pa-boys-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20260918T153000
 DTEND;TZID=America/New_York:20260918T173000
 SUMMARY:Boys Soccer: Kennett-PA at Bohemia Manor
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-bohemia-manor-perryville-boys-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T190000
 SUMMARY:Boys Soccer: Perryville at Bohemia Manor
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gamf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-bohemia-manor-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20260930T153000
 DTEND;TZID=America/New_York:20260930T173000
 SUMMARY:Boys Soccer: Aberdeen at Bohemia Manor
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-bohemia-manor-rising-sun-boys-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Boys Soccer: Rising Sun at Bohemia Manor
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-bohemia-manor-tome-private-boys-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20261008T153000
 DTEND;TZID=America/New_York:20261008T173000
 SUMMARY:Boys Soccer: Tome-Private at Bohemia Manor
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-joppatowne-bohemia-manor-boys-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20261013T180000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Boys Soccer: Bohemia Manor at Joppatowne
@@ -105,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-bohemia-manor-tri-state-private-boys-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Tri State-Private at Bohemia Manor

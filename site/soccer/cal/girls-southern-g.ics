@@ -6,7 +6,7 @@ X-WR-CALNAME:Southern-G Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-southern-g-wv-elkins-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Girls Soccer: WV-Elkins at Southern-G
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Southern-G 6\, WV-Elkins 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-fort-hill-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20260916T180000
 DTEND;TZID=America/New_York:20260916T200000
 SUMMARY:Girls Soccer: Southern-G at Fort Hill
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam0c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-southern-g-wv-keyser-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20260922T180000
 DTEND;TZID=America/New_York:20260922T200000
 SUMMARY:Girls Soccer: WV-Keyser at Southern-G
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-northern-g-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20260924T193000
 DTEND;TZID=America/New_York:20260924T213000
 SUMMARY:Girls Soccer: Southern-G at Northern-G
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-allegany-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
 SUMMARY:Girls Soccer: Southern-G at Allegany
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam555
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-mountain-ridge-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Girls Soccer: Southern-G at Mountain Ridge
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-northern-g-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20261005T190000
 DTEND;TZID=America/New_York:20261005T210000
 SUMMARY:Girls Soccer: Southern-G at Northern-G
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-southern-g-catoctin-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Girls Soccer: Catoctin at Southern-G
@@ -83,7 +83,7 @@ LOCATION:Southern-G
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-southern-g-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Girls Soccer: North Hagerstown at Southern-G
@@ -91,7 +91,7 @@ LOCATION:Southern-G
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-southern-g-wv-berkeley-springs-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Girls Soccer: WV-Berkeley Springs at Southern-G
@@ -101,7 +101,7 @@ URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-allegany-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Girls Soccer: Southern-G at Allegany
@@ -111,7 +111,7 @@ URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-mountain-ridge-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20261019T180000
 DTEND;TZID=America/New_York:20261019T200000
 SUMMARY:Girls Soccer: Southern-G at Mountain Ridge
@@ -121,7 +121,7 @@ URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-fort-hill-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20261021T180000
 DTEND;TZID=America/New_York:20261021T200000
 SUMMARY:Girls Soccer: Southern-G at Fort Hill

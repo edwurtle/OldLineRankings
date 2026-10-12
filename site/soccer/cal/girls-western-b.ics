@@ -6,7 +6,7 @@ X-WR-CALNAME:Western-B Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-14-paul-laurence-dunbar-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Western-B at Paul Laurence Dunbar
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Western-B 4\, Paul Laurence Dunbar 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-national-academy-foundation-naf-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Girls Soccer: Western-B at National Academy Foundation (NAF)
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Western-B 0\, National Academy Foundation (NAF) 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-baltimore-polytechnic-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20260923T154500
 DTEND;TZID=America/New_York:20260923T174500
 SUMMARY:Girls Soccer: Western-B at Baltimore Polytechnic
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/western-high-school-baltimore-md-2/gamead
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-edmondson-westside-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Girls Soccer: Western-B at Edmondson-Westside
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Western-B 5\, Edmondson-Westside 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-patterson-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20261007T154500
 DTEND;TZID=America/New_York:20261007T174500
 SUMMARY:Girls Soccer: Western-B at Patterson
@@ -53,7 +53,7 @@ URL:https://www.nfhsnetwork.com/events/western-high-school-baltimore-md-2/gama28
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-baltimore-city-college-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;TZID=America/New_York:20261012T154500
 DTEND;TZID=America/New_York:20261012T174500
 SUMMARY:Girls Soccer: Western-B at Baltimore City College
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/western-high-school-baltimore-md-2/gam249
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-paul-laurence-dunbar-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Western-B at Paul Laurence Dunbar
@@ -71,7 +71,7 @@ LOCATION:Paul Laurence Dunbar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-digital-harbor-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T183934Z
+DTSTAMP:20261012T184032Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Girls Soccer: Western-B at Digital Harbor
