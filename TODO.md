@@ -12,3 +12,7 @@
    add-to-calendar; clicking a team opens a full team page (ratings, odds, full schedule, "Subscribe to
    schedule"). Data is ready: games carry `time`, `watch`, `tickets`; each team has `cal` (a nightly-rebuilt
    `.ics` under `site/<sport>/cal/`). Front end still to build.
+4. **Search visibility (Google, other search engines, AI assistants)**: per-page titles/descriptions,
+   `sitemap.xml` + `robots.txt`, structured data (schema.org SportsEvent / SportsTeam), crawlable
+   per-team URLs (hash routes like `#/team/...` aren't indexed: needs real paths or pre-rendered pages),
+   an `llms.txt` summary, and submit to Google Search Console / Bing Webmaster Tools once the domain is live.
