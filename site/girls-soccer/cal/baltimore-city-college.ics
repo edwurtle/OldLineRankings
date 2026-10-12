@@ -6,7 +6,7 @@ X-WR-CALNAME:Baltimore City College Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-paul-laurence-dunbar-baltimore-city-college-girls-soccer@oldlinerankings
-DTSTAMP:20261012T233457Z
+DTSTAMP:20261012T234301Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Girls Soccer: Baltimore City College at Paul Laurence Dunbar
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Baltimore City College 8\, Paul Laurence Dunbar 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-winters-mill-baltimore-city-college-girls-soccer@oldlinerankings
-DTSTAMP:20261012T233457Z
+DTSTAMP:20261012T234301Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Baltimore City College at Winters Mill
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Baltimore City College 0\, Winters Mill 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-baltimore-city-college-digital-harbor-girls-soccer@oldlinerankings
-DTSTAMP:20261012T233457Z
+DTSTAMP:20261012T234301Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Girls Soccer: Digital Harbor at Baltimore City College
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Baltimore City College 4\, Digital Harbor 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-baltimore-city-college-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261012T233457Z
+DTSTAMP:20261012T234301Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Milford Mill Academy at Baltimore City College
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Baltimore City College 14\, Milford Mill Academy 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-national-academy-foundation-naf-baltimore-city-college-girls-soccer@oldlinerankings
-DTSTAMP:20261012T233457Z
+DTSTAMP:20261012T234301Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Girls Soccer: Baltimore City College at National Academy Foundation (NAF)
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Baltimore City College 7\, National Academy Foundation (NAF) 
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-baltimore-city-college-baltimore-polytechnic-girls-soccer@oldlinerankings
-DTSTAMP:20261012T233457Z
+DTSTAMP:20261012T234301Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: Baltimore Polytechnic at Baltimore City College
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Baltimore City College 0\, Baltimore Polytechnic 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-edmondson-westside-baltimore-city-college-girls-soccer@oldlinerankings
-DTSTAMP:20261012T233457Z
+DTSTAMP:20261012T234301Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Girls Soccer: Baltimore City College at Edmondson-Westside
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Baltimore City College 11\, Edmondson-Westside 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-baltimore-city-college-md-roland-park-country-girls-soccer@oldlinerankings
-DTSTAMP:20261012T233457Z
+DTSTAMP:20261012T234301Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Girls Soccer: MD- Roland Park Country at Baltimore City College
@@ -78,7 +78,7 @@ DESCRIPTION:Final: Baltimore City College 0\, MD- Roland Park Country 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-baltimore-city-college-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T233457Z
+DTSTAMP:20261012T234301Z
 DTSTART;TZID=America/New_York:20261012T154500
 DTEND;TZID=America/New_York:20261012T174500
 SUMMARY:Girls Soccer: Western-B at Baltimore City College
@@ -88,7 +88,7 @@ URL:https://www.nfhsnetwork.com/events/western-high-school-baltimore-md-2/gam249
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-baltimore-city-college-patterson-girls-soccer@oldlinerankings
-DTSTAMP:20261012T233457Z
+DTSTAMP:20261012T234301Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Patterson at Baltimore City College
@@ -96,7 +96,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-towson-baltimore-city-college-girls-soccer@oldlinerankings
-DTSTAMP:20261012T233457Z
+DTSTAMP:20261012T234301Z
 DTSTART;TZID=America/New_York:20261020T160000
 DTEND;TZID=America/New_York:20261020T180000
 SUMMARY:Girls Soccer: Baltimore City College at Towson
@@ -106,7 +106,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gamda243a3a5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-sparrows-point-baltimore-city-college-girls-soccer@oldlinerankings
-DTSTAMP:20261012T233457Z
+DTSTAMP:20261012T234301Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: Baltimore City College at Sparrows Point
