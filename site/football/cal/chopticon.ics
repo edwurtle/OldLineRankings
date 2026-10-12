@@ -6,7 +6,7 @@ X-WR-CALNAME:Chopticon Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-northern-c-chopticon-football@oldlinerankings
-DTSTAMP:20261012T202609Z
+DTSTAMP:20261012T203002Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Chopticon at Northern-C
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Chopticon 18\, Northern-C 52
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-westlake-chopticon-football@oldlinerankings
-DTSTAMP:20261012T202609Z
+DTSTAMP:20261012T203002Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Chopticon at Westlake
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam9038d5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-thomas-stone-chopticon-football@oldlinerankings
-DTSTAMP:20261012T202609Z
+DTSTAMP:20261012T203002Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Chopticon at Thomas Stone
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Chopticon 21\, Thomas Stone 13
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-st-charles-chopticon-football@oldlinerankings
-DTSTAMP:20261012T202609Z
+DTSTAMP:20261012T203002Z
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T130000
 SUMMARY:Football: Chopticon at St. Charles
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gam1eff
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-calvert-chopticon-football@oldlinerankings
-DTSTAMP:20261012T202609Z
+DTSTAMP:20261012T203002Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Chopticon at Calvert
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Chopticon 0\, Calvert 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-huntingtown-chopticon-football@oldlinerankings
-DTSTAMP:20261012T202609Z
+DTSTAMP:20261012T203002Z
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
 SUMMARY:Football: Chopticon at Huntingtown
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-chopticon-great-mills-football@oldlinerankings
-DTSTAMP:20261012T202609Z
+DTSTAMP:20261012T203002Z
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T200000
 SUMMARY:Football: Great Mills at Chopticon
@@ -72,7 +72,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6841479
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-chopticon-leonardtown-football@oldlinerankings
-DTSTAMP:20261012T202609Z
+DTSTAMP:20261012T203002Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Leonardtown at Chopticon
@@ -81,7 +81,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6779751
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-la-plata-chopticon-football@oldlinerankings
-DTSTAMP:20261012T202609Z
+DTSTAMP:20261012T203002Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Chopticon at La Plata

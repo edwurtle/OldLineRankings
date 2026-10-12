@@ -6,7 +6,7 @@ X-WR-CALNAME:North County Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-glen-burnie-north-county-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: North County at Glen Burnie
@@ -15,7 +15,7 @@ DESCRIPTION:Final: North County 1\, Glen Burnie 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-chesapeake-aa-north-county-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: North County at Chesapeake-AA
@@ -24,7 +24,7 @@ DESCRIPTION:Final: North County 0\, Chesapeake-AA 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-north-county-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Annapolis at North County
@@ -33,7 +33,7 @@ DESCRIPTION:Final: North County 4\, Annapolis 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-arundel-north-county-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: North County at Arundel
@@ -42,7 +42,7 @@ DESCRIPTION:Final: North County 0\, Arundel 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-north-county-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: Crofton at North County
@@ -52,7 +52,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamf5eb9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-southern-aa-north-county-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: North County at Southern-AA
@@ -61,7 +61,7 @@ DESCRIPTION:Final: North County 1\, Southern-AA 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-severna-park-north-county-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: North County at Severna Park
@@ -71,7 +71,7 @@ URL:https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-old-mill-north-county-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: North County at Old Mill
@@ -80,7 +80,7 @@ DESCRIPTION:Final: North County 1\, Old Mill 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-north-county-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Broadneck at North County
@@ -90,7 +90,7 @@ URL:https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gamf07
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-severn-run-north-county-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
 SUMMARY:Girls Soccer: North County at Severn Run
@@ -99,7 +99,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6860793
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-northeast-aa-north-county-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Girls Soccer: North County at Northeast-AA
@@ -109,7 +109,7 @@ URL:https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-south-river-north-county-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Girls Soccer: North County at South River

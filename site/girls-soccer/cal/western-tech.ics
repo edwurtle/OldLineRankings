@@ -6,7 +6,7 @@ X-WR-CALNAME:Western Tech Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-western-tech-pikesville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20260908T160000
 DTEND;TZID=America/New_York:20260908T180000
 SUMMARY:Girls Soccer: Pikesville at Western Tech
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/pikesville-high-school-baltimore-md/gama9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-western-tech-woodlawn-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Woodlawn at Western Tech
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Western Tech 9\, Woodlawn 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-western-tech-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Patapsco at Western Tech
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Western Tech 0\, Patapsco 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-loch-raven-western-tech-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Girls Soccer: Western Tech at Loch Raven
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Western Tech 1\, Loch Raven 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-western-tech-digital-harbor-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Digital Harbor at Western Tech
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Western Tech 3\, Digital Harbor 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-western-tech-chesapeake-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Chesapeake-B at Western Tech
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Western Tech 6\, Chesapeake-B 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-western-tech-pikesville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Pikesville at Western Tech
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Western Tech 0\, Pikesville 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-western-tech-lansdowne-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Lansdowne at Western Tech
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Western Tech 1\, Lansdowne 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-western-tech-owings-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Owings Mills at Western Tech
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Western Tech 7\, Owings Mills 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-western-tech-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Milford Mill Academy at Western Tech
@@ -96,7 +96,7 @@ LOCATION:Western Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-western-tech-parkville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: Parkville at Western Tech

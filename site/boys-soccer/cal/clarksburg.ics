@@ -6,7 +6,7 @@ X-WR-CALNAME:Clarksburg Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-sherwood-clarksburg-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20260904T191500
 DTEND;TZID=America/New_York:20260904T211500
 SUMMARY:Boys Soccer: Clarksburg at Sherwood
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gamb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-clarksburg-montgomery-blair-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20260909T191500
 DTEND;TZID=America/New_York:20260909T211500
 SUMMARY:Boys Soccer: Montgomery Blair at Clarksburg
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-watkins-mill-clarksburg-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20260915T191500
 DTEND;TZID=America/New_York:20260915T211500
 SUMMARY:Boys Soccer: Clarksburg at Watkins Mill
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-damascus-clarksburg-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20260917T191500
 DTEND;TZID=America/New_York:20260917T211500
 SUMMARY:Boys Soccer: Clarksburg at Damascus
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gamb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-poolesville-clarksburg-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20260924T191500
 DTEND;TZID=America/New_York:20260924T211500
 SUMMARY:Boys Soccer: Clarksburg at Poolesville
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gam2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-clarksburg-seneca-valley-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Seneca Valley at Clarksburg
@@ -65,7 +65,7 @@ DESCRIPTION:Final: Clarksburg 1\, Seneca Valley 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-clarksburg-walt-whitman-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20261002T191500
 DTEND;TZID=America/New_York:20261002T211500
 SUMMARY:Boys Soccer: Walt Whitman at Clarksburg
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-clarksburg-paint-branch-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20261005T191500
 DTEND;TZID=America/New_York:20261005T211500
 SUMMARY:Boys Soccer: Paint Branch at Clarksburg
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/game
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-clarksburg-northwest-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20261006T153000
 DTEND;TZID=America/New_York:20261006T173000
 SUMMARY:Boys Soccer: Northwest at Clarksburg
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gamcc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-clarksburg-quince-orchard-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20261012T191500
 DTEND;TZID=America/New_York:20261012T211500
 SUMMARY:Boys Soccer: Quince Orchard at Clarksburg
@@ -105,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gama
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-clarksburg-gaithersburg-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20261015T191500
 DTEND;TZID=America/New_York:20261015T211500
 SUMMARY:Boys Soccer: Gaithersburg at Clarksburg
@@ -115,7 +115,7 @@ URL:https://www.nfhsnetwork.com/events/gaithersburg-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-clarksburg-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:Boys Soccer: Springbrook at Clarksburg

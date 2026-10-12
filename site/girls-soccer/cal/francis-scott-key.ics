@@ -6,7 +6,7 @@ X-WR-CALNAME:Francis Scott Key Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-allegany-francis-scott-key-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Girls Soccer: Francis Scott Key at Allegany
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Francis Scott Key 1\, Allegany 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-smithsburg-francis-scott-key-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Francis Scott Key at Smithsburg
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Francis Scott Key 0\, Smithsburg 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-boonsboro-francis-scott-key-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Francis Scott Key at Boonsboro
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Francis Scott Key 0\, Boonsboro 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-francis-scott-key-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20260915T180000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Girls Soccer: Walkersville at Francis Scott Key
@@ -43,7 +43,7 @@ URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-francis-scott-key-manchester-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Manchester Valley at Francis Scott Key
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Francis Scott Key 0\, Manchester Valley 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-francis-scott-key-winters-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Winters Mill at Francis Scott Key
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Francis Scott Key 0\, Winters Mill 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-francis-scott-key-liberty-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Liberty at Francis Scott Key
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Francis Scott Key 0\, Liberty 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-francis-scott-key-century-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Century at Francis Scott Key
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Francis Scott Key 0\, Century 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-francis-scott-key-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Westminster at Francis Scott Key
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Francis Scott Key 1\, Westminster 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-brunswick-francis-scott-key-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20260905T200000
 DTEND;TZID=America/New_York:20260905T220000
 SUMMARY:Girls Soccer: Francis Scott Key at Brunswick
@@ -98,7 +98,7 @@ URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gameea
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-south-carroll-francis-scott-key-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Girls Soccer: Francis Scott Key at South Carroll
@@ -107,7 +107,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6813157
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-francis-scott-key-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: South Hagerstown at Francis Scott Key
@@ -115,7 +115,7 @@ LOCATION:Francis Scott Key
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-francis-scott-key-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: Williamsport at Francis Scott Key
@@ -123,7 +123,7 @@ LOCATION:Francis Scott Key
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-francis-scott-key-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Girls Soccer: Tuscarora at Francis Scott Key

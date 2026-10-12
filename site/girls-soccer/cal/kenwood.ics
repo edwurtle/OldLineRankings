@@ -6,7 +6,7 @@ X-WR-CALNAME:Kenwood Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-dundalk-kenwood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Kenwood at Dundalk
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Kenwood 5\, Dundalk 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-overlea-kenwood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Kenwood at Overlea
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Kenwood 9\, Overlea 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-franklin-kenwood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
 SUMMARY:Girls Soccer: Kenwood at Franklin
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam066ec
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-chesapeake-b-kenwood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20260918T163000
 DTEND;TZID=America/New_York:20260918T183000
 SUMMARY:Girls Soccer: Kenwood at Chesapeake-B
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-baltimore-md/gam34
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-carver-aandt-kenwood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Kenwood at Carver A&T
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Kenwood 2\, Carver A&T 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-kenwood-parkville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Parkville at Kenwood
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Kenwood 8\, Parkville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-dundalk-kenwood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Kenwood at Dundalk
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Kenwood 6\, Dundalk 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-overlea-kenwood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: Kenwood at Overlea
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Kenwood 14\, Overlea 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-franklin-kenwood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Kenwood at Franklin
@@ -88,7 +88,7 @@ LOCATION:Franklin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-carver-aandt-kenwood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Kenwood at Carver A&T
@@ -96,7 +96,7 @@ LOCATION:Carver A&T
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-kenwood-parkville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T202704Z
+DTSTAMP:20261012T203057Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Girls Soccer: Parkville at Kenwood

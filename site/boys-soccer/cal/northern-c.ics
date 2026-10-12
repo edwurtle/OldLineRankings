@@ -6,7 +6,7 @@ X-WR-CALNAME:Northern-C Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-northern-c-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20260904T163000
 DTEND;TZID=America/New_York:20260904T183000
 SUMMARY:Boys Soccer: Chopticon at Northern-C
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamc2d2a60
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-northern-c-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Leonardtown at Northern-C
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Northern-C 0\, Leonardtown 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-northern-c-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: St. Charles at Northern-C
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Northern-C 1\, St. Charles 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-northern-c-duval-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20260916T163000
 DTEND;TZID=America/New_York:20260916T183000
 SUMMARY:Boys Soccer: DuVal at Northern-C
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-duval-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20260916T163000
 DTEND;TZID=America/New_York:20260916T183000
 SUMMARY:Boys Soccer: Northern-C at DuVal
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-calvert-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20260917T163000
 DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Boys Soccer: Northern-C at Calvert
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-la-plata-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20260924T163000
 DTEND;TZID=America/New_York:20260924T183000
 SUMMARY:Boys Soccer: Northern-C at La Plata
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gam8454394
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-thomas-stone-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20260929T170000
 DTEND;TZID=America/New_York:20260929T190000
 SUMMARY:Boys Soccer: Northern-C at Thomas Stone
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gam8eb1f8e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-mcdonough-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: Northern-C at McDonough
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamb7a9a51
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-westlake-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: Northern-C at Westlake
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gama87d84
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-huntingtown-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20261013T181500
 DTEND;TZID=America/New_York:20261013T201500
 SUMMARY:Boys Soccer: Northern-C at Huntingtown
@@ -114,7 +114,7 @@ URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-patuxent-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20261019T163000
 DTEND;TZID=America/New_York:20261019T183000
 SUMMARY:Boys Soccer: Northern-C at Patuxent
@@ -124,7 +124,7 @@ URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamfbb146b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-liberty-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261012T202636Z
+DTSTAMP:20261012T203030Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Boys Soccer: Northern-C at Liberty
