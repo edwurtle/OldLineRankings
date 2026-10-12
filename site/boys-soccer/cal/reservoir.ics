@@ -6,7 +6,7 @@ X-WR-CALNAME:Reservoir Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-patterson-mill-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;TZID=America/New_York:20260905T082000
 DTEND;TZID=America/New_York:20260905T102000
 SUMMARY:Boys Soccer: Reservoir at Patterson Mill
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam068f0b9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-reservoir-fallston-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;TZID=America/New_York:20260905T182000
 DTEND;TZID=America/New_York:20260905T202000
 SUMMARY:Boys Soccer: Fallston at Reservoir
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam1be5e7f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-guilford-park-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;TZID=America/New_York:20260909T173000
 DTEND;TZID=America/New_York:20260909T193000
 SUMMARY:Boys Soccer: Reservoir at Guilford Park
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gam0f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-marriotts-ridge-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Reservoir at Marriotts Ridge
@@ -45,7 +45,7 @@ DESCRIPTION:Final: Reservoir 3\, Marriotts Ridge 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-mount-hebron-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;TZID=America/New_York:20260917T173000
 DTEND;TZID=America/New_York:20260917T193000
 SUMMARY:Boys Soccer: Reservoir at Mount Hebron
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/reservoir-high-school-fulton-md/game8a9e3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-howard-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Boys Soccer: Reservoir at Howard
@@ -64,7 +64,7 @@ DESCRIPTION:Final: Reservoir 5\, Howard 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-oakland-mills-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Reservoir at Oakland Mills
@@ -73,7 +73,7 @@ DESCRIPTION:Final: Reservoir 0\, Oakland Mills 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-river-hill-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Reservoir at River Hill
@@ -82,7 +82,7 @@ DESCRIPTION:Final: Reservoir 1\, River Hill 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-long-reach-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Reservoir at Long Reach
@@ -91,7 +91,7 @@ DESCRIPTION:Final: Reservoir 3\, Long Reach 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-wilde-lake-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Boys Soccer: Reservoir at Wilde Lake
@@ -101,7 +101,7 @@ URL:https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gamd2f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-atholton-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Reservoir at Atholton
@@ -109,7 +109,7 @@ LOCATION:Atholton
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-hammond-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Reservoir at Hammond
@@ -117,7 +117,7 @@ LOCATION:Hammond
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-centennial-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: Reservoir at Centennial
@@ -125,7 +125,7 @@ LOCATION:Centennial
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-glenelg-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200922Z
+DTSTAMP:20261012T201109Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Reservoir at Glenelg

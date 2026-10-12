@@ -6,7 +6,7 @@ X-WR-CALNAME:South River Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-howard-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Girls Soccer: South River at Howard
@@ -15,7 +15,7 @@ DESCRIPTION:Final: South River 1\, Howard 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-south-river-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Girls Soccer: Bowie at South River
@@ -24,7 +24,7 @@ DESCRIPTION:Final: South River 8\, Bowie 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-south-river-meade-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Girls Soccer: Meade at South River
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-south-river-john-carroll-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20260917T183000
 DTEND;TZID=America/New_York:20260917T203000
 SUMMARY:Girls Soccer: John Carroll at South River
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-south-river-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20260922T184500
 DTEND;TZID=America/New_York:20260922T204500
 SUMMARY:Girls Soccer: Annapolis at South River
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-severna-park-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20260924T170000
 DTEND;TZID=America/New_York:20260924T190000
 SUMMARY:Girls Soccer: South River at Severna Park
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-chesapeake-science-point-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20260929T184500
 DTEND;TZID=America/New_York:20260929T204500
 SUMMARY:Girls Soccer: South River at Chesapeake Science Point
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-south-river-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20261001T164500
 DTEND;TZID=America/New_York:20261001T184500
 SUMMARY:Girls Soccer: Broadneck at South River
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-old-mill-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: South River at Old Mill
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/game
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-south-river-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20261008T164500
 DTEND;TZID=America/New_York:20261008T184500
 SUMMARY:Girls Soccer: Crofton at South River
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamac5f7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-marriotts-ridge-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Girls Soccer: South River at Marriotts Ridge
@@ -112,7 +112,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-south-river-glen-burnie-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Glen Burnie at South River
@@ -122,7 +122,7 @@ URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-arundel-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
 SUMMARY:Girls Soccer: South River at Arundel
@@ -132,7 +132,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/game
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-chesapeake-aa-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Girls Soccer: South River at Chesapeake-AA
@@ -142,7 +142,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam1dc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-south-river-north-county-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Girls Soccer: North County at South River

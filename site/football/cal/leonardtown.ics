@@ -6,7 +6,7 @@ X-WR-CALNAME:Leonardtown Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-calvert-leonardtown-football@oldlinerankings
-DTSTAMP:20261012T200842Z
+DTSTAMP:20261012T201037Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Leonardtown at Calvert
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Leonardtown 15\, Calvert 27
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-henry-e-lackey-leonardtown-football@oldlinerankings
-DTSTAMP:20261012T200842Z
+DTSTAMP:20261012T201037Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Leonardtown at Henry E. Lackey
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gam99e1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-la-plata-leonardtown-football@oldlinerankings
-DTSTAMP:20261012T200842Z
+DTSTAMP:20261012T201037Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Football: Leonardtown at La Plata
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Leonardtown 32\, La Plata 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-westlake-leonardtown-football@oldlinerankings
-DTSTAMP:20261012T200842Z
+DTSTAMP:20261012T201037Z
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T200000
 SUMMARY:Football: Leonardtown at Westlake
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gamd867dc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-great-mills-leonardtown-football@oldlinerankings
-DTSTAMP:20261012T200842Z
+DTSTAMP:20261012T201037Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Leonardtown at Great Mills
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Leonardtown 22\, Great Mills 49
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-mcdonough-leonardtown-football@oldlinerankings
-DTSTAMP:20261012T200842Z
+DTSTAMP:20261012T201037Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Leonardtown at McDonough
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Leonardtown 42\, McDonough 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-patuxent-leonardtown-football@oldlinerankings
-DTSTAMP:20261012T200842Z
+DTSTAMP:20261012T201037Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Football: Leonardtown at Patuxent
@@ -72,7 +72,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam0e05f43c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-chopticon-leonardtown-football@oldlinerankings
-DTSTAMP:20261012T200842Z
+DTSTAMP:20261012T201037Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Leonardtown at Chopticon
@@ -81,7 +81,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6779751
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-northern-c-leonardtown-football@oldlinerankings
-DTSTAMP:20261012T200842Z
+DTSTAMP:20261012T201037Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Leonardtown at Northern-C

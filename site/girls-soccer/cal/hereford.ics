@@ -6,7 +6,7 @@ X-WR-CALNAME:Hereford Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-hereford-glenelg-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20260905T164500
 DTEND;TZID=America/New_York:20260905T184500
 SUMMARY:Girls Soccer: Glenelg at Hereford
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gamd8014a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-hereford-south-carroll-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20260905T141500
 DTEND;TZID=America/New_York:20260905T161500
 SUMMARY:Girls Soccer: South Carroll at Hereford
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gamc70855
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-carver-aandt-hereford-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Girls Soccer: Hereford at Carver A&T
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam4d5694
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-hereford-perry-hall-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Perry Hall at Hereford
@@ -45,7 +45,7 @@ DESCRIPTION:Final: Hereford 2\, Perry Hall 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-hereford-eastern-tech-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Girls Soccer: Eastern Tech at Hereford
@@ -54,7 +54,7 @@ DESCRIPTION:Final: Hereford 0\, Eastern Tech 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-hereford-john-carroll-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20260922T183000
 DTEND;TZID=America/New_York:20260922T203000
 SUMMARY:Girls Soccer: John Carroll at Hereford
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gamb06bd4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-hereford-sparrows-point-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20260924T173000
 DTEND;TZID=America/New_York:20260924T193000
 SUMMARY:Girls Soccer: Sparrows Point at Hereford
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam30ddcc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-hereford-concordia-prep-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20260929T173000
 DTEND;TZID=America/New_York:20260929T193000
 SUMMARY:Girls Soccer: Concordia Prep at Hereford
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam3492ef
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-hereford-dulaney-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Girls Soccer: Dulaney at Hereford
@@ -93,7 +93,7 @@ DESCRIPTION:Final: Hereford 0\, Dulaney 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-hereford-franklin-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20261005T173000
 DTEND;TZID=America/New_York:20261005T193000
 SUMMARY:Girls Soccer: Franklin at Hereford
@@ -103,7 +103,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam3810da
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-hereford-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T193000
 SUMMARY:Girls Soccer: Catonsville at Hereford
@@ -113,7 +113,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam7f7947
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-hereford-towson-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20261008T164500
 DTEND;TZID=America/New_York:20261008T184500
 SUMMARY:Girls Soccer: Towson at Hereford
@@ -123,7 +123,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam9c21ddbb3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-hereford-fallston-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Girls Soccer: Fallston at Hereford
@@ -133,7 +133,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gamfe1a39
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-hereford-gerstell-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200959Z
+DTSTAMP:20261012T201140Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Gerstell at Hereford
