@@ -6,7 +6,7 @@ X-WR-CALNAME:Lansdowne Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-lansdowne-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Milford Mill Academy at Lansdowne
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Lansdowne 11\, Milford Mill Academy 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-milford-mill-academy-lansdowne-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Lansdowne at Milford Mill Academy
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Lansdowne 11\, Milford Mill Academy 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-pikesville-lansdowne-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;TZID=America/New_York:20260917T160000
 DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Girls Soccer: Lansdowne at Pikesville
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/pikesville-high-school-baltimore-md/gam7b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-lansdowne-chesapeake-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Chesapeake-B at Lansdowne
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Lansdowne 10\, Chesapeake-B 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-lansdowne-woodlawn-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Girls Soccer: Woodlawn at Lansdowne
@@ -53,7 +53,7 @@ URL:https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam7615
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-western-tech-lansdowne-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Lansdowne at Western Tech
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Lansdowne 5\, Western Tech 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-lansdowne-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Patapsco at Lansdowne
@@ -70,7 +70,7 @@ LOCATION:Lansdowne
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-owings-mills-lansdowne-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Lansdowne at Owings Mills
@@ -78,7 +78,7 @@ LOCATION:Owings Mills
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-lansdowne-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;TZID=America/New_York:20261020T160000
 DTEND;TZID=America/New_York:20261020T180000
 SUMMARY:Girls Soccer: Catonsville at Lansdowne
@@ -87,7 +87,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6671164
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-loch-raven-lansdowne-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: Lansdowne at Loch Raven

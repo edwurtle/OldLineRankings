@@ -6,7 +6,7 @@ X-WR-CALNAME:Arundel Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-arundel-dulaney-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Girls Soccer: Dulaney at Arundel
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Arundel 2\, Dulaney 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-arundel-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Girls Soccer: North Point at Arundel
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Arundel 4\, North Point 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-arundel-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Girls Soccer: Annapolis at Arundel
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam9b5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-arundel-md-severn-school-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Girls Soccer: MD- Severn School at Arundel
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Arundel 7\, MD- Severn School 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-southern-aa-arundel-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Girls Soccer: Arundel at Southern-AA
@@ -53,7 +53,7 @@ URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gambe6d2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-northeast-aa-arundel-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: Arundel at Northeast-AA
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Arundel 2\, Northeast-AA 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-arundel-north-county-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: North County at Arundel
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Arundel 1\, North County 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-arundel-old-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Old Mill at Arundel
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Arundel 6\, Old Mill 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-chesapeake-aa-arundel-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;TZID=America/New_York:20261001T170000
 DTEND;TZID=America/New_York:20261001T190000
 SUMMARY:Girls Soccer: Arundel at Chesapeake-AA
@@ -90,7 +90,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamac6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-arundel-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: Broadneck at Arundel
@@ -100,7 +100,7 @@ URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gamb8fb7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-arundel-severna-park-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Severna Park at Arundel
@@ -110,7 +110,7 @@ URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-arundel-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
 SUMMARY:Girls Soccer: South River at Arundel
@@ -120,7 +120,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/game
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-arundel-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Girls Soccer: Crofton at Arundel
@@ -130,7 +130,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gam6e372
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-arundel-severn-run-girls-soccer@oldlinerankings
-DTSTAMP:20261012T193359Z
+DTSTAMP:20261012T194729Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Girls Soccer: Severn Run at Arundel

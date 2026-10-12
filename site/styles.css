@@ -376,7 +376,7 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 .f8-toggle { margin-bottom: 0; }
 .f8-toggle + .section-head { margin-top: 40px; }
 .f8-toggle .toolbar { border-bottom: 0; }
-.f8-note { font-size: 13px; }
+.f8-note { font-size: 13px; flex: 1; min-width: 220px; line-height: 1.4; }
 .slot { display: grid; grid-template-columns: 22px 26px 1fr auto; gap: 8px; align-items: center; padding: 7px 10px; cursor: pointer; }
 .slot + .slot { border-top: 1px solid var(--border); }
 .slot:hover { background: var(--surface-2); }

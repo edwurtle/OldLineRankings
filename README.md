@@ -26,7 +26,7 @@ Football is ranked by the Old Line Rating (`scripts/oldline.py`); MPSSAA points 
 - Rating differences work like point spreads; win chance = 1 / (1 + e^(−0.16 × difference)).
 - Backtested on 2026 weeks 3–6 using only earlier games: 75% of winners picked vs 70% for MPSSAA points.
 
-## Final 8 (football and soccer)
+## Playoffs page (football and soccer)
 Each sport seeds the way its MPSSAA bulletin says (`playoffs` in `SITES`):
 - **Football:** each region's top 8 by MPSSAA points play two rounds (1v8, 4v5, 2v7, 3v6); two per region reach the Final 8.
 - **Soccer:** every team is seeded in its region by winning percentage (fewer than 9 games divide by 9) and each region

@@ -6,7 +6,7 @@ X-WR-CALNAME:North Caroline Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-north-caroline-queen-anne-s-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193336Z
+DTSTAMP:20261012T194658Z
 DTSTART;TZID=America/New_York:20260909T173000
 DTEND;TZID=America/New_York:20260909T193000
 SUMMARY:Boys Soccer: Queen Anne's at North Caroline
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-north-caroline-easton-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193336Z
+DTSTAMP:20261012T194658Z
 DTSTART;TZID=America/New_York:20260914T174500
 DTEND;TZID=America/New_York:20260914T194500
 SUMMARY:Boys Soccer: Easton at North Caroline
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-north-caroline-stephen-decatur-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193336Z
+DTSTAMP:20261012T194658Z
 DTSTART;TZID=America/New_York:20260916T173000
 DTEND;TZID=America/New_York:20260916T193000
 SUMMARY:Boys Soccer: Stephen Decatur at North Caroline
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/stephen-decatur-high-school-berlin-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-cambridge-south-dorchester-north-caroline-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193336Z
+DTSTAMP:20261012T194658Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Boys Soccer: North Caroline at Cambridge-South Dorchester
@@ -45,7 +45,7 @@ DESCRIPTION:Final: North Caroline 4\, Cambridge-South Dorchester 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-north-dorchester-north-caroline-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193336Z
+DTSTAMP:20261012T194658Z
 DTSTART;TZID=America/New_York:20260924T174500
 DTEND;TZID=America/New_York:20260924T194500
 SUMMARY:Boys Soccer: North Caroline at North Dorchester
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-st-michael-s-north-caroline-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193336Z
+DTSTAMP:20261012T194658Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Boys Soccer: North Caroline at St. Michael's
@@ -64,7 +64,7 @@ DESCRIPTION:Final: North Caroline 0\, St. Michael's 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-north-caroline-kent-island-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193336Z
+DTSTAMP:20261012T194658Z
 DTSTART;TZID=America/New_York:20261005T174500
 DTEND;TZID=America/New_York:20261005T194500
 SUMMARY:Boys Soccer: Kent Island at North Caroline
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-north-caroline-parkside-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193336Z
+DTSTAMP:20261012T194658Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Boys Soccer: Parkside at North Caroline
@@ -82,16 +82,16 @@ LOCATION:North Caroline
 DESCRIPTION:Final: North Caroline 1\, Parkside 5
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-12-kent-county-north-caroline-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193336Z
+UID:2026-10-12-north-caroline-kent-county-boys-soccer@oldlinerankings
+DTSTAMP:20261012T194658Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-SUMMARY:Boys Soccer: North Caroline at Kent County
-LOCATION:Kent County
+SUMMARY:Boys Soccer: Kent County at North Caroline
+LOCATION:North Caroline
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-colonel-richardson-north-caroline-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193336Z
+DTSTAMP:20261012T194658Z
 DTSTART;TZID=America/New_York:20261014T173000
 DTEND;TZID=America/New_York:20261014T193000
 SUMMARY:Boys Soccer: North Caroline at Colonel Richardson
@@ -101,7 +101,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-north-caroline-wicomico-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193336Z
+DTSTAMP:20261012T194658Z
 DTSTART;TZID=America/New_York:20261015T150000
 DTEND;TZID=America/New_York:20261015T170000
 SUMMARY:Boys Soccer: Wicomico at North Caroline
@@ -111,12 +111,22 @@ URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-north-caroline-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193336Z
+DTSTAMP:20261012T194658Z
 DTSTART;TZID=America/New_York:20261019T174500
 DTEND;TZID=America/New_York:20261019T194500
 SUMMARY:Boys Soccer: James M. Bennett at North Caroline
 LOCATION:North Caroline
 DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam245ed64fc1
 URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam245ed64fc1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-kent-county-north-caroline-boys-soccer@oldlinerankings
+DTSTAMP:20261012T194658Z
+DTSTART;TZID=America/New_York:20261021T174500
+DTEND;TZID=America/New_York:20261021T194500
+SUMMARY:Boys Soccer: North Caroline at Kent County
+LOCATION:Kent County
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam71d956e455
+URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam71d956e455
 END:VEVENT
 END:VCALENDAR
