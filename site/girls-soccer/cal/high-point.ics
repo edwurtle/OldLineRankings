@@ -6,7 +6,7 @@ X-WR-CALNAME:High Point Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-high-point-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211711Z
+DTSTAMP:20261012T212118Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Northwestern at High Point
@@ -15,7 +15,7 @@ DESCRIPTION:Final: High Point 0\, Northwestern 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-high-point-charles-h-flowers-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211711Z
+DTSTAMP:20261012T212118Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Charles H. Flowers at High Point
@@ -24,7 +24,7 @@ DESCRIPTION:Final: High Point 0\, Charles H. Flowers 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-high-point-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211711Z
+DTSTAMP:20261012T212118Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Parkdale at High Point
@@ -33,7 +33,7 @@ DESCRIPTION:Final: High Point 0\, Parkdale 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-high-point-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211711Z
+DTSTAMP:20261012T212118Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Suitland at High Point
@@ -42,7 +42,7 @@ DESCRIPTION:Final: High Point 6\, Suitland 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-high-point-laurel-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211711Z
+DTSTAMP:20261012T212118Z
 DTSTART;TZID=America/New_York:20260928T153000
 DTEND;TZID=America/New_York:20260928T173000
 SUMMARY:Girls Soccer: Laurel at High Point
@@ -52,7 +52,7 @@ URL:https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gamd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-high-point-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211711Z
+DTSTAMP:20261012T212118Z
 DTSTART;TZID=America/New_York:20261001T150000
 DTEND;TZID=America/New_York:20261001T170000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at High Point
@@ -62,7 +62,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-high-point-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211711Z
+DTSTAMP:20261012T212118Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Girls Soccer: DuVal at High Point
@@ -72,7 +72,7 @@ URL:https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-high-point-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211711Z
+DTSTAMP:20261012T212118Z
 DTSTART;TZID=America/New_York:20261012T153000
 DTEND;TZID=America/New_York:20261012T173000
 SUMMARY:Girls Soccer: Bowie at High Point
@@ -82,7 +82,7 @@ URL:https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gam8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-high-point-eleanor-roosevelt-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211711Z
+DTSTAMP:20261012T212118Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Eleanor Roosevelt at High Point
@@ -90,7 +90,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-high-point-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211711Z
+DTSTAMP:20261012T212118Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Bladensburg at High Point

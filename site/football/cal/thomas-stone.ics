@@ -6,7 +6,7 @@ X-WR-CALNAME:Thomas Stone Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-la-plata-thomas-stone-football@oldlinerankings
-DTSTAMP:20261012T211623Z
+DTSTAMP:20261012T212015Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Thomas Stone at La Plata
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamde140
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-patuxent-thomas-stone-football@oldlinerankings
-DTSTAMP:20261012T211623Z
+DTSTAMP:20261012T212015Z
 DTSTART;TZID=America/New_York:20260910T170000
 DTEND;TZID=America/New_York:20260910T190000
 SUMMARY:Football: Thomas Stone at Patuxent
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gamd6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-thomas-stone-chopticon-football@oldlinerankings
-DTSTAMP:20261012T211623Z
+DTSTAMP:20261012T212015Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Chopticon at Thomas Stone
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Thomas Stone 13\, Chopticon 21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-thomas-stone-great-mills-football@oldlinerankings
-DTSTAMP:20261012T211623Z
+DTSTAMP:20261012T212015Z
 DTSTART;TZID=America/New_York:20260924T180000
 DTEND;TZID=America/New_York:20260924T200000
 SUMMARY:Football: Great Mills at Thomas Stone
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gamff
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-northern-c-thomas-stone-football@oldlinerankings
-DTSTAMP:20261012T211623Z
+DTSTAMP:20261012T212015Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: Thomas Stone at Northern-C
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam9c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-thomas-stone-westlake-football@oldlinerankings
-DTSTAMP:20261012T211623Z
+DTSTAMP:20261012T212015Z
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T140000
 SUMMARY:Football: Westlake at Thomas Stone
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam76
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-thomas-stone-north-point-football@oldlinerankings
-DTSTAMP:20261012T211623Z
+DTSTAMP:20261012T212015Z
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T200000
 SUMMARY:Football: North Point at Thomas Stone
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam3d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-thomas-stone-st-charles-football@oldlinerankings
-DTSTAMP:20261012T211623Z
+DTSTAMP:20261012T212015Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: St. Charles at Thomas Stone
@@ -84,7 +84,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6952150
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-mcdonough-thomas-stone-football@oldlinerankings
-DTSTAMP:20261012T211623Z
+DTSTAMP:20261012T212015Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Thomas Stone at McDonough
