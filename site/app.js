@@ -265,7 +265,7 @@ function renderHow() {
       ${SEEDS_BY_POINTS ? `<div class="example"><b>Same as MPSSAA playoff seeding:</b> these are the win points and bonus points the MPSSAA uses to seed the ${C.sport.toLowerCase()} playoffs
         (${tiers.slice().reverse().map(([pts, cs]) => `${cs.join(" & ")} = ${pts}`).join(", ")}).</div>`
         : `<div class="example"><b>Not how the MPSSAA seeds ${C.sport.toLowerCase()}:</b> the ${C.sport.toLowerCase()} playoffs are seeded by winning percentage alone (see the Final 8 below).
-        These points are modeled on the MPSSAA's football seeding system (class win points plus opponent wins) so that strength of schedule counts in the rankings.</div>`}
+        The Old Line ${C.sport} Rankings are modeled on the MPSSAA's football seeding system (class win points plus opponent wins), so strength of schedule counts.</div>`}
       <div class="example">
         <b>Example:</b> A team beats a ${cl(ex.cls)} opponent that is ${recTxt(ex)} on the season. That win is worth <b>${exPts} + ${n2(exW)} = ${n2(exPts + exW)}</b> points.${C.ties ? ` Had it been a tie, it would be worth <b>${n2((exPts + exW) / 2)}</b>.` : ""}
         Each team's ${OLR ? "MPSSAA average" : "Old Line Ranking"} is its total ${unit} divided by games played${OLR ? "." : ", and teams are ranked within their class."}
