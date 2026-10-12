@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Frederick Douglass-B Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-frederick-douglass-b-forest-park-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Boys Soccer: Forest Park at Frederick Douglass-B
+LOCATION:Frederick Douglass-B
+DESCRIPTION:Final: Frederick Douglass-B 1\, Forest Park 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-acce-frederick-douglass-b-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Boys Soccer: Frederick Douglass-B at ACCE
+LOCATION:ACCE
+DESCRIPTION:Final: Frederick Douglass-B 1\, ACCE 5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-frederick-douglass-b-mergenthaler-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Boys Soccer: Mergenthaler at Frederick Douglass-B
+LOCATION:Frederick Douglass-B
+DESCRIPTION:Final: Frederick Douglass-B 8\, Mergenthaler 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-reginald-lewis-frederick-douglass-b-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:Boys Soccer: Frederick Douglass-B at Reginald Lewis
+LOCATION:Reginald Lewis
+DESCRIPTION:Final: Frederick Douglass-B 3\, Reginald Lewis 3\nWatch: https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/gam9223ce632e
+URL:https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/gam9223ce632e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-frederick-douglass-b-forest-park-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Boys Soccer: Forest Park at Frederick Douglass-B
+LOCATION:Frederick Douglass-B
+DESCRIPTION:Final: Frederick Douglass-B 1\, Forest Park 5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-acce-frederick-douglass-b-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Boys Soccer: Frederick Douglass-B at ACCE
+LOCATION:ACCE
+DESCRIPTION:Final: Frederick Douglass-B 0\, ACCE 5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-frederick-douglass-b-paul-laurence-dunbar-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Boys Soccer: Paul Laurence Dunbar at Frederick Douglass-B
+LOCATION:Frederick Douglass-B
+DESCRIPTION:Final: Frederick Douglass-B 4\, Paul Laurence Dunbar 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-frederick-douglass-b-mergenthaler-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T150000
+DTEND;TZID=America/New_York:20261013T170000
+SUMMARY:Boys Soccer: Mergenthaler at Frederick Douglass-B
+LOCATION:Frederick Douglass-B
+DESCRIPTION:Tickets: https://gofan.co/event/6891941
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-frederick-douglass-b-western-tech-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261020T150000
+DTEND;TZID=America/New_York:20261020T170000
+SUMMARY:Boys Soccer: Western Tech at Frederick Douglass-B
+LOCATION:Frederick Douglass-B
+DESCRIPTION:Tickets: https://gofan.co/event/6712025
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-frederick-douglass-b-reginald-lewis-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Boys Soccer: Reginald Lewis at Frederick Douglass-B
+LOCATION:Frederick Douglass-B
+END:VEVENT
+END:VCALENDAR

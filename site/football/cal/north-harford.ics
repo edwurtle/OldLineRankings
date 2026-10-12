@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:North Harford Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-north-harford-joppatowne-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T190000
+DTEND;TZID=America/New_York:20260904T210000
+SUMMARY:Football: Joppatowne at North Harford
+LOCATION:North Harford
+DESCRIPTION:Final: North Harford 28\, Joppatowne 6\nWatch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam82c74da123
+URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam82c74da123
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-north-harford-fallston-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260911T190000
+DTEND;TZID=America/New_York:20260911T210000
+SUMMARY:Football: Fallston at North Harford
+LOCATION:North Harford
+DESCRIPTION:Final: North Harford 6\, Fallston 42\nWatch: https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam6b56ed10b8
+URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam6b56ed10b8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-north-harford-aberdeen-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260918T190000
+DTEND;TZID=America/New_York:20260918T210000
+SUMMARY:Football: Aberdeen at North Harford
+LOCATION:North Harford
+DESCRIPTION:Final: North Harford 6\, Aberdeen 38\nWatch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gambcce98e122
+URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gambcce98e122
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-north-harford-harford-tech-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T190000
+DTEND;TZID=America/New_York:20260925T210000
+SUMMARY:Football: Harford Tech at North Harford
+LOCATION:North Harford
+DESCRIPTION:Final: North Harford 14\, Harford Tech 16\nWatch: https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gam6865c7cac6
+URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gam6865c7cac6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-c-milton-wright-north-harford-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T190000
+DTEND;TZID=America/New_York:20261002T210000
+SUMMARY:Football: North Harford at C. Milton Wright
+LOCATION:C. Milton Wright
+DESCRIPTION:Final: North Harford 20\, C. Milton Wright 41\nWatch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam3fdac57cbd
+URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam3fdac57cbd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-north-harford-north-east-c-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: North East-C at North Harford
+LOCATION:North Harford
+DESCRIPTION:Final: North Harford 58\, North East-C 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-north-harford-centennial-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261015T190000
+DTEND;TZID=America/New_York:20261015T210000
+SUMMARY:Football: Centennial at North Harford
+LOCATION:North Harford
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam69ef557b82\nTickets: https://gofan.co/event/6941643
+URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam69ef557b82
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-havre-de-grace-north-harford-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T190000
+DTEND;TZID=America/New_York:20261023T210000
+SUMMARY:Football: North Harford at Havre de Grace
+LOCATION:Havre de Grace
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gam85c07fb3e1\nTickets: https://gofan.co/event/6859559
+URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gam85c07fb3e1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-north-harford-edgewood-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Football: Edgewood at North Harford
+LOCATION:North Harford
+END:VEVENT
+END:VCALENDAR

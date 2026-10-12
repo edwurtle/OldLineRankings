@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bladensburg Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-bladensburg-annapolis-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Boys Soccer: Annapolis at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Final: Bladensburg 0\, Annapolis 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-laurel-bladensburg-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260910T163000
+DTEND;TZID=America/New_York:20260910T183000
+SUMMARY:Boys Soccer: Bladensburg at Laurel
+LOCATION:Laurel
+DESCRIPTION:Final: Bladensburg 5\, Laurel 1\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam114f7d0e6c
+URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam114f7d0e6c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-bladensburg-bowie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260914T163000
+DTEND;TZID=America/New_York:20260914T183000
+SUMMARY:Boys Soccer: Bowie at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Final: Bladensburg 2\, Bowie 3\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gamc346fad485
+URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gamc346fad485
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-bladensburg-suitland-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260917T163000
+DTEND;TZID=America/New_York:20260917T183000
+SUMMARY:Boys Soccer: Suitland at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Final: Bladensburg 10\, Suitland 0\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam8d6a8c1e23
+URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam8d6a8c1e23
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-calvert-bladensburg-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T181500
+DTEND;TZID=America/New_York:20260922T201500
+SUMMARY:Boys Soccer: Bladensburg at Calvert
+LOCATION:Calvert
+DESCRIPTION:Final: Bladensburg 1\, Calvert 2\nWatch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam70dd63c1d5
+URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam70dd63c1d5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-gwynn-park-bladensburg-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T180000
+DTEND;TZID=America/New_York:20260924T200000
+SUMMARY:Boys Soccer: Bladensburg at Gwynn Park
+LOCATION:Gwynn Park
+DESCRIPTION:Final: Bladensburg 5\, Gwynn Park 0\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/game07e8bf481
+URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/game07e8bf481
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-bladensburg-dr-henry-a-wise-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260928T190000
+DTEND;TZID=America/New_York:20260928T210000
+SUMMARY:Boys Soccer: Dr. Henry A. Wise at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Final: Bladensburg 4\, Dr. Henry A. Wise 0\nWatch: https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam4f66e356bb
+URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam4f66e356bb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-eleanor-roosevelt-bladensburg-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T174500
+DTEND;TZID=America/New_York:20261001T194500
+SUMMARY:Boys Soccer: Bladensburg at Eleanor Roosevelt
+LOCATION:Eleanor Roosevelt
+DESCRIPTION:Final: Bladensburg 3\, Eleanor Roosevelt 2\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam3b031a3106
+URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam3b031a3106
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-bladensburg-duval-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Boys Soccer: DuVal at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Final: Bladensburg 4\, DuVal 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-northwestern-bladensburg-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T173000
+DTEND;TZID=America/New_York:20261008T193000
+SUMMARY:Boys Soccer: Bladensburg at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Final: Bladensburg 0\, Northwestern 2\nWatch: https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam2cb983e77e
+URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam2cb983e77e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-bladensburg-parkdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261012T163000
+DTEND;TZID=America/New_York:20261012T183000
+SUMMARY:Boys Soccer: Parkdale at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Tickets: https://gofan.co/event/6616876
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-bladensburg-charles-h-flowers-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T153000
+DTEND;TZID=America/New_York:20261015T173000
+SUMMARY:Boys Soccer: Charles H. Flowers at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Tickets: https://gofan.co/event/6867121
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-high-point-bladensburg-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261019T180000
+DTEND;TZID=America/New_York:20261019T200000
+SUMMARY:Boys Soccer: Bladensburg at High Point
+LOCATION:High Point
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam109396b0fc\nTickets: https://gofan.co/event/6792939
+URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam109396b0fc
+END:VEVENT
+END:VCALENDAR

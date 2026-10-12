@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Elkton Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-joppatowne-elkton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260904T171500
+DTEND;TZID=America/New_York:20260904T191500
+SUMMARY:Girls Soccer: Elkton at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Final: Elkton 7\, Joppatowne 0\nWatch: https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gam748d9f40dc
+URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gam748d9f40dc
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-elkton-pa-kennett-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Girls Soccer: PA - Kennett at Elkton
+LOCATION:Elkton
+DESCRIPTION:Final: Elkton 5\, PA - Kennett 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-elkton-rising-sun-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260910T170000
+DTEND;TZID=America/New_York:20260910T190000
+SUMMARY:Girls Soccer: Rising Sun at Elkton
+LOCATION:Elkton
+DESCRIPTION:Final: Elkton 0\, Rising Sun 2\nWatch: https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam91d048946c
+URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam91d048946c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-bohemia-manor-elkton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Girls Soccer: Elkton at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Final: Elkton 7\, Bohemia Manor 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-patterson-mill-elkton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Girls Soccer: Elkton at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Elkton 1\, Patterson Mill 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-elkton-north-east-c-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Girls Soccer: North East-C at Elkton
+LOCATION:Elkton
+DESCRIPTION:Final: Elkton 0\, North East-C 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-perryville-elkton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T170000
+DTEND;TZID=America/New_York:20260924T190000
+SUMMARY:Girls Soccer: Elkton at Perryville
+LOCATION:Perryville
+DESCRIPTION:Final: Elkton 4\, Perryville 3\nWatch: https://www.nfhsnetwork.com/events/elkton-high-school-elkton-md/gam13998785a5
+URL:https://www.nfhsnetwork.com/events/elkton-high-school-elkton-md/gam13998785a5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-elkton-aberdeen-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Girls Soccer: Aberdeen at Elkton
+LOCATION:Elkton
+DESCRIPTION:Final: Elkton 8\, Aberdeen 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-havre-de-grace-elkton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T180000
+DTEND;TZID=America/New_York:20261006T200000
+SUMMARY:Girls Soccer: Elkton at Havre de Grace
+LOCATION:Havre de Grace
+DESCRIPTION:Final: Elkton 3\, Havre de Grace 0\nWatch: https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gama41c4d461c
+URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gama41c4d461c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-elkton-edgewood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Girls Soccer: Edgewood at Elkton
+LOCATION:Elkton
+DESCRIPTION:Final: Elkton 6\, Edgewood 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-elkton-north-harford-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261019T170000
+DTEND;TZID=America/New_York:20261019T190000
+SUMMARY:Girls Soccer: North Harford at Elkton
+LOCATION:Elkton
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam88424dbfbd\nTickets: https://gofan.co/event/6859431
+URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam88424dbfbd
+END:VEVENT
+END:VCALENDAR

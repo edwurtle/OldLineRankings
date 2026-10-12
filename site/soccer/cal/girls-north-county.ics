@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:North County Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-glen-burnie-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Girls Soccer: North County at Glen Burnie
+LOCATION:Glen Burnie
+DESCRIPTION:Final: North County 1\, Glen Burnie 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-chesapeake-aa-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Girls Soccer: North County at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: North County 0\, Chesapeake-AA 4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-north-county-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Girls Soccer: Annapolis at North County
+LOCATION:North County
+DESCRIPTION:Final: North County 4\, Annapolis 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-arundel-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Girls Soccer: North County at Arundel
+LOCATION:Arundel
+DESCRIPTION:Final: North County 0\, Arundel 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-north-county-crofton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T190000
+DTEND;TZID=America/New_York:20260929T210000
+SUMMARY:Girls Soccer: Crofton at North County
+LOCATION:North County
+DESCRIPTION:Final: North County 2\, Crofton 4\nWatch: https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamf5eb9267ed
+URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamf5eb9267ed
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-southern-aa-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Girls Soccer: North County at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: North County 1\, Southern-AA 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-severna-park-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T210000
+SUMMARY:Girls Soccer: North County at Severna Park
+LOCATION:Severna Park
+DESCRIPTION:Final: North County 0\, Severna Park 4\nWatch: https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gama394f91754
+URL:https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gama394f91754
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-old-mill-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Girls Soccer: North County at Old Mill
+LOCATION:Old Mill
+DESCRIPTION:Final: North County 1\, Old Mill 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-north-county-broadneck-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T210000
+SUMMARY:Girls Soccer: Broadneck at North County
+LOCATION:North County
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gamf07dbe10a2\nTickets: https://gofan.co/event/6942557
+URL:https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gamf07dbe10a2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-severn-run-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T170000
+DTEND;TZID=America/New_York:20261015T190000
+SUMMARY:Girls Soccer: North County at Severn Run
+LOCATION:Severn Run
+DESCRIPTION:Tickets: https://gofan.co/event/6860793
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-northeast-aa-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261020T190000
+DTEND;TZID=America/New_York:20261020T210000
+SUMMARY:Girls Soccer: North County at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gam3f04165eab\nTickets: https://gofan.co/event/6897767
+URL:https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gam3f04165eab
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-south-river-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261022T170000
+DTEND;TZID=America/New_York:20261022T190000
+SUMMARY:Girls Soccer: North County at South River
+LOCATION:South River
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gam2d6fe5a515\nTickets: https://gofan.co/event/6897774
+URL:https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gam2d6fe5a515
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Allegany Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-allegany-pa-hollidaysburg-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Football: PA- Hollidaysburg at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 9\, PA- Hollidaysburg 31
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-allegany-wv-frankfort-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260911T183000
+DTEND;TZID=America/New_York:20260911T203000
+SUMMARY:Football: WV- Frankfort at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 13\, WV- Frankfort 31\nWatch: https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam9ff0cf25af
+URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam9ff0cf25af
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-allegany-mountain-ridge-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260918T183000
+DTEND;TZID=America/New_York:20260918T203000
+SUMMARY:Football: Mountain Ridge at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 26\, Mountain Ridge 27\nWatch: https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam03e4742522
+URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam03e4742522
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-allegany-dc-maret-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260926T130000
+DTEND;TZID=America/New_York:20260926T150000
+SUMMARY:Football: DC- Maret at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 57\, DC- Maret 21\nWatch: https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam1be4798412
+URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam1be4798412
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-allegany-brunswick-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T183000
+DTEND;TZID=America/New_York:20261002T203000
+SUMMARY:Football: Brunswick at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 28\, Brunswick 6\nWatch: https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gamc6cf26d61c
+URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gamc6cf26d61c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-allegany-southern-g-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261009T183000
+DTEND;TZID=America/New_York:20261009T203000
+SUMMARY:Football: Southern-G at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 55\, Southern-G 17\nWatch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamb01a9753c2
+URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamb01a9753c2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-allegany-wv-keyser-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Football: WV- Keyser at Allegany
+LOCATION:Allegany
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-allegany-northern-g-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T183000
+DTEND;TZID=America/New_York:20261023T203000
+SUMMARY:Football: Northern-G at Allegany
+LOCATION:Allegany
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam8ffb22e7a3
+URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam8ffb22e7a3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-allegany-fort-hill-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261031T123000
+DTEND;TZID=America/New_York:20261031T143000
+SUMMARY:Football: Fort Hill at Allegany
+LOCATION:Allegany
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam154c8a9208
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam154c8a9208
+END:VEVENT
+END:VCALENDAR

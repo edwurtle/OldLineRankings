@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Meade Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-meade-old-mill-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T183500
+DTEND;TZID=America/New_York:20260904T203500
+SUMMARY:Football: Old Mill at Meade
+LOCATION:Meade
+DESCRIPTION:Final: Meade 8\, Old Mill 32\nWatch: https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam6fa63e6747
+URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam6fa63e6747
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-linganore-meade-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260910T190000
+DTEND;TZID=America/New_York:20260910T210000
+SUMMARY:Football: Meade at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Meade 14\, Linganore 49\nWatch: https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam90b7747cea
+URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam90b7747cea
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-meade-north-county-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260918T190000
+DTEND;TZID=America/New_York:20260918T210000
+SUMMARY:Football: North County at Meade
+LOCATION:Meade
+DESCRIPTION:Final: Meade 46\, North County 0\nWatch: https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam30a60edb58
+URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam30a60edb58
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-meade-crofton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T200000
+SUMMARY:Football: Crofton at Meade
+LOCATION:Meade
+DESCRIPTION:Final: Meade 6\, Crofton 42\nWatch: https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gam43b7f66212
+URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gam43b7f66212
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-meade-severna-park-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T200000
+SUMMARY:Football: Severna Park at Meade
+LOCATION:Meade
+DESCRIPTION:Final: Meade 22\, Severna Park 20\nWatch: https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam37925c0735
+URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam37925c0735
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-annapolis-meade-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261009T180000
+DTEND;TZID=America/New_York:20261009T200000
+SUMMARY:Football: Meade at Annapolis
+LOCATION:Annapolis
+DESCRIPTION:Final: Meade 16\, Annapolis 28\nWatch: https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam76355a4519
+URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam76355a4519
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-glen-burnie-meade-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261016T180000
+DTEND;TZID=America/New_York:20261016T200000
+SUMMARY:Football: Meade at Glen Burnie
+LOCATION:Glen Burnie
+DESCRIPTION:Tickets: https://gofan.co/event/6956769
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-broadneck-meade-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Football: Meade at Broadneck
+LOCATION:Broadneck
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-meade-arundel-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
+SUMMARY:Football: Arundel at Meade
+LOCATION:Meade
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam43cff5b912
+URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam43cff5b912
+END:VEVENT
+END:VCALENDAR

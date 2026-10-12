@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Annapolis Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-arundel-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T190000
+DTEND;TZID=America/New_York:20260908T210000
+SUMMARY:Girls Soccer: Annapolis at Arundel
+LOCATION:Arundel
+DESCRIPTION:Final: Annapolis 1\, Arundel 9\nWatch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam9b563c1fd4
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam9b563c1fd4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-old-mill-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Girls Soccer: Annapolis at Old Mill
+LOCATION:Old Mill
+DESCRIPTION:Final: Annapolis 4\, Old Mill 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-north-county-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Girls Soccer: Annapolis at North County
+LOCATION:North County
+DESCRIPTION:Final: Annapolis 1\, North County 4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-south-river-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T184500
+DTEND;TZID=America/New_York:20260922T204500
+SUMMARY:Girls Soccer: Annapolis at South River
+LOCATION:South River
+DESCRIPTION:Final: Annapolis 0\, South River 3\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam56af87ee96
+URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam56af87ee96
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-chesapeake-science-point-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T164500
+DTEND;TZID=America/New_York:20260924T184500
+SUMMARY:Girls Soccer: Annapolis at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Annapolis 12\, Chesapeake Science Point 0\nWatch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam70fd96c9e9
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam70fd96c9e9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-annapolis-broadneck-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T190000
+DTEND;TZID=America/New_York:20260929T210000
+SUMMARY:Girls Soccer: Broadneck at Annapolis
+LOCATION:Annapolis
+DESCRIPTION:Final: Annapolis 0\, Broadneck 3\nWatch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gamba498912f7
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gamba498912f7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-severn-run-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T170000
+DTEND;TZID=America/New_York:20261001T190000
+SUMMARY:Girls Soccer: Annapolis at Severn Run
+LOCATION:Severn Run
+DESCRIPTION:Final: Annapolis 2\, Severn Run 3\nWatch: https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gam0f718e78b6
+URL:https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gam0f718e78b6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-southern-aa-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T210000
+SUMMARY:Girls Soccer: Annapolis at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Annapolis 2\, Southern-AA 1\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam5b0051d4e1
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam5b0051d4e1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-glen-burnie-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T170000
+DTEND;TZID=America/New_York:20261008T190000
+SUMMARY:Girls Soccer: Annapolis at Glen Burnie
+LOCATION:Glen Burnie
+DESCRIPTION:Final: Annapolis 4\, Glen Burnie 1\nWatch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam62ddfe15fd
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam62ddfe15fd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-northeast-aa-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T210000
+SUMMARY:Girls Soccer: Annapolis at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam323ed0cce7
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam323ed0cce7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-meade-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261020T190000
+DTEND;TZID=America/New_York:20261020T210000
+SUMMARY:Girls Soccer: Annapolis at Meade
+LOCATION:Meade
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam473391dd78
+URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam473391dd78
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-chesapeake-aa-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261022T170000
+DTEND;TZID=America/New_York:20261022T190000
+SUMMARY:Girls Soccer: Annapolis at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam4935d008fb
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam4935d008fb
+END:VEVENT
+END:VCALENDAR

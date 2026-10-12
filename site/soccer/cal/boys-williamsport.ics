@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Williamsport Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-williamsport-stan-stouffer-showcase-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Boys Soccer: Stan Stouffer Showcase at Williamsport
+LOCATION:Williamsport
+DESCRIPTION:Final: Williamsport 1\, Stan Stouffer Showcase 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-williamsport-north-hagerstown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Boys Soccer: North Hagerstown at Williamsport
+LOCATION:Williamsport
+DESCRIPTION:Final: Williamsport 1\, North Hagerstown 5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-williamsport-south-hagerstown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Boys Soccer: South Hagerstown at Williamsport
+LOCATION:Williamsport
+DESCRIPTION:Final: Williamsport 3\, South Hagerstown 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-smithsburg-williamsport-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Boys Soccer: Williamsport at Smithsburg
+LOCATION:Smithsburg
+DESCRIPTION:Final: Williamsport 4\, Smithsburg 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-brunswick-williamsport-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Boys Soccer: Williamsport at Brunswick
+LOCATION:Brunswick
+DESCRIPTION:Final: Williamsport 1\, Brunswick 4\nWatch: https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gamb10d1bad53
+URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gamb10d1bad53
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-clear-spring-williamsport-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Boys Soccer: Williamsport at Clear Spring
+LOCATION:Clear Spring
+DESCRIPTION:Final: Williamsport 3\, Clear Spring 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-francis-scott-key-williamsport-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Boys Soccer: Williamsport at Francis Scott Key
+LOCATION:Francis Scott Key
+DESCRIPTION:Final: Williamsport 1\, Francis Scott Key 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-middletown-williamsport-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Boys Soccer: Williamsport at Middletown
+LOCATION:Middletown
+DESCRIPTION:Final: Williamsport 0\, Middletown 4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-williamsport-wv-hedgesville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Boys Soccer: WV-Hedgesville at Williamsport
+LOCATION:Williamsport
+DESCRIPTION:Final: Williamsport 0\, WV-Hedgesville 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-boonsboro-williamsport-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Boys Soccer: Williamsport at Boonsboro
+LOCATION:Boonsboro
+DESCRIPTION:Final: Williamsport 3\, Boonsboro 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-catoctin-williamsport-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T173000
+DTEND;TZID=America/New_York:20261008T193000
+SUMMARY:Boys Soccer: Williamsport at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Williamsport 1\, Catoctin 2\nWatch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam85ed7bc04b
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam85ed7bc04b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-walkersville-williamsport-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T210000
+SUMMARY:Boys Soccer: Williamsport at Walkersville
+LOCATION:Walkersville
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gam5baf8da98d\nTickets: https://gofan.co/event/6745310
+URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gam5baf8da98d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-mountain-ridge-williamsport-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T190000
+DTEND;TZID=America/New_York:20261015T210000
+SUMMARY:Boys Soccer: Williamsport at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/gama53245082f
+URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/gama53245082f
+END:VEVENT
+END:VCALENDAR

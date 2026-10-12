@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Colonel Richardson Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-colonel-richardson-james-m-bennett-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T180000
+DTEND;TZID=America/New_York:20260904T200000
+SUMMARY:Football: James M. Bennett at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Final: Colonel Richardson 6\, James M. Bennett 7\nWatch: https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam1789d99c63
+URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam1789d99c63
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-colonel-richardson-de-delmar-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Football: DE- Delmar at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Final: Colonel Richardson 14\, DE- Delmar 20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-colonel-richardson-washington-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260918T180000
+DTEND;TZID=America/New_York:20260918T200000
+SUMMARY:Football: Washington at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Final: Colonel Richardson 28\, Washington 0\nWatch: https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gamf6fff5b83a
+URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gamf6fff5b83a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-colonel-richardson-parkside-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T200000
+SUMMARY:Football: Parkside at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Final: Colonel Richardson 7\, Parkside 35\nWatch: https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam7f3f50a88a
+URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam7f3f50a88a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-colonel-richardson-cambridge-south-dorchester-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Football: Cambridge-South Dorchester at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Final: Colonel Richardson 25\, Cambridge-South Dorchester 35
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-colonel-richardson-snow-hill-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: Snow Hill at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Final: Colonel Richardson 20\, Snow Hill 21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-colonel-richardson-va-nandua-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Football: VA- Nandua at Colonel Richardson
+LOCATION:Colonel Richardson
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-colonel-richardson-kent-county-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T180000
+DTEND;TZID=America/New_York:20261023T200000
+SUMMARY:Football: Kent County at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam860769e7b6
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam860769e7b6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-colonel-richardson-north-caroline-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
+SUMMARY:Football: North Caroline at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gamcabbc68aa7
+URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gamcabbc68aa7
+END:VEVENT
+END:VCALENDAR

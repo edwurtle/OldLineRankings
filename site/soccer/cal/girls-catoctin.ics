@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Catoctin Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-catoctin-south-hagerstown-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T180000
+DTEND;TZID=America/New_York:20260908T200000
+SUMMARY:Girls Soccer: South Hagerstown at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Catoctin 13\, South Hagerstown 1\nWatch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam968c4720d6
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam968c4720d6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-catoctin-tuscarora-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260915T180000
+DTEND;TZID=America/New_York:20260915T200000
+SUMMARY:Girls Soccer: Tuscarora at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Catoctin 3\, Tuscarora 4\nWatch: https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam10bbfbbf67
+URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam10bbfbbf67
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-catoctin-middletown-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260917T190000
+DTEND;TZID=America/New_York:20260917T210000
+SUMMARY:Girls Soccer: Middletown at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Catoctin 1\, Middletown 5\nWatch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam3a5db01bc1
+URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam3a5db01bc1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-catoctin-smithsburg-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T180000
+DTEND;TZID=America/New_York:20260922T200000
+SUMMARY:Girls Soccer: Smithsburg at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Catoctin 3\, Smithsburg 4\nWatch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gama1e8f14728
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gama1e8f14728
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-brunswick-catoctin-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Girls Soccer: Catoctin at Brunswick
+LOCATION:Brunswick
+DESCRIPTION:Final: Catoctin 0\, Brunswick 3\nWatch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam007664d227
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam007664d227
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-catoctin-north-hagerstown-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T180000
+DTEND;TZID=America/New_York:20261001T200000
+SUMMARY:Girls Soccer: North Hagerstown at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Catoctin 1\, North Hagerstown 0\nWatch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam28a020dc31
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam28a020dc31
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-catoctin-walkersville-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T180000
+DTEND;TZID=America/New_York:20261006T200000
+SUMMARY:Girls Soccer: Walkersville at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Catoctin 0\, Walkersville 2\nWatch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamc8184f342f
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamc8184f342f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-catoctin-williamsport-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Girls Soccer: Williamsport at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Catoctin 3\, Williamsport 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-12-southern-g-catoctin-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Girls Soccer: Catoctin at Southern-G
+LOCATION:Southern-G
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-clear-spring-catoctin-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Girls Soccer: Catoctin at Clear Spring
+LOCATION:Clear Spring
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-catoctin-boonsboro-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Girls Soccer: Boonsboro at Catoctin
+LOCATION:Catoctin
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-catoctin-gov-thomas-johnson-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T180000
+DTEND;TZID=America/New_York:20261015T200000
+SUMMARY:Girls Soccer: Gov. Thomas Johnson at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gama5e89f4303\nTickets: https://gofan.co/event/6874219
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gama5e89f4303
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-catoctin-md-private-saint-james-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261022T180000
+DTEND;TZID=America/New_York:20261022T200000
+SUMMARY:Girls Soccer: MD Private- Saint James at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam6bf4c11628\nTickets: https://gofan.co/event/6874228
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam6bf4c11628
+END:VEVENT
+END:VCALENDAR

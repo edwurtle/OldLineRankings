@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Northwestern Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-10-high-point-northwestern-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Boys Soccer: Northwestern at High Point
+LOCATION:High Point
+DESCRIPTION:Final: Northwestern 0\, High Point 4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-laurel-northwestern-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Boys Soccer: Northwestern at Laurel
+LOCATION:Laurel
+DESCRIPTION:Final: Northwestern 3\, Laurel 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-northwestern-eleanor-roosevelt-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260917T173000
+DTEND;TZID=America/New_York:20260917T193000
+SUMMARY:Boys Soccer: Eleanor Roosevelt at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Final: Northwestern 3\, Eleanor Roosevelt 2\nWatch: https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam95d076f2ac
+URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam95d076f2ac
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-northwestern-bowie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T173000
+DTEND;TZID=America/New_York:20260924T193000
+SUMMARY:Boys Soccer: Bowie at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Final: Northwestern 4\, Bowie 1\nWatch: https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam278d79576e
+URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam278d79576e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-college-park-academy-northwestern-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T193000
+SUMMARY:Boys Soccer: Northwestern at College Park Academy
+LOCATION:College Park Academy
+DESCRIPTION:Final: Northwestern 7\, College Park Academy 1\nWatch: https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam9e4b5c92b5
+URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam9e4b5c92b5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-northwestern-duval-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Boys Soccer: DuVal at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Final: Northwestern 3\, DuVal 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-duval-northwestern-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Boys Soccer: Northwestern at DuVal
+LOCATION:DuVal
+DESCRIPTION:Final: Northwestern 3\, DuVal 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-northwestern-parkdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Boys Soccer: Parkdale at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Final: Northwestern 0\, Parkdale 9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-northwestern-bladensburg-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T173000
+DTEND;TZID=America/New_York:20261008T193000
+SUMMARY:Boys Soccer: Bladensburg at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Final: Northwestern 2\, Bladensburg 0\nWatch: https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam2cb983e77e
+URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam2cb983e77e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-northwestern-dr-henry-a-wise-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261012T190000
+DTEND;TZID=America/New_York:20261012T210000
+SUMMARY:Boys Soccer: Dr. Henry A. Wise at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Tickets: https://gofan.co/event/6718180
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-northwestern-suitland-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T153000
+DTEND;TZID=America/New_York:20261015T173000
+SUMMARY:Boys Soccer: Suitland at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam3de9c7c343\nTickets: https://gofan.co/event/6904009
+URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam3de9c7c343
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-northwestern-charles-h-flowers-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261019T153000
+DTEND;TZID=America/New_York:20261019T173000
+SUMMARY:Boys Soccer: Charles H. Flowers at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Tickets: https://gofan.co/event/6867120
+END:VEVENT
+END:VCALENDAR

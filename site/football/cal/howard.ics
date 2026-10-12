@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Howard Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-howard-mount-hebron-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Football: Mount Hebron at Howard
+LOCATION:Howard
+DESCRIPTION:Final: Howard 43\, Mount Hebron 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-howard-reservoir-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Football: Reservoir at Howard
+LOCATION:Howard
+DESCRIPTION:Final: Howard 30\, Reservoir 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-howard-marriotts-ridge-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Football: Marriotts Ridge at Howard
+LOCATION:Howard
+DESCRIPTION:Final: Howard 28\, Marriotts Ridge 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-howard-hammond-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Football: Hammond at Howard
+LOCATION:Howard
+DESCRIPTION:Final: Howard 55\, Hammond 12
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-howard-long-reach-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T200000
+SUMMARY:Football: Long Reach at Howard
+LOCATION:Howard
+DESCRIPTION:Final: Howard 41\, Long Reach 6\nWatch: https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/gam7ac50458c4
+URL:https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/gam7ac50458c4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-glenelg-howard-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: Howard at Glenelg
+LOCATION:Glenelg
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-howard-atholton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Football: Atholton at Howard
+LOCATION:Howard
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-howard-guilford-park-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Football: Guilford Park at Howard
+LOCATION:Howard
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-howard-oakland-mills-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Football: Oakland Mills at Howard
+LOCATION:Howard
+END:VEVENT
+END:VCALENDAR

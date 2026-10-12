@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Kent County Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-kent-county-cambridge-south-dorchester-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Girls Soccer: Cambridge-South Dorchester at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 0\, Cambridge-South Dorchester 10
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-kent-county-north-dorchester-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:Girls Soccer: North Dorchester at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 6\, North Dorchester 3\nWatch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamce966400cb
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamce966400cb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-kent-county-queen-anne-s-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T180000
+SUMMARY:Girls Soccer: Queen Anne's at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 0\, Queen Anne's 10\nWatch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamc170ff3a87
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamc170ff3a87
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-21-kent-county-crisfield-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260921T160000
+DTEND;TZID=America/New_York:20260921T180000
+SUMMARY:Girls Soccer: Crisfield at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 7\, Crisfield 0\nWatch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/game56bc783a7
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/game56bc783a7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-kent-county-kent-island-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T164500
+DTEND;TZID=America/New_York:20260922T184500
+SUMMARY:Girls Soccer: Kent Island at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 0\, Kent Island 14\nWatch: https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam270bd9c626
+URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam270bd9c626
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-23-kent-county-easton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Girls Soccer: Easton at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 1\, Easton 7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-kent-county-cambridge-south-dorchester-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Girls Soccer: Cambridge-South Dorchester at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 1\, Cambridge-South Dorchester 5\nWatch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam3a856ebd75
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam3a856ebd75
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-kent-county-mardela-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Girls Soccer: Mardela at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 2\, Mardela 7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-kent-county-north-caroline-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Girls Soccer: North Caroline at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 0\, North Caroline 4\nWatch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamce09b4e95e
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamce09b4e95e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-kent-county-north-dorchester-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Girls Soccer: North Dorchester at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 2\, North Dorchester 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-kent-county-snow-hill-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Girls Soccer: Snow Hill at Kent County
+LOCATION:Kent County
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-colonel-richardson-kent-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Girls Soccer: Kent County at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam2ce4ef8d4b
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam2ce4ef8d4b
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Laurel Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-laurel-md-dematha-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T190000
+DTEND;TZID=America/New_York:20260908T210000
+SUMMARY:Boys Soccer: MD-Dematha at Laurel
+LOCATION:Laurel
+DESCRIPTION:Final: Laurel 1\, MD-Dematha 4\nWatch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gama7508f87fa
+URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gama7508f87fa
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-laurel-bladensburg-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260910T163000
+DTEND;TZID=America/New_York:20260910T183000
+SUMMARY:Boys Soccer: Bladensburg at Laurel
+LOCATION:Laurel
+DESCRIPTION:Final: Laurel 1\, Bladensburg 5\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam114f7d0e6c
+URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam114f7d0e6c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-laurel-northwestern-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Boys Soccer: Northwestern at Laurel
+LOCATION:Laurel
+DESCRIPTION:Final: Laurel 2\, Northwestern 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-laurel-dr-henry-a-wise-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260917T153000
+DTEND;TZID=America/New_York:20260917T173000
+SUMMARY:Boys Soccer: Dr. Henry A. Wise at Laurel
+LOCATION:Laurel
+DESCRIPTION:Final: Laurel 5\, Dr. Henry A. Wise 2\nWatch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam3c3520ca2b
+URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam3c3520ca2b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-laurel-charles-h-flowers-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T154000
+DTEND;TZID=America/New_York:20260922T174000
+SUMMARY:Boys Soccer: Charles H. Flowers at Laurel
+LOCATION:Laurel
+DESCRIPTION:Final: Laurel 4\, Charles H. Flowers 3\nWatch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam079673721a
+URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam079673721a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-charles-h-flowers-laurel-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Boys Soccer: Laurel at Charles H. Flowers
+LOCATION:Charles H. Flowers
+DESCRIPTION:Final: Laurel 4\, Charles H. Flowers 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-high-point-laurel-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260928T153000
+DTEND;TZID=America/New_York:20260928T173000
+SUMMARY:Boys Soccer: Laurel at High Point
+LOCATION:High Point
+DESCRIPTION:Final: Laurel 4\, High Point 1\nWatch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam0d31d24448
+URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam0d31d24448
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-laurel-bowie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261005T153000
+DTEND;TZID=America/New_York:20261005T173000
+SUMMARY:Boys Soccer: Bowie at Laurel
+LOCATION:Laurel
+DESCRIPTION:Final: Laurel 0\, Bowie 2\nWatch: https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gam6abf6f18f8
+URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gam6abf6f18f8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-laurel-parkdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T153000
+DTEND;TZID=America/New_York:20261008T173000
+SUMMARY:Boys Soccer: Parkdale at Laurel
+LOCATION:Laurel
+DESCRIPTION:Final: Laurel 1\, Parkdale 9\nWatch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamd8b2f1122c
+URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamd8b2f1122c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-laurel-suitland-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Boys Soccer: Suitland at Laurel
+LOCATION:Laurel
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-laurel-duval-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T153000
+DTEND;TZID=America/New_York:20261015T173000
+SUMMARY:Boys Soccer: DuVal at Laurel
+LOCATION:Laurel
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamf8ad82c489\nTickets: https://gofan.co/event/6721395
+URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamf8ad82c489
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-duval-laurel-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T153000
+DTEND;TZID=America/New_York:20261015T173000
+SUMMARY:Boys Soccer: Laurel at DuVal
+LOCATION:DuVal
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamf8ad82c489\nTickets: https://gofan.co/event/6721395
+URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamf8ad82c489
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-laurel-eleanor-roosevelt-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Boys Soccer: Eleanor Roosevelt at Laurel
+LOCATION:Laurel
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-cmit-north-laurel-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261021T190000
+DTEND;TZID=America/New_York:20261021T210000
+SUMMARY:Boys Soccer: Laurel at CMIT - North
+LOCATION:CMIT - North
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gama224fd8f5f\nTickets: https://gofan.co/event/6721396
+URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gama224fd8f5f
+END:VEVENT
+END:VCALENDAR

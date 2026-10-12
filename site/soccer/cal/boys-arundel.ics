@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Arundel Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-frederick-arundel-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Boys Soccer: Arundel at Frederick
+LOCATION:Frederick
+DESCRIPTION:Final: Arundel 3\, Frederick 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-arundel-dulaney-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260905T090000
+DTEND;TZID=America/New_York:20260905T110000
+SUMMARY:Boys Soccer: Dulaney at Arundel
+LOCATION:Arundel
+DESCRIPTION:Final: Arundel 0\, Dulaney 0\nWatch: https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gamf32ce43bcd
+URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gamf32ce43bcd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-arundel-annapolis-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Boys Soccer: Annapolis at Arundel
+LOCATION:Arundel
+DESCRIPTION:Final: Arundel 1\, Annapolis 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-arundel-md-severn-school-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Boys Soccer: MD- Severn School at Arundel
+LOCATION:Arundel
+DESCRIPTION:Final: Arundel 2\, MD- Severn School 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-southern-aa-arundel-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T190000
+SUMMARY:Boys Soccer: Arundel at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Arundel 0\, Southern-AA 1\nWatch: https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gamde21de98d9
+URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gamde21de98d9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-northeast-aa-arundel-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Boys Soccer: Arundel at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Final: Arundel 2\, Northeast-AA 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-arundel-north-county-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Boys Soccer: North County at Arundel
+LOCATION:Arundel
+DESCRIPTION:Final: Arundel 4\, North County 3\nWatch: https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gamab45b926e7
+URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gamab45b926e7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-arundel-old-mill-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Boys Soccer: Old Mill at Arundel
+LOCATION:Arundel
+DESCRIPTION:Final: Arundel 1\, Old Mill 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-chesapeake-aa-arundel-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T190000
+DTEND;TZID=America/New_York:20261001T210000
+SUMMARY:Boys Soccer: Arundel at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Arundel 1\, Chesapeake-AA 2\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam68318391ce
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam68318391ce
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-arundel-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T170000
+DTEND;TZID=America/New_York:20261006T190000
+SUMMARY:Boys Soccer: Broadneck at Arundel
+LOCATION:Arundel
+DESCRIPTION:Final: Arundel 3\, Broadneck 6\nWatch: https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gam0c3de36793
+URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gam0c3de36793
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-arundel-severna-park-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T170000
+DTEND;TZID=America/New_York:20261013T190000
+SUMMARY:Boys Soccer: Severna Park at Arundel
+LOCATION:Arundel
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gamdfc3c43d6f
+URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gamdfc3c43d6f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-arundel-south-river-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T190000
+DTEND;TZID=America/New_York:20261015T210000
+SUMMARY:Boys Soccer: South River at Arundel
+LOCATION:Arundel
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gamaf210d0ede\nTickets: https://gofan.co/event/6725764
+URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gamaf210d0ede
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-arundel-crofton-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261020T170000
+DTEND;TZID=America/New_York:20261020T190000
+SUMMARY:Boys Soccer: Crofton at Arundel
+LOCATION:Arundel
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gama2bfe4a37d\nTickets: https://gofan.co/event/6754099
+URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gama2bfe4a37d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-arundel-severn-run-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261022T190000
+DTEND;TZID=America/New_York:20261022T210000
+SUMMARY:Boys Soccer: Severn Run at Arundel
+LOCATION:Arundel
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gam8e60d52420\nTickets: https://gofan.co/event/6722093
+URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gam8e60d52420
+END:VEVENT
+END:VCALENDAR

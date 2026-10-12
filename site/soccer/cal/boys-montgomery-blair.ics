@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Montgomery Blair Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-northeast-aa-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Boys Soccer: Montgomery Blair at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Final: Montgomery Blair 6\, Northeast-AA 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-severn-run-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Boys Soccer: Montgomery Blair at Severn Run
+LOCATION:Severn Run
+DESCRIPTION:Final: Montgomery Blair 2\, Severn Run 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-09-clarksburg-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260909T191500
+DTEND;TZID=America/New_York:20260909T211500
+SUMMARY:Boys Soccer: Montgomery Blair at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Final: Montgomery Blair 1\, Clarksburg 3\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamdc3a453799
+URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamdc3a453799
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-wheaton-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260915T191500
+DTEND;TZID=America/New_York:20260915T211500
+SUMMARY:Boys Soccer: Montgomery Blair at Wheaton
+LOCATION:Wheaton
+DESCRIPTION:Final: Montgomery Blair 2\, Wheaton 1\nWatch: https://www.nfhsnetwork.com/events/wheaton-high-school-silver-spring-md/gam4c5c9edb09
+URL:https://www.nfhsnetwork.com/events/wheaton-high-school-silver-spring-md/gam4c5c9edb09
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-richard-montgomery-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T191500
+DTEND;TZID=America/New_York:20260922T211500
+SUMMARY:Boys Soccer: Montgomery Blair at Richard Montgomery
+LOCATION:Richard Montgomery
+DESCRIPTION:Final: Montgomery Blair 2\, Richard Montgomery 3\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamfccfde0f5c
+URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamfccfde0f5c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-northwood-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260925T191500
+DTEND;TZID=America/New_York:20260925T211500
+SUMMARY:Boys Soccer: Montgomery Blair at Northwood
+LOCATION:Northwood
+DESCRIPTION:Final: Montgomery Blair 2\, Northwood 1\nWatch: https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/gamf2e7be0e15
+URL:https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/gamf2e7be0e15
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-albert-einstein-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T191500
+DTEND;TZID=America/New_York:20260929T211500
+SUMMARY:Boys Soccer: Montgomery Blair at Albert Einstein
+LOCATION:Albert Einstein
+DESCRIPTION:Final: Montgomery Blair 2\, Albert Einstein 4\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam5fadebbb57
+URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam5fadebbb57
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-rockville-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Boys Soccer: Montgomery Blair at Rockville
+LOCATION:Rockville
+DESCRIPTION:Final: Montgomery Blair 3\, Rockville 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-john-f-kennedy-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261005T191500
+DTEND;TZID=America/New_York:20261005T211500
+SUMMARY:Boys Soccer: Montgomery Blair at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Final: Montgomery Blair 2\, John F. Kennedy 0\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam3031771f00
+URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam3031771f00
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-northwest-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261007T191500
+DTEND;TZID=America/New_York:20261007T211500
+SUMMARY:Boys Soccer: Montgomery Blair at Northwest
+LOCATION:Northwest
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam71610b89c6
+URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam71610b89c6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-james-hubert-blake-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261012T191500
+DTEND;TZID=America/New_York:20261012T211500
+SUMMARY:Boys Soccer: Montgomery Blair at James Hubert Blake
+LOCATION:James Hubert Blake
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamf8864f4dcc\nTickets: https://gofan.co/event/6706607
+URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamf8864f4dcc
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-bethesda-cc-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261014T171500
+DTEND;TZID=America/New_York:20261014T191500
+SUMMARY:Boys Soccer: Montgomery Blair at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam54c057faa5\nTickets: https://gofan.co/event/6706533
+URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam54c057faa5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-walt-whitman-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261019T191500
+DTEND;TZID=America/New_York:20261019T211500
+SUMMARY:Boys Soccer: Montgomery Blair at Walt Whitman
+LOCATION:Walt Whitman
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamab83b4b66b\nTickets: https://gofan.co/event/6706629
+URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamab83b4b66b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-winston-churchill-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Boys Soccer: Montgomery Blair at Winston Churchill
+LOCATION:Winston Churchill
+DESCRIPTION:Tickets: https://gofan.co/event/6707900
+END:VEVENT
+END:VCALENDAR

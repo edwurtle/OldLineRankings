@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Edgewood Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-joppatowne-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260904T153000
+DTEND;TZID=America/New_York:20260904T173000
+SUMMARY:Boys Soccer: Edgewood at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Final: Edgewood 6\, Joppatowne 0\nWatch: https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamed4cb5af21
+URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamed4cb5af21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-bohemia-manor-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T170000
+DTEND;TZID=America/New_York:20260908T190000
+SUMMARY:Boys Soccer: Edgewood at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Final: Edgewood 2\, Bohemia Manor 1\nWatch: https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gam0468140de6
+URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gam0468140de6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-north-harford-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260910T153000
+DTEND;TZID=America/New_York:20260910T173000
+SUMMARY:Boys Soccer: Edgewood at North Harford
+LOCATION:North Harford
+DESCRIPTION:Final: Edgewood 1\, North Harford 6\nWatch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam8d510ff599
+URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam8d510ff599
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-havre-de-grace-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Boys Soccer: Edgewood at Havre de Grace
+LOCATION:Havre de Grace
+DESCRIPTION:Final: Edgewood 0\, Havre de Grace 4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-harford-tech-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Boys Soccer: Edgewood at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Edgewood 0\, Harford Tech 4\nWatch: https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gamdcce44c0fd
+URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gamdcce44c0fd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-joppatowne-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T153000
+DTEND;TZID=America/New_York:20260924T173000
+SUMMARY:Boys Soccer: Edgewood at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Final: Edgewood 7\, Joppatowne 2\nWatch: https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gamdca15cf6b2
+URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gamdca15cf6b2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-c-milton-wright-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260930T170000
+DTEND;TZID=America/New_York:20260930T190000
+SUMMARY:Boys Soccer: Edgewood at C. Milton Wright
+LOCATION:C. Milton Wright
+DESCRIPTION:Final: Edgewood 0\, C. Milton Wright 8\nWatch: https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gam058ccb0236
+URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gam058ccb0236
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-perryville-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261005T170000
+DTEND;TZID=America/New_York:20261005T190000
+SUMMARY:Boys Soccer: Edgewood at Perryville
+LOCATION:Perryville
+DESCRIPTION:Final: Edgewood 1\, Perryville 2\nWatch: https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gama73f1cfbe9
+URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gama73f1cfbe9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-aberdeen-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T185500
+DTEND;TZID=America/New_York:20261013T205500
+SUMMARY:Boys Soccer: Edgewood at Aberdeen
+LOCATION:Aberdeen
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gamc6855427ef\nTickets: https://gofan.co/event/6724967
+URL:https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gamc6855427ef
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-edgewood-havre-de-grace-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T190000
+DTEND;TZID=America/New_York:20261015T210000
+SUMMARY:Boys Soccer: Havre de Grace at Edgewood
+LOCATION:Edgewood
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gama1f23cc21c\nTickets: https://gofan.co/event/6859695
+URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gama1f23cc21c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-elkton-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Boys Soccer: Edgewood at Elkton
+LOCATION:Elkton
+END:VEVENT
+END:VCALENDAR

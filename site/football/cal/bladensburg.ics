@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bladensburg Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-crossland-bladensburg-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T140000
+DTEND;TZID=America/New_York:20260904T160000
+SUMMARY:Football: Bladensburg at Crossland
+LOCATION:Crossland
+DESCRIPTION:Final: Bladensburg 0\, Crossland 50\nWatch: https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/gam9cfde45400
+URL:https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/gam9cfde45400
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-bladensburg-bowie-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260911T170000
+DTEND;TZID=America/New_York:20260911T190000
+SUMMARY:Football: Bowie at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Final: Bladensburg 0\, Bowie 28\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gamcbcf26497c
+URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gamcbcf26497c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-bladensburg-duval-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Football: DuVal at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Final: Bladensburg 0\, DuVal 34
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-bladensburg-parkdale-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T183000
+DTEND;TZID=America/New_York:20260925T203000
+SUMMARY:Football: Parkdale at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Final: Bladensburg 0\, Parkdale 53\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam9ac3aad852
+URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam9ac3aad852
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-northwestern-bladensburg-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261003T140000
+DTEND;TZID=America/New_York:20261003T160000
+SUMMARY:Football: Bladensburg at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Final: Bladensburg 20\, Northwestern 22\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam86c74183b0
+URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam86c74183b0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-bladensburg-charles-h-flowers-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261009T190000
+DTEND;TZID=America/New_York:20261009T210000
+SUMMARY:Football: Charles H. Flowers at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Final: Bladensburg 63\, Charles H. Flowers 0\nWatch: https://www.nfhsnetwork.com/events/charles-herbert-flowers-high-school-springdale-md/gam400a80e028
+URL:https://www.nfhsnetwork.com/events/charles-herbert-flowers-high-school-springdale-md/gam400a80e028
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-laurel-bladensburg-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261016T190000
+DTEND;TZID=America/New_York:20261016T210000
+SUMMARY:Football: Bladensburg at Laurel
+LOCATION:Laurel
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam877b01ec0e\nTickets: https://gofan.co/event/6721342
+URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam877b01ec0e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-bladensburg-oxon-hill-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T140000
+DTEND;TZID=America/New_York:20261023T160000
+SUMMARY:Football: Oxon Hill at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gambfd74da2bd\nTickets: https://gofan.co/event/6768015
+URL:https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gambfd74da2bd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-bladensburg-potomac-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T183000
+DTEND;TZID=America/New_York:20261030T203000
+SUMMARY:Football: Potomac at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam671a1dc318\nTickets: https://gofan.co/event/6766659
+URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam671a1dc318
+END:VEVENT
+END:VCALENDAR

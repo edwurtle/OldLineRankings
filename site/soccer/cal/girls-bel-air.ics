@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bel Air Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-perryville-bel-air-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260904T170000
+DTEND;TZID=America/New_York:20260904T190000
+SUMMARY:Girls Soccer: Bel Air at Perryville
+LOCATION:Perryville
+DESCRIPTION:Final: Bel Air 2\, Perryville 1\nWatch: https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam1ff5d51e5b
+URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam1ff5d51e5b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-bel-air-north-harford-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T190000
+DTEND;TZID=America/New_York:20260908T210000
+SUMMARY:Girls Soccer: North Harford at Bel Air
+LOCATION:Bel Air
+DESCRIPTION:Final: Bel Air 2\, North Harford 1\nWatch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam31d1340389
+URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam31d1340389
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-fallston-bel-air-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260910T190000
+DTEND;TZID=America/New_York:20260910T210000
+SUMMARY:Girls Soccer: Bel Air at Fallston
+LOCATION:Fallston
+DESCRIPTION:Final: Bel Air 3\, Fallston 2\nWatch: https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gamd31fa0597d
+URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gamd31fa0597d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-bel-air-joppatowne-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260914T152000
+DTEND;TZID=America/New_York:20260914T172000
+SUMMARY:Girls Soccer: Joppatowne at Bel Air
+LOCATION:Bel Air
+DESCRIPTION:Final: Bel Air 9\, Joppatowne 0\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam7bbfb3576e
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam7bbfb3576e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-c-milton-wright-bel-air-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Girls Soccer: Bel Air at C. Milton Wright
+LOCATION:C. Milton Wright
+DESCRIPTION:Final: Bel Air 1\, C. Milton Wright 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-mount-hebron-bel-air-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260919T175000
+DTEND;TZID=America/New_York:20260919T195000
+SUMMARY:Girls Soccer: Bel Air at Mount Hebron
+LOCATION:Mount Hebron
+DESCRIPTION:Final: Bel Air 0\, Mount Hebron 1\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam3816c96c97
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam3816c96c97
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-bel-air-chesapeake-aa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260919T175000
+DTEND;TZID=America/New_York:20260919T195000
+SUMMARY:Girls Soccer: Chesapeake-AA at Bel Air
+LOCATION:Bel Air
+DESCRIPTION:Final: Bel Air 0\, Chesapeake-AA 3\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam3816c96c97
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam3816c96c97
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-21-bel-air-aberdeen-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260921T185500
+DTEND;TZID=America/New_York:20260921T205500
+SUMMARY:Girls Soccer: Aberdeen at Bel Air
+LOCATION:Bel Air
+DESCRIPTION:Final: Bel Air 11\, Aberdeen 0\nWatch: https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gambc3e70dd27
+URL:https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gambc3e70dd27
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-patterson-mill-bel-air-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T185000
+DTEND;TZID=America/New_York:20260924T205000
+SUMMARY:Girls Soccer: Bel Air at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Bel Air 0\, Patterson Mill 2\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam76fb32a3f3
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam76fb32a3f3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-rising-sun-bel-air-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T183000
+DTEND;TZID=America/New_York:20260929T203000
+SUMMARY:Girls Soccer: Bel Air at Rising Sun
+LOCATION:Rising Sun
+DESCRIPTION:Final: Bel Air 0\, Rising Sun 2\nWatch: https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam6e795811d7
+URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam6e795811d7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-harford-tech-bel-air-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Girls Soccer: Bel Air at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Bel Air 0\, Harford Tech 5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-bel-air-perry-hall-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Girls Soccer: Perry Hall at Bel Air
+LOCATION:Bel Air
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-liberty-bel-air-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Girls Soccer: Bel Air at Liberty
+LOCATION:Liberty
+END:VEVENT
+END:VCALENDAR

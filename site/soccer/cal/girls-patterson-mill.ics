@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Patterson Mill Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-15-patterson-mill-fallston-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260915T183000
+DTEND;TZID=America/New_York:20260915T203000
+SUMMARY:Girls Soccer: Fallston at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 2\, Fallston 3\nWatch: https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/game39615001a
+URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/game39615001a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-patterson-mill-elkton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Girls Soccer: Elkton at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 3\, Elkton 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-patterson-mill-westminster-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260919T125000
+DTEND;TZID=America/New_York:20260919T145000
+SUMMARY:Girls Soccer: Westminster at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 6\, Westminster 0\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam67a9233a46
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam67a9233a46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-patterson-mill-liberty-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260919T125000
+DTEND;TZID=America/New_York:20260919T145000
+SUMMARY:Girls Soccer: Liberty at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 1\, Liberty 0\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam67a9233a46
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam67a9233a46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-21-patterson-mill-perryville-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260921T153000
+DTEND;TZID=America/New_York:20260921T173000
+SUMMARY:Girls Soccer: Perryville at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 4\, Perryville 1\nWatch: https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam0a51652863
+URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam0a51652863
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-joppatowne-patterson-mill-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T153000
+DTEND;TZID=America/New_York:20260922T173000
+SUMMARY:Girls Soccer: Patterson Mill at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Final: Patterson Mill 10\, Joppatowne 0\nWatch: https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gam3f906672d2
+URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gam3f906672d2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-patterson-mill-bel-air-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T185000
+DTEND;TZID=America/New_York:20260924T205000
+SUMMARY:Girls Soccer: Bel Air at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 2\, Bel Air 0\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam76fb32a3f3
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam76fb32a3f3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-patterson-mill-c-milton-wright-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T180000
+DTEND;TZID=America/New_York:20260929T200000
+SUMMARY:Girls Soccer: C. Milton Wright at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 3\, C. Milton Wright 0\nWatch: https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam3f9ff4c367
+URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam3f9ff4c367
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-patterson-mill-aberdeen-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Girls Soccer: Aberdeen at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 9\, Aberdeen 0\nWatch: https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gamffd50c261f
+URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gamffd50c261f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-patterson-mill-mercy-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Girls Soccer: Mercy at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 0\, Mercy 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-patterson-mill-north-east-c-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Girls Soccer: North East-C at Patterson Mill
+LOCATION:Patterson Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-patterson-mill-eastern-tech-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Girls Soccer: Eastern Tech at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam59bd16aa79\nTickets: https://gofan.co/event/6884056
+URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam59bd16aa79
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-havre-de-grace-patterson-mill-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261019T180000
+DTEND;TZID=America/New_York:20261019T200000
+SUMMARY:Girls Soccer: Patterson Mill at Havre de Grace
+LOCATION:Havre de Grace
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam31f102d5f8\nTickets: https://gofan.co/event/6884055
+URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam31f102d5f8
+END:VEVENT
+END:VCALENDAR

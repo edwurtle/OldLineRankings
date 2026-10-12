@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Parkdale Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-10-dr-henry-a-wise-parkdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Boys Soccer: Parkdale at Dr. Henry A. Wise
+LOCATION:Dr. Henry A. Wise
+DESCRIPTION:Final: Parkdale 5\, Dr. Henry A. Wise 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-suitland-parkdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Boys Soccer: Parkdale at Suitland
+LOCATION:Suitland
+DESCRIPTION:Final: Parkdale 10\, Suitland 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-high-point-parkdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260917T153000
+DTEND;TZID=America/New_York:20260917T173000
+SUMMARY:Boys Soccer: Parkdale at High Point
+LOCATION:High Point
+DESCRIPTION:Final: Parkdale 3\, High Point 0\nWatch: https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gamca7cdcbe5d
+URL:https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gamca7cdcbe5d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-duval-parkdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Boys Soccer: Parkdale at DuVal
+LOCATION:DuVal
+DESCRIPTION:Final: Parkdale 4\, DuVal 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-parkdale-duval-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Boys Soccer: DuVal at Parkdale
+LOCATION:Parkdale
+DESCRIPTION:Final: Parkdale 4\, DuVal 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-parkdale-leonardtown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Boys Soccer: Leonardtown at Parkdale
+LOCATION:Parkdale
+DESCRIPTION:Final: Parkdale 0\, Leonardtown 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-eleanor-roosevelt-parkdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T193000
+SUMMARY:Boys Soccer: Parkdale at Eleanor Roosevelt
+LOCATION:Eleanor Roosevelt
+DESCRIPTION:Final: Parkdale 5\, Eleanor Roosevelt 0\nWatch: https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-md/gamc3ee67d5e2
+URL:https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-md/gamc3ee67d5e2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-charles-h-flowers-parkdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Boys Soccer: Parkdale at Charles H. Flowers
+LOCATION:Charles H. Flowers
+DESCRIPTION:Final: Parkdale 4\, Charles H. Flowers 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-northwestern-parkdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Boys Soccer: Parkdale at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Final: Parkdale 9\, Northwestern 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-laurel-parkdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T153000
+DTEND;TZID=America/New_York:20261008T173000
+SUMMARY:Boys Soccer: Parkdale at Laurel
+LOCATION:Laurel
+DESCRIPTION:Final: Parkdale 9\, Laurel 1\nWatch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamd8b2f1122c
+URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamd8b2f1122c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-bladensburg-parkdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261012T163000
+DTEND;TZID=America/New_York:20261012T183000
+SUMMARY:Boys Soccer: Parkdale at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Tickets: https://gofan.co/event/6616876
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-parkdale-bowie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T170000
+DTEND;TZID=America/New_York:20261015T190000
+SUMMARY:Boys Soccer: Bowie at Parkdale
+LOCATION:Parkdale
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gama2fd0e6b1d\nTickets: https://gofan.co/event/6956150
+URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gama2fd0e6b1d
+END:VEVENT
+END:VCALENDAR

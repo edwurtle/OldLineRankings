@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Linganore Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-manchester-valley-linganore-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T190000
+DTEND;TZID=America/New_York:20260908T210000
+SUMMARY:Girls Soccer: Linganore at Manchester Valley
+LOCATION:Manchester Valley
+DESCRIPTION:Final: Linganore 0\, Manchester Valley 3\nWatch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam1e60a1f900
+URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam1e60a1f900
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-walkersville-linganore-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260910T190000
+DTEND;TZID=America/New_York:20260910T210000
+SUMMARY:Girls Soccer: Linganore at Walkersville
+LOCATION:Walkersville
+DESCRIPTION:Final: Linganore 1\, Walkersville 0\nWatch: https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gamd3c6e67530
+URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gamd3c6e67530
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-frederick-linganore-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260917T190000
+DTEND;TZID=America/New_York:20260917T210000
+SUMMARY:Girls Soccer: Linganore at Frederick
+LOCATION:Frederick
+DESCRIPTION:Final: Linganore 5\, Frederick 0\nWatch: https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gam04e8e5d28c
+URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gam04e8e5d28c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-linganore-tuscarora-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Girls Soccer: Tuscarora at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Linganore 7\, Tuscarora 2\nWatch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gamea616b56a4
+URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gamea616b56a4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-linganore-gov-thomas-johnson-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Girls Soccer: Gov. Thomas Johnson at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Linganore 8\, Gov. Thomas Johnson 0\nWatch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam39aa286043
+URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam39aa286043
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-linganore-oakdale-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T190000
+DTEND;TZID=America/New_York:20260929T210000
+SUMMARY:Girls Soccer: Oakdale at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Linganore 1\, Oakdale 0\nWatch: https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gamfe97e9e563
+URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gamfe97e9e563
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-westminster-linganore-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T190000
+DTEND;TZID=America/New_York:20261001T210000
+SUMMARY:Girls Soccer: Linganore at Westminster
+LOCATION:Westminster
+DESCRIPTION:Final: Linganore 2\, Westminster 0\nWatch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam14567d872a
+URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam14567d872a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-linganore-urbana-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T210000
+SUMMARY:Girls Soccer: Urbana at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Linganore 2\, Urbana 1\nWatch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gamd5a0a73370
+URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gamd5a0a73370
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-linganore-south-hagerstown-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Girls Soccer: South Hagerstown at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Linganore 8\, South Hagerstown 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-linganore-north-hagerstown-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Girls Soccer: North Hagerstown at Linganore
+LOCATION:Linganore
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-brunswick-linganore-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T190000
+DTEND;TZID=America/New_York:20261015T210000
+SUMMARY:Girls Soccer: Linganore at Brunswick
+LOCATION:Brunswick
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam05128fe2b2\nTickets: https://gofan.co/event/6820587
+URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam05128fe2b2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-middletown-linganore-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261020T170000
+DTEND;TZID=America/New_York:20261020T190000
+SUMMARY:Girls Soccer: Linganore at Middletown
+LOCATION:Middletown
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam7b56674a34\nTickets: https://gofan.co/event/6871629
+URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam7b56674a34
+END:VEVENT
+END:VCALENDAR

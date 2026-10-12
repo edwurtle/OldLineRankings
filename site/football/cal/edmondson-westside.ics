@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Edmondson-Westside Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-11-edmondson-westside-baltimore-polytechnic-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260911T190000
+DTEND;TZID=America/New_York:20260911T210000
+SUMMARY:Football: Baltimore Polytechnic at Edmondson-Westside
+LOCATION:Edmondson-Westside
+DESCRIPTION:Final: Edmondson-Westside 8\, Baltimore Polytechnic 39\nWatch: https://www.nfhsnetwork.com/events/baltimore-polytechnic-institute-baltimore-md/gam5ed606b3bc
+URL:https://www.nfhsnetwork.com/events/baltimore-polytechnic-institute-baltimore-md/gam5ed606b3bc
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-lake-clifton-edmondson-westside-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Football: Edmondson-Westside at Lake Clifton
+LOCATION:Lake Clifton
+DESCRIPTION:Final: Edmondson-Westside 0\, Lake Clifton 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-reginald-lewis-edmondson-westside-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Football: Edmondson-Westside at Reginald Lewis
+LOCATION:Reginald Lewis
+DESCRIPTION:Final: Edmondson-Westside 60\, Reginald Lewis 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-carver-vocational-technical-edmondson-westside-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: Edmondson-Westside at Carver Vocational-Technical
+LOCATION:Carver Vocational-Technical
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-green-street-academy-edmondson-westside-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Football: Edmondson-Westside at Green Street Academy
+LOCATION:Green Street Academy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-frederick-douglass-b-edmondson-westside-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Football: Edmondson-Westside at Frederick Douglass-B
+LOCATION:Frederick Douglass-B
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-edmondson-westside-forest-park-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Football: Forest Park at Edmondson-Westside
+LOCATION:Edmondson-Westside
+END:VEVENT
+END:VCALENDAR

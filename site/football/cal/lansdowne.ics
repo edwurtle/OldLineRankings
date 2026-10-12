@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Lansdowne Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-lansdowne-sparrows-point-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T180000
+DTEND;TZID=America/New_York:20260904T200000
+SUMMARY:Football: Sparrows Point at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Final: Lansdowne 6\, Sparrows Point 50\nWatch: https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gam0ed17f7297
+URL:https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gam0ed17f7297
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-lansdowne-towson-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Football: Towson at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Final: Lansdowne 0\, Towson 44
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-eastern-tech-lansdowne-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Football: Lansdowne at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Final: Lansdowne 0\, Eastern Tech 47
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-western-tech-lansdowne-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Football: Lansdowne at Western Tech
+LOCATION:Western Tech
+DESCRIPTION:Final: Lansdowne 15\, Western Tech 14
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-lansdowne-northeast-aa-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Football: Northeast-AA at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Final: Lansdowne 0\, Northeast-AA 44
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-lansdowne-chesapeake-b-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261010T120000
+DTEND;TZID=America/New_York:20261010T140000
+SUMMARY:Football: Chesapeake-B at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Final: Lansdowne 12\, Chesapeake-B 16\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-baltimore-md/gamf6e012abd7
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-baltimore-md/gamf6e012abd7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-lansdowne-patapsco-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Football: Patapsco at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/patapsco-high-school-baltimore-md/gam971bb3c51b\nTickets: https://gofan.co/event/6869821
+URL:https://www.nfhsnetwork.com/events/patapsco-high-school-baltimore-md/gam971bb3c51b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-loch-raven-lansdowne-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Football: Lansdowne at Loch Raven
+LOCATION:Loch Raven
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-pikesville-lansdowne-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261029T180000
+DTEND;TZID=America/New_York:20261029T200000
+SUMMARY:Football: Lansdowne at Pikesville
+LOCATION:Pikesville
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/pikesville-high-school-baltimore-md/gam1d186adb8c
+URL:https://www.nfhsnetwork.com/events/pikesville-high-school-baltimore-md/gam1d186adb8c
+END:VEVENT
+END:VCALENDAR

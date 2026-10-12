@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Seneca Valley Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-col-zadok-magruder-seneca-valley-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Girls Soccer: Seneca Valley at Col. Zadok Magruder
+LOCATION:Col. Zadok Magruder
+DESCRIPTION:Final: Seneca Valley 0\, Col. Zadok Magruder 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-seneca-valley-john-f-kennedy-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260911T154500
+DTEND;TZID=America/New_York:20260911T174500
+SUMMARY:Girls Soccer: John F. Kennedy at Seneca Valley
+LOCATION:Seneca Valley
+DESCRIPTION:Final: Seneca Valley 6\, John F. Kennedy 0\nWatch: https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/game152834f94
+URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/game152834f94
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-northwest-seneca-valley-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260914T191500
+DTEND;TZID=America/New_York:20260914T211500
+SUMMARY:Girls Soccer: Seneca Valley at Northwest
+LOCATION:Northwest
+DESCRIPTION:Final: Seneca Valley 0\, Northwest 3\nWatch: https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam9e03c76635
+URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam9e03c76635
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-watkins-mill-seneca-valley-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260916T191500
+DTEND;TZID=America/New_York:20260916T211500
+SUMMARY:Girls Soccer: Seneca Valley at Watkins Mill
+LOCATION:Watkins Mill
+DESCRIPTION:Final: Seneca Valley 8\, Watkins Mill 0\nWatch: https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/gam37bfd1eb49
+URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/gam37bfd1eb49
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-poolesville-seneca-valley-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T173000
+DTEND;TZID=America/New_York:20260922T193000
+SUMMARY:Girls Soccer: Seneca Valley at Poolesville
+LOCATION:Poolesville
+DESCRIPTION:Final: Seneca Valley 0\, Poolesville 4\nWatch: https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam11d8794993
+URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam11d8794993
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-damascus-seneca-valley-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260925T191500
+DTEND;TZID=America/New_York:20260925T211500
+SUMMARY:Girls Soccer: Seneca Valley at Damascus
+LOCATION:Damascus
+DESCRIPTION:Final: Seneca Valley 4\, Damascus 2\nWatch: https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gamfab9597a5b
+URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gamfab9597a5b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-seneca-valley-quince-orchard-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260930T191500
+DTEND;TZID=America/New_York:20260930T211500
+SUMMARY:Girls Soccer: Quince Orchard at Seneca Valley
+LOCATION:Seneca Valley
+DESCRIPTION:Final: Seneca Valley 0\, Quince Orchard 1\nWatch: https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-md/gamd51fb7bf86
+URL:https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-md/gamd51fb7bf86
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-seneca-valley-springbrook-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T191500
+DTEND;TZID=America/New_York:20261006T211500
+SUMMARY:Girls Soccer: Springbrook at Seneca Valley
+LOCATION:Seneca Valley
+DESCRIPTION:Final: Seneca Valley 6\, Springbrook 0\nWatch: https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam402a649b96
+URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam402a649b96
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-clarksburg-seneca-valley-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T191500
+DTEND;TZID=America/New_York:20261008T211500
+SUMMARY:Girls Soccer: Seneca Valley at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Final: Seneca Valley 4\, Clarksburg 1\nWatch: https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam0e864b09f5
+URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam0e864b09f5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-seneca-valley-paint-branch-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261014T191500
+DTEND;TZID=America/New_York:20261014T211500
+SUMMARY:Girls Soccer: Paint Branch at Seneca Valley
+LOCATION:Seneca Valley
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gambb33fc2743\nTickets: https://gofan.co/event/6708290
+URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gambb33fc2743
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-seneca-valley-winston-churchill-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261019T190000
+DTEND;TZID=America/New_York:20261019T210000
+SUMMARY:Girls Soccer: Winston Churchill at Seneca Valley
+LOCATION:Seneca Valley
+DESCRIPTION:Tickets: https://gofan.co/event/6707887
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-rockville-seneca-valley-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Girls Soccer: Seneca Valley at Rockville
+LOCATION:Rockville
+DESCRIPTION:Tickets: https://gofan.co/event/6708237
+END:VEVENT
+END:VCALENDAR

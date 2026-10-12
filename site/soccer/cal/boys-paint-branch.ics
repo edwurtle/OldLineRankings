@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Paint Branch Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-wheaton-paint-branch-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260904T191500
+DTEND;TZID=America/New_York:20260904T211500
+SUMMARY:Boys Soccer: Paint Branch at Wheaton
+LOCATION:Wheaton
+DESCRIPTION:Final: Paint Branch 3\, Wheaton 2\nWatch: https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gam9f3dba356d
+URL:https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gam9f3dba356d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-northwood-paint-branch-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Boys Soccer: Paint Branch at Northwood
+LOCATION:Northwood
+DESCRIPTION:Final: Paint Branch 4\, Northwood 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-col-zadok-magruder-paint-branch-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260915T191500
+DTEND;TZID=America/New_York:20260915T211500
+SUMMARY:Boys Soccer: Paint Branch at Col. Zadok Magruder
+LOCATION:Col. Zadok Magruder
+DESCRIPTION:Final: Paint Branch 5\, Col. Zadok Magruder 0\nWatch: https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gamd335682b64
+URL:https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gamd335682b64
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-sherwood-paint-branch-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260917T191500
+DTEND;TZID=America/New_York:20260917T211500
+SUMMARY:Boys Soccer: Paint Branch at Sherwood
+LOCATION:Sherwood
+DESCRIPTION:Final: Paint Branch 1\, Sherwood 2\nWatch: https://www.nfhsnetwork.com/events/sherwood-high-school-sandy-spring-md/gam6dc0f27645
+URL:https://www.nfhsnetwork.com/events/sherwood-high-school-sandy-spring-md/gam6dc0f27645
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-springbrook-paint-branch-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T191500
+DTEND;TZID=America/New_York:20260922T211500
+SUMMARY:Boys Soccer: Paint Branch at Springbrook
+LOCATION:Springbrook
+DESCRIPTION:Final: Paint Branch 8\, Springbrook 0\nWatch: https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/gam011db96544
+URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/gam011db96544
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-james-hubert-blake-paint-branch-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T191500
+DTEND;TZID=America/New_York:20260924T211500
+SUMMARY:Boys Soccer: Paint Branch at James Hubert Blake
+LOCATION:James Hubert Blake
+DESCRIPTION:Final: Paint Branch 4\, James Hubert Blake 2\nWatch: https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gam98499d91c7
+URL:https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gam98499d91c7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-gaithersburg-paint-branch-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260928T191500
+DTEND;TZID=America/New_York:20260928T211500
+SUMMARY:Boys Soccer: Paint Branch at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Final: Paint Branch 3\, Gaithersburg 2\nWatch: https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gam1dccc1a3f0
+URL:https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gam1dccc1a3f0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-clarksburg-paint-branch-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261005T191500
+DTEND;TZID=America/New_York:20261005T211500
+SUMMARY:Boys Soccer: Paint Branch at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Final: Paint Branch 1\, Clarksburg 3\nWatch: https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/game42dba2bb5
+URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/game42dba2bb5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-winston-churchill-paint-branch-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Boys Soccer: Paint Branch at Winston Churchill
+LOCATION:Winston Churchill
+DESCRIPTION:Final: Paint Branch 4\, Winston Churchill 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-seneca-valley-paint-branch-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261014T171500
+DTEND;TZID=America/New_York:20261014T191500
+SUMMARY:Boys Soccer: Paint Branch at Seneca Valley
+LOCATION:Seneca Valley
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam28602b9711\nTickets: https://gofan.co/event/6708290
+URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam28602b9711
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-albert-einstein-paint-branch-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261019T191500
+DTEND;TZID=America/New_York:20261019T211500
+SUMMARY:Boys Soccer: Paint Branch at Albert Einstein
+LOCATION:Albert Einstein
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gam8d30ae8a95\nTickets: https://gofan.co/event/6708989
+URL:https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gam8d30ae8a95
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-walt-whitman-paint-branch-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261021T171500
+DTEND;TZID=America/New_York:20261021T191500
+SUMMARY:Boys Soccer: Paint Branch at Walt Whitman
+LOCATION:Walt Whitman
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam3e0b166f7a\nTickets: https://gofan.co/event/6709180
+URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam3e0b166f7a
+END:VEVENT
+END:VCALENDAR

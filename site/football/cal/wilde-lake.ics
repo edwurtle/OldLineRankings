@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Wilde Lake Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-wilde-lake-severn-run-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T180000
+DTEND;TZID=America/New_York:20260904T200000
+SUMMARY:Football: Severn Run at Wilde Lake
+LOCATION:Wilde Lake
+DESCRIPTION:Final: Wilde Lake 8\, Severn Run 45\nWatch: https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gamac6f268e9a
+URL:https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gamac6f268e9a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-wilde-lake-atholton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260910T180000
+DTEND;TZID=America/New_York:20260910T200000
+SUMMARY:Football: Atholton at Wilde Lake
+LOCATION:Wilde Lake
+DESCRIPTION:Final: Wilde Lake 31\, Atholton 7\nWatch: https://www.nfhsnetwork.com/events/atholton-high-school-columbia-md/gam551df40614
+URL:https://www.nfhsnetwork.com/events/atholton-high-school-columbia-md/gam551df40614
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-glenelg-wilde-lake-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Football: Wilde Lake at Glenelg
+LOCATION:Glenelg
+DESCRIPTION:Final: Wilde Lake 26\, Glenelg 21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-oakland-mills-wilde-lake-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T200000
+SUMMARY:Football: Wilde Lake at Oakland Mills
+LOCATION:Oakland Mills
+DESCRIPTION:Final: Wilde Lake 8\, Oakland Mills 32\nWatch: https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gam3554055e69
+URL:https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gam3554055e69
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-mount-hebron-wilde-lake-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T200000
+SUMMARY:Football: Wilde Lake at Mount Hebron
+LOCATION:Mount Hebron
+DESCRIPTION:Final: Wilde Lake 48\, Mount Hebron 10\nWatch: https://www.nfhsnetwork.com/events/mt-hebron-high-school-ellicott-city-md/gam38089eaf02
+URL:https://www.nfhsnetwork.com/events/mt-hebron-high-school-ellicott-city-md/gam38089eaf02
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-river-hill-wilde-lake-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261010T120000
+DTEND;TZID=America/New_York:20261010T140000
+SUMMARY:Football: Wilde Lake at River Hill
+LOCATION:River Hill
+DESCRIPTION:Final: Wilde Lake 0\, River Hill 14\nWatch: https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gamb5ed5444ee
+URL:https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gamb5ed5444ee
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-wilde-lake-marriotts-ridge-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261015T180000
+DTEND;TZID=America/New_York:20261015T200000
+SUMMARY:Football: Marriotts Ridge at Wilde Lake
+LOCATION:Wilde Lake
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gam459820c1ff\nTickets: https://gofan.co/event/6896326
+URL:https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gam459820c1ff
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-wilde-lake-hammond-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261024T130000
+DTEND;TZID=America/New_York:20261024T150000
+SUMMARY:Football: Hammond at Wilde Lake
+LOCATION:Wilde Lake
+DESCRIPTION:Tickets: https://gofan.co/event/6883178
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-wilde-lake-reservoir-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
+SUMMARY:Football: Reservoir at Wilde Lake
+LOCATION:Wilde Lake
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gam849fc6a73f\nTickets: https://gofan.co/event/6896327
+URL:https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gam849fc6a73f
+END:VEVENT
+END:VCALENDAR

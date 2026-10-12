@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Glen Burnie Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-havre-de-grace-glen-burnie-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260905T130000
+DTEND;TZID=America/New_York:20260905T150000
+SUMMARY:Girls Soccer: Glen Burnie at Havre de Grace
+LOCATION:Havre de Grace
+DESCRIPTION:Final: Glen Burnie 0\, Havre de Grace 4\nWatch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam70fe3fecab
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam70fe3fecab
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-winters-mill-glen-burnie-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260905T090000
+DTEND;TZID=America/New_York:20260905T110000
+SUMMARY:Girls Soccer: Glen Burnie at Winters Mill
+LOCATION:Winters Mill
+DESCRIPTION:Final: Glen Burnie 0\, Winters Mill 6\nWatch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gama744e49670
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gama744e49670
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-glen-burnie-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Girls Soccer: North County at Glen Burnie
+LOCATION:Glen Burnie
+DESCRIPTION:Final: Glen Burnie 0\, North County 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-severn-run-glen-burnie-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260915T190000
+DTEND;TZID=America/New_York:20260915T210000
+SUMMARY:Girls Soccer: Glen Burnie at Severn Run
+LOCATION:Severn Run
+DESCRIPTION:Final: Glen Burnie 0\, Severn Run 3\nWatch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam472a9a939b
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam472a9a939b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-old-mill-glen-burnie-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Girls Soccer: Glen Burnie at Old Mill
+LOCATION:Old Mill
+DESCRIPTION:Final: Glen Burnie 2\, Old Mill 0\nWatch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamfb3f1d4097
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamfb3f1d4097
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-glen-burnie-broadneck-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T170000
+DTEND;TZID=America/New_York:20260924T190000
+SUMMARY:Girls Soccer: Broadneck at Glen Burnie
+LOCATION:Glen Burnie
+DESCRIPTION:Final: Glen Burnie 0\, Broadneck 5\nWatch: https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gam66af378741
+URL:https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gam66af378741
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-southern-aa-glen-burnie-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T190000
+DTEND;TZID=America/New_York:20260929T210000
+SUMMARY:Girls Soccer: Glen Burnie at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Glen Burnie 2\, Southern-AA 3\nWatch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam5babd61ccd
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam5babd61ccd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-glen-burnie-meade-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T164500
+DTEND;TZID=America/New_York:20261001T184500
+SUMMARY:Girls Soccer: Meade at Glen Burnie
+LOCATION:Glen Burnie
+DESCRIPTION:Final: Glen Burnie 1\, Meade 0\nWatch: https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam3e17ce0d6c
+URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam3e17ce0d6c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-chesapeake-aa-glen-burnie-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T210000
+SUMMARY:Girls Soccer: Glen Burnie at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Glen Burnie 1\, Chesapeake-AA 7\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gameda77dd485
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gameda77dd485
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-glen-burnie-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T170000
+DTEND;TZID=America/New_York:20261008T190000
+SUMMARY:Girls Soccer: Annapolis at Glen Burnie
+LOCATION:Glen Burnie
+DESCRIPTION:Final: Glen Burnie 1\, Annapolis 4\nWatch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam62ddfe15fd
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam62ddfe15fd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-south-river-glen-burnie-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T210000
+SUMMARY:Girls Soccer: Glen Burnie at South River
+LOCATION:South River
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamb423f5ba3b\nTickets: https://gofan.co/event/6956773
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamb423f5ba3b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-northeast-aa-glen-burnie-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T170000
+DTEND;TZID=America/New_York:20261015T190000
+SUMMARY:Girls Soccer: Glen Burnie at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam6bab837d1a\nTickets: https://gofan.co/event/6956783
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam6bab837d1a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-chesapeake-science-point-glen-burnie-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Girls Soccer: Glen Burnie at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-eastern-tech-glen-burnie-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261021T170000
+DTEND;TZID=America/New_York:20261021T190000
+SUMMARY:Girls Soccer: Glen Burnie at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamc66088752a
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamc66088752a
+END:VEVENT
+END:VCALENDAR

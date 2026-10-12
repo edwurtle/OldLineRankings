@@ -1,21 +1,21 @@
 #!/usr/bin/env python3
 """Fetch results and write rankings for each site (site/soccer/, site/football/) and the splash page (site/).
 
-Power points per game:
+Points per game (soccer's Old Line Rating; for football the same formula is the MPSSAA points):
   win  = opponent class points (soccer: 1A=5 .. 4A=8; football: MPSSAA seeding values 6/7/8)
          + opponent's season wins
   tie  = half of what a win would have earned
   loss = 0
 Opponent "wins" count each of the opponent's ties as half a win. Opponents outside
 the state association count as the lowest class with 0 wins. Teams are ranked by average
-power points per game played. Strength of schedule (SOS) is the average a team
+points per game played. Strength of schedule (SOS) is the average a team
 would have earned had it won every game.
 
 Football is ranked by the Old Line Rating instead (see oldline.py); its MPSSAA points are kept
 for playoff seeding.
 """
 import collections, datetime, html, json, pathlib, re, subprocess
-import icons, oldline
+import gofan, icons, nfhs, oldline
 
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -25,7 +25,7 @@ SITES = {
     "football": dict(
         out="site/football", sport="Football", icon="football", season="Fall",
         ranked_by="Old Line Rating: capped scoring margins + opponent strength",
-        divisions={"football": dict(label="Football", api="football")},
+        divisions={"football": dict(label="Football", api="football", gender="Boys")},
         # MPSSAA football seeding win points (Football Tournament Bulletin, "Classification Win Points")
         classes={"4A": 8, "4A_3A": 8, "3A": 7, "2A": 7, "2A_1A": 6, "1A": 6},
         labels={"4A_3A": "4A/3A", "2A_1A": "2A/1A"},
@@ -37,13 +37,15 @@ SITES = {
         playoffs=dict(seed_by="mpssaa", region_seeds=8, per_region=2), first_meeting_only=True,
         # Old Line Rating: margin capped at 28 (under the 35-point running clock), 4-point win bonus,
         # pulled toward class average by 3 games' worth; k = win-probability scale per rating point.
-        # Backtested on 2026 weeks 3-6: picks 79% of winners vs 71% for MPSSAA points.
-        olr=dict(cap=28, win_bonus=4, prior=3, k=0.175),
+        # Backtested on 2026 weeks 3-6 (games after the week-2 fit): picks 75% of winners vs 70% for MPSSAA points.
+        # ladder: class averages pulled toward an even class ladder by 50 games' worth (backtest: better
+        # predictions, most on cross-class games)
+        olr=dict(cap=28, win_bonus=4, prior=3, ladder=50, k=0.16),
     ),
     "soccer": dict(
         out="site/soccer", sport="Soccer", icon="soccer", season="Fall",
-        ranked_by="Power points: opponent class + opponent wins, per game",
-        divisions={"boys": dict(label="Boys", api="boys-soccer"), "girls": dict(label="Girls", api="girls-soccer")},
+        ranked_by="Old Line Rating: points per game from opponent class + opponent wins",
+        divisions={"boys": dict(label="Boys", api="boys-soccer", gender="Boys"), "girls": dict(label="Girls", api="girls-soccer", gender="Girls")},
         classes={"4A": 8, "3A": 7, "2A": 6, "1A": 5},
         regions=["East I", "East II", "North I", "North II", "South I", "South II", "West I", "West II"],
         score=dict(short="GF–GA", name="Goal difference", plural="goals"),
@@ -269,7 +271,7 @@ def build_site(key, cfg, nonce, stamp):
         teams = rank_sport(raw, standings, cfg["classes"], cfg.get("first_meeting_only", False))
         sports[div] = dict(teams=teams, through=max((g["date"] for t in teams for g in t["games"]), default=None))
         if cfg.get("olr"):
-            ratings, home = oldline.rate(teams, cfg["olr"])
+            ratings, home = oldline.rate(teams, cfg["olr"], list(cfg["classes"]))
             assign_ranks(teams)
             project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False),
                     lambda a, b, a_home: oldline.win_prob(ratings[a], ratings[b], 1 if a_home else -1, home, cfg["olr"]["k"]) >= .5)
@@ -291,6 +293,14 @@ def build_site(key, cfg, nonce, stamp):
     schools, missing = match_schools(names, root)
     if missing:
         print("No directory match for:", missing)
+    # Watch (NFHS Network) and ticket (GoFan) links are nice-to-haves: never fail the build over them
+    cities = {n: s["city"] for n, s in schools.items()}
+    for name, add in (("NFHS watch", nfhs.add_watch_links), ("GoFan ticket", gofan.add_ticket_links)):
+        try:
+            add(sports, cfg["divisions"], cfg["sport"], DIRECTORY_NAME, cities)
+        except Exception as e:
+            print(f"  {name} links skipped:", e)
+    write_calendars(out, sports, cfg)
     # Every sport, for the footer switcher (paths relative to this site)
     family = dict(home=root, sports=[dict(sport=c["sport"], icon=icons.svg(c["icon"]), current=k == key,
                                           href=root + "".join(p + "/" for p in pathlib.Path(c["out"]).parts[1:]))
@@ -306,6 +316,54 @@ def build_site(key, cfg, nonce, stamp):
     (out / "index.html").write_text(page)
     print(f"Wrote {cfg['out']}/")
     return dict(cfg=cfg, sports=sports, schools=schools, href="/".join(pathlib.Path(cfg["out"]).parts[1:]) + "/")
+
+
+def slug(name):
+    return re.sub(r"[^a-z0-9]+", "-", name.lower().replace("&", "and")).strip("-")
+
+
+def ics_text(s):
+    return str(s).replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+
+
+def write_calendars(out, sports, cfg):
+    """One subscribable .ics per team (site/<sport>/cal/<team>.ics), rebuilt nightly, so subscribers
+    get new games, start times and results. Sets t["cal"] to the file's path within the site."""
+    (out / "cal").mkdir(exist_ok=True)
+    multi = len(cfg["divisions"]) > 1
+    stamp = datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    for div, s in sports.items():
+        label = (cfg["divisions"][div]["label"] + " " if multi else "") + cfg["sport"]
+        for t in s["teams"]:
+            name = slug((div + "-" if multi else "") + t["school"])
+            lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Old Line Rankings//EN", "CALSCALE:GREGORIAN",
+                     f"X-WR-CALNAME:{ics_text(t['school'] + ' ' + label)}", "X-WR-TIMEZONE:America/New_York"]
+            for g in t["games"] + t["upcoming"]:
+                home, away = (t["school"], g["opp"]) if g["home"] else (g["opp"], t["school"])
+                day = datetime.date.fromisoformat(g["date"])
+                if g.get("time"):
+                    start = datetime.datetime.combine(day, datetime.time.fromisoformat(g["time"]))
+                    when = [f"DTSTART;TZID=America/New_York:{start:%Y%m%dT%H%M%S}",
+                            f"DTEND;TZID=America/New_York:{start + datetime.timedelta(hours=2):%Y%m%dT%H%M%S}"]
+                else:
+                    when = [f"DTSTART;VALUE=DATE:{day:%Y%m%d}", f"DTEND;VALUE=DATE:{day + datetime.timedelta(1):%Y%m%d}"]
+                notes = []
+                if "res" in g:
+                    notes.append(f"Final: {t['school']} {g['gf'] if g['gf'] is not None else '-'}, {g['opp']} {g['ga'] if g['ga'] is not None else '-'}")
+                if g.get("watch"):
+                    notes.append("Watch: " + g["watch"])
+                if g.get("tickets"):
+                    notes.append("Tickets: " + g["tickets"])
+                lines += ["BEGIN:VEVENT", f"UID:{g['date']}-{slug(home)}-{slug(away)}-{slug(label)}@oldlinerankings", f"DTSTAMP:{stamp}",
+                          *when, f"SUMMARY:{ics_text(f'{label}: {away} at {home}')}", f"LOCATION:{ics_text(home)}"]
+                if notes:
+                    lines.append("DESCRIPTION:" + ics_text("\n".join(notes)))
+                if g.get("watch"):
+                    lines.append(f"URL:{g['watch']}")
+                lines.append("END:VEVENT")
+            lines.append("END:VCALENDAR")
+            (out / "cal" / f"{name}.ics").write_text("\r\n".join(lines) + "\r\n")
+            t["cal"] = f"cal/{name}.ics"
 
 
 def esc(s):

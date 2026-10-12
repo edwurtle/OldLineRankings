@@ -5,7 +5,10 @@ win (minus for the loss). Ratings are solved jointly so that, across a team's ga
     game value ≈ team rating − opponent rating + home edge
 i.e. a team's rating is its average game value plus its opponents' average rating. Each rating is
 pulled toward its class average by `prior` games' worth (so early-season ratings aren't driven by
-one or two results); non-member opponents get their own group. Ratings are centred so the average
+one or two results); non-member opponents get their own group. Class averages are in turn pulled
+toward an evenly spaced ladder (4A > 4A/3A > 3A > 2A > 2A/1A > 1A, step fitted from the data) by
+`ladder` games' worth, because classes mostly play their own and neighbouring classes: the few
+cross-class games alone leave the gaps between classes noisy. Ratings are centred so the average
 member team is 0, and a rating difference is roughly a point spread.
 
 Win probability for a game is logistic in the rating difference (scale `k`, fitted by backtesting
@@ -20,9 +23,12 @@ def game_value(g, cfg):
     return margin + cfg["win_bonus"] * sign
 
 
-def rate(teams, cfg, iters=200):
-    """Set t["rating"] (OLR) and t["sos"] (average opponent OLR). Returns (ratings incl. non-members, home edge)."""
+def rate(teams, cfg, class_order, iters=200):
+    """Set t["rating"] (OLR) and t["sos"] (average opponent OLR). class_order is highest class first.
+    Returns (ratings incl. non-members, home edge)."""
     cls = {t["school"]: t["cls"] for t in teams}
+    rung = {c: (len(class_order) - 1) / 2 - i for i, c in enumerate(class_order)}  # 4A +2.5 .. 1A -2.5
+    step = 0.0
     games = []  # (team, opp, value, +1 home / -1 away), each game once
     for t in teams:
         for g in t["games"]:
@@ -43,7 +49,11 @@ def rate(teams, cfg, iters=200):
         for k in set(group.values()):
             num = sum(v + r(o) - home * s - u[x] for x in by if group[x] == k for o, v, s in by[x])
             den = sum(len(by[x]) for x in by if group[x] == k)
-            mean[k] = num / (den + 1)
+            if k in rung:
+                mean[k] = (num + cfg["ladder"] * step * rung[k]) / (den + cfg["ladder"])
+            else:
+                mean[k] = num / (den + 1)
+        step = sum(rung[k] * mean[k] for k in mean if k in rung) / sum(rung[k] ** 2 for k in mean if k in rung)
         # Home edge measured from the data, but never negative (an away "advantage" is noise)
         home = max(0.0, sum(s * (v - r(a) + r(b)) for a, b, v, s in games) / max(1, len(games)))
         centre = sum(r(x) for x in by if x in cls) / max(1, sum(x in cls for x in by))

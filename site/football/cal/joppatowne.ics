@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Joppatowne Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-north-harford-joppatowne-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T190000
+DTEND;TZID=America/New_York:20260904T210000
+SUMMARY:Football: Joppatowne at North Harford
+LOCATION:North Harford
+DESCRIPTION:Final: Joppatowne 6\, North Harford 28\nWatch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam82c74da123
+URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam82c74da123
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-c-milton-wright-joppatowne-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260918T184500
+DTEND;TZID=America/New_York:20260918T204500
+SUMMARY:Football: Joppatowne at C. Milton Wright
+LOCATION:C. Milton Wright
+DESCRIPTION:Final: Joppatowne 0\, C. Milton Wright 21\nWatch: https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamf9c0a54994
+URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamf9c0a54994
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-bel-air-joppatowne-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T185000
+DTEND;TZID=America/New_York:20260925T205000
+SUMMARY:Football: Joppatowne at Bel Air
+LOCATION:Bel Air
+DESCRIPTION:Final: Joppatowne 13\, Bel Air 43\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gamc8904a7d82
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gamc8904a7d82
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-patterson-mill-joppatowne-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T173000
+DTEND;TZID=America/New_York:20261002T193000
+SUMMARY:Football: Joppatowne at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Joppatowne 7\, Patterson Mill 42\nWatch: https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam2bf6ab52d7
+URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam2bf6ab52d7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-rising-sun-joppatowne-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261009T184500
+DTEND;TZID=America/New_York:20261009T204500
+SUMMARY:Football: Joppatowne at Rising Sun
+LOCATION:Rising Sun
+DESCRIPTION:Final: Joppatowne 12\, Rising Sun 15\nWatch: https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamdf5265d162
+URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamdf5265d162
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-fallston-joppatowne-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261015T184500
+DTEND;TZID=America/New_York:20261015T204500
+SUMMARY:Football: Joppatowne at Fallston
+LOCATION:Fallston
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamc59c3986af\nTickets: https://gofan.co/event/6893405
+URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamc59c3986af
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-aberdeen-joppatowne-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T184500
+DTEND;TZID=America/New_York:20261023T204500
+SUMMARY:Football: Joppatowne at Aberdeen
+LOCATION:Aberdeen
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gam09648029cf\nTickets: https://gofan.co/event/6893622
+URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gam09648029cf
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-havre-de-grace-joppatowne-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T210000
+SUMMARY:Football: Joppatowne at Havre de Grace
+LOCATION:Havre de Grace
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gam8c2ca5f9c6\nTickets: https://gofan.co/event/6859558
+URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gam8c2ca5f9c6
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Overlea Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-frederick-douglass-b-overlea-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Football: Overlea at Frederick Douglass-B
+LOCATION:Frederick Douglass-B
+DESCRIPTION:Final: Overlea 35\, Frederick Douglass-B 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-bel-air-overlea-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Football: Overlea at Bel Air
+LOCATION:Bel Air
+DESCRIPTION:Final: Overlea 14\, Bel Air 34
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-overlea-dundalk-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Football: Dundalk at Overlea
+LOCATION:Overlea
+DESCRIPTION:Final: Overlea 12\, Dundalk 29
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-overlea-dulaney-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Football: Dulaney at Overlea
+LOCATION:Overlea
+DESCRIPTION:Final: Overlea 30\, Dulaney 14
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-overlea-kenwood-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Football: Kenwood at Overlea
+LOCATION:Overlea
+DESCRIPTION:Final: Overlea 12\, Kenwood 16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-hereford-overlea-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: Overlea at Hereford
+LOCATION:Hereford
+DESCRIPTION:Final: Overlea 6\, Hereford 20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-overlea-parkville-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261017T120000
+DTEND;TZID=America/New_York:20261017T140000
+SUMMARY:Football: Parkville at Overlea
+LOCATION:Overlea
+DESCRIPTION:Tickets: https://gofan.co/event/6751059
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-owings-mills-overlea-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T180000
+DTEND;TZID=America/New_York:20261023T200000
+SUMMARY:Football: Overlea at Owings Mills
+LOCATION:Owings Mills
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/owings-mills-high-school-owings-mills-md/game3b9bddee5\nTickets: https://gofan.co/event/6870863
+URL:https://www.nfhsnetwork.com/events/owings-mills-high-school-owings-mills-md/game3b9bddee5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-overlea-perry-hall-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T173000
+DTEND;TZID=America/New_York:20261030T193000
+SUMMARY:Football: Perry Hall at Overlea
+LOCATION:Overlea
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/perry-hall-high-school-baltimore-md/gam16da2960da
+URL:https://www.nfhsnetwork.com/events/perry-hall-high-school-baltimore-md/gam16da2960da
+END:VEVENT
+END:VCALENDAR

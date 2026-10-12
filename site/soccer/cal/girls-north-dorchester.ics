@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:North Dorchester Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-10-kent-county-north-dorchester-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:Girls Soccer: North Dorchester at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: North Dorchester 3\, Kent County 6\nWatch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamce966400cb
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamce966400cb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-north-dorchester-mardela-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Girls Soccer: Mardela at North Dorchester
+LOCATION:North Dorchester
+DESCRIPTION:Final: North Dorchester 0\, Mardela 8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-north-dorchester-north-caroline-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260917T173000
+DTEND;TZID=America/New_York:20260917T193000
+SUMMARY:Girls Soccer: North Caroline at North Dorchester
+LOCATION:North Dorchester
+DESCRIPTION:Final: North Dorchester 0\, North Caroline 8\nWatch: https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam2bed8c9e1a
+URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam2bed8c9e1a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-crisfield-north-dorchester-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Girls Soccer: North Dorchester at Crisfield
+LOCATION:Crisfield
+DESCRIPTION:Final: North Dorchester 9\, Crisfield 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-colonel-richardson-north-dorchester-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T173000
+DTEND;TZID=America/New_York:20260924T193000
+SUMMARY:Girls Soccer: North Dorchester at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Final: North Dorchester 0\, Colonel Richardson 11\nWatch: https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam13463503bd
+URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam13463503bd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-north-dorchester-snow-hill-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Girls Soccer: Snow Hill at North Dorchester
+LOCATION:North Dorchester
+DESCRIPTION:Final: North Dorchester 1\, Snow Hill 11
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-north-dorchester-queen-anne-s-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Girls Soccer: Queen Anne's at North Dorchester
+LOCATION:North Dorchester
+DESCRIPTION:Final: North Dorchester 1\, Queen Anne's 11
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-north-dorchester-kent-island-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T173000
+DTEND;TZID=America/New_York:20261006T193000
+SUMMARY:Girls Soccer: Kent Island at North Dorchester
+LOCATION:North Dorchester
+DESCRIPTION:Final: North Dorchester 0\, Kent Island 10\nWatch: https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gamf4f90d01dc
+URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gamf4f90d01dc
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-kent-county-north-dorchester-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Girls Soccer: North Dorchester at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: North Dorchester 0\, Kent County 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-north-dorchester-cambridge-south-dorchester-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Girls Soccer: Cambridge-South Dorchester at North Dorchester
+LOCATION:North Dorchester
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-north-dorchester-crisfield-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Girls Soccer: Crisfield at North Dorchester
+LOCATION:North Dorchester
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-colonel-richardson-north-dorchester-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Girls Soccer: North Dorchester at Colonel Richardson
+LOCATION:Colonel Richardson
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-north-dorchester-easton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Girls Soccer: Easton at North Dorchester
+LOCATION:North Dorchester
+END:VEVENT
+END:VCALENDAR

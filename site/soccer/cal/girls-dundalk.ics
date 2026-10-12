@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Dundalk Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-10-dundalk-kenwood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Girls Soccer: Kenwood at Dundalk
+LOCATION:Dundalk
+DESCRIPTION:Final: Dundalk 0\, Kenwood 5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-franklin-dundalk-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Girls Soccer: Dundalk at Franklin
+LOCATION:Franklin
+DESCRIPTION:Final: Dundalk 0\, Franklin 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-carver-aandt-dundalk-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Girls Soccer: Dundalk at Carver A&T
+LOCATION:Carver A&T
+DESCRIPTION:Final: Dundalk 0\, Carver A&T 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-dundalk-carver-vocational-technical-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Girls Soccer: Carver Vocational-Technical at Dundalk
+LOCATION:Dundalk
+DESCRIPTION:Final: Dundalk 0\, Carver Vocational-Technical 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-patapsco-dundalk-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Girls Soccer: Dundalk at Patapsco
+LOCATION:Patapsco
+DESCRIPTION:Final: Dundalk 3\, Patapsco 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-dundalk-parkville-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Girls Soccer: Parkville at Dundalk
+LOCATION:Dundalk
+DESCRIPTION:Final: Dundalk 2\, Parkville 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-overlea-dundalk-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Girls Soccer: Dundalk at Overlea
+LOCATION:Overlea
+DESCRIPTION:Final: Dundalk 7\, Overlea 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-dundalk-kenwood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Girls Soccer: Kenwood at Dundalk
+LOCATION:Dundalk
+DESCRIPTION:Final: Dundalk 2\, Kenwood 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-carver-aandt-dundalk-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Girls Soccer: Dundalk at Carver A&T
+LOCATION:Carver A&T
+DESCRIPTION:Final: Dundalk 0\, Carver A&T 8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-franklin-dundalk-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Girls Soccer: Dundalk at Franklin
+LOCATION:Franklin
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-dundalk-parkville-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Girls Soccer: Parkville at Dundalk
+LOCATION:Dundalk
+DESCRIPTION:Tickets: https://gofan.co/event/6751058
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-overlea-dundalk-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Girls Soccer: Dundalk at Overlea
+LOCATION:Overlea
+DESCRIPTION:Tickets: https://gofan.co/event/6868097
+END:VEVENT
+END:VCALENDAR

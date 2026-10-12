@@ -1,0 +1,1012 @@
+{
+ "MD100381": {
+  "city": "Severn",
+  "name": "Severn Run High School",
+  "type": "High School"
+ },
+ "MD100409": {
+  "city": "Baltimore",
+  "name": "Loch Raven Technical Academy",
+  "type": "Middle School"
+ },
+ "MD101033": {
+  "city": "Bladensburg",
+  "name": "International High School - Langley Park",
+  "type": "High School"
+ },
+ "MD101097": {
+  "city": "Riverdale Park",
+  "name": "College Park Academy",
+  "type": "High School"
+ },
+ "MD101176": {
+  "city": "Largo",
+  "name": "International High School - Largo",
+  "type": "High School"
+ },
+ "MD10399": {
+  "city": "Ellicott City",
+  "name": "Howard County Public Schools",
+  "type": "School District"
+ },
+ "MD10400": {
+  "city": "Annapolis",
+  "name": "Anne Arundel County Schools",
+  "type": "School District"
+ },
+ "MD10401": {
+  "city": "Bel Air",
+  "name": "Harford County Public Schools",
+  "type": "School District"
+ },
+ "MD10404": {
+  "city": "Annapolis",
+  "name": "Annapolis High School",
+  "type": "High School"
+ },
+ "MD10405": {
+  "city": "Annapolis",
+  "name": "Broadneck High School",
+  "type": "High School"
+ },
+ "MD10406": {
+  "city": "Edgewater",
+  "name": "South River High School",
+  "type": "High School"
+ },
+ "MD10964": {
+  "city": "Glenelg",
+  "name": "Glenelg High School",
+  "type": "High School"
+ },
+ "MD12431": {
+  "city": "Owings Mills",
+  "name": "New Town High School",
+  "type": "High School"
+ },
+ "MD12667": {
+  "city": "Havre De Grace",
+  "name": "Havre De Grace High School",
+  "type": "High School"
+ },
+ "MD12668": {
+  "city": "Pylesville",
+  "name": "North Harford High School",
+  "type": "High School"
+ },
+ "MD12669": {
+  "city": "Bel Air",
+  "name": "Patterson Mill High School",
+  "type": "High School"
+ },
+ "MD12676": {
+  "city": "Essex",
+  "name": "Chesapeake High School",
+  "type": "High School"
+ },
+ "MD12677": {
+  "city": "Baltimore",
+  "name": "Friends School",
+  "type": "High School"
+ },
+ "MD13220": {
+  "city": "Hagerstown",
+  "name": "South Hagerstown High School",
+  "type": "High School"
+ },
+ "MD13221": {
+  "city": "Cumberland",
+  "name": "Fort Hill High School",
+  "type": "High School"
+ },
+ "MD14175": {
+  "city": "Servern",
+  "name": "Annapolis Area Christian School",
+  "type": "High School"
+ },
+ "MD14177": {
+  "city": "Chesapeake City",
+  "name": "Bohemia Manor High School",
+  "type": "High School"
+ },
+ "MD14180": {
+  "city": "Sykesville",
+  "name": "Century High School",
+  "type": "High School"
+ },
+ "MD14185": {
+  "city": "Elkton",
+  "name": "Elkton High School",
+  "type": "High School"
+ },
+ "MD14186": {
+  "city": "Union Bridge",
+  "name": "Francis Scott Key High School",
+  "type": "High School"
+ },
+ "MD24750": {
+  "city": "Kensington",
+  "name": "Albert Einstein High School",
+  "type": "High School"
+ },
+ "MD24754": {
+  "city": "Bethesda",
+  "name": "Bethesda - Chevy Chase High School",
+  "type": "High School"
+ },
+ "MD24757": {
+  "city": "Bladensburg",
+  "name": "Bladensburg High School",
+  "type": "High School"
+ },
+ "MD24758": {
+  "city": "Boonsboro",
+  "name": "Boonsboro High School",
+  "type": "High School"
+ },
+ "MD24759": {
+  "city": "Bowie",
+  "name": "Bowie High School",
+  "type": "High School"
+ },
+ "MD24761": {
+  "city": "Brunswick",
+  "name": "Brunswick High School",
+  "type": "High School"
+ },
+ "MD24762": {
+  "city": "Prince Frederick",
+  "name": "Calvert High School",
+  "type": "High School"
+ },
+ "MD24762_1": {
+  "city": "Prince Frederick",
+  "name": "Calvert High School Athletic Boosters",
+  "type": "Subaccount"
+ },
+ "MD24764": {
+  "city": "Thurmont",
+  "name": "Catoctin High School",
+  "type": "High School"
+ },
+ "MD24765": {
+  "city": "Forestville",
+  "name": "Central High School",
+  "type": "High School"
+ },
+ "MD24767": {
+  "city": "Morganza",
+  "name": "Chopticon High School",
+  "type": "High School"
+ },
+ "MD24768": {
+  "city": "Clear Spring",
+  "name": "Clear Spring High School",
+  "type": "High School"
+ },
+ "MD24769": {
+  "city": "Derwood",
+  "name": "Col Zadok Magruder High School",
+  "type": "High School"
+ },
+ "MD24771": {
+  "city": "Temple Hills",
+  "name": "Crossland High School",
+  "type": "High School"
+ },
+ "MD24772": {
+  "city": "Damascus",
+  "name": "Damascus High School",
+  "type": "High School"
+ },
+ "MD24774": {
+  "city": "Lanham",
+  "name": "Duval High School",
+  "type": "High School"
+ },
+ "MD24775": {
+  "city": "Greenbelt",
+  "name": "Eleanor Roosevelt High School",
+  "type": "High School"
+ },
+ "MD24777": {
+  "city": "Hyattsville",
+  "name": "Fairmont Heights Sr High School",
+  "type": "High School"
+ },
+ "MD24782": {
+  "city": "Frederick",
+  "name": "Frederick High School",
+  "type": "High School"
+ },
+ "MD24784": {
+  "city": "Fort Washington",
+  "name": "Friendly Senior High School",
+  "type": "High School"
+ },
+ "MD24786": {
+  "city": "Gaithersburg",
+  "name": "Gaithersburg Sr High School",
+  "type": "High School"
+ },
+ "MD24789": {
+  "city": "Frederick",
+  "name": "Governor Thomas Johnson High School",
+  "type": "High School"
+ },
+ "MD24791": {
+  "city": "Great Mills",
+  "name": "Great Mills High School",
+  "type": "High School"
+ },
+ "MD24792": {
+  "city": "Brandywine",
+  "name": "Gwynn Park Senior High School",
+  "type": "High School"
+ },
+ "MD24793": {
+  "city": "Hancock",
+  "name": "Hancock High School",
+  "type": "High School"
+ },
+ "MD24794": {
+  "city": "Beltsville",
+  "name": "High Point High School",
+  "type": "High School"
+ },
+ "MD24797": {
+  "city": "Silver Spring",
+  "name": "James Hubert Blake High School",
+  "type": "High School"
+ },
+ "MD24798": {
+  "city": "Silver Spring",
+  "name": "John F Kennedy High School",
+  "type": "High School"
+ },
+ "MD24799": {
+  "city": "La Plata",
+  "name": "La Plata High School",
+  "type": "High School"
+ },
+ "MD24800": {
+  "city": "Indian Head",
+  "name": "Lackey High School",
+  "type": "High School"
+ },
+ "MD24801": {
+  "city": "Bethesda",
+  "name": "Landon School",
+  "type": "High School"
+ },
+ "MD24803": {
+  "city": "Upr Marlboro",
+  "name": "Largo High School",
+  "type": "High School"
+ },
+ "MD24804": {
+  "city": "Laurel",
+  "name": "Laurel High School",
+  "type": "High School"
+ },
+ "MD24805": {
+  "city": "Leonardtown",
+  "name": "Leonardtown High School",
+  "type": "High School"
+ },
+ "MD24805_1": {
+  "city": "Leonardtown",
+  "name": "Leonardtown High School Theatre",
+  "type": "Subaccount"
+ },
+ "MD24806": {
+  "city": "Frederick",
+  "name": "Linganore High School",
+  "type": "High School"
+ },
+ "MD24807": {
+  "city": "Frederick",
+  "name": "Maryland School For The Deaf",
+  "type": "High School"
+ },
+ "MD24808": {
+  "city": "Pomfret",
+  "name": "McDonough High School",
+  "type": "High School"
+ },
+ "MD24809": {
+  "city": "Middletown",
+  "name": "Middletown High School",
+  "type": "High School"
+ },
+ "MD24810": {
+  "city": "Silver Spring",
+  "name": "Montgomery Blair High School",
+  "type": "High School"
+ },
+ "MD24812": {
+  "city": "Hagerstown",
+  "name": "North Hagerstown High School",
+  "type": "High School"
+ },
+ "MD24813": {
+  "city": "Owings",
+  "name": "Northern High School",
+  "type": "High School"
+ },
+ "MD24814": {
+  "city": "Germantown",
+  "name": "Northwest High School",
+  "type": "High School"
+ },
+ "MD24815": {
+  "city": "Hyattsville",
+  "name": "Northwestern High School",
+  "type": "High School"
+ },
+ "MD24816": {
+  "city": "Olney",
+  "name": "Our Lady Of Good Counsel High School",
+  "type": "High School"
+ },
+ "MD24817": {
+  "city": "Oxon Hill",
+  "name": "Oxon Hill High School",
+  "type": "High School"
+ },
+ "MD24818": {
+  "city": "Burtonsville",
+  "name": "Paint Branch High School",
+  "type": "High School"
+ },
+ "MD24819": {
+  "city": "Riverdale",
+  "name": "Parkdale High School",
+  "type": "High School"
+ },
+ "MD24820": {
+  "city": "Lusby",
+  "name": "Patuxent High School",
+  "type": "High School"
+ },
+ "MD24821": {
+  "city": "Poolesville",
+  "name": "Poolesville High School",
+  "type": "High School"
+ },
+ "MD24822": {
+  "city": "Oxon Hill",
+  "name": "Potomac High School",
+  "type": "High School"
+ },
+ "MD24824": {
+  "city": "North Potomac",
+  "name": "Quince Orchard High School",
+  "type": "High School"
+ },
+ "MD24825": {
+  "city": "Rockville",
+  "name": "Richard Montgomery High School",
+  "type": "High School"
+ },
+ "MD24827": {
+  "city": "Rockville",
+  "name": "Rockville High School",
+  "type": "High School"
+ },
+ "MD24829": {
+  "city": "Hagerstown",
+  "name": "Saint James School",
+  "type": "High School"
+ },
+ "MD24833": {
+  "city": "Laurel",
+  "name": "Saint Vincent Pallotti High School",
+  "type": "High School"
+ },
+ "MD24835": {
+  "city": "Germantown",
+  "name": "Seneca Valley High School",
+  "type": "High School"
+ },
+ "MD24836": {
+  "city": "Sandy Spring",
+  "name": "Sherwood High School",
+  "type": "High School"
+ },
+ "MD24837": {
+  "city": "Smithsburg",
+  "name": "Smithsburg High School",
+  "type": "High School"
+ },
+ "MD24839": {
+  "city": "Silver Spring",
+  "name": "Springbrook High School",
+  "type": "High School"
+ },
+ "MD24842": {
+  "city": "District Heights",
+  "name": "Suitland High School",
+  "type": "High School"
+ },
+ "MD24843": {
+  "city": "Clinton",
+  "name": "Surrattsville High School",
+  "type": "High School"
+ },
+ "MD24849": {
+  "city": "Rockville",
+  "name": "Thomas S Wootton High School",
+  "type": "High School"
+ },
+ "MD24850": {
+  "city": "Waldorf",
+  "name": "Thomas Stone High School",
+  "type": "High School"
+ },
+ "MD24851": {
+  "city": "Ijamsville",
+  "name": "Urbana High School",
+  "type": "High School"
+ },
+ "MD24853": {
+  "city": "Walkersville",
+  "name": "Walkersville High School",
+  "type": "High School"
+ },
+ "MD24854": {
+  "city": "Bethesda",
+  "name": "Walt Whitman High School",
+  "type": "High School"
+ },
+ "MD24855": {
+  "city": "Bethesda",
+  "name": "Walter Johnson High School",
+  "type": "High School"
+ },
+ "MD24857": {
+  "city": "Gaithersburg",
+  "name": "Watkins Mill High School",
+  "type": "High School"
+ },
+ "MD24858": {
+  "city": "Waldorf",
+  "name": "Westlake High School",
+  "type": "High School"
+ },
+ "MD24860": {
+  "city": "Silver Spring",
+  "name": "Wheaton High School",
+  "type": "High School"
+ },
+ "MD24861": {
+  "city": "Williamsport",
+  "name": "Williamsport High School",
+  "type": "High School"
+ },
+ "MD24862": {
+  "city": "Potomac",
+  "name": "Winston Churchill High School",
+  "type": "High School"
+ },
+ "MD27236": {
+  "city": "Upper Marlboro",
+  "name": "Prince Georges County Public Schools",
+  "type": "School District"
+ },
+ "MD27237": {
+  "city": "Springdale",
+  "name": "Charles Herbert Flowers High School",
+  "type": "High School"
+ },
+ "MD27239": {
+  "city": "Rockville",
+  "name": "Montgomery County Public Schools",
+  "type": "School District"
+ },
+ "MD27281": {
+  "city": "Clarksburg",
+  "name": "Clarksburg High School",
+  "type": "High School"
+ },
+ "MD27282": {
+  "city": "Rokville",
+  "name": "Northwood High School",
+  "type": "High School"
+ },
+ "MD27307": {
+  "city": "Upper Marlboro",
+  "name": "Dr. Henry A Wise High School",
+  "type": "High School"
+ },
+ "MD27320": {
+  "city": "Waldorf",
+  "name": "North Point High School",
+  "type": "High School"
+ },
+ "MD51100": {
+  "city": "Baltimore",
+  "name": "Milford Mill Academy",
+  "type": "High School"
+ },
+ "MD51114": {
+  "city": "Randallstown",
+  "name": "Randallstown High School",
+  "type": "High School"
+ },
+ "MD51290": {
+  "city": "Ijamsville",
+  "name": "Oakdale High School",
+  "type": "High School"
+ },
+ "MD55046": {
+  "city": "Frederick",
+  "name": "Tuscarora High School",
+  "type": "High School"
+ },
+ "MD67195": {
+  "city": "Waldorf",
+  "name": "St. Charles High School",
+  "type": "High School"
+ },
+ "MD67558": {
+  "city": "Upper Marlboro",
+  "name": "Frederick Douglass High School",
+  "type": "High School"
+ },
+ "MD67620": {
+  "city": "Huntingtown",
+  "name": "Huntingtown High School",
+  "type": "High School"
+ },
+ "MD67711": {
+  "city": "Westminster",
+  "name": "Winters Mill High School",
+  "type": "High School"
+ },
+ "MD68033": {
+  "city": "Sykesville",
+  "name": "South Carroll High School",
+  "type": "High School"
+ },
+ "MD68050": {
+  "city": "Marriottsville",
+  "name": "Marriotts Ridge High School",
+  "type": "High School"
+ },
+ "MD68110": {
+  "city": "Westminster",
+  "name": "Westminster Senior High School",
+  "type": "High School"
+ },
+ "MD68111": {
+  "city": "Frederick",
+  "name": "Frederick County Public Schools (Maryland)",
+  "type": "School District"
+ },
+ "MD68323": {
+  "city": "Leonardtown",
+  "name": "St. Mary's County Public Schools",
+  "type": "School District"
+ },
+ "MD68324": {
+  "city": "Laplata",
+  "name": "Charles County Public Schools",
+  "type": "School District"
+ },
+ "MD69687": {
+  "city": "North East",
+  "name": "Rising Sun High School",
+  "type": "High School"
+ },
+ "MD69704": {
+  "city": "Annapolis",
+  "name": "St. Mary's High School (Annapolis)",
+  "type": "High School"
+ },
+ "MD69708": {
+  "city": "Manchester",
+  "name": "Manchester Valley High School",
+  "type": "High School"
+ },
+ "MD69712": {
+  "city": "Eldersburg",
+  "name": "Liberty High School",
+  "type": "High School"
+ },
+ "MD69714": {
+  "city": "Crownsville",
+  "name": "Indian Creek School",
+  "type": "High School"
+ },
+ "MD69715": {
+  "city": "Finksburg",
+  "name": "Gerstell Academy",
+  "type": "High School"
+ },
+ "MD69716": {
+  "city": "Fulton",
+  "name": "Reservoir High School",
+  "type": "High School"
+ },
+ "MD69718": {
+  "city": "Perryville",
+  "name": "Perryville High School",
+  "type": "High School"
+ },
+ "MD69719": {
+  "city": "North East",
+  "name": "North East High School",
+  "type": "High School"
+ },
+ "MD73085": {
+  "city": "Westminster",
+  "name": "Carroll County Public Schools",
+  "type": "School District"
+ },
+ "MD73091": {
+  "city": "Gambrills",
+  "name": "Crofton High School",
+  "type": "High School"
+ },
+ "MD79931": {
+  "city": "Prince Frederick",
+  "name": "Calvert Middle School",
+  "type": "Middle School"
+ },
+ "MD79932": {
+  "city": "Lusby",
+  "name": "Mill Creek Middle School",
+  "type": "Middle School"
+ },
+ "MD79933": {
+  "city": "Owings",
+  "name": "Northern Middle School",
+  "type": "Middle School"
+ },
+ "MD79935": {
+  "city": "Lusby",
+  "name": "Southern Middle School",
+  "type": "Middle School"
+ },
+ "MD79936": {
+  "city": "Owings",
+  "name": "Windy Hill Middle School",
+  "type": "Middle School"
+ },
+ "MD86387": {
+  "city": "Hanover",
+  "name": "Chesapeake Science Point Charter School",
+  "type": "High School"
+ },
+ "MD87446": {
+  "city": "Prince Frederick",
+  "name": "Calvert County Public Schools",
+  "type": "School District"
+ },
+ "MD9559": {
+  "city": "Aberdeen",
+  "name": "Aberdeen High School",
+  "type": "High School"
+ },
+ "MD9560": {
+  "city": "Baltimore",
+  "name": "Archbishop Curley High School",
+  "type": "High School"
+ },
+ "MD9561": {
+  "city": "Severn",
+  "name": "Archbishop Spalding High School",
+  "type": "High School"
+ },
+ "MD9562": {
+  "city": "Gambrills",
+  "name": "Arundel High School",
+  "type": "High School"
+ },
+ "MD9563": {
+  "city": "Columbia",
+  "name": "Atholton High School",
+  "type": "High School"
+ },
+ "MD9565": {
+  "city": "Baltimore",
+  "name": "Baltimore City College High School",
+  "type": "High School"
+ },
+ "MD9567": {
+  "city": "Towson",
+  "name": "Concordia Prep",
+  "type": "High School"
+ },
+ "MD9568": {
+  "city": "Bel Air",
+  "name": "Bel Air High School",
+  "type": "High School"
+ },
+ "MD9572": {
+  "city": "Bel Air",
+  "name": "C Milton Wright High School",
+  "type": "High School"
+ },
+ "MD9575": {
+  "city": "Towson",
+  "name": "Carver Center for Arts and Technology",
+  "type": "High School"
+ },
+ "MD9577": {
+  "city": "Catonsville",
+  "name": "Catonsville High School",
+  "type": "High School"
+ },
+ "MD9579": {
+  "city": "Ellicott City",
+  "name": "Centennial High School",
+  "type": "High School"
+ },
+ "MD9581": {
+  "city": "Pasadena",
+  "name": "Chesapeake High School",
+  "type": "High School"
+ },
+ "MD9583": {
+  "city": "Timonium",
+  "name": "Dulaney High School",
+  "type": "High School"
+ },
+ "MD9585": {
+  "city": "Dundalk",
+  "name": "Dundalk High School",
+  "type": "High School"
+ },
+ "MD9586": {
+  "city": "Essex",
+  "name": "Eastern Tech High School",
+  "type": "High School"
+ },
+ "MD9587": {
+  "city": "Edgewood",
+  "name": "Edgewood High School",
+  "type": "High School"
+ },
+ "MD9589": {
+  "city": "Fallston",
+  "name": "Fallston High School",
+  "type": "High School"
+ },
+ "MD9590": {
+  "city": "Reisterstown",
+  "name": "Franklin High School",
+  "type": "High School"
+ },
+ "MD9592": {
+  "city": "Baltimore",
+  "name": "Gilman School",
+  "type": "High School"
+ },
+ "MD9593": {
+  "city": "Glen Burnie",
+  "name": "Glen Burnie High School",
+  "type": "High School"
+ },
+ "MD9594": {
+  "city": "Columbia",
+  "name": "Hammond High School",
+  "type": "High School"
+ },
+ "MD9595": {
+  "city": "Bel Air",
+  "name": "Harford Tech High School",
+  "type": "High School"
+ },
+ "MD9596": {
+  "city": "Parkton",
+  "name": "Hereford High School",
+  "type": "High School"
+ },
+ "MD9597": {
+  "city": "Ellicott City",
+  "name": "Howard High School",
+  "type": "High School"
+ },
+ "MD9600": {
+  "city": "Bel Air",
+  "name": "The John Carroll School",
+  "type": "High School"
+ },
+ "MD9601": {
+  "city": "Joppa",
+  "name": "Joppatowne High School",
+  "type": "High School"
+ },
+ "MD9602": {
+  "city": "Essex",
+  "name": "Kenwood High School",
+  "type": "High School"
+ },
+ "MD9604": {
+  "city": "Halethorpe",
+  "name": "Lansdowne High School",
+  "type": "High School"
+ },
+ "MD9605": {
+  "city": "Towson",
+  "name": "Loch Raven Senior High School",
+  "type": "High School"
+ },
+ "MD9606": {
+  "city": "Columbia",
+  "name": "Long Reach High School",
+  "type": "High School"
+ },
+ "MD9608": {
+  "city": "Lutherville",
+  "name": "Maryvale Prep School",
+  "type": "High School"
+ },
+ "MD9609": {
+  "city": "Fort George G Meade",
+  "name": "Meade Senior High School",
+  "type": "High School"
+ },
+ "MD9614": {
+  "city": "Ellicott City",
+  "name": "Mt. Hebron High School",
+  "type": "High School"
+ },
+ "MD9617": {
+  "city": "Glen Burnie",
+  "name": "North County High School",
+  "type": "High School"
+ },
+ "MD9618": {
+  "city": "Pasadena",
+  "name": "Northeast High School",
+  "type": "High School"
+ },
+ "MD9621": {
+  "city": "Columbia",
+  "name": "Oakland Mills High School",
+  "type": "High School"
+ },
+ "MD9622": {
+  "city": "Millersville",
+  "name": "Old Mill Senior High School",
+  "type": "High School"
+ },
+ "MD9624": {
+  "city": "Baltimore",
+  "name": "Overlea High School",
+  "type": "High School"
+ },
+ "MD9625": {
+  "city": "Owings Mills",
+  "name": "Owings Mills High School",
+  "type": "High School"
+ },
+ "MD9627": {
+  "city": "Parkville",
+  "name": "Parkville High School",
+  "type": "High School"
+ },
+ "MD9628": {
+  "city": "Dundalk",
+  "name": "Patapsco High School",
+  "type": "High School"
+ },
+ "MD9629": {
+  "city": "Baltimore",
+  "name": "Patterson High School",
+  "type": "High School"
+ },
+ "MD9630": {
+  "city": "Nottingham",
+  "name": "Perry Hall High School",
+  "type": "High School"
+ },
+ "MD9631": {
+  "city": "Pikesville",
+  "name": "Pikesville Senior High School",
+  "type": "High School"
+ },
+ "MD9632": {
+  "city": "Clarksville",
+  "name": "River Hill High School",
+  "type": "High School"
+ },
+ "MD9634": {
+  "city": "Brooklandville",
+  "name": "Saint Paul's School",
+  "type": "High School"
+ },
+ "MD9635": {
+  "city": "Brooklandville",
+  "name": "Saint Paul'S School For Girls",
+  "type": "High School"
+ },
+ "MD9636": {
+  "city": "Stevenson",
+  "name": "Saint Timothy's School",
+  "type": "High School"
+ },
+ "MD9637": {
+  "city": "Severna Park",
+  "name": "Severna Park High School",
+  "type": "High School"
+ },
+ "MD9638": {
+  "city": "Harwood",
+  "name": "Southern High School",
+  "type": "High School"
+ },
+ "MD9641": {
+  "city": "Sparrows Point",
+  "name": "Sparrows Point High School",
+  "type": "High School"
+ },
+ "MD9642": {
+  "city": "Baltimore",
+  "name": "The Catholic High School",
+  "type": "High School"
+ },
+ "MD9644": {
+  "city": "Severna Park",
+  "name": "The Severn School",
+  "type": "High School"
+ },
+ "MD9646": {
+  "city": "Towson",
+  "name": "Towson High School",
+  "type": "High School"
+ },
+ "MD9649": {
+  "city": "Baltimore",
+  "name": "Western Technology High School",
+  "type": "High School"
+ },
+ "MD9650": {
+  "city": "Columbia",
+  "name": "Wilde Lake High School",
+  "type": "High School"
+ },
+ "MD9651": {
+  "city": "Gwynn Oak",
+  "name": "Woodlawn High School",
+  "type": "High School"
+ },
+ "MD99672": {
+  "city": "Towson",
+  "name": "Baltimore County Schools",
+  "type": "School District"
+ },
+ "MD99734": {
+  "city": "Laurel",
+  "name": "CMIT Academy North",
+  "type": "High School"
+ },
+ "MD99735": {
+  "city": "Upper Marlboro",
+  "name": "CMIT Academy South",
+  "type": "High School"
+ },
+ "MD99806": {
+  "city": "Jessup",
+  "name": "Guilford Park High School",
+  "type": "High School"
+ },
+ "MDEL29892": {
+  "city": "Brooklandville",
+  "name": "Park School Of Baltimore",
+  "type": "Elementary School"
+ },
+ "MDEL30030": {
+  "city": "Baltimore",
+  "name": "Boys Latin School Of Maryland",
+  "type": "Elementary School"
+ },
+ "MDEL30563": {
+  "city": "Bethesda",
+  "name": "Stone Ridge School Of The Sacred",
+  "type": "Elementary School"
+ }
+}

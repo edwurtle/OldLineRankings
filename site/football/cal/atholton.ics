@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atholton Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-carver-vocational-technical-atholton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Football: Atholton at Carver Vocational-Technical
+LOCATION:Carver Vocational-Technical
+DESCRIPTION:Final: Atholton 0\, Carver Vocational-Technical 16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-wilde-lake-atholton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260910T180000
+DTEND;TZID=America/New_York:20260910T200000
+SUMMARY:Football: Atholton at Wilde Lake
+LOCATION:Wilde Lake
+DESCRIPTION:Final: Atholton 7\, Wilde Lake 31\nWatch: https://www.nfhsnetwork.com/events/atholton-high-school-columbia-md/gam551df40614
+URL:https://www.nfhsnetwork.com/events/atholton-high-school-columbia-md/gam551df40614
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-atholton-reservoir-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Football: Reservoir at Atholton
+LOCATION:Atholton
+DESCRIPTION:Final: Atholton 15\, Reservoir 23
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-mount-hebron-atholton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260926T130000
+DTEND;TZID=America/New_York:20260926T150000
+SUMMARY:Football: Atholton at Mount Hebron
+LOCATION:Mount Hebron
+DESCRIPTION:Final: Atholton 34\, Mount Hebron 14\nWatch: https://www.nfhsnetwork.com/events/mt-hebron-high-school-ellicott-city-md/gam8ac198d08d
+URL:https://www.nfhsnetwork.com/events/mt-hebron-high-school-ellicott-city-md/gam8ac198d08d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-atholton-guilford-park-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T200000
+SUMMARY:Football: Guilford Park at Atholton
+LOCATION:Atholton
+DESCRIPTION:Final: Atholton 0\, Guilford Park 55\nWatch: https://www.nfhsnetwork.com/events/atholton-high-school-columbia-md/gam9c22edfda3
+URL:https://www.nfhsnetwork.com/events/atholton-high-school-columbia-md/gam9c22edfda3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-long-reach-atholton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261009T180000
+DTEND;TZID=America/New_York:20261009T200000
+SUMMARY:Football: Atholton at Long Reach
+LOCATION:Long Reach
+DESCRIPTION:Final: Atholton 26\, Long Reach 12\nWatch: https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/game302a099f3
+URL:https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/game302a099f3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-howard-atholton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Football: Atholton at Howard
+LOCATION:Howard
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-oakland-mills-atholton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T180000
+DTEND;TZID=America/New_York:20261023T200000
+SUMMARY:Football: Atholton at Oakland Mills
+LOCATION:Oakland Mills
+DESCRIPTION:Tickets: https://gofan.co/event/6788589
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-glenelg-atholton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
+SUMMARY:Football: Atholton at Glenelg
+LOCATION:Glenelg
+DESCRIPTION:Tickets: https://gofan.co/event/6854852
+END:VEVENT
+END:VCALENDAR

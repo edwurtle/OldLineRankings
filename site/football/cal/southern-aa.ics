@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Southern-AA Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-southern-aa-crofton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T181000
+DTEND;TZID=America/New_York:20260904T201000
+SUMMARY:Football: Crofton at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 0\, Crofton 44\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamea70127796
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamea70127796
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-southern-aa-annapolis-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260910T180000
+DTEND;TZID=America/New_York:20260910T200000
+SUMMARY:Football: Annapolis at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 7\, Annapolis 45\nWatch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gamde7b53593b
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gamde7b53593b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-southern-aa-patapsco-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260918T180000
+DTEND;TZID=America/New_York:20260918T200000
+SUMMARY:Football: Patapsco at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 15\, Patapsco 12\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam72a55d8bbe
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam72a55d8bbe
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-mountain-ridge-southern-aa-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T200000
+SUMMARY:Football: Southern-AA at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Final: Southern-AA 6\, Mountain Ridge 56\nWatch: https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/gamf95727bf0b
+URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/gamf95727bf0b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-southern-aa-centennial-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Football: Centennial at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 35\, Centennial 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-southern-aa-md-st-john-s-catholic-prep-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: MD- St. John’s Catholic Prep at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 6\, MD- St. John’s Catholic Prep 42
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-southern-aa-south-river-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Football: South River at Southern-AA
+LOCATION:Southern-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-northeast-aa-southern-aa-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T180000
+DTEND;TZID=America/New_York:20261023T200000
+SUMMARY:Football: Southern-AA at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Tickets: https://gofan.co/event/6810851
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-southern-aa-chesapeake-aa-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Football: Chesapeake-AA at Southern-AA
+LOCATION:Southern-AA
+END:VEVENT
+END:VCALENDAR

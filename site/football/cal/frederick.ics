@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Frederick Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-guilford-park-frederick-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T183000
+DTEND;TZID=America/New_York:20260904T203000
+SUMMARY:Football: Frederick at Guilford Park
+LOCATION:Guilford Park
+DESCRIPTION:Final: Frederick 6\, Guilford Park 35\nWatch: https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gamcef513f7b1
+URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gamcef513f7b1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-frederick-de-smyrna-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260910T183000
+DTEND;TZID=America/New_York:20260910T203000
+SUMMARY:Football: DE- Smyrna at Frederick
+LOCATION:Frederick
+DESCRIPTION:Final: Frederick 12\, DE- Smyrna 44\nWatch: https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gam7b1052e24f
+URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gam7b1052e24f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-frederick-south-hagerstown-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260918T184000
+DTEND;TZID=America/New_York:20260918T204000
+SUMMARY:Football: South Hagerstown at Frederick
+LOCATION:Frederick
+DESCRIPTION:Final: Frederick 38\, South Hagerstown 12\nWatch: https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gam243d1718c9
+URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gam243d1718c9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-middletown-frederick-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T183000
+DTEND;TZID=America/New_York:20260925T203000
+SUMMARY:Football: Frederick at Middletown
+LOCATION:Middletown
+DESCRIPTION:Final: Frederick 7\, Middletown 42\nWatch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam85eeb49c4f
+URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam85eeb49c4f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-linganore-frederick-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Football: Frederick at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Frederick 0\, Linganore 35
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-frederick-tuscarora-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: Tuscarora at Frederick
+LOCATION:Frederick
+DESCRIPTION:Final: Frederick 22\, Tuscarora 18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-frederick-urbana-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261016T183000
+DTEND;TZID=America/New_York:20261016T203000
+SUMMARY:Football: Urbana at Frederick
+LOCATION:Frederick
+DESCRIPTION:Tickets: https://gofan.co/event/6792286
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-oakdale-frederick-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T183000
+DTEND;TZID=America/New_York:20261023T203000
+SUMMARY:Football: Frederick at Oakdale
+LOCATION:Oakdale
+DESCRIPTION:Tickets: https://gofan.co/event/6792287
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-frederick-gov-thomas-johnson-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T183000
+DTEND;TZID=America/New_York:20261030T203000
+SUMMARY:Football: Gov. Thomas Johnson at Frederick
+LOCATION:Frederick
+DESCRIPTION:Tickets: https://gofan.co/event/6728229
+END:VEVENT
+END:VCALENDAR

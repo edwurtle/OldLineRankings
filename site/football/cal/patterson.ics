@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Patterson Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-long-reach-patterson-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T180000
+DTEND;TZID=America/New_York:20260904T200000
+SUMMARY:Football: Patterson at Long Reach
+LOCATION:Long Reach
+DESCRIPTION:Final: Patterson 0\, Long Reach 47\nWatch: https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/gam585162f901
+URL:https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/gam585162f901
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-chesapeake-aa-patterson-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260910T180000
+DTEND;TZID=America/New_York:20260910T200000
+SUMMARY:Football: Patterson at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Patterson 0\, Chesapeake-AA 54\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam0703aa051a
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam0703aa051a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-baltimore-city-college-patterson-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Football: Patterson at Baltimore City College
+LOCATION:Baltimore City College
+DESCRIPTION:Final: Patterson 0\, Baltimore City College 46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-patterson-mergenthaler-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Football: Mergenthaler at Patterson
+LOCATION:Patterson
+DESCRIPTION:Final: Patterson 0\, Mergenthaler 46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-patterson-digital-harbor-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Football: Digital Harbor at Patterson
+LOCATION:Patterson
+DESCRIPTION:Final: Patterson 8\, Digital Harbor 29
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-reginald-lewis-patterson-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: Patterson at Reginald Lewis
+LOCATION:Reginald Lewis
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-forest-park-patterson-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Football: Patterson at Forest Park
+LOCATION:Forest Park
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-baltimore-polytechnic-patterson-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T180000
+DTEND;TZID=America/New_York:20261023T200000
+SUMMARY:Football: Patterson at Baltimore Polytechnic
+LOCATION:Baltimore Polytechnic
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/baltimore-polytechnic-institute-baltimore-md/gambe2815dcba
+URL:https://www.nfhsnetwork.com/events/baltimore-polytechnic-institute-baltimore-md/gambe2815dcba
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-paul-laurence-dunbar-patterson-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Football: Patterson at Paul Laurence Dunbar
+LOCATION:Paul Laurence Dunbar
+END:VEVENT
+END:VCALENDAR

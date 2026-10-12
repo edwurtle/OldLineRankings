@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Kent County Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-09-kent-county-easton-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Boys Soccer: Easton at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 1\, Easton 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-kent-county-crisfield-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Boys Soccer: Crisfield at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 3\, Crisfield 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-kent-county-cambridge-south-dorchester-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260914T173000
+DTEND;TZID=America/New_York:20260914T193000
+SUMMARY:Boys Soccer: Cambridge-South Dorchester at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 8\, Cambridge-South Dorchester 0\nWatch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam12c8b3be77
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam12c8b3be77
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-kent-county-mardela-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260916T173000
+DTEND;TZID=America/New_York:20260916T193000
+SUMMARY:Boys Soccer: Mardela at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 3\, Mardela 0\nWatch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam280bbadab1
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam280bbadab1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-21-kent-county-north-dorchester-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Boys Soccer: North Dorchester at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 2\, North Dorchester 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-23-kent-county-st-michael-s-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260923T173000
+DTEND;TZID=America/New_York:20260923T193000
+SUMMARY:Boys Soccer: St. Michael's at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 2\, St. Michael's 0\nWatch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam12414eb39b
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam12414eb39b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-kent-county-pocomoke-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Boys Soccer: Pocomoke at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 1\, Pocomoke 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-kent-county-kent-island-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260930T174500
+DTEND;TZID=America/New_York:20260930T194500
+SUMMARY:Boys Soccer: Kent Island at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 1\, Kent Island 1\nWatch: https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam86daedc421
+URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam86daedc421
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-colonel-richardson-kent-county-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261005T173000
+DTEND;TZID=America/New_York:20261005T193000
+SUMMARY:Boys Soccer: Kent County at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Final: Kent County 0\, Colonel Richardson 5\nWatch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamfdeb4414e9
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamfdeb4414e9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-kent-county-snow-hill-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261007T173000
+DTEND;TZID=America/New_York:20261007T193000
+SUMMARY:Boys Soccer: Snow Hill at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent County 1\, Snow Hill 2\nWatch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gambd2560fa90
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gambd2560fa90
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-kent-county-north-caroline-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Boys Soccer: North Caroline at Kent County
+LOCATION:Kent County
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-kent-county-queen-anne-s-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261019T173000
+DTEND;TZID=America/New_York:20261019T193000
+SUMMARY:Boys Soccer: Queen Anne's at Kent County
+LOCATION:Kent County
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam058ce0aba7
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam058ce0aba7
+END:VEVENT
+END:VCALENDAR

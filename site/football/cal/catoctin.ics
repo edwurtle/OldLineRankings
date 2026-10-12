@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Catoctin Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-catoctin-gov-thomas-johnson-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Football: Gov. Thomas Johnson at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Catoctin 8\, Gov. Thomas Johnson 26
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-catoctin-va-clarke-county-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260910T183000
+DTEND;TZID=America/New_York:20260910T203000
+SUMMARY:Football: VA- Clarke County at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Catoctin 7\, VA- Clarke County 49\nWatch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamcca22ca873
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamcca22ca873
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-catoctin-williamsport-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260918T180000
+DTEND;TZID=America/New_York:20260918T200000
+SUMMARY:Football: Williamsport at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Catoctin 8\, Williamsport 35\nWatch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamd42b55f924
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamd42b55f924
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-catoctin-boonsboro-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Football: Boonsboro at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Catoctin 7\, Boonsboro 55
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-catoctin-south-hagerstown-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Football: South Hagerstown at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Catoctin 14\, South Hagerstown 34
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-catoctin-walkersville-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: Walkersville at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Catoctin 0\, Walkersville 55
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-smithsburg-catoctin-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261016T180000
+DTEND;TZID=America/New_York:20261016T200000
+SUMMARY:Football: Catoctin at Smithsburg
+LOCATION:Smithsburg
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam23bfc475a7\nTickets: https://gofan.co/event/6874223
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam23bfc475a7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-catoctin-middletown-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T183000
+DTEND;TZID=America/New_York:20261023T203000
+SUMMARY:Football: Middletown at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamfe090a5b6b\nTickets: https://gofan.co/event/6874222
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamfe090a5b6b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-brunswick-catoctin-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T183000
+DTEND;TZID=America/New_York:20261030T203000
+SUMMARY:Football: Catoctin at Brunswick
+LOCATION:Brunswick
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam20e2e0ac48\nTickets: https://gofan.co/event/6739317
+URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam20e2e0ac48
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Digital Harbor Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-reginald-lewis-digital-harbor-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T154500
+DTEND;TZID=America/New_York:20260904T174500
+SUMMARY:Football: Digital Harbor at Reginald Lewis
+LOCATION:Reginald Lewis
+DESCRIPTION:Final: Digital Harbor 0\, Reginald Lewis 2\nWatch: https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/gam847a3a0aac
+URL:https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/gam847a3a0aac
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-seed-school-digital-harbor-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Football: Digital Harbor at SEED School
+LOCATION:SEED School
+DESCRIPTION:Final: Digital Harbor 0\, SEED School 43
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-baltimore-polytechnic-digital-harbor-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260918T154500
+DTEND;TZID=America/New_York:20260918T174500
+SUMMARY:Football: Digital Harbor at Baltimore Polytechnic
+LOCATION:Baltimore Polytechnic
+DESCRIPTION:Final: Digital Harbor 0\, Baltimore Polytechnic 47\nWatch: https://www.nfhsnetwork.com/events/baltimore-polytechnic-institute-baltimore-md/gam99f33d4b0b
+URL:https://www.nfhsnetwork.com/events/baltimore-polytechnic-institute-baltimore-md/gam99f33d4b0b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-patterson-digital-harbor-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Football: Digital Harbor at Patterson
+LOCATION:Patterson
+DESCRIPTION:Final: Digital Harbor 29\, Patterson 8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-forest-park-digital-harbor-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: Digital Harbor at Forest Park
+LOCATION:Forest Park
+DESCRIPTION:Final: Digital Harbor 9\, Forest Park 38
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-baltimore-city-college-digital-harbor-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Football: Digital Harbor at Baltimore City College
+LOCATION:Baltimore City College
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-paul-laurence-dunbar-digital-harbor-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Football: Digital Harbor at Paul Laurence Dunbar
+LOCATION:Paul Laurence Dunbar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-digital-harbor-mergenthaler-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Football: Mergenthaler at Digital Harbor
+LOCATION:Digital Harbor
+END:VEVENT
+END:VCALENDAR

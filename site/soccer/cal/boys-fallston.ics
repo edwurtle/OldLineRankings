@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Fallston Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-reservoir-fallston-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260905T182000
+DTEND;TZID=America/New_York:20260905T202000
+SUMMARY:Boys Soccer: Fallston at Reservoir
+LOCATION:Reservoir
+DESCRIPTION:Final: Fallston 0\, Reservoir 1\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam1be5e7fe30
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam1be5e7fe30
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-perry-hall-fallston-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260905T182000
+DTEND;TZID=America/New_York:20260905T202000
+SUMMARY:Boys Soccer: Fallston at Perry Hall
+LOCATION:Perry Hall
+DESCRIPTION:Final: Fallston 3\, Perry Hall 2\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam1be5e7fe30
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam1be5e7fe30
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-fallston-rising-sun-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T170000
+DTEND;TZID=America/New_York:20260908T190000
+SUMMARY:Boys Soccer: Rising Sun at Fallston
+LOCATION:Fallston
+DESCRIPTION:Final: Fallston 6\, Rising Sun 0\nWatch: https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam40a9176b2b
+URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam40a9176b2b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-fallston-bel-air-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260910T185000
+DTEND;TZID=America/New_York:20260910T205000
+SUMMARY:Boys Soccer: Bel Air at Fallston
+LOCATION:Fallston
+DESCRIPTION:Final: Fallston 0\, Bel Air 1\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gama624b70f56
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gama624b70f56
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-patterson-mill-fallston-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T190000
+SUMMARY:Boys Soccer: Fallston at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Fallston 3\, Patterson Mill 2\nWatch: https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam02d83a25ad
+URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam02d83a25ad
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-fallston-c-milton-wright-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Boys Soccer: C. Milton Wright at Fallston
+LOCATION:Fallston
+DESCRIPTION:Final: Fallston 1\, C. Milton Wright 4\nWatch: https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/gam1e4d652859
+URL:https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/gam1e4d652859
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-fallston-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Boys Soccer: Aberdeen at Fallston
+LOCATION:Fallston
+DESCRIPTION:Final: Fallston 4\, Aberdeen 2\nWatch: https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam6f3e96b6ef
+URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam6f3e96b6ef
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-fallston-north-harford-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T190000
+DTEND;TZID=America/New_York:20260929T210000
+SUMMARY:Boys Soccer: North Harford at Fallston
+LOCATION:Fallston
+DESCRIPTION:Final: Fallston 4\, North Harford 1\nWatch: https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam58c66d8926
+URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam58c66d8926
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-joppatowne-fallston-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T153000
+DTEND;TZID=America/New_York:20261001T173000
+SUMMARY:Boys Soccer: Fallston at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Final: Fallston 8\, Joppatowne 0\nWatch: https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamb04e8d35e7
+URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamb04e8d35e7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-perryville-fallston-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261007T190000
+DTEND;TZID=America/New_York:20261007T210000
+SUMMARY:Boys Soccer: Fallston at Perryville
+LOCATION:Perryville
+DESCRIPTION:Final: Fallston 7\, Perryville 0\nWatch: https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam514077badc
+URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam514077badc
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-harford-tech-fallston-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T210000
+SUMMARY:Boys Soccer: Fallston at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam764b9bd2a1\nTickets: https://gofan.co/event/6704218
+URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam764b9bd2a1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-fallston-towson-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Boys Soccer: Towson at Fallston
+LOCATION:Fallston
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gama6c5f98b54\nTickets: https://gofan.co/event/6736797
+URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gama6c5f98b54
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-hereford-fallston-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261020T190000
+DTEND;TZID=America/New_York:20261020T210000
+SUMMARY:Boys Soccer: Fallston at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam569f18acd7\nTickets: https://gofan.co/event/6704222
+URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam569f18acd7
+END:VEVENT
+END:VCALENDAR

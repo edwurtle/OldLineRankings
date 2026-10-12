@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Broadneck Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-broadneck-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Boys Soccer: Glen Burnie at Broadneck
+LOCATION:Broadneck
+DESCRIPTION:Final: Broadneck 3\, Glen Burnie 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-broadneck-private-st-mary-s-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Boys Soccer: Private - St. Mary's at Broadneck
+LOCATION:Broadneck
+DESCRIPTION:Final: Broadneck 3\, Private - St. Mary's 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-severna-park-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T190000
+SUMMARY:Boys Soccer: Broadneck at Severna Park
+LOCATION:Severna Park
+DESCRIPTION:Final: Broadneck 1\, Severna Park 4\nWatch: https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam35dc7b3a47
+URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam35dc7b3a47
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-meade-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Boys Soccer: Broadneck at Meade
+LOCATION:Meade
+DESCRIPTION:Final: Broadneck 4\, Meade 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-glen-burnie-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Boys Soccer: Broadneck at Glen Burnie
+LOCATION:Glen Burnie
+DESCRIPTION:Final: Broadneck 2\, Glen Burnie 1\nWatch: https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gamcef1c287d7
+URL:https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gamcef1c287d7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-annapolis-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T170000
+DTEND;TZID=America/New_York:20260929T190000
+SUMMARY:Boys Soccer: Broadneck at Annapolis
+LOCATION:Annapolis
+DESCRIPTION:Final: Broadneck 1\, Annapolis 0\nWatch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam3c0923fac0
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam3c0923fac0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-south-river-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T184500
+DTEND;TZID=America/New_York:20261001T204500
+SUMMARY:Boys Soccer: Broadneck at South River
+LOCATION:South River
+DESCRIPTION:Final: Broadneck 0\, South River 1\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam167d94e86c
+URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam167d94e86c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-arundel-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T170000
+DTEND;TZID=America/New_York:20261006T190000
+SUMMARY:Boys Soccer: Broadneck at Arundel
+LOCATION:Arundel
+DESCRIPTION:Final: Broadneck 6\, Arundel 3\nWatch: https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gam0c3de36793
+URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gam0c3de36793
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-chesapeake-science-point-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T190000
+DTEND;TZID=America/New_York:20261008T210000
+SUMMARY:Boys Soccer: Broadneck at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Broadneck 7\, Chesapeake Science Point 0\nWatch: https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gam15f64337d0
+URL:https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gam15f64337d0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-mount-hebron-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Boys Soccer: Broadneck at Mount Hebron
+LOCATION:Mount Hebron
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-north-county-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T170000
+DTEND;TZID=America/New_York:20261013T190000
+SUMMARY:Boys Soccer: Broadneck at North County
+LOCATION:North County
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gam4417a79d45\nTickets: https://gofan.co/event/6942557
+URL:https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gam4417a79d45
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-chesapeake-aa-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T190000
+DTEND;TZID=America/New_York:20261015T210000
+SUMMARY:Boys Soccer: Broadneck at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam65b1fbd72e\nTickets: https://gofan.co/event/6728469
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam65b1fbd72e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-old-mill-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261020T170000
+DTEND;TZID=America/New_York:20261020T190000
+SUMMARY:Boys Soccer: Broadneck at Old Mill
+LOCATION:Old Mill
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gambf4c19414e\nTickets: https://gofan.co/event/6957368
+URL:https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gambf4c19414e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-broadneck-crofton-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261022T190000
+DTEND;TZID=America/New_York:20261022T210000
+SUMMARY:Boys Soccer: Crofton at Broadneck
+LOCATION:Broadneck
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gamb8090c88e1\nTickets: https://gofan.co/event/6957376
+URL:https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gamb8090c88e1
+END:VEVENT
+END:VCALENDAR

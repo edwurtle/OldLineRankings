@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Long Reach Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-long-reach-patterson-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T180000
+DTEND;TZID=America/New_York:20260904T200000
+SUMMARY:Football: Patterson at Long Reach
+LOCATION:Long Reach
+DESCRIPTION:Final: Long Reach 47\, Patterson 0\nWatch: https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/gam585162f901
+URL:https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/gam585162f901
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-long-reach-kenwood-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260910T190000
+DTEND;TZID=America/New_York:20260910T210000
+SUMMARY:Football: Kenwood at Long Reach
+LOCATION:Long Reach
+DESCRIPTION:Final: Long Reach 7\, Kenwood 32\nWatch: https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam12e88b2509
+URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam12e88b2509
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-long-reach-mount-hebron-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260918T180000
+DTEND;TZID=America/New_York:20260918T200000
+SUMMARY:Football: Mount Hebron at Long Reach
+LOCATION:Long Reach
+DESCRIPTION:Final: Long Reach 42\, Mount Hebron 34\nWatch: https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/gam502107674d
+URL:https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/gam502107674d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-long-reach-river-hill-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T200000
+SUMMARY:Football: River Hill at Long Reach
+LOCATION:Long Reach
+DESCRIPTION:Final: Long Reach 7\, River Hill 35\nWatch: https://www.nfhsnetwork.com/events/river-hill-high-school-clarksville-md/gam4f945ddde1
+URL:https://www.nfhsnetwork.com/events/river-hill-high-school-clarksville-md/gam4f945ddde1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-howard-long-reach-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T200000
+SUMMARY:Football: Long Reach at Howard
+LOCATION:Howard
+DESCRIPTION:Final: Long Reach 6\, Howard 41\nWatch: https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/gam7ac50458c4
+URL:https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/gam7ac50458c4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-long-reach-atholton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261009T180000
+DTEND;TZID=America/New_York:20261009T200000
+SUMMARY:Football: Atholton at Long Reach
+LOCATION:Long Reach
+DESCRIPTION:Final: Long Reach 12\, Atholton 26\nWatch: https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/game302a099f3
+URL:https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/game302a099f3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-long-reach-oakland-mills-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261015T180000
+DTEND;TZID=America/New_York:20261015T200000
+SUMMARY:Football: Oakland Mills at Long Reach
+LOCATION:Long Reach
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/oakland-mills-high-school-columbia-md/gam8264fdff88\nTickets: https://gofan.co/event/6944017
+URL:https://www.nfhsnetwork.com/events/oakland-mills-high-school-columbia-md/gam8264fdff88
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-glenelg-long-reach-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T180000
+DTEND;TZID=America/New_York:20261023T200000
+SUMMARY:Football: Long Reach at Glenelg
+LOCATION:Glenelg
+DESCRIPTION:Tickets: https://gofan.co/event/6854821
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-long-reach-guilford-park-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T210000
+SUMMARY:Football: Guilford Park at Long Reach
+LOCATION:Long Reach
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gam91573e8af9\nTickets: https://gofan.co/event/6864301
+URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gam91573e8af9
+END:VEVENT
+END:VCALENDAR

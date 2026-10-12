@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Digital Harbor Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-national-academy-foundation-naf-digital-harbor-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Boys Soccer: Digital Harbor at National Academy Foundation (NAF)
+LOCATION:National Academy Foundation (NAF)
+DESCRIPTION:Final: Digital Harbor 8\, National Academy Foundation (NAF) 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-benjamin-franklin-digital-harbor-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Boys Soccer: Digital Harbor at Benjamin Franklin
+LOCATION:Benjamin Franklin
+DESCRIPTION:Final: Digital Harbor 3\, Benjamin Franklin 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-digital-harbor-patterson-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Boys Soccer: Patterson at Digital Harbor
+LOCATION:Digital Harbor
+DESCRIPTION:Final: Digital Harbor 2\, Patterson 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-baltimore-city-college-digital-harbor-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Boys Soccer: Digital Harbor at Baltimore City College
+LOCATION:Baltimore City College
+DESCRIPTION:Final: Digital Harbor 0\, Baltimore City College 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-digital-harbor-springdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Boys Soccer: Springdale at Digital Harbor
+LOCATION:Digital Harbor
+DESCRIPTION:Final: Digital Harbor 1\, Springdale 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-baltimore-polytechnic-digital-harbor-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Boys Soccer: Digital Harbor at Baltimore Polytechnic
+LOCATION:Baltimore Polytechnic
+DESCRIPTION:Final: Digital Harbor 1\, Baltimore Polytechnic 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-digital-harbor-patterson-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Boys Soccer: Patterson at Digital Harbor
+LOCATION:Digital Harbor
+DESCRIPTION:Final: Digital Harbor 2\, Patterson 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-reginald-lewis-digital-harbor-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T154500
+DTEND;TZID=America/New_York:20261008T174500
+SUMMARY:Boys Soccer: Digital Harbor at Reginald Lewis
+LOCATION:Reginald Lewis
+DESCRIPTION:Final: Digital Harbor 5\, Reginald Lewis 3\nWatch: https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/gamab875f065a
+URL:https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/gamab875f065a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-digital-harbor-paul-laurence-dunbar-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Boys Soccer: Paul Laurence Dunbar at Digital Harbor
+LOCATION:Digital Harbor
+DESCRIPTION:Final: Digital Harbor 2\, Paul Laurence Dunbar 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-baltimore-city-college-digital-harbor-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Boys Soccer: Digital Harbor at Baltimore City College
+LOCATION:Baltimore City College
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-baltimore-polytechnic-digital-harbor-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Boys Soccer: Digital Harbor at Baltimore Polytechnic
+LOCATION:Baltimore Polytechnic
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-edmondson-westside-digital-harbor-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Boys Soccer: Digital Harbor at Edmondson-Westside
+LOCATION:Edmondson-Westside
+END:VEVENT
+END:VCALENDAR

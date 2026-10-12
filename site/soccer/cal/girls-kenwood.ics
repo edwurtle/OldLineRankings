@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Kenwood Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-10-dundalk-kenwood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Girls Soccer: Kenwood at Dundalk
+LOCATION:Dundalk
+DESCRIPTION:Final: Kenwood 5\, Dundalk 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-overlea-kenwood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Girls Soccer: Kenwood at Overlea
+LOCATION:Overlea
+DESCRIPTION:Final: Kenwood 9\, Overlea 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-franklin-kenwood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Girls Soccer: Kenwood at Franklin
+LOCATION:Franklin
+DESCRIPTION:Final: Kenwood 1\, Franklin 0\nWatch: https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam066ecfcbc4
+URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam066ecfcbc4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-chesapeake-b-kenwood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260918T163000
+DTEND;TZID=America/New_York:20260918T183000
+SUMMARY:Girls Soccer: Kenwood at Chesapeake-B
+LOCATION:Chesapeake-B
+DESCRIPTION:Final: Kenwood 11\, Chesapeake-B 1\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-baltimore-md/gam345a6a3197
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-baltimore-md/gam345a6a3197
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-carver-aandt-kenwood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Girls Soccer: Kenwood at Carver A&T
+LOCATION:Carver A&T
+DESCRIPTION:Final: Kenwood 2\, Carver A&T 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-kenwood-parkville-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Girls Soccer: Parkville at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Final: Kenwood 8\, Parkville 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-dundalk-kenwood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Girls Soccer: Kenwood at Dundalk
+LOCATION:Dundalk
+DESCRIPTION:Final: Kenwood 6\, Dundalk 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-overlea-kenwood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Girls Soccer: Kenwood at Overlea
+LOCATION:Overlea
+DESCRIPTION:Final: Kenwood 14\, Overlea 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-franklin-kenwood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Girls Soccer: Kenwood at Franklin
+LOCATION:Franklin
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-carver-aandt-kenwood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Girls Soccer: Kenwood at Carver A&T
+LOCATION:Carver A&T
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-kenwood-parkville-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Girls Soccer: Parkville at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Tickets: https://gofan.co/event/6791424
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Hereford Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-manchester-valley-hereford-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T183000
+DTEND;TZID=America/New_York:20260904T203000
+SUMMARY:Football: Hereford at Manchester Valley
+LOCATION:Manchester Valley
+DESCRIPTION:Final: Hereford 29\, Manchester Valley 30\nWatch: https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gamf398420a50
+URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gamf398420a50
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-hereford-south-river-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260910T183000
+DTEND;TZID=America/New_York:20260910T203000
+SUMMARY:Football: South River at Hereford
+LOCATION:Hereford
+DESCRIPTION:Final: Hereford 16\, South River 14\nWatch: https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam170dbd455a
+URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam170dbd455a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-hereford-kenwood-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260918T180000
+DTEND;TZID=America/New_York:20260918T200000
+SUMMARY:Football: Kenwood at Hereford
+LOCATION:Hereford
+DESCRIPTION:Final: Hereford 22\, Kenwood 28\nWatch: https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam46f9ab6dba
+URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam46f9ab6dba
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-randallstown-hereford-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T163000
+DTEND;TZID=America/New_York:20260925T183000
+SUMMARY:Football: Hereford at Randallstown
+LOCATION:Randallstown
+DESCRIPTION:Final: Hereford 22\, Randallstown 32\nWatch: https://www.nfhsnetwork.com/events/randallstown-high-school-randallstown-md/gamd0463134db
+URL:https://www.nfhsnetwork.com/events/randallstown-high-school-randallstown-md/gamd0463134db
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-hereford-parkville-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T183000
+DTEND;TZID=America/New_York:20261002T203000
+SUMMARY:Football: Parkville at Hereford
+LOCATION:Hereford
+DESCRIPTION:Final: Hereford 19\, Parkville 9\nWatch: https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam315ccd0fae
+URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam315ccd0fae
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-hereford-overlea-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: Overlea at Hereford
+LOCATION:Hereford
+DESCRIPTION:Final: Hereford 20\, Overlea 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-hereford-dulaney-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Football: Dulaney at Hereford
+LOCATION:Hereford
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-hereford-perry-hall-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T183000
+DTEND;TZID=America/New_York:20261023T203000
+SUMMARY:Football: Perry Hall at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gamff5f699d25\nTickets: https://gofan.co/event/6733385
+URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gamff5f699d25
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-hereford-dundalk-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T160000
+DTEND;TZID=America/New_York:20261030T180000
+SUMMARY:Football: Dundalk at Hereford
+LOCATION:Hereford
+DESCRIPTION:Tickets: https://gofan.co/event/6733386
+END:VEVENT
+END:VCALENDAR

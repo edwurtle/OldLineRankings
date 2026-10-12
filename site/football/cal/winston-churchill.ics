@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Winston Churchill Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-winston-churchill-bethesda-cc-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T183000
+DTEND;TZID=America/New_York:20260904T203000
+SUMMARY:Football: Bethesda-CC at Winston Churchill
+LOCATION:Winston Churchill
+DESCRIPTION:Final: Winston Churchill 20\, Bethesda-CC 19\nWatch: https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam35432777a3
+URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam35432777a3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-northwest-winston-churchill-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Football: Winston Churchill at Northwest
+LOCATION:Northwest
+DESCRIPTION:Final: Winston Churchill 28\, Northwest 13
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-walter-johnson-winston-churchill-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Football: Winston Churchill at Walter Johnson
+LOCATION:Walter Johnson
+DESCRIPTION:Final: Winston Churchill 35\, Walter Johnson 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-winston-churchill-walt-whitman-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Football: Walt Whitman at Winston Churchill
+LOCATION:Winston Churchill
+DESCRIPTION:Final: Winston Churchill 35\, Walt Whitman 14\nWatch: https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam8c4d3e293c
+URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam8c4d3e293c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-quince-orchard-winston-churchill-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T183000
+DTEND;TZID=America/New_York:20261002T203000
+SUMMARY:Football: Winston Churchill at Quince Orchard
+LOCATION:Quince Orchard
+DESCRIPTION:Final: Winston Churchill 0\, Quince Orchard 41\nWatch: https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-md/gamea29224177
+URL:https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-md/gamea29224177
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-gaithersburg-winston-churchill-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: Winston Churchill at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Final: Winston Churchill 35\, Gaithersburg 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-seneca-valley-winston-churchill-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261016T183000
+DTEND;TZID=America/New_York:20261016T203000
+SUMMARY:Football: Winston Churchill at Seneca Valley
+LOCATION:Seneca Valley
+DESCRIPTION:Tickets: https://gofan.co/event/6707805
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-winston-churchill-thomas-s-wootton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T183000
+DTEND;TZID=America/New_York:20261023T203000
+SUMMARY:Football: Thomas S. Wootton at Winston Churchill
+LOCATION:Winston Churchill
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/thomas-wootton-high-school-rockville-md/gamef8ca5bc2d\nTickets: https://gofan.co/event/6708050
+URL:https://www.nfhsnetwork.com/events/thomas-wootton-high-school-rockville-md/gamef8ca5bc2d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-winston-churchill-paint-branch-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T183000
+DTEND;TZID=America/New_York:20261030T203000
+SUMMARY:Football: Paint Branch at Winston Churchill
+LOCATION:Winston Churchill
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/game7702e9ee8\nTickets: https://gofan.co/event/6709077
+URL:https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/game7702e9ee8
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bethesda-CC Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-winston-churchill-bethesda-cc-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T183000
+DTEND;TZID=America/New_York:20260904T203000
+SUMMARY:Football: Bethesda-CC at Winston Churchill
+LOCATION:Winston Churchill
+DESCRIPTION:Final: Bethesda-CC 19\, Winston Churchill 20\nWatch: https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam35432777a3
+URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam35432777a3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-bethesda-cc-montgomery-blair-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260910T190000
+DTEND;TZID=America/New_York:20260910T210000
+SUMMARY:Football: Montgomery Blair at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Final: Bethesda-CC 50\, Montgomery Blair 36\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam8e5fec837a
+URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam8e5fec837a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-northwest-bethesda-cc-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260917T190000
+DTEND;TZID=America/New_York:20260917T210000
+SUMMARY:Football: Bethesda-CC at Northwest
+LOCATION:Northwest
+DESCRIPTION:Final: Bethesda-CC 14\, Northwest 7\nWatch: https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam2c7d60e07e
+URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam2c7d60e07e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-bethesda-cc-wheaton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T183000
+DTEND;TZID=America/New_York:20260925T203000
+SUMMARY:Football: Wheaton at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Final: Bethesda-CC 35\, Wheaton 0\nWatch: https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam6981f5a55b
+URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam6981f5a55b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-bethesda-cc-paint-branch-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T183000
+DTEND;TZID=America/New_York:20261002T203000
+SUMMARY:Football: Paint Branch at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Final: Bethesda-CC 8\, Paint Branch 15\nWatch: https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gama161da494b
+URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gama161da494b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-walter-johnson-bethesda-cc-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261008T180000
+DTEND;TZID=America/New_York:20261008T200000
+SUMMARY:Football: Bethesda-CC at Walter Johnson
+LOCATION:Walter Johnson
+DESCRIPTION:Final: Bethesda-CC 5\, Walter Johnson 2\nWatch: https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/gamb18f84feb9
+URL:https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/gamb18f84feb9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-bethesda-cc-james-hubert-blake-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261016T183000
+DTEND;TZID=America/New_York:20261016T203000
+SUMMARY:Football: James Hubert Blake at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Tickets: https://gofan.co/event/6706234
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-bethesda-cc-springbrook-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261022T183000
+DTEND;TZID=America/New_York:20261022T203000
+SUMMARY:Football: Springbrook at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gamf938545607\nTickets: https://gofan.co/event/6706494
+URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gamf938545607
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-bethesda-cc-walt-whitman-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T183000
+DTEND;TZID=America/New_York:20261030T203000
+SUMMARY:Football: Walt Whitman at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam90aea5665c\nTickets: https://gofan.co/event/6706500
+URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam90aea5665c
+END:VEVENT
+END:VCALENDAR

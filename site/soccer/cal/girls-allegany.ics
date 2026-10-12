@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Allegany Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-allegany-brunswick-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Girls Soccer: Brunswick at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 3\, Brunswick 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-allegany-francis-scott-key-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Girls Soccer: Francis Scott Key at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 7\, Francis Scott Key 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-allegany-fort-hill-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T170000
+DTEND;TZID=America/New_York:20260908T190000
+SUMMARY:Girls Soccer: Fort Hill at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 8\, Fort Hill 0\nWatch: https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam776b169475
+URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam776b169475
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-allegany-wv-jefferson-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Girls Soccer: WV - Jefferson at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 1\, WV - Jefferson 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-allegany-wv-hampshire-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Girls Soccer: WV - Hampshire at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 10\, WV - Hampshire 0\nWatch: https://www.nfhsnetwork.com/events/hampshire-high-school-romney-wv/gam824ab7a130
+URL:https://www.nfhsnetwork.com/events/hampshire-high-school-romney-wv/gam824ab7a130
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-21-allegany-northern-g-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Girls Soccer: Northern-G at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 3\, Northern-G 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-allegany-mountain-ridge-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Girls Soccer: Mountain Ridge at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 0\, Mountain Ridge 2\nWatch: https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/gam439a6aed15
+URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/gam439a6aed15
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-allegany-southern-g-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:Girls Soccer: Southern-G at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 4\, Southern-G 2\nWatch: https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam5559f1b723
+URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam5559f1b723
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-allegany-fort-hill-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T170000
+DTEND;TZID=America/New_York:20261001T190000
+SUMMARY:Girls Soccer: Fort Hill at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 6\, Fort Hill 1\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam1ad4220155
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam1ad4220155
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-allegany-wv-frankfort-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Girls Soccer: WV - Frankfort at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 10\, WV - Frankfort 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-allegany-northern-g-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261007T180000
+DTEND;TZID=America/New_York:20261007T200000
+SUMMARY:Girls Soccer: Northern-G at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Allegany 1\, Northern-G 0\nWatch: https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gamd57477e03c
+URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gamd57477e03c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-allegany-mountain-ridge-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261012T180000
+DTEND;TZID=America/New_York:20261012T200000
+SUMMARY:Girls Soccer: Mountain Ridge at Allegany
+LOCATION:Allegany
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam8c171a1286
+URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam8c171a1286
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-allegany-southern-g-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T180000
+DTEND;TZID=America/New_York:20261015T200000
+SUMMARY:Girls Soccer: Southern-G at Allegany
+LOCATION:Allegany
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam2814ee8889
+URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam2814ee8889
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-allegany-clear-spring-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Girls Soccer: Clear Spring at Allegany
+LOCATION:Allegany
+END:VEVENT
+END:VCALENDAR

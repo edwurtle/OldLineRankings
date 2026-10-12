@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Patuxent Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-patuxent-westlake-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T180000
+DTEND;TZID=America/New_York:20260904T200000
+SUMMARY:Football: Westlake at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 2\, Westlake 0\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam6ae63f5410
+URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam6ae63f5410
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-patuxent-thomas-stone-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260910T170000
+DTEND;TZID=America/New_York:20260910T190000
+SUMMARY:Football: Thomas Stone at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 48\, Thomas Stone 7\nWatch: https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gamd6aafe12cd
+URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gamd6aafe12cd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-patuxent-st-charles-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260918T180000
+DTEND;TZID=America/New_York:20260918T200000
+SUMMARY:Football: St. Charles at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 21\, St. Charles 38\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam78a75ab292
+URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam78a75ab292
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-patuxent-north-point-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T200000
+SUMMARY:Football: North Point at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 14\, North Point 19\nWatch: https://www.nfhsnetwork.com/events/north-point-high-school-waldorf-md/gam3266f5ce97
+URL:https://www.nfhsnetwork.com/events/north-point-high-school-waldorf-md/gam3266f5ce97
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-patuxent-huntingtown-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T200000
+SUMMARY:Football: Huntingtown at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 21\, Huntingtown 35\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam5f66fa3f2a
+URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam5f66fa3f2a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-patuxent-northern-c-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261009T180000
+DTEND;TZID=America/New_York:20261009T200000
+SUMMARY:Football: Northern-C at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 29\, Northern-C 41\nWatch: https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamb48eb72e54
+URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamb48eb72e54
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-patuxent-leonardtown-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261015T180000
+DTEND;TZID=America/New_York:20261015T200000
+SUMMARY:Football: Leonardtown at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam0e05f43c14\nTickets: https://gofan.co/event/6801971
+URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam0e05f43c14
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-patuxent-calvert-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261024T120000
+DTEND;TZID=America/New_York:20261024T140000
+SUMMARY:Football: Calvert at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam2755f1b469\nTickets: https://gofan.co/event/6850953
+URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam2755f1b469
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-patuxent-great-mills-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
+SUMMARY:Football: Great Mills at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Tickets: https://gofan.co/event/6743959
+END:VEVENT
+END:VCALENDAR

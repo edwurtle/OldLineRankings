@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Franklin Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-franklin-westminster-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Football: Westminster at Franklin
+LOCATION:Franklin
+DESCRIPTION:Final: Franklin 22\, Westminster 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-franklin-parkville-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Football: Parkville at Franklin
+LOCATION:Franklin
+DESCRIPTION:Final: Franklin 42\, Parkville 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-owings-mills-franklin-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Football: Franklin at Owings Mills
+LOCATION:Owings Mills
+DESCRIPTION:Final: Franklin 44\, Owings Mills 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-franklin-woodlawn-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Football: Woodlawn at Franklin
+LOCATION:Franklin
+DESCRIPTION:Final: Franklin 35\, Woodlawn 0\nWatch: https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam52e0481909
+URL:https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam52e0481909
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-franklin-milford-mill-academy-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T164500
+DTEND;TZID=America/New_York:20261002T184500
+SUMMARY:Football: Milford Mill Academy at Franklin
+LOCATION:Franklin
+DESCRIPTION:Final: Franklin 2\, Milford Mill Academy 19\nWatch: https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gam616eaddca7
+URL:https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gam616eaddca7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-catonsville-franklin-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: Franklin at Catonsville
+LOCATION:Catonsville
+DESCRIPTION:Final: Franklin 50\, Catonsville 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-franklin-dundalk-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261015T183000
+DTEND;TZID=America/New_York:20261015T203000
+SUMMARY:Football: Dundalk at Franklin
+LOCATION:Franklin
+DESCRIPTION:Tickets: https://gofan.co/event/6868066
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-franklin-new-town-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Football: New Town at Franklin
+LOCATION:Franklin
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-randallstown-franklin-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Football: Franklin at Randallstown
+LOCATION:Randallstown
+END:VEVENT
+END:VCALENDAR

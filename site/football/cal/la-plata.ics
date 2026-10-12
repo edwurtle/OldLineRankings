@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:La Plata Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-la-plata-thomas-stone-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T180000
+DTEND;TZID=America/New_York:20260904T200000
+SUMMARY:Football: Thomas Stone at La Plata
+LOCATION:La Plata
+DESCRIPTION:Final: La Plata 21\, Thomas Stone 33\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamde14044cbd
+URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamde14044cbd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-la-plata-great-mills-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260911T163000
+DTEND;TZID=America/New_York:20260911T183000
+SUMMARY:Football: Great Mills at La Plata
+LOCATION:La Plata
+DESCRIPTION:Final: La Plata 0\, Great Mills 47\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gama4f5448774
+URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gama4f5448774
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-la-plata-leonardtown-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Football: Leonardtown at La Plata
+LOCATION:La Plata
+DESCRIPTION:Final: La Plata 6\, Leonardtown 32
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-la-plata-calvert-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Football: Calvert at La Plata
+LOCATION:La Plata
+DESCRIPTION:Final: La Plata 0\, Calvert 53
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-la-plata-north-point-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T200000
+SUMMARY:Football: North Point at La Plata
+LOCATION:La Plata
+DESCRIPTION:Final: La Plata 0\, North Point 40\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamb2303af170
+URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamb2303af170
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-la-plata-st-charles-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261009T180000
+DTEND;TZID=America/New_York:20261009T200000
+SUMMARY:Football: St. Charles at La Plata
+LOCATION:La Plata
+DESCRIPTION:Final: La Plata 0\, St. Charles 42\nWatch: https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gam9730c1f8bb
+URL:https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gam9730c1f8bb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-la-plata-henry-e-lackey-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261016T180000
+DTEND;TZID=America/New_York:20261016T200000
+SUMMARY:Football: Henry E. Lackey at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam24fd4ed56f\nTickets: https://gofan.co/event/6943081
+URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam24fd4ed56f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-la-plata-mcdonough-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261022T180000
+DTEND;TZID=America/New_York:20261022T200000
+SUMMARY:Football: McDonough at La Plata
+LOCATION:La Plata
+DESCRIPTION:Tickets: https://gofan.co/event/6761775
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-la-plata-chopticon-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
+SUMMARY:Football: Chopticon at La Plata
+LOCATION:La Plata
+DESCRIPTION:Tickets: https://gofan.co/event/6841478
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Dr. Henry A. Wise Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-11-laurel-dr-henry-a-wise-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260911T170000
+DTEND;TZID=America/New_York:20260911T190000
+SUMMARY:Football: Dr. Henry A. Wise at Laurel
+LOCATION:Laurel
+DESCRIPTION:Final: Dr. Henry A. Wise 53\, Laurel 6\nWatch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam4c7187e70d
+URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam4c7187e70d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-charles-h-flowers-dr-henry-a-wise-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Football: Dr. Henry A. Wise at Charles H. Flowers
+LOCATION:Charles H. Flowers
+DESCRIPTION:Final: Dr. Henry A. Wise 25\, Charles H. Flowers 22
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-dr-henry-a-wise-bowie-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T183000
+DTEND;TZID=America/New_York:20260925T203000
+SUMMARY:Football: Bowie at Dr. Henry A. Wise
+LOCATION:Dr. Henry A. Wise
+DESCRIPTION:Final: Dr. Henry A. Wise 51\, Bowie 0\nWatch: https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam97ccf02cff
+URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam97ccf02cff
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-dr-henry-a-wise-duval-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T190000
+DTEND;TZID=America/New_York:20261002T210000
+SUMMARY:Football: DuVal at Dr. Henry A. Wise
+LOCATION:Dr. Henry A. Wise
+DESCRIPTION:Final: Dr. Henry A. Wise 71\, DuVal 6\nWatch: https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam6ae5970ea6
+URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam6ae5970ea6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-dr-henry-a-wise-eleanor-roosevelt-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261010T140000
+DTEND;TZID=America/New_York:20261010T160000
+SUMMARY:Football: Eleanor Roosevelt at Dr. Henry A. Wise
+LOCATION:Dr. Henry A. Wise
+DESCRIPTION:Final: Dr. Henry A. Wise 46\, Eleanor Roosevelt 21\nWatch: https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-md/game5ddea2039
+URL:https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-md/game5ddea2039
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-dr-henry-a-wise-potomac-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261016T163000
+DTEND;TZID=America/New_York:20261016T183000
+SUMMARY:Football: Potomac at Dr. Henry A. Wise
+LOCATION:Dr. Henry A. Wise
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gamab9559f0d5\nTickets: https://gofan.co/event/6718066
+URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gamab9559f0d5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-suitland-dr-henry-a-wise-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T190000
+DTEND;TZID=America/New_York:20261023T210000
+SUMMARY:Football: Dr. Henry A. Wise at Suitland
+LOCATION:Suitland
+DESCRIPTION:Tickets: https://gofan.co/event/6718065
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-northwestern-dr-henry-a-wise-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T183000
+DTEND;TZID=America/New_York:20261030T203000
+SUMMARY:Football: Dr. Henry A. Wise at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gamd0fbf53e84\nTickets: https://gofan.co/event/6718064
+URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gamd0fbf53e84
+END:VEVENT
+END:VCALENDAR

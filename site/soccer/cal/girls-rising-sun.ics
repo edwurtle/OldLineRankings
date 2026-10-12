@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Rising Sun Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-havre-de-grace-rising-sun-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T180000
+DTEND;TZID=America/New_York:20260908T200000
+SUMMARY:Girls Soccer: Rising Sun at Havre de Grace
+LOCATION:Havre de Grace
+DESCRIPTION:Final: Rising Sun 2\, Havre de Grace 0\nWatch: https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gam2f5ce1fcfe
+URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gam2f5ce1fcfe
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-elkton-rising-sun-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260910T170000
+DTEND;TZID=America/New_York:20260910T190000
+SUMMARY:Girls Soccer: Rising Sun at Elkton
+LOCATION:Elkton
+DESCRIPTION:Final: Rising Sun 2\, Elkton 0\nWatch: https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam91d048946c
+URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam91d048946c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-perryville-rising-sun-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T190000
+SUMMARY:Girls Soccer: Rising Sun at Perryville
+LOCATION:Perryville
+DESCRIPTION:Final: Rising Sun 2\, Perryville 0\nWatch: https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gamf1ead72ea6
+URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gamf1ead72ea6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-winters-mill-rising-sun-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260917T173000
+DTEND;TZID=America/New_York:20260917T193000
+SUMMARY:Girls Soccer: Rising Sun at Winters Mill
+LOCATION:Winters Mill
+DESCRIPTION:Final: Rising Sun 0\, Winters Mill 1\nWatch: https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gamd9da2dca75
+URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gamd9da2dca75
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-north-east-c-rising-sun-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Girls Soccer: Rising Sun at North East-C
+LOCATION:North East-C
+DESCRIPTION:Final: Rising Sun 1\, North East-C 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-rising-sun-bel-air-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T183000
+DTEND;TZID=America/New_York:20260929T203000
+SUMMARY:Girls Soccer: Bel Air at Rising Sun
+LOCATION:Rising Sun
+DESCRIPTION:Final: Rising Sun 2\, Bel Air 0\nWatch: https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam6e795811d7
+URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam6e795811d7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-bohemia-manor-rising-sun-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T190000
+DTEND;TZID=America/New_York:20261001T210000
+SUMMARY:Girls Soccer: Rising Sun at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Final: Rising Sun 7\, Bohemia Manor 0\nWatch: https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam3264051199
+URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam3264051199
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-harford-tech-rising-sun-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T210000
+SUMMARY:Girls Soccer: Rising Sun at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Rising Sun 0\, Harford Tech 1\nWatch: https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gam4c4aca96ff
+URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gam4c4aca96ff
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-rising-sun-c-milton-wright-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T170000
+DTEND;TZID=America/New_York:20261008T190000
+SUMMARY:Girls Soccer: C. Milton Wright at Rising Sun
+LOCATION:Rising Sun
+DESCRIPTION:Final: Rising Sun 0\, C. Milton Wright 2\nWatch: https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam13e47ec306
+URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam13e47ec306
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-rising-sun-north-harford-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261012T170000
+DTEND;TZID=America/New_York:20261012T190000
+SUMMARY:Girls Soccer: North Harford at Rising Sun
+LOCATION:Rising Sun
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam8dd44f2f60
+URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam8dd44f2f60
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-sparrows-point-rising-sun-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T153000
+DTEND;TZID=America/New_York:20261015T173000
+SUMMARY:Girls Soccer: Rising Sun at Sparrows Point
+LOCATION:Sparrows Point
+DESCRIPTION:Tickets: https://gofan.co/event/6887887
+END:VEVENT
+END:VCALENDAR

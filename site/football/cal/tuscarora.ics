@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Tuscarora Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-north-hagerstown-tuscarora-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Football: Tuscarora at North Hagerstown
+LOCATION:North Hagerstown
+DESCRIPTION:Final: Tuscarora 14\, North Hagerstown 7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-brunswick-tuscarora-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260910T183000
+DTEND;TZID=America/New_York:20260910T203000
+SUMMARY:Football: Tuscarora at Brunswick
+LOCATION:Brunswick
+DESCRIPTION:Final: Tuscarora 44\, Brunswick 14\nWatch: https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gamffa3550552
+URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gamffa3550552
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-linganore-tuscarora-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Football: Tuscarora at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Tuscarora 7\, Linganore 49
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-francis-scott-key-tuscarora-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T183000
+DTEND;TZID=America/New_York:20260925T203000
+SUMMARY:Football: Tuscarora at Francis Scott Key
+LOCATION:Francis Scott Key
+DESCRIPTION:Final: Tuscarora 9\, Francis Scott Key 12\nWatch: https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam5ec632d4f6
+URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam5ec632d4f6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-middletown-tuscarora-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261002T190000
+DTEND;TZID=America/New_York:20261002T210000
+SUMMARY:Football: Tuscarora at Middletown
+LOCATION:Middletown
+DESCRIPTION:Final: Tuscarora 19\, Middletown 35\nWatch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam931572914e
+URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam931572914e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-frederick-tuscarora-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: Tuscarora at Frederick
+LOCATION:Frederick
+DESCRIPTION:Final: Tuscarora 18\, Frederick 22
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-gov-thomas-johnson-tuscarora-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261016T193000
+DTEND;TZID=America/New_York:20261016T213000
+SUMMARY:Football: Tuscarora at Gov. Thomas Johnson
+LOCATION:Gov. Thomas Johnson
+DESCRIPTION:Tickets: https://gofan.co/event/6722899
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-tuscarora-urbana-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T183000
+DTEND;TZID=America/New_York:20261023T203000
+SUMMARY:Football: Urbana at Tuscarora
+LOCATION:Tuscarora
+DESCRIPTION:Tickets: https://gofan.co/event/6715482
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-oakdale-tuscarora-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T183000
+DTEND;TZID=America/New_York:20261030T203000
+SUMMARY:Football: Tuscarora at Oakdale
+LOCATION:Oakdale
+DESCRIPTION:Tickets: https://gofan.co/event/6769943
+END:VEVENT
+END:VCALENDAR

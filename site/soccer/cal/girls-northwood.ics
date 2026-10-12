@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Northwood Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-northwood-paint-branch-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T191500
+DTEND;TZID=America/New_York:20260908T211500
+SUMMARY:Girls Soccer: Paint Branch at Northwood
+LOCATION:Northwood
+DESCRIPTION:Final: Northwood 2\, Paint Branch 4\nWatch: https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gam05d4f0875d
+URL:https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gam05d4f0875d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-northwood-watkins-mill-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Girls Soccer: Watkins Mill at Northwood
+LOCATION:Northwood
+DESCRIPTION:Final: Northwood 5\, Watkins Mill 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-northwood-rockville-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Girls Soccer: Rockville at Northwood
+LOCATION:Northwood
+DESCRIPTION:Final: Northwood 3\, Rockville 4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-john-f-kennedy-northwood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260916T180000
+DTEND;TZID=America/New_York:20260916T200000
+SUMMARY:Girls Soccer: Northwood at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Final: Northwood 9\, John F. Kennedy 2\nWatch: https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gam053effc66d
+URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gam053effc66d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-23-northwood-wheaton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260923T173000
+DTEND;TZID=America/New_York:20260923T193000
+SUMMARY:Girls Soccer: Wheaton at Northwood
+LOCATION:Northwood
+DESCRIPTION:Final: Northwood 5\, Wheaton 6\nWatch: https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/gamc82a1887d8
+URL:https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/gamc82a1887d8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-northwood-montgomery-blair-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260925T173000
+DTEND;TZID=America/New_York:20260925T193000
+SUMMARY:Girls Soccer: Montgomery Blair at Northwood
+LOCATION:Northwood
+DESCRIPTION:Final: Northwood 0\, Montgomery Blair 8\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam9cc72235df
+URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam9cc72235df
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-northwood-richard-montgomery-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T191500
+DTEND;TZID=America/New_York:20260929T211500
+SUMMARY:Girls Soccer: Richard Montgomery at Northwood
+LOCATION:Northwood
+DESCRIPTION:Final: Northwood 8\, Richard Montgomery 0\nWatch: https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/gam74f03c026f
+URL:https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/gam74f03c026f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-northwood-albert-einstein-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261005T191500
+DTEND;TZID=America/New_York:20261005T211500
+SUMMARY:Girls Soccer: Albert Einstein at Northwood
+LOCATION:Northwood
+DESCRIPTION:Final: Northwood 1\, Albert Einstein 6\nWatch: https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam930fe25c34
+URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam930fe25c34
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-northwood-springbrook-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T191500
+DTEND;TZID=America/New_York:20261008T211500
+SUMMARY:Girls Soccer: Springbrook at Northwood
+LOCATION:Northwood
+DESCRIPTION:Final: Northwood 2\, Springbrook 6\nWatch: https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/gam9834a67447
+URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/gam9834a67447
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-northwood-thomas-s-wootton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T171500
+DTEND;TZID=America/New_York:20261013T191500
+SUMMARY:Girls Soccer: Thomas S. Wootton at Northwood
+LOCATION:Northwood
+DESCRIPTION:Tickets: https://gofan.co/event/6708148
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-northwood-john-f-kennedy-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Girls Soccer: John F. Kennedy at Northwood
+LOCATION:Northwood
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-northwood-bethesda-cc-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261019T171500
+DTEND;TZID=America/New_York:20261019T191500
+SUMMARY:Girls Soccer: Bethesda-CC at Northwood
+LOCATION:Northwood
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/gam21beb42008\nTickets: https://gofan.co/event/6707604
+URL:https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/gam21beb42008
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-northwood-james-hubert-blake-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261023T171500
+DTEND;TZID=America/New_York:20261023T191500
+SUMMARY:Girls Soccer: James Hubert Blake at Northwood
+LOCATION:Northwood
+DESCRIPTION:Tickets: https://gofan.co/event/6706313
+END:VEVENT
+END:VCALENDAR

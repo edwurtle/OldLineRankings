@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Aberdeen Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-elkton-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T170000
+DTEND;TZID=America/New_York:20260908T190000
+SUMMARY:Boys Soccer: Aberdeen at Elkton
+LOCATION:Elkton
+DESCRIPTION:Final: Aberdeen 7\, Elkton 2\nWatch: https://www.nfhsnetwork.com/events/elkton-high-school-elkton-md/gamf588e9f13d
+URL:https://www.nfhsnetwork.com/events/elkton-high-school-elkton-md/gamf588e9f13d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-joppatowne-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260910T172500
+DTEND;TZID=America/New_York:20260910T192500
+SUMMARY:Boys Soccer: Aberdeen at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Final: Aberdeen 10\, Joppatowne 1\nWatch: https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gamded7d35ff4
+URL:https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gamded7d35ff4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-north-harford-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260914T170000
+DTEND;TZID=America/New_York:20260914T190000
+SUMMARY:Boys Soccer: Aberdeen at North Harford
+LOCATION:North Harford
+DESCRIPTION:Final: Aberdeen 2\, North Harford 1\nWatch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam43d854aca2
+URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam43d854aca2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-bel-air-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260916T185000
+DTEND;TZID=America/New_York:20260916T205000
+SUMMARY:Boys Soccer: Aberdeen at Bel Air
+LOCATION:Bel Air
+DESCRIPTION:Final: Aberdeen 0\, Bel Air 5\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam3da987fe42
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam3da987fe42
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-fallston-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Boys Soccer: Aberdeen at Fallston
+LOCATION:Fallston
+DESCRIPTION:Final: Aberdeen 2\, Fallston 4\nWatch: https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam6f3e96b6ef
+URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam6f3e96b6ef
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-c-milton-wright-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260928T165500
+DTEND;TZID=America/New_York:20260928T185500
+SUMMARY:Boys Soccer: Aberdeen at C. Milton Wright
+LOCATION:C. Milton Wright
+DESCRIPTION:Final: Aberdeen 4\, C. Milton Wright 7\nWatch: https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam5ddfc0e1fb
+URL:https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam5ddfc0e1fb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-bohemia-manor-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260930T153000
+DTEND;TZID=America/New_York:20260930T173000
+SUMMARY:Boys Soccer: Aberdeen at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Final: Aberdeen 4\, Bohemia Manor 0\nWatch: https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city-md/gamdff8998736
+URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city-md/gamdff8998736
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-patterson-mill-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T165500
+DTEND;TZID=America/New_York:20261001T185500
+SUMMARY:Boys Soccer: Aberdeen at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Aberdeen 2\, Patterson Mill 3\nWatch: https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam5c7896fa54
+URL:https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam5c7896fa54
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-harford-tech-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261005T190000
+DTEND;TZID=America/New_York:20261005T210000
+SUMMARY:Boys Soccer: Aberdeen at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Aberdeen 1\, Harford Tech 3\nWatch: https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/game533e6bb76
+URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/game533e6bb76
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-north-east-c-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Boys Soccer: Aberdeen at North East-C
+LOCATION:North East-C
+DESCRIPTION:Final: Aberdeen 5\, North East-C 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-aberdeen-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T185500
+DTEND;TZID=America/New_York:20261013T205500
+SUMMARY:Boys Soccer: Edgewood at Aberdeen
+LOCATION:Aberdeen
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gamc6855427ef\nTickets: https://gofan.co/event/6724967
+URL:https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gamc6855427ef
+END:VEVENT
+END:VCALENDAR

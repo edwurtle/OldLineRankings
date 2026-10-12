@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sparrows Point Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-lansdowne-sparrows-point-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T180000
+DTEND;TZID=America/New_York:20260904T200000
+SUMMARY:Football: Sparrows Point at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Final: Sparrows Point 50\, Lansdowne 6\nWatch: https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gam0ed17f7297
+URL:https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gam0ed17f7297
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-sparrows-point-patapsco-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:Football: Patapsco at Sparrows Point
+LOCATION:Sparrows Point
+DESCRIPTION:Final: Sparrows Point 34\, Patapsco 16\nWatch: https://www.nfhsnetwork.com/events/patapsco-high-school-baltimore-md/gam4fe8d92beb
+URL:https://www.nfhsnetwork.com/events/patapsco-high-school-baltimore-md/gam4fe8d92beb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-chesapeake-b-sparrows-point-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260919T120000
+DTEND;TZID=America/New_York:20260919T140000
+SUMMARY:Football: Sparrows Point at Chesapeake-B
+LOCATION:Chesapeake-B
+DESCRIPTION:Final: Sparrows Point 6\, Chesapeake-B 12\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-baltimore-md/gam3ffdb0867e
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-baltimore-md/gam3ffdb0867e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-loch-raven-sparrows-point-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T200000
+SUMMARY:Football: Sparrows Point at Loch Raven
+LOCATION:Loch Raven
+DESCRIPTION:Final: Sparrows Point 13\, Loch Raven 0\nWatch: https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gam113347164d
+URL:https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gam113347164d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-eastern-tech-sparrows-point-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Football: Sparrows Point at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Final: Sparrows Point 21\, Eastern Tech 14
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-pikesville-sparrows-point-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261009T180000
+DTEND;TZID=America/New_York:20261009T200000
+SUMMARY:Football: Sparrows Point at Pikesville
+LOCATION:Pikesville
+DESCRIPTION:Final: Sparrows Point 14\, Pikesville 8\nWatch: https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gamac48dcf81e
+URL:https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gamac48dcf81e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-western-tech-sparrows-point-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261015T180000
+DTEND;TZID=America/New_York:20261015T200000
+SUMMARY:Football: Sparrows Point at Western Tech
+LOCATION:Western Tech
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gam2a71f35ec6
+URL:https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gam2a71f35ec6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-sparrows-point-towson-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
+SUMMARY:Football: Towson at Sparrows Point
+LOCATION:Sparrows Point
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gam0a2e0595b7\nTickets: https://gofan.co/event/6887792
+URL:https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gam0a2e0595b7
+END:VEVENT
+END:VCALENDAR

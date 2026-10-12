@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Glen Burnie Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-broadneck-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Boys Soccer: Glen Burnie at Broadneck
+LOCATION:Broadneck
+DESCRIPTION:Final: Glen Burnie 0\, Broadneck 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-severn-run-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T190000
+SUMMARY:Boys Soccer: Glen Burnie at Severn Run
+LOCATION:Severn Run
+DESCRIPTION:Final: Glen Burnie 1\, Severn Run 3\nWatch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gama95c6e8b54
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gama95c6e8b54
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-bowie-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Boys Soccer: Glen Burnie at Bowie
+LOCATION:Bowie
+DESCRIPTION:Final: Glen Burnie 0\, Bowie 0\nWatch: https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gam53f9ebd5b0
+URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gam53f9ebd5b0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-old-mill-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T170000
+DTEND;TZID=America/New_York:20260922T190000
+SUMMARY:Boys Soccer: Glen Burnie at Old Mill
+LOCATION:Old Mill
+DESCRIPTION:Final: Glen Burnie 1\, Old Mill 1\nWatch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam4bdf1e87bd
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam4bdf1e87bd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-glen-burnie-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Boys Soccer: Broadneck at Glen Burnie
+LOCATION:Glen Burnie
+DESCRIPTION:Final: Glen Burnie 1\, Broadneck 2\nWatch: https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gamcef1c287d7
+URL:https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gamcef1c287d7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-southern-aa-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T170000
+DTEND;TZID=America/New_York:20260929T190000
+SUMMARY:Boys Soccer: Glen Burnie at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Glen Burnie 0\, Southern-AA 0\nWatch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamfd9b7a6ffb
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamfd9b7a6ffb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-glen-burnie-meade-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T184500
+DTEND;TZID=America/New_York:20261001T204500
+SUMMARY:Boys Soccer: Meade at Glen Burnie
+LOCATION:Glen Burnie
+DESCRIPTION:Final: Glen Burnie 2\, Meade 1\nWatch: https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam78d21e1430
+URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam78d21e1430
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-chesapeake-aa-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T170000
+DTEND;TZID=America/New_York:20261006T190000
+SUMMARY:Boys Soccer: Glen Burnie at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Glen Burnie 0\, Chesapeake-AA 0\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam2fb80f9bf2
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam2fb80f9bf2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-glen-burnie-annapolis-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T190000
+DTEND;TZID=America/New_York:20261008T210000
+SUMMARY:Boys Soccer: Annapolis at Glen Burnie
+LOCATION:Glen Burnie
+DESCRIPTION:Final: Glen Burnie 0\, Annapolis 3\nWatch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam5a91f5c5a1
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam5a91f5c5a1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-south-river-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T170000
+DTEND;TZID=America/New_York:20261013T190000
+SUMMARY:Boys Soccer: Glen Burnie at South River
+LOCATION:South River
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam3eae920bfe\nTickets: https://gofan.co/event/6956773
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam3eae920bfe
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-northeast-aa-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T190000
+DTEND;TZID=America/New_York:20261015T210000
+SUMMARY:Boys Soccer: Glen Burnie at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam5fae032238\nTickets: https://gofan.co/event/6956783
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam5fae032238
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-benjamin-franklin-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261017T110000
+DTEND;TZID=America/New_York:20261017T130000
+SUMMARY:Boys Soccer: Glen Burnie at Benjamin Franklin
+LOCATION:Benjamin Franklin
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam5cdf9c9434
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam5cdf9c9434
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-chesapeake-science-point-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Boys Soccer: Glen Burnie at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-eastern-tech-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261021T190000
+DTEND;TZID=America/New_York:20261021T210000
+SUMMARY:Boys Soccer: Glen Burnie at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam2f87f3608f
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam2f87f3608f
+END:VEVENT
+END:VCALENDAR

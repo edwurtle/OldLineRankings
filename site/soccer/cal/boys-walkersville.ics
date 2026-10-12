@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Walkersville Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-liberty-walkersville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T190000
+DTEND;TZID=America/New_York:20260908T210000
+SUMMARY:Boys Soccer: Walkersville at Liberty
+LOCATION:Liberty
+DESCRIPTION:Final: Walkersville 1\, Liberty 3\nWatch: https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gama4e45512a7
+URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gama4e45512a7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-walkersville-linganore-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260910T190000
+DTEND;TZID=America/New_York:20260910T210000
+SUMMARY:Boys Soccer: Linganore at Walkersville
+LOCATION:Walkersville
+DESCRIPTION:Final: Walkersville 0\, Linganore 3\nWatch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam252e47d37d
+URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam252e47d37d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-francis-scott-key-walkersville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Boys Soccer: Walkersville at Francis Scott Key
+LOCATION:Francis Scott Key
+DESCRIPTION:Final: Walkersville 4\, Francis Scott Key 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-clear-spring-walkersville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260917T190000
+DTEND;TZID=America/New_York:20260917T210000
+SUMMARY:Boys Soccer: Walkersville at Clear Spring
+LOCATION:Clear Spring
+DESCRIPTION:Final: Walkersville 4\, Clear Spring 0\nWatch: https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gamfe1bdef74e
+URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gamfe1bdef74e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-middletown-walkersville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Boys Soccer: Walkersville at Middletown
+LOCATION:Middletown
+DESCRIPTION:Final: Walkersville 1\, Middletown 0\nWatch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gamee344ade7d
+URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gamee344ade7d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-smithsburg-walkersville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Boys Soccer: Walkersville at Smithsburg
+LOCATION:Smithsburg
+DESCRIPTION:Final: Walkersville 3\, Smithsburg 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-brunswick-walkersville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T190000
+DTEND;TZID=America/New_York:20260929T210000
+SUMMARY:Boys Soccer: Walkersville at Brunswick
+LOCATION:Brunswick
+DESCRIPTION:Final: Walkersville 2\, Brunswick 1\nWatch: https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gam123751d8aa
+URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gam123751d8aa
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-catoctin-walkersville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T210000
+SUMMARY:Boys Soccer: Walkersville at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Walkersville 1\, Catoctin 0\nWatch: https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gam7e44d97365
+URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gam7e44d97365
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-boonsboro-walkersville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Boys Soccer: Walkersville at Boonsboro
+LOCATION:Boonsboro
+DESCRIPTION:Final: Walkersville 5\, Boonsboro 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-walkersville-williamsport-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T210000
+SUMMARY:Boys Soccer: Williamsport at Walkersville
+LOCATION:Walkersville
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gam5baf8da98d\nTickets: https://gofan.co/event/6745310
+URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gam5baf8da98d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-south-carroll-walkersville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T170000
+DTEND;TZID=America/New_York:20261015T190000
+SUMMARY:Boys Soccer: Walkersville at South Carroll
+LOCATION:South Carroll
+DESCRIPTION:Tickets: https://gofan.co/event/6813137
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-walkersville-manchester-valley-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261022T190000
+DTEND;TZID=America/New_York:20261022T210000
+SUMMARY:Boys Soccer: Manchester Valley at Walkersville
+LOCATION:Walkersville
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gamcaaf47510c\nTickets: https://gofan.co/event/6745309
+URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gamcaaf47510c
+END:VEVENT
+END:VCALENDAR

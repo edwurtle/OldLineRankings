@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Severna Park Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-winters-mill-severna-park-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T190000
+DTEND;TZID=America/New_York:20260908T210000
+SUMMARY:Girls Soccer: Severna Park at Winters Mill
+LOCATION:Winters Mill
+DESCRIPTION:Final: Severna Park 2\, Winters Mill 1\nWatch: https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam64b78257de
+URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam64b78257de
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-severna-park-broadneck-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260915T190000
+DTEND;TZID=America/New_York:20260915T210000
+SUMMARY:Girls Soccer: Broadneck at Severna Park
+LOCATION:Severna Park
+DESCRIPTION:Final: Severna Park 0\, Broadneck 4\nWatch: https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam08e77c94af
+URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam08e77c94af
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-severna-park-severn-run-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Girls Soccer: Severn Run at Severna Park
+LOCATION:Severna Park
+DESCRIPTION:Final: Severna Park 3\, Severn Run 1\nWatch: https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gam036af327cd
+URL:https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gam036af327cd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-severna-park-south-river-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260924T170000
+DTEND;TZID=America/New_York:20260924T190000
+SUMMARY:Girls Soccer: South River at Severna Park
+LOCATION:Severna Park
+DESCRIPTION:Final: Severna Park 3\, South River 1\nWatch: https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gamc0de92eae5
+URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gamc0de92eae5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-northeast-aa-severna-park-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Girls Soccer: Severna Park at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Final: Severna Park 1\, Northeast-AA 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-severna-park-crofton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T170000
+DTEND;TZID=America/New_York:20261001T190000
+SUMMARY:Girls Soccer: Crofton at Severna Park
+LOCATION:Severna Park
+DESCRIPTION:Final: Severna Park 3\, Crofton 0\nWatch: https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam8827a5233d
+URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam8827a5233d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-severna-park-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T210000
+SUMMARY:Girls Soccer: North County at Severna Park
+LOCATION:Severna Park
+DESCRIPTION:Final: Severna Park 4\, North County 0\nWatch: https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gama394f91754
+URL:https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gama394f91754
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-chesapeake-aa-severna-park-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T170000
+DTEND;TZID=America/New_York:20261008T190000
+SUMMARY:Girls Soccer: Severna Park at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Severna Park 1\, Chesapeake-AA 0\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam6405a37e4b
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam6405a37e4b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-severna-park-severn-school-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261009T170000
+DTEND;TZID=America/New_York:20261009T190000
+SUMMARY:Girls Soccer: Severn School at Severna Park
+LOCATION:Severna Park
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam6405a37e4b
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam6405a37e4b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-arundel-severna-park-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T210000
+SUMMARY:Girls Soccer: Severna Park at Arundel
+LOCATION:Arundel
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam2876611b54
+URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam2876611b54
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-southern-aa-severna-park-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T170000
+DTEND;TZID=America/New_York:20261015T190000
+SUMMARY:Girls Soccer: Severna Park at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gamab75f02522\nTickets: https://gofan.co/event/6857633
+URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gamab75f02522
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-old-mill-severna-park-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Girls Soccer: Severna Park at Old Mill
+LOCATION:Old Mill
+END:VEVENT
+END:VCALENDAR

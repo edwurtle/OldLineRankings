@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Parkside Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-parkside-de-delmar-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Football: DE- Delmar at Parkside
+LOCATION:Parkside
+DESCRIPTION:Final: Parkside 48\, DE- Delmar 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-parkside-easton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Football: Easton at Parkside
+LOCATION:Parkside
+DESCRIPTION:Final: Parkside 14\, Easton 46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-parkside-james-m-bennett-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Football: James M. Bennett at Parkside
+LOCATION:Parkside
+DESCRIPTION:Final: Parkside 27\, James M. Bennett 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-colonel-richardson-parkside-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T200000
+SUMMARY:Football: Parkside at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Final: Parkside 35\, Colonel Richardson 7\nWatch: https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam7f3f50a88a
+URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam7f3f50a88a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-parkside-wicomico-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Football: Wicomico at Parkside
+LOCATION:Parkside
+DESCRIPTION:Final: Parkside 14\, Wicomico 28
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-parkside-kent-island-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Football: Kent Island at Parkside
+LOCATION:Parkside
+DESCRIPTION:Final: Parkside 6\, Kent Island 28
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-north-caroline-parkside-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Football: Parkside at North Caroline
+LOCATION:North Caroline
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-parkside-queen-anne-s-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261024T120000
+DTEND;TZID=America/New_York:20261024T140000
+SUMMARY:Football: Queen Anne's at Parkside
+LOCATION:Parkside
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam729b068ac1
+URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam729b068ac1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-parkside-stephen-decatur-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Football: Stephen Decatur at Parkside
+LOCATION:Parkside
+END:VEVENT
+END:VCALENDAR

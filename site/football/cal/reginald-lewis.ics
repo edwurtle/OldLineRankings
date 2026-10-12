@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Reginald Lewis Football
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-reginald-lewis-digital-harbor-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260904T154500
+DTEND;TZID=America/New_York:20260904T174500
+SUMMARY:Football: Digital Harbor at Reginald Lewis
+LOCATION:Reginald Lewis
+DESCRIPTION:Final: Reginald Lewis 2\, Digital Harbor 0\nWatch: https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/gam847a3a0aac
+URL:https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/gam847a3a0aac
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-reginald-lewis-central-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20260911T170000
+DTEND;TZID=America/New_York:20260911T190000
+SUMMARY:Football: Central at Reginald Lewis
+LOCATION:Reginald Lewis
+DESCRIPTION:Final: Reginald Lewis 12\, Central 34\nWatch: https://www.nfhsnetwork.com/events/central-high-school-capitol-heights-md/gam5c32b60571
+URL:https://www.nfhsnetwork.com/events/central-high-school-capitol-heights-md/gam5c32b60571
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-green-street-academy-reginald-lewis-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Football: Reginald Lewis at Green Street Academy
+LOCATION:Green Street Academy
+DESCRIPTION:Final: Reginald Lewis 6\, Green Street Academy 64
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-reginald-lewis-edmondson-westside-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Football: Edmondson-Westside at Reginald Lewis
+LOCATION:Reginald Lewis
+DESCRIPTION:Final: Reginald Lewis 6\, Edmondson-Westside 60
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-frederick-douglass-b-reginald-lewis-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Football: Reginald Lewis at Frederick Douglass-B
+LOCATION:Frederick Douglass-B
+DESCRIPTION:Final: Reginald Lewis 0\, Frederick Douglass-B 38
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-reginald-lewis-patterson-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football: Patterson at Reginald Lewis
+LOCATION:Reginald Lewis
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-reginald-lewis-carver-vocational-technical-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Football: Carver Vocational-Technical at Reginald Lewis
+LOCATION:Reginald Lewis
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-reginald-lewis-lake-clifton-football@oldlinerankings
+DTSTAMP:20261012T183856Z
+DTSTART;TZID=America/New_York:20261023T154500
+DTEND;TZID=America/New_York:20261023T174500
+SUMMARY:Football: Lake Clifton at Reginald Lewis
+LOCATION:Reginald Lewis
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/gamb6ed25321b
+URL:https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/gamb6ed25321b
+END:VEVENT
+END:VCALENDAR

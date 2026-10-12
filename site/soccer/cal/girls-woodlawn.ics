@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Woodlawn Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-joppatowne-woodlawn-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Girls Soccer: Woodlawn at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Final: Woodlawn 0\, Joppatowne 8\nWatch: https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gamc57d318c64
+URL:https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gamc57d318c64
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-western-tech-woodlawn-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Girls Soccer: Woodlawn at Western Tech
+LOCATION:Western Tech
+DESCRIPTION:Final: Woodlawn 1\, Western Tech 9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-chesapeake-b-woodlawn-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260915T180000
+DTEND;TZID=America/New_York:20260915T200000
+SUMMARY:Girls Soccer: Woodlawn at Chesapeake-B
+LOCATION:Chesapeake-B
+DESCRIPTION:Final: Woodlawn 7\, Chesapeake-B 1\nWatch: https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam6ec8a9dfb3
+URL:https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam6ec8a9dfb3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-patapsco-woodlawn-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T180000
+SUMMARY:Girls Soccer: Woodlawn at Patapsco
+LOCATION:Patapsco
+DESCRIPTION:Final: Woodlawn 0\, Patapsco 8\nWatch: https://www.nfhsnetwork.com/events/patapsco-high-school-baltimore-md/gamc17b230a4d
+URL:https://www.nfhsnetwork.com/events/patapsco-high-school-baltimore-md/gamc17b230a4d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-pikesville-woodlawn-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T161700
+DTEND;TZID=America/New_York:20260929T181700
+SUMMARY:Girls Soccer: Woodlawn at Pikesville
+LOCATION:Pikesville
+DESCRIPTION:Final: Woodlawn 0\, Pikesville 9\nWatch: https://www.nfhsnetwork.com/events/pikesville-high-school-baltimore-md/gam26f065e289
+URL:https://www.nfhsnetwork.com/events/pikesville-high-school-baltimore-md/gam26f065e289
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-lansdowne-woodlawn-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Girls Soccer: Woodlawn at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Final: Woodlawn 1\, Lansdowne 8\nWatch: https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam76154dc161
+URL:https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam76154dc161
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-owings-mills-woodlawn-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Girls Soccer: Woodlawn at Owings Mills
+LOCATION:Owings Mills
+DESCRIPTION:Final: Woodlawn 1\, Owings Mills 0\nWatch: https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gamc2583ae76e
+URL:https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gamc2583ae76e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-milford-mill-academy-woodlawn-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T180000
+DTEND;TZID=America/New_York:20261008T200000
+SUMMARY:Girls Soccer: Woodlawn at Milford Mill Academy
+LOCATION:Milford Mill Academy
+DESCRIPTION:Final: Woodlawn 6\, Milford Mill Academy 5\nWatch: https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gama28e9d5e18
+URL:https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gama28e9d5e18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-loch-raven-woodlawn-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T173000
+DTEND;TZID=America/New_York:20261013T193000
+SUMMARY:Girls Soccer: Woodlawn at Loch Raven
+LOCATION:Loch Raven
+DESCRIPTION:Tickets: https://gofan.co/event/6843154
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-woodlawn-winters-mill-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Girls Soccer: Winters Mill at Woodlawn
+LOCATION:Woodlawn
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam53cd10cf99
+URL:https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam53cd10cf99
+END:VEVENT
+END:VCALENDAR

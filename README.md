@@ -7,13 +7,14 @@ lacrosse is listed as coming soon. Every site's footer has a sport switcher. Old
 
 ## Rating
 - **Win:** opponent class points + opponent's season wins
-  - Soccer: 1A=5, 2A=6, 3A=7, 4A=8
+  - Soccer: 1A=5, 2A=6, 3A=7, 4A=8 (modeled on football's system; MPSSAA seeds soccer by winning percentage only)
   - Football: MPSSAA playoff seeding values: 4A & 4A/3A = 8, 3A & 2A = 7, 2A/1A & 1A = 6
 - **Tie:** half of what a win would earn
 - **Loss:** 0
 - Opponent wins count their ties as half a win. Non-public / out-of-state opponents = lowest class, 0 wins.
 - Football counts only the first meeting between two teams (MPSSAA football bulletin).
-- Rating = total power points ÷ games played, ranked within class.
+- Soccer's Old Line Rating = total points ÷ games played, ranked within class. For football the same formula
+  is the MPSSAA points (football's Old Line Rating is margin-based; see below).
 - SOS (strength of schedule) = the rating a team would have if it had won every game.
 
 ## Old Line Rating (football)
@@ -21,8 +22,8 @@ Football is ranked by the Old Line Rating (`scripts/oldline.py`); MPSSAA points 
 - Each game counts the scoring margin capped at 28, plus 4 for a win (minus 4 for a loss).
 - A team's rating is its average game value plus its opponents' average rating, solved for all teams at
   once, pulled toward its class average by 3 games' worth. Home edge is measured from the data (floored at 0).
-- Rating differences work like point spreads; win chance = 1 / (1 + e^(−0.175 × difference)).
-- Backtested on 2026 weeks 3–6 using only earlier games: 79% of winners picked vs 71% for MPSSAA points.
+- Rating differences work like point spreads; win chance = 1 / (1 + e^(−0.16 × difference)).
+- Backtested on 2026 weeks 3–6 using only earlier games: 75% of winners picked vs 70% for MPSSAA points.
 
 ## Final 8 (football and soccer)
 Each sport seeds the way its MPSSAA bulletin says (`playoffs` in `SITES`):
@@ -37,6 +38,11 @@ The Final 8 is reseeded 1–8 by the same number. The page shows each region's m
 - **Final 8 odds (football):** every team makes its region playoffs (regions have at most 8 teams), so odds measure how
   far it goes (Final 8, semifinals, state final, title), from 2,000 simulated seasons and playoffs.
 
+## Watch links
+`scripts/nfhs.py` matches schools to NFHS Network (by name, county suffix removed, city as tiebreak) and each game to
+a varsity broadcast by sport, gender, date (±1 day) and both schools. Games with a broadcast get a ▶ Watch button in
+the team drawer (live or replay). If NFHS can't be reached the build continues without watch links.
+
 ## Layout
 - `site/` — the deployable site: splash `index.html` and shared `app.js`, `flag.js`, `styles.css`, `logos/`
 - `site/soccer/`, `site/football/` — each sport's `index.html` + `data.js` (use the shared assets)
@@ -44,6 +50,7 @@ The Final 8 is reseeded 1–8 by the same number. The page shows each region's m
   (divisions, classes and points, regions, labels) live in its `SITES` config and are passed to `app.js`.
 - `scripts/page.html` — page template for every sport; `scripts/splash.html` — splash template
   (edit these, not the generated `index.html` files). Add coming-soon sports to `COMING` in `build.py`.
+- `scripts/oldline.py` — Old Line Rating and simulations; `scripts/nfhs.py` — watch links; `scripts/icons.py` — sport icons
 - `scripts/schools.py` — downloads school logos, mascots and counties (needs Pillow: `.venv`)
 
 ## Update

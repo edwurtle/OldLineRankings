@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Huntingtown Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-southern-aa-huntingtown-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Girls Soccer: Huntingtown at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Huntingtown 6\, Southern-AA 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-henry-e-lackey-huntingtown-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Girls Soccer: Huntingtown at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Final: Huntingtown 11\, Henry E. Lackey 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-huntingtown-great-mills-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Girls Soccer: Great Mills at Huntingtown
+LOCATION:Huntingtown
+DESCRIPTION:Final: Huntingtown 4\, Great Mills 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-huntingtown-mcdonough-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Girls Soccer: McDonough at Huntingtown
+LOCATION:Huntingtown
+DESCRIPTION:Final: Huntingtown 0\, McDonough 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-huntingtown-chopticon-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Girls Soccer: Chopticon at Huntingtown
+LOCATION:Huntingtown
+DESCRIPTION:Final: Huntingtown 6\, Chopticon 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-23-huntingtown-westlake-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260923T183000
+DTEND;TZID=America/New_York:20260923T203000
+SUMMARY:Girls Soccer: Westlake at Huntingtown
+LOCATION:Huntingtown
+DESCRIPTION:Final: Huntingtown 9\, Westlake 0\nWatch: https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam85b19af56f
+URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam85b19af56f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-calvert-huntingtown-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260929T163000
+DTEND;TZID=America/New_York:20260929T183000
+SUMMARY:Girls Soccer: Huntingtown at Calvert
+LOCATION:Calvert
+DESCRIPTION:Final: Huntingtown 1\, Calvert 4\nWatch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam6d8d365cd4
+URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam6d8d365cd4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-patuxent-huntingtown-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261006T163000
+DTEND;TZID=America/New_York:20261006T183000
+SUMMARY:Girls Soccer: Huntingtown at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Huntingtown 10\, Patuxent 0\nWatch: https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gam42877a1361
+URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gam42877a1361
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-huntingtown-la-plata-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261008T181500
+DTEND;TZID=America/New_York:20261008T201500
+SUMMARY:Girls Soccer: La Plata at Huntingtown
+LOCATION:Huntingtown
+DESCRIPTION:Final: Huntingtown 3\, La Plata 0\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam57deb537a9
+URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam57deb537a9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-huntingtown-northern-c-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261013T163000
+DTEND;TZID=America/New_York:20261013T183000
+SUMMARY:Girls Soccer: Northern-C at Huntingtown
+LOCATION:Huntingtown
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gam249581641c\nTickets: https://gofan.co/event/6713047
+URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gam249581641c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-huntingtown-st-charles-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261015T181500
+DTEND;TZID=America/New_York:20261015T201500
+SUMMARY:Girls Soccer: St. Charles at Huntingtown
+LOCATION:Huntingtown
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gama0435bb9df\nTickets: https://gofan.co/event/6713046
+URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gama0435bb9df
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-huntingtown-chopticon-girls-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Girls Soccer: Chopticon at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+END:VCALENDAR

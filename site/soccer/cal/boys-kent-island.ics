@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Kent Island Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-cambridge-south-dorchester-kent-island-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Boys Soccer: Kent Island at Cambridge-South Dorchester
+LOCATION:Cambridge-South Dorchester
+DESCRIPTION:Final: Kent Island 6\, Cambridge-South Dorchester 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-09-north-dorchester-kent-island-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Boys Soccer: Kent Island at North Dorchester
+LOCATION:North Dorchester
+DESCRIPTION:Final: Kent Island 6\, North Dorchester 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-st-michael-s-kent-island-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260915T160000
+DTEND;TZID=America/New_York:20260915T180000
+SUMMARY:Boys Soccer: Kent Island at St. Michael's
+LOCATION:St. Michael's
+DESCRIPTION:Final: Kent Island 8\, St. Michael's 2\nWatch: https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gamd619d47d50
+URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gamd619d47d50
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-kent-island-wicomico-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Boys Soccer: Wicomico at Kent Island
+LOCATION:Kent Island
+DESCRIPTION:Final: Kent Island 4\, Wicomico 5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-23-colonel-richardson-kent-island-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260923T173000
+DTEND;TZID=America/New_York:20260923T193000
+SUMMARY:Boys Soccer: Kent Island at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Final: Kent Island 3\, Colonel Richardson 1\nWatch: https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam81eefc4b41
+URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam81eefc4b41
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-kent-island-parkside-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T193000
+SUMMARY:Boys Soccer: Parkside at Kent Island
+LOCATION:Kent Island
+DESCRIPTION:Final: Kent Island 2\, Parkside 4\nWatch: https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam218efa221d
+URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam218efa221d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-kent-county-kent-island-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20260930T174500
+DTEND;TZID=America/New_York:20260930T194500
+SUMMARY:Boys Soccer: Kent Island at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: Kent Island 1\, Kent County 1\nWatch: https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam86daedc421
+URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam86daedc421
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-north-caroline-kent-island-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261005T174500
+DTEND;TZID=America/New_York:20261005T194500
+SUMMARY:Boys Soccer: Kent Island at North Caroline
+LOCATION:North Caroline
+DESCRIPTION:Final: Kent Island 5\, North Caroline 1\nWatch: https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gamfecc38861c
+URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gamfecc38861c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-kent-island-james-m-bennett-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Boys Soccer: James M. Bennett at Kent Island
+LOCATION:Kent Island
+DESCRIPTION:Final: Kent Island 1\, James M. Bennett 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-kent-island-easton-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261012T174500
+DTEND;TZID=America/New_York:20261012T194500
+SUMMARY:Boys Soccer: Easton at Kent Island
+LOCATION:Kent Island
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam7d6e9e0832
+URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam7d6e9e0832
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-kent-island-queen-anne-s-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261014T183000
+DTEND;TZID=America/New_York:20261014T203000
+SUMMARY:Boys Soccer: Queen Anne's at Kent Island
+LOCATION:Kent Island
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gamef0cd5f712
+URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gamef0cd5f712
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-kent-island-stephen-decatur-boys-soccer@oldlinerankings
+DTSTAMP:20261012T183934Z
+DTSTART;TZID=America/New_York:20261019T173000
+DTEND;TZID=America/New_York:20261019T193000
+SUMMARY:Boys Soccer: Stephen Decatur at Kent Island
+LOCATION:Kent Island
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam5ef073bbec
+URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam5ef073bbec
+END:VEVENT
+END:VCALENDAR
