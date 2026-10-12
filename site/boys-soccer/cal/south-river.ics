@@ -6,7 +6,7 @@ X-WR-CALNAME:South River Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-south-river-marr-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20260905T164500
 DTEND;TZID=America/New_York:20260905T184500
 SUMMARY:Boys Soccer: Marr at South River
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-south-river-southern-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20260905T164500
 DTEND;TZID=America/New_York:20260905T184500
 SUMMARY:Boys Soccer: Southern-AA at South River
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-south-river-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20260915T170000
 DTEND;TZID=America/New_York:20260915T190000
 SUMMARY:Boys Soccer: Meade at South River
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-south-river-st-mary-s-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20260917T181500
 DTEND;TZID=America/New_York:20260917T201500
 SUMMARY:Boys Soccer: St. Mary's at South River
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-south-river-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20260922T164500
 DTEND;TZID=America/New_York:20260922T184500
 SUMMARY:Boys Soccer: Annapolis at South River
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-severna-park-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: South River at Severna Park
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-chesapeake-science-point-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20260929T164500
 DTEND;TZID=America/New_York:20260929T184500
 SUMMARY:Boys Soccer: South River at Chesapeake Science Point
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-south-river-broadneck-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20261001T184500
 DTEND;TZID=America/New_York:20261001T204500
 SUMMARY:Boys Soccer: Broadneck at South River
@@ -86,7 +86,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-old-mill-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Boys Soccer: South River at Old Mill
@@ -96,7 +96,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gamb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-south-river-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20261008T184500
 DTEND;TZID=America/New_York:20261008T204500
 SUMMARY:Boys Soccer: Crofton at South River
@@ -106,7 +106,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamaa2b7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-marriotts-ridge-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20260905T131500
 DTEND;TZID=America/New_York:20260905T151500
 SUMMARY:Boys Soccer: South River at Marriotts Ridge
@@ -116,7 +116,7 @@ URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-south-river-glen-burnie-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Boys Soccer: Glen Burnie at South River
@@ -126,7 +126,7 @@ URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-arundel-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: South River at Arundel
@@ -136,7 +136,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gama
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-chesapeake-aa-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Boys Soccer: South River at Chesapeake-AA
@@ -146,7 +146,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamd2b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-south-river-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: North County at South River

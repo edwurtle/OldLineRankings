@@ -6,7 +6,7 @@ X-WR-CALNAME:Cambridge-South Dorchester Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-cambridge-south-dorchester-kent-island-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Boys Soccer: Kent Island at Cambridge-South Dorchester
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 1\, Kent Island 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-colonel-richardson-cambridge-south-dorchester-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Boys Soccer: Cambridge-South Dorchester at Colonel Richardson
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 0\, Colonel Richardson 12
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-kent-county-cambridge-south-dorchester-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;TZID=America/New_York:20260914T173000
 DTEND;TZID=America/New_York:20260914T193000
 SUMMARY:Boys Soccer: Cambridge-South Dorchester at Kent County
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam12c8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-cambridge-south-dorchester-snow-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Boys Soccer: Snow Hill at Cambridge-South Dorchester
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 0\, Snow Hill 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-cambridge-south-dorchester-north-caroline-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Boys Soccer: North Caroline at Cambridge-South Dorchester
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 1\, North Caroline 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-cambridge-south-dorchester-queen-anne-s-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Boys Soccer: Queen Anne's at Cambridge-South Dorchester
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 0\, Queen Anne's 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-cambridge-south-dorchester-easton-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Boys Soccer: Easton at Cambridge-South Dorchester
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 0\, Easton 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-cambridge-south-dorchester-mardela-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Boys Soccer: Mardela at Cambridge-South Dorchester
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 0\, Mardela 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-cambridge-south-dorchester-washington-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Washington at Cambridge-South Dorchester
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 7\, Washington 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-cambridge-south-dorchester-pocomoke-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Boys Soccer: Pocomoke at Cambridge-South Dorchester
@@ -97,7 +97,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 0\, Pocomoke 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-st-michael-s-cambridge-south-dorchester-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Cambridge-South Dorchester at St. Michael's
@@ -105,7 +105,7 @@ LOCATION:St. Michael's
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-north-dorchester-cambridge-south-dorchester-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211013Z
+DTSTAMP:20261012T211417Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Boys Soccer: Cambridge-South Dorchester at North Dorchester
