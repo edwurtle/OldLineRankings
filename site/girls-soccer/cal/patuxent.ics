@@ -6,7 +6,7 @@ X-WR-CALNAME:Patuxent Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-patuxent-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: St. Charles at Patuxent
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Patuxent 9\, St. Charles 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-patuxent-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Girls Soccer: Chopticon at Patuxent
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gamf45e059f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-patuxent-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: North Point at Patuxent
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Patuxent 1\, North Point 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-patuxent-la-plata-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: La Plata at Patuxent
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Patuxent 0\, La Plata 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-patuxent-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: Great Mills at Patuxent
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Patuxent 1\, Great Mills 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-patuxent-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20260924T181500
 DTEND;TZID=America/New_York:20260924T201500
 SUMMARY:Girls Soccer: McDonough at Patuxent
@@ -62,7 +62,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam6d7d39ef
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-patuxent-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Girls Soccer: Westlake at Patuxent
@@ -72,7 +72,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam8faf8712
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-patuxent-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261005T170000
 DTEND;TZID=America/New_York:20261005T190000
 SUMMARY:Girls Soccer: St. Charles at Patuxent
@@ -82,7 +82,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gamaf5920a5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-patuxent-huntingtown-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Girls Soccer: Huntingtown at Patuxent
@@ -92,7 +92,7 @@ URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-patuxent-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261008T181500
 DTEND;TZID=America/New_York:20261008T201500
 SUMMARY:Girls Soccer: Great Mills at Patuxent
@@ -102,7 +102,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam5baea551
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-patuxent-calvert-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261013T163000
 DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Girls Soccer: Calvert at Patuxent
@@ -112,7 +112,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam9639a0c5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-patuxent-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261019T181500
 DTEND;TZID=America/New_York:20261019T201500
 SUMMARY:Girls Soccer: Northern-C at Patuxent

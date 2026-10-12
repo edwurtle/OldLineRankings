@@ -6,7 +6,7 @@ X-WR-CALNAME:Chesapeake-B Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-loch-raven-chesapeake-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Chesapeake-B at Loch Raven
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Chesapeake-B 0\, Loch Raven 12
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-chesapeake-b-woodlawn-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Woodlawn at Chesapeake-B
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Chesapeake-B 1\, Woodlawn 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-chesapeake-b-kenwood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Girls Soccer: Kenwood at Chesapeake-B
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Chesapeake-B 1\, Kenwood 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-lansdowne-chesapeake-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Chesapeake-B at Lansdowne
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Chesapeake-B 0\, Lansdowne 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-pikesville-chesapeake-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Chesapeake-B at Pikesville
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Chesapeake-B 0\, Pikesville 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-western-tech-chesapeake-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Chesapeake-B at Western Tech
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Chesapeake-B 1\, Western Tech 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-chesapeake-b-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Milford Mill Academy at Chesapeake-B
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Chesapeake-B 5\, Milford Mill Academy 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-chesapeake-b-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Patapsco at Chesapeake-B
@@ -78,7 +78,7 @@ DESCRIPTION:Final: Chesapeake-B 0\, Patapsco 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-owings-mills-chesapeake-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Chesapeake-B at Owings Mills

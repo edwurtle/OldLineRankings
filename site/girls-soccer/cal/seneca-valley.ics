@@ -6,7 +6,7 @@ X-WR-CALNAME:Seneca Valley Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-col-zadok-magruder-seneca-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Seneca Valley at Col. Zadok Magruder
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Seneca Valley 0\, Col. Zadok Magruder 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-seneca-valley-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20260911T154500
 DTEND;TZID=America/New_York:20260911T174500
 SUMMARY:Girls Soccer: John F. Kennedy at Seneca Valley
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-northwest-seneca-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20260914T191500
 DTEND;TZID=America/New_York:20260914T211500
 SUMMARY:Girls Soccer: Seneca Valley at Northwest
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-watkins-mill-seneca-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20260916T191500
 DTEND;TZID=America/New_York:20260916T211500
 SUMMARY:Girls Soccer: Seneca Valley at Watkins Mill
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-poolesville-seneca-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
 SUMMARY:Girls Soccer: Seneca Valley at Poolesville
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-damascus-seneca-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20260925T191500
 DTEND;TZID=America/New_York:20260925T211500
 SUMMARY:Girls Soccer: Seneca Valley at Damascus
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-seneca-valley-quince-orchard-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20260930T191500
 DTEND;TZID=America/New_York:20260930T211500
 SUMMARY:Girls Soccer: Quince Orchard at Seneca Valley
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-seneca-valley-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261006T191500
 DTEND;TZID=America/New_York:20261006T211500
 SUMMARY:Girls Soccer: Springbrook at Seneca Valley
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-clarksburg-seneca-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261008T191500
 DTEND;TZID=America/New_York:20261008T211500
 SUMMARY:Girls Soccer: Seneca Valley at Clarksburg
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-seneca-valley-paint-branch-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261014T191500
 DTEND;TZID=America/New_York:20261014T211500
 SUMMARY:Girls Soccer: Paint Branch at Seneca Valley
@@ -105,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-seneca-valley-winston-churchill-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261019T190000
 DTEND;TZID=America/New_York:20261019T210000
 SUMMARY:Girls Soccer: Winston Churchill at Seneca Valley
@@ -114,7 +114,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6707887
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-rockville-seneca-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:Girls Soccer: Seneca Valley at Rockville

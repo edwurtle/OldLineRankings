@@ -6,7 +6,7 @@ X-WR-CALNAME:Parkdale Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-dr-henry-a-wise-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20260910T150000
 DTEND;TZID=America/New_York:20260910T170000
 SUMMARY:Girls Soccer: Parkdale at Dr. Henry A. Wise
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-parkdale-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Suitland at Parkdale
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Parkdale 6\, Suitland 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-high-point-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Parkdale at High Point
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Parkdale 8\, High Point 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-duval-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Parkdale at DuVal
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Parkdale 3\, DuVal 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-parkdale-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: DuVal at Parkdale
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Parkdale 3\, DuVal 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-eleanor-roosevelt-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Parkdale at Eleanor Roosevelt
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Parkdale 0\, Eleanor Roosevelt 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-charles-h-flowers-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Girls Soccer: Parkdale at Charles H. Flowers
@@ -71,7 +71,7 @@ URL:https://www.nfhsnetwork.com/events/charles-herbert-flowers-high-school-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-northwestern-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T173000
 SUMMARY:Girls Soccer: Parkdale at Northwestern
@@ -81,7 +81,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-laurel-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Parkdale at Laurel
@@ -90,7 +90,7 @@ DESCRIPTION:Final: Parkdale 5\, Laurel 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-bladensburg-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261012T174500
 DTEND;TZID=America/New_York:20261012T194500
 SUMMARY:Girls Soccer: Parkdale at Bladensburg
@@ -100,7 +100,7 @@ URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-parkdale-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261015T153000
 DTEND;TZID=America/New_York:20261015T173000
 SUMMARY:Girls Soccer: Bowie at Parkdale
@@ -109,7 +109,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6616899
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-college-park-academy-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204213Z
+DTSTAMP:20261012T204522Z
 DTSTART;TZID=America/New_York:20261019T153000
 DTEND;TZID=America/New_York:20261019T173000
 SUMMARY:Girls Soccer: Parkdale at College Park Academy
