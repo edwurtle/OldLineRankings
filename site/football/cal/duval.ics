@@ -6,7 +6,7 @@ X-WR-CALNAME:DuVal Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-duval-potomac-football@oldlinerankings
-DTSTAMP:20261012T234201Z
+DTSTAMP:20261012T234356Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Potomac at DuVal
@@ -15,7 +15,7 @@ DESCRIPTION:Final: DuVal 0\, Potomac 30
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-duval-oxon-hill-football@oldlinerankings
-DTSTAMP:20261012T234201Z
+DTSTAMP:20261012T234356Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: Oxon Hill at DuVal
@@ -24,7 +24,7 @@ DESCRIPTION:Final: DuVal 0\, Oxon Hill 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-bladensburg-duval-football@oldlinerankings
-DTSTAMP:20261012T234201Z
+DTSTAMP:20261012T234356Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: DuVal at Bladensburg
@@ -33,7 +33,7 @@ DESCRIPTION:Final: DuVal 34\, Bladensburg 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-charles-h-flowers-duval-football@oldlinerankings
-DTSTAMP:20261012T234201Z
+DTSTAMP:20261012T234356Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Football: DuVal at Charles H. Flowers
@@ -42,7 +42,7 @@ DESCRIPTION:Final: DuVal 7\, Charles H. Flowers 40
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-dr-henry-a-wise-duval-football@oldlinerankings
-DTSTAMP:20261012T234201Z
+DTSTAMP:20261012T234356Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Football: DuVal at Dr. Henry A. Wise
@@ -52,7 +52,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-laurel-duval-football@oldlinerankings
-DTSTAMP:20261012T234201Z
+DTSTAMP:20261012T234356Z
 DTSTART;TZID=America/New_York:20261009T190000
 DTEND;TZID=America/New_York:20261009T210000
 SUMMARY:Football: DuVal at Laurel
@@ -62,7 +62,7 @@ URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam58aa7ec42
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-duval-suitland-football@oldlinerankings
-DTSTAMP:20261012T234201Z
+DTSTAMP:20261012T234356Z
 DTSTART;TZID=America/New_York:20261017T140000
 DTEND;TZID=America/New_York:20261017T160000
 SUMMARY:Football: Suitland at DuVal
@@ -71,7 +71,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6879220
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-northwestern-duval-football@oldlinerankings
-DTSTAMP:20261012T234201Z
+DTSTAMP:20261012T234356Z
 DTSTART;TZID=America/New_York:20261024T140000
 DTEND;TZID=America/New_York:20261024T160000
 SUMMARY:Football: DuVal at Northwestern
@@ -81,7 +81,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-duval-parkdale-football@oldlinerankings
-DTSTAMP:20261012T234201Z
+DTSTAMP:20261012T234356Z
 DTSTART;TZID=America/New_York:20261031T140000
 DTEND;TZID=America/New_York:20261031T160000
 SUMMARY:Football: Parkdale at DuVal

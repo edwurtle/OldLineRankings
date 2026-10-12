@@ -6,7 +6,7 @@ X-WR-CALNAME:Northwestern Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-high-point-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234301Z
+DTSTAMP:20261012T234456Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Northwestern at High Point
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Northwestern 8\, High Point 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-laurel-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234301Z
+DTSTAMP:20261012T234456Z
 DTSTART;TZID=America/New_York:20260914T153000
 DTEND;TZID=America/New_York:20260914T173000
 SUMMARY:Girls Soccer: Northwestern at Laurel
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamd3225df67
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-northwestern-eleanor-roosevelt-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234301Z
+DTSTAMP:20261012T234456Z
 DTSTART;TZID=America/New_York:20260917T173000
 DTEND;TZID=America/New_York:20260917T193000
 SUMMARY:Girls Soccer: Eleanor Roosevelt at Northwestern
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-bowie-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234301Z
+DTSTAMP:20261012T234456Z
 DTSTART;TZID=America/New_York:20260923T150000
 DTEND;TZID=America/New_York:20260923T170000
 SUMMARY:Girls Soccer: Northwestern at Bowie
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gam34c2f29c45
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-college-park-academy-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234301Z
+DTSTAMP:20261012T234456Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Girls Soccer: Northwestern at College Park Academy
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-northwestern-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234301Z
+DTSTAMP:20261012T234456Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Girls Soccer: DuVal at Northwestern
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-duval-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234301Z
+DTSTAMP:20261012T234456Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Girls Soccer: Northwestern at DuVal
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-northwestern-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234301Z
+DTSTAMP:20261012T234456Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T173000
 SUMMARY:Girls Soccer: Parkdale at Northwestern
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-northwestern-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234301Z
+DTSTAMP:20261012T234456Z
 DTSTART;TZID=America/New_York:20261007T174500
 DTEND;TZID=America/New_York:20261007T194500
 SUMMARY:Girls Soccer: Bladensburg at Northwestern
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-northwestern-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234301Z
+DTSTAMP:20261012T234456Z
 DTSTART;TZID=America/New_York:20261012T153000
 DTEND;TZID=America/New_York:20261012T173000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Northwestern
@@ -105,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-northwestern-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234301Z
+DTSTAMP:20261012T234456Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Suitland at Northwestern
@@ -113,7 +113,7 @@ LOCATION:Northwestern
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-northwestern-charles-h-flowers-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234301Z
+DTSTAMP:20261012T234456Z
 DTSTART;TZID=America/New_York:20261019T170000
 DTEND;TZID=America/New_York:20261019T190000
 SUMMARY:Girls Soccer: Charles H. Flowers at Northwestern
