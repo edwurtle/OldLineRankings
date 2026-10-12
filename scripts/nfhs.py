@@ -92,7 +92,9 @@ def add_watch_links(sports, divisions, sport, alt_names, cities):
             for g in t["games"] + t["upcoming"]:
                 day, opp = datetime.date.fromisoformat(g["date"]), keys.get(g["opp"])
                 for d in (day, day - datetime.timedelta(1), day + datetime.timedelta(1)):
-                    hit = next(((url, time) for others, url, time in idx[(k, gender, d)] if not opp or opp in others), None)
+                    # NFHS labels some games "Coed" (common for football) or leaves gender blank
+                    entries = idx[(k, gender, d)] + idx[(k, "Coed", d)] + idx[(k, None, d)]
+                    hit = next(((url, time) for others, url, time in entries if not opp or opp in others), None)
                     if hit:
                         g["watch"] = hit[0]
                         if hit[1] and "time" not in g:  # MPSSAA has no start times; NFHS does
