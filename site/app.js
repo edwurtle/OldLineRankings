@@ -22,6 +22,8 @@ const recTxt = t => `${t.W}-${t.L}` + (C.ties || t.T ? `-${t.T}` : "");
 const cl = c => (C.labels && C.labels[c]) || c;   // "4A_3A" -> "4A/3A"
 // Section name for a class + division: "4A Boys" for soccer, "4A/3A" for football
 const divName = (g, c) => [c && cl(c), MULTI ? GENDERS[g] : ""].filter(Boolean).join(" ");
+const crumbs = (...items) => `<div class="crumbs"><a href="${esc(C.family.home || "../")}">Home</a><span>/</span><a href="#/">${esc(C.sport)}</a>` +
+  items.map(x => `<span>/</span>` + (Array.isArray(x) ? `<a href="${x[1]}">${esc(x[0])}</a>` : `<span>${esc(x)}</span>`)).join("") + `</div>`;
 const rkBadge = n => `<span class="rk mono">${n}</span>`;
 // NFHS Network broadcast link (live or replay) for a game, when one exists
 const watchBtn = g => g.watch ? `<a class="watch" href="${esc(g.watch)}" target="_blank" rel="noopener" title="Watch on NFHS Network">▶ Watch</a>` : "";
@@ -245,7 +247,7 @@ function howOLR() {
     <div class="how-grid" style="--n:${o.win_bonus ? 3 : 2}">
       <div class="how-card w"><div class="k">Margin</div><h4>Capped at ${o.cap}</h4><p>Each game counts the ${one} margin, capped at ${o.cap} ${u} (${o.cap_note}), so running up the score doesn't help.</p></div>
       ${o.win_bonus ? `<div class="how-card w"><div class="k">Result</div><h4>±${o.win_bonus} for the win</h4><p>A win adds ${o.win_bonus} ${u} and a loss subtracts ${o.win_bonus}, so a close win counts well ahead of a close loss.</p></div>` : ""}
-      <div class="how-card w"><div class="k">Opponents</div><h4>Strength built in</h4><p>A team's Old Line Rating is its average game score plus the average Old Line Rating of the teams it played, solved for every team at once. Beating a good team is worth more, by exactly how good it is.</p></div>
+      <div class="how-card w"><div class="k">Opponents</div><h4>Strength built in</h4><p>A team's Old Line Rating is its average OLR game score plus the average Old Line Rating of the teams it played, solved for every team at once. Beating a good team is worth more, by exactly how good it is.</p></div>
     </div>
     <div class="example"><b>Reading it:</b> ${r(hi)} means about ${hi} ${u} better than an average team. The difference between two Old Line Ratings works like a point spread:
       a ${r(hi)} team is about a ${spread}-${one} favorite over a ${r(lo)} team, roughly a ${Math.round(100 * p)}% chance to win. Those chances drive the projected playoff brackets and each team's Final 8 odds.
@@ -287,7 +289,7 @@ function renderHow() {
   const lowest = tiers[0][1].join(" / ");
   app.innerHTML = `
   <section class="page-head"><div class="wrap">
-    <div class="crumbs"><a href="#/">Home</a><span>/</span><span>How it works</span></div>
+    ${crumbs("How it works")}
     <h1>How the <span>rankings</span> work</h1>
     <div class="sub">${SEEDS_BY_POINTS
       ? "Every team has two numbers. The <b>Old Line Rating</b> ranks the teams. <b>MPSSAA points</b> are the state's own formula, used to seed the playoffs."
@@ -330,7 +332,7 @@ function renderRank(r) {
   const title = `${r.c === "All" ? "All Classes" : cl(r.c)} <span>${GENDERS[r.g]}</span>${MULTI && r.c !== "All" ? " " + C.sport : ""}`;
   app.innerHTML = `
   <section class="page-head"><div class="wrap">
-    <div class="crumbs"><a href="#/">Home</a><span>/</span><a href="#/${r.g}/All">${GENDERS[r.g]}</a><span>/</span><span>${r.c === "All" ? "All classes" : "Class " + cl(r.c)}</span></div>
+    ${crumbs(["Rankings", `#/${r.g}/All`], r.c === "All" ? "All classes" : "Class " + cl(r.c))}
     <h1>${title}</h1>
     <div class="sub">${ts.length} teams · games through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})} · ranked by Old Line Rating</div>
     <div class="switches">
@@ -514,19 +516,22 @@ function renderFinal8(r) {
   const view = r.view in F8_VIEWS ? r.view : "current", projected = view !== "current";
   const {val, pick, regions, final8, regionSeed} = seeding(r.g, r.c, view);
   // Each record carries its own seeding number where that isn't just the record (football's MPSSAA points)
-  // Detail lines: current view = record and (football) MPSSAA points, each on its own line;
-  // projected view = a "Projected" chip that opens the games behind the projection
-  const ln = html => `<span class="ln">${html}</span>`;
-  const nowLines = t => ln(recTxt(t)) + (SEEDS_BY_POINTS ? ln(`${t.avg.toFixed(2)} MPSSAA`) : "");
-  const projChip = t => `<button class="proj-pill" data-proj="${esc(t.school)}" title="How this was projected"><span class="pp-head">Projected <i class="pp-i" aria-hidden="true">i</i></span><span class="pp-rec">${recTxt(t.proj)}</span>${SEEDS_BY_POINTS ? `<span class="pp-pts">${t.proj.avg.toFixed(2)} MPSSAA</span>` : ""}</button>`;
-  // Projected view shows the projected record next to the actual one
+  // Team card details: record and (football) MPSSAA points on their own lines; the projected view adds a
+  // small "Projected ⓘ" label that opens the games behind the projection
+  const details = t => {
+    const x = projected ? t.proj : t;
+    // Projected: a small ⓘ next to the record opens the games behind the projection
+    const info = projected ? `<button class="proj-link" data-proj="${esc(t.school)}" title="How this was projected" aria-label="How ${esc(t.school)}'s record was projected"><i class="pp-i">i</i></button>` : "";
+    return `<span class="d-rec mono">${recTxt(x)}${info}</span>` + (SEEDS_BY_POINTS ? `<span class="d-pts">${x.avg.toFixed(2)} MPSSAA</span>` : "");
+  };
   // Region (mini) brackets get a short detail line: record and seeding number
   const slotFor = (seedOf, mini) => (x, p, cls) => {
     if (x === BYE) return `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">Bye</span></div>`;
     if (!isTeam(x)) return `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">${x && x.label ? esc(x.label) : "TBD"}</span></div>`;
-    return `<div class="slot ${cls}" data-team="${esc(x.school)}"><span class="seed mono">${seedOf(x)}</span>${logo(x.school, 24)}
-      <span class="nm" title="${esc(x.school)}">${esc(x.school)}<small>${mini ? "" : ln(esc(x.region))}${projected ? projChip(x) : nowLines(x)}</small></span>
-      <span class="avg mono" title="Chance to win this game (Old Line Rating)">${p == null ? "" : pct(100 * p)}</span></div>`;
+    // Sections: seed + logo | name, region, record | win chance
+    return `<div class="slot tcard ${cls}" data-team="${esc(x.school)}"><span class="seed mono">${seedOf(x)}</span>${logo(x.school, mini ? 32 : 40)}
+      <div class="info"><span class="nm" title="${esc(x.school)}">${esc(x.school)}</span>${mini ? "" : `<span class="d-sub">${esc(x.region)}</span>`}${details(x)}</div>
+      ${p == null ? "" : `<div class="wp mono" title="Chance to win this game (Old Line Rating)">${pct(100 * p)}</div>`}</div>`;
   };
   const stateSeed = t => final8.indexOf(t) + 1;
   // Region play: each region's own bracket
@@ -545,7 +550,7 @@ function renderFinal8(r) {
     : `Each region's top ${PL.region_seeds} by ${SEED.name} play two rounds (1v8, 4v5, 2v7, 3v6); the two survivors reach the Final 8.`;
   app.innerHTML = `
   <section class="page-head"><div class="wrap">
-    <div class="crumbs"><a href="#/">Home</a><span>/</span><span>Playoffs</span><span>/</span><span>${divName(r.g, r.c)}</span></div>
+    ${crumbs(["Playoffs", "#/final8"], divName(r.g, r.c))}
     <h1>${divName(r.g, r.c)} <span>Playoffs</span></h1>
     <div class="switches">
       ${MULTI ? `<div class="pill-group ${r.g !== DEF ? "red" : ""}">${Object.entries(GENDERS).map(([g, l]) => `<a class="${g === r.g ? "on" : ""}" href="${href({...r, g, team: null})}">${l}</a>`).join("")}</div>` : ""}
@@ -559,7 +564,7 @@ function renderFinal8(r) {
           ${Object.entries(F8_VIEWS).map(([v, l]) => `<button data-view="${v}" aria-selected="${v === view}">${l}</button>`).join("")}
         </div>
         <span class="muted f8-note">${projected
-          ? `Every remaining game, regular season and playoffs, goes to the team with the higher Old Line Rating · seeded by ${SEED.name}`
+          ? `Projected using Old Line Ratings · seeded by ${SEED.name}`
           : `Today's seeds by ${SEED.name}, through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})}`}</span>
       </div>
     </div>
@@ -596,7 +601,7 @@ function allGames(g) {
 function renderSchedule(r) {
   app.innerHTML = `
   <section class="page-head"><div class="wrap">
-    <div class="crumbs"><a href="#/">Home</a><span>/</span><span>Schedule</span></div>
+    ${crumbs("Schedule")}
     <h1>${GENDERS[r.g]} <span>Schedule</span></h1>
     <div class="sub">Every game, with start times, live streams and tickets where available. Tap a team for its full schedule.</div>
     <div class="switches"><div class="pill-group" id="schedCls">${["All", ...CLASSES].map(c =>
@@ -627,31 +632,32 @@ function renderScheduleList(r) {
   games.sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : (a.time || "99") < (b.time || "99") ? -1 : 1) * (asc ? 1 : -1));
   const el = document.getElementById("schedList");
   if (!games.length) { el.innerHTML = `<div class="empty">No games match.</div>`; return; }
-  const team = (side, name, score, won) => {
+  // Each game is a small card: time + links on top, then the away team, then the home team
+  const team = (name, right, won, homeTag) => {
     const t = info(name);
     const label = t ? `<button class="tm" data-team="${esc(name)}">${esc(name)}</button>` : `<span class="tm nm">${esc(name)}</span>`;
-    const meta = t ? `<small><span class="ctag">${cl(t.cls)}</span> #${t.rank} · ${recTxt(t)}</small>` : `<small>Non-public / out of state</small>`;
-    return `<div class="side ${side} ${won === true ? "won" : won === false ? "lost" : ""}">${logo(name, 30)}<div class="who">${label}${meta}</div>${score == null ? "" : `<b class="sc mono">${score}</b>`}</div>`;
+    const meta = t ? `<small>${homeTag ? "Home · " : ""}${cl(t.cls)} · #${t.rank} · ${recTxt(t)}</small>` : `<small>${homeTag ? "Home · " : ""}Non-public / out of state</small>`;
+    return `<div class="gc-team ${won === true ? "won" : ""}">${logo(name, 32)}<div class="who">${label}${meta}</div><div class="gc-r mono">${right}</div></div>`;
   };
-  let day = "", rows = "";
+  let day = "", rows = "", open = false;
   for (const x of games.slice(0, 600)) {
     if (x.date !== day) {
       day = x.date;
-      rows += `<div class="sday">${fmtDate(day, {weekday: "long", month: "long", day: "numeric"})}</div>`;
+      rows += `${open ? "</div>" : ""}<div class="sday">${fmtDate(day, {weekday: "long", month: "long", day: "numeric"})}</div><div class="sgrid">`;
+      open = true;
     }
     const hw = x.played ? (x.hs > x.as ? true : x.hs < x.as ? false : null) : null;
-    // Football: each side's chance to win (home team hosts)
+    // Upcoming: each side's chance to win (home team hosts)
     const p = !x.played && OLR && info(x.home) ? winProb(r.g, x.home, x.away, 1) : null;
-    const mid = x.played ? `<span class="fin">${x.ff ? "Forfeit" : "Final"}</span>`
-      : p != null ? `<span class="odds mono" title="Chance to win (Old Line Rating)">${pct(100 * (1 - p))} · ${pct(100 * p)}</span>` : `<span class="at">@</span>`;
-    rows += `<div class="srow">
-      <div class="stime mono">${x.played ? "" : x.date < TODAY ? "Pending" : x.time ? fmtTime(x.time) : "TBA"}</div>
-      ${team("away", x.away, x.played ? x.as : null, hw == null ? null : !hw)}
-      <div class="smid">${mid}</div>
-      ${team("home", x.home, x.played ? x.hs : null, hw)}
-      <div class="sact">${watchBtn(x)}${ticketBtn(x, `${x.away} at ${x.home}`)}</div>
+    const right = (score, chance) => x.played ? (score ?? "–") : chance == null ? "" : `<span class="gc-p">${pct(100 * chance)}</span>`;
+    const when = x.played ? (x.ff ? "Forfeit" : "Final") : x.date < TODAY ? "Pending" : x.time ? fmtTime(x.time) : "Time TBA";
+    rows += `<div class="gcard">
+      <div class="gc-top"><span class="gc-when">${when}</span><span class="gc-act">${watchBtn(x)}${ticketBtn(x, `${x.away} at ${x.home}`)}</span></div>
+      ${team(x.away, right(x.as, p == null ? null : 1 - p), hw === false, false)}
+      ${team(x.home, right(x.hs, p), hw === true, true)}
     </div>`;
   }
+  rows += open ? "</div>" : "";
   el.innerHTML = `<div class="sched">${rows}</div>${games.length > 600 ? `<div class="empty">Showing the first 600 of ${games.length} games. Search or filter to narrow it down.</div>` : ""}`;
 }
 
@@ -688,7 +694,7 @@ function openTeam(g, name) {
     ${t.odds ? `<div class="sect">Odds to reach · 2,000 simulated seasons</div><div class="tiles odds">
       ${[["f8", "Final 8"], ["sf", "Semifinals"], ["fin", "State final"], ["champ", "State champion"]].map(([k, l]) =>
         `<div class="tile"><b class="mono">${pct(t.odds[k])}</b><span>${l}</span></div>`).join("")}</div>` : ""}
-    ${best ? `<div class="sect">Best result</div><div class="best">${logo(best.opp, 40)}<div><b>${best.res === "W" ? "Beat" : "Tied"} ${esc(best.opp)}</b> ${best.gf}–${best.ga} on ${fmtDate(best.date)}<div class="muted" style="font-size:13px">Game score ${fmtR(best.__gs)} (its contribution to the Old Line Rating)</div></div></div>` : ""}
+    ${best ? `<div class="sect">Best result</div><div class="best">${logo(best.opp, 40)}<div><b>${best.res === "W" ? "Beat" : "Tied"} ${esc(best.opp)}</b> ${best.gf}–${best.ga} on ${fmtDate(best.date)}<div class="muted" style="font-size:13px">OLR game score ${fmtR(best.__gs)}</div></div></div>` : ""}
     ${t.upcoming.length ? `<div class="sect">Upcoming (${t.upcoming.length})</div>${t.upcoming.map(u => upcomingRow(g, t, u)).join("")}<div style="height:10px"></div>` : ""}
     <div class="sect">Games played (${t.gp})</div>
     ${[...t.games].reverse().map(x => gameRow(g, t, x)).join("") || `<div class="muted">No games yet.</div>`}`;
@@ -707,7 +713,7 @@ function gameRow(g, t, x) {
     <div class="res ${x.res}">${x.res}</div>${logo(x.opp, 34)}
     <div><div class="opp">${x.home ? "vs" : "@"} ${name}</div>
       <div class="det"><span>${fmtDate(x.date)}</span>${ctag}${orec}${x.ff ? "<span>Forfeit</span>" : ""}</div></div>
-    <div class="right"><div class="links">${watchBtn(x)}</div><div class="score mono">${x.gf ?? "–"}–${x.ga ?? "–"}</div>${SEEDS_BY_POINTS ? `<div class="pts">${calc} MPSSAA pts</div>` : ""}<div class="pts">game score <b class="mono">${fmtR(gameScore(g, x).score)}</b></div></div>
+    <div class="right"><div class="links">${watchBtn(x)}</div><div class="score mono">${x.gf ?? "–"}–${x.ga ?? "–"}</div>${SEEDS_BY_POINTS ? `<div class="pts">${calc} MPSSAA pts</div>` : ""}<div class="pts">OLR game score <b class="mono">${fmtR(gameScore(g, x).score)}</b></div></div>
   </div>`;
 }
 function upcomingRow(g, t, u) {
@@ -734,20 +740,21 @@ function olrBreakdown(g, t) {
   const total = rows.reduce((s, r) => s + r.score, 0), n = rows.length;
   const result = (total + o.prior * avg) / (n + o.prior);
   const sgn = v => fmtR(v);
+  const capped = r => r.x.gf != null && r.x.ga != null && Math.abs(r.x.gf - r.x.ga) > o.cap;
+  // One row per game: opponent (date, score) on the left; its OLR game score and the parts on the right
   return `<div class="olr-break">
     <div class="olr-title">How ${esc(t.school)}'s Old Line Rating is calculated</div>
-    <p class="muted">Each game's <b>game score</b> = ${u.replace(/s$/, "")} margin (capped at ±${o.cap})${o.win_bonus ? ` ± ${o.win_bonus} for the win or loss` : ""} + the opponent's Old Line Rating${D.sports[g].home ? " − home edge" : ""}.</p>
-    <div class="table-wrap"><table class="olr-table"><thead><tr><th>Date</th><th>Opponent</th><th class="num">Score</th><th class="num">Margin</th>${o.win_bonus ? `<th class="num">Win/loss</th>` : ""}<th class="num">Opp. OLR</th>${D.sports[g].home ? `<th class="num">Home</th>` : ""}<th class="num">Game score</th></tr></thead>
-    <tbody>${rows.map(r => `<tr><td>${fmtDate(r.x.date)}</td><td>${r.x.home ? "vs" : "@"} ${esc(r.x.opp)}</td>
-      <td class="num mono">${r.x.res} ${r.x.gf ?? "–"}–${r.x.ga ?? "–"}</td><td class="num mono">${sgn(r.margin)}${r.x.gf != null && Math.abs(r.x.gf - r.x.ga) > o.cap ? "*" : ""}</td>
-      ${o.win_bonus ? `<td class="num mono">${sgn(r.bonus)}</td>` : ""}<td class="num mono">${sgn(r.opp)}</td>${D.sports[g].home ? `<td class="num mono">${sgn(-r.home)}</td>` : ""}
-      <td class="num mono"><b>${sgn(r.score)}</b></td></tr>`).join("")}</tbody></table></div>
-    <div class="olr-math">
-      <div>Total of ${n} game score${n === 1 ? "" : "s"}: <b class="mono">${sgn(total)}</b>${n ? ` (average <b class="mono">${sgn(total / n)}</b>)` : ""}</div>
+    <p class="ob-note">OLR game score = ${u.replace(/s$/, "")} margin (capped at ±${o.cap})${o.win_bonus ? ` ± ${o.win_bonus} for the win or loss` : ""} + opponent's OLR${D.sports[g].home ? " − home edge" : ""}</p>
+    ${rows.map(r => `<div class="ob-row">
+      <div class="ob-opp"><b>${r.x.home ? "vs" : "@"} ${esc(r.x.opp)}</b><small>${fmtDate(r.x.date)} · ${r.x.res} ${r.x.gf ?? "–"}–${r.x.ga ?? "–"}</small></div>
+      <div class="ob-val"><b class="mono">${sgn(r.score)}</b><small>margin ${sgn(r.margin)}${capped(r) ? "*" : ""}${o.win_bonus ? ` · ${r.bonus > 0 ? "win" : r.bonus < 0 ? "loss" : "tie"} ${sgn(r.bonus)}` : ""} · opp ${sgn(r.opp)}${D.sports[g].home ? ` · home ${sgn(-r.home)}` : ""}</small></div>
+    </div>`).join("")}
+    <div class="ob-math">
+      <div>Total of ${n} OLR game score${n === 1 ? "" : "s"}: <b class="mono">${sgn(total)}</b>${n ? ` (average <b class="mono">${sgn(total / n)}</b>)` : ""}</div>
       <div>Plus the ${cl(t.cls)} class average <b class="mono">${sgn(avg)}</b>, counted as ${o.prior} games so early results don't swing too far</div>
       <div class="eq mono">(${sgn(total)} + ${o.prior} × ${sgn(avg)}) ÷ (${n} + ${o.prior}) = <b>${sgn(result)}</b></div>
-      ${rows.some(r => r.x.gf != null && Math.abs(r.x.gf - r.x.ga) > o.cap) ? `<div class="muted">* margin capped at ${o.cap} ${u}</div>` : ""}
-      <div class="muted">Every team's rating depends on its opponents' ratings, so all ratings are solved together each night; small rounding differences are expected.</div>
+      ${rows.some(capped) ? `<div class="ob-fine">* margin capped at ${o.cap} ${u}</div>` : ""}
+      <div class="ob-fine">All ratings are solved together each night, since each depends on its opponents'; tiny rounding differences are expected.</div>
     </div></div>`;
 }
 document.getElementById("dBody").addEventListener("click", e => {
@@ -784,7 +791,7 @@ function projPanel(g, t) {
   }).join("");
   const mp = x => SEEDS_BY_POINTS ? ` · ${x.avg.toFixed(2)} MPSSAA` : "";
   return `<div class="pp-row"><span>Now</span><b>${recTxt(t)}${mp(t)}</b></div>
-    <div class="pp-sub">Remaining games · higher Old Line Rating wins</div>
+    <div class="pp-sub">Remaining games projected by Old Line Rating</div>
     ${games ? `<ul class="pp-games">${games}</ul>` : `<div class="pp-none">No games left to play.</div>`}
     <div class="pp-row total"><span>Projected</span><b>${recTxt(t.proj)}${mp(t.proj)}</b></div>`;
 }
@@ -792,10 +799,10 @@ const projPop = document.createElement("div");
 projPop.className = "proj-pop"; projPop.hidden = true;
 document.body.appendChild(projPop);
 function closeProjPop() { projPop.hidden = true; }
-document.addEventListener("click", e => { if (!e.target.closest(".proj-pop, .proj-pill")) closeProjPop(); });
+document.addEventListener("click", e => { if (!e.target.closest(".proj-pop, .proj-link")) closeProjPop(); });
 document.addEventListener("keydown", e => { if (e.key === "Escape") closeProjPop(); });
 app.addEventListener("click", e => {
-  const pill = e.target.closest(".proj-pill");
+  const pill = e.target.closest(".proj-link");
   if (pill) {   // the chip sits inside a clickable team slot: show the projection, don't open the team
     e.stopPropagation();
     const r = parseRoute(), t = findTeam(r.g, pill.dataset.proj), box = pill.getBoundingClientRect();

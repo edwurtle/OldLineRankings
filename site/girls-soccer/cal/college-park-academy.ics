@@ -6,7 +6,7 @@ X-WR-CALNAME:College Park Academy Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-college-park-academy-surrattsville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T213318Z
+DTSTAMP:20261012T233326Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Surrattsville at College Park Academy
@@ -15,7 +15,7 @@ DESCRIPTION:Final: College Park Academy 9\, Surrattsville 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-college-park-academy-international-hs-at-langley-park-girls-soccer@oldlinerankings
-DTSTAMP:20261012T213318Z
+DTSTAMP:20261012T233326Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: International HS at Langley Park at College Park Academy
@@ -24,7 +24,7 @@ DESCRIPTION:Final: College Park Academy 9\, International HS at Langley Park 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-college-park-academy-gwynn-park-girls-soccer@oldlinerankings
-DTSTAMP:20261012T213318Z
+DTSTAMP:20261012T233326Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Gwynn Park at College Park Academy
@@ -33,7 +33,7 @@ DESCRIPTION:Final: College Park Academy 2\, Gwynn Park 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-college-park-academy-fairmont-heights-girls-soccer@oldlinerankings
-DTSTAMP:20261012T213318Z
+DTSTAMP:20261012T233326Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Fairmont Heights at College Park Academy
@@ -42,7 +42,7 @@ DESCRIPTION:Final: College Park Academy 5\, Fairmont Heights 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-college-park-academy-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261012T213318Z
+DTSTAMP:20261012T233326Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Girls Soccer: Northwestern at College Park Academy
@@ -52,7 +52,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-college-park-academy-friendly-girls-soccer@oldlinerankings
-DTSTAMP:20261012T213318Z
+DTSTAMP:20261012T233326Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Friendly at College Park Academy
@@ -61,7 +61,7 @@ DESCRIPTION:Final: College Park Academy 5\, Friendly 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-cmit-north-college-park-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261012T213318Z
+DTSTAMP:20261012T233326Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: College Park Academy at CMIT - North
@@ -70,7 +70,7 @@ DESCRIPTION:Final: College Park Academy 0\, CMIT - North 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04-college-park-academy-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261012T213318Z
+DTSTAMP:20261012T233326Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Girls Soccer: Oxon Hill at College Park Academy
@@ -78,7 +78,7 @@ LOCATION:College Park Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-college-park-academy-largo-girls-soccer@oldlinerankings
-DTSTAMP:20261012T213318Z
+DTSTAMP:20261012T233326Z
 DTSTART;TZID=America/New_York:20261008T150000
 DTEND;TZID=America/New_York:20261008T170000
 SUMMARY:Girls Soccer: Largo at College Park Academy
@@ -88,7 +88,7 @@ URL:https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gam9e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-college-park-academy-frederick-douglass-pg-girls-soccer@oldlinerankings
-DTSTAMP:20261012T213318Z
+DTSTAMP:20261012T233326Z
 DTSTART;TZID=America/New_York:20261012T150000
 DTEND;TZID=America/New_York:20261012T170000
 SUMMARY:Girls Soccer: Frederick Douglass-PG at College Park Academy
@@ -97,7 +97,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6712023
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-college-park-academy-crossland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T213318Z
+DTSTAMP:20261012T233326Z
 DTSTART;TZID=America/New_York:20261015T164500
 DTEND;TZID=America/New_York:20261015T184500
 SUMMARY:Girls Soccer: Crossland at College Park Academy
@@ -106,7 +106,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6689157
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-college-park-academy-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261012T213318Z
+DTSTAMP:20261012T233326Z
 DTSTART;TZID=America/New_York:20261019T153000
 DTEND;TZID=America/New_York:20261019T173000
 SUMMARY:Girls Soccer: Parkdale at College Park Academy

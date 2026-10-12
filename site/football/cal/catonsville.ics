@@ -6,7 +6,7 @@ X-WR-CALNAME:Catonsville Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-catonsville-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Marriotts Ridge at Catonsville
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/game
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-catonsville-dulaney-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Dulaney at Catonsville
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-catonsville-new-town-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;TZID=America/New_York:20260918T180000
 DTEND;TZID=America/New_York:20260918T200000
 SUMMARY:Football: New Town at Catonsville
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-catonsville-milford-mill-academy-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;TZID=America/New_York:20260925T170000
 DTEND;TZID=America/New_York:20260925T190000
 SUMMARY:Football: Milford Mill Academy at Catonsville
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gam33a3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-randallstown-catonsville-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: Catonsville at Randallstown
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-catonsville-franklin-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Franklin at Catonsville
@@ -65,7 +65,7 @@ DESCRIPTION:Final: Catonsville 6\, Franklin 50
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-owings-mills-catonsville-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Football: Catonsville at Owings Mills
@@ -74,7 +74,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6671173
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-catonsville-woodlawn-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
 SUMMARY:Football: Woodlawn at Catonsville
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gama278
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-catonsville-parkville-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;TZID=America/New_York:20261031T120000
 DTEND;TZID=America/New_York:20261031T140000
 SUMMARY:Football: Parkville at Catonsville

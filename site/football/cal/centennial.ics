@@ -6,7 +6,7 @@ X-WR-CALNAME:Centennial Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-hammond-centennial-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Centennial at Hammond
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Centennial 12\, Hammond 60
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-mount-hebron-centennial-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Centennial at Mount Hebron
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Centennial 6\, Mount Hebron 34
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-winters-mill-centennial-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Centennial at Winters Mill
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Centennial 6\, Winters Mill 49
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-poolesville-centennial-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T203000
 SUMMARY:Football: Centennial at Poolesville
@@ -43,7 +43,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-southern-aa-centennial-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Centennial at Southern-AA
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Centennial 0\, Southern-AA 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-northeast-aa-centennial-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Football: Centennial at Northeast-AA
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Centennial 0\, Northeast-AA 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-north-harford-centennial-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Football: Centennial at North Harford
@@ -71,7 +71,7 @@ URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-northwood-centennial-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Centennial at Northwood
@@ -81,7 +81,7 @@ URL:https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-manchester-valley-centennial-football@oldlinerankings
-DTSTAMP:20261012T213225Z
+DTSTAMP:20261012T233213Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Centennial at Manchester Valley

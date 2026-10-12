@@ -67,6 +67,6 @@ python3 scripts/build.py              # refresh results for both sites (run anyt
 Serve it: `python3 -m http.server -d site 8000` → http://localhost:8000 (splash), `/soccer/`, `/football/`
 
 ## Hosting
-Deployed to GitHub Pages by `.github/workflows/deploy.yml`, which runs nightly (and on every push to `main`),
+Live at https://oldlinerankings.com (Cloudflare Pages, publishes `site/` on every push). Also deployed to GitHub Pages by `.github/workflows/deploy.yml`, which runs nightly (and on every push to `main`),
 fetches fresh results with `scripts/build.py`, commits the updated data for both sites, and publishes `site/`.
 Refresh on demand: `gh workflow run deploy.yml`.

@@ -1,9 +1,8 @@
 # TODO
 
-1. **Set up the domain**: buy `oldlinerankings.com` (was unregistered on 2026-10-12, as were .org/.net)
-   and serve the site from it: add `site/CNAME`, set the custom domain in the repo's GitHub Pages settings,
-   add the DNS records at the registrar (4 A records + `www` CNAME), turn on HTTPS. The
-   `edwurtle.github.io/OldLineRankings/` links will redirect.
+1. ~~**Set up the domain**~~ Done 2026-10-12: `oldlinerankings.com` registered at Cloudflare and served by Cloudflare
+   Pages (project `oldlinerankings`, connected to this repo; publishes `site/` on every push). Left: redirect
+   `www.` to the bare domain, and decide whether to keep or redirect the GitHub Pages copy.
 2. **Set up NFHS Network affiliate links**: apply to the NFHS Network affiliate program
    (https://nfhsnetwork.playonsports.com/affiliate-program, reportedly run on Impact), then add the
    tracking-link format to the ▶ Watch buttons (all watch links are built in `site/app.js`, `watchBtn`).
@@ -14,3 +13,6 @@
    `sitemap.xml` + `robots.txt`, structured data (schema.org SportsEvent / SportsTeam), crawlable
    per-team URLs (hash routes like `#/team/...` aren't indexed: needs real paths or pre-rendered pages),
    an `llms.txt` summary, and submit to Google Search Console / Bing Webmaster Tools once the domain is live.
+5. **More playoff simulations (later)**: 9,000 instead of 2,000 for steadier odds. Needs a faster simulator first:
+   at 9,000 the nightly build ran several minutes per sport (`n` in `scripts/oldline.py` `simulate`, and the
+   "2,000 simulated seasons" text in `site/app.js`).
