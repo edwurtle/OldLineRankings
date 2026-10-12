@@ -15,24 +15,15 @@ Football is ranked by the Old Line Rating instead (see oldline.py); its MPSSAA p
 for playoff seeding.
 """
 import collections, datetime, html, json, pathlib, re, subprocess
-import oldline
+import icons, oldline
 
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
-# Everything that differs between the sites. Shared by build.py and passed to app.js as DATA.config.
+# Everything that differs between the sites. Order here is the order on the splash page and footer. Shared by build.py and passed to app.js as DATA.config.
 SITES = {
-    "soccer": dict(
-        out="site/soccer", sport="Soccer", icon="⚽", season="Fall",
-        ranked_by="Power points: opponent class + opponent wins, per game",
-        divisions={"boys": dict(label="Boys", api="boys-soccer"), "girls": dict(label="Girls", api="girls-soccer")},
-        classes={"4A": 8, "3A": 7, "2A": 6, "1A": 5},
-        regions=["East I", "East II", "North I", "North II", "South I", "South II", "West I", "West II"],
-        score=dict(short="GF–GA", name="Goal difference", plural="goals"),
-        ties=True, example=dict(cls="3A", W=7, L=2, T=1),
-    ),
     "football": dict(
-        out="site/football", sport="Football", icon="🏈", season="Fall",
+        out="site/football", sport="Football", icon="football", season="Fall",
         ranked_by="Old Line Rating: capped scoring margins + opponent strength",
         divisions={"football": dict(label="Football", api="football")},
         # MPSSAA football seeding win points (Football Tournament Bulletin, "Classification Win Points")
@@ -41,17 +32,31 @@ SITES = {
         regions=["East", "North", "South", "West"],
         score=dict(short="PF–PA", name="Point difference", plural="points"),
         ties=False, example=dict(cls="3A", W=5, L=2, T=0),
-        # Region top 8 play two rounds; two per region reach the 8-team state quarterfinal, reseeded by rating
-        playoffs=dict(region_seeds=8, per_region=2), first_meeting_only=True,
+        # Football bulletin: region top 8 by MPSSAA points play two rounds; two per region reach the
+        # 8-team state quarterfinal, reseeded by MPSSAA points
+        playoffs=dict(seed_by="mpssaa", region_seeds=8, per_region=2), first_meeting_only=True,
         # Old Line Rating: margin capped at 28 (under the 35-point running clock), 4-point win bonus,
         # pulled toward class average by 3 games' worth; k = win-probability scale per rating point.
         # Backtested on 2026 weeks 3-6: picks 79% of winners vs 71% for MPSSAA points.
         olr=dict(cap=28, win_bonus=4, prior=3, k=0.175),
     ),
+    "soccer": dict(
+        out="site/soccer", sport="Soccer", icon="soccer", season="Fall",
+        ranked_by="Power points: opponent class + opponent wins, per game",
+        divisions={"boys": dict(label="Boys", api="boys-soccer"), "girls": dict(label="Girls", api="girls-soccer")},
+        classes={"4A": 8, "3A": 7, "2A": 6, "1A": 5},
+        regions=["East I", "East II", "North I", "North II", "South I", "South II", "West I", "West II"],
+        score=dict(short="GF–GA", name="Goal difference", plural="goals"),
+        ties=True, example=dict(cls="3A", W=7, L=2, T=1),
+        # Soccer bulletin: every team is seeded in its region by winning percentage (fewer than 9 games
+        # divide by 9); each region plays down to one champion; the 8 champions are reseeded by it
+        playoffs=dict(seed_by="winpct", min_games=9, region_seeds=8, per_region=1),
+    ),
 }
 
 # Sports shown on the splash page and in the footer before they have a site
-COMING = [dict(sport="Lacrosse", icon="🥍", note="Boys & girls · coming spring 2027")]
+COMING = [dict(sport="Basketball", icon="basketball", note="Boys & girls · coming winter 2026–27"),
+          dict(sport="Lacrosse", icon="lacrosse", note="Boys & girls · coming spring 2027")]
 
 # Opponent spellings that refer to member schools
 ALIAS = {"Mt. Hebron": "Mount Hebron", "Flowers HS": "Charles H. Flowers", "Wise HS": "Dr. Henry A. Wise",
@@ -237,21 +242,21 @@ def match_schools(team_names, logo_prefix=""):
     return out, missing
 
 
-def project(raw_games, standings, class_pts, teams, first_meeting_only, ratings, home, olr):
-    """MPSSAA points as if every remaining (non-postponed) game were won by the OLR favorite.
-    Adds t["proj"] to each team."""
+def project(raw_games, standings, class_pts, teams, first_meeting_only, wins, key="proj"):
+    """Records and MPSSAA points as if every remaining (non-postponed) game went to the favorite;
+    wins(team, opponent, team_home) says whether `team` is favored. Adds t[key] to each team."""
     extra = []
     for t in teams:
         for u in t["upcoming"]:
             if u["status"] == "postponed" or (u["member"] and u["opp"] < t["school"]):
                 continue  # each member-vs-member game once
-            won = oldline.win_prob(ratings[t["school"]], ratings[u["opp"]], 1 if u["home"] else -1, home, olr["k"]) >= .5
+            won = wins(t["school"], u["opp"], u["home"])
             extra.append(dict(school=t["school"], opponent=u["opp"], result="Win" if won else "Loss",
                               your_score=None, opponent_score=None, game_date=u["date"]))
     projected = {p["school"]: p for p in rank_sport(raw_games + extra, standings, class_pts, first_meeting_only)}
     for t in teams:
         p = projected[t["school"]]
-        t["proj"] = {k: p[k] for k in ("W", "L", "T", "gp", "pts", "avg")}
+        t[key] = {k: p[k] for k in ("W", "L", "T", "gp", "pts", "avg")}
 
 
 def build_site(key, cfg, nonce, stamp):
@@ -266,27 +271,37 @@ def build_site(key, cfg, nonce, stamp):
         if cfg.get("olr"):
             ratings, home = oldline.rate(teams, cfg["olr"])
             assign_ranks(teams)
-            project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False), ratings, home, cfg["olr"])
+            project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False),
+                    lambda a, b, a_home: oldline.win_prob(ratings[a], ratings[b], 1 if a_home else -1, home, cfg["olr"]["k"]) >= .5)
+            # Second projection: the team with the higher MPSSAA average wins; members beat non-members
+            mp = {t["school"]: t["avg"] for t in teams}
+            project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False),
+                    lambda a, b, a_home: b not in mp or mp[a] >= mp[b], key="projMp")
             oldline.simulate(teams, cfg["classes"], ratings, home, cfg["olr"], cfg["playoffs"], cfg["regions"])
             members = {t["school"] for t in teams}
             sports[div]["nonmember"] = {x: round(v, 2) for x, v in ratings.items() if x not in members}
             sports[div]["home"] = round(home, 2)
+        elif cfg.get("playoffs"):
+            # No game-prediction model: the higher-rated team wins; members beat non-members
+            rating = {t["school"]: t["rating"] for t in teams}
+            project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False),
+                    lambda a, b, a_home: b not in rating or rating[a] >= rating[b])
         print(f"{key}/{div}: {len(teams)} teams, games through {sports[div]['through']}")
     names = sorted({t["school"] for s in sports.values() for t in s["teams"]})
     schools, missing = match_schools(names, root)
     if missing:
         print("No directory match for:", missing)
     # Every sport, for the footer switcher (paths relative to this site)
-    family = dict(home=root, sports=[dict(sport=c["sport"], icon=c["icon"], current=k == key,
+    family = dict(home=root, sports=[dict(sport=c["sport"], icon=icons.svg(c["icon"]), current=k == key,
                                           href=root + "".join(p + "/" for p in pathlib.Path(c["out"]).parts[1:]))
-                                     for k, c in SITES.items()] + COMING)
+                                     for k, c in SITES.items()] + [c | dict(icon=icons.svg(c["icon"])) for c in COMING])
     config = {k: v for k, v in cfg.items() if k not in ("out", "divisions")} | dict(
         family=family, divisions={k: d["label"] for k, d in cfg["divisions"].items()})
     data = dict(updated=datetime.datetime.now().strftime("%b %-d, %Y"), config=config, schools=schools, sports=sports)
     (out / "data.js").write_text("window.DATA = " + json.dumps(data, separators=(",", ":")) + ";\n")
     # Every site shares one page shell; asset links are cache-busted so browsers pick up new data/code
     page = (ROOT / "scripts" / "page.html").read_text()
-    for k, v in dict(root=root, sport=cfg["sport"], sport_lower=cfg["sport"].lower(), icon=cfg["icon"], stamp=stamp).items():
+    for k, v in dict(root=root, sport=cfg["sport"], sport_lower=cfg["sport"].lower(), favicon=icons.favicon(cfg["icon"]), stamp=stamp).items():
         page = page.replace("{{" + k + "}}", v)
     (out / "index.html").write_text(page)
     print(f"Wrote {cfg['out']}/")
@@ -317,18 +332,16 @@ def write_splash(built, stamp):
         divs = " & ".join(d["label"] for d in cfg["divisions"].values()) if multi else ""
         date = datetime.date.fromisoformat(through).strftime("%b %-d")
         cards.append(f'''<a class="sport-card" href="{b["href"]}">
-      <div class="sport-top"><span class="sport-icon">{cfg["icon"]}</span><div><h2>{esc(cfg["sport"])}</h2>
+      <div class="sport-top"><span class="sport-icon">{icons.svg(cfg["icon"])}</span><div><h2>{esc(cfg["sport"])}</h2>
         <small>{esc(" · ".join(filter(None, [divs, cfg["season"] + " " + through[:4], f"{teams} teams", f"through {date}"])))}</small></div></div>
       <div class="ranked-by"><b>Ranked by</b> {esc(cfg["ranked_by"])}</div>
       <div class="sport-sub">No. 1 in each class</div>
       <ul class="leaders">{"".join(leaders)}</ul>
-      <span class="sport-go">{esc(cfg["sport"])} rankings →</span></a>''')
-    for c in COMING:
-        cards.append(f'''<div class="sport-card soon">
-      <div class="sport-top"><span class="sport-icon">{c["icon"]}</span><div><h2>{esc(c["sport"])}</h2><small>{esc(c["note"])}</small></div></div>
-      <span class="sport-go">Coming soon</span></div>''')
+      <span class="sport-go">Old Line {esc(cfg["sport"])} Rankings →</span></a>''')
+    coming = [f'''<div class="sport-card soon"><div class="sport-top"><span class="sport-icon">{icons.svg(c["icon"])}</span>
+      <div><h2>{esc(c["sport"])}</h2><small>{esc(c["note"])}</small></div></div></div>''' for c in COMING]
     page = (ROOT / "scripts" / "splash.html").read_text()
-    for k, v in dict(cards="\n    ".join(cards), stamp=stamp).items():
+    for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), favicon=icons.favicon(), stamp=stamp).items():
         page = page.replace("{{" + k + "}}", v)
     (ROOT / "site" / "index.html").write_text(page)
     print("Wrote site/index.html (splash)")

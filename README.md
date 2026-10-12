@@ -24,11 +24,18 @@ Football is ranked by the Old Line Rating (`scripts/oldline.py`); MPSSAA points 
 - Rating differences work like point spreads; win chance = 1 / (1 + e^(−0.175 × difference)).
 - Backtested on 2026 weeks 3–6 using only earlier games: 79% of winners picked vs 71% for MPSSAA points.
 
-## Final 8 (football)
-Seeds use MPSSAA points. **Current**: today's seeds; the No. 1 and No. 2 seeds in each of the 4 regions reach the
-8-team state quarterfinal bracket (later rounds left open). **Projected**: the rest of the regular season and every
-playoff game go to the Old Line Rating favorite, with the full bracket filled in. Playoff odds come from 2,000
-simulated seasons and playoffs.
+## Final 8 (football and soccer)
+Each sport seeds the way its MPSSAA bulletin says (`playoffs` in `SITES`):
+- **Football:** each region's top 8 by MPSSAA points play two rounds (1v8, 4v5, 2v7, 3v6); two per region reach the Final 8.
+- **Soccer:** every team is seeded in its region by winning percentage (fewer than 9 games divide by 9) and each region
+  plays down to one champion; the 8 champions make the Final 8.
+
+The Final 8 is reseeded 1–8 by the same number. The page shows each region's mini bracket, then the state bracket:
+- **Current:** today's seeds and first-round matchups only; later rounds and the Final 8 bracket stay empty.
+- **Projected:** the rest of the regular season and every playoff game go to the favorite and every game is shown.
+  Football has two projections, by Old Line Rating (with win chances) and by MPSSAA points; soccer uses its rating.
+- **Final 8 odds (football):** every team makes its region playoffs (regions have at most 8 teams), so odds measure how
+  far it goes (Final 8, semifinals, state final, title), from 2,000 simulated seasons and playoffs.
 
 ## Layout
 - `site/` — the deployable site: splash `index.html` and shared `app.js`, `flag.js`, `styles.css`, `logos/`

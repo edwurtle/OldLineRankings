@@ -10,7 +10,7 @@
   // Soccer used to live at the root; send old soccer links (#/boys/4A, #/how, …) to its new home.
   if (/^#\/./.test(location.hash)) location.replace("soccer/" + location.hash);
 </script>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏆</text></svg>">
+<link rel="icon" href="{{favicon}}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
@@ -44,6 +44,10 @@
         <p>Each sport has its own formula, built around how that sport is played; every site's "How it works" page has the details.</p></div></div>
       <div class="sport-grid">
     {{cards}}
+      </div>
+      <div class="sport-sub coming-head">Coming soon</div>
+      <div class="sport-grid coming">
+    {{coming}}
       </div>
     </section>
   </div>
