@@ -6,7 +6,7 @@ X-WR-CALNAME:Col. Zadok Magruder Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-col-zadok-magruder-seneca-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Seneca Valley at Col. Zadok Magruder
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Col. Zadok Magruder 6\, Seneca Valley 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-col-zadok-magruder-walter-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20260910T191500
 DTEND;TZID=America/New_York:20260910T211500
 SUMMARY:Girls Soccer: Walter Johnson at Col. Zadok Magruder
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-col-zadok-magruder-paint-branch-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20260915T191500
 DTEND;TZID=America/New_York:20260915T211500
 SUMMARY:Girls Soccer: Paint Branch at Col. Zadok Magruder
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-zadok-magruder-high-school-rockvi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-col-zadok-magruder-gaithersburg-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20260917T191500
 DTEND;TZID=America/New_York:20260917T211500
 SUMMARY:Girls Soccer: Gaithersburg at Col. Zadok Magruder
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/gaithersburg-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-col-zadok-magruder-sherwood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20260925T191500
 DTEND;TZID=America/New_York:20260925T211500
 SUMMARY:Girls Soccer: Sherwood at Col. Zadok Magruder
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-zadok-magruder-high-school-rockvi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-col-zadok-magruder-james-hubert-blake-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20260928T191500
 DTEND;TZID=America/New_York:20260928T211500
 SUMMARY:Girls Soccer: James Hubert Blake at Col. Zadok Magruder
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/wheaton-high-school-silver-spring-md/game
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-col-zadok-magruder-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20260930T191500
 DTEND;TZID=America/New_York:20260930T211500
 SUMMARY:Girls Soccer: Springbrook at Col. Zadok Magruder
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-col-zadok-magruder-thomas-s-wootton-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: Thomas S. Wootton at Col. Zadok Magruder
@@ -84,7 +84,7 @@ DESCRIPTION:Final: Col. Zadok Magruder 2\, Thomas S. Wootton 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-col-zadok-magruder-rockville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20261007T180000
 DTEND;TZID=America/New_York:20261007T200000
 SUMMARY:Girls Soccer: Rockville at Col. Zadok Magruder
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-zadok-magruder-high-school-rockvi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-col-zadok-magruder-albert-einstein-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20261014T191500
 DTEND;TZID=America/New_York:20261014T211500
 SUMMARY:Girls Soccer: Albert Einstein at Col. Zadok Magruder
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-zadok-magruder-high-school-rockvi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-col-zadok-magruder-richard-montgomery-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20261016T171500
 DTEND;TZID=America/New_York:20261016T191500
 SUMMARY:Girls Soccer: Richard Montgomery at Col. Zadok Magruder
@@ -114,7 +114,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-zadok-magruder-high-school-rockvi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-col-zadok-magruder-quince-orchard-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20261020T171500
 DTEND;TZID=America/New_York:20261020T191500
 SUMMARY:Girls Soccer: Quince Orchard at Col. Zadok Magruder

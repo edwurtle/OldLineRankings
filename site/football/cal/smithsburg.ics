@@ -6,7 +6,7 @@ X-WR-CALNAME:Smithsburg Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-smithsburg-francis-scott-key-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Francis Scott Key at Smithsburg
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Smithsburg 24\, Francis Scott Key 21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-smithsburg-williamsport-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Williamsport at Smithsburg
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Smithsburg 21\, Williamsport 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-smithsburg-wv-berkeley-springs-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: WV- Berkeley Springs at Smithsburg
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Smithsburg 36\, WV- Berkeley Springs 20
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-smithsburg-brunswick-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Brunswick at Smithsburg
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Smithsburg 28\, Brunswick 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-smithsburg-poolesville-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Poolesville at Smithsburg
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Smithsburg 63\, Poolesville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-clear-spring-smithsburg-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Smithsburg at Clear Spring
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Smithsburg 56\, Clear Spring 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-smithsburg-catoctin-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T200000
 SUMMARY:Football: Catoctin at Smithsburg
@@ -70,7 +70,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam23bfc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-fort-hill-smithsburg-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Smithsburg at Fort Hill
@@ -79,7 +79,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6854511
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-smithsburg-boonsboro-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Boonsboro at Smithsburg

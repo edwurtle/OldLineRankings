@@ -6,7 +6,7 @@ X-WR-CALNAME:Gwynn Park Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-gwynn-park-bowie-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Bowie at Gwynn Park
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gama
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-gwynn-park-new-town-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: New Town at Gwynn Park
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Gwynn Park 8\, New Town 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-fairmont-heights-gwynn-park-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Gwynn Park at Fairmont Heights
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Gwynn Park 47\, Fairmont Heights 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-gwynn-park-largo-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Football: Largo at Gwynn Park
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gamca
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-gwynn-park-surrattsville-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;TZID=America/New_York:20261002T184500
 DTEND;TZID=America/New_York:20261002T204500
 SUMMARY:Football: Surrattsville at Gwynn Park
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gamc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-central-gwynn-park-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T203000
 SUMMARY:Football: Gwynn Park at Central
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gamf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-crossland-gwynn-park-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Gwynn Park at Crossland
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gam4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-gwynn-park-friendly-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Friendly at Gwynn Park
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-frederick-douglass-pg-gwynn-park-football@oldlinerankings
-DTSTAMP:20261012T194626Z
+DTSTAMP:20261012T194809Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Gwynn Park at Frederick Douglass-PG

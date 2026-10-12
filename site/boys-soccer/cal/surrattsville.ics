@@ -6,7 +6,7 @@ X-WR-CALNAME:Surrattsville Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-college-park-academy-surrattsville-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Surrattsville at College Park Academy
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Surrattsville 1\, College Park Academy 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-surrattsville-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Largo at Surrattsville
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Surrattsville 5\, Largo 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-cmit-north-surrattsville-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Surrattsville at CMIT - North
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Surrattsville 4\, CMIT - North 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-surrattsville-la-plata-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Boys Soccer: La Plata at Surrattsville
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Surrattsville 1\, La Plata 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-surrattsville-international-hs-at-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;TZID=America/New_York:20260924T164500
 DTEND;TZID=America/New_York:20260924T184500
 SUMMARY:Boys Soccer: International HS at Largo at Surrattsville
@@ -52,7 +52,7 @@ URL:https://www.nfhsnetwork.com/events/surrattsville-high-school-clinton-md/gam1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-fairmont-heights-surrattsville-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Surrattsville at Fairmont Heights
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Surrattsville 2\, Fairmont Heights 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-surrattsville-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Potomac at Surrattsville
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Surrattsville 2\, Potomac 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-gwynn-park-surrattsville-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Surrattsville at Gwynn Park
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Surrattsville 0\, Gwynn Park 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-crossland-surrattsville-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;TZID=America/New_York:20261008T164600
 DTEND;TZID=America/New_York:20261008T184600
 SUMMARY:Boys Soccer: Surrattsville at Crossland
@@ -89,7 +89,7 @@ URL:https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-surrattsville-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;TZID=America/New_York:20261012T150000
 DTEND;TZID=America/New_York:20261012T170000
 SUMMARY:Boys Soccer: Oxon Hill at Surrattsville
@@ -98,7 +98,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6721139
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-international-hs-at-langley-park-surrattsville-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;TZID=America/New_York:20261015T164500
 DTEND;TZID=America/New_York:20261015T184500
 SUMMARY:Boys Soccer: Surrattsville at International HS at Langley Park
@@ -107,7 +107,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6721141
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-frederick-douglass-pg-surrattsville-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;TZID=America/New_York:20261019T150000
 DTEND;TZID=America/New_York:20261019T170000
 SUMMARY:Boys Soccer: Surrattsville at Frederick Douglass-PG

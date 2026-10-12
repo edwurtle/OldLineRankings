@@ -6,7 +6,7 @@ X-WR-CALNAME:Queen Anne's Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-queen-anne-s-stephen-decatur-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Girls Soccer: Stephen Decatur at Queen Anne's
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-queen-anne-s-parkside-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Parkside at Queen Anne's
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Queen Anne's 6\, Parkside 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-kent-county-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20260917T160000
 DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Girls Soccer: Queen Anne's at Kent County
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamc170
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-cambridge-south-dorchester-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
 SUMMARY:Girls Soccer: Queen Anne's at Cambridge-South Dorchester
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-north-caroline-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20260924T173000
 DTEND;TZID=America/New_York:20260924T193000
 SUMMARY:Girls Soccer: Queen Anne's at North Caroline
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-queen-anne-s-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: James M. Bennett at Queen Anne's
@@ -64,7 +64,7 @@ DESCRIPTION:Final: Queen Anne's 2\, James M. Bennett 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-north-dorchester-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Queen Anne's at North Dorchester
@@ -73,7 +73,7 @@ DESCRIPTION:Final: Queen Anne's 11\, North Dorchester 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-colonel-richardson-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T193000
 SUMMARY:Girls Soccer: Queen Anne's at Colonel Richardson
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-queen-anne-s-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Easton at Queen Anne's
@@ -92,7 +92,7 @@ DESCRIPTION:Final: Queen Anne's 5\, Easton 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-queen-anne-s-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Wicomico at Queen Anne's
@@ -100,7 +100,7 @@ LOCATION:Queen Anne's
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-kent-island-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194729Z
+DTSTAMP:20261012T194857Z
 DTSTART;TZID=America/New_York:20261014T170000
 DTEND;TZID=America/New_York:20261014T190000
 SUMMARY:Girls Soccer: Queen Anne's at Kent Island

@@ -6,7 +6,7 @@ X-WR-CALNAME:Randallstown Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-lansdowne-randallstown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Randallstown at Lansdowne
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Randallstown 0\, Lansdowne 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-loch-raven-randallstown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
 SUMMARY:Boys Soccer: Randallstown at Loch Raven
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/randallstown-high-school-randallstown-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-randallstown-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;TZID=America/New_York:20260917T180000
 DTEND;TZID=America/New_York:20260917T200000
 SUMMARY:Boys Soccer: Kenwood at Randallstown
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam2c313
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-randallstown-new-town-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: New Town at Randallstown
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Randallstown 0\, New Town 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-randallstown-overlea-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
 SUMMARY:Boys Soccer: Overlea at Randallstown
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/randallstown-high-school-randallstown-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-randallstown-patapsco-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Boys Soccer: Patapsco at Randallstown
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/patapsco-high-school-baltimore-md/gam3f50
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-randallstown-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Boys Soccer: Woodlawn at Randallstown
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/randallstown-high-school-randallstown-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-carver-aandt-randallstown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Randallstown at Carver A&T
@@ -83,7 +83,7 @@ DESCRIPTION:Final: Randallstown 0\, Carver A&T 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-randallstown-chesapeake-b-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Boys Soccer: Chesapeake-B at Randallstown
@@ -93,7 +93,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-baltimore-md/gam74
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-randallstown-milford-mill-academy-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Boys Soccer: Milford Mill Academy at Randallstown
@@ -103,7 +103,7 @@ URL:https://www.nfhsnetwork.com/events/randallstown-high-school-randallstown-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-owings-mills-randallstown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194658Z
+DTSTAMP:20261012T194833Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: Randallstown at Owings Mills
