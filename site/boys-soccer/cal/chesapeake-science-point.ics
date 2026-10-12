@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Chesapeake Science Point Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-15-chesapeake-science-point-northeast-aa-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Boys Soccer: Northeast-AA at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Chesapeake Science Point 0\, Northeast-AA 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-chesapeake-science-point-key-school-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260917T163000
+DTEND;TZID=America/New_York:20260917T183000
+SUMMARY:Boys Soccer: Key School at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Chesapeake Science Point 1\, Key School 0\nWatch: https://www.nfhsnetwork.com/events/the-key-school-annapolis-md/gam070dddd508
+URL:https://www.nfhsnetwork.com/events/the-key-school-annapolis-md/gam070dddd508
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-chesapeake-science-point-chesapeake-aa-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260922T170000
+DTEND;TZID=America/New_York:20260922T190000
+SUMMARY:Boys Soccer: Chesapeake-AA at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Chesapeake Science Point 0\, Chesapeake-AA 4\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamf5a81d3e85
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamf5a81d3e85
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-chesapeake-science-point-annapolis-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T184500
+DTEND;TZID=America/New_York:20260924T204500
+SUMMARY:Boys Soccer: Annapolis at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Chesapeake Science Point 0\, Annapolis 6\nWatch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam368b8d6dbd
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam368b8d6dbd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-chesapeake-science-point-south-river-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T164500
+DTEND;TZID=America/New_York:20260929T184500
+SUMMARY:Boys Soccer: South River at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Chesapeake Science Point 0\, South River 2\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam551355ff5b
+URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam551355ff5b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-chesapeake-science-point-old-mill-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Boys Soccer: Old Mill at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Chesapeake Science Point 2\, Old Mill 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-chesapeake-science-point-severn-run-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T170000
+DTEND;TZID=America/New_York:20261006T190000
+SUMMARY:Boys Soccer: Severn Run at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Chesapeake Science Point 0\, Severn Run 3\nWatch: https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gam54d04f80c8
+URL:https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gam54d04f80c8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-chesapeake-science-point-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261008T190000
+DTEND;TZID=America/New_York:20261008T210000
+SUMMARY:Boys Soccer: Broadneck at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Chesapeake Science Point 0\, Broadneck 7\nWatch: https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gam15f64337d0
+URL:https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gam15f64337d0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-chesapeake-science-point-friendly-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Boys Soccer: Friendly at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-chesapeake-science-point-meade-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Boys Soccer: Meade at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-chesapeake-science-point-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Boys Soccer: Glen Burnie at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-chesapeake-science-point-southern-aa-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261022T190000
+DTEND;TZID=America/New_York:20261022T210000
+SUMMARY:Boys Soccer: Southern-AA at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam1730afaa2d
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam1730afaa2d
+END:VEVENT
+END:VCALENDAR

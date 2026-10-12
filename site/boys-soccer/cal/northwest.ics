@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Northwest Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-northwest-bethesda-cc-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260908T191500
+DTEND;TZID=America/New_York:20260908T211500
+SUMMARY:Boys Soccer: Bethesda-CC at Northwest
+LOCATION:Northwest
+DESCRIPTION:Final: Northwest 0\, Bethesda-CC 5\nWatch: https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam18baf59163
+URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam18baf59163
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-northwest-quince-orchard-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260911T154500
+DTEND;TZID=America/New_York:20260911T174500
+SUMMARY:Boys Soccer: Quince Orchard at Northwest
+LOCATION:Northwest
+DESCRIPTION:Final: Northwest 3\, Quince Orchard 4\nWatch: https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-md/gam6442036a2c
+URL:https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-md/gam6442036a2c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-northwest-seneca-valley-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260914T191500
+DTEND;TZID=America/New_York:20260914T211500
+SUMMARY:Boys Soccer: Seneca Valley at Northwest
+LOCATION:Northwest
+DESCRIPTION:Final: Northwest 3\, Seneca Valley 1\nWatch: https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam47194a09e7
+URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam47194a09e7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-poolesville-northwest-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260917T191500
+DTEND;TZID=America/New_York:20260917T211500
+SUMMARY:Boys Soccer: Northwest at Poolesville
+LOCATION:Poolesville
+DESCRIPTION:Final: Northwest 3\, Poolesville 1\nWatch: https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/gamd97422ea29
+URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/gamd97422ea29
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-watkins-mill-northwest-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T191500
+DTEND;TZID=America/New_York:20260924T211500
+SUMMARY:Boys Soccer: Northwest at Watkins Mill
+LOCATION:Watkins Mill
+DESCRIPTION:Final: Northwest 6\, Watkins Mill 0\nWatch: https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/gam69dac2b034
+URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/gam69dac2b034
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-damascus-northwest-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T191500
+DTEND;TZID=America/New_York:20260929T211500
+SUMMARY:Boys Soccer: Northwest at Damascus
+LOCATION:Damascus
+DESCRIPTION:Final: Northwest 6\, Damascus 2\nWatch: https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/game7e0fba4bc
+URL:https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/game7e0fba4bc
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-clarksburg-northwest-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T153000
+DTEND;TZID=America/New_York:20261006T173000
+SUMMARY:Boys Soccer: Northwest at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Final: Northwest 2\, Clarksburg 3\nWatch: https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gamcca6ae2a86
+URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gamcca6ae2a86
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-northwest-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261007T191500
+DTEND;TZID=America/New_York:20261007T211500
+SUMMARY:Boys Soccer: Montgomery Blair at Northwest
+LOCATION:Northwest
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam71610b89c6
+URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam71610b89c6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-northwest-springbrook-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261012T191500
+DTEND;TZID=America/New_York:20261012T211500
+SUMMARY:Boys Soccer: Springbrook at Northwest
+LOCATION:Northwest
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/gamecff23af1d\nTickets: https://gofan.co/event/6709022
+URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/gamecff23af1d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-northwest-walt-whitman-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261014T191500
+DTEND;TZID=America/New_York:20261014T211500
+SUMMARY:Boys Soccer: Walt Whitman at Northwest
+LOCATION:Northwest
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gamb2bb51b75b\nTickets: https://gofan.co/event/6709182
+URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gamb2bb51b75b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-northwest-walter-johnson-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261019T191500
+DTEND;TZID=America/New_York:20261019T211500
+SUMMARY:Boys Soccer: Walter Johnson at Northwest
+LOCATION:Northwest
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam6f4728a860\nTickets: https://gofan.co/event/6707943
+URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam6f4728a860
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-northwest-gaithersburg-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261021T191500
+DTEND;TZID=America/New_York:20261021T211500
+SUMMARY:Boys Soccer: Gaithersburg at Northwest
+LOCATION:Northwest
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam89647cf85a\nTickets: https://gofan.co/event/6708017
+URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam89647cf85a
+END:VEVENT
+END:VCALENDAR

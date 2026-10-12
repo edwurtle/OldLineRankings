@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Thomas Stone Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-huntingtown-thomas-stone-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Boys Soccer: Thomas Stone at Huntingtown
+LOCATION:Huntingtown
+DESCRIPTION:Final: Thomas Stone 0\, Huntingtown 12
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-patuxent-thomas-stone-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260910T163000
+DTEND;TZID=America/New_York:20260910T183000
+SUMMARY:Boys Soccer: Thomas Stone at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Thomas Stone 1\, Patuxent 7\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam09d4e3e436
+URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam09d4e3e436
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-thomas-stone-westlake-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Boys Soccer: Westlake at Thomas Stone
+LOCATION:Thomas Stone
+DESCRIPTION:Final: Thomas Stone 0\, Westlake 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-calvert-thomas-stone-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260915T181500
+DTEND;TZID=America/New_York:20260915T201500
+SUMMARY:Boys Soccer: Thomas Stone at Calvert
+LOCATION:Calvert
+DESCRIPTION:Final: Thomas Stone 0\, Calvert 5\nWatch: https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam8e3c39037c
+URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam8e3c39037c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-thomas-stone-great-mills-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Boys Soccer: Great Mills at Thomas Stone
+LOCATION:Thomas Stone
+DESCRIPTION:Final: Thomas Stone 0\, Great Mills 10
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-thomas-stone-northern-c-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T170000
+DTEND;TZID=America/New_York:20260929T190000
+SUMMARY:Boys Soccer: Northern-C at Thomas Stone
+LOCATION:Thomas Stone
+DESCRIPTION:Final: Thomas Stone 0\, Northern-C 8\nWatch: https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gam8eb1f8e715
+URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gam8eb1f8e715
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-international-hs-at-largo-thomas-stone-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261001T181500
+DTEND;TZID=America/New_York:20261001T201500
+SUMMARY:Boys Soccer: Thomas Stone at International HS at Largo
+LOCATION:International HS at Largo
+DESCRIPTION:Final: Thomas Stone 1\, International HS at Largo 3\nWatch: https://www.nfhsnetwork.com/events/international-high-school-largo-largo-md/gam8efc41c285
+URL:https://www.nfhsnetwork.com/events/international-high-school-largo-largo-md/gam8efc41c285
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-thomas-stone-leonardtown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Boys Soccer: Leonardtown at Thomas Stone
+LOCATION:Thomas Stone
+DESCRIPTION:Final: Thomas Stone 0\, Leonardtown 8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-henry-e-lackey-thomas-stone-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261008T170000
+DTEND;TZID=America/New_York:20261008T190000
+SUMMARY:Boys Soccer: Thomas Stone at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Final: Thomas Stone 0\, Henry E. Lackey 7\nWatch: https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gamc0732e561d
+URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gamc0732e561d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-thomas-stone-chopticon-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261013T163000
+DTEND;TZID=America/New_York:20261013T183000
+SUMMARY:Boys Soccer: Chopticon at Thomas Stone
+LOCATION:Thomas Stone
+DESCRIPTION:Tickets: https://gofan.co/event/6841516
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-thomas-stone-north-point-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261015T163000
+DTEND;TZID=America/New_York:20261015T183000
+SUMMARY:Boys Soccer: North Point at Thomas Stone
+LOCATION:Thomas Stone
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam494c45dc0f\nTickets: https://gofan.co/event/6818006
+URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam494c45dc0f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-st-charles-thomas-stone-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Boys Soccer: Thomas Stone at St. Charles
+LOCATION:St. Charles
+END:VEVENT
+END:VCALENDAR

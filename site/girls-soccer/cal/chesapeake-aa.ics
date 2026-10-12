@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Chesapeake-AA Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-15-chesapeake-aa-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Girls Soccer: North County at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Chesapeake-AA 4\, North County 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-chesapeake-science-point-chesapeake-aa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Girls Soccer: Chesapeake-AA at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Chesapeake-AA 10\, Chesapeake Science Point 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-bel-air-chesapeake-aa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260919T175000
+DTEND;TZID=America/New_York:20260919T195000
+SUMMARY:Girls Soccer: Chesapeake-AA at Bel Air
+LOCATION:Bel Air
+DESCRIPTION:Final: Chesapeake-AA 3\, Bel Air 0\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam3816c96c97
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam3816c96c97
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-westminster-chesapeake-aa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260919T125000
+DTEND;TZID=America/New_York:20260919T145000
+SUMMARY:Girls Soccer: Chesapeake-AA at Westminster
+LOCATION:Westminster
+DESCRIPTION:Final: Chesapeake-AA 4\, Westminster 0\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam67a9233a46
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam67a9233a46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-chesapeake-aa-crofton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260924T170000
+DTEND;TZID=America/New_York:20260924T190000
+SUMMARY:Girls Soccer: Crofton at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Chesapeake-AA 1\, Crofton 2\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam78afdb76eb
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam78afdb76eb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-chesapeake-aa-meade-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260929T190000
+DTEND;TZID=America/New_York:20260929T210000
+SUMMARY:Girls Soccer: Meade at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Chesapeake-AA 10\, Meade 0\nWatch: https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam009cbafe96
+URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam009cbafe96
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-chesapeake-aa-arundel-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261001T170000
+DTEND;TZID=America/New_York:20261001T190000
+SUMMARY:Girls Soccer: Arundel at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Chesapeake-AA 2\, Arundel 2\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamac6e259098
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamac6e259098
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-chesapeake-aa-glen-burnie-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T210000
+SUMMARY:Girls Soccer: Glen Burnie at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Chesapeake-AA 7\, Glen Burnie 1\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gameda77dd485
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gameda77dd485
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-chesapeake-aa-severna-park-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261008T170000
+DTEND;TZID=America/New_York:20261008T190000
+SUMMARY:Girls Soccer: Severna Park at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Chesapeake-AA 0\, Severna Park 1\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam6405a37e4b
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam6405a37e4b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-chesapeake-aa-oid-mill-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Girls Soccer: OId Mill at Chesapeake-AA
+LOCATION:Chesapeake-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-old-mill-chesapeake-aa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Girls Soccer: Chesapeake-AA at Old Mill
+LOCATION:Old Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-chesapeake-aa-broadneck-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261015T170000
+DTEND;TZID=America/New_York:20261015T190000
+SUMMARY:Girls Soccer: Broadneck at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamcbff3e150a\nTickets: https://gofan.co/event/6728469
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamcbff3e150a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-chesapeake-aa-south-river-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261020T190000
+DTEND;TZID=America/New_York:20261020T210000
+SUMMARY:Girls Soccer: South River at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam1dcc7846e2\nTickets: https://gofan.co/event/6728468
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam1dcc7846e2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-chesapeake-aa-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261022T170000
+DTEND;TZID=America/New_York:20261022T190000
+SUMMARY:Girls Soccer: Annapolis at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam4935d008fb
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam4935d008fb
+END:VEVENT
+END:VCALENDAR

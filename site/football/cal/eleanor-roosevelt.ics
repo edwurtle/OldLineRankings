@@ -6,7 +6,7 @@ X-WR-CALNAME:Eleanor Roosevelt Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-eleanor-roosevelt-dc-digital-pioneers-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Football: DC- Digital Pioneers at Eleanor Roosevelt
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Eleanor Roosevelt 8\, DC- Digital Pioneers 32
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-eleanor-roosevelt-charles-h-flowers-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Football: Charles H. Flowers at Eleanor Roosevelt
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-eleanor-roosevelt-parkdale-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;TZID=America/New_York:20260918T190000
 DTEND;TZID=America/New_York:20260918T210000
 SUMMARY:Football: Parkdale at Eleanor Roosevelt
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-northwestern-eleanor-roosevelt-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Football: Eleanor Roosevelt at Northwestern
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-eleanor-roosevelt-suitland-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Football: Suitland at Eleanor Roosevelt
@@ -54,7 +54,7 @@ DESCRIPTION:Final: Eleanor Roosevelt 6\, Suitland 40
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-dr-henry-a-wise-eleanor-roosevelt-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;TZID=America/New_York:20261010T140000
 DTEND;TZID=America/New_York:20261010T160000
 SUMMARY:Football: Eleanor Roosevelt at Dr. Henry A. Wise
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-eleanor-roosevelt-bowie-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T210000
 SUMMARY:Football: Bowie at Eleanor Roosevelt
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gamde27cfef9c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-laurel-eleanor-roosevelt-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;TZID=America/New_York:20261024T140000
 DTEND;TZID=America/New_York:20261024T160000
 SUMMARY:Football: Eleanor Roosevelt at Laurel
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-eleanor-roosevelt-oxon-hill-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;TZID=America/New_York:20261031T140000
 DTEND;TZID=America/New_York:20261031T160000
 SUMMARY:Football: Oxon Hill at Eleanor Roosevelt

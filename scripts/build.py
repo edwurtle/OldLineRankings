@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Fetch results and write rankings for each site (site/soccer/, site/football/) and the splash page (site/).
+"""Fetch results and write rankings for each site (site/football/, site/boys-soccer/, site/girls-soccer/)
+and the splash page (site/).
 
-Points per game (soccer's Old Line Rating; for football the same formula is the MPSSAA points):
+Points per game (soccer's Old Line Ranking; for football the same formula is the MPSSAA points):
   win  = opponent class points (soccer: 1A=5 .. 4A=8; football: MPSSAA seeding values 6/7/8)
          + opponent's season wins
   tie  = half of what a win would have earned
@@ -11,7 +12,7 @@ the state association count as the lowest class with 0 wins. Teams are ranked by
 points per game played. Strength of schedule (SOS) is the average a team
 would have earned had it won every game.
 
-Football is ranked by the Old Line Rating instead (see oldline.py); its MPSSAA points are kept
+Football is ranked by the Old Line Ranking instead (see oldline.py); its MPSSAA points are kept
 for playoff seeding.
 """
 import collections, datetime, html, json, pathlib, re, subprocess
@@ -20,11 +21,24 @@ import gofan, icons, nfhs, oldline
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
+# Boys and girls soccer are separate sites that share everything but the division
+SOCCER = dict(
+    icon="soccer", season="Fall", activity="Soccer",   # activity: the sport's name on NFHS Network / GoFan
+    ranked_by="Old Line Ranking: points per game from opponent class + opponent wins",
+    classes={"4A": 8, "3A": 7, "2A": 6, "1A": 5},
+    regions=["East I", "East II", "North I", "North II", "South I", "South II", "West I", "West II"],
+    score=dict(short="GF–GA", name="Goal difference", plural="goals"),
+    ties=True, example=dict(cls="3A", W=7, L=2, T=1),
+    # Soccer bulletin: every team is seeded in its region by winning percentage (fewer than 9 games
+    # divide by 9); each region plays down to one champion; the 8 champions are reseeded by it
+    playoffs=dict(seed_by="winpct", min_games=9, region_seeds=8, per_region=1),
+)
+
 # Everything that differs between the sites. Order here is the order on the splash page and footer. Shared by build.py and passed to app.js as DATA.config.
 SITES = {
     "football": dict(
         out="site/football", sport="Football", icon="football", season="Fall",
-        ranked_by="Old Line Rating: capped scoring margins + opponent strength",
+        ranked_by="Old Line Ranking: capped scoring margins + opponent strength",
         divisions={"football": dict(label="Football", api="football", gender="Boys")},
         # MPSSAA football seeding win points (Football Tournament Bulletin, "Classification Win Points")
         classes={"4A": 8, "4A_3A": 8, "3A": 7, "2A": 7, "2A_1A": 6, "1A": 6},
@@ -35,25 +49,17 @@ SITES = {
         # Football bulletin: region top 8 by MPSSAA points play two rounds; two per region reach the
         # 8-team state quarterfinal, reseeded by MPSSAA points
         playoffs=dict(seed_by="mpssaa", region_seeds=8, per_region=2), first_meeting_only=True,
-        # Old Line Rating: margin capped at 28 (under the 35-point running clock), 4-point win bonus,
+        # Old Line Ranking: margin capped at 28 (under the 35-point running clock), 4-point win bonus,
         # pulled toward class average by 3 games' worth; k = win-probability scale per rating point.
         # Backtested on 2026 weeks 3-6 (games after the week-2 fit): picks 75% of winners vs 70% for MPSSAA points.
         # ladder: class averages pulled toward an even class ladder by 50 games' worth (backtest: better
         # predictions, most on cross-class games)
         olr=dict(cap=28, win_bonus=4, prior=3, ladder=50, k=0.16),
     ),
-    "soccer": dict(
-        out="site/soccer", sport="Soccer", icon="soccer", season="Fall",
-        ranked_by="Old Line Rating: points per game from opponent class + opponent wins",
-        divisions={"boys": dict(label="Boys", api="boys-soccer", gender="Boys"), "girls": dict(label="Girls", api="girls-soccer", gender="Girls")},
-        classes={"4A": 8, "3A": 7, "2A": 6, "1A": 5},
-        regions=["East I", "East II", "North I", "North II", "South I", "South II", "West I", "West II"],
-        score=dict(short="GF–GA", name="Goal difference", plural="goals"),
-        ties=True, example=dict(cls="3A", W=7, L=2, T=1),
-        # Soccer bulletin: every team is seeded in its region by winning percentage (fewer than 9 games
-        # divide by 9); each region plays down to one champion; the 8 champions are reseeded by it
-        playoffs=dict(seed_by="winpct", min_games=9, region_seeds=8, per_region=1),
-    ),
+    "boys-soccer": dict(SOCCER, out="site/boys-soccer", sport="Boys Soccer",
+                        divisions={"boys": dict(label="Boys Soccer", api="boys-soccer", gender="Boys")}),
+    "girls-soccer": dict(SOCCER, out="site/girls-soccer", sport="Girls Soccer",
+                         divisions={"girls": dict(label="Girls Soccer", api="girls-soccer", gender="Girls")}),
 }
 
 # Sports shown on the splash page and in the footer before they have a site
@@ -275,10 +281,6 @@ def build_site(key, cfg, nonce, stamp):
             assign_ranks(teams)
             project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False),
                     lambda a, b, a_home: oldline.win_prob(ratings[a], ratings[b], 1 if a_home else -1, home, cfg["olr"]["k"]) >= .5)
-            # Second projection: the team with the higher MPSSAA average wins; members beat non-members
-            mp = {t["school"]: t["avg"] for t in teams}
-            project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False),
-                    lambda a, b, a_home: b not in mp or mp[a] >= mp[b], key="projMp")
             oldline.simulate(teams, cfg["classes"], ratings, home, cfg["olr"], cfg["playoffs"], cfg["regions"])
             members = {t["school"] for t in teams}
             sports[div]["nonmember"] = {x: round(v, 2) for x, v in ratings.items() if x not in members}
@@ -297,7 +299,7 @@ def build_site(key, cfg, nonce, stamp):
     cities = {n: s["city"] for n, s in schools.items()}
     for name, add in (("NFHS watch", nfhs.add_watch_links), ("GoFan ticket", gofan.add_ticket_links)):
         try:
-            add(sports, cfg["divisions"], cfg["sport"], DIRECTORY_NAME, cities)
+            add(sports, cfg["divisions"], cfg.get("activity", cfg["sport"]), DIRECTORY_NAME, cities)
         except Exception as e:
             print(f"  {name} links skipped:", e)
     write_calendars(out, sports, cfg)

@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Northeast-AA Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-09-south-carroll-northeast-aa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Girls Soccer: Northeast-AA at South Carroll
+LOCATION:South Carroll
+DESCRIPTION:Final: Northeast-AA 0\, South Carroll 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-northeast-aa-md-st-marys-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Girls Soccer: MD-St Marys at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Final: Northeast-AA 1\, MD-St Marys 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-chesapeake-science-point-northeast-aa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Girls Soccer: Northeast-AA at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Northeast-AA 10\, Chesapeake Science Point 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-northeast-aa-arundel-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Girls Soccer: Arundel at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Final: Northeast-AA 1\, Arundel 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-northeast-aa-severn-run-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Girls Soccer: Severn Run at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Final: Northeast-AA 1\, Severn Run 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-northeast-aa-severna-park-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Girls Soccer: Severna Park at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Final: Northeast-AA 0\, Severna Park 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-northeast-aa-crofton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T210000
+SUMMARY:Girls Soccer: Crofton at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Final: Northeast-AA 1\, Crofton 2\nWatch: https://www.nfhsnetwork.com/events/northeast-high-school-pasadena-md/gamb4f5b32918
+URL:https://www.nfhsnetwork.com/events/northeast-high-school-pasadena-md/gamb4f5b32918
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-southern-aa-northeast-aa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261008T170000
+DTEND;TZID=America/New_York:20261008T190000
+SUMMARY:Girls Soccer: Northeast-AA at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Northeast-AA 3\, Southern-AA 1\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam4cb1a4e272
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam4cb1a4e272
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-northeast-aa-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T210000
+SUMMARY:Girls Soccer: Annapolis at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam323ed0cce7
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam323ed0cce7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-northeast-aa-glen-burnie-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261015T170000
+DTEND;TZID=America/New_York:20261015T190000
+SUMMARY:Girls Soccer: Glen Burnie at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam6bab837d1a\nTickets: https://gofan.co/event/6956783
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam6bab837d1a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-northeast-aa-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261020T190000
+DTEND;TZID=America/New_York:20261020T210000
+SUMMARY:Girls Soccer: North County at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gam3f04165eab\nTickets: https://gofan.co/event/6897767
+URL:https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gam3f04165eab
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-northeast-aa-meade-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261022T170000
+DTEND;TZID=America/New_York:20261022T190000
+SUMMARY:Girls Soccer: Meade at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/northeast-high-school-pasadena-md/gamc5eb92060b
+URL:https://www.nfhsnetwork.com/events/northeast-high-school-pasadena-md/gamc5eb92060b
+END:VEVENT
+END:VCALENDAR

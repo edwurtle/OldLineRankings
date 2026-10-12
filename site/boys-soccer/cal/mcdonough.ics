@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:McDonough Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-henry-e-lackey-mcdonough-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260908T183000
+DTEND;TZID=America/New_York:20260908T203000
+SUMMARY:Boys Soccer: McDonough at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Final: McDonough 1\, Henry E. Lackey 2\nWatch: https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gam10c0e6b64c
+URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gam10c0e6b64c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-mcdonough-north-point-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260910T162500
+DTEND;TZID=America/New_York:20260910T182500
+SUMMARY:Boys Soccer: North Point at McDonough
+LOCATION:McDonough
+DESCRIPTION:Final: McDonough 1\, North Point 2\nWatch: https://www.nfhsnetwork.com/events/north-point-high-school-waldorf-md/gam768913dce3
+URL:https://www.nfhsnetwork.com/events/north-point-high-school-waldorf-md/gam768913dce3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-mcdonough-chopticon-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260915T181500
+DTEND;TZID=America/New_York:20260915T201500
+SUMMARY:Boys Soccer: Chopticon at McDonough
+LOCATION:McDonough
+DESCRIPTION:Final: McDonough 0\, Chopticon 2\nWatch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gamec7f378dca
+URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gamec7f378dca
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-huntingtown-mcdonough-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Boys Soccer: McDonough at Huntingtown
+LOCATION:Huntingtown
+DESCRIPTION:Final: McDonough 0\, Huntingtown 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-patuxent-mcdonough-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T163000
+DTEND;TZID=America/New_York:20260924T183000
+SUMMARY:Boys Soccer: McDonough at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: McDonough 2\, Patuxent 3\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam15b4b9a5f3
+URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam15b4b9a5f3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-la-plata-mcdonough-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T183000
+DTEND;TZID=America/New_York:20260929T203000
+SUMMARY:Boys Soccer: McDonough at La Plata
+LOCATION:La Plata
+DESCRIPTION:Final: McDonough 0\, La Plata 2\nWatch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam5c50c6bf9b
+URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam5c50c6bf9b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-mcdonough-great-mills-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261001T163000
+DTEND;TZID=America/New_York:20261001T183000
+SUMMARY:Boys Soccer: Great Mills at McDonough
+LOCATION:McDonough
+DESCRIPTION:Final: McDonough 0\, Great Mills 6\nWatch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam939bdb3876
+URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam939bdb3876
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-mcdonough-northern-c-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T181500
+DTEND;TZID=America/New_York:20261006T201500
+SUMMARY:Boys Soccer: Northern-C at McDonough
+LOCATION:McDonough
+DESCRIPTION:Final: McDonough 1\, Northern-C 2\nWatch: https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamb7a9a51cdb
+URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamb7a9a51cdb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-calvert-mcdonough-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261008T163000
+DTEND;TZID=America/New_York:20261008T183000
+SUMMARY:Boys Soccer: McDonough at Calvert
+LOCATION:Calvert
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam2082afd447
+URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam2082afd447
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-mcdonough-leonardtown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261013T181500
+DTEND;TZID=America/New_York:20261013T201500
+SUMMARY:Boys Soccer: Leonardtown at McDonough
+LOCATION:McDonough
+DESCRIPTION:Tickets: https://gofan.co/event/6762660
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-mcdonough-westlake-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261015T163000
+DTEND;TZID=America/New_York:20261015T183000
+SUMMARY:Boys Soccer: Westlake at McDonough
+LOCATION:McDonough
+DESCRIPTION:Tickets: https://gofan.co/event/6762659
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-mcdonough-st-charles-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Boys Soccer: St. Charles at McDonough
+LOCATION:McDonough
+END:VEVENT
+END:VCALENDAR

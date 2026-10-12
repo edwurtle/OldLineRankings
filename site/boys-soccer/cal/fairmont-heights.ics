@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Fairmont Heights Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-fairmont-heights-carroll-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Boys Soccer: Carroll at Fairmont Heights
+LOCATION:Fairmont Heights
+DESCRIPTION:Final: Fairmont Heights 4\, Carroll 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-fairmont-heights-oxon-hill-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Boys Soccer: Oxon Hill at Fairmont Heights
+LOCATION:Fairmont Heights
+DESCRIPTION:Final: Fairmont Heights 3\, Oxon Hill 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-friendly-fairmont-heights-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260914T164500
+DTEND;TZID=America/New_York:20260914T184500
+SUMMARY:Boys Soccer: Fairmont Heights at Friendly
+LOCATION:Friendly
+DESCRIPTION:Final: Fairmont Heights 4\, Friendly 1\nWatch: https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/gam2e279d0187
+URL:https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/gam2e279d0187
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-fairmont-heights-frederick-douglass-pg-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Boys Soccer: Frederick Douglass-PG at Fairmont Heights
+LOCATION:Fairmont Heights
+DESCRIPTION:Final: Fairmont Heights 3\, Frederick Douglass-PG 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-college-park-academy-fairmont-heights-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Boys Soccer: Fairmont Heights at College Park Academy
+LOCATION:College Park Academy
+DESCRIPTION:Final: Fairmont Heights 2\, College Park Academy 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-fairmont-heights-surrattsville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Boys Soccer: Surrattsville at Fairmont Heights
+LOCATION:Fairmont Heights
+DESCRIPTION:Final: Fairmont Heights 8\, Surrattsville 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-cmit-north-fairmont-heights-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Boys Soccer: Fairmont Heights at CMIT - North
+LOCATION:CMIT - North
+DESCRIPTION:Final: Fairmont Heights 4\, CMIT - North 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-cmit-south-fairmont-heights-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Boys Soccer: Fairmont Heights at CMIT - South
+LOCATION:CMIT - South
+DESCRIPTION:Final: Fairmont Heights 6\, CMIT - South 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-fairmont-heights-potomac-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Boys Soccer: Potomac at Fairmont Heights
+LOCATION:Fairmont Heights
+DESCRIPTION:Final: Fairmont Heights 2\, Potomac 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-crossland-fairmont-heights-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261012T150000
+DTEND;TZID=America/New_York:20261012T170000
+SUMMARY:Boys Soccer: Fairmont Heights at Crossland
+LOCATION:Crossland
+DESCRIPTION:Tickets: https://gofan.co/event/6685084
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-central-fairmont-heights-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Boys Soccer: Fairmont Heights at Central
+LOCATION:Central
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-fairmont-heights-largo-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Boys Soccer: Largo at Fairmont Heights
+LOCATION:Fairmont Heights
+END:VEVENT
+END:VCALENDAR

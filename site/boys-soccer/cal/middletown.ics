@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Middletown Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-middletown-tuscarora-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260908T190000
+DTEND;TZID=America/New_York:20260908T210000
+SUMMARY:Boys Soccer: Tuscarora at Middletown
+LOCATION:Middletown
+DESCRIPTION:Final: Middletown 0\, Tuscarora 2\nWatch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gamd623deda28
+URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gamd623deda28
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-middletown-oakdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260915T190000
+DTEND;TZID=America/New_York:20260915T210000
+SUMMARY:Boys Soccer: Oakdale at Middletown
+LOCATION:Middletown
+DESCRIPTION:Final: Middletown 2\, Oakdale 4\nWatch: https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam843115e43e
+URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam843115e43e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-catoctin-middletown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260917T190000
+DTEND;TZID=America/New_York:20260917T210000
+SUMMARY:Boys Soccer: Middletown at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Middletown 5\, Catoctin 1\nWatch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamd95d633d21
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamd95d633d21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-middletown-walkersville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Boys Soccer: Walkersville at Middletown
+LOCATION:Middletown
+DESCRIPTION:Final: Middletown 0\, Walkersville 1\nWatch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gamee344ade7d
+URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gamee344ade7d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-boonsboro-middletown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Boys Soccer: Middletown at Boonsboro
+LOCATION:Boonsboro
+DESCRIPTION:Final: Middletown 5\, Boonsboro 0\nWatch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam53280a5bda
+URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam53280a5bda
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-middletown-williamsport-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Boys Soccer: Williamsport at Middletown
+LOCATION:Middletown
+DESCRIPTION:Final: Middletown 4\, Williamsport 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-middletown-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261001T190000
+DTEND;TZID=America/New_York:20261001T210000
+SUMMARY:Boys Soccer: Urbana at Middletown
+LOCATION:Middletown
+DESCRIPTION:Final: Middletown 0\, Urbana 6\nWatch: https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam3080d6c9b4
+URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam3080d6c9b4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-smithsburg-middletown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T210000
+SUMMARY:Boys Soccer: Middletown at Smithsburg
+LOCATION:Smithsburg
+DESCRIPTION:Final: Middletown 1\, Smithsburg 0\nWatch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam8782739434
+URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam8782739434
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-clear-spring-middletown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Boys Soccer: Middletown at Clear Spring
+LOCATION:Clear Spring
+DESCRIPTION:Final: Middletown 8\, Clear Spring 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-brunswick-middletown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T210000
+SUMMARY:Boys Soccer: Middletown at Brunswick
+LOCATION:Brunswick
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gamdf52f138cd\nTickets: https://gofan.co/event/6871600
+URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gamdf52f138cd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-francis-scott-key-middletown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Boys Soccer: Middletown at Francis Scott Key
+LOCATION:Francis Scott Key
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-middletown-linganore-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261020T190000
+DTEND;TZID=America/New_York:20261020T210000
+SUMMARY:Boys Soccer: Linganore at Middletown
+LOCATION:Middletown
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam7eb9c26247\nTickets: https://gofan.co/event/6820473
+URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam7eb9c26247
+END:VEVENT
+END:VCALENDAR

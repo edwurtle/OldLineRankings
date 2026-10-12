@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:C. Milton Wright Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-c-milton-wright-perry-hall-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260904T132000
+DTEND;TZID=America/New_York:20260904T152000
+SUMMARY:Boys Soccer: Perry Hall at C. Milton Wright
+LOCATION:C. Milton Wright
+DESCRIPTION:Final: C. Milton Wright 4\, Perry Hall 0\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam6f78e2120c
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam6f78e2120c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-c-milton-wright-towson-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T132000
+DTEND;TZID=America/New_York:20260905T152000
+SUMMARY:Boys Soccer: Towson at C. Milton Wright
+LOCATION:C. Milton Wright
+DESCRIPTION:Final: C. Milton Wright 4\, Towson 0\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam6f78e2120c
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam6f78e2120c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-havre-de-grace-c-milton-wright-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260910T190000
+DTEND;TZID=America/New_York:20260910T210000
+SUMMARY:Boys Soccer: C. Milton Wright at Havre de Grace
+LOCATION:Havre de Grace
+DESCRIPTION:Final: C. Milton Wright 4\, Havre de Grace 0\nWatch: https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gam8f8d4f7271
+URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gam8f8d4f7271
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-harford-tech-c-milton-wright-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T190000
+SUMMARY:Boys Soccer: C. Milton Wright at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: C. Milton Wright 3\, Harford Tech 1\nWatch: https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/game13a74cd73
+URL:https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/game13a74cd73
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-perryville-c-milton-wright-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260917T170000
+DTEND;TZID=America/New_York:20260917T190000
+SUMMARY:Boys Soccer: C. Milton Wright at Perryville
+LOCATION:Perryville
+DESCRIPTION:Final: C. Milton Wright 8\, Perryville 0\nWatch: https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/gama6dbca9698
+URL:https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/gama6dbca9698
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-fallston-c-milton-wright-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Boys Soccer: C. Milton Wright at Fallston
+LOCATION:Fallston
+DESCRIPTION:Final: C. Milton Wright 4\, Fallston 1\nWatch: https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/gam1e4d652859
+URL:https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/gam1e4d652859
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-c-milton-wright-north-harford-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Boys Soccer: North Harford at C. Milton Wright
+LOCATION:C. Milton Wright
+DESCRIPTION:Final: C. Milton Wright 6\, North Harford 1\nWatch: https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/gam333b574d14
+URL:https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/gam333b574d14
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-c-milton-wright-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260928T165500
+DTEND;TZID=America/New_York:20260928T185500
+SUMMARY:Boys Soccer: Aberdeen at C. Milton Wright
+LOCATION:C. Milton Wright
+DESCRIPTION:Final: C. Milton Wright 7\, Aberdeen 4\nWatch: https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam5ddfc0e1fb
+URL:https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam5ddfc0e1fb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-c-milton-wright-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260930T170000
+DTEND;TZID=America/New_York:20260930T190000
+SUMMARY:Boys Soccer: Edgewood at C. Milton Wright
+LOCATION:C. Milton Wright
+DESCRIPTION:Final: C. Milton Wright 8\, Edgewood 0\nWatch: https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gam058ccb0236
+URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gam058ccb0236
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-hereford-c-milton-wright-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261009T173000
+DTEND;TZID=America/New_York:20261009T193000
+SUMMARY:Boys Soccer: C. Milton Wright at Hereford
+LOCATION:Hereford
+DESCRIPTION:Final: C. Milton Wright 3\, Hereford 0\nWatch: https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam9d19389022
+URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam9d19389022
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-rising-sun-c-milton-wright-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Boys Soccer: C. Milton Wright at Rising Sun
+LOCATION:Rising Sun
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-patterson-mill-c-milton-wright-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261013T183000
+DTEND;TZID=America/New_York:20261013T203000
+SUMMARY:Boys Soccer: C. Milton Wright at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gamee2cd151c7\nTickets: https://gofan.co/event/6884132
+URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gamee2cd151c7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-c-milton-wright-bel-air-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Boys Soccer: Bel Air at C. Milton Wright
+LOCATION:C. Milton Wright
+END:VEVENT
+END:VCALENDAR

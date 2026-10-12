@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Patterson Mill Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-patterson-mill-towson-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260904T082000
+DTEND;TZID=America/New_York:20260904T102000
+SUMMARY:Boys Soccer: Towson at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 5\, Towson 2\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam068f0b9056
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam068f0b9056
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-patterson-mill-reservoir-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T082000
+DTEND;TZID=America/New_York:20260905T102000
+SUMMARY:Boys Soccer: Reservoir at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 0\, Reservoir 4\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam068f0b9056
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam068f0b9056
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-patterson-mill-perryville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260908T170000
+DTEND;TZID=America/New_York:20260908T190000
+SUMMARY:Boys Soccer: Perryville at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 6\, Perryville 0\nWatch: https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gamfd6c3474b2
+URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gamfd6c3474b2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-harford-tech-patterson-mill-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260910T170000
+DTEND;TZID=America/New_York:20260910T190000
+SUMMARY:Boys Soccer: Patterson Mill at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Patterson Mill 3\, Harford Tech 0\nWatch: https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gamc68fe3ad45
+URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gamc68fe3ad45
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-patterson-mill-fallston-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T190000
+SUMMARY:Boys Soccer: Fallston at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 2\, Fallston 3\nWatch: https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam02d83a25ad
+URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam02d83a25ad
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-patterson-mill-elkton-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260917T163000
+DTEND;TZID=America/New_York:20260917T183000
+SUMMARY:Boys Soccer: Elkton at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 8\, Elkton 1\nWatch: https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam1f42af8a4b
+URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam1f42af8a4b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-patterson-mill-bel-air-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T183000
+DTEND;TZID=America/New_York:20260924T203000
+SUMMARY:Boys Soccer: Bel Air at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 1\, Bel Air 1\nWatch: https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gamc8571a6cfe
+URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gamc8571a6cfe
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-havre-de-grace-patterson-mill-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260928T190000
+DTEND;TZID=America/New_York:20260928T210000
+SUMMARY:Boys Soccer: Patterson Mill at Havre de Grace
+LOCATION:Havre de Grace
+DESCRIPTION:Final: Patterson Mill 2\, Havre de Grace 0\nWatch: https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gam46b355d7fc
+URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace-md/gam46b355d7fc
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-patterson-mill-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261001T165500
+DTEND;TZID=America/New_York:20261001T185500
+SUMMARY:Boys Soccer: Aberdeen at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 3\, Aberdeen 2\nWatch: https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam5c7896fa54
+URL:https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam5c7896fa54
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-patterson-mill-north-harford-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T183000
+DTEND;TZID=America/New_York:20261006T203000
+SUMMARY:Boys Soccer: North Harford at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Patterson Mill 6\, North Harford 0\nWatch: https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam344c760ffb
+URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam344c760ffb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-joppatowne-patterson-mill-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261009T150000
+DTEND;TZID=America/New_York:20261009T170000
+SUMMARY:Boys Soccer: Patterson Mill at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Final: Patterson Mill 8\, Joppatowne 0\nWatch: https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam0a5fd5f15d
+URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam0a5fd5f15d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-patterson-mill-c-milton-wright-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261013T183000
+DTEND;TZID=America/New_York:20261013T203000
+SUMMARY:Boys Soccer: C. Milton Wright at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gamee2cd151c7\nTickets: https://gofan.co/event/6884132
+URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gamee2cd151c7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-patterson-mill-eastern-tech-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Boys Soccer: Eastern Tech at Patterson Mill
+LOCATION:Patterson Mill
+END:VEVENT
+END:VCALENDAR

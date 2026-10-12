@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Towson Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-14-towson-notre-dame-prep-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Girls Soccer: Notre Dame Prep at Towson
+LOCATION:Towson
+DESCRIPTION:Final: Towson 1\, Notre Dame Prep 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-towson-st-timothy-s-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Girls Soccer: St. Timothy's at Towson
+LOCATION:Towson
+DESCRIPTION:Final: Towson 5\, St. Timothy's 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-towson-roland-park-country-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260922T171500
+DTEND;TZID=America/New_York:20260922T191500
+SUMMARY:Girls Soccer: Roland Park Country at Towson
+LOCATION:Towson
+DESCRIPTION:Final: Towson 3\, Roland Park Country 2\nWatch: https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam0368becb8f
+URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam0368becb8f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-eastern-tech-towson-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Girls Soccer: Towson at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Final: Towson 1\, Eastern Tech 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-towson-dulaney-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260929T171500
+DTEND;TZID=America/New_York:20260929T191500
+SUMMARY:Girls Soccer: Dulaney at Towson
+LOCATION:Towson
+DESCRIPTION:Final: Towson 2\, Dulaney 1\nWatch: https://www.nfhsnetwork.com/events/towson-high-school-towson-md/game68d9f3554
+URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/game68d9f3554
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-sparrows-point-towson-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261002T170000
+DTEND;TZID=America/New_York:20261002T190000
+SUMMARY:Girls Soccer: Towson at Sparrows Point
+LOCATION:Sparrows Point
+DESCRIPTION:Final: Towson 1\, Sparrows Point 2\nWatch: https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gamcf2b97c15c
+URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gamcf2b97c15c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-towson-perry-hall-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Girls Soccer: Perry Hall at Towson
+LOCATION:Towson
+DESCRIPTION:Final: Towson 0\, Perry Hall 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-hereford-towson-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261008T164500
+DTEND;TZID=America/New_York:20261008T184500
+SUMMARY:Girls Soccer: Towson at Hereford
+LOCATION:Hereford
+DESCRIPTION:Final: Towson 3\, Hereford 2\nWatch: https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam9c21ddbb35
+URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam9c21ddbb35
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-towson-catonsville-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261013T173000
+DTEND;TZID=America/New_York:20261013T193000
+SUMMARY:Girls Soccer: Catonsville at Towson
+LOCATION:Towson
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam0ed413d00b\nTickets: https://gofan.co/event/6671159
+URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam0ed413d00b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-towson-baltimore-city-college-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Girls Soccer: Baltimore City College at Towson
+LOCATION:Towson
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gamda243a3a54\nTickets: https://gofan.co/event/6736813
+URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gamda243a3a54
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-carver-aandt-towson-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Girls Soccer: Towson at Carver A&T
+LOCATION:Carver A&T
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-century-towson-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261023T170000
+DTEND;TZID=America/New_York:20261023T190000
+SUMMARY:Girls Soccer: Towson at Century
+LOCATION:Century
+DESCRIPTION:Tickets: https://gofan.co/event/6786909
+END:VEVENT
+END:VCALENDAR

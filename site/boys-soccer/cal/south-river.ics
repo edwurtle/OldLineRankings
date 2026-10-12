@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:South River Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-south-river-marr-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T164500
+DTEND;TZID=America/New_York:20260905T184500
+SUMMARY:Boys Soccer: Marr at South River
+LOCATION:South River
+DESCRIPTION:Final: South River 0\, Marr 2\nWatch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamcaf01fefae
+URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamcaf01fefae
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-south-river-southern-aa-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T164500
+DTEND;TZID=America/New_York:20260905T184500
+SUMMARY:Boys Soccer: Southern-AA at South River
+LOCATION:South River
+DESCRIPTION:Final: South River 3\, Southern-AA 1\nWatch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamcaf01fefae
+URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamcaf01fefae
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-south-river-meade-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T190000
+SUMMARY:Boys Soccer: Meade at South River
+LOCATION:South River
+DESCRIPTION:Final: South River 4\, Meade 1\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam3321ea1b5f
+URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam3321ea1b5f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-south-river-st-mary-s-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260917T181500
+DTEND;TZID=America/New_York:20260917T201500
+SUMMARY:Boys Soccer: St. Mary's at South River
+LOCATION:South River
+DESCRIPTION:Final: South River 3\, St. Mary's 0\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam50fd33184b
+URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam50fd33184b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-south-river-annapolis-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260922T164500
+DTEND;TZID=America/New_York:20260922T184500
+SUMMARY:Boys Soccer: Annapolis at South River
+LOCATION:South River
+DESCRIPTION:Final: South River 0\, Annapolis 3\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam16ab8d55fe
+URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam16ab8d55fe
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-severna-park-south-river-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Boys Soccer: South River at Severna Park
+LOCATION:Severna Park
+DESCRIPTION:Final: South River 1\, Severna Park 4\nWatch: https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gama953c41d4c
+URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gama953c41d4c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-chesapeake-science-point-south-river-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T164500
+DTEND;TZID=America/New_York:20260929T184500
+SUMMARY:Boys Soccer: South River at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: South River 2\, Chesapeake Science Point 0\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam551355ff5b
+URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam551355ff5b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-south-river-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261001T184500
+DTEND;TZID=America/New_York:20261001T204500
+SUMMARY:Boys Soccer: Broadneck at South River
+LOCATION:South River
+DESCRIPTION:Final: South River 1\, Broadneck 0\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam167d94e86c
+URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam167d94e86c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-old-mill-south-river-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T170000
+DTEND;TZID=America/New_York:20261006T190000
+SUMMARY:Boys Soccer: South River at Old Mill
+LOCATION:Old Mill
+DESCRIPTION:Final: South River 2\, Old Mill 1\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gamb61f4910d5
+URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gamb61f4910d5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-south-river-crofton-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261008T184500
+DTEND;TZID=America/New_York:20261008T204500
+SUMMARY:Boys Soccer: Crofton at South River
+LOCATION:South River
+DESCRIPTION:Final: South River 1\, Crofton 2\nWatch: https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamaa2b751fec
+URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamaa2b751fec
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-marriotts-ridge-south-river-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T131500
+DTEND;TZID=America/New_York:20260905T151500
+SUMMARY:Boys Soccer: South River at Marriotts Ridge
+LOCATION:Marriotts Ridge
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamc82111e32a
+URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamc82111e32a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-south-river-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261013T170000
+DTEND;TZID=America/New_York:20261013T190000
+SUMMARY:Boys Soccer: Glen Burnie at South River
+LOCATION:South River
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam3eae920bfe\nTickets: https://gofan.co/event/6956773
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam3eae920bfe
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-arundel-south-river-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261015T190000
+DTEND;TZID=America/New_York:20261015T210000
+SUMMARY:Boys Soccer: South River at Arundel
+LOCATION:Arundel
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gamaf210d0ede\nTickets: https://gofan.co/event/6725764
+URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gamaf210d0ede
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-chesapeake-aa-south-river-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261020T170000
+DTEND;TZID=America/New_York:20261020T190000
+SUMMARY:Boys Soccer: South River at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamd2b91b5156\nTickets: https://gofan.co/event/6728468
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamd2b91b5156
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-south-river-north-county-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261022T190000
+DTEND;TZID=America/New_York:20261022T210000
+SUMMARY:Boys Soccer: North County at South River
+LOCATION:South River
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gam0470dfaddf\nTickets: https://gofan.co/event/6897774
+URL:https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gam0470dfaddf
+END:VEVENT
+END:VCALENDAR

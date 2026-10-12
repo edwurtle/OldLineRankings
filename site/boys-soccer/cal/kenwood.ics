@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Kenwood Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-franklin-kenwood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Boys Soccer: Kenwood at Franklin
+LOCATION:Franklin
+DESCRIPTION:Final: Kenwood 0\, Franklin 8\nWatch: https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam4fc366c425
+URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam4fc366c425
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-09-western-tech-kenwood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260909T160000
+DTEND;TZID=America/New_York:20260909T180000
+SUMMARY:Boys Soccer: Kenwood at Western Tech
+LOCATION:Western Tech
+DESCRIPTION:Final: Kenwood 3\, Western Tech 2\nWatch: https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gamd7e1f2581a
+URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gamd7e1f2581a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-pikesville-kenwood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260915T173000
+DTEND;TZID=America/New_York:20260915T193000
+SUMMARY:Boys Soccer: Kenwood at Pikesville
+LOCATION:Pikesville
+DESCRIPTION:Final: Kenwood 1\, Pikesville 1\nWatch: https://www.nfhsnetwork.com/events/pikesville-high-school-baltimore-md/gamaaa3c05ad1
+URL:https://www.nfhsnetwork.com/events/pikesville-high-school-baltimore-md/gamaaa3c05ad1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-randallstown-kenwood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260917T180000
+DTEND;TZID=America/New_York:20260917T200000
+SUMMARY:Boys Soccer: Kenwood at Randallstown
+LOCATION:Randallstown
+DESCRIPTION:Final: Kenwood 8\, Randallstown 0\nWatch: https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam2c3131fa4d
+URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam2c3131fa4d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-eastern-tech-kenwood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Boys Soccer: Kenwood at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Final: Kenwood 0\, Eastern Tech 5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-carver-aandt-kenwood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Boys Soccer: Kenwood at Carver A&T
+LOCATION:Carver A&T
+DESCRIPTION:Final: Kenwood 1\, Carver A&T 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-chesapeake-b-kenwood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Boys Soccer: Kenwood at Chesapeake-B
+LOCATION:Chesapeake-B
+DESCRIPTION:Final: Kenwood 3\, Chesapeake-B 0\nWatch: https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam7c32eeb84e
+URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam7c32eeb84e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-kenwood-woodlawn-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261001T180000
+DTEND;TZID=America/New_York:20261001T200000
+SUMMARY:Boys Soccer: Woodlawn at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Final: Kenwood 6\, Woodlawn 3\nWatch: https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam68fa60d0cb
+URL:https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam68fa60d0cb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-new-town-kenwood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Boys Soccer: Kenwood at New Town
+LOCATION:New Town
+DESCRIPTION:Final: Kenwood 4\, New Town 3\nWatch: https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam0ee0384823
+URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam0ee0384823
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-patapsco-kenwood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Boys Soccer: Kenwood at Patapsco
+LOCATION:Patapsco
+DESCRIPTION:Tickets: https://gofan.co/event/6791416
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-kenwood-parkville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Boys Soccer: Parkville at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam3e64fac2af
+URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam3e64fac2af
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-overlea-kenwood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Boys Soccer: Kenwood at Overlea
+LOCATION:Overlea
+DESCRIPTION:Tickets: https://gofan.co/event/6737817
+END:VEVENT
+END:VCALENDAR

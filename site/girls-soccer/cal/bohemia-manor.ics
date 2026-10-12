@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bohemia Manor Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-bohemia-manor-kennett-pa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260904T153000
+DTEND;TZID=America/New_York:20260904T173000
+SUMMARY:Girls Soccer: Kennett-PA at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Final: Bohemia Manor 0\, Kennett-PA 2\nWatch: https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city-md/gamf6775cd965
+URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city-md/gamf6775cd965
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-bohemia-manor-north-east-c-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Girls Soccer: North East-C at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Final: Bohemia Manor 1\, North East-C 8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-bohemia-manor-elkton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Girls Soccer: Elkton at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Final: Bohemia Manor 1\, Elkton 7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-bohemia-manor-aberdeen-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260917T190000
+DTEND;TZID=America/New_York:20260917T210000
+SUMMARY:Girls Soccer: Aberdeen at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Final: Bohemia Manor 5\, Aberdeen 2\nWatch: https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam08f9df2b48
+URL:https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam08f9df2b48
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-21-bohemia-manor-oxford-pa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260921T153000
+DTEND;TZID=America/New_York:20260921T173000
+SUMMARY:Girls Soccer: Oxford-PA at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Final: Bohemia Manor 8\, Oxford-PA 0\nWatch: https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city-md/gamab09a7d42e
+URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city-md/gamab09a7d42e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-bohemia-manor-perryville-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260922T153000
+DTEND;TZID=America/New_York:20260922T173000
+SUMMARY:Girls Soccer: Perryville at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Final: Bohemia Manor 0\, Perryville 5\nWatch: https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city-md/gamab09a7d42e
+URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city-md/gamab09a7d42e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-havre-de-grace-bohemia-manor-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260929T180000
+DTEND;TZID=America/New_York:20260929T200000
+SUMMARY:Girls Soccer: Bohemia Manor at Havre de Grace
+LOCATION:Havre de Grace
+DESCRIPTION:Final: Bohemia Manor 2\, Havre de Grace 3\nWatch: https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city-md/gam36d0ca10b3
+URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city-md/gam36d0ca10b3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-bohemia-manor-rising-sun-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261001T190000
+DTEND;TZID=America/New_York:20261001T210000
+SUMMARY:Girls Soccer: Rising Sun at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Final: Bohemia Manor 0\, Rising Sun 7\nWatch: https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam3264051199
+URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam3264051199
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-bohemia-manor-edgewood-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261006T170000
+DTEND;TZID=America/New_York:20261006T190000
+SUMMARY:Girls Soccer: Edgewood at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Final: Bohemia Manor 5\, Edgewood 1\nWatch: https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gambcd50e48d0
+URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gambcd50e48d0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-joppatowne-bohemia-manor-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261008T180000
+DTEND;TZID=America/New_York:20261008T200000
+SUMMARY:Girls Soccer: Bohemia Manor at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Final: Bohemia Manor 9\, Joppatowne 0\nWatch: https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city-md/gambb5d5737c3
+URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city-md/gambb5d5737c3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-harford-tech-bohemia-manor-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261013T180000
+DTEND;TZID=America/New_York:20261013T200000
+SUMMARY:Girls Soccer: Bohemia Manor at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gam2d2f4c94ad
+URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gam2d2f4c94ad
+END:VEVENT
+END:VCALENDAR

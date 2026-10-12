@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Stephen Decatur Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-wicomico-stephen-decatur-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Girls Soccer: Stephen Decatur at Wicomico
+LOCATION:Wicomico
+DESCRIPTION:Final: Stephen Decatur 8\, Wicomico 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-queen-anne-s-stephen-decatur-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260908T173000
+DTEND;TZID=America/New_York:20260908T193000
+SUMMARY:Girls Soccer: Stephen Decatur at Queen Anne's
+LOCATION:Queen Anne's
+DESCRIPTION:Final: Stephen Decatur 1\, Queen Anne's 1\nWatch: https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gamef9e0a7793
+URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gamef9e0a7793
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-parkside-stephen-decatur-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260910T170000
+DTEND;TZID=America/New_York:20260910T190000
+SUMMARY:Girls Soccer: Stephen Decatur at Parkside
+LOCATION:Parkside
+DESCRIPTION:Final: Stephen Decatur 6\, Parkside 0\nWatch: https://www.nfhsnetwork.com/events/stephen-decatur-high-school-berlin-md/gam93d678095f
+URL:https://www.nfhsnetwork.com/events/stephen-decatur-high-school-berlin-md/gam93d678095f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-north-caroline-stephen-decatur-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260915T173000
+DTEND;TZID=America/New_York:20260915T193000
+SUMMARY:Girls Soccer: Stephen Decatur at North Caroline
+LOCATION:North Caroline
+DESCRIPTION:Final: Stephen Decatur 8\, North Caroline 0\nWatch: https://www.nfhsnetwork.com/events/stephen-decatur-high-school-berlin-md/gamcabc3ba7d5
+URL:https://www.nfhsnetwork.com/events/stephen-decatur-high-school-berlin-md/gamcabc3ba7d5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-mardela-stephen-decatur-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Girls Soccer: Stephen Decatur at Mardela
+LOCATION:Mardela
+DESCRIPTION:Final: Stephen Decatur 5\, Mardela 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-21-snow-hill-stephen-decatur-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Girls Soccer: Stephen Decatur at Snow Hill
+LOCATION:Snow Hill
+DESCRIPTION:Final: Stephen Decatur 5\, Snow Hill 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-easton-stephen-decatur-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Girls Soccer: Stephen Decatur at Easton
+LOCATION:Easton
+DESCRIPTION:Final: Stephen Decatur 6\, Easton 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-parkside-stephen-decatur-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Girls Soccer: Stephen Decatur at Parkside
+LOCATION:Parkside
+DESCRIPTION:Final: Stephen Decatur 4\, Parkside 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-crisfield-stephen-decatur-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Girls Soccer: Stephen Decatur at Crisfield
+LOCATION:Crisfield
+DESCRIPTION:Final: Stephen Decatur 9\, Crisfield 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-james-m-bennett-stephen-decatur-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Girls Soccer: Stephen Decatur at James M. Bennett
+LOCATION:James M. Bennett
+DESCRIPTION:Final: Stephen Decatur 0\, James M. Bennett 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-kent-island-stephen-decatur-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Girls Soccer: Stephen Decatur at Kent Island
+LOCATION:Kent Island
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-wicomico-stephen-decatur-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Girls Soccer: Stephen Decatur at Wicomico
+LOCATION:Wicomico
+END:VEVENT
+END:VCALENDAR

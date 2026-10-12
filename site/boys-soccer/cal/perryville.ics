@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Perryville Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-patterson-mill-perryville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260908T170000
+DTEND;TZID=America/New_York:20260908T190000
+SUMMARY:Boys Soccer: Perryville at Patterson Mill
+LOCATION:Patterson Mill
+DESCRIPTION:Final: Perryville 0\, Patterson Mill 6\nWatch: https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gamfd6c3474b2
+URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gamfd6c3474b2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-perryville-c-milton-wright-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260917T170000
+DTEND;TZID=America/New_York:20260917T190000
+SUMMARY:Boys Soccer: C. Milton Wright at Perryville
+LOCATION:Perryville
+DESCRIPTION:Final: Perryville 0\, C. Milton Wright 8\nWatch: https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/gama6dbca9698
+URL:https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/gama6dbca9698
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-bohemia-manor-perryville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260922T170000
+DTEND;TZID=America/New_York:20260922T190000
+SUMMARY:Boys Soccer: Perryville at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Final: Perryville 0\, Bohemia Manor 1\nWatch: https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gamfe12a4e02f
+URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gamfe12a4e02f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-perryville-elkton-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T170000
+DTEND;TZID=America/New_York:20260924T190000
+SUMMARY:Boys Soccer: Elkton at Perryville
+LOCATION:Perryville
+DESCRIPTION:Final: Perryville 2\, Elkton 1\nWatch: https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam2615909c5d
+URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam2615909c5d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-harford-tech-perryville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Boys Soccer: Perryville at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Perryville 1\, Harford Tech 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-perryville-harford-tech-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260930T190000
+DTEND;TZID=America/New_York:20260930T210000
+SUMMARY:Boys Soccer: Harford Tech at Perryville
+LOCATION:Perryville
+DESCRIPTION:Final: Perryville 1\, Harford Tech 3\nWatch: https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gam46281f6a5a
+URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gam46281f6a5a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-perryville-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261005T170000
+DTEND;TZID=America/New_York:20261005T190000
+SUMMARY:Boys Soccer: Edgewood at Perryville
+LOCATION:Perryville
+DESCRIPTION:Final: Perryville 2\, Edgewood 1\nWatch: https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gama73f1cfbe9
+URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gama73f1cfbe9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-perryville-fallston-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261007T190000
+DTEND;TZID=America/New_York:20261007T210000
+SUMMARY:Boys Soccer: Fallston at Perryville
+LOCATION:Perryville
+DESCRIPTION:Final: Perryville 0\, Fallston 7\nWatch: https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam514077badc
+URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam514077badc
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-perryville-rising-sun-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Boys Soccer: Rising Sun at Perryville
+LOCATION:Perryville
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-havre-de-grace-perryville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Boys Soccer: Perryville at Havre de Grace
+LOCATION:Havre de Grace
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-perryville-north-east-c-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Boys Soccer: North East-C at Perryville
+LOCATION:Perryville
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-perryville-tbd-ucbac-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261023T153000
+DTEND;TZID=America/New_York:20261023T173000
+SUMMARY:Boys Soccer: TBD- UCBAC at Perryville
+LOCATION:Perryville
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam86e64a241b
+URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam86e64a241b
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:North Caroline Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-north-caroline-parkside-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260908T173000
+DTEND;TZID=America/New_York:20260908T193000
+SUMMARY:Girls Soccer: Parkside at North Caroline
+LOCATION:North Caroline
+DESCRIPTION:Final: North Caroline 0\, Parkside 8\nWatch: https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam27ca22c299
+URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam27ca22c299
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-north-caroline-easton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260910T173000
+DTEND;TZID=America/New_York:20260910T193000
+SUMMARY:Girls Soccer: Easton at North Caroline
+LOCATION:North Caroline
+DESCRIPTION:Final: North Caroline 0\, Easton 2\nWatch: https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gamd3e3955643
+URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gamd3e3955643
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-north-caroline-stephen-decatur-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260915T173000
+DTEND;TZID=America/New_York:20260915T193000
+SUMMARY:Girls Soccer: Stephen Decatur at North Caroline
+LOCATION:North Caroline
+DESCRIPTION:Final: North Caroline 0\, Stephen Decatur 8\nWatch: https://www.nfhsnetwork.com/events/stephen-decatur-high-school-berlin-md/gamcabc3ba7d5
+URL:https://www.nfhsnetwork.com/events/stephen-decatur-high-school-berlin-md/gamcabc3ba7d5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-north-dorchester-north-caroline-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260917T173000
+DTEND;TZID=America/New_York:20260917T193000
+SUMMARY:Girls Soccer: North Caroline at North Dorchester
+LOCATION:North Dorchester
+DESCRIPTION:Final: North Caroline 8\, North Dorchester 0\nWatch: https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam2bed8c9e1a
+URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam2bed8c9e1a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-colonel-richardson-north-caroline-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260922T173000
+DTEND;TZID=America/New_York:20260922T193000
+SUMMARY:Girls Soccer: North Caroline at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Final: North Caroline 1\, Colonel Richardson 3\nWatch: https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gamfb70a77e78
+URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gamfb70a77e78
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-north-caroline-queen-anne-s-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260924T173000
+DTEND;TZID=America/New_York:20260924T193000
+SUMMARY:Girls Soccer: Queen Anne's at North Caroline
+LOCATION:North Caroline
+DESCRIPTION:Final: North Caroline 0\, Queen Anne's 8\nWatch: https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam1169c94f13
+URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam1169c94f13
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-north-caroline-wicomico-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260929T173000
+DTEND;TZID=America/New_York:20260929T193000
+SUMMARY:Girls Soccer: Wicomico at North Caroline
+LOCATION:North Caroline
+DESCRIPTION:Final: North Caroline 2\, Wicomico 7\nWatch: https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam4b9606c330
+URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam4b9606c330
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-north-caroline-kent-island-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261001T173000
+DTEND;TZID=America/New_York:20261001T193000
+SUMMARY:Girls Soccer: Kent Island at North Caroline
+LOCATION:North Caroline
+DESCRIPTION:Final: North Caroline 0\, Kent Island 7\nWatch: https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam84fefbe704
+URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam84fefbe704
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-kent-county-north-caroline-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Girls Soccer: North Caroline at Kent County
+LOCATION:Kent County
+DESCRIPTION:Final: North Caroline 4\, Kent County 0\nWatch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamce09b4e95e
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamce09b4e95e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-cambridge-south-dorchester-north-caroline-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261008T173000
+DTEND;TZID=America/New_York:20261008T193000
+SUMMARY:Girls Soccer: North Caroline at Cambridge-South Dorchester
+LOCATION:Cambridge-South Dorchester
+DESCRIPTION:Final: North Caroline 2\, Cambridge-South Dorchester 6\nWatch: https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam81df85cd8c
+URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam81df85cd8c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-north-caroline-james-m-bennett-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Girls Soccer: James M. Bennett at North Caroline
+LOCATION:North Caroline
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-north-caroline-easton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Girls Soccer: Easton at North Caroline
+LOCATION:North Caroline
+END:VEVENT
+END:VCALENDAR

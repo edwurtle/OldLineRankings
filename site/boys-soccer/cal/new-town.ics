@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:New Town Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-owings-mills-new-town-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Boys Soccer: New Town at Owings Mills
+LOCATION:Owings Mills
+DESCRIPTION:Final: New Town 1\, Owings Mills 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-loch-raven-new-town-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Boys Soccer: New Town at Loch Raven
+LOCATION:Loch Raven
+DESCRIPTION:Final: New Town 1\, Loch Raven 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-milford-mill-academy-new-town-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Boys Soccer: New Town at Milford Mill Academy
+LOCATION:Milford Mill Academy
+DESCRIPTION:Final: New Town 4\, Milford Mill Academy 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-patapsco-new-town-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Boys Soccer: New Town at Patapsco
+LOCATION:Patapsco
+DESCRIPTION:Final: New Town 7\, Patapsco 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-randallstown-new-town-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Boys Soccer: New Town at Randallstown
+LOCATION:Randallstown
+DESCRIPTION:Final: New Town 7\, Randallstown 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-carver-aandt-new-town-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Boys Soccer: New Town at Carver A&T
+LOCATION:Carver A&T
+DESCRIPTION:Final: New Town 3\, Carver A&T 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-chesapeake-b-new-town-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Boys Soccer: New Town at Chesapeake-B
+LOCATION:Chesapeake-B
+DESCRIPTION:Final: New Town 1\, Chesapeake-B 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-new-town-kenwood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Boys Soccer: Kenwood at New Town
+LOCATION:New Town
+DESCRIPTION:Final: New Town 3\, Kenwood 4\nWatch: https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam0ee0384823
+URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam0ee0384823
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-new-town-woodlawn-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Boys Soccer: Woodlawn at New Town
+LOCATION:New Town
+DESCRIPTION:Final: New Town 1\, Woodlawn 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-overlea-new-town-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Boys Soccer: New Town at Overlea
+LOCATION:Overlea
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-lansdowne-new-town-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Boys Soccer: New Town at Lansdowne
+LOCATION:Lansdowne
+END:VEVENT
+END:VCALENDAR

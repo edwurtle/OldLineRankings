@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Patuxent Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-patuxent-st-charles-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Boys Soccer: St. Charles at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 5\, St. Charles 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-patuxent-thomas-stone-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260910T163000
+DTEND;TZID=America/New_York:20260910T183000
+SUMMARY:Boys Soccer: Thomas Stone at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 7\, Thomas Stone 1\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam09d4e3e436
+URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam09d4e3e436
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-patuxent-north-point-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Boys Soccer: North Point at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 1\, North Point 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-patuxent-la-plata-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Boys Soccer: La Plata at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 0\, La Plata 8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-patuxent-mcdonough-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T163000
+DTEND;TZID=America/New_York:20260924T183000
+SUMMARY:Boys Soccer: McDonough at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 3\, McDonough 2\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam15b4b9a5f3
+URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam15b4b9a5f3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-patuxent-westlake-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T184500
+DTEND;TZID=America/New_York:20260929T204500
+SUMMARY:Boys Soccer: Westlake at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 2\, Westlake 1\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam5121818456
+URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam5121818456
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-patuxent-henry-e-lackey-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261001T180000
+DTEND;TZID=America/New_York:20261001T200000
+SUMMARY:Boys Soccer: Henry E. Lackey at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 2\, Henry E. Lackey 4\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gamc19c6e430d
+URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gamc19c6e430d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-patuxent-huntingtown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T181500
+DTEND;TZID=America/New_York:20261006T201500
+SUMMARY:Boys Soccer: Huntingtown at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 3\, Huntingtown 4\nWatch: https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gamf8d7075314
+URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gamf8d7075314
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-patuxent-great-mills-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261008T163000
+DTEND;TZID=America/New_York:20261008T183000
+SUMMARY:Boys Soccer: Great Mills at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Final: Patuxent 0\, Great Mills 8\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam01cd3b3e9b
+URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam01cd3b3e9b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-patuxent-calvert-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261013T181500
+DTEND;TZID=America/New_York:20261013T201500
+SUMMARY:Boys Soccer: Calvert at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gamdda20b0be0\nTickets: https://gofan.co/event/6802175
+URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gamdda20b0be0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-patuxent-northern-c-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261019T163000
+DTEND;TZID=America/New_York:20261019T183000
+SUMMARY:Boys Soccer: Northern-C at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamfbb146be12
+URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamfbb146be12
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-patuxent-friendly-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Boys Soccer: Friendly at Patuxent
+LOCATION:Patuxent
+END:VEVENT
+END:VCALENDAR

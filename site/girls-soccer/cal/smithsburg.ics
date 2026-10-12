@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Smithsburg Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-smithsburg-francis-scott-key-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Girls Soccer: Francis Scott Key at Smithsburg
+LOCATION:Smithsburg
+DESCRIPTION:Final: Smithsburg 8\, Francis Scott Key 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-smithsburg-gov-thomas-johnson-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260910T190000
+DTEND;TZID=America/New_York:20260910T210000
+SUMMARY:Girls Soccer: Gov. Thomas Johnson at Smithsburg
+LOCATION:Smithsburg
+DESCRIPTION:Final: Smithsburg 5\, Gov. Thomas Johnson 0\nWatch: https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam8613ca9583
+URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam8613ca9583
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-south-carroll-smithsburg-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Girls Soccer: Smithsburg at South Carroll
+LOCATION:South Carroll
+DESCRIPTION:Final: Smithsburg 1\, South Carroll 8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-smithsburg-williamsport-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Girls Soccer: Williamsport at Smithsburg
+LOCATION:Smithsburg
+DESCRIPTION:Final: Smithsburg 3\, Williamsport 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-catoctin-smithsburg-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260922T180000
+DTEND;TZID=America/New_York:20260922T200000
+SUMMARY:Girls Soccer: Smithsburg at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Final: Smithsburg 4\, Catoctin 3\nWatch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gama1e8f14728
+URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gama1e8f14728
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-smithsburg-walkersville-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Girls Soccer: Walkersville at Smithsburg
+LOCATION:Smithsburg
+DESCRIPTION:Final: Smithsburg 0\, Walkersville 3\nWatch: https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gam4d02b785b3
+URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/gam4d02b785b3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-boonsboro-smithsburg-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Girls Soccer: Smithsburg at Boonsboro
+LOCATION:Boonsboro
+DESCRIPTION:Final: Smithsburg 8\, Boonsboro 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-smithsburg-north-hagerstown-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Girls Soccer: North Hagerstown at Smithsburg
+LOCATION:Smithsburg
+DESCRIPTION:Final: Smithsburg 2\, North Hagerstown 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-smithsburg-middletown-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Girls Soccer: Middletown at Smithsburg
+LOCATION:Smithsburg
+DESCRIPTION:Final: Smithsburg 1\, Middletown 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-brunswick-smithsburg-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261008T190000
+DTEND;TZID=America/New_York:20261008T210000
+SUMMARY:Girls Soccer: Smithsburg at Brunswick
+LOCATION:Brunswick
+DESCRIPTION:Final: Smithsburg 2\, Brunswick 1\nWatch: https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam261d8cd8b6
+URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam261d8cd8b6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-clear-spring-smithsburg-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261013T180000
+DTEND;TZID=America/New_York:20261013T200000
+SUMMARY:Girls Soccer: Smithsburg at Clear Spring
+LOCATION:Clear Spring
+DESCRIPTION:Tickets: https://gofan.co/event/6854384
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-smithsburg-liberty-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261015T171500
+DTEND;TZID=America/New_York:20261015T191500
+SUMMARY:Girls Soccer: Liberty at Smithsburg
+LOCATION:Smithsburg
+DESCRIPTION:Tickets: https://gofan.co/event/6854351
+END:VEVENT
+END:VCALENDAR

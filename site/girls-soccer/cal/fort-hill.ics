@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Fort Hill Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-fort-hill-boonsboro-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260905T120000
+DTEND;TZID=America/New_York:20260905T140000
+SUMMARY:Girls Soccer: Boonsboro at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 6\, Boonsboro 0\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gambc190ea452
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gambc190ea452
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-fort-hill-mountain-ridge-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260905T160000
+DTEND;TZID=America/New_York:20260905T180000
+SUMMARY:Girls Soccer: Mountain Ridge at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 1\, Mountain Ridge 6\nWatch: https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/gam5386dfa2e9
+URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/gam5386dfa2e9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-allegany-fort-hill-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260908T170000
+DTEND;TZID=America/New_York:20260908T190000
+SUMMARY:Girls Soccer: Fort Hill at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Fort Hill 0\, Allegany 8\nWatch: https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam776b169475
+URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam776b169475
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-12-fort-hill-wv-hampshire-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Girls Soccer: WV- Hampshire at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 4\, WV- Hampshire 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-fort-hill-southern-g-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260916T180000
+DTEND;TZID=America/New_York:20260916T200000
+SUMMARY:Girls Soccer: Southern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 1\, Southern-G 7\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam0cce90544b
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam0cce90544b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-fort-hill-wv-keyser-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260917T180000
+DTEND;TZID=America/New_York:20260917T200000
+SUMMARY:Girls Soccer: WV- Keyser at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 7\, WV- Keyser 0\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam0cce90544b
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam0cce90544b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-fort-hill-northern-g-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260919T110000
+DTEND;TZID=America/New_York:20260919T130000
+SUMMARY:Girls Soccer: Northern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 1\, Northern-G 4\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam916e8e87ad
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam916e8e87ad
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-23-fort-hill-wv-spring-mills-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260923T180000
+DTEND;TZID=America/New_York:20260923T200000
+SUMMARY:Girls Soccer: WV- Spring Mills at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 4\, WV- Spring Mills 3\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gamdd94ac15a3
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gamdd94ac15a3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-fort-hill-northern-g-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260929T173000
+DTEND;TZID=America/New_York:20260929T193000
+SUMMARY:Girls Soccer: Northern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 0\, Northern-G 5\nWatch: https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gamda088e8d00
+URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gamda088e8d00
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-allegany-fort-hill-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261001T170000
+DTEND;TZID=America/New_York:20261001T190000
+SUMMARY:Girls Soccer: Fort Hill at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Fort Hill 1\, Allegany 6\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam1ad4220155
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam1ad4220155
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-fort-hill-mountain-ridge-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261006T170000
+DTEND;TZID=America/New_York:20261006T190000
+SUMMARY:Girls Soccer: Mountain Ridge at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 0\, Mountain Ridge 4\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gamaaf5d8cb70
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gamaaf5d8cb70
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-fort-hill-wv-moorefield-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261008T190000
+DTEND;TZID=America/New_York:20261008T210000
+SUMMARY:Girls Soccer: WV- Moorefield at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 11\, WV- Moorefield 0\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam04dc785a7c
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam04dc785a7c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-fort-hill-wv-musselman-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261015T190000
+DTEND;TZID=America/New_York:20261015T210000
+SUMMARY:Girls Soccer: WV- Musselman at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam4dc96b7216
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam4dc96b7216
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-fort-hill-southern-g-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261021T180000
+DTEND;TZID=America/New_York:20261021T200000
+SUMMARY:Girls Soccer: Southern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam4b1e5e9640
+URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam4b1e5e9640
+END:VEVENT
+END:VCALENDAR

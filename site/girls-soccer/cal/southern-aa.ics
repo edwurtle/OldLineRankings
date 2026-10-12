@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Southern-AA Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-southern-aa-huntingtown-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Girls Soccer: Huntingtown at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 2\, Huntingtown 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-la-plata-southern-aa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260905T150000
+DTEND;TZID=America/New_York:20260905T170000
+SUMMARY:Girls Soccer: Southern-AA at La Plata
+LOCATION:La Plata
+DESCRIPTION:Final: Southern-AA 1\, La Plata 1\nWatch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam92a4e71c32
+URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam92a4e71c32
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-catonsville-southern-aa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260905T183000
+DTEND;TZID=America/New_York:20260905T203000
+SUMMARY:Girls Soccer: Southern-AA at Catonsville
+LOCATION:Catonsville
+DESCRIPTION:Final: Southern-AA 0\, Catonsville 5\nWatch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam98ec678294
+URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam98ec678294
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-09-southern-aa-old-mill-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260909T165500
+DTEND;TZID=America/New_York:20260909T185500
+SUMMARY:Girls Soccer: Old Mill at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 3\, Old Mill 2\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam7f067f0d77
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam7f067f0d77
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-southern-aa-arundel-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260915T190000
+DTEND;TZID=America/New_York:20260915T210000
+SUMMARY:Girls Soccer: Arundel at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 1\, Arundel 8\nWatch: https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gambe6d2a65e1
+URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gambe6d2a65e1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-southern-aa-crofton-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Girls Soccer: Crofton at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 0\, Crofton 5\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam65dd4e7ddb
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam65dd4e7ddb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-southern-aa-glen-burnie-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260929T190000
+DTEND;TZID=America/New_York:20260929T210000
+SUMMARY:Girls Soccer: Glen Burnie at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 3\, Glen Burnie 2\nWatch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam5babd61ccd
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gam5babd61ccd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-southern-aa-north-county-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Girls Soccer: North County at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 0\, North County 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-southern-aa-annapolis-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T210000
+SUMMARY:Girls Soccer: Annapolis at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 1\, Annapolis 2\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam5b0051d4e1
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam5b0051d4e1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-southern-aa-northeast-aa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261008T170000
+DTEND;TZID=America/New_York:20261008T190000
+SUMMARY:Girls Soccer: Northeast-AA at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 1\, Northeast-AA 3\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam4cb1a4e272
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam4cb1a4e272
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-southern-aa-meade-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T210000
+SUMMARY:Girls Soccer: Meade at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam76410b27a3
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam76410b27a3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-southern-aa-severna-park-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261015T170000
+DTEND;TZID=America/New_York:20261015T190000
+SUMMARY:Girls Soccer: Severna Park at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gamab75f02522\nTickets: https://gofan.co/event/6857633
+URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gamab75f02522
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-southern-aa-severn-run-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261020T190000
+DTEND;TZID=America/New_York:20261020T210000
+SUMMARY:Girls Soccer: Severn Run at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamfceb13286b
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamfceb13286b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-chesapeake-science-point-southern-aa-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261022T170000
+DTEND;TZID=America/New_York:20261022T190000
+SUMMARY:Girls Soccer: Southern-AA at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamd24992892e
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamd24992892e
+END:VEVENT
+END:VCALENDAR

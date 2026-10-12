@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Linganore Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-linganore-chesapeake-aa-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260904T190000
+DTEND;TZID=America/New_York:20260904T210000
+SUMMARY:Boys Soccer: Chesapeake-AA at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Linganore 2\, Chesapeake-AA 1\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamdcf81826da
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamdcf81826da
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-linganore-severna-park-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T170000
+DTEND;TZID=America/New_York:20260905T190000
+SUMMARY:Boys Soccer: Severna Park at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Linganore 1\, Severna Park 3\nWatch: https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/game635ca6f89
+URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/game635ca6f89
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-manchester-valley-linganore-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Boys Soccer: Linganore at Manchester Valley
+LOCATION:Manchester Valley
+DESCRIPTION:Final: Linganore 3\, Manchester Valley 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-walkersville-linganore-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260910T190000
+DTEND;TZID=America/New_York:20260910T210000
+SUMMARY:Boys Soccer: Linganore at Walkersville
+LOCATION:Walkersville
+DESCRIPTION:Final: Linganore 3\, Walkersville 0\nWatch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam252e47d37d
+URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam252e47d37d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-linganore-frederick-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260917T190000
+DTEND;TZID=America/New_York:20260917T210000
+SUMMARY:Boys Soccer: Frederick at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Linganore 3\, Frederick 1\nWatch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gamac7a0903bb
+URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gamac7a0903bb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-linganore-gov-thomas-johnson-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Boys Soccer: Gov. Thomas Johnson at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Linganore 1\, Gov. Thomas Johnson 0\nWatch: https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam1170b02273
+URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam1170b02273
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-linganore-oakdale-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T190000
+DTEND;TZID=America/New_York:20260929T210000
+SUMMARY:Boys Soccer: Oakdale at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Linganore 3\, Oakdale 4\nWatch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam0db43fba0b
+URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam0db43fba0b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-westminster-linganore-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Boys Soccer: Linganore at Westminster
+LOCATION:Westminster
+DESCRIPTION:Final: Linganore 3\, Westminster 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-linganore-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T210000
+SUMMARY:Boys Soccer: Urbana at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Linganore 0\, Urbana 4\nWatch: https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam904e764c9e
+URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam904e764c9e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-linganore-south-hagerstown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261008T190000
+DTEND;TZID=America/New_York:20261008T210000
+SUMMARY:Boys Soccer: South Hagerstown at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Linganore 8\, South Hagerstown 0\nWatch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam129781dba7
+URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam129781dba7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-linganore-north-hagerstown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T210000
+SUMMARY:Boys Soccer: North Hagerstown at Linganore
+LOCATION:Linganore
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam3c69e4416f\nTickets: https://gofan.co/event/6820474
+URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam3c69e4416f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-brunswick-linganore-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261015T190000
+DTEND;TZID=America/New_York:20261015T210000
+SUMMARY:Boys Soccer: Linganore at Brunswick
+LOCATION:Brunswick
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam86baa4b7a3\nTickets: https://gofan.co/event/6740044
+URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam86baa4b7a3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-middletown-linganore-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261020T190000
+DTEND;TZID=America/New_York:20261020T210000
+SUMMARY:Boys Soccer: Linganore at Middletown
+LOCATION:Middletown
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam7eb9c26247\nTickets: https://gofan.co/event/6820473
+URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam7eb9c26247
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-tuscarora-linganore-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Boys Soccer: Linganore at Tuscarora
+LOCATION:Tuscarora
+END:VEVENT
+END:VCALENDAR

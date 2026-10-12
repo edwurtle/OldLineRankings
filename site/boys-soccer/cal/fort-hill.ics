@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Fort Hill Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-fort-hill-private-md-broadfording-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T180000
+DTEND;TZID=America/New_York:20260905T200000
+SUMMARY:Boys Soccer: Private MD- Broadfording at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 3\, Private MD- Broadfording 1\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam2eb14ae806
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam2eb14ae806
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-fort-hill-mountain-ridge-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T180000
+DTEND;TZID=America/New_York:20260905T200000
+SUMMARY:Boys Soccer: Mountain Ridge at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 2\, Mountain Ridge 3\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam2eb14ae806
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam2eb14ae806
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-allegany-fort-hill-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260908T190000
+DTEND;TZID=America/New_York:20260908T210000
+SUMMARY:Boys Soccer: Fort Hill at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Fort Hill 2\, Allegany 1\nWatch: https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam9a90a86e32
+URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam9a90a86e32
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-fort-hill-wv-keyser-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Boys Soccer: WV- Keyser at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 5\, WV- Keyser 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-fort-hill-northern-g-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260919T130000
+DTEND;TZID=America/New_York:20260919T150000
+SUMMARY:Boys Soccer: Northern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 3\, Northern-G 0\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam3f6639ab20
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam3f6639ab20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-fort-hill-southern-g-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Boys Soccer: Southern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 5\, Southern-G 2\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam162b07924a
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam162b07924a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-fort-hill-mountain-ridge-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Boys Soccer: Mountain Ridge at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 1\, Mountain Ridge 0\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam15b6b39e6b
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam15b6b39e6b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-fort-hill-northern-g-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T193000
+DTEND;TZID=America/New_York:20260929T213000
+SUMMARY:Boys Soccer: Northern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 4\, Northern-G 0\nWatch: https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gam2b7b576a7d
+URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gam2b7b576a7d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-allegany-fort-hill-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261001T190000
+DTEND;TZID=America/New_York:20261001T210000
+SUMMARY:Boys Soccer: Fort Hill at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Fort Hill 3\, Allegany 1\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam5acd922ab9
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam5acd922ab9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-fort-hill-private-md-bishop-walsh-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261003T130000
+DTEND;TZID=America/New_York:20261003T150000
+SUMMARY:Boys Soccer: Private MD- Bishop Walsh at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 8\, Private MD- Bishop Walsh 0\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam057efc409a
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam057efc409a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-fort-hill-southern-g-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261007T190000
+DTEND;TZID=America/New_York:20261007T210000
+SUMMARY:Boys Soccer: Southern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Fort Hill 1\, Southern-G 0\nWatch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamf33696fe39
+URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamf33696fe39
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-fort-hill-wv-hampshire-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Boys Soccer: WV- Hampshire at Fort Hill
+LOCATION:Fort Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-fort-hill-private-md-bishop-walsh-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Boys Soccer: Private MD- Bishop Walsh at Fort Hill
+LOCATION:Fort Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-fort-hill-private-md-lighthouse-christian-academy-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261017T130000
+DTEND;TZID=America/New_York:20261017T150000
+SUMMARY:Boys Soccer: Private MD- Lighthouse Christian Academy at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam5c812463cc
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam5c812463cc
+END:VEVENT
+END:VCALENDAR

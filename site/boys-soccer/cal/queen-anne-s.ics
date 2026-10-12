@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Queen Anne's Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-09-north-caroline-queen-anne-s-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260909T173000
+DTEND;TZID=America/New_York:20260909T193000
+SUMMARY:Boys Soccer: Queen Anne's at North Caroline
+LOCATION:North Caroline
+DESCRIPTION:Final: Queen Anne's 1\, North Caroline 0\nWatch: https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam6c053b5008
+URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam6c053b5008
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-queen-anne-s-parkside-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260911T173000
+DTEND;TZID=America/New_York:20260911T193000
+SUMMARY:Boys Soccer: Parkside at Queen Anne's
+LOCATION:Queen Anne's
+DESCRIPTION:Final: Queen Anne's 1\, Parkside 1\nWatch: https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam9ae07d89f3
+URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam9ae07d89f3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-queen-anne-s-james-m-bennett-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Boys Soccer: James M. Bennett at Queen Anne's
+LOCATION:Queen Anne's
+DESCRIPTION:Final: Queen Anne's 0\, James M. Bennett 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-21-queen-anne-s-easton-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Boys Soccer: Easton at Queen Anne's
+LOCATION:Queen Anne's
+DESCRIPTION:Final: Queen Anne's 4\, Easton 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-cambridge-south-dorchester-queen-anne-s-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Boys Soccer: Queen Anne's at Cambridge-South Dorchester
+LOCATION:Cambridge-South Dorchester
+DESCRIPTION:Final: Queen Anne's 4\, Cambridge-South Dorchester 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-queen-anne-s-stephen-decatur-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T193000
+SUMMARY:Boys Soccer: Stephen Decatur at Queen Anne's
+LOCATION:Queen Anne's
+DESCRIPTION:Final: Queen Anne's 0\, Stephen Decatur 2\nWatch: https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gamb86f347db6
+URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gamb86f347db6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-north-dorchester-queen-anne-s-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Boys Soccer: Queen Anne's at North Dorchester
+LOCATION:North Dorchester
+DESCRIPTION:Final: Queen Anne's 4\, North Dorchester 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-st-michael-s-queen-anne-s-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Boys Soccer: Queen Anne's at St. Michael's
+LOCATION:St. Michael's
+DESCRIPTION:Final: Queen Anne's 5\, St. Michael's 1\nWatch: https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gamaf82d146dd
+URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gamaf82d146dd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-queen-anne-s-wicomico-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Boys Soccer: Wicomico at Queen Anne's
+LOCATION:Queen Anne's
+DESCRIPTION:Final: Queen Anne's 2\, Wicomico 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-colonel-richardson-queen-anne-s-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261009T173000
+DTEND;TZID=America/New_York:20261009T193000
+SUMMARY:Boys Soccer: Queen Anne's at Colonel Richardson
+LOCATION:Colonel Richardson
+DESCRIPTION:Final: Queen Anne's 3\, Colonel Richardson 2\nWatch: https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam9036bc60b8
+URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam9036bc60b8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-kent-island-queen-anne-s-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261014T183000
+DTEND;TZID=America/New_York:20261014T203000
+SUMMARY:Boys Soccer: Queen Anne's at Kent Island
+LOCATION:Kent Island
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gamef0cd5f712
+URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gamef0cd5f712
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-kent-county-queen-anne-s-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261019T173000
+DTEND;TZID=America/New_York:20261019T193000
+SUMMARY:Boys Soccer: Queen Anne's at Kent County
+LOCATION:Kent County
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam058ce0aba7
+URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam058ce0aba7
+END:VEVENT
+END:VCALENDAR

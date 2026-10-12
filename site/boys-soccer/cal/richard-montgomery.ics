@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Richard Montgomery Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-sherwood-richard-montgomery-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260908T191500
+DTEND;TZID=America/New_York:20260908T211500
+SUMMARY:Boys Soccer: Richard Montgomery at Sherwood
+LOCATION:Sherwood
+DESCRIPTION:Final: Richard Montgomery 3\, Sherwood 2\nWatch: https://www.nfhsnetwork.com/events/sherwood-high-school-sandy-spring-md/gam157643df9e
+URL:https://www.nfhsnetwork.com/events/sherwood-high-school-sandy-spring-md/gam157643df9e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-winston-churchill-richard-montgomery-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260910T191500
+DTEND;TZID=America/New_York:20260910T211500
+SUMMARY:Boys Soccer: Richard Montgomery at Winston Churchill
+LOCATION:Winston Churchill
+DESCRIPTION:Final: Richard Montgomery 0\, Winston Churchill 1\nWatch: https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gamd21c7e58fb
+URL:https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gamd21c7e58fb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-richard-montgomery-john-f-kennedy-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260914T191500
+DTEND;TZID=America/New_York:20260914T211500
+SUMMARY:Boys Soccer: John F. Kennedy at Richard Montgomery
+LOCATION:Richard Montgomery
+DESCRIPTION:Final: Richard Montgomery 1\, John F. Kennedy 2\nWatch: https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gamc7bc10196a
+URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gamc7bc10196a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-richard-montgomery-wheaton-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260917T191500
+DTEND;TZID=America/New_York:20260917T211500
+SUMMARY:Boys Soccer: Wheaton at Richard Montgomery
+LOCATION:Richard Montgomery
+DESCRIPTION:Final: Richard Montgomery 1\, Wheaton 0\nWatch: https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gam007c1ab384
+URL:https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gam007c1ab384
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-richard-montgomery-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260922T191500
+DTEND;TZID=America/New_York:20260922T211500
+SUMMARY:Boys Soccer: Montgomery Blair at Richard Montgomery
+LOCATION:Richard Montgomery
+DESCRIPTION:Final: Richard Montgomery 3\, Montgomery Blair 2\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamfccfde0f5c
+URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamfccfde0f5c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-northwood-richard-montgomery-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T191500
+DTEND;TZID=America/New_York:20260929T211500
+SUMMARY:Boys Soccer: Richard Montgomery at Northwood
+LOCATION:Northwood
+DESCRIPTION:Final: Richard Montgomery 2\, Northwood 1\nWatch: https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gam22ca9de9f1
+URL:https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gam22ca9de9f1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-albert-einstein-richard-montgomery-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261001T191500
+DTEND;TZID=America/New_York:20261001T211500
+SUMMARY:Boys Soccer: Richard Montgomery at Albert Einstein
+LOCATION:Albert Einstein
+DESCRIPTION:Final: Richard Montgomery 1\, Albert Einstein 0\nWatch: https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam985491006a
+URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam985491006a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-rockville-richard-montgomery-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261005T173000
+DTEND;TZID=America/New_York:20261005T193000
+SUMMARY:Boys Soccer: Richard Montgomery at Rockville
+LOCATION:Rockville
+DESCRIPTION:Final: Richard Montgomery 3\, Rockville 1\nWatch: https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gam81b8e886b1
+URL:https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gam81b8e886b1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-poolesville-richard-montgomery-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261007T191500
+DTEND;TZID=America/New_York:20261007T211500
+SUMMARY:Boys Soccer: Richard Montgomery at Poolesville
+LOCATION:Poolesville
+DESCRIPTION:Final: Richard Montgomery 7\, Poolesville 2\nWatch: https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/gamcc5986cf35
+URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/gamcc5986cf35
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-walter-johnson-richard-montgomery-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261013T180000
+DTEND;TZID=America/New_York:20261013T200000
+SUMMARY:Boys Soccer: Richard Montgomery at Walter Johnson
+LOCATION:Walter Johnson
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gamd1c44acf42\nTickets: https://gofan.co/event/6708603
+URL:https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gamd1c44acf42
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-col-zadok-magruder-richard-montgomery-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261016T191500
+DTEND;TZID=America/New_York:20261016T211500
+SUMMARY:Boys Soccer: Richard Montgomery at Col. Zadok Magruder
+LOCATION:Col. Zadok Magruder
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/colonel-zadok-magruder-high-school-rockville-md/gamf96b40e802\nTickets: https://gofan.co/event/6707334
+URL:https://www.nfhsnetwork.com/events/colonel-zadok-magruder-high-school-rockville-md/gamf96b40e802
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-thomas-s-wootton-richard-montgomery-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261021T171500
+DTEND;TZID=America/New_York:20261021T191500
+SUMMARY:Boys Soccer: Richard Montgomery at Thomas S. Wootton
+LOCATION:Thomas S. Wootton
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gam1a5c0446bb\nTickets: https://gofan.co/event/6708678
+URL:https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gam1a5c0446bb
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Northern-G Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-northern-g-wv-petersburg-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Boys Soccer: WV-Petersburg at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Final: Northern-G 6\, WV-Petersburg 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-mountain-ridge-northern-g-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260908T180000
+DTEND;TZID=America/New_York:20260908T200000
+SUMMARY:Boys Soccer: Northern-G at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Final: Northern-G 0\, Mountain Ridge 5\nWatch: https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gamd193d63683
+URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gamd193d63683
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-northern-g-southern-g-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260915T180000
+DTEND;TZID=America/New_York:20260915T200000
+SUMMARY:Boys Soccer: Southern-G at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Final: Northern-G 1\, Southern-G 0\nWatch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam7aab33ee20
+URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam7aab33ee20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-fort-hill-northern-g-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260919T130000
+DTEND;TZID=America/New_York:20260919T150000
+SUMMARY:Boys Soccer: Northern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Northern-G 0\, Fort Hill 3\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam3f6639ab20
+URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam3f6639ab20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-mountain-ridge-northern-g-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260922T193000
+DTEND;TZID=America/New_York:20260922T213000
+SUMMARY:Boys Soccer: Northern-G at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Final: Northern-G 0\, Mountain Ridge 2\nWatch: https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/gam3f5fbe764a
+URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/gam3f5fbe764a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-allegany-northern-g-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T180000
+DTEND;TZID=America/New_York:20260924T200000
+SUMMARY:Boys Soccer: Northern-G at Allegany
+LOCATION:Allegany
+DESCRIPTION:Final: Northern-G 0\, Allegany 8\nWatch: https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gam53f7bbba54
+URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gam53f7bbba54
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-fort-hill-northern-g-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T193000
+DTEND;TZID=America/New_York:20260929T213000
+SUMMARY:Boys Soccer: Northern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Final: Northern-G 0\, Fort Hill 4\nWatch: https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gam2b7b576a7d
+URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gam2b7b576a7d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-northern-g-private-md-bishop-walsh-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T200000
+SUMMARY:Boys Soccer: Private- MD-Bishop Walsh at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Final: Northern-G 0\, Private- MD-Bishop Walsh 2\nWatch: https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gambaebb7a68e
+URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gambaebb7a68e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-northern-g-private-md-lighthouse-christian-academy-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T180000
+DTEND;TZID=America/New_York:20261006T200000
+SUMMARY:Boys Soccer: Private -MD-Lighthouse Christian Academy at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Final: Northern-G 0\, Private -MD-Lighthouse Christian Academy 5\nWatch: https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gamae936a5681
+URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gamae936a5681
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-northern-g-southern-g-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261008T093000
+DTEND;TZID=America/New_York:20261008T113000
+SUMMARY:Boys Soccer: Southern-G at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Final: Northern-G 0\, Southern-G 1\nWatch: https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gamf2d120382b
+URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gamf2d120382b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-northern-g-wv-frankfort-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261013T180000
+DTEND;TZID=America/New_York:20261013T200000
+SUMMARY:Boys Soccer: WV-Frankfort at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gam7dfceb2020\nTickets: https://gofan.co/event/6712998
+URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gam7dfceb2020
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-allegany-northern-g-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261015T170000
+DTEND;TZID=America/New_York:20261015T190000
+SUMMARY:Boys Soccer: Northern-G at Allegany
+LOCATION:Allegany
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam59bca55993
+URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam59bca55993
+END:VEVENT
+END:VCALENDAR

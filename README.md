@@ -1,9 +1,10 @@
 # Old Line Rankings
 
 Static sites ranking every Maryland public high school team. A splash page at the root links to each sport:
-soccer (boys & girls, 1A–4A) at `/soccer/` and football (4A, 4A/3A, 3A, 2A, 2A/1A, 1A) at `/football/`;
-lacrosse is listed as coming soon. Every site's footer has a sport switcher. Old soccer links at the root
-(`/#/boys/4A`) redirect to `/soccer/`.
+football (4A, 4A/3A, 3A, 2A, 2A/1A, 1A) at `/football/`, boys soccer at `/boys-soccer/` and girls soccer at
+`/girls-soccer/` (1A–4A);
+lacrosse is listed as coming soon. Every site's footer has a sport switcher. Old soccer links (`/#/boys/4A`, `/soccer/…`)
+redirect to the right soccer site.
 
 ## Rating
 - **Win:** opponent class points + opponent's season wins
@@ -13,12 +14,12 @@ lacrosse is listed as coming soon. Every site's footer has a sport switcher. Old
 - **Loss:** 0
 - Opponent wins count their ties as half a win. Non-public / out-of-state opponents = lowest class, 0 wins.
 - Football counts only the first meeting between two teams (MPSSAA football bulletin).
-- Soccer's Old Line Rating = total points ÷ games played, ranked within class. For football the same formula
-  is the MPSSAA points (football's Old Line Rating is margin-based; see below).
+- Soccer's Old Line Ranking = total points ÷ games played, ranked within class. For football the same formula
+  is the MPSSAA points (football's Old Line Ranking is margin-based; see below).
 - SOS (strength of schedule) = the rating a team would have if it had won every game.
 
-## Old Line Rating (football)
-Football is ranked by the Old Line Rating (`scripts/oldline.py`); MPSSAA points are kept for seeding.
+## Old Line Ranking (football)
+Football is ranked by the Old Line Ranking (`scripts/oldline.py`); MPSSAA points are kept for seeding.
 - Each game counts the scoring margin capped at 28, plus 4 for a win (minus 4 for a loss).
 - A team's rating is its average game value plus its opponents' average rating, solved for all teams at
   once, pulled toward its class average by 3 games' worth. Home edge is measured from the data (floored at 0).
@@ -34,7 +35,7 @@ Each sport seeds the way its MPSSAA bulletin says (`playoffs` in `SITES`):
 The Final 8 is reseeded 1–8 by the same number. The page shows each region's mini bracket, then the state bracket:
 - **Current:** today's seeds and first-round matchups only; later rounds and the Final 8 bracket stay empty.
 - **Projected:** the rest of the regular season and every playoff game go to the favorite and every game is shown.
-  Football has two projections, by Old Line Rating (with win chances) and by MPSSAA points; soccer uses its rating.
+  Every remaining game goes to the team with the higher Old Line Ranking (football also shows each team's win chance).
 - **Final 8 odds (football):** every team makes its region playoffs (regions have at most 8 teams), so odds measure how
   far it goes (Final 8, semifinals, state final, title), from 2,000 simulated seasons and playoffs.
 
@@ -45,12 +46,13 @@ the team drawer (live or replay). If NFHS can't be reached the build continues w
 
 ## Layout
 - `site/` — the deployable site: splash `index.html` and shared `app.js`, `flag.js`, `styles.css`, `logos/`
-- `site/soccer/`, `site/football/` — each sport's `index.html` + `data.js` (use the shared assets)
+- `site/football/`, `site/boys-soccer/`, `site/girls-soccer/` — each site's `index.html`, `data.js` and `cal/` team calendars
+- `site/soccer/` — redirect for old soccer links
 - `scripts/build.py` — fetches results and writes each site's `data.js` and `index.html`. Sport differences
   (divisions, classes and points, regions, labels) live in its `SITES` config and are passed to `app.js`.
 - `scripts/page.html` — page template for every sport; `scripts/splash.html` — splash template
   (edit these, not the generated `index.html` files). Add coming-soon sports to `COMING` in `build.py`.
-- `scripts/oldline.py` — Old Line Rating and simulations; `scripts/nfhs.py` — watch links; `scripts/icons.py` — sport icons
+- `scripts/oldline.py` — Old Line Ranking and simulations; `scripts/nfhs.py` — watch links; `scripts/icons.py` — sport icons
 - `scripts/schools.py` — downloads school logos, mascots and counties (needs Pillow: `.venv`)
 
 ## Update

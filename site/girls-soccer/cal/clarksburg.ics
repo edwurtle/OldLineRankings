@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Clarksburg Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-sherwood-clarksburg-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260904T191500
+DTEND;TZID=America/New_York:20260904T211500
+SUMMARY:Girls Soccer: Clarksburg at Sherwood
+LOCATION:Sherwood
+DESCRIPTION:Final: Clarksburg 1\, Sherwood 8\nWatch: https://www.nfhsnetwork.com/events/sherwood-high-school-sandy-spring-md/gam005a22ab17
+URL:https://www.nfhsnetwork.com/events/sherwood-high-school-sandy-spring-md/gam005a22ab17
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-09-clarksburg-montgomery-blair-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260909T191500
+DTEND;TZID=America/New_York:20260909T211500
+SUMMARY:Girls Soccer: Montgomery Blair at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Final: Clarksburg 0\, Montgomery Blair 6\nWatch: https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gam61445a82d6
+URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gam61445a82d6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-watkins-mill-clarksburg-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260914T191500
+DTEND;TZID=America/New_York:20260914T211500
+SUMMARY:Girls Soccer: Clarksburg at Watkins Mill
+LOCATION:Watkins Mill
+DESCRIPTION:Final: Clarksburg 5\, Watkins Mill 1\nWatch: https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gambee63ca4f1
+URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gambee63ca4f1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-23-clarksburg-northwest-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260923T191500
+DTEND;TZID=America/New_York:20260923T211500
+SUMMARY:Girls Soccer: Northwest at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Final: Clarksburg 1\, Northwest 5\nWatch: https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gambaeb9f08d9
+URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gambaeb9f08d9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-damascus-clarksburg-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:Girls Soccer: Clarksburg at Damascus
+LOCATION:Damascus
+DESCRIPTION:Final: Clarksburg 1\, Damascus 2\nWatch: https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/gamedc3d9cafe
+URL:https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/gamedc3d9cafe
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-poolesville-clarksburg-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20260928T191500
+DTEND;TZID=America/New_York:20260928T211500
+SUMMARY:Girls Soccer: Clarksburg at Poolesville
+LOCATION:Poolesville
+DESCRIPTION:Final: Clarksburg 0\, Poolesville 7\nWatch: https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/gam3fbe309f12
+URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/gam3fbe309f12
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-clarksburg-walt-whitman-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Girls Soccer: Walt Whitman at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Final: Clarksburg 0\, Walt Whitman 8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-clarksburg-paint-branch-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Girls Soccer: Paint Branch at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Final: Clarksburg 6\, Paint Branch 5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-clarksburg-seneca-valley-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261008T191500
+DTEND;TZID=America/New_York:20261008T211500
+SUMMARY:Girls Soccer: Seneca Valley at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Final: Clarksburg 1\, Seneca Valley 4\nWatch: https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam0e864b09f5
+URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam0e864b09f5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-clarksburg-quince-orchard-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261012T171500
+DTEND;TZID=America/New_York:20261012T191500
+SUMMARY:Girls Soccer: Quince Orchard at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gamac6f66d6cf\nTickets: https://gofan.co/event/6706749
+URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gamac6f66d6cf
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-clarksburg-gaithersburg-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261015T171500
+DTEND;TZID=America/New_York:20261015T191500
+SUMMARY:Girls Soccer: Gaithersburg at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/gaithersburg-high-school-gaithersburg-md/gam64916be07e\nTickets: https://gofan.co/event/6707036
+URL:https://www.nfhsnetwork.com/events/gaithersburg-high-school-gaithersburg-md/gam64916be07e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-clarksburg-springbrook-girls-soccer@oldlinerankings
+DTSTAMP:20261012T190417Z
+DTSTART;TZID=America/New_York:20261022T191500
+DTEND;TZID=America/New_York:20261022T211500
+SUMMARY:Girls Soccer: Springbrook at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/gam8e15cf528a\nTickets: https://gofan.co/event/6708971
+URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/gam8e15cf528a
+END:VEVENT
+END:VCALENDAR

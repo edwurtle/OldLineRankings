@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Chesapeake-AA Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-linganore-chesapeake-aa-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260904T190000
+DTEND;TZID=America/New_York:20260904T210000
+SUMMARY:Boys Soccer: Chesapeake-AA at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Chesapeake-AA 1\, Linganore 2\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamdcf81826da
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamdcf81826da
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-oakdale-chesapeake-aa-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T190000
+DTEND;TZID=America/New_York:20260905T210000
+SUMMARY:Boys Soccer: Chesapeake-AA at Oakdale
+LOCATION:Oakdale
+DESCRIPTION:Final: Chesapeake-AA 1\, Oakdale 0\nWatch: https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam7bd566bf07
+URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam7bd566bf07
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-chesapeake-aa-northeast-aa-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Boys Soccer: Northeast-AA at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Chesapeake-AA 2\, Northeast-AA 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-chesapeake-aa-north-county-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Boys Soccer: North County at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Chesapeake-AA 5\, North County 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-chesapeake-science-point-chesapeake-aa-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260922T170000
+DTEND;TZID=America/New_York:20260922T190000
+SUMMARY:Boys Soccer: Chesapeake-AA at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Chesapeake-AA 4\, Chesapeake Science Point 0\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamf5a81d3e85
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamf5a81d3e85
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-chesapeake-aa-crofton-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Boys Soccer: Crofton at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Chesapeake-AA 2\, Crofton 1\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/game3b454aa50
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/game3b454aa50
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-chesapeake-aa-meade-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T170000
+DTEND;TZID=America/New_York:20260929T190000
+SUMMARY:Boys Soccer: Meade at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Chesapeake-AA 2\, Meade 0\nWatch: https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/game848e0d21c
+URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/game848e0d21c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-chesapeake-aa-arundel-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261001T190000
+DTEND;TZID=America/New_York:20261001T210000
+SUMMARY:Boys Soccer: Arundel at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Chesapeake-AA 2\, Arundel 1\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam68318391ce
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam68318391ce
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-chesapeake-aa-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T170000
+DTEND;TZID=America/New_York:20261006T190000
+SUMMARY:Boys Soccer: Glen Burnie at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Chesapeake-AA 0\, Glen Burnie 0\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam2fb80f9bf2
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam2fb80f9bf2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-chesapeake-aa-severna-park-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261008T190000
+DTEND;TZID=America/New_York:20261008T210000
+SUMMARY:Boys Soccer: Severna Park at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Final: Chesapeake-AA 1\, Severna Park 2\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamf413c8ca24
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamf413c8ca24
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-chesapeake-aa-old-mill-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Boys Soccer: Old Mill at Chesapeake-AA
+LOCATION:Chesapeake-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-chesapeake-aa-broadneck-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261015T190000
+DTEND;TZID=America/New_York:20261015T210000
+SUMMARY:Boys Soccer: Broadneck at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam65b1fbd72e\nTickets: https://gofan.co/event/6728469
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam65b1fbd72e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-chesapeake-aa-south-river-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261020T170000
+DTEND;TZID=America/New_York:20261020T190000
+SUMMARY:Boys Soccer: South River at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamd2b91b5156\nTickets: https://gofan.co/event/6728468
+URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamd2b91b5156
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-chesapeake-aa-annapolis-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261022T190000
+DTEND;TZID=America/New_York:20261022T210000
+SUMMARY:Boys Soccer: Annapolis at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gamef06a3e6cd
+URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gamef06a3e6cd
+END:VEVENT
+END:VCALENDAR

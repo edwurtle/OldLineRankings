@@ -6,7 +6,7 @@ X-WR-CALNAME:Parkside Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-parkside-de-delmar-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: DE- Delmar at Parkside
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Parkside 48\, DE- Delmar 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-parkside-easton-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: Easton at Parkside
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Parkside 14\, Easton 46
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-parkside-james-m-bennett-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Football: James M. Bennett at Parkside
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Parkside 27\, James M. Bennett 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-colonel-richardson-parkside-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T200000
 SUMMARY:Football: Parkside at Colonel Richardson
@@ -43,7 +43,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-parkside-wicomico-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Football: Wicomico at Parkside
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Parkside 14\, Wicomico 28
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-parkside-kent-island-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Football: Kent Island at Parkside
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Parkside 6\, Kent Island 28
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-north-caroline-parkside-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Football: Parkside at North Caroline
@@ -69,7 +69,7 @@ LOCATION:North Caroline
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-parkside-queen-anne-s-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;TZID=America/New_York:20261024T120000
 DTEND;TZID=America/New_York:20261024T140000
 SUMMARY:Football: Queen Anne's at Parkside
@@ -79,7 +79,7 @@ URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-parkside-stephen-decatur-football@oldlinerankings
-DTSTAMP:20261012T184617Z
+DTSTAMP:20261012T190313Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Football: Stephen Decatur at Parkside

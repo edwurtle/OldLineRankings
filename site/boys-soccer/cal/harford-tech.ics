@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Harford Tech Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-harford-tech-hereford-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T082000
+DTEND;TZID=America/New_York:20260905T102000
+SUMMARY:Boys Soccer: Hereford at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Harford Tech 3\, Hereford 2\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam068f0b9056
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam068f0b9056
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-harford-tech-eastern-tech-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T132000
+DTEND;TZID=America/New_York:20260905T152000
+SUMMARY:Boys Soccer: Eastern Tech at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Harford Tech 0\, Eastern Tech 1\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam6f78e2120c
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam6f78e2120c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-harford-tech-patterson-mill-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260910T170000
+DTEND;TZID=America/New_York:20260910T190000
+SUMMARY:Boys Soccer: Patterson Mill at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Harford Tech 0\, Patterson Mill 3\nWatch: https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gamc68fe3ad45
+URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gamc68fe3ad45
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-harford-tech-c-milton-wright-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T190000
+SUMMARY:Boys Soccer: C. Milton Wright at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Harford Tech 1\, C. Milton Wright 3\nWatch: https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/game13a74cd73
+URL:https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/game13a74cd73
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-harford-tech-rising-sun-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260917T190000
+DTEND;TZID=America/New_York:20260917T210000
+SUMMARY:Boys Soccer: Rising Sun at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Harford Tech 2\, Rising Sun 0\nWatch: https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gam5f52e4f08a
+URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gam5f52e4f08a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-harford-tech-edgewood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Boys Soccer: Edgewood at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Harford Tech 4\, Edgewood 0\nWatch: https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gamdcce44c0fd
+URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gamdcce44c0fd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-harford-tech-havre-de-grace-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Boys Soccer: Havre de Grace at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Harford Tech 1\, Havre de Grace 0\nWatch: https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gama794b173bf
+URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gama794b173bf
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-harford-tech-perryville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Boys Soccer: Perryville at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Harford Tech 3\, Perryville 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-perryville-harford-tech-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260930T190000
+DTEND;TZID=America/New_York:20260930T210000
+SUMMARY:Boys Soccer: Harford Tech at Perryville
+LOCATION:Perryville
+DESCRIPTION:Final: Harford Tech 3\, Perryville 1\nWatch: https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gam46281f6a5a
+URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/gam46281f6a5a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-harford-tech-north-harford-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261001T173000
+DTEND;TZID=America/New_York:20261001T193000
+SUMMARY:Boys Soccer: North Harford at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Harford Tech 3\, North Harford 1\nWatch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam65e861c822
+URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam65e861c822
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-harford-tech-aberdeen-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261005T190000
+DTEND;TZID=America/New_York:20261005T210000
+SUMMARY:Boys Soccer: Aberdeen at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Harford Tech 3\, Aberdeen 1\nWatch: https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/game533e6bb76
+URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/game533e6bb76
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-harford-tech-bel-air-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261009T185000
+DTEND;TZID=America/New_York:20261009T205000
+SUMMARY:Boys Soccer: Bel Air at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Final: Harford Tech 1\, Bel Air 0\nWatch: https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam52cfc05099
+URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam52cfc05099
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-harford-tech-fallston-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T210000
+SUMMARY:Boys Soccer: Fallston at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam764b9bd2a1\nTickets: https://gofan.co/event/6704218
+URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gam764b9bd2a1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-harford-tech-perry-hall-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261021T153000
+DTEND;TZID=America/New_York:20261021T173000
+SUMMARY:Boys Soccer: Perry Hall at Harford Tech
+LOCATION:Harford Tech
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/perry-hall-high-school-baltimore-md/gam09640900ff
+URL:https://www.nfhsnetwork.com/events/perry-hall-high-school-baltimore-md/gam09640900ff
+END:VEVENT
+END:VCALENDAR

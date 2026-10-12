@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Albert Einstein Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-albert-einstein-james-hubert-blake-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260908T191500
+DTEND;TZID=America/New_York:20260908T211500
+SUMMARY:Boys Soccer: James Hubert Blake at Albert Einstein
+LOCATION:Albert Einstein
+DESCRIPTION:Final: Albert Einstein 2\, James Hubert Blake 3\nWatch: https://www.nfhsnetwork.com/events/james-hubert-blake-high-school-silver-spring-md/gam644380d079
+URL:https://www.nfhsnetwork.com/events/james-hubert-blake-high-school-silver-spring-md/gam644380d079
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-albert-einstein-john-f-kennedy-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260922T191500
+DTEND;TZID=America/New_York:20260922T211500
+SUMMARY:Boys Soccer: John F. Kennedy at Albert Einstein
+LOCATION:Albert Einstein
+DESCRIPTION:Final: Albert Einstein 1\, John F. Kennedy 1\nWatch: https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gama4ef3d3fcc
+URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gama4ef3d3fcc
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-albert-einstein-wheaton-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:Boys Soccer: Wheaton at Albert Einstein
+LOCATION:Albert Einstein
+DESCRIPTION:Final: Albert Einstein 0\, Wheaton 0\nWatch: https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam0d48494777
+URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam0d48494777
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-albert-einstein-montgomery-blair-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T191500
+DTEND;TZID=America/New_York:20260929T211500
+SUMMARY:Boys Soccer: Montgomery Blair at Albert Einstein
+LOCATION:Albert Einstein
+DESCRIPTION:Final: Albert Einstein 4\, Montgomery Blair 2\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam5fadebbb57
+URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam5fadebbb57
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-albert-einstein-richard-montgomery-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261001T191500
+DTEND;TZID=America/New_York:20261001T211500
+SUMMARY:Boys Soccer: Richard Montgomery at Albert Einstein
+LOCATION:Albert Einstein
+DESCRIPTION:Final: Albert Einstein 0\, Richard Montgomery 1\nWatch: https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam985491006a
+URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam985491006a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-northwood-albert-einstein-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261005T173000
+DTEND;TZID=America/New_York:20261005T193000
+SUMMARY:Boys Soccer: Albert Einstein at Northwood
+LOCATION:Northwood
+DESCRIPTION:Final: Albert Einstein 2\, Northwood 3\nWatch: https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/gambbe148da18
+URL:https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/gambbe148da18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-walt-whitman-albert-einstein-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261007T191500
+DTEND;TZID=America/New_York:20261007T211500
+SUMMARY:Boys Soccer: Albert Einstein at Walt Whitman
+LOCATION:Walt Whitman
+DESCRIPTION:Final: Albert Einstein 1\, Walt Whitman 2\nWatch: https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam4e9e71e087
+URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam4e9e71e087
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-rockville-albert-einstein-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Boys Soccer: Albert Einstein at Rockville
+LOCATION:Rockville
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-bethesda-cc-albert-einstein-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261012T191500
+DTEND;TZID=America/New_York:20261012T211500
+SUMMARY:Boys Soccer: Albert Einstein at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gamd404e48c48\nTickets: https://gofan.co/event/6706555
+URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gamd404e48c48
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-col-zadok-magruder-albert-einstein-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261014T191500
+DTEND;TZID=America/New_York:20261014T211500
+SUMMARY:Boys Soccer: Albert Einstein at Col. Zadok Magruder
+LOCATION:Col. Zadok Magruder
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam178bfbda63\nTickets: https://gofan.co/event/6707149
+URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam178bfbda63
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-albert-einstein-paint-branch-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261019T191500
+DTEND;TZID=America/New_York:20261019T211500
+SUMMARY:Boys Soccer: Paint Branch at Albert Einstein
+LOCATION:Albert Einstein
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gam8d30ae8a95\nTickets: https://gofan.co/event/6708989
+URL:https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/gam8d30ae8a95
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-poolesville-albert-einstein-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261021T191500
+DTEND;TZID=America/New_York:20261021T211500
+SUMMARY:Boys Soccer: Albert Einstein at Poolesville
+LOCATION:Poolesville
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam9c26e2752b\nTickets: https://gofan.co/event/6706998
+URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam9c26e2752b
+END:VEVENT
+END:VCALENDAR

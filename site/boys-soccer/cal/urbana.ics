@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Urbana Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-howard-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T190000
+DTEND;TZID=America/New_York:20260905T210000
+SUMMARY:Boys Soccer: Urbana at Howard
+LOCATION:Howard
+DESCRIPTION:Final: Urbana 2\, Howard 0\nWatch: https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gama8cf0ee513
+URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gama8cf0ee513
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-urbana-winston-churchill-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Boys Soccer: Winston Churchill at Urbana
+LOCATION:Urbana
+DESCRIPTION:Final: Urbana 0\, Winston Churchill 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-liberty-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Boys Soccer: Urbana at Liberty
+LOCATION:Liberty
+DESCRIPTION:Final: Urbana 6\, Liberty 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-oakdale-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260918T190000
+DTEND;TZID=America/New_York:20260918T210000
+SUMMARY:Boys Soccer: Urbana at Oakdale
+LOCATION:Oakdale
+DESCRIPTION:Final: Urbana 2\, Oakdale 0\nWatch: https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam1ae7fcb1a4
+URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam1ae7fcb1a4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-frederick-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Boys Soccer: Urbana at Frederick
+LOCATION:Frederick
+DESCRIPTION:Final: Urbana 5\, Frederick 1\nWatch: https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gam8e5ec69cfd
+URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gam8e5ec69cfd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-tuscarora-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Boys Soccer: Urbana at Tuscarora
+LOCATION:Tuscarora
+DESCRIPTION:Final: Urbana 1\, Tuscarora 1\nWatch: https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam50fd2312d1
+URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam50fd2312d1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-gov-thomas-johnson-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T190000
+DTEND;TZID=America/New_York:20260929T210000
+SUMMARY:Boys Soccer: Urbana at Gov. Thomas Johnson
+LOCATION:Gov. Thomas Johnson
+DESCRIPTION:Final: Urbana 4\, Gov. Thomas Johnson 1\nWatch: https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gamb0da8f0213
+URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gamb0da8f0213
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-middletown-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261001T190000
+DTEND;TZID=America/New_York:20261001T210000
+SUMMARY:Boys Soccer: Urbana at Middletown
+LOCATION:Middletown
+DESCRIPTION:Final: Urbana 6\, Middletown 0\nWatch: https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam3080d6c9b4
+URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam3080d6c9b4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-linganore-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T210000
+SUMMARY:Boys Soccer: Urbana at Linganore
+LOCATION:Linganore
+DESCRIPTION:Final: Urbana 4\, Linganore 0\nWatch: https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam904e764c9e
+URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam904e764c9e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-north-hagerstown-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Boys Soccer: Urbana at North Hagerstown
+LOCATION:North Hagerstown
+DESCRIPTION:Final: Urbana 3\, North Hagerstown 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-bel-air-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261013T173000
+DTEND;TZID=America/New_York:20261013T193000
+SUMMARY:Boys Soccer: Urbana at Bel Air
+LOCATION:Bel Air
+DESCRIPTION:Tickets: https://gofan.co/event/6931320
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-south-hagerstown-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261015T190000
+DTEND;TZID=America/New_York:20261015T210000
+SUMMARY:Boys Soccer: Urbana at South Hagerstown
+LOCATION:South Hagerstown
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gamb9f100e85d\nTickets: https://gofan.co/event/6715479
+URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gamb9f100e85d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-westminster-urbana-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261019T190000
+DTEND;TZID=America/New_York:20261019T210000
+SUMMARY:Boys Soccer: Urbana at Westminster
+LOCATION:Westminster
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam4c20d1dc56\nTickets: https://gofan.co/event/6715447
+URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam4c20d1dc56
+END:VEVENT
+END:VCALENDAR

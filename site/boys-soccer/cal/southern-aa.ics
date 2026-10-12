@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Southern-AA Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-05-catonsville-southern-aa-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T200000
+DTEND;TZID=America/New_York:20260905T220000
+SUMMARY:Boys Soccer: Southern-AA at Catonsville
+LOCATION:Catonsville
+DESCRIPTION:Final: Southern-AA 0\, Catonsville 2\nWatch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam87b4e5824f
+URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam87b4e5824f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-south-river-southern-aa-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260905T164500
+DTEND;TZID=America/New_York:20260905T184500
+SUMMARY:Boys Soccer: Southern-AA at South River
+LOCATION:South River
+DESCRIPTION:Final: Southern-AA 1\, South River 3\nWatch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamcaf01fefae
+URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamcaf01fefae
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-09-southern-aa-old-mill-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260909T190000
+DTEND;TZID=America/New_York:20260909T210000
+SUMMARY:Boys Soccer: Old Mill at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 0\, Old Mill 3\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam5568400e34
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam5568400e34
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-southern-aa-arundel-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T190000
+SUMMARY:Boys Soccer: Arundel at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 1\, Arundel 0\nWatch: https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gamde21de98d9
+URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gamde21de98d9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-southern-aa-crofton-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260922T170000
+DTEND;TZID=America/New_York:20260922T190000
+SUMMARY:Boys Soccer: Crofton at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 1\, Crofton 3\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamd8bb2d3cbd
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamd8bb2d3cbd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-southern-aa-glen-burnie-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T170000
+DTEND;TZID=America/New_York:20260929T190000
+SUMMARY:Boys Soccer: Glen Burnie at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 0\, Glen Burnie 0\nWatch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamfd9b7a6ffb
+URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamfd9b7a6ffb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-southern-aa-north-county-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Boys Soccer: North County at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 1\, North County 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-southern-aa-huntingtown-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T200000
+SUMMARY:Boys Soccer: Huntingtown at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 2\, Huntingtown 3\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gambca8bac452
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gambca8bac452
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-southern-aa-annapolis-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T170000
+DTEND;TZID=America/New_York:20261006T190000
+SUMMARY:Boys Soccer: Annapolis at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 0\, Annapolis 6\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam69f72022fb
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam69f72022fb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-southern-aa-northeast-aa-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261008T190000
+DTEND;TZID=America/New_York:20261008T210000
+SUMMARY:Boys Soccer: Northeast-AA at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Final: Southern-AA 0\, Northeast-AA 1\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam8d98e3f810
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam8d98e3f810
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-southern-aa-meade-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261013T170000
+DTEND;TZID=America/New_York:20261013T190000
+SUMMARY:Boys Soccer: Meade at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamf5e90c037c
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamf5e90c037c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-southern-aa-severna-park-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261015T190000
+DTEND;TZID=America/New_York:20261015T210000
+SUMMARY:Boys Soccer: Severna Park at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam57cf9a663d\nTickets: https://gofan.co/event/6857685
+URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam57cf9a663d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-southern-aa-severn-run-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261020T170000
+DTEND;TZID=America/New_York:20261020T190000
+SUMMARY:Boys Soccer: Severn Run at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamcac93d1789
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamcac93d1789
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-chesapeake-science-point-southern-aa-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261022T190000
+DTEND;TZID=America/New_York:20261022T210000
+SUMMARY:Boys Soccer: Southern-AA at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam1730afaa2d
+URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam1730afaa2d
+END:VEVENT
+END:VCALENDAR

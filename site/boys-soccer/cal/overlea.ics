@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Overlea Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-08-western-tech-overlea-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Boys Soccer: Overlea at Western Tech
+LOCATION:Western Tech
+DESCRIPTION:Final: Overlea 0\, Western Tech 7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-overlea-parkville-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Boys Soccer: Parkville at Overlea
+LOCATION:Overlea
+DESCRIPTION:Final: Overlea 1\, Parkville 4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-overlea-woodlawn-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T180000
+SUMMARY:Boys Soccer: Woodlawn at Overlea
+LOCATION:Overlea
+DESCRIPTION:Final: Overlea 0\, Woodlawn 2\nWatch: https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam7b9a346319
+URL:https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam7b9a346319
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-patapsco-overlea-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Boys Soccer: Overlea at Patapsco
+LOCATION:Patapsco
+DESCRIPTION:Final: Overlea 4\, Patapsco 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-randallstown-overlea-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Boys Soccer: Overlea at Randallstown
+LOCATION:Randallstown
+DESCRIPTION:Final: Overlea 5\, Randallstown 0\nWatch: https://www.nfhsnetwork.com/events/randallstown-high-school-randallstown-md/gam0f333c2d31
+URL:https://www.nfhsnetwork.com/events/randallstown-high-school-randallstown-md/gam0f333c2d31
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-carver-aandt-overlea-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Boys Soccer: Overlea at Carver A&T
+LOCATION:Carver A&T
+DESCRIPTION:Final: Overlea 0\, Carver A&T 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-chesapeake-b-overlea-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Boys Soccer: Overlea at Chesapeake-B
+LOCATION:Chesapeake-B
+DESCRIPTION:Final: Overlea 3\, Chesapeake-B 5\nWatch: https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam6583a3dd05
+URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam6583a3dd05
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-overlea-new-town-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Boys Soccer: New Town at Overlea
+LOCATION:Overlea
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-overlea-franklin-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Boys Soccer: Franklin at Overlea
+LOCATION:Overlea
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-pikesville-overlea-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Boys Soccer: Overlea at Pikesville
+LOCATION:Pikesville
+DESCRIPTION:Tickets: https://gofan.co/event/6737818
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-overlea-kenwood-boys-soccer@oldlinerankings
+DTSTAMP:20261012T190344Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Boys Soccer: Kenwood at Overlea
+LOCATION:Overlea
+DESCRIPTION:Tickets: https://gofan.co/event/6737817
+END:VEVENT
+END:VCALENDAR
