@@ -295,7 +295,7 @@ function renderHow() {
   </div></section>
   <div class="wrap how-page">
     <div class="note-fun"><b>Just for fun.</b> The Old Line Rating is a computer ranking built only from scores and schedules.
-      It doesn't know about injuries, weather, lineups or anything else that happens on the field, so it won't always get it right.
+      It doesn't know about injuries, weather, lineups or anything else that happens on the field.
       This site is for fun and curiosity, and no offense is meant to any team, player or coach.
       <b>The outcome is always decided on the field, not by a computer.</b></div>
     ${howOLR()}
