@@ -746,7 +746,6 @@ document.getElementById("dBody").addEventListener("click", e => {
   if (!e.target.closest("#olrBtn")) return;
   const box = document.getElementById("olrBreak");
   box.hidden = !box.hidden;
-  if (!box.hidden) box.scrollIntoView({behavior: "smooth", block: "start"});
 });
 function closeDrawer() { drawer.classList.remove("open"); drawer.setAttribute("aria-hidden", "true"); scrim.classList.remove("open"); }
 
