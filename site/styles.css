@@ -365,6 +365,10 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 .slot { display: grid; grid-template-columns: 22px 26px 1fr auto; gap: 8px; align-items: center; padding: 7px 10px; cursor: pointer; }
 .slot + .slot { border-top: 1px solid var(--border); }
 .slot:hover { background: var(--surface-2); }
+/* Rounded like the match box, so the hover highlight doesn't poke past its corners (the box can't clip:
+   the bracket connector lines sit outside it) */
+.match > .slot:first-child { border-top-left-radius: 11px; border-top-right-radius: 11px; }
+.match > .slot:last-child { border-bottom-left-radius: 11px; border-bottom-right-radius: 11px; }
 .slot .seed { font-size: 12px; color: var(--muted); text-align: center; }
 .slot .nm { font-size: 13px; font-weight: 600; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .slot .nm small { display: block; font-size: 11px; font-weight: 500; color: var(--muted); white-space: normal; line-height: 1.35; }
