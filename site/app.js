@@ -516,7 +516,7 @@ function renderFinal8(r) {
   // Each record carries its own seeding number where that isn't just the record (football's MPSSAA points)
   const pts = (x, label) => SEEDS_BY_POINTS ? ` · ${x.avg.toFixed(2)} ${label}` : "";
   const nowLine = t => `${projected ? "now " : ""}${recTxt(t)}${pts(t, "MPSSAA")}`;
-  const projLine = t => `<span class="proj-tag">proj ${recTxt(t.proj)}</span>${pts(t.proj, "proj MPSSAA")}`;
+  const projLine = t => `<span class="proj-tag">projected ${recTxt(t.proj)}</span>${pts(t.proj, "projected MPSSAA")}`;
   // Projected view shows the projected record next to the actual one
   // Region (mini) brackets get a short detail line: record and seeding number
   const slotFor = (seedOf, mini) => (x, p, cls) => {
