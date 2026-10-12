@@ -296,8 +296,35 @@ td.team-td { white-space: normal; width: 100%; }  /* the only column allowed to 
 .footer { background: var(--md-black); color: var(--ink-muted); padding: 22px 0; font-size: 13px; margin-top: 40px; }
 .footer .wrap { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
 .footer .muted { color: #8a857b; margin-left: auto; }
-.footer .other-site { color: var(--md-gold); font-weight: 700; }
-.footer .other-site:hover { text-decoration: underline; }
+/* Footer: Old Line Rankings home + sport switcher */
+.footer .family-home { color: var(--ink); font-weight: 700; }
+.footer .family-home:hover { color: var(--md-gold); }
+.family { display: flex; gap: 6px; flex-wrap: wrap; }
+.family a, .family span { padding: 4px 10px; border-radius: 999px; border: 1px solid #2c2c2c; color: var(--ink-muted); white-space: nowrap; }
+.family a:hover { color: var(--ink); border-color: #4a4a4a; }
+.family a.on { background: var(--md-gold); border-color: var(--md-gold); color: var(--md-black); font-weight: 700; }
+.family .soon { opacity: .55; }
+.family .soon small { font-size: 10px; text-transform: uppercase; letter-spacing: .08em; }
+
+/* Splash: one card per sport */
+.sport-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 18px; }
+.sport-card { display: flex; flex-direction: column; background: var(--surface); border: 1px solid var(--border); border-radius: 18px; box-shadow: var(--shadow); padding: 18px; transition: transform .15s, border-color .15s; }
+a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
+.sport-top { display: flex; gap: 14px; align-items: center; }
+.sport-icon { font-size: 40px; line-height: 1; }
+.sport-top h2 { margin: 0; font-family: "Barlow Condensed", sans-serif; font-size: 32px; font-weight: 800; text-transform: uppercase; line-height: 1; }
+.sport-top small { color: var(--muted); font-size: 13px; }
+.ranked-by { margin-top: 14px; padding: 8px 10px; border-radius: 10px; background: var(--surface-2); font-size: 13px; color: var(--muted); }
+.ranked-by b { color: var(--text); font-weight: 700; }
+.sport-sub { margin: 16px 0 6px; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); }
+.leaders { list-style: none; margin: 0 0 14px; padding: 0; display: grid; gap: 2px; }
+.leaders li { display: grid; grid-template-columns: 26px 1fr auto; gap: 10px; align-items: center; padding: 5px 0; border-bottom: 1px solid var(--border); font-size: 14px; }
+.leaders li:last-child { border-bottom: 0; }
+.leaders b { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.leaders small { color: var(--muted); font-size: 12px; font-weight: 600; }
+.sport-go { margin-top: auto; font-weight: 700; color: var(--accent-ink); }
+.sport-card.soon { opacity: .6; border-style: dashed; box-shadow: none; }
+.sport-card.soon .sport-go { margin-top: 18px; color: var(--muted); }
 
 /* Final 8 bracket. Every column's games area is the same height and each match sits centred in an
    equal share of it, so a pair of feeders (centred at 25% / 75% of the pair) lines up with the next

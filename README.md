@@ -1,7 +1,9 @@
 # Old Line Rankings
 
-Static sites ranking every Maryland public high school team: soccer (boys & girls, 1A–4A) at the root and
-football (4A, 4A/3A, 3A, 2A, 2A/1A, 1A) at `/football/`. Each site's footer links to the other.
+Static sites ranking every Maryland public high school team. A splash page at the root links to each sport:
+soccer (boys & girls, 1A–4A) at `/soccer/` and football (4A, 4A/3A, 3A, 2A, 2A/1A, 1A) at `/football/`;
+lacrosse is listed as coming soon. Every site's footer has a sport switcher. Old soccer links at the root
+(`/#/boys/4A`) redirect to `/soccer/`.
 
 ## Rating
 - **Win:** opponent class points + opponent's season wins
@@ -29,11 +31,12 @@ playoff game go to the Old Line Rating favorite, with the full bracket filled in
 simulated seasons and playoffs.
 
 ## Layout
-- `site/` — the deployable site: shared `app.js`, `styles.css`, `logos/`; soccer's `index.html` + `data.js`
-- `site/football/` — football's `index.html` + `data.js` (uses the shared assets)
+- `site/` — the deployable site: splash `index.html` and shared `app.js`, `flag.js`, `styles.css`, `logos/`
+- `site/soccer/`, `site/football/` — each sport's `index.html` + `data.js` (use the shared assets)
 - `scripts/build.py` — fetches results and writes each site's `data.js` and `index.html`. Sport differences
   (divisions, classes and points, regions, labels) live in its `SITES` config and are passed to `app.js`.
-- `scripts/page.html` — page template for both sites (edit this, not the generated `index.html` files)
+- `scripts/page.html` — page template for every sport; `scripts/splash.html` — splash template
+  (edit these, not the generated `index.html` files). Add coming-soon sports to `COMING` in `build.py`.
 - `scripts/schools.py` — downloads school logos, mascots and counties (needs Pillow: `.venv`)
 
 ## Update
@@ -43,7 +46,7 @@ python3 scripts/build.py              # refresh results for both sites (run anyt
 ```
 
 ## View
-Open `site/index.html` directly, or serve it: `python3 -m http.server -d site 8000` → http://localhost:8000
+Serve it: `python3 -m http.server -d site 8000` → http://localhost:8000 (splash), `/soccer/`, `/football/`
 
 ## Hosting
 Deployed to GitHub Pages by `.github/workflows/deploy.yml`, which runs nightly (and on every push to `main`),

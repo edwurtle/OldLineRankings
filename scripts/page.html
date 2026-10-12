@@ -29,8 +29,8 @@
 <footer class="footer">
   <div class="wrap">
     <span class="brand-flag small" data-flag></span>
-    <span>Old Line Rankings · Maryland public high school {{sport_lower}}</span>
-    <span id="otherSites"></span>
+    <a class="family-home" href="{{root}}">Old Line Rankings</a>
+    <nav class="family" id="family" aria-label="Sports"></nav>
     <span class="muted" id="updated"></span>
   </div>
 </footer>
@@ -52,6 +52,7 @@
   <div class="dbody" id="dBody"></div>
 </aside>
 
+<script src="{{root}}flag.js?v={{stamp}}"></script>
 <script src="data.js?v={{stamp}}"></script>
 <script src="{{root}}app.js?v={{stamp}}"></script>
 </body>

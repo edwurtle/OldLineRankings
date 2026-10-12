@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch results and write power rankings for each site (soccer at site/, football at site/football/).
+"""Fetch results and write rankings for each site (site/soccer/, site/football/) and the splash page (site/).
 
 Power points per game:
   win  = opponent class points (soccer: 1A=5 .. 4A=8; football: MPSSAA seeding values 6/7/8)
@@ -14,7 +14,7 @@ would have earned had it won every game.
 Football is ranked by the Old Line Rating instead (see oldline.py); its MPSSAA points are kept
 for playoff seeding.
 """
-import collections, datetime, json, pathlib, re, subprocess
+import collections, datetime, html, json, pathlib, re, subprocess
 import oldline
 
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
@@ -23,7 +23,8 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 # Everything that differs between the sites. Shared by build.py and passed to app.js as DATA.config.
 SITES = {
     "soccer": dict(
-        out="site", sport="Soccer", icon="⚽",
+        out="site/soccer", sport="Soccer", icon="⚽", season="Fall",
+        ranked_by="Power points: opponent class + opponent wins, per game",
         divisions={"boys": dict(label="Boys", api="boys-soccer"), "girls": dict(label="Girls", api="girls-soccer")},
         classes={"4A": 8, "3A": 7, "2A": 6, "1A": 5},
         regions=["East I", "East II", "North I", "North II", "South I", "South II", "West I", "West II"],
@@ -31,7 +32,8 @@ SITES = {
         ties=True, example=dict(cls="3A", W=7, L=2, T=1),
     ),
     "football": dict(
-        out="site/football", sport="Football", icon="🏈",
+        out="site/football", sport="Football", icon="🏈", season="Fall",
+        ranked_by="Old Line Rating: capped scoring margins + opponent strength",
         divisions={"football": dict(label="Football", api="football")},
         # MPSSAA football seeding win points (Football Tournament Bulletin, "Classification Win Points")
         classes={"4A": 8, "4A_3A": 8, "3A": 7, "2A": 7, "2A_1A": 6, "1A": 6},
@@ -47,6 +49,9 @@ SITES = {
         olr=dict(cap=28, win_bonus=4, prior=3, k=0.175),
     ),
 }
+
+# Sports shown on the splash page and in the footer before they have a site
+COMING = [dict(sport="Lacrosse", icon="🥍", note="Boys & girls · coming spring 2027")]
 
 # Opponent spellings that refer to member schools
 ALIAS = {"Mt. Hebron": "Mount Hebron", "Flowers HS": "Charles H. Flowers", "Wise HS": "Dr. Henry A. Wise",
@@ -271,11 +276,12 @@ def build_site(key, cfg, nonce, stamp):
     schools, missing = match_schools(names, root)
     if missing:
         print("No directory match for:", missing)
-    # Links to the other sites, relative to this one (footer)
-    others = [dict(sport=c["sport"], icon=c["icon"], href=root + "".join(p + "/" for p in pathlib.Path(c["out"]).parts[1:]))
-              for k, c in SITES.items() if k != key]
+    # Every sport, for the footer switcher (paths relative to this site)
+    family = dict(home=root, sports=[dict(sport=c["sport"], icon=c["icon"], current=k == key,
+                                          href=root + "".join(p + "/" for p in pathlib.Path(c["out"]).parts[1:]))
+                                     for k, c in SITES.items()] + COMING)
     config = {k: v for k, v in cfg.items() if k not in ("out", "divisions")} | dict(
-        others=others, divisions={k: d["label"] for k, d in cfg["divisions"].items()})
+        family=family, divisions={k: d["label"] for k, d in cfg["divisions"].items()})
     data = dict(updated=datetime.datetime.now().strftime("%b %-d, %Y"), config=config, schools=schools, sports=sports)
     (out / "data.js").write_text("window.DATA = " + json.dumps(data, separators=(",", ":")) + ";\n")
     # Every site shares one page shell; asset links are cache-busted so browsers pick up new data/code
@@ -284,14 +290,56 @@ def build_site(key, cfg, nonce, stamp):
         page = page.replace("{{" + k + "}}", v)
     (out / "index.html").write_text(page)
     print(f"Wrote {cfg['out']}/")
+    return dict(cfg=cfg, sports=sports, schools=schools, href="/".join(pathlib.Path(cfg["out"]).parts[1:]) + "/")
+
+
+def esc(s):
+    return html.escape(str(s), quote=True)
+
+
+def write_splash(built, stamp):
+    """site/index.html: a card per sport with its current No. 1 team(s), plus coming-soon sports."""
+    cards = []
+    for b in built:
+        cfg, multi = b["cfg"], len(b["cfg"]["divisions"]) > 1
+        through = max(s["through"] for s in b["sports"].values() if s["through"])
+        teams = sum(len(s["teams"]) for s in b["sports"].values())
+        leaders = []
+        for div, s in b["sports"].items():
+            for c in cfg["classes"]:
+                t = next((t for t in s["teams"] if t["cls"] == c), None)
+                if not t:
+                    continue
+                logo = (b["schools"].get(t["school"]) or {}).get("logo")
+                img = f'<img src="{esc(logo[3:])}" alt="" loading="lazy">' if logo else ""
+                label = cfg.get("labels", {}).get(c, c) + (" " + cfg["divisions"][div]["label"] if multi else "")
+                leaders.append(f'<li><span class="logo" style="--sz:26px">{img}</span><b>{esc(t["school"])}</b><small>{esc(label)}</small></li>')
+        divs = " & ".join(d["label"] for d in cfg["divisions"].values()) if multi else ""
+        date = datetime.date.fromisoformat(through).strftime("%b %-d")
+        cards.append(f'''<a class="sport-card" href="{b["href"]}">
+      <div class="sport-top"><span class="sport-icon">{cfg["icon"]}</span><div><h2>{esc(cfg["sport"])}</h2>
+        <small>{esc(" · ".join(filter(None, [divs, cfg["season"] + " " + through[:4], f"{teams} teams", f"through {date}"])))}</small></div></div>
+      <div class="ranked-by"><b>Ranked by</b> {esc(cfg["ranked_by"])}</div>
+      <div class="sport-sub">No. 1 in each class</div>
+      <ul class="leaders">{"".join(leaders)}</ul>
+      <span class="sport-go">{esc(cfg["sport"])} rankings →</span></a>''')
+    for c in COMING:
+        cards.append(f'''<div class="sport-card soon">
+      <div class="sport-top"><span class="sport-icon">{c["icon"]}</span><div><h2>{esc(c["sport"])}</h2><small>{esc(c["note"])}</small></div></div>
+      <span class="sport-go">Coming soon</span></div>''')
+    page = (ROOT / "scripts" / "splash.html").read_text()
+    for k, v in dict(cards="\n    ".join(cards), stamp=stamp).items():
+        page = page.replace("{{" + k + "}}", v)
+    (ROOT / "site" / "index.html").write_text(page)
+    print("Wrote site/index.html (splash)")
 
 
 def main():
     page = curl("https://www.mpssaa.org/live-scores/")
     nonce = re.search(r'"nonce":"([a-z0-9]+)"', page).group(1)
     stamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
-    for key, cfg in SITES.items():
-        build_site(key, cfg, nonce, stamp)
+    built = [build_site(key, cfg, nonce, stamp) for key, cfg in SITES.items()]
+    write_splash(built, stamp)
 
 
 if __name__ == "__main__":

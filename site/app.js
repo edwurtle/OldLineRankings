@@ -39,30 +39,6 @@ function logo(name, size = 32) {
 const teamColor = name => (SCHOOLS[name] && SCHOOLS[name].color) || "#f2b705";
 const subline = name => { const s = SCHOOLS[name] || {}; return [s.mascot, s.county].filter(Boolean).join(" · "); };
 
-// Maryland flag: Calvert (paly of six or and sable, a bend counterchanged) and
-// Crossland (quarterly argent and gules, a cross bottony counterchanged).
-let flagId = 0;
-function flagSVG() {
-  const id = "f" + (flagId++);
-  const G = "#f2b705", K = "#111", R = "#c8102e", W = "#fff";
-  const calvert = (x, y) => {
-    const pales = swap => [0, 1, 2, 3, 4, 5].map(i => `<rect x="${x + i * 25}" y="${y}" width="25" height="100" fill="${(i % 2 === 0) !== swap ? G : K}"/>`).join("");
-    return `<clipPath id="${id}b${x}${y}"><polygon points="${x},${y} ${x + 34},${y} ${x + 150},${y + 77} ${x + 150},${y + 100} ${x + 116},${y + 100} ${x},${y + 23}"/></clipPath>
-      ${pales(false)}<g clip-path="url(#${id}b${x}${y})">${pales(true)}</g>`;
-  };
-  const crossland = (x, y) => {
-    const quarters = swap => [[0, 0, W], [75, 0, R], [0, 50, R], [75, 50, W]]
-      .map(([dx, dy, c]) => `<rect x="${x + dx}" y="${y + dy}" width="75" height="50" fill="${swap ? (c === W ? R : W) : c}"/>`).join("");
-    const cx = x + 75, cy = y + 50;
-    const cross = `<rect x="${cx - 8}" y="${y + 14}" width="16" height="72"/><rect x="${x + 22}" y="${cy - 8}" width="106" height="16"/>` +
-      [[cx, y + 12], [cx, y + 88], [x + 20, cy], [x + 130, cy]].map(([px, py]) =>
-        `<circle cx="${px}" cy="${py}" r="7"/><circle cx="${px + (px === cx ? -7 : 0)}" cy="${py + (px === cx ? 0 : -7)}" r="6"/><circle cx="${px + (px === cx ? 7 : 0)}" cy="${py + (px === cx ? 0 : 7)}" r="6"/>`).join("");
-    return `<clipPath id="${id}c${x}${y}">${cross}</clipPath>${quarters(false)}<g clip-path="url(#${id}c${x}${y})">${quarters(true)}</g>`;
-  };
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" preserveAspectRatio="xMidYMid slice">${calvert(0, 0)}${crossland(150, 0)}${crossland(0, 100)}${calvert(150, 100)}</svg>`;
-}
-document.querySelectorAll("[data-flag]").forEach(el => el.innerHTML = flagSVG());
-document.documentElement.style.setProperty("--flag-url", `url("data:image/svg+xml,${encodeURIComponent(flagSVG())}")`);
 
 const teamsOf = (g, c) => c === "All" ? D.sports[g].teams : D.sports[g].teams.filter(t => t.cls === c);
 const findTeam = (g, name) => D.sports[g].teams.find(t => t.school === name);
@@ -70,7 +46,10 @@ const throughAll = Object.values(D.sports).map(s => s.through).sort().pop();
 document.getElementById("updated").textContent = `Games through ${fmtDate(throughAll, {month: "long", day: "numeric", year: "numeric"})} · updated ${D.updated}`;
 document.getElementById("navLinks").innerHTML = DIVS.map(g => `<a href="#/${g}/${CLASSES[0]}" data-nav="${g}">${GENDERS[g]}</a>`).join("") +
   (C.playoffs ? `<a href="#/final8" data-nav="final8">Final 8</a>` : "") + `<a href="#/how" data-nav="how">How it works</a>`;
-document.getElementById("otherSites").innerHTML = C.others.map(o => `<a class="other-site" href="${esc(o.href)}">${o.icon} ${esc(o.sport)} rankings →</a>`).join("");
+// Footer sport switcher: every Old Line Rankings sport, current one highlighted, coming-soon ones dimmed
+document.getElementById("family").innerHTML = C.family.sports.map(s => s.href
+  ? `<a href="${esc(s.href)}" class="${s.current ? "on" : ""}"${s.current ? ` aria-current="page"` : ""}>${s.icon} ${esc(s.sport)}</a>`
+  : `<span class="soon" title="${esc(s.note || "")}">${s.icon} ${esc(s.sport)} <small>soon</small></span>`).join("");
 
 // ---------- routing: #/  #/how  #/boys/2A?view=region&team=Glenelg  #/final8/4A?view=projected ----------
 function parseRoute() {
