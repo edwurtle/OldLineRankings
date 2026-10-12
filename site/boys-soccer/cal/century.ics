@@ -6,7 +6,7 @@ X-WR-CALNAME:Century Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-century-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: Frederick at Century
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Century 0\, Frederick 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-century-dulaney-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: Dulaney at Century
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Century 4\, Dulaney 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-century-thomas-s-wootton-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;TZID=America/New_York:20260908T191500
 DTEND;TZID=America/New_York:20260908T211500
 SUMMARY:Boys Soccer: Thomas S. Wootton at Century
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-wootton-high-school-rockville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-century-catonsville-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Catonsville at Century
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Century 0\, Catonsville 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-century-sparrows-point-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Sparrows Point at Century
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Century 1\, Sparrows Point 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-century-westminster-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Westminster at Century
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Century 1\, Westminster 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-century-towson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;TZID=America/New_York:20260923T171500
 DTEND;TZID=America/New_York:20260923T191500
 SUMMARY:Boys Soccer: Towson at Century
@@ -71,7 +71,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam91a0d8fcf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-south-carroll-century-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Century at South Carroll
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Century 6\, South Carroll 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-century-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Winters Mill at Century
@@ -89,7 +89,7 @@ DESCRIPTION:Final: Century 1\, Winters Mill 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-francis-scott-key-century-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Century at Francis Scott Key
@@ -98,7 +98,7 @@ DESCRIPTION:Final: Century 5\, Francis Scott Key 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-century-manchester-valley-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Manchester Valley at Century
@@ -107,7 +107,7 @@ DESCRIPTION:Final: Century 2\, Manchester Valley 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-liberty-century-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;TZID=America/New_York:20261014T170000
 DTEND;TZID=America/New_York:20261014T190000
 SUMMARY:Boys Soccer: Century at Liberty
@@ -116,7 +116,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6785489
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-century-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Boys Soccer: Oakdale at Century
@@ -126,7 +126,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam3fd1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-century-eleanor-roosevelt-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Boys Soccer: Eleanor Roosevelt at Century
@@ -135,7 +135,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6786908
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-owings-mills-century-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234839Z
+DTSTAMP:20261012T235045Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Boys Soccer: Century at Owings Mills
