@@ -388,8 +388,9 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 .slot .nm { font-size: 13px; font-weight: 600; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .slot .nm small { display: block; font-size: 11px; font-weight: 500; color: var(--muted); white-space: normal; line-height: 1.35; }
 .slot .avg { font-size: 12px; }
-.slot.lose { opacity: .5; }
+/* Winners are bold; losers are not faded */
 .slot.win .nm { font-weight: 800; }
+.slot.lose .nm { font-weight: 500; }
 .slot.tbd { cursor: default; color: var(--faint); }
 .champ .match { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
 .bracket .slot.tbd { cursor: default; color: var(--faint); min-height: 46px; }
@@ -419,7 +420,8 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 .side small { font-size: 11px; color: var(--muted); }
 .side .ctag { font-size: 10px; padding: 1px 5px; }
 .side .sc { font-size: 18px; }
-.side.lost { opacity: .55; }
+.side.won .tm, .side.won .sc { font-weight: 800; }
+.side.lost .tm, .side.lost .sc { font-weight: 500; }
 .smid { text-align: center; font-size: 12px; color: var(--muted); }
 .smid .fin { font-weight: 700; text-transform: uppercase; letter-spacing: .06em; font-size: 11px; }
 .smid .odds { font-size: 12px; }
@@ -480,7 +482,9 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 /* Bracket detail lines and the "Projected" chip + panel */
 .slot .nm small .ln { display: block; }
 .bracket .slot .nm { overflow: visible; }   /* let the Projected chip show in full */
-.proj-pill .pp-head { display: inline-flex; align-items: center; gap: 4px; font-size: 10px; text-transform: uppercase; letter-spacing: .06em; }
+.proj-pill .pp-head { display: inline-flex; align-items: center; gap: 3px; font-size: 9px; font-weight: 800; text-transform: uppercase; letter-spacing: .08em; color: var(--accent-ink); opacity: .8; }
+.proj-pill .pp-rec { font-family: "JetBrains Mono", monospace; font-size: 14px; font-weight: 700; color: var(--text); line-height: 1.25; }
+.proj-pill .pp-pts { font-size: 11px; font-weight: 600; color: var(--muted); }
 .proj-pill .chev { flex: none; }
 .proj-pill { all: unset; box-sizing: border-box; display: inline-flex; flex-direction: column; align-items: flex-start; gap: 0; margin-top: 3px; padding: 2px 7px; border-radius: 7px;
   background: var(--accent-soft); color: var(--accent-ink); border: 1px solid rgba(215,156,0,.35); font-size: 11px; font-weight: 700; line-height: 1.3; cursor: pointer; white-space: normal; max-width: 100%; }

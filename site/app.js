@@ -518,7 +518,7 @@ function renderFinal8(r) {
   // projected view = a "Projected" chip that opens the games behind the projection
   const ln = html => `<span class="ln">${html}</span>`;
   const nowLines = t => ln(recTxt(t)) + (SEEDS_BY_POINTS ? ln(`${t.avg.toFixed(2)} MPSSAA`) : "");
-  const projChip = t => `<button class="proj-pill" data-proj="${esc(t.school)}" title="How this was projected"><span class="pp-head">Projected <svg class="chev" viewBox="0 0 24 24" width="13" height="13" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>${recTxt(t.proj)}</span>${SEEDS_BY_POINTS ? `<span>${t.proj.avg.toFixed(2)} MPSSAA</span>` : ""}</button>`;
+  const projChip = t => `<button class="proj-pill" data-proj="${esc(t.school)}" title="How this was projected"><span class="pp-head">Projected <svg class="chev" viewBox="0 0 24 24" width="13" height="13" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span class="pp-rec">${recTxt(t.proj)}</span>${SEEDS_BY_POINTS ? `<span class="pp-pts">${t.proj.avg.toFixed(2)} MPSSAA</span>` : ""}</button>`;
   // Projected view shows the projected record next to the actual one
   // Region (mini) brackets get a short detail line: record and seeding number
   const slotFor = (seedOf, mini) => (x, p, cls) => {
