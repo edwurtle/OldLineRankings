@@ -6,7 +6,7 @@ X-WR-CALNAME:Colonel Richardson Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-colonel-richardson-snow-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194857Z
+DTSTAMP:20261012T200455Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Girls Soccer: Snow Hill at Colonel Richardson
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-colonel-richardson-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194857Z
+DTSTAMP:20261012T200455Z
 DTSTART;TZID=America/New_York:20260910T173000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at Colonel Richardson
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-colonel-richardson-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194857Z
+DTSTAMP:20261012T200455Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at Colonel Richardson
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Colonel Richardson 1\, Cambridge-South Dorchester 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-colonel-richardson-north-caroline-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194857Z
+DTSTAMP:20261012T200455Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
 SUMMARY:Girls Soccer: North Caroline at Colonel Richardson
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-colonel-richardson-north-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194857Z
+DTSTAMP:20261012T200455Z
 DTSTART;TZID=America/New_York:20260924T173000
 DTEND;TZID=America/New_York:20260924T193000
 SUMMARY:Girls Soccer: North Dorchester at Colonel Richardson
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-colonel-richardson-crisfield-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194857Z
+DTSTAMP:20261012T200455Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Crisfield at Colonel Richardson
@@ -64,7 +64,7 @@ DESCRIPTION:Final: Colonel Richardson 9\, Crisfield 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-colonel-richardson-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194857Z
+DTSTAMP:20261012T200455Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
 SUMMARY:Girls Soccer: Easton at Colonel Richardson
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-colonel-richardson-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194857Z
+DTSTAMP:20261012T200455Z
 DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T193000
 SUMMARY:Girls Soccer: Queen Anne's at Colonel Richardson
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-colonel-richardson-kent-island-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194857Z
+DTSTAMP:20261012T200455Z
 DTSTART;TZID=America/New_York:20261009T173000
 DTEND;TZID=America/New_York:20261009T193000
 SUMMARY:Girls Soccer: Kent Island at Colonel Richardson
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-colonel-richardson-mardela-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194857Z
+DTSTAMP:20261012T200455Z
 DTSTART;TZID=America/New_York:20261013T173000
 DTEND;TZID=America/New_York:20261013T193000
 SUMMARY:Girls Soccer: Mardela at Colonel Richardson
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-colonel-richardson-kent-county-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194857Z
+DTSTAMP:20261012T200455Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Girls Soccer: Kent County at Colonel Richardson
@@ -114,7 +114,7 @@ URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam2ce4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-colonel-richardson-north-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261012T194857Z
+DTSTAMP:20261012T200455Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: North Dorchester at Colonel Richardson

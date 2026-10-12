@@ -6,7 +6,7 @@ X-WR-CALNAME:Annapolis Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-bladensburg-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: Annapolis at Bladensburg
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Annapolis 0\, Bladensburg 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-meade-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: Annapolis at Meade
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Annapolis 1\, Meade 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-arundel-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Annapolis at Arundel
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Annapolis 0\, Arundel 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-annapolis-indian-creek-private-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Indian Creek - Private at Annapolis
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Annapolis 2\, Indian Creek - Private 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-old-mill-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Annapolis at Old Mill
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Annapolis 1\, Old Mill 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-south-river-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20260922T164500
 DTEND;TZID=America/New_York:20260922T184500
 SUMMARY:Boys Soccer: Annapolis at South River
@@ -61,7 +61,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-chesapeake-science-point-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20260924T184500
 DTEND;TZID=America/New_York:20260924T204500
 SUMMARY:Boys Soccer: Annapolis at Chesapeake Science Point
@@ -71,7 +71,7 @@ URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam368
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-annapolis-broadneck-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20260929T170000
 DTEND;TZID=America/New_York:20260929T190000
 SUMMARY:Boys Soccer: Broadneck at Annapolis
@@ -81,7 +81,7 @@ URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam3c0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-severn-run-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Boys Soccer: Annapolis at Severn Run
@@ -91,7 +91,7 @@ URL:https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gamba539
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-southern-aa-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Boys Soccer: Annapolis at Southern-AA
@@ -101,7 +101,7 @@ URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam69f720
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-glen-burnie-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Annapolis at Glen Burnie
@@ -111,7 +111,7 @@ URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam5a9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-northeast-aa-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Boys Soccer: Annapolis at Northeast-AA
@@ -121,7 +121,7 @@ URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam9b6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-meade-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Boys Soccer: Annapolis at Meade
@@ -131,7 +131,7 @@ URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gamd100593f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-chesapeake-aa-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Annapolis at Chesapeake-AA

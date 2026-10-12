@@ -430,6 +430,16 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
   .srow .smid { grid-area: mid; } .srow .sact { grid-area: act; }
 }
 
+/* Drawer: Old Line Rating breakdown */
+.tile-btn { font: inherit; color: inherit; text-align: left; cursor: pointer; border: 1px solid var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.tile-btn .tile-cta { display: inline-block; margin-top: 6px; padding: 3px 9px; border-radius: 999px; background: var(--md-gold); color: var(--md-black) !important; font-size: 11px; font-weight: 800; }
+.olr-break { margin: 6px 0 14px; }
+.olr-break p { font-size: 13px; margin: 0 0 8px; }
+.olr-table { font-size: 12px; }
+.olr-table th, .olr-table td { padding: 6px 8px; cursor: default; }
+.olr-math { margin-top: 10px; padding: 10px 12px; border-radius: 10px; background: var(--surface-2); font-size: 13px; display: grid; gap: 4px; }
+.olr-math .eq { font-size: 14px; margin-top: 4px; }
+
 /* Phones: drop the big hero flag */
 @media (max-width: 640px) {
   .hero-flag { display: none; }

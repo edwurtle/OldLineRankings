@@ -24,7 +24,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 # Boys and girls soccer are separate sites that share everything but the division
 SOCCER = dict(
     icon="soccer", season="Fall", activity="Soccer",   # activity: the sport's name on NFHS Network / GoFan
-    ranked_by="Old Line Rating: points per game from opponent class + opponent wins",
+    ranked_by="Old Line Rating: capped goal margins + opponent strength",
     classes={"4A": 8, "3A": 7, "2A": 6, "1A": 5},
     regions=["East I", "East II", "North I", "North II", "South I", "South II", "West I", "West II"],
     score=dict(short="GF–GA", name="Goal difference", plural="goals"),
@@ -32,6 +32,11 @@ SOCCER = dict(
     # Soccer bulletin: every team is seeded in its region by winning percentage (fewer than 9 games
     # divide by 9); each region plays down to one champion; the 8 champions are reseeded by it
     playoffs=dict(seed_by="winpct", min_games=9, region_seeds=8, per_region=1),
+    # Old Line Rating as for football but on goals: margin capped at 4, no win bonus. Backtested on 2026
+    # weeks 3+ (each week from earlier games): boys 73% of winners vs 70% for class+opponent-wins points;
+    # girls 68% vs 70% (within noise). k is set per site below.
+    olr=dict(cap=4, win_bonus=0, prior=3, ladder=50, k=1.0, digits=2, cap_note="so lopsided games don't count extra",
+             example=[2, 1]),
 )
 
 # Everything that differs between the sites. Order here is the order on the splash page and footer. Shared by build.py and passed to app.js as DATA.config.
@@ -54,11 +59,12 @@ SITES = {
         # Backtested on 2026 weeks 3-6 (games after the week-2 fit): picks 75% of winners vs 70% for MPSSAA points.
         # ladder: class averages pulled toward an even class ladder by 50 games' worth (backtest: better
         # predictions, most on cross-class games)
-        olr=dict(cap=28, win_bonus=4, prior=3, ladder=50, k=0.16),
+        olr=dict(cap=28, win_bonus=4, prior=3, ladder=50, k=0.16, cap_note="just under the 35-point running clock",
+                 example=[20, 14], tested="2026 weeks 3–6 using only earlier games: the Old Line Rating picked 75% of winners versus 70% for MPSSAA points"),
     ),
-    "boys-soccer": dict(SOCCER, out="site/boys-soccer", sport="Boys Soccer",
+    "boys-soccer": dict(SOCCER, out="site/boys-soccer", sport="Boys Soccer", olr=dict(SOCCER["olr"], k=1.2, tested="2026 weeks 3 on using only earlier games: the Old Line Rating picked 73% of winners versus 70% for points from opponent class + opponent wins"),
                         divisions={"boys": dict(label="Boys Soccer", api="boys-soccer", gender="Boys")}),
-    "girls-soccer": dict(SOCCER, out="site/girls-soccer", sport="Girls Soccer",
+    "girls-soccer": dict(SOCCER, out="site/girls-soccer", sport="Girls Soccer", olr=dict(SOCCER["olr"], k=0.95, tested="2026 weeks 3 on using only earlier games: the Old Line Rating picked 68% of winners versus 70% for points from opponent class + opponent wins, about even"),
                          divisions={"girls": dict(label="Girls Soccer", api="girls-soccer", gender="Girls")}),
 }
 
@@ -157,6 +163,8 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
     rec = collections.defaultdict(list)
     for (dt, a, b), es in entries.items():
         r, sa, sb, home, ff = collections.Counter(es).most_common(1)[0][0]
+        if sa is not None and sb is not None and ((r == "W" and sa < sb) or (r == "L" and sa > sb)):
+            sa, sb = sb, sa  # score entered backwards (e.g. a "Win 1-2"): trust the result
         rec[a].append(dict(date=dt, opp=b, res=r, gf=sa, ga=sb, home=home == a, ff=ff))
         if b in std:
             rec[b].append(dict(date=dt, opp=a, res=FLIP[r], gf=sb, ga=sa, home=home == b, ff=ff))
@@ -277,7 +285,7 @@ def build_site(key, cfg, nonce, stamp):
         teams = rank_sport(raw, standings, cfg["classes"], cfg.get("first_meeting_only", False))
         sports[div] = dict(teams=teams, through=max((g["date"] for t in teams for g in t["games"]), default=None))
         if cfg.get("olr"):
-            ratings, home = oldline.rate(teams, cfg["olr"], list(cfg["classes"]))
+            ratings, home, class_means = oldline.rate(teams, cfg["olr"], list(cfg["classes"]))
             assign_ranks(teams)
             project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False),
                     lambda a, b, a_home: oldline.win_prob(ratings[a], ratings[b], 1 if a_home else -1, home, cfg["olr"]["k"]) >= .5)
@@ -285,6 +293,8 @@ def build_site(key, cfg, nonce, stamp):
             members = {t["school"] for t in teams}
             sports[div]["nonmember"] = {x: round(v, 2) for x, v in ratings.items() if x not in members}
             sports[div]["home"] = round(home, 2)
+            # For the drawer's rating breakdown: each class's average and the non-member average
+            sports[div]["classMeans"] = {k: round(v, 3) for k, v in class_means.items()}
         elif cfg.get("playoffs"):
             # No game-prediction model: the higher-rated team wins; members beat non-members
             rating = {t["school"]: t["rating"] for t in teams}
@@ -394,7 +404,6 @@ def write_splash(built, stamp):
         cards.append(f'''<a class="sport-card" href="{b["href"]}">
       <div class="sport-top"><span class="sport-icon">{icons.svg(cfg["icon"])}</span><div><h2>{esc(cfg["sport"])}</h2>
         <small>{esc(" · ".join(filter(None, [divs, cfg["season"] + " " + through[:4], f"{teams} teams", f"through {date}"])))}</small></div></div>
-      <div class="ranked-by"><b>Ranked by</b> {esc(cfg["ranked_by"])}</div>
       <div class="sport-sub">No. 1 in each class</div>
       <ul class="leaders">{"".join(leaders)}</ul>
       <span class="sport-go">Old Line {esc(cfg["sport"])} Rankings →</span></a>''')

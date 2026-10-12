@@ -25,7 +25,7 @@ def game_value(g, cfg):
 
 def rate(teams, cfg, class_order, iters=200):
     """Set t["rating"] (OLR) and t["sos"] (average opponent OLR). class_order is highest class first.
-    Returns (ratings incl. non-members, home edge)."""
+    Returns (ratings incl. non-members, home edge, class averages incl. "nonmember")."""
     cls = {t["school"]: t["cls"] for t in teams}
     rung = {c: (len(class_order) - 1) / 2 - i for i, c in enumerate(class_order)}  # 4A +2.5 .. 1A -2.5
     step = 0.0
@@ -66,7 +66,7 @@ def rate(teams, cfg, class_order, iters=200):
         t["rating"] = round(ratings.get(t["school"], mean.get(t["cls"], 0.0)), 2)
         opps = [ratings[g["opp"]] for g in t["games"]]
         t["sos"] = round(sum(opps) / len(opps), 2) if opps else 0
-    return ratings, home
+    return ratings, home, dict(mean)
 
 
 def win_prob(ra, rb, home_sign, home, k):
@@ -92,9 +92,11 @@ def mpssaa_points(results, member, class_pts):
 
 def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, seed=1):
     """Play out the rest of the regular season and the playoffs n times. Regular-season and playoff
-    games are decided by OLR win probability; seeding uses MPSSAA points. Sets t["odds"], the percentage
-    chance to reach each stage: f8 = Final 8 (won two region games), sf = state semifinal, fin = state
-    final, champ = state champion. (Every team makes its region playoffs: regions have at most 8 teams.)"""
+    games are decided by OLR win probability (simulated regular-season games never tie); seeding follows
+    playoffs["seed_by"]: MPSSAA points (football) or winning percentage with a min_games divisor (soccer),
+    ties broken by rating. Regions play down to playoffs["per_region"] teams. Sets t["odds"], the
+    percentage chance to reach each stage: f8 = Final 8 (state quarterfinal), sf = state semifinal,
+    fin = state final, champ = state champion. (Every team makes its region playoffs.)"""
     rng = random.Random(seed)
     member = {t["school"]: t for t in teams}
     rating = ratings.__getitem__
@@ -137,12 +139,20 @@ def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, se
             p = win_prob(rating(a), rating(b), 1 if a_home else -1, home, cfg["k"])
             results.append((a, b, "W" if rng.random() < p else "L"))
         pts, gp = mpssaa_points(results, member, class_pts)
-        order = lambda s: (-(pts[s] / gp[s] if gp[s] else 0), -pts[s])
+        if playoffs["seed_by"] == "winpct":
+            wins = collections.Counter()
+            for a, b, res in results:
+                wins[a] += {"W": 1, "T": .5, "L": 0}[res]
+                wins[b] += {"W": 0, "T": .5, "L": 1}[res]
+            order = lambda s: (-wins[s] / max(gp[s], playoffs["min_games"]), -rating(s))
+        else:
+            order = lambda s: (-(pts[s] / gp[s] if gp[s] else 0), -pts[s], -rating(s))
         for c in class_pts:
             final8 = []
             for reg in regions:
                 seeds = sorted((s for s, t in member.items() if t["cls"] == c and t["region"] == reg), key=order)
-                final8 += bracket(seeds[:playoffs["region_seeds"]], 2)[-1]
+                rounds = {1: 3, 2: 2}[playoffs["per_region"]]  # 8-line bracket down to 1 or 2 teams
+                final8 += bracket(seeds[:playoffs["region_seeds"]], rounds)[-1]
             final8.sort(key=order)
             for stage, survivors in zip(("f8", "sf", "fin", "champ"), [final8] + bracket(final8, 3)):
                 for s in survivors:

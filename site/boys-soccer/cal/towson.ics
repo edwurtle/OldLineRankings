@@ -6,7 +6,7 @@ X-WR-CALNAME:Towson Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-towson-bel-air-tournament-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20260904T132000
 DTEND;TZID=America/New_York:20260904T152000
 SUMMARY:Boys Soccer: Bel Air Tournament at Towson
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam6f78e21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04-patterson-mill-towson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20260904T082000
 DTEND;TZID=America/New_York:20260904T102000
 SUMMARY:Boys Soccer: Towson at Patterson Mill
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam068f0b9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-c-milton-wright-towson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20260905T132000
 DTEND;TZID=America/New_York:20260905T152000
 SUMMARY:Boys Soccer: Towson at C. Milton Wright
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam6f78e21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-towson-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Boys Soccer: Crofton at Towson
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamb4e57
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-hereford-towson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20260917T171500
 DTEND;TZID=America/New_York:20260917T191500
 SUMMARY:Boys Soccer: Towson at Hereford
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam129aae4cf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-towson-the-park-school-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20260918T171500
 DTEND;TZID=America/New_York:20260918T191500
 SUMMARY:Boys Soccer: The Park School at Towson
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam522eb6063
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-century-towson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20260923T171500
 DTEND;TZID=America/New_York:20260923T191500
 SUMMARY:Boys Soccer: Towson at Century
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam91a0d8fcf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-towson-dulaney-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20260926T120000
 DTEND;TZID=America/New_York:20260926T140000
 SUMMARY:Boys Soccer: Dulaney at Towson
@@ -86,7 +86,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gamc16d0605b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-towson-perry-hall-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
 SUMMARY:Boys Soccer: Perry Hall at Towson
@@ -96,7 +96,7 @@ URL:https://www.nfhsnetwork.com/events/perry-hall-high-school-baltimore-md/gamc2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-eastern-tech-towson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20261001T171500
 DTEND;TZID=America/New_York:20261001T191500
 SUMMARY:Boys Soccer: Towson at Eastern Tech
@@ -106,7 +106,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam26725f495
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-sparrows-point-towson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T193000
 SUMMARY:Boys Soccer: Towson at Sparrows Point
@@ -116,7 +116,7 @@ URL:https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-towson-sparrows-point-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Sparrows Point at Towson
@@ -125,7 +125,7 @@ DESCRIPTION:Final: Towson 2\, Sparrows Point 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-towson-dundalk-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Dundalk at Towson
@@ -134,7 +134,7 @@ DESCRIPTION:Final: Towson 2\, Dundalk 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-towson-catonsville-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20261013T164500
 DTEND;TZID=America/New_York:20261013T184500
 SUMMARY:Boys Soccer: Catonsville at Towson
@@ -144,7 +144,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam1e9d44b4b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-fallston-towson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;TZID=America/New_York:20261016T160000
 DTEND;TZID=America/New_York:20261016T180000
 SUMMARY:Boys Soccer: Towson at Fallston
@@ -154,7 +154,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gama6c5f98b5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-towson-baltimore-city-college-boys-soccer@oldlinerankings
-DTSTAMP:20261012T194833Z
+DTSTAMP:20261012T200420Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Baltimore City College at Towson

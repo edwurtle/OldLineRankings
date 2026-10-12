@@ -18,8 +18,10 @@ redirect to the right soccer site.
   is the MPSSAA points (football's Old Line Rating is margin-based; see below).
 - SOS (strength of schedule) = the rating a team would have if it had won every game.
 
-## Old Line Rating (football)
-Football is ranked by the Old Line Rating (`scripts/oldline.py`); MPSSAA points are kept for seeding.
+## Old Line Rating (all sports)
+Every sport is ranked by the Old Line Rating (`scripts/oldline.py`): football on points (cap 28, ±4 win bonus),
+soccer on goals (cap 4, no win bonus). Football keeps MPSSAA points for seeding; soccer is seeded by winning percentage.
+The team drawer's "See calculation" shows every game that went into a team's rating.
 - Each game counts the scoring margin capped at 28, plus 4 for a win (minus 4 for a loss).
 - A team's rating is its average game value plus its opponents' average rating, solved for all teams at
   once, pulled toward its class average by 3 games' worth. Home edge is measured from the data (floored at 0).
