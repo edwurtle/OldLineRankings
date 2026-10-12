@@ -6,7 +6,7 @@ X-WR-CALNAME:Annapolis Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-arundel-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Girls Soccer: Annapolis at Arundel
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam9b5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-old-mill-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Annapolis at Old Mill
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Annapolis 4\, Old Mill 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-north-county-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Annapolis at North County
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Annapolis 1\, North County 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-south-river-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20260922T184500
 DTEND;TZID=America/New_York:20260922T204500
 SUMMARY:Girls Soccer: Annapolis at South River
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-chesapeake-science-point-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20260924T164500
 DTEND;TZID=America/New_York:20260924T184500
 SUMMARY:Girls Soccer: Annapolis at Chesapeake Science Point
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam70f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-annapolis-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: Broadneck at Annapolis
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gamba4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-severn-run-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20261001T170000
 DTEND;TZID=America/New_York:20261001T190000
 SUMMARY:Girls Soccer: Annapolis at Severn Run
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gam0f718
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-southern-aa-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: Annapolis at Southern-AA
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam5b0051
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-glen-burnie-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T190000
 SUMMARY:Girls Soccer: Annapolis at Glen Burnie
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam62d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-northeast-aa-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Annapolis at Northeast-AA
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam323
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-meade-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Girls Soccer: Annapolis at Meade
@@ -114,7 +114,7 @@ URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam473391dd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-chesapeake-aa-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Girls Soccer: Annapolis at Chesapeake-AA

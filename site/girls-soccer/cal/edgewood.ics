@@ -6,7 +6,7 @@ X-WR-CALNAME:Edgewood Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-aberdeen-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20260904T153000
 DTEND;TZID=America/New_York:20260904T173000
 SUMMARY:Girls Soccer: Edgewood at Aberdeen
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gam3530e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-havre-de-grace-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20260915T180000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Girls Soccer: Edgewood at Havre de Grace
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-perryville-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20260917T153000
 DTEND;TZID=America/New_York:20260917T173000
 SUMMARY:Girls Soccer: Edgewood at Perryville
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-joppatowne-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20260924T173000
 DTEND;TZID=America/New_York:20260924T193000
 SUMMARY:Girls Soccer: Edgewood at Joppatowne
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gam4f4d4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-joppatowne-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20260928T173000
 DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Girls Soccer: Edgewood at Joppatowne
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gam84fd0f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-c-milton-wright-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20261001T170000
 DTEND;TZID=America/New_York:20261001T190000
 SUMMARY:Girls Soccer: Edgewood at C. Milton Wright
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-bohemia-manor-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Girls Soccer: Edgewood at Bohemia Manor
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gambcd50
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-elkton-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Edgewood at Elkton
@@ -85,7 +85,7 @@ DESCRIPTION:Final: Edgewood 0\, Elkton 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-harford-tech-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;TZID=America/New_York:20261012T153000
 DTEND;TZID=America/New_York:20261012T173000
 SUMMARY:Girls Soccer: Edgewood at Harford Tech
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gamf8bbc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-north-harford-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Girls Soccer: Edgewood at North Harford
@@ -103,7 +103,7 @@ LOCATION:North Harford
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-havre-de-grace-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T204522Z
+DTSTAMP:20261012T211139Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Edgewood at Havre de Grace

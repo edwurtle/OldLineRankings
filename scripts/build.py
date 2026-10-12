@@ -398,7 +398,7 @@ def write_splash(built, stamp):
                 logo = (b["schools"].get(t["school"]) or {}).get("logo")
                 img = f'<img src="{esc(logo[3:])}" alt="" loading="lazy">' if logo else ""
                 label = cfg.get("labels", {}).get(c, c) + (" " + cfg["divisions"][div]["label"] if multi else "")
-                leaders.append(f'<li><span class="lc">{esc(label)}</span><span class="logo" style="--sz:26px">{img}</span><b>{esc(t["school"])}</b></li>')
+                leaders.append(f'<li><span class="logo" style="--sz:26px">{img}</span><b>{esc(t["school"])}</b><small>{esc(label)}</small></li>')
         divs = " & ".join(d["label"] for d in cfg["divisions"].values()) if multi else ""
         date = datetime.date.fromisoformat(through).strftime("%b %-d")
         cards.append(f'''<a class="sport-card" href="{b["href"]}">
