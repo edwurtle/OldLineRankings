@@ -6,7 +6,7 @@ X-WR-CALNAME:National Academy Foundation (NAF) Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-national-academy-foundation-naf-digital-harbor-boys-soccer@oldlinerankings
-DTSTAMP:20261012T201109Z
+DTSTAMP:20261012T201941Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Digital Harbor at National Academy Foundation (NAF)
@@ -15,7 +15,7 @@ DESCRIPTION:Final: National Academy Foundation (NAF) 0\, Digital Harbor 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-acce-national-academy-foundation-naf-boys-soccer@oldlinerankings
-DTSTAMP:20261012T201109Z
+DTSTAMP:20261012T201941Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: National Academy Foundation (NAF) at ACCE
@@ -24,7 +24,7 @@ DESCRIPTION:Final: National Academy Foundation (NAF) 0\, ACCE 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-national-academy-foundation-naf-patterson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T201109Z
+DTSTAMP:20261012T201941Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Patterson at National Academy Foundation (NAF)
@@ -33,7 +33,7 @@ DESCRIPTION:Final: National Academy Foundation (NAF) 0\, Patterson 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-national-academy-foundation-naf-paul-laurence-dunbar-boys-soccer@oldlinerankings
-DTSTAMP:20261012T201109Z
+DTSTAMP:20261012T201941Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Paul Laurence Dunbar at National Academy Foundation (NAF)
@@ -42,7 +42,7 @@ DESCRIPTION:Final: National Academy Foundation (NAF) 1\, Paul Laurence Dunbar 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-edmondson-westside-national-academy-foundation-naf-boys-soccer@oldlinerankings
-DTSTAMP:20261012T201109Z
+DTSTAMP:20261012T201941Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: National Academy Foundation (NAF) at Edmondson-Westside
@@ -51,7 +51,7 @@ DESCRIPTION:Final: National Academy Foundation (NAF) 3\, Edmondson-Westside 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-benjamin-franklin-national-academy-foundation-naf-boys-soccer@oldlinerankings
-DTSTAMP:20261012T201109Z
+DTSTAMP:20261012T201941Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: National Academy Foundation (NAF) at Benjamin Franklin
@@ -60,7 +60,7 @@ DESCRIPTION:Final: National Academy Foundation (NAF) 3\, Benjamin Franklin 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-national-academy-foundation-naf-paul-laurence-dunbar-boys-soccer@oldlinerankings
-DTSTAMP:20261012T201109Z
+DTSTAMP:20261012T201941Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Paul Laurence Dunbar at National Academy Foundation (NAF)
@@ -69,7 +69,7 @@ DESCRIPTION:Final: National Academy Foundation (NAF) 4\, Paul Laurence Dunbar 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-national-academy-foundation-naf-forest-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T201109Z
+DTSTAMP:20261012T201941Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Forest Park at National Academy Foundation (NAF)
@@ -77,7 +77,7 @@ LOCATION:National Academy Foundation (NAF)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-edmondson-westside-national-academy-foundation-naf-boys-soccer@oldlinerankings
-DTSTAMP:20261012T201109Z
+DTSTAMP:20261012T201941Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: National Academy Foundation (NAF) at Edmondson-Westside
@@ -85,7 +85,7 @@ LOCATION:Edmondson-Westside
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-national-academy-foundation-naf-southwestern-boys-soccer@oldlinerankings
-DTSTAMP:20261012T201109Z
+DTSTAMP:20261012T201941Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Southwestern at National Academy Foundation (NAF)
@@ -93,7 +93,7 @@ LOCATION:National Academy Foundation (NAF)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-benjamin-franklin-national-academy-foundation-naf-boys-soccer@oldlinerankings
-DTSTAMP:20261012T201109Z
+DTSTAMP:20261012T201941Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: National Academy Foundation (NAF) at Benjamin Franklin

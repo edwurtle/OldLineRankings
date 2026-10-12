@@ -6,7 +6,7 @@ X-WR-CALNAME:South Carroll Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-hereford-south-carroll-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;TZID=America/New_York:20260905T141500
 DTEND;TZID=America/New_York:20260905T161500
 SUMMARY:Girls Soccer: South Carroll at Hereford
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gamc70855
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-south-carroll-northeast-aa-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Girls Soccer: Northeast-AA at South Carroll
@@ -25,7 +25,7 @@ DESCRIPTION:Final: South Carroll 3\, Northeast-AA 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-south-carroll-smithsburg-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Smithsburg at South Carroll
@@ -34,7 +34,7 @@ DESCRIPTION:Final: South Carroll 8\, Smithsburg 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-south-carroll-century-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Century at South Carroll
@@ -43,7 +43,7 @@ DESCRIPTION:Final: South Carroll 0\, Century 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-brunswick-south-carroll-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Girls Soccer: South Carroll at Brunswick
@@ -52,7 +52,7 @@ DESCRIPTION:Final: South Carroll 4\, Brunswick 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-south-carroll-md-private-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: MD-Private at South Carroll
@@ -61,7 +61,7 @@ DESCRIPTION:Final: South Carroll 1\, MD-Private 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-south-carroll-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Westminster at South Carroll
@@ -70,7 +70,7 @@ DESCRIPTION:Final: South Carroll 1\, Westminster 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-south-carroll-manchester-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Manchester Valley at South Carroll
@@ -79,7 +79,7 @@ DESCRIPTION:Final: South Carroll 1\, Manchester Valley 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-south-carroll-liberty-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Liberty at South Carroll
@@ -88,7 +88,7 @@ DESCRIPTION:Final: South Carroll 3\, Liberty 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-south-carroll-francis-scott-key-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Girls Soccer: Francis Scott Key at South Carroll
@@ -97,7 +97,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6813157
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-south-carroll-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Girls Soccer: Walkersville at South Carroll
@@ -107,7 +107,7 @@ URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-south-carroll-winters-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Girls Soccer: Winters Mill at South Carroll
@@ -116,7 +116,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6813156
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-south-carroll-oakdale-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Girls Soccer: Oakdale at South Carroll

@@ -6,7 +6,7 @@ X-WR-CALNAME:Suitland Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-14-parkdale-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Suitland at Parkdale
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Suitland 0\, Parkdale 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-bladensburg-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Suitland at Bladensburg
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Suitland 0\, Bladensburg 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-high-point-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Suitland at High Point
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Suitland 0\, High Point 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-duval-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Suitland at DuVal
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Suitland 0\, DuVal 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-suitland-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: DuVal at Suitland
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Suitland 0\, DuVal 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-suitland-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Girls Soccer: Bowie at Suitland
@@ -61,7 +61,7 @@ URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gamd0f0f2d9c0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-eleanor-roosevelt-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;TZID=America/New_York:20261005T163000
 DTEND;TZID=America/New_York:20261005T183000
 SUMMARY:Girls Soccer: Suitland at Eleanor Roosevelt
@@ -71,7 +71,7 @@ URL:https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-charles-h-flowers-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Girls Soccer: Suitland at Charles H. Flowers
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Suitland 0\, Charles H. Flowers 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-laurel-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;TZID=America/New_York:20261012T190000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Girls Soccer: Suitland at Laurel
@@ -90,7 +90,7 @@ URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam5fbde2d4a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-northwestern-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Suitland at Northwestern
@@ -98,7 +98,7 @@ LOCATION:Northwestern
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-dr-henry-a-wise-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;TZID=America/New_York:20261019T153000
 DTEND;TZID=America/New_York:20261019T173000
 SUMMARY:Girls Soccer: Suitland at Dr. Henry A. Wise
@@ -107,7 +107,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6718162
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-crossland-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261012T201140Z
+DTSTAMP:20261012T202017Z
 DTSTART;TZID=America/New_York:20261021T150000
 DTEND;TZID=America/New_York:20261021T170000
 SUMMARY:Girls Soccer: Suitland at Crossland

@@ -27,7 +27,36 @@ const rkBadge = n => `<span class="rk mono">${n}</span>`;
 const watchBtn = g => g.watch ? `<a class="watch" href="${esc(g.watch)}" target="_blank" rel="noopener" title="Watch on NFHS Network">▶ Watch</a>` : "";
 // GoFan ticket link, only for games that haven't happened yet
 const TODAY = new Date().toLocaleDateString("en-CA");
-const ticketBtn = g => g.tickets && g.date >= TODAY ? `<a class="tix" href="${esc(g.tickets)}" target="_blank" rel="noopener" title="Buy tickets on GoFan">Tickets</a>` : "";
+// `game` describes the matchup for the ticket warning ("Linganore vs Urbana")
+const ticketBtn = (g, game) => g.tickets && g.date >= TODAY ? `<a class="tix" href="${esc(g.tickets)}" target="_blank" rel="noopener" title="Buy tickets on GoFan"
+  data-game="${esc(game)}" data-when="${esc(fmtDate(g.date, {weekday: "long", month: "long", day: "numeric"}) + (g.time ? " · " + fmtTime(g.time) : ""))}">Tickets</a>` : "";
+const fmtTime = t => { const [h, m] = t.split(":").map(Number); return `${h % 12 || 12}:${String(m).padStart(2, "0")} ${h < 12 ? "AM" : "PM"}`; };
+// Ticket links are matched automatically, so every Tickets click first asks the buyer to check the game on GoFan
+document.addEventListener("click", e => {
+  const a = e.target.closest("a.tix");
+  if (!a) return;
+  e.preventDefault();
+  let m = document.getElementById("tixModal");
+  if (!m) {
+    m = document.createElement("div");
+    m.id = "tixModal"; m.className = "modal";
+    m.innerHTML = `<div class="modal-box" role="dialog" aria-modal="true" aria-labelledby="tixTitle">
+      <h3 id="tixTitle">Check the game before you buy</h3>
+      <p class="tix-game"><b></b><br><span></span></p>
+      <p>Tickets are sold by <b>GoFan</b>, not Old Line Rankings. We match games to GoFan automatically, so please make sure the
+        teams, date and time on GoFan are the game you want before buying. Old Line Rankings isn't responsible for purchases made through these links.</p>
+      <div class="modal-actions"><button class="btn ghost" data-close>Cancel</button><a class="btn gold" target="_blank" rel="noopener" data-go>Continue to GoFan →</a></div>
+    </div>`;
+    document.body.appendChild(m);
+    m.addEventListener("click", ev => { if (ev.target === m || ev.target.closest("[data-close], [data-go]")) m.classList.remove("open"); });
+    document.addEventListener("keydown", ev => { if (ev.key === "Escape") m.classList.remove("open"); });
+  }
+  m.querySelector(".tix-game b").textContent = a.dataset.game;
+  m.querySelector(".tix-game span").textContent = a.dataset.when;
+  m.querySelector("[data-go]").href = a.href;
+  m.classList.add("open");
+  m.querySelector("[data-go]").focus();
+});
 // Ranking number: MPSSAA points per game (soccer) or the Old Line Rating (football, C.olr)
 const OLR = !!C.olr;
 // Every sport's ranking number is its Old Line Rating; only the formula differs (see How it works)
@@ -591,7 +620,6 @@ function renderScheduleList(r) {
   games.sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : (a.time || "99") < (b.time || "99") ? -1 : 1) * (asc ? 1 : -1));
   const el = document.getElementById("schedList");
   if (!games.length) { el.innerHTML = `<div class="empty">No games match.</div>`; return; }
-  const fmtTime = t => { if (!t) return "TBA"; const [h, m] = t.split(":").map(Number); return `${h % 12 || 12}:${String(m).padStart(2, "0")} ${h < 12 ? "AM" : "PM"}`; };
   const team = (side, name, score, won) => {
     const t = info(name);
     const label = t ? `<button class="tm" data-team="${esc(name)}">${esc(name)}</button>` : `<span class="tm nm">${esc(name)}</span>`;
@@ -610,11 +638,11 @@ function renderScheduleList(r) {
     const mid = x.played ? `<span class="fin">${x.ff ? "Forfeit" : "Final"}</span>`
       : p != null ? `<span class="odds mono" title="Chance to win (Old Line Rating)">${pct(100 * (1 - p))} · ${pct(100 * p)}</span>` : `<span class="at">@</span>`;
     rows += `<div class="srow">
-      <div class="stime mono">${x.played ? "" : x.date < TODAY ? "Result pending" : fmtTime(x.time)}</div>
+      <div class="stime mono">${x.played ? "" : x.date < TODAY ? "Pending" : x.time ? fmtTime(x.time) : "TBA"}</div>
       ${team("away", x.away, x.played ? x.as : null, hw == null ? null : !hw)}
       <div class="smid">${mid}</div>
       ${team("home", x.home, x.played ? x.hs : null, hw)}
-      <div class="sact">${watchBtn(x)}${ticketBtn(x)}</div>
+      <div class="sact">${watchBtn(x)}${ticketBtn(x, `${x.away} at ${x.home}`)}</div>
     </div>`;
   }
   el.innerHTML = `<div class="sched">${rows}</div>${games.length > 600 ? `<div class="empty">Showing the first 600 of ${games.length} games. Search or filter to narrow it down.</div>` : ""}`;
@@ -638,7 +666,7 @@ function openTeam(g, name) {
   const best = scoring.length ? scoring.reduce((a, b) => b.__gs > a.__gs ? b : a) : null;
   document.getElementById("dBody").innerHTML = `
     <div class="tiles">
-      <button class="tile tile-btn" id="olrBtn" title="See how this rating is calculated"><b class="mono">${fmtR(t.rating)}</b><span>${RATING}</span><span class="tile-cta">See calculation ›</span></button>
+      <button class="tile tile-olr" id="olrBtn" title="See how this rating is calculated"><i class="info" aria-hidden="true">i</i><b class="mono">${fmtR(t.rating)}</b><span>${RATING}</span></button>
       ${PL ? `<div class="tile"><b class="mono">${SEED.fmt(SEED.val(t))}</b><span title="Playoff seeding: ${SEED.name}">${SEED.unit} · seeding</span></div>` : ""}
       <div class="tile"><b class="mono">${fmtR(t.sos)}</b><span title="Strength of schedule">SOS · #${t.sosRank} in ${cl(t.cls)}</span></div>
       <div class="tile"><b class="mono">${recTxt(t)}</b><span>Record · ${pctStr(t)}</span></div>
@@ -683,7 +711,7 @@ function upcomingRow(g, t, u) {
     <div class="when"><small>${d.toLocaleDateString(undefined, {weekday: "short"})}</small><b class="mono">${d.getDate()}</b></div>${logo(u.opp, 34)}
     <div><div class="opp">${u.home ? "vs" : "@"} ${name}</div>
       <div class="det"><span>${fmtDate(u.date)}</span>${ctag}${orec}${status}</div></div>
-    <div class="right"><div class="links">${watchBtn(u)}${ticketBtn(u)}</div>${OLR ? `<div class="prob mono" title="Chance to win (Old Line Rating)">${pct(100 * winProb(g, t.school, u.opp, u.home ? 1 : -1))} to win</div>` : ""}${SEEDS_BY_POINTS ? `<div class="pts">win worth</div><div class="mono worth">${n2(worth)} <span class="pts">MPSSAA pts</span></div>` : ""}</div>
+    <div class="right"><div class="links">${watchBtn(u)}${ticketBtn(u, u.home ? `${u.opp} at ${t.school}` : `${t.school} at ${u.opp}`)}</div>${OLR ? `<div class="prob mono" title="Chance to win (Old Line Rating)">${pct(100 * winProb(g, t.school, u.opp, u.home ? 1 : -1))} to win</div>` : ""}${SEEDS_BY_POINTS ? `<div class="pts">win worth</div><div class="mono worth">${n2(worth)} <span class="pts">MPSSAA pts</span></div>` : ""}</div>
   </div>`;
 }
 // The full Old Line Rating calculation for one team: each game's score, then the blend with the class average.
