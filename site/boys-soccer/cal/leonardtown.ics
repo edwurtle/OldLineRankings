@@ -6,7 +6,7 @@ X-WR-CALNAME:Leonardtown Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-leonardtown-good-counsel-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: Good Counsel at Leonardtown
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Leonardtown 5\, Good Counsel 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-northern-c-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Leonardtown at Northern-C
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Leonardtown 7\, Northern-C 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-la-plata-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;TZID=America/New_York:20260910T163000
 DTEND;TZID=America/New_York:20260910T183000
 SUMMARY:Boys Soccer: Leonardtown at La Plata
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gambb133
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-westlake-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Leonardtown at Westlake
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Leonardtown 9\, Westlake 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-st-charles-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;TZID=America/New_York:20260917T144900
 DTEND;TZID=America/New_York:20260917T164900
 SUMMARY:Boys Soccer: Leonardtown at St. Charles
@@ -53,7 +53,7 @@ URL:https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gam11fa
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-north-point-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Leonardtown at North Point
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Leonardtown 4\, North Point 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-parkdale-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Boys Soccer: Leonardtown at Parkdale
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Leonardtown 1\, Parkdale 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-henry-e-lackey-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;TZID=America/New_York:20260929T181500
 DTEND;TZID=America/New_York:20260929T201500
 SUMMARY:Boys Soccer: Leonardtown at Henry E. Lackey
@@ -81,7 +81,7 @@ URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gamcaac
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-leonardtown-washington-international-school-dc-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Boys Soccer: Washington International School - DC at Leonardtown
@@ -90,7 +90,7 @@ DESCRIPTION:Final: Leonardtown 7\, Washington International School - DC 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-thomas-stone-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Leonardtown at Thomas Stone
@@ -99,7 +99,7 @@ DESCRIPTION:Final: Leonardtown 8\, Thomas Stone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-chopticon-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Leonardtown at Chopticon
@@ -108,7 +108,7 @@ DESCRIPTION:Final: Leonardtown 3\, Chopticon 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-mcdonough-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;TZID=America/New_York:20261013T181500
 DTEND;TZID=America/New_York:20261013T201500
 SUMMARY:Boys Soccer: Leonardtown at McDonough
@@ -117,7 +117,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6762660
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-great-mills-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: Leonardtown at Great Mills

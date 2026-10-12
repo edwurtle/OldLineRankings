@@ -6,7 +6,7 @@ X-WR-CALNAME:Watkins Mill Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-northwood-watkins-mill-football@oldlinerankings
-DTSTAMP:20261012T212015Z
+DTSTAMP:20261012T212301Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Watkins Mill at Northwood
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Watkins Mill 10\, Northwood 20
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-winters-mill-watkins-mill-football@oldlinerankings
-DTSTAMP:20261012T212015Z
+DTSTAMP:20261012T212301Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Watkins Mill at Winters Mill
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Watkins Mill 8\, Winters Mill 69
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-watkins-mill-john-f-kennedy-football@oldlinerankings
-DTSTAMP:20261012T212015Z
+DTSTAMP:20261012T212301Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Football: John F. Kennedy at Watkins Mill
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-watkins-mill-gaithersburg-football@oldlinerankings
-DTSTAMP:20261012T212015Z
+DTSTAMP:20261012T212301Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Football: Gaithersburg at Watkins Mill
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-watkins-mill-albert-einstein-football@oldlinerankings
-DTSTAMP:20261012T212015Z
+DTSTAMP:20261012T212301Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Football: Albert Einstein at Watkins Mill
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-watkins-mill-wheaton-football@oldlinerankings
-DTSTAMP:20261012T212015Z
+DTSTAMP:20261012T212301Z
 DTSTART;TZID=America/New_York:20261009T190000
 DTEND;TZID=America/New_York:20261009T210000
 SUMMARY:Football: Wheaton at Watkins Mill
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-poolesville-watkins-mill-football@oldlinerankings
-DTSTAMP:20261012T212015Z
+DTSTAMP:20261012T212301Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Watkins Mill at Poolesville
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-watkins-mill-clarksburg-football@oldlinerankings
-DTSTAMP:20261012T212015Z
+DTSTAMP:20261012T212301Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Clarksburg at Watkins Mill
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gamf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-williamsport-watkins-mill-football@oldlinerankings
-DTSTAMP:20261012T212015Z
+DTSTAMP:20261012T212301Z
 DTSTART;TZID=America/New_York:20261030T190000
 DTEND;TZID=America/New_York:20261030T210000
 SUMMARY:Football: Watkins Mill at Williamsport

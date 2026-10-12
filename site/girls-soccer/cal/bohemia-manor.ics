@@ -6,7 +6,7 @@ X-WR-CALNAME:Bohemia Manor Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-bohemia-manor-kennett-pa-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20260904T153000
 DTEND;TZID=America/New_York:20260904T173000
 SUMMARY:Girls Soccer: Kennett-PA at Bohemia Manor
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-bohemia-manor-north-east-c-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: North East-C at Bohemia Manor
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Bohemia Manor 1\, North East-C 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-bohemia-manor-elkton-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Elkton at Bohemia Manor
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Bohemia Manor 1\, Elkton 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-bohemia-manor-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Girls Soccer: Aberdeen at Bohemia Manor
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam08f9d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-bohemia-manor-oxford-pa-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20260921T153000
 DTEND;TZID=America/New_York:20260921T173000
 SUMMARY:Girls Soccer: Oxford-PA at Bohemia Manor
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-bohemia-manor-perryville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20260922T153000
 DTEND;TZID=America/New_York:20260922T173000
 SUMMARY:Girls Soccer: Perryville at Bohemia Manor
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-havre-de-grace-bohemia-manor-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20260929T180000
 DTEND;TZID=America/New_York:20260929T200000
 SUMMARY:Girls Soccer: Bohemia Manor at Havre de Grace
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-bohemia-manor-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Girls Soccer: Rising Sun at Bohemia Manor
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-bohemia-manor-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Girls Soccer: Edgewood at Bohemia Manor
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gambcd50
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-joppatowne-bohemia-manor-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
 SUMMARY:Girls Soccer: Bohemia Manor at Joppatowne
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-harford-tech-bohemia-manor-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20261013T180000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Girls Soccer: Bohemia Manor at Harford Tech

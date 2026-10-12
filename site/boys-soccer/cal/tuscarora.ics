@@ -6,7 +6,7 @@ X-WR-CALNAME:Tuscarora Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-tuscarora-bethesda-cc-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;TZID=America/New_York:20260905T170000
 DTEND;TZID=America/New_York:20260905T190000
 SUMMARY:Boys Soccer: Bethesda-CC at Tuscarora
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam08e5f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-middletown-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Boys Soccer: Tuscarora at Middletown
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gamd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-brunswick-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Boys Soccer: Tuscarora at Brunswick
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam421
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-tuscarora-georgetown-prep-non-mpssaa-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Georgetown Prep - non MPSSAA at Tuscarora
@@ -45,7 +45,7 @@ DESCRIPTION:Final: Tuscarora 1\, Georgetown Prep - non MPSSAA 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-tuscarora-south-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: South Hagerstown at Tuscarora
@@ -54,7 +54,7 @@ DESCRIPTION:Final: Tuscarora 8\, South Hagerstown 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-tuscarora-mcdonough-non-mpssaa-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Boys Soccer: McDonough - Non MPSSAA at Tuscarora
@@ -63,7 +63,7 @@ DESCRIPTION:Final: Tuscarora 1\, McDonough - Non MPSSAA 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-tuscarora-urbana-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Urbana at Tuscarora
@@ -73,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam50fd2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-tuscarora-north-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: North Hagerstown at Tuscarora
@@ -82,7 +82,7 @@ DESCRIPTION:Final: Tuscarora 1\, North Hagerstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-tuscarora-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Boys Soccer: Frederick at Tuscarora
@@ -92,7 +92,7 @@ URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gambdd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-tuscarora-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Tuscarora
@@ -102,7 +102,7 @@ URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gamb42
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-oakdale-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Boys Soccer: Tuscarora at Oakdale
@@ -112,7 +112,7 @@ URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam315
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-westminster-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Tuscarora at Westminster
@@ -122,7 +122,7 @@ URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam565
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-tuscarora-howard-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Boys Soccer: Howard at Tuscarora
@@ -130,7 +130,7 @@ LOCATION:Tuscarora
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-tuscarora-linganore-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212045Z
+DTSTAMP:20261012T212329Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Linganore at Tuscarora

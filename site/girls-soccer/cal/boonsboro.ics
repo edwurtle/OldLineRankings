@@ -6,7 +6,7 @@ X-WR-CALNAME:Boonsboro Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-fort-hill-boonsboro-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20260905T120000
 DTEND;TZID=America/New_York:20260905T140000
 SUMMARY:Girls Soccer: Boonsboro at Fort Hill
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gambc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-mountain-ridge-boonsboro-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20260905T080000
 DTEND;TZID=America/New_York:20260905T100000
 SUMMARY:Girls Soccer: Boonsboro at Mountain Ridge
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-boonsboro-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: North Hagerstown at Boonsboro
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Boonsboro 1\, North Hagerstown 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-boonsboro-francis-scott-key-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Francis Scott Key at Boonsboro
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Boonsboro 2\, Francis Scott Key 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-brunswick-boonsboro-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20260917T180000
 DTEND;TZID=America/New_York:20260917T200000
 SUMMARY:Girls Soccer: Boonsboro at Brunswick
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam6b1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-boonsboro-middletown-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Middletown at Boonsboro
@@ -63,7 +63,7 @@ DESCRIPTION:Final: Boonsboro 0\, Middletown 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-boonsboro-smithsburg-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Smithsburg at Boonsboro
@@ -72,7 +72,7 @@ DESCRIPTION:Final: Boonsboro 1\, Smithsburg 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-boonsboro-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Williamsport at Boonsboro
@@ -81,7 +81,7 @@ DESCRIPTION:Final: Boonsboro 7\, Williamsport 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-boonsboro-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
 SUMMARY:Girls Soccer: Walkersville at Boonsboro
@@ -91,7 +91,7 @@ URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-mountain-ridge-boonsboro-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Girls Soccer: Boonsboro at Mountain Ridge
@@ -100,7 +100,7 @@ DESCRIPTION:Final: Boonsboro 0\, Mountain Ridge 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-clear-spring-boonsboro-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: Boonsboro at Clear Spring
@@ -108,7 +108,7 @@ LOCATION:Clear Spring
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-catoctin-boonsboro-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Boonsboro at Catoctin
@@ -116,7 +116,7 @@ LOCATION:Catoctin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-boonsboro-frederick-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20261014T170000
 DTEND;TZID=America/New_York:20261014T190000
 SUMMARY:Girls Soccer: Frederick at Boonsboro
@@ -125,7 +125,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6792765
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-boonsboro-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212118Z
+DTSTAMP:20261012T212357Z
 DTSTART;TZID=America/New_York:20261020T171500
 DTEND;TZID=America/New_York:20261020T191500
 SUMMARY:Girls Soccer: South Hagerstown at Boonsboro
