@@ -6,7 +6,7 @@ X-WR-CALNAME:Catoctin Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-catoctin-gov-thomas-johnson-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Gov. Thomas Johnson at Catoctin
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Catoctin 8\, Gov. Thomas Johnson 26
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-catoctin-va-clarke-county-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;TZID=America/New_York:20260910T183000
 DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Football: VA- Clarke County at Catoctin
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamcca22
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-catoctin-williamsport-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;TZID=America/New_York:20260918T180000
 DTEND;TZID=America/New_York:20260918T200000
 SUMMARY:Football: Williamsport at Catoctin
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamd42b5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-catoctin-boonsboro-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Boonsboro at Catoctin
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Catoctin 7\, Boonsboro 55
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-catoctin-south-hagerstown-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: South Hagerstown at Catoctin
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Catoctin 14\, South Hagerstown 34
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-catoctin-walkersville-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Walkersville at Catoctin
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Catoctin 0\, Walkersville 55
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-smithsburg-catoctin-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T200000
 SUMMARY:Football: Catoctin at Smithsburg
@@ -72,7 +72,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam23bfc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-catoctin-middletown-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Middletown at Catoctin
@@ -82,7 +82,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamfe090
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-brunswick-catoctin-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Catoctin at Brunswick

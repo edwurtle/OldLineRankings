@@ -7,11 +7,9 @@
 2. **Set up NFHS Network affiliate links**: apply to the NFHS Network affiliate program
    (https://nfhsnetwork.playonsports.com/affiliate-program, reportedly run on Impact), then add the
    tracking-link format to the ▶ Watch buttons (all watch links are built in `site/app.js`, `watchBtn`).
-3. **Schedule page + full team pages** (in progress): per sport, a schedule page with every game (Upcoming /
-   Results / All, filter by class and boys/girls, search by school) showing time, ▶ Watch, Tickets and
-   add-to-calendar; clicking a team opens a full team page (ratings, odds, full schedule, "Subscribe to
-   schedule"). Data is ready: games carry `time`, `watch`, `tickets`; each team has `cal` (a nightly-rebuilt
-   `.ics` under `site/<sport>/cal/`). Front end still to build.
+3. **Full team pages** (optional): the Schedule page is done (every game, filters, search, Watch/Tickets,
+   team drawers). Still to do: a full page per team with "Subscribe to schedule" (each team already has a
+   nightly-rebuilt `.ics` at `t.cal`, e.g. `football/cal/quince-orchard.ics`) and per-game add-to-calendar.
 4. **Search visibility (Google, other search engines, AI assistants)**: per-page titles/descriptions,
    `sitemap.xml` + `robots.txt`, structured data (schema.org SportsEvent / SportsTeam), crawlable
    per-team URLs (hash routes like `#/team/...` aren't indexed: needs real paths or pre-rendered pages),

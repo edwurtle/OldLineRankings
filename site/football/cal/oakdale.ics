@@ -6,7 +6,7 @@ X-WR-CALNAME:Oakdale Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-oakdale-md-st-john-s-catholic-prep-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: MD- St. John’s Catholic Prep at Oakdale
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Oakdale 63\, MD- St. John’s Catholic Prep 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-oakdale-gov-thomas-johnson-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Gov. Thomas Johnson at Oakdale
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Oakdale 42\, Gov. Thomas Johnson 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-middletown-oakdale-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Oakdale at Middletown
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Oakdale 35\, Middletown 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-oakdale-damascus-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T203000
 SUMMARY:Football: Damascus at Oakdale
@@ -43,7 +43,7 @@ URL:https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/gam0ebb0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-oakdale-urbana-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Urbana at Oakdale
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Oakdale 29\, Urbana 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-linganore-oakdale-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Oakdale at Linganore
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Oakdale 35\, Linganore 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-walkersville-oakdale-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Oakdale at Walkersville
@@ -70,7 +70,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6769944
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-oakdale-frederick-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Frederick at Oakdale
@@ -79,7 +79,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6792287
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-oakdale-tuscarora-football@oldlinerankings
-DTSTAMP:20261012T192318Z
+DTSTAMP:20261012T193002Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Tuscarora at Oakdale

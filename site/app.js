@@ -53,6 +53,7 @@ const findTeam = (g, name) => D.sports[g].teams.find(t => t.school === name);
 const throughAll = Object.values(D.sports).map(s => s.through).sort().pop();
 document.getElementById("updated").textContent = `Games through ${fmtDate(throughAll, {month: "long", day: "numeric", year: "numeric"})} · updated ${D.updated}`;
 document.getElementById("navLinks").innerHTML = DIVS.map(g => `<a href="#/${g}/All" data-nav="${g}">${MULTI ? GENDERS[g] : "Rankings"}</a>`).join("") +
+  `<a href="#/schedule" data-nav="schedule">Schedule</a>` +
   (C.playoffs ? `<a href="#/final8" data-nav="final8">Final 8</a>` : "") + `<a href="#/how" data-nav="how">How it works</a>`;
 // Footer sport switcher: every Old Line Rankings sport, current one highlighted, coming-soon ones dimmed
 document.getElementById("family").innerHTML = C.family.sports.map(s => s.href
@@ -69,7 +70,7 @@ function parseRoute() {
     return {page: "rank", g: parts[0], c: cls("All"), view: p.get("view") || "overall", team: p.get("team")};
   if (parts[0] === "final8" && C.playoffs)
     return {page: "final8", g: p.get("g") in GENDERS ? p.get("g") : DEF, c: cls(CLASSES[0]), view: p.get("view") || "current", team: p.get("team")};
-  return {page: parts[0] === "how" ? "how" : "home", team: p.get("team"), g: p.get("g") || DEF};
+  return {page: ["how", "schedule"].includes(parts[0]) ? parts[0] : "home", team: p.get("team"), g: p.get("g") || DEF};
 }
 function href(r) {
   const p = new URLSearchParams();
@@ -80,7 +81,7 @@ function href(r) {
     return `#/${r.page === "rank" ? r.g : "final8"}/${r.c}` + (p.toString() ? "?" + p : "");
   }
   if (r.team) { p.set("team", r.team); if (MULTI) p.set("g", r.g); }
-  return "#/" + (r.page === "how" ? "how" : "") + (p.toString() ? "?" + p : "");
+  return "#/" + (["how", "schedule"].includes(r.page) ? r.page : "") + (p.toString() ? "?" + p : "");
 }
 function go(patch, replace = false) {
   const h = href(Object.assign(parseRoute(), patch));
@@ -507,8 +508,8 @@ function renderFinal8(r) {
     <div class="crumbs"><a href="#/">Home</a><span>/</span><span>Final 8</span><span>/</span><span>${divName(r.g, r.c)}</span></div>
     <h1>${divName(r.g, r.c)} <span>Final 8</span></h1>
     <div class="sub">${projected
-      ? `Projected: higher Old Line Rating wins every game · seeded by ${SEED.name}.`
-      : `Current: seeds from ${SEED.name} through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})}. Switch to Projected to see predicted games and winners.`}</div>
+      ? `Projected: future games decided by the Old Line Rating · seeded by ${SEED.name}.`
+      : `Current: seeds from ${SEED.name} through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})}.`}</div>
     <div class="switches">
       ${MULTI ? `<div class="pill-group ${r.g !== DEF ? "red" : ""}">${Object.entries(GENDERS).map(([g, l]) => `<a class="${g === r.g ? "on" : ""}" href="${href({...r, g, team: null})}">${l}</a>`).join("")}</div>` : ""}
       <div class="pill-group">${CLASSES.map(c => `<a class="${c === r.c ? "on" : ""}" href="${href({...r, c, team: null})}">${cl(c)}</a>`).join("")}</div>
@@ -520,7 +521,7 @@ function renderFinal8(r) {
         <div class="seg" role="tablist">
           ${Object.entries(F8_VIEWS).map(([v, l]) => `<button data-view="${v}" aria-selected="${v === view}">${l}</button>`).join("")}
         </div>
-        <span class="muted f8-note">${projected ? "Projected games and winners" : "Today's seeds and first-round matchups"}</span>
+        <span class="muted f8-note">${projected ? "Projected seeds and winners" : "Today's seeds and first-round matchups"}</span>
       </div>
     </div>
     <div class="section-head"><div><div class="eyebrow">Step 1 · Region play</div><h2>${divName(r.g, r.c)} regions</h2>
@@ -531,6 +532,89 @@ function renderFinal8(r) {
       ${projected ? "" : "The bracket fills in once region play is done; switch to Projected for a prediction."}</p></div></div>
     <div class="card">${bracket}</div>
   </div>`;
+}
+
+// ---------- schedule ----------
+// Every game once (each is listed under both teams when both are MPSSAA members), as home/away.
+let schedFilter = {when: "upcoming", c: "All", q: "", watch: false};
+function allGames(g) {
+  const games = new Map();
+  for (const t of D.sports[g].teams) {
+    for (const x of [...t.games, ...t.upcoming]) {
+      const home = x.home ? t.school : x.opp, away = x.home ? x.opp : t.school;
+      const key = x.date + "|" + [home, away].sort().join("|");
+      const played = "res" in x;
+      const prev = games.get(key);
+      const game = prev || {date: x.date, home, away, played, status: x.status,
+        hs: played ? (x.home ? x.gf : x.ga) : null, as: played ? (x.home ? x.ga : x.gf) : null, ff: x.ff};
+      // Watch/ticket links and times may come from either team's side
+      game.time = game.time || x.time; game.watch = game.watch || x.watch; game.tickets = game.tickets || x.tickets;
+      games.set(key, game);
+    }
+  }
+  return [...games.values()];
+}
+function renderSchedule(r) {
+  app.innerHTML = `
+  <section class="page-head"><div class="wrap">
+    <div class="crumbs"><a href="#/">Home</a><span>/</span><span>Schedule</span></div>
+    <h1>${GENDERS[r.g]} <span>Schedule</span></h1>
+    <div class="sub">Every game, with start times, live streams and tickets where available. Tap a team for its full schedule.</div>
+    <div class="switches"><div class="pill-group" id="schedCls">${["All", ...CLASSES].map(c =>
+      `<a href="javascript:void 0" data-sc="${c}" class="${c === schedFilter.c ? "on" : ""}">${cl(c)}</a>`).join("")}</div></div>
+  </div></section>
+  <div class="wrap"><div class="card">
+    <div class="toolbar">
+      <div class="seg" role="tablist">${[["upcoming", "Upcoming"], ["results", "Results"], ["all", "All"]].map(([v, l]) =>
+        `<button data-sw="${v}" aria-selected="${v === schedFilter.when}">${l}</button>`).join("")}</div>
+      <label class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="sq" type="search" placeholder="Search teams, mascots, counties…" autocomplete="off" value="${esc(schedFilter.q)}"></label>
+      <label class="check"><input type="checkbox" id="swatch" ${schedFilter.watch ? "checked" : ""}> Streaming only</label>
+    </div>
+    <div id="schedList"></div>
+  </div></div>`;
+  renderScheduleList(r);
+}
+function renderScheduleList(r) {
+  const f = schedFilter, q = f.q.trim().toLowerCase();
+  const info = name => findTeam(r.g, name);
+  const matches = name => { const s = SCHOOLS[name] || {}, t = info(name);
+    return [name, s.mascot, s.county, s.city, t && t.region].some(v => v && v.toLowerCase().includes(q)); };
+  let games = allGames(r.g).filter(x =>
+    (f.when === "all" || (f.when === "upcoming" ? !x.played && x.status !== "postponed" : x.played)) &&
+    (f.c === "All" || [x.home, x.away].some(n => info(n)?.cls === f.c)) &&
+    (!q || matches(x.home) || matches(x.away)) && (!f.watch || x.watch));
+  const asc = f.when === "upcoming";
+  games.sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : (a.time || "99") < (b.time || "99") ? -1 : 1) * (asc ? 1 : -1));
+  const el = document.getElementById("schedList");
+  if (!games.length) { el.innerHTML = `<div class="empty">No games match.</div>`; return; }
+  const fmtTime = t => { if (!t) return "TBA"; const [h, m] = t.split(":").map(Number); return `${h % 12 || 12}:${String(m).padStart(2, "0")} ${h < 12 ? "AM" : "PM"}`; };
+  const team = (side, name, score, won) => {
+    const t = info(name);
+    const label = t ? `<button class="tm" data-team="${esc(name)}">${esc(name)}</button>` : `<span class="tm nm">${esc(name)}</span>`;
+    const meta = t ? `<small><span class="ctag">${cl(t.cls)}</span> #${t.rank} · ${recTxt(t)}</small>` : `<small>Non-public / out of state</small>`;
+    return `<div class="side ${side} ${won === true ? "won" : won === false ? "lost" : ""}">${logo(name, 30)}<div class="who">${label}${meta}</div>${score == null ? "" : `<b class="sc mono">${score}</b>`}</div>`;
+  };
+  let day = "", rows = "";
+  for (const x of games.slice(0, 600)) {
+    if (x.date !== day) {
+      day = x.date;
+      rows += `<div class="sday">${fmtDate(day, {weekday: "long", month: "long", day: "numeric"})}</div>`;
+    }
+    const hw = x.played ? (x.hs > x.as ? true : x.hs < x.as ? false : null) : null;
+    // Football: each side's chance to win (home team hosts)
+    const p = !x.played && OLR && info(x.home) ? winProb(r.g, x.home, x.away, 1) : null;
+    const mid = x.played ? `<span class="fin">${x.ff ? "Forfeit" : "Final"}</span>`
+      : p != null ? `<span class="odds mono" title="Chance to win (Old Line Rating)">${pct(100 * (1 - p))} · ${pct(100 * p)}</span>` : `<span class="at">@</span>`;
+    rows += `<div class="srow">
+      <div class="stime mono">${x.played ? "" : x.date < TODAY ? "Result pending" : fmtTime(x.time)}</div>
+      ${team("away", x.away, x.played ? x.as : null, hw == null ? null : !hw)}
+      <div class="smid">${mid}</div>
+      ${team("home", x.home, x.played ? x.hs : null, hw)}
+      <div class="sact">${watchBtn(x)}${ticketBtn(x)}</div>
+    </div>`;
+  }
+  el.innerHTML = `<div class="sched">${rows}</div>${games.length > 600 ? `<div class="empty">Showing the first 600 of ${games.length} games. Search or filter to narrow it down.</div>` : ""}`;
 }
 
 // ---------- team drawer ----------
@@ -606,7 +690,7 @@ function render() {
   const r = parseRoute();
   const pageKey = r.page + (r.page === "rank" || r.page === "final8" ? r.g + r.c + r.view : "") + (r.page === "home" ? homeGender : "");
   if (pageKey !== render.lastKey) {
-    ({rank: renderRank, final8: renderFinal8, how: renderHow}[r.page] || renderHome)(r);
+    ({rank: renderRank, final8: renderFinal8, how: renderHow, schedule: renderSchedule}[r.page] || renderHome)(r);
     if (render.lastKey && r.page !== render.lastPage) window.scrollTo(0, 0);
     render.lastKey = pageKey; render.lastPage = r.page;
   }
@@ -632,6 +716,15 @@ app.addEventListener("input", e => {
   const r = parseRoute();
   renderList(r, teamsOf(r.g, r.c));
 });
+app.addEventListener("click", e => {
+  const sc = e.target.closest("[data-sc]"), sw = e.target.closest("[data-sw]");
+  if (!sc && !sw) return;
+  if (sc) { schedFilter.c = sc.dataset.sc; document.querySelectorAll("#schedCls a").forEach(a => a.classList.toggle("on", a === sc)); }
+  if (sw) { schedFilter.when = sw.dataset.sw; document.querySelectorAll("[data-sw]").forEach(b => b.setAttribute("aria-selected", b === sw)); }
+  renderScheduleList(parseRoute());
+});
+app.addEventListener("input", e => { if (e.target.id === "sq") { schedFilter.q = e.target.value; renderScheduleList(parseRoute()); } });
+app.addEventListener("change", e => { if (e.target.id === "swatch") { schedFilter.watch = e.target.checked; renderScheduleList(parseRoute()); } });
 app.addEventListener("change", e => { if (e.target.id === "sortSel") setSort(e.target.value, false); });
 document.getElementById("dBody").addEventListener("click", e => {
   const b = e.target.closest("button[data-team]");
