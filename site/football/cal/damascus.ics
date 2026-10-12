@@ -6,7 +6,7 @@ X-WR-CALNAME:Damascus Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-damascus-richard-montgomery-football@oldlinerankings
-DTSTAMP:20261012T201901Z
+DTSTAMP:20261012T202053Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
 SUMMARY:Football: Richard Montgomery at Damascus
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-damascus-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261012T201901Z
+DTSTAMP:20261012T202053Z
 DTSTART;TZID=America/New_York:20260910T183000
 DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Football: Thomas S. Wootton at Damascus
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/gam60239
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-damascus-clarksburg-football@oldlinerankings
-DTSTAMP:20261012T201901Z
+DTSTAMP:20261012T202053Z
 DTSTART;TZID=America/New_York:20260918T183000
 DTEND;TZID=America/New_York:20260918T203000
 SUMMARY:Football: Clarksburg at Damascus
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gam7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-oakdale-damascus-football@oldlinerankings
-DTSTAMP:20261012T201901Z
+DTSTAMP:20261012T202053Z
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T203000
 SUMMARY:Football: Damascus at Oakdale
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/gam0ebb0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-damascus-rockville-football@oldlinerankings
-DTSTAMP:20261012T201901Z
+DTSTAMP:20261012T202053Z
 DTSTART;TZID=America/New_York:20261001T183000
 DTEND;TZID=America/New_York:20261001T203000
 SUMMARY:Football: Rockville at Damascus
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/gam549b1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-damascus-westminster-football@oldlinerankings
-DTSTAMP:20261012T201901Z
+DTSTAMP:20261012T202053Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Westminster at Damascus
@@ -65,7 +65,7 @@ DESCRIPTION:Final: Damascus 14\, Westminster 21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-damascus-albert-einstein-football@oldlinerankings
-DTSTAMP:20261012T201901Z
+DTSTAMP:20261012T202053Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Albert Einstein at Damascus
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/gam46152
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-damascus-sherwood-football@oldlinerankings
-DTSTAMP:20261012T201901Z
+DTSTAMP:20261012T202053Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Sherwood at Damascus
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/sherwood-high-school-sandy-spring-md/gam9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-damascus-col-zadok-magruder-football@oldlinerankings
-DTSTAMP:20261012T201901Z
+DTSTAMP:20261012T202053Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Col. Zadok Magruder at Damascus
