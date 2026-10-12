@@ -794,7 +794,7 @@ function projPanel(g, t) {
   }).join("");
   const mp = x => SEEDS_BY_POINTS ? ` · ${x.avg.toFixed(2)} MPSSAA` : "";
   return `<div class="pp-row"><span>Now</span><b>${recTxt(t)}${mp(t)}</b></div>
-    <div class="pp-sub">Remaining games projected by Old Line Rating</div>
+    <div class="pp-sub">Remaining games projected by OLR</div>
     ${games ? `<ul class="pp-games">${games}</ul>` : `<div class="pp-none">No games left to play.</div>`}
     <div class="pp-row total"><span>Projected</span><b>${recTxt(t.proj)}${mp(t.proj)}</b></div>`;
 }
