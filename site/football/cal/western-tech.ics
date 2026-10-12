@@ -6,7 +6,7 @@ X-WR-CALNAME:Western Tech Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-western-tech-chesapeake-b-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Chesapeake-B at Western Tech
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Western Tech 22\, Chesapeake-B 28
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-western-tech-loch-raven-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Loch Raven at Western Tech
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Western Tech 12\, Loch Raven 38
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-western-tech-towson-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;TZID=America/New_York:20260919T130000
 DTEND;TZID=America/New_York:20260919T150000
 SUMMARY:Football: Towson at Western Tech
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gambd5b46323
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-western-tech-lansdowne-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Football: Lansdowne at Western Tech
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Western Tech 14\, Lansdowne 15
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-pikesville-western-tech-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Western Tech at Pikesville
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Western Tech 22\, Pikesville 20
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-western-tech-patapsco-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Football: Patapsco at Western Tech
@@ -62,7 +62,7 @@ URL:https://www.nfhsnetwork.com/events/patapsco-high-school-baltimore-md/gam328b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-western-tech-sparrows-point-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Football: Sparrows Point at Western Tech
@@ -72,7 +72,7 @@ URL:https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-western-tech-eastern-tech-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Football: Eastern Tech at Western Tech
@@ -80,7 +80,7 @@ LOCATION:Western Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-western-tech-rising-sun-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Football: Rising Sun at Western Tech

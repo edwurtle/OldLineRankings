@@ -6,7 +6,7 @@ X-WR-CALNAME:James M. Bennett Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-washington-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261012T190344Z
+DTSTAMP:20261012T190537Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Boys Soccer: James M. Bennett at Washington
@@ -15,7 +15,7 @@ DESCRIPTION:Final: James M. Bennett 8\, Washington 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-pocomoke-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261012T190344Z
+DTSTAMP:20261012T190537Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Boys Soccer: James M. Bennett at Pocomoke
@@ -24,7 +24,7 @@ DESCRIPTION:Final: James M. Bennett 4\, Pocomoke 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-crisfield-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261012T190344Z
+DTSTAMP:20261012T190537Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: James M. Bennett at Crisfield
@@ -33,7 +33,7 @@ DESCRIPTION:Final: James M. Bennett 8\, Crisfield 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-queen-anne-s-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261012T190344Z
+DTSTAMP:20261012T190537Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Boys Soccer: James M. Bennett at Queen Anne's
@@ -42,7 +42,7 @@ DESCRIPTION:Final: James M. Bennett 2\, Queen Anne's 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-snow-hill-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261012T190344Z
+DTSTAMP:20261012T190537Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Boys Soccer: James M. Bennett at Snow Hill
@@ -51,7 +51,7 @@ DESCRIPTION:Final: James M. Bennett 2\, Snow Hill 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-wicomico-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261012T190344Z
+DTSTAMP:20261012T190537Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Boys Soccer: James M. Bennett at Wicomico
@@ -60,7 +60,7 @@ DESCRIPTION:Final: James M. Bennett 4\, Wicomico 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-mardela-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261012T190344Z
+DTSTAMP:20261012T190537Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: James M. Bennett at Mardela
@@ -69,7 +69,7 @@ DESCRIPTION:Final: James M. Bennett 5\, Mardela 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-kent-island-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261012T190344Z
+DTSTAMP:20261012T190537Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Boys Soccer: James M. Bennett at Kent Island
@@ -78,7 +78,7 @@ DESCRIPTION:Final: James M. Bennett 3\, Kent Island 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-easton-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261012T190344Z
+DTSTAMP:20261012T190537Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Boys Soccer: James M. Bennett at Easton
@@ -87,7 +87,7 @@ DESCRIPTION:Final: James M. Bennett 1\, Easton 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-james-m-bennett-stephen-decatur-boys-soccer@oldlinerankings
-DTSTAMP:20261012T190344Z
+DTSTAMP:20261012T190537Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Stephen Decatur at James M. Bennett
@@ -95,7 +95,7 @@ LOCATION:James M. Bennett
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-parkside-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261012T190344Z
+DTSTAMP:20261012T190537Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: James M. Bennett at Parkside
@@ -103,7 +103,7 @@ LOCATION:Parkside
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-north-caroline-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261012T190344Z
+DTSTAMP:20261012T190537Z
 DTSTART;TZID=America/New_York:20261019T174500
 DTEND;TZID=America/New_York:20261019T194500
 SUMMARY:Boys Soccer: James M. Bennett at North Caroline

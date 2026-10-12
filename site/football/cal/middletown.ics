@@ -6,7 +6,7 @@ X-WR-CALNAME:Middletown Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-boonsboro-middletown-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Middletown at Boonsboro
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Middletown 18\, Boonsboro 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-middletown-kent-island-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;TZID=America/New_York:20260911T163000
 DTEND;TZID=America/New_York:20260911T183000
 SUMMARY:Football: Kent Island at Middletown
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-middletown-oakdale-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Oakdale at Middletown
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Middletown 7\, Oakdale 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-middletown-frederick-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T203000
 SUMMARY:Football: Frederick at Middletown
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-middletown-tuscarora-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Football: Tuscarora at Middletown
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-brunswick-middletown-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T203000
 SUMMARY:Football: Middletown at Brunswick
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam2be
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-middletown-linganore-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Linganore at Middletown
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-catoctin-middletown-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Middletown at Catoctin
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamfe090
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-middletown-walkersville-football@oldlinerankings
-DTSTAMP:20261012T190313Z
+DTSTAMP:20261012T190513Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Walkersville at Middletown
