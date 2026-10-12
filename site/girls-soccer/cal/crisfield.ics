@@ -6,7 +6,7 @@ X-WR-CALNAME:Crisfield Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-crisfield-snow-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Snow Hill at Crisfield
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Crisfield 0\, Snow Hill 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-crisfield-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: James M. Bennett at Crisfield
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Crisfield 0\, James M. Bennett 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-crisfield-north-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Girls Soccer: North Dorchester at Crisfield
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Crisfield 1\, North Dorchester 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-kent-county-crisfield-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;TZID=America/New_York:20260921T160000
 DTEND;TZID=America/New_York:20260921T180000
 SUMMARY:Girls Soccer: Crisfield at Kent County
@@ -43,7 +43,7 @@ URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/game56b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-crisfield-mardela-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Mardela at Crisfield
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Crisfield 0\, Mardela 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-colonel-richardson-crisfield-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Crisfield at Colonel Richardson
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Crisfield 0\, Colonel Richardson 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-crisfield-snow-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Snow Hill at Crisfield
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Crisfield 0\, Snow Hill 12
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-crisfield-stephen-decatur-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Stephen Decatur at Crisfield
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Crisfield 0\, Stephen Decatur 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-crisfield-parkside-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Parkside at Crisfield
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Crisfield 0\, Parkside 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-crisfield-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Wicomico at Crisfield
@@ -96,7 +96,7 @@ LOCATION:Crisfield
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-crisfield-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at Crisfield
@@ -104,7 +104,7 @@ LOCATION:Crisfield
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-wicomico-crisfield-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Crisfield at Wicomico
@@ -112,7 +112,7 @@ LOCATION:Wicomico
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-north-dorchester-crisfield-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Girls Soccer: Crisfield at North Dorchester
@@ -120,7 +120,7 @@ LOCATION:North Dorchester
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-mardela-crisfield-girls-soccer@oldlinerankings
-DTSTAMP:20261012T191056Z
+DTSTAMP:20261012T191331Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Girls Soccer: Crisfield at Mardela
