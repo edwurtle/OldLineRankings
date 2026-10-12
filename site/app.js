@@ -504,7 +504,7 @@ function bracketHTML(rounds, names, endName, slot, opts = {}) {
     const last = i === rounds.length - 1;
     const body = last ? games.map(m => cell(match(m))).join("")
       : Array.from({length: games.length / 2}, (_, j) => `<div class="bpair">${cell(match(games[2 * j]))}${cell(match(games[2 * j + 1]))}</div>`).join("");
-    return `<div class="bcol${i ? " fed" : ""}${last && endName ? " to-next" : ""}"><h4>${names[i]}${opts.pct ? `<span class="h4-pct">win %</span>` : ""}</h4><div class="bgames">${body}</div></div>`;
+    return `<div class="bcol${i ? " fed" : ""}${last && endName ? " to-next" : ""}"><h4>${names[i]}</h4><div class="bgames">${body}</div></div>`;
   });
   const end = rounds[rounds.length - 1].map(m => cell(`<div class="match">${slot(m.w === BYE ? null : m.w, null, isTeam(m.w) ? "win" : "")}${opts.endExtra ? opts.endExtra(m.w) : ""}</div>`)).join("");
   return `<div class="bracket ${opts.cls || ""}" style="grid-template-columns:repeat(${rounds.length + (endName ? 1 : 0)}, minmax(var(--colw), var(--colmax, 1fr)))">${cols.join("")}
@@ -514,17 +514,18 @@ function renderFinal8(r) {
   const view = r.view in F8_VIEWS ? r.view : "current", projected = view !== "current";
   const {val, pick, regions, final8, regionSeed} = seeding(r.g, r.c, view);
   // Each record carries its own seeding number where that isn't just the record (football's MPSSAA points)
-  const pts = (x, label) => SEEDS_BY_POINTS ? ` · ${x.avg.toFixed(2)} ${label}` : "";
-  const nowLine = t => `${projected ? "now " : ""}${recTxt(t)}${pts(t, "MPSSAA")}`;
-  const projLine = t => `<span class="proj-tag">projected ${recTxt(t.proj)}</span>${pts(t.proj, "projected MPSSAA")}`;
+  // Detail lines: current view = record and (football) MPSSAA points, each on its own line;
+  // projected view = a "Projected" chip that opens the games behind the projection
+  const ln = html => `<span class="ln">${html}</span>`;
+  const nowLines = t => ln(recTxt(t)) + (SEEDS_BY_POINTS ? ln(`${t.avg.toFixed(2)} MPSSAA`) : "");
+  const projChip = t => `<button class="proj-pill" data-proj="${esc(t.school)}" title="How this was projected"><span class="pp-head">Projected <svg class="chev" viewBox="0 0 24 24" width="13" height="13" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>${recTxt(t.proj)}</span>${SEEDS_BY_POINTS ? `<span>${t.proj.avg.toFixed(2)} MPSSAA</span>` : ""}</button>`;
   // Projected view shows the projected record next to the actual one
   // Region (mini) brackets get a short detail line: record and seeding number
   const slotFor = (seedOf, mini) => (x, p, cls) => {
     if (x === BYE) return `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">Bye</span></div>`;
     if (!isTeam(x)) return `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">${x && x.label ? esc(x.label) : "TBD"}</span></div>`;
     return `<div class="slot ${cls}" data-team="${esc(x.school)}"><span class="seed mono">${seedOf(x)}</span>${logo(x.school, 24)}
-      <span class="nm" title="${esc(x.school)}">${esc(x.school)}<small>${mini ? (projected ? projLine(x) : nowLine(x))
-        : projected ? `${esc(x.region)}<br>${projLine(x)}<br>${nowLine(x)}` : `${esc(x.region)} · ${nowLine(x)}`}</small></span>
+      <span class="nm" title="${esc(x.school)}">${esc(x.school)}<small>${mini ? "" : ln(esc(x.region))}${projected ? projChip(x) : nowLines(x)}</small></span>
       <span class="avg mono" title="Chance to win this game (Old Line Rating)">${p == null ? "" : pct(100 * p)}</span></div>`;
   };
   const stateSeed = t => final8.indexOf(t) + 1;
@@ -774,7 +775,39 @@ function render() {
   if (r.team) openTeam(r.g || DEF, r.team); else closeDrawer();
 }
 
+// "Projected" chip: a floating panel with the current record, each remaining game's projected result
+// (higher Old Line Rating wins) and the projected record
+function projPanel(g, t) {
+  const games = t.upcoming.filter(u => u.status !== "postponed").map(u => {
+    const p = winProb(g, t.school, u.opp, u.home ? 1 : -1);
+    return `<li><span>${fmtDate(u.date)} ${u.home ? "vs" : "@"} ${esc(u.opp)}</span><b class="${p >= .5 ? "w" : "l"}">${p >= .5 ? "W" : "L"}</b><small>${pct(100 * (p >= .5 ? p : 1 - p))}</small></li>`;
+  }).join("");
+  const mp = x => SEEDS_BY_POINTS ? ` · ${x.avg.toFixed(2)} MPSSAA` : "";
+  return `<div class="pp-row"><span>Now</span><b>${recTxt(t)}${mp(t)}</b></div>
+    <div class="pp-sub">Remaining games · higher Old Line Rating wins</div>
+    ${games ? `<ul class="pp-games">${games}</ul>` : `<div class="pp-none">No games left to play.</div>`}
+    <div class="pp-row total"><span>Projected</span><b>${recTxt(t.proj)}${mp(t.proj)}</b></div>`;
+}
+const projPop = document.createElement("div");
+projPop.className = "proj-pop"; projPop.hidden = true;
+document.body.appendChild(projPop);
+function closeProjPop() { projPop.hidden = true; }
+document.addEventListener("click", e => { if (!e.target.closest(".proj-pop, .proj-pill")) closeProjPop(); });
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeProjPop(); });
 app.addEventListener("click", e => {
+  const pill = e.target.closest(".proj-pill");
+  if (pill) {   // the chip sits inside a clickable team slot: show the projection, don't open the team
+    e.stopPropagation();
+    const r = parseRoute(), t = findTeam(r.g, pill.dataset.proj), box = pill.getBoundingClientRect();
+    if (!projPop.hidden && projPop.dataset.team === t.school) return closeProjPop();
+    projPop.dataset.team = t.school;
+    projPop.innerHTML = `<div class="pp-title">${esc(t.school)}</div>${projPanel(r.g, t)}`;
+    projPop.hidden = false;
+    const w = projPop.offsetWidth, h = projPop.offsetHeight;
+    projPop.style.left = scrollX + Math.max(8, Math.min(box.left, innerWidth - w - 8)) + "px";
+    projPop.style.top = scrollY + (box.bottom + 6 + h > innerHeight ? Math.max(8, box.top - h - 6) : box.bottom + 6) + "px";
+    return;
+  }
   const hg = e.target.closest("[data-hg]");
   if (hg) { homeGender = hg.dataset.hg; render.lastKey = null; return render(); }
   const view = e.target.closest("[data-view]");
