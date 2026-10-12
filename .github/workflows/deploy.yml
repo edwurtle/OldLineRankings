@@ -31,7 +31,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
           git add site
-          git diff --cached --quiet || (git commit -m "Refresh results $(date -u +%F)" && git push)
+          # Someone may push while this runs: retry on top of their commit (keeping this run's fresh data),
+          # and never let saving the data stop the deploy below.
+          git diff --cached --quiet || (git commit -m "Refresh results $(date -u +%F)" && \
+            (git push || (git pull --rebase -X theirs origin main && git push) || echo "Could not save refreshed data; deploying anyway"))
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
