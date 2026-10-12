@@ -294,6 +294,10 @@ function renderHow() {
       : `Every team has an <b>Old Line Rating</b>, built from capped ${C.score.plural.replace(/s$/, "")} margins and the strength of every opponent. Playoffs are seeded by <b>${SEED.name}</b>.`}</div>
   </div></section>
   <div class="wrap how-page">
+    <div class="note-fun"><b>Just for fun.</b> The Old Line Rating is a computer ranking built only from scores and schedules.
+      It doesn't know about injuries, weather, lineups or anything else that happens on the field, so it won't always get it right.
+      This site is for fun and curiosity, and no offense is meant to any team, player or coach.
+      <b>The outcome is always decided on the field, not by a computer.</b></div>
     ${howOLR()}
     ${SEEDS_BY_POINTS ? `<section class="how-section">
       ${howHead("Playoff seeding", "MPSSAA points", "The MPSSAA's own point system. It decides playoff seeding, so the Final 8 seeds by it.")}
