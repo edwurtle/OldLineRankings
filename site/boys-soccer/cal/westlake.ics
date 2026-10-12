@@ -6,7 +6,7 @@ X-WR-CALNAME:Westlake Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-westlake-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Great Mills at Westlake
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Westlake 1\, Great Mills 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-westlake-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Chopticon at Westlake
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Westlake 0\, Chopticon 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-thomas-stone-westlake-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Westlake at Thomas Stone
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Westlake 0\, Thomas Stone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-westlake-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Leonardtown at Westlake
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Westlake 0\, Leonardtown 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-henry-e-lackey-westlake-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;TZID=America/New_York:20260917T163000
 DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Boys Soccer: Westlake at Henry E. Lackey
@@ -52,7 +52,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gamb3cd39
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-westlake-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;TZID=America/New_York:20260923T163000
 DTEND;TZID=America/New_York:20260923T183000
 SUMMARY:Boys Soccer: Huntingtown at Westlake
@@ -62,7 +62,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam7b7519
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-patuxent-westlake-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;TZID=America/New_York:20260929T184500
 DTEND;TZID=America/New_York:20260929T204500
 SUMMARY:Boys Soccer: Westlake at Patuxent
@@ -72,7 +72,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam51218184
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-westlake-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: Northern-C at Westlake
@@ -82,7 +82,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gama87d84
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-calvert-westlake-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: Westlake at Calvert
@@ -92,7 +92,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-la-plata-westlake-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;TZID=America/New_York:20261013T183000
 DTEND;TZID=America/New_York:20261013T203000
 SUMMARY:Boys Soccer: Westlake at La Plata
@@ -102,7 +102,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gamb882e9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-mcdonough-westlake-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: Westlake at McDonough
@@ -111,7 +111,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6762659
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-westlake-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Boys Soccer: North Point at Westlake

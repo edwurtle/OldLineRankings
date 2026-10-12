@@ -6,7 +6,7 @@ X-WR-CALNAME:Suitland Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-charles-h-flowers-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Suitland at Charles H. Flowers
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Suitland 0\, Charles H. Flowers 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-suitland-parkdale-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Parkdale at Suitland
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Suitland 1\, Parkdale 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-bladensburg-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;TZID=America/New_York:20260917T163000
 DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Boys Soccer: Suitland at Bladensburg
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-high-point-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;TZID=America/New_York:20260924T153000
 DTEND;TZID=America/New_York:20260924T173000
 SUMMARY:Boys Soccer: Suitland at High Point
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gam3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-duval-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Suitland at DuVal
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Suitland 3\, DuVal 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-suitland-duval-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: DuVal at Suitland
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Suitland 0\, DuVal 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-suitland-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Bowie at Suitland
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Suitland 0\, Bowie 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-eleanor-roosevelt-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Suitland at Eleanor Roosevelt
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Suitland 0\, Eleanor Roosevelt 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-laurel-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Suitland at Laurel
@@ -88,7 +88,7 @@ LOCATION:Laurel
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-northwestern-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;TZID=America/New_York:20261015T153000
 DTEND;TZID=America/New_York:20261015T173000
 SUMMARY:Boys Soccer: Suitland at Northwestern
@@ -98,7 +98,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-dr-henry-a-wise-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;TZID=America/New_York:20261019T190000
 DTEND;TZID=America/New_York:20261019T210000
 SUMMARY:Boys Soccer: Suitland at Dr. Henry A. Wise
@@ -107,7 +107,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6718179
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-crossland-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261012T193035Z
+DTSTAMP:20261012T193336Z
 DTSTART;TZID=America/New_York:20261021T150000
 DTEND;TZID=America/New_York:20261021T170000
 SUMMARY:Boys Soccer: Suitland at Crossland
