@@ -6,7 +6,7 @@ X-WR-CALNAME:Edmondson-Westside Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-national-academy-foundation-naf-edmondson-westside-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Girls Soccer: Edmondson-Westside at National Academy Foundation (NAF)
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Edmondson-Westside 0\, National Academy Foundation (NAF) 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-edmondson-westside-baltimore-polytechnic-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;TZID=America/New_York:20260916T154500
 DTEND;TZID=America/New_York:20260916T174500
 SUMMARY:Girls Soccer: Baltimore Polytechnic at Edmondson-Westside
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/baltimore-polytechnic-institute-baltimore
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-edmondson-westside-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Girls Soccer: Western-B at Edmondson-Westside
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Edmondson-Westside 2\, Western-B 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-edmondson-westside-patterson-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: Patterson at Edmondson-Westside
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Edmondson-Westside 0\, Patterson 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-edmondson-westside-baltimore-city-college-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Girls Soccer: Baltimore City College at Edmondson-Westside
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Edmondson-Westside 0\, Baltimore City College 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-edmondson-westside-paul-laurence-dunbar-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Paul Laurence Dunbar at Edmondson-Westside
@@ -60,7 +60,7 @@ LOCATION:Edmondson-Westside
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-edmondson-westside-digital-harbor-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Digital Harbor at Edmondson-Westside

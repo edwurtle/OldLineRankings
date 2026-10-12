@@ -6,7 +6,7 @@ X-WR-CALNAME:Franklin Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-franklin-parkville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Parkville at Franklin
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Franklin 8\, Parkville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-franklin-dundalk-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Dundalk at Franklin
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Franklin 2\, Dundalk 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-franklin-kenwood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
 SUMMARY:Girls Soccer: Kenwood at Franklin
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gam066ec
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-overlea-franklin-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: Franklin at Overlea
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Franklin 9\, Overlea 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-franklin-carver-aandt-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Carver A&T at Franklin
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Franklin 2\, Carver A&T 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-franklin-parkville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Parkville at Franklin
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Franklin 5\, Parkville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-hereford-franklin-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;TZID=America/New_York:20261005T173000
 DTEND;TZID=America/New_York:20261005T193000
 SUMMARY:Girls Soccer: Franklin at Hereford
@@ -71,7 +71,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam3810da
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-franklin-dundalk-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Girls Soccer: Dundalk at Franklin
@@ -79,7 +79,7 @@ LOCATION:Franklin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-franklin-kenwood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Kenwood at Franklin
@@ -87,7 +87,7 @@ LOCATION:Franklin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-overlea-franklin-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Franklin at Overlea
@@ -95,7 +95,7 @@ LOCATION:Overlea
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-carver-aandt-franklin-girls-soccer@oldlinerankings
-DTSTAMP:20261012T203840Z
+DTSTAMP:20261012T204213Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Franklin at Carver A&T

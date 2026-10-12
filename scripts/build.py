@@ -398,12 +398,13 @@ def write_splash(built, stamp):
                 logo = (b["schools"].get(t["school"]) or {}).get("logo")
                 img = f'<img src="{esc(logo[3:])}" alt="" loading="lazy">' if logo else ""
                 label = cfg.get("labels", {}).get(c, c) + (" " + cfg["divisions"][div]["label"] if multi else "")
-                leaders.append(f'<li><span class="lc"><i>#1</i> {esc(label)}</span><span class="logo" style="--sz:26px">{img}</span><b>{esc(t["school"])}</b></li>')
+                leaders.append(f'<li><span class="lc">{esc(label)}</span><span class="logo" style="--sz:26px">{img}</span><b>{esc(t["school"])}</b></li>')
         divs = " & ".join(d["label"] for d in cfg["divisions"].values()) if multi else ""
         date = datetime.date.fromisoformat(through).strftime("%b %-d")
         cards.append(f'''<a class="sport-card" href="{b["href"]}">
       <div class="sport-top"><span class="sport-icon">{icons.svg(cfg["icon"])}</span><div><h2>{esc(cfg["sport"])}</h2>
         <small>{esc(" · ".join(filter(None, [divs, cfg["season"] + " " + through[:4], f"{teams} teams", f"through {date}"])))}</small></div></div>
+      <div class="leaders-head">Top Old Line Rating <span>· by class</span></div>
       <ul class="leaders">{"".join(leaders)}</ul>
       <span class="sport-go">Old Line {esc(cfg["sport"])} Rankings →</span></a>''')
     coming = [f'''<div class="sport-card soon"><div class="sport-top"><span class="sport-icon">{icons.svg(c["icon"])}</span>

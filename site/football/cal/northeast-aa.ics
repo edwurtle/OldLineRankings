@@ -6,7 +6,7 @@ X-WR-CALNAME:Northeast-AA Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-northeast-aa-rising-sun-football@oldlinerankings
-DTSTAMP:20261012T203748Z
+DTSTAMP:20261012T204057Z
 DTSTART;TZID=America/New_York:20260904T184500
 DTEND;TZID=America/New_York:20260904T204500
 SUMMARY:Football: Rising Sun at Northeast-AA
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-northeast-aa-severna-park-football@oldlinerankings
-DTSTAMP:20261012T203748Z
+DTSTAMP:20261012T204057Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Severna Park at Northeast-AA
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-northeast-aa-williamsport-football@oldlinerankings
-DTSTAMP:20261012T203748Z
+DTSTAMP:20261012T204057Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Williamsport at Northeast-AA
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Northeast-AA 6\, Williamsport 21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-lansdowne-northeast-aa-football@oldlinerankings
-DTSTAMP:20261012T203748Z
+DTSTAMP:20261012T204057Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Northeast-AA at Lansdowne
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Northeast-AA 44\, Lansdowne 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-northeast-aa-centennial-football@oldlinerankings
-DTSTAMP:20261012T203748Z
+DTSTAMP:20261012T204057Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Football: Centennial at Northeast-AA
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Northeast-AA 35\, Centennial 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-northeast-aa-chesapeake-aa-football@oldlinerankings
-DTSTAMP:20261012T203748Z
+DTSTAMP:20261012T204057Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Football: Chesapeake-AA at Northeast-AA
@@ -61,7 +61,7 @@ LOCATION:Northeast-AA
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-northeast-aa-southern-aa-football@oldlinerankings
-DTSTAMP:20261012T203748Z
+DTSTAMP:20261012T204057Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Southern-AA at Northeast-AA
@@ -70,7 +70,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6810851
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-northeast-aa-south-river-football@oldlinerankings
-DTSTAMP:20261012T203748Z
+DTSTAMP:20261012T204057Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: South River at Northeast-AA
