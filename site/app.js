@@ -513,17 +513,18 @@ function bracketHTML(rounds, names, endName, slot, opts = {}) {
 function renderFinal8(r) {
   const view = r.view in F8_VIEWS ? r.view : "current", projected = view !== "current";
   const {val, pick, regions, final8, regionSeed} = seeding(r.g, r.c, view);
-  const showSeed = SEEDS_BY_POINTS;
-  const seedTxt = t => showSeed ? ` · ${SEED.fmt(SEED.val(val(t)))} ${SEED.unit}` : "";
+  // Each record carries its own seeding number where that isn't just the record (football's MPSSAA points)
+  const pts = (x, label) => SEEDS_BY_POINTS ? ` · ${x.avg.toFixed(2)} ${label}` : "";
+  const nowLine = t => `${projected ? "now " : ""}${recTxt(t)}${pts(t, "MPSSAA")}`;
+  const projLine = t => `<span class="proj-tag">proj ${recTxt(t.proj)}</span>${pts(t.proj, "proj MPSSAA")}`;
   // Projected view shows the projected record next to the actual one
-  const recLine = t => projected ? `<span class="proj-tag">proj ${recTxt(val(t))}</span><br>now ${recTxt(t)}` : recTxt(t);
   // Region (mini) brackets get a short detail line: record and seeding number
   const slotFor = (seedOf, mini) => (x, p, cls) => {
     if (x === BYE) return `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">Bye</span></div>`;
     if (!isTeam(x)) return `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">${x && x.label ? esc(x.label) : "TBD"}</span></div>`;
     return `<div class="slot ${cls}" data-team="${esc(x.school)}"><span class="seed mono">${seedOf(x)}</span>${logo(x.school, 24)}
-      <span class="nm" title="${esc(x.school)}">${esc(x.school)}<small>${mini ? `${projected ? "proj " : ""}${recTxt(val(x))}${showSeed ? " · " + SEED.fmt(SEED.val(val(x))) : ""}`
-        : `${esc(x.region)} · ${recLine(x)}${seedTxt(x)}`}</small></span>
+      <span class="nm" title="${esc(x.school)}">${esc(x.school)}<small>${mini ? (projected ? projLine(x) : nowLine(x))
+        : projected ? `${esc(x.region)}<br>${projLine(x)}<br>${nowLine(x)}` : `${esc(x.region)} · ${nowLine(x)}`}</small></span>
       <span class="avg mono" title="Chance to win this game (Old Line Rating)">${p == null ? "" : pct(100 * p)}</span></div>`;
   };
   const stateSeed = t => final8.indexOf(t) + 1;
@@ -531,7 +532,7 @@ function renderFinal8(r) {
   const regionRounds = Math.log2(8 / PL.per_region);
   const regionNames = regionRounds === 3 ? ["Quarterfinals", "Semifinals", "Region final"] : ["Round 1", "Round 2"];
   const regionCards = regions.map(({reg, teams, rounds}) => `<div class="rcard"><div class="rhead"><h3>${reg}</h3>
-      <small>${teams.length} teams · seeded by ${projected ? "projected " : ""}${SEED.name}${SEEDS_BY_POINTS ? " (shown after the record)" : ""}</small></div>
+      <small>${teams.length} teams · seeded by ${projected ? "projected " : ""}${SEED.name}</small></div>
       ${bracketHTML(rounds, regionNames, PL.per_region === 1 ? null : "To Final 8", slotFor(t => regionSeed.get(t), true), {cls: "mini", pct: projected && OLR})}</div>`).join("");
   // State tournament: current shows only the seed lines; projected plays it out
   const stateRounds = projected ? playBracket(final8, 3, pick)
