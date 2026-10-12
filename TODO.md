@@ -2,8 +2,8 @@
 
 1. **Set up the domain**: buy `oldlinerankings.com` (was unregistered on 2026-10-12, as were .org/.net)
    and serve the site from it: add `site/CNAME`, set the custom domain in the repo's GitHub Pages settings,
-   add the DNS records at the registrar (4 A records + `www` CNAME), turn on HTTPS. The old
-   `edwurtle.github.io/md-soccer-rankings/` links will redirect.
+   add the DNS records at the registrar (4 A records + `www` CNAME), turn on HTTPS. The
+   `edwurtle.github.io/OldLineRankings/` links will redirect.
 2. **Set up NFHS Network affiliate links**: apply to the NFHS Network affiliate program
    (https://nfhsnetwork.playonsports.com/affiliate-program, reportedly run on Impact), then add the
    tracking-link format to the ▶ Watch buttons (all watch links are built in `site/app.js`, `watchBtn`).
