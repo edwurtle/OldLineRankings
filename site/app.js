@@ -524,7 +524,7 @@ function renderFinal8(r) {
     if (!projected) return lines;
     // Projected: a link under both lines opens the games behind the projection
     const left = t.upcoming.filter(u => u.status !== "postponed").length;
-    return lines + (left ? `<button class="proj-link" data-proj="${esc(t.school)}" title="How this was projected">${left} game${left === 1 ? "" : "s"} left ›</button>`
+    return lines + (left ? `<button class="proj-link" data-proj="${esc(t.school)}" title="How this was projected">${left} game${left === 1 ? "" : "s"} projected ›</button>`
       : `<span class="d-done">Season complete</span>`);
   };
   // Region (mini) brackets get a short detail line: record and seeding number
