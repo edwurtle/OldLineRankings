@@ -6,7 +6,7 @@ X-WR-CALNAME:Perryville Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-perryville-bel-air-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234709Z
+DTSTAMP:20261012T234913Z
 DTSTART;TZID=America/New_York:20260904T170000
 DTEND;TZID=America/New_York:20260904T190000
 SUMMARY:Girls Soccer: Bel Air at Perryville
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-perryville-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234709Z
+DTSTAMP:20261012T234913Z
 DTSTART;TZID=America/New_York:20260915T170000
 DTEND;TZID=America/New_York:20260915T190000
 SUMMARY:Girls Soccer: Rising Sun at Perryville
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gamf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-perryville-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234709Z
+DTSTAMP:20261012T234913Z
 DTSTART;TZID=America/New_York:20260917T153000
 DTEND;TZID=America/New_York:20260917T173000
 SUMMARY:Girls Soccer: Edgewood at Perryville
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-patterson-mill-perryville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234709Z
+DTSTAMP:20261012T234913Z
 DTSTART;TZID=America/New_York:20260921T153000
 DTEND;TZID=America/New_York:20260921T173000
 SUMMARY:Girls Soccer: Perryville at Patterson Mill
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-bohemia-manor-perryville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234709Z
+DTSTAMP:20261012T234913Z
 DTSTART;TZID=America/New_York:20260922T153000
 DTEND;TZID=America/New_York:20260922T173000
 SUMMARY:Girls Soccer: Perryville at Bohemia Manor
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-perryville-elkton-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234709Z
+DTSTAMP:20261012T234913Z
 DTSTART;TZID=America/New_York:20260924T170000
 DTEND;TZID=America/New_York:20260924T190000
 SUMMARY:Girls Soccer: Elkton at Perryville
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/elkton-high-school-elkton-md/gam13998785a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-perryville-north-east-c-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234709Z
+DTSTAMP:20261012T234913Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Girls Soccer: North East-C at Perryville
@@ -75,7 +75,7 @@ DESCRIPTION:Final: Perryville 2\, North East-C 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-perryville-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234709Z
+DTSTAMP:20261012T234913Z
 DTSTART;TZID=America/New_York:20261006T183000
 DTEND;TZID=America/New_York:20261006T203000
 SUMMARY:Girls Soccer: North Harford at Perryville
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-perryville-fallston-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234709Z
+DTSTAMP:20261012T234913Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Fallston at Perryville
@@ -93,7 +93,7 @@ LOCATION:Perryville
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-havre-de-grace-perryville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234709Z
+DTSTAMP:20261012T234913Z
 DTSTART;TZID=America/New_York:20261013T180000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Girls Soccer: Perryville at Havre de Grace
@@ -103,7 +103,7 @@ URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-perryville-c-milton-wright-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234709Z
+DTSTAMP:20261012T234913Z
 DTSTART;TZID=America/New_York:20261019T153000
 DTEND;TZID=America/New_York:20261019T173000
 SUMMARY:Girls Soccer: C. Milton Wright at Perryville
@@ -113,7 +113,7 @@ URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-perryville-tbd-ucbac-girls-soccer@oldlinerankings
-DTSTAMP:20261012T234709Z
+DTSTAMP:20261012T234913Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Girls Soccer: TBD- Ucbac at Perryville
