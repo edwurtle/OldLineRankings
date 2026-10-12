@@ -6,7 +6,7 @@ X-WR-CALNAME:Walkersville Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-liberty-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Walkersville at Liberty
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Walkersville 0\, Liberty 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-walkersville-linganore-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Girls Soccer: Linganore at Walkersville
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-francis-scott-key-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;TZID=America/New_York:20260915T180000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Girls Soccer: Walkersville at Francis Scott Key
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-clear-spring-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Walkersville at Clear Spring
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Walkersville 6\, Clear Spring 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-middletown-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Girls Soccer: Walkersville at Middletown
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-smithsburg-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Girls Soccer: Walkersville at Smithsburg
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-brunswick-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: Walkersville at Brunswick
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam2f6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-catoctin-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;TZID=America/New_York:20261006T180000
 DTEND;TZID=America/New_York:20261006T200000
 SUMMARY:Girls Soccer: Walkersville at Catoctin
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamc8184
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-boonsboro-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
 SUMMARY:Girls Soccer: Walkersville at Boonsboro
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-walkersville-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Williamsport at Walkersville
@@ -102,7 +102,7 @@ LOCATION:Walkersville
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-south-carroll-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Girls Soccer: Walkersville at South Carroll
@@ -112,7 +112,7 @@ URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-walkersville-manchester-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Girls Soccer: Manchester Valley at Walkersville

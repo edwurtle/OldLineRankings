@@ -6,7 +6,7 @@ X-WR-CALNAME:Reginald Lewis Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-reginald-lewis-digital-harbor-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;TZID=America/New_York:20260904T154500
 DTEND;TZID=America/New_York:20260904T174500
 SUMMARY:Football: Digital Harbor at Reginald Lewis
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-reginald-lewis-central-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Football: Central at Reginald Lewis
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/central-high-school-capitol-heights-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-green-street-academy-reginald-lewis-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Reginald Lewis at Green Street Academy
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Reginald Lewis 6\, Green Street Academy 64
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-reginald-lewis-edmondson-westside-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Edmondson-Westside at Reginald Lewis
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Reginald Lewis 6\, Edmondson-Westside 60
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-frederick-douglass-b-reginald-lewis-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Reginald Lewis at Frederick Douglass-B
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Reginald Lewis 0\, Frederick Douglass-B 38
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-reginald-lewis-patterson-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Patterson at Reginald Lewis
@@ -61,7 +61,7 @@ LOCATION:Reginald Lewis
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-reginald-lewis-carver-vocational-technical-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Football: Carver Vocational-Technical at Reginald Lewis
@@ -69,7 +69,7 @@ LOCATION:Reginald Lewis
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-reginald-lewis-lake-clifton-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;TZID=America/New_York:20261023T154500
 DTEND;TZID=America/New_York:20261023T174500
 SUMMARY:Football: Lake Clifton at Reginald Lewis

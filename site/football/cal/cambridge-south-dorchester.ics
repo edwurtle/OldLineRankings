@@ -6,7 +6,7 @@ X-WR-CALNAME:Cambridge-South Dorchester Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-cambridge-south-dorchester-kent-island-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;TZID=America/New_York:20260904T175000
 DTEND;TZID=America/New_York:20260904T195000
 SUMMARY:Football: Kent Island at Cambridge-South Dorchester
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-cambridge-south-dorchester-james-m-bennett-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: James M. Bennett at Cambridge-South Dorchester
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 18\, James M. Bennett 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-cambridge-south-dorchester-de-laurel-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: DE- Laurel at Cambridge-South Dorchester
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 21\, DE- Laurel 28
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-cambridge-south-dorchester-wicomico-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Wicomico at Cambridge-South Dorchester
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 6\, Wicomico 30
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-colonel-richardson-cambridge-south-dorchester-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Cambridge-South Dorchester at Colonel Richardson
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 35\, Colonel Richardson 25
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-cambridge-south-dorchester-kent-county-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:Football: Kent County at Cambridge-South Dorchester
@@ -62,7 +62,7 @@ URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamb50c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-cambridge-south-dorchester-snow-hill-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Football: Snow Hill at Cambridge-South Dorchester
@@ -70,7 +70,7 @@ LOCATION:Cambridge-South Dorchester
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-cambridge-south-dorchester-washington-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Washington at Cambridge-South Dorchester
@@ -78,7 +78,7 @@ LOCATION:Cambridge-South Dorchester
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-cambridge-south-dorchester-easton-football@oldlinerankings
-DTSTAMP:20261012T200340Z
+DTSTAMP:20261012T200538Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Football: Easton at Cambridge-South Dorchester

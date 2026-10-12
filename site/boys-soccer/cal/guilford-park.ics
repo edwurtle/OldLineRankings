@@ -6,7 +6,7 @@ X-WR-CALNAME:Guilford Park Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-guilford-park-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200420Z
+DTSTAMP:20261012T200611Z
 DTSTART;TZID=America/New_York:20260909T173000
 DTEND;TZID=America/New_York:20260909T193000
 SUMMARY:Boys Soccer: Reservoir at Guilford Park
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gam0f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-centennial-guilford-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200420Z
+DTSTAMP:20261012T200611Z
 DTSTART;TZID=America/New_York:20260915T173000
 DTEND;TZID=America/New_York:20260915T193000
 SUMMARY:Boys Soccer: Guilford Park at Centennial
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gam1b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-glenelg-guilford-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200420Z
+DTSTAMP:20261012T200611Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Guilford Park at Glenelg
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Guilford Park 0\, Glenelg 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-wilde-lake-guilford-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200420Z
+DTSTAMP:20261012T200611Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Guilford Park at Wilde Lake
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Guilford Park 1\, Wilde Lake 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-hammond-guilford-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200420Z
+DTSTAMP:20261012T200611Z
 DTSTART;TZID=America/New_York:20260929T173000
 DTEND;TZID=America/New_York:20260929T193000
 SUMMARY:Boys Soccer: Guilford Park at Hammond
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gam2c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-howard-guilford-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200420Z
+DTSTAMP:20261012T200611Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Guilford Park at Howard
@@ -63,7 +63,7 @@ DESCRIPTION:Final: Guilford Park 1\, Howard 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-atholton-guilford-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200420Z
+DTSTAMP:20261012T200611Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Guilford Park at Atholton
@@ -72,7 +72,7 @@ DESCRIPTION:Final: Guilford Park 1\, Atholton 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-long-reach-guilford-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200420Z
+DTSTAMP:20261012T200611Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Boys Soccer: Guilford Park at Long Reach
@@ -82,7 +82,7 @@ URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gamb6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-marriotts-ridge-guilford-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200420Z
+DTSTAMP:20261012T200611Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Guilford Park at Marriotts Ridge
@@ -90,7 +90,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-river-hill-guilford-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200420Z
+DTSTAMP:20261012T200611Z
 DTSTART;TZID=America/New_York:20261016T173000
 DTEND;TZID=America/New_York:20261016T193000
 SUMMARY:Boys Soccer: Guilford Park at River Hill
@@ -100,7 +100,7 @@ URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gam74
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-mount-hebron-guilford-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200420Z
+DTSTAMP:20261012T200611Z
 DTSTART;TZID=America/New_York:20261020T173000
 DTEND;TZID=America/New_York:20261020T193000
 SUMMARY:Boys Soccer: Guilford Park at Mount Hebron
@@ -110,7 +110,7 @@ URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gamad
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-oakland-mills-guilford-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T200420Z
+DTSTAMP:20261012T200611Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Guilford Park at Oakland Mills

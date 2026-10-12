@@ -6,7 +6,7 @@ X-WR-CALNAME:Marriotts Ridge Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-la-plata-marriotts-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;TZID=America/New_York:20260905T113000
 DTEND;TZID=America/New_York:20260905T133000
 SUMMARY:Girls Soccer: Marriotts Ridge at La Plata
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-catonsville-marriotts-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;TZID=America/New_York:20260905T080000
 DTEND;TZID=America/New_York:20260905T100000
 SUMMARY:Girls Soccer: Marriotts Ridge at Catonsville
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-long-reach-marriotts-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Girls Soccer: Marriotts Ridge at Long Reach
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Marriotts Ridge 0\, Long Reach 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-marriotts-ridge-reservoir-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Reservoir at Marriotts Ridge
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Marriotts Ridge 1\, Reservoir 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-river-hill-marriotts-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Marriotts Ridge at River Hill
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Marriotts Ridge 1\, River Hill 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-mount-hebron-marriotts-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Girls Soccer: Marriotts Ridge at Mount Hebron
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Marriotts Ridge 0\, Mount Hebron 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-wilde-lake-marriotts-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Marriotts Ridge at Wilde Lake
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Marriotts Ridge 2\, Wilde Lake 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-marriotts-ridge-atholton-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Atholton at Marriotts Ridge
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Marriotts Ridge 2\, Atholton 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-centennial-marriotts-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Marriotts Ridge at Centennial
@@ -89,7 +89,7 @@ DESCRIPTION:Final: Marriotts Ridge 3\, Centennial 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-marriotts-ridge-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Oakland Mills at Marriotts Ridge
@@ -98,7 +98,7 @@ DESCRIPTION:Final: Marriotts Ridge 3\, Oakland Mills 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-marriotts-ridge-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Girls Soccer: South River at Marriotts Ridge
@@ -106,7 +106,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-marriotts-ridge-glenelg-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Glenelg at Marriotts Ridge
@@ -114,7 +114,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-marriotts-ridge-guilford-park-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;TZID=America/New_York:20261013T173000
 DTEND;TZID=America/New_York:20261013T193000
 SUMMARY:Girls Soccer: Guilford Park at Marriotts Ridge
@@ -124,7 +124,7 @@ URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gamfc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-glenelg-marriotts-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Marriotts Ridge at Glenelg
@@ -132,7 +132,7 @@ LOCATION:Glenelg
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-hammond-marriotts-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: Marriotts Ridge at Hammond
@@ -140,7 +140,7 @@ LOCATION:Hammond
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-howard-marriotts-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261012T200455Z
+DTSTAMP:20261012T200645Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: Marriotts Ridge at Howard
