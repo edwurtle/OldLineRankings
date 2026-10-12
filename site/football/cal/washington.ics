@@ -6,7 +6,7 @@ X-WR-CALNAME:Washington Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-11-washington-north-east-c-football@oldlinerankings
-DTSTAMP:20261012T190724Z
+DTSTAMP:20261012T191011Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: North East-C at Washington
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Washington 44\, North East-C 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-colonel-richardson-washington-football@oldlinerankings
-DTSTAMP:20261012T190724Z
+DTSTAMP:20261012T191011Z
 DTSTART;TZID=America/New_York:20260918T180000
 DTEND;TZID=America/New_York:20260918T200000
 SUMMARY:Football: Washington at Colonel Richardson
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-washington-snow-hill-football@oldlinerankings
-DTSTAMP:20261012T190724Z
+DTSTAMP:20261012T191011Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Snow Hill at Washington
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Washington 0\, Snow Hill 36
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-washington-va-nandua-football@oldlinerankings
-DTSTAMP:20261012T190724Z
+DTSTAMP:20261012T191011Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: VA- Nandua at Washington
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/nandua-high-school-onley-va/gam378e01737f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-washington-va-arcadia-football@oldlinerankings
-DTSTAMP:20261012T190724Z
+DTSTAMP:20261012T191011Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: VA- Arcadia at Washington
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Washington 0\, VA- Arcadia 20
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-kent-county-washington-football@oldlinerankings
-DTSTAMP:20261012T190724Z
+DTSTAMP:20261012T191011Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Football: Washington at Kent County
@@ -61,7 +61,7 @@ LOCATION:Kent County
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-cambridge-south-dorchester-washington-football@oldlinerankings
-DTSTAMP:20261012T190724Z
+DTSTAMP:20261012T191011Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Washington at Cambridge-South Dorchester
@@ -69,7 +69,7 @@ LOCATION:Cambridge-South Dorchester
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-washington-de-seaford-football@oldlinerankings
-DTSTAMP:20261012T190724Z
+DTSTAMP:20261012T191011Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: DE- Seaford at Washington
