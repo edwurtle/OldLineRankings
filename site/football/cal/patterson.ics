@@ -6,7 +6,7 @@ X-WR-CALNAME:Patterson Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-long-reach-patterson-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Patterson at Long Reach
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/long-reach-high-school-columbia-md/gam585
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-chesapeake-aa-patterson-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Patterson at Chesapeake-AA
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam070
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-baltimore-city-college-patterson-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Patterson at Baltimore City College
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Patterson 0\, Baltimore City College 46
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-patterson-mergenthaler-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Mergenthaler at Patterson
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Patterson 0\, Mergenthaler 46
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-patterson-digital-harbor-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Digital Harbor at Patterson
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Patterson 8\, Digital Harbor 29
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-reginald-lewis-patterson-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Patterson at Reginald Lewis
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Patterson 12\, Reginald Lewis 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-forest-park-patterson-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Football: Patterson at Forest Park
@@ -70,7 +70,7 @@ LOCATION:Forest Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-baltimore-polytechnic-patterson-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Patterson at Baltimore Polytechnic
@@ -80,7 +80,7 @@ URL:https://www.nfhsnetwork.com/events/baltimore-polytechnic-institute-baltimore
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-paul-laurence-dunbar-patterson-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Football: Patterson at Paul Laurence Dunbar

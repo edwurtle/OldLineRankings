@@ -6,7 +6,7 @@ X-WR-CALNAME:Lake Clifton Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-lake-clifton-forest-park-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Forest Park at Lake Clifton
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Lake Clifton 0\, Forest Park 36
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-lake-clifton-frederick-douglass-pg-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: Frederick Douglass-PG at Lake Clifton
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Lake Clifton 0\, Frederick Douglass-PG 37
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-lake-clifton-edmondson-westside-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Edmondson-Westside at Lake Clifton
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Lake Clifton 2\, Edmondson-Westside 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-lake-clifton-carver-vocational-technical-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Carver Vocational-Technical at Lake Clifton
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Lake Clifton 0\, Carver Vocational-Technical 26
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-lake-clifton-paul-laurence-dunbar-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Paul Laurence Dunbar at Lake Clifton
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Lake Clifton 0\, Paul Laurence Dunbar 82
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-frederick-douglass-b-lake-clifton-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Lake Clifton at Frederick Douglass-B
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Lake Clifton 6\, Frederick Douglass-B 26
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-reginald-lewis-lake-clifton-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;TZID=America/New_York:20261023T154500
 DTEND;TZID=America/New_York:20261023T174500
 SUMMARY:Football: Lake Clifton at Reginald Lewis
@@ -70,7 +70,7 @@ URL:https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-green-street-academy-lake-clifton-football@oldlinerankings
-DTSTAMP:20261012T234356Z
+DTSTAMP:20261012T234614Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Football: Lake Clifton at Green Street Academy

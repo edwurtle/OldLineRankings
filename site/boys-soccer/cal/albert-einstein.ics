@@ -6,7 +6,7 @@ X-WR-CALNAME:Albert Einstein Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-albert-einstein-james-hubert-blake-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20260908T191500
 DTEND;TZID=America/New_York:20260908T211500
 SUMMARY:Boys Soccer: James Hubert Blake at Albert Einstein
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/james-hubert-blake-high-school-silver-spr
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-albert-einstein-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20260922T191500
 DTEND;TZID=America/New_York:20260922T211500
 SUMMARY:Boys Soccer: John F. Kennedy at Albert Einstein
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-albert-einstein-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
 SUMMARY:Boys Soccer: Wheaton at Albert Einstein
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-albert-einstein-montgomery-blair-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20260929T191500
 DTEND;TZID=America/New_York:20260929T211500
 SUMMARY:Boys Soccer: Montgomery Blair at Albert Einstein
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-albert-einstein-richard-montgomery-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20261001T191500
 DTEND;TZID=America/New_York:20261001T211500
 SUMMARY:Boys Soccer: Richard Montgomery at Albert Einstein
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-northwood-albert-einstein-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20261005T173000
 DTEND;TZID=America/New_York:20261005T193000
 SUMMARY:Boys Soccer: Albert Einstein at Northwood
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-walt-whitman-albert-einstein-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20261007T191500
 DTEND;TZID=America/New_York:20261007T211500
 SUMMARY:Boys Soccer: Albert Einstein at Walt Whitman
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-rockville-albert-einstein-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Albert Einstein at Rockville
@@ -84,7 +84,7 @@ LOCATION:Rockville
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-bethesda-cc-albert-einstein-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20261012T191500
 DTEND;TZID=America/New_York:20261012T211500
 SUMMARY:Boys Soccer: Albert Einstein at Bethesda-CC
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-col-zadok-magruder-albert-einstein-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20261014T191500
 DTEND;TZID=America/New_York:20261014T211500
 SUMMARY:Boys Soccer: Albert Einstein at Col. Zadok Magruder
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-albert-einstein-paint-branch-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20261019T191500
 DTEND;TZID=America/New_York:20261019T211500
 SUMMARY:Boys Soccer: Paint Branch at Albert Einstein
@@ -114,7 +114,7 @@ URL:https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-poolesville-albert-einstein-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20261021T191500
 DTEND;TZID=America/New_York:20261021T211500
 SUMMARY:Boys Soccer: Albert Einstein at Poolesville

@@ -6,7 +6,7 @@ X-WR-CALNAME:Friendly Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-international-hs-at-langley-park-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Friendly at International HS at Langley Park
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Friendly 1\, International HS at Langley Park 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-friendly-fairmont-heights-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20260914T164500
 DTEND;TZID=America/New_York:20260914T184500
 SUMMARY:Boys Soccer: Fairmont Heights at Friendly
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-crossland-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20260916T150000
 DTEND;TZID=America/New_York:20260916T170000
 SUMMARY:Boys Soccer: Friendly at Crossland
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-cmit-south-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20260924T150000
 DTEND;TZID=America/New_York:20260924T170000
 SUMMARY:Boys Soccer: Friendly at CMIT - South
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-friendly-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20260928T163000
 DTEND;TZID=America/New_York:20260928T183000
 SUMMARY:Boys Soccer: Oxon Hill at Friendly
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gam052
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-college-park-academy-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20261001T164500
 DTEND;TZID=America/New_York:20261001T184500
 SUMMARY:Boys Soccer: Friendly at College Park Academy
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-friendly-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20261005T150000
 DTEND;TZID=America/New_York:20261005T170000
 SUMMARY:Boys Soccer: Largo at Friendly
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-international-hs-at-largo-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20261007T180000
 DTEND;TZID=America/New_York:20261007T200000
 SUMMARY:Boys Soccer: Friendly at International HS at Largo
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-central-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20261012T152500
 DTEND;TZID=America/New_York:20261012T172500
 SUMMARY:Boys Soccer: Friendly at Central
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/central-high-school-capitol-heights-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-chesapeake-science-point-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Boys Soccer: Friendly at Chesapeake Science Point
@@ -104,7 +104,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6768517
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-friendly-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Potomac at Friendly
@@ -112,7 +112,7 @@ LOCATION:Friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-patuxent-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261012T234427Z
+DTSTAMP:20261012T234642Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Boys Soccer: Friendly at Patuxent
