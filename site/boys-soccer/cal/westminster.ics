@@ -6,7 +6,7 @@ X-WR-CALNAME:Westminster Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-westminster-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Westminster
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-century-westminster-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Westminster at Century
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Westminster 0\, Century 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-liberty-westminster-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Westminster at Liberty
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Westminster 1\, Liberty 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-south-carroll-westminster-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Westminster at South Carroll
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Westminster 0\, South Carroll 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-westminster-linganore-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Linganore at Westminster
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Westminster 2\, Linganore 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-manchester-valley-westminster-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Westminster at Manchester Valley
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Westminster 3\, Manchester Valley 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-winters-mill-westminster-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Westminster at Winters Mill
@@ -69,7 +69,7 @@ LOCATION:Winters Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-westminster-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Tuscarora at Westminster
@@ -79,7 +79,7 @@ URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam565
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-south-carroll-westminster-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Boys Soccer: Westminster at South Carroll
@@ -87,7 +87,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-westminster-urbana-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20261019T190000
 DTEND;TZID=America/New_York:20261019T210000
 SUMMARY:Boys Soccer: Urbana at Westminster
@@ -97,7 +97,7 @@ URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam4c20d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-francis-scott-key-westminster-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Boys Soccer: Westminster at Francis Scott Key

@@ -6,7 +6,7 @@ X-WR-CALNAME:Walt Whitman Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-walt-whitman-dc-gonzaga-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20260905T180000
 DTEND;TZID=America/New_York:20260905T200000
 SUMMARY:Boys Soccer: DC- Gonzaga at Walt Whitman
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-walt-whitman-md-landon-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20260908T191500
 DTEND;TZID=America/New_York:20260908T211500
 SUMMARY:Boys Soccer: MD - Landon at Walt Whitman
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-walt-whitman-dc-st-john-s-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Boys Soccer: DC- St. John's at Walt Whitman
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-walt-whitman-walter-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20260914T191500
 DTEND;TZID=America/New_York:20260914T211500
 SUMMARY:Boys Soccer: Walter Johnson at Walt Whitman
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-thomas-s-wootton-walt-whitman-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20260916T191500
 DTEND;TZID=America/New_York:20260916T211500
 SUMMARY:Boys Soccer: Walt Whitman at Thomas S. Wootton
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-walt-whitman-winston-churchill-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Boys Soccer: Winston Churchill at Walt Whitman
@@ -65,7 +65,7 @@ DESCRIPTION:Final: Walt Whitman 0\, Winston Churchill 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-quince-orchard-walt-whitman-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20260925T191500
 DTEND;TZID=America/New_York:20260925T211500
 SUMMARY:Boys Soccer: Walt Whitman at Quince Orchard
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-bethesda-cc-walt-whitman-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20260928T191500
 DTEND;TZID=America/New_York:20260928T211500
 SUMMARY:Boys Soccer: Walt Whitman at Bethesda-CC
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-clarksburg-walt-whitman-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20261002T191500
 DTEND;TZID=America/New_York:20261002T211500
 SUMMARY:Boys Soccer: Walt Whitman at Clarksburg
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-walt-whitman-albert-einstein-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20261007T191500
 DTEND;TZID=America/New_York:20261007T211500
 SUMMARY:Boys Soccer: Albert Einstein at Walt Whitman
@@ -105,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-northwest-walt-whitman-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20261014T191500
 DTEND;TZID=America/New_York:20261014T211500
 SUMMARY:Boys Soccer: Walt Whitman at Northwest
@@ -115,7 +115,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gamb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-walt-whitman-montgomery-blair-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20261019T191500
 DTEND;TZID=America/New_York:20261019T211500
 SUMMARY:Boys Soccer: Montgomery Blair at Walt Whitman
@@ -125,7 +125,7 @@ URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-walt-whitman-paint-branch-boys-soccer@oldlinerankings
-DTSTAMP:20261012T203635Z
+DTSTAMP:20261012T203818Z
 DTSTART;TZID=America/New_York:20261021T171500
 DTEND;TZID=America/New_York:20261021T191500
 SUMMARY:Boys Soccer: Paint Branch at Walt Whitman
