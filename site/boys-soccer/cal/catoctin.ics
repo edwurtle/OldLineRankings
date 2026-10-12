@@ -6,7 +6,7 @@ X-WR-CALNAME:Catoctin Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-catoctin-south-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T233250Z
+DTSTAMP:20261012T233431Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: South Hagerstown at Catoctin
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Catoctin 2\, South Hagerstown 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-catoctin-md-private-highland-view-boys-soccer@oldlinerankings
-DTSTAMP:20261012T233250Z
+DTSTAMP:20261012T233431Z
 DTSTART;TZID=America/New_York:20260915T180000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Boys Soccer: MD Private- Highland View at Catoctin
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam0d7c9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-catoctin-middletown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T233250Z
+DTSTAMP:20261012T233431Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Boys Soccer: Middletown at Catoctin
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gamd95d6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-catoctin-smithsburg-boys-soccer@oldlinerankings
-DTSTAMP:20261012T233250Z
+DTSTAMP:20261012T233431Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Smithsburg at Catoctin
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Catoctin 3\, Smithsburg 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-brunswick-catoctin-boys-soccer@oldlinerankings
-DTSTAMP:20261012T233250Z
+DTSTAMP:20261012T233431Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Catoctin at Brunswick
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam068
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-clear-spring-catoctin-boys-soccer@oldlinerankings
-DTSTAMP:20261012T233250Z
+DTSTAMP:20261012T233431Z
 DTSTART;TZID=America/New_York:20260929T173000
 DTEND;TZID=America/New_York:20260929T193000
 SUMMARY:Boys Soccer: Catoctin at Clear Spring
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam723fd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-catoctin-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261012T233250Z
+DTSTAMP:20261012T233431Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Boys Soccer: Walkersville at Catoctin
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/walkersville-high-school-walkersville-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-catoctin-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261012T233250Z
+DTSTAMP:20261012T233431Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Boys Soccer: Williamsport at Catoctin
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam85ed7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-catoctin-boonsboro-boys-soccer@oldlinerankings
-DTSTAMP:20261012T233250Z
+DTSTAMP:20261012T233431Z
 DTSTART;TZID=America/New_York:20261013T173000
 DTEND;TZID=America/New_York:20261013T193000
 SUMMARY:Boys Soccer: Boonsboro at Catoctin
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam71d56
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-catoctin-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T233250Z
+DTSTAMP:20261012T233431Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Catoctin
