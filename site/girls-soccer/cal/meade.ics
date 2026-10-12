@@ -6,7 +6,7 @@ X-WR-CALNAME:Meade Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-15-south-river-meade-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211444Z
+DTSTAMP:20261012T211711Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Girls Soccer: Meade at South River
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-meade-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211444Z
+DTSTAMP:20261012T211711Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: Broadneck at Meade
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Meade 0\, Broadneck 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-old-mill-meade-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211444Z
+DTSTAMP:20261012T211711Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Meade at Old Mill
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Meade 0\, Old Mill 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-chesapeake-aa-meade-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211444Z
+DTSTAMP:20261012T211711Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: Meade at Chesapeake-AA
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam009cbafe
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-glen-burnie-meade-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211444Z
+DTSTAMP:20261012T211711Z
 DTSTART;TZID=America/New_York:20261001T164500
 DTEND;TZID=America/New_York:20261001T184500
 SUMMARY:Girls Soccer: Meade at Glen Burnie
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam3e17ce0d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-severn-run-meade-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211444Z
+DTSTAMP:20261012T211711Z
 DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T190000
 SUMMARY:Girls Soccer: Meade at Severn Run
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam39a1d914
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-southern-aa-meade-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211444Z
+DTSTAMP:20261012T211711Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Meade at Southern-AA
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam76410b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-chesapeake-science-point-meade-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211444Z
+DTSTAMP:20261012T211711Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Meade at Chesapeake Science Point
@@ -82,7 +82,7 @@ LOCATION:Chesapeake Science Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-meade-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211444Z
+DTSTAMP:20261012T211711Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Girls Soccer: Annapolis at Meade
@@ -92,7 +92,7 @@ URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam473391dd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-northeast-aa-meade-girls-soccer@oldlinerankings
-DTSTAMP:20261012T211444Z
+DTSTAMP:20261012T211711Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Girls Soccer: Meade at Northeast-AA

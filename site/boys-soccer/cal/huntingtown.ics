@@ -6,7 +6,7 @@ X-WR-CALNAME:Huntingtown Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-huntingtown-thomas-stone-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Thomas Stone at Huntingtown
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Huntingtown 12\, Thomas Stone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-henry-e-lackey-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Huntingtown at Henry E. Lackey
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Huntingtown 4\, Henry E. Lackey 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-huntingtown-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Great Mills at Huntingtown
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Huntingtown 0\, Great Mills 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-huntingtown-mcdonough-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: McDonough at Huntingtown
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Huntingtown 2\, McDonough 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-westlake-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20260923T163000
 DTEND;TZID=America/New_York:20260923T183000
 SUMMARY:Boys Soccer: Huntingtown at Westlake
@@ -52,7 +52,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam7b7519
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-huntingtown-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Boys Soccer: Chopticon at Huntingtown
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Huntingtown 1\, Chopticon 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-calvert-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20260929T181500
 DTEND;TZID=America/New_York:20260929T201500
 SUMMARY:Boys Soccer: Huntingtown at Calvert
@@ -71,7 +71,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-southern-aa-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Boys Soccer: Huntingtown at Southern-AA
@@ -81,7 +81,7 @@ URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gambca8ba
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-patuxent-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: Huntingtown at Patuxent
@@ -91,7 +91,7 @@ URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-huntingtown-la-plata-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: La Plata at Huntingtown
@@ -101,7 +101,7 @@ URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam0172c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-huntingtown-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20261013T181500
 DTEND;TZID=America/New_York:20261013T201500
 SUMMARY:Boys Soccer: Northern-C at Huntingtown
@@ -111,7 +111,7 @@ URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-huntingtown-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: St. Charles at Huntingtown

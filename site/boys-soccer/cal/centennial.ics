@@ -6,7 +6,7 @@ X-WR-CALNAME:Centennial Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-wilde-lake-centennial-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Boys Soccer: Centennial at Wilde Lake
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Centennial 4\, Wilde Lake 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-centennial-guilford-park-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20260915T173000
 DTEND;TZID=America/New_York:20260915T193000
 SUMMARY:Boys Soccer: Guilford Park at Centennial
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gam1b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-hammond-centennial-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Centennial at Hammond
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Centennial 1\, Hammond 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-centennial-howard-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Howard at Centennial
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Centennial 1\, Howard 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-long-reach-centennial-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Centennial at Long Reach
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Centennial 1\, Long Reach 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-centennial-marriotts-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Marriotts Ridge at Centennial
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Centennial 0\, Marriotts Ridge 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-glenelg-centennial-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Centennial at Glenelg
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Centennial 2\, Glenelg 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-mount-hebron-centennial-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Centennial at Mount Hebron
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Centennial 1\, Mount Hebron 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-centennial-oakland-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Oakland Mills at Centennial
@@ -87,7 +87,7 @@ LOCATION:Centennial
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-centennial-atholton-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Boys Soccer: Atholton at Centennial
@@ -95,7 +95,7 @@ LOCATION:Centennial
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-centennial-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: Reservoir at Centennial
@@ -103,7 +103,7 @@ LOCATION:Centennial
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-river-hill-centennial-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Centennial at River Hill

@@ -6,7 +6,7 @@ X-WR-CALNAME:Northern-G Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-northern-g-wv-petersburg-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: WV-Petersburg at Northern-G
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Northern-G 6\, WV-Petersburg 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-mountain-ridge-northern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20260908T180000
 DTEND;TZID=America/New_York:20260908T200000
 SUMMARY:Boys Soccer: Northern-G at Mountain Ridge
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-northern-g-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20260915T180000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Boys Soccer: Southern-G at Northern-G
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-fort-hill-northern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20260919T130000
 DTEND;TZID=America/New_York:20260919T150000
 SUMMARY:Boys Soccer: Northern-G at Fort Hill
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam3f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-mountain-ridge-northern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20260922T193000
 DTEND;TZID=America/New_York:20260922T213000
 SUMMARY:Boys Soccer: Northern-G at Mountain Ridge
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-allegany-northern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20260924T180000
 DTEND;TZID=America/New_York:20260924T200000
 SUMMARY:Boys Soccer: Northern-G at Allegany
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-fort-hill-northern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20260929T193000
 DTEND;TZID=America/New_York:20260929T213000
 SUMMARY:Boys Soccer: Northern-G at Fort Hill
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-northern-g-private-md-bishop-walsh-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20260930T180000
 DTEND;TZID=America/New_York:20260930T200000
 SUMMARY:Boys Soccer: Private- MD-Bishop Walsh at Northern-G
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-northern-g-private-md-lighthouse-christian-academy-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20261006T180000
 DTEND;TZID=America/New_York:20261006T200000
 SUMMARY:Boys Soccer: Private -MD-Lighthouse Christian Academy at Northern-G
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-northern-g-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20261008T093000
 DTEND;TZID=America/New_York:20261008T113000
 SUMMARY:Boys Soccer: Southern-G at Northern-G
@@ -105,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-northern-g-wv-frankfort-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20261013T180000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Boys Soccer: WV-Frankfort at Northern-G
@@ -115,7 +115,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-allegany-northern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T211417Z
+DTSTAMP:20261012T211648Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
 SUMMARY:Boys Soccer: Northern-G at Allegany
