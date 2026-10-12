@@ -6,7 +6,7 @@ X-WR-CALNAME:Northern-C Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-northern-c-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;TZID=America/New_York:20260904T181500
 DTEND;TZID=America/New_York:20260904T201500
 SUMMARY:Girls Soccer: Chopticon at Northern-C
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamcdcb1df
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-atholton-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;TZID=America/New_York:20260905T160500
 DTEND;TZID=America/New_York:20260905T180500
 SUMMARY:Girls Soccer: Northern-C at Atholton
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/atholton-high-school-columbia-md/gamc6052
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-northern-c-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;TZID=America/New_York:20260905T130000
 DTEND;TZID=America/New_York:20260905T150000
 SUMMARY:Girls Soccer: Montgomery Blair at Northern-C
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-northern-c-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Leonardtown at Northern-C
@@ -45,7 +45,7 @@ DESCRIPTION:Final: Northern-C 0\, Leonardtown 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-northern-c-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: St. Charles at Northern-C
@@ -54,7 +54,7 @@ DESCRIPTION:Final: Northern-C 14\, St. Charles 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-calvert-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;TZID=America/New_York:20260917T203500
 DTEND;TZID=America/New_York:20260917T223500
 SUMMARY:Girls Soccer: Northern-C at Calvert
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-northern-c-archbishop-spalding-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: Archbishop Spalding at Northern-C
@@ -73,7 +73,7 @@ DESCRIPTION:Final: Northern-C 0\, Archbishop Spalding 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-la-plata-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;TZID=America/New_York:20260924T181500
 DTEND;TZID=America/New_York:20260924T201500
 SUMMARY:Girls Soccer: Northern-C at La Plata
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gam65fb9b0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-northern-c-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;TZID=America/New_York:20260925T181500
 DTEND;TZID=America/New_York:20260925T201500
 SUMMARY:Girls Soccer: Great Mills at Northern-C
@@ -93,7 +93,7 @@ URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamba43d4f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-la-plata-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;TZID=America/New_York:20261001T181500
 DTEND;TZID=America/New_York:20261001T201500
 SUMMARY:Girls Soccer: Northern-C at La Plata
@@ -103,7 +103,7 @@ URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam640ba
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-mcdonough-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Girls Soccer: Northern-C at McDonough
@@ -113,7 +113,7 @@ URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gam57b82a0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-westlake-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;TZID=America/New_York:20261008T183000
 DTEND;TZID=America/New_York:20261008T203000
 SUMMARY:Girls Soccer: Northern-C at Westlake
@@ -123,7 +123,7 @@ URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam4bd756
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-huntingtown-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;TZID=America/New_York:20261013T163000
 DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Girls Soccer: Northern-C at Huntingtown
@@ -133,7 +133,7 @@ URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-patuxent-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;TZID=America/New_York:20261019T181500
 DTEND;TZID=America/New_York:20261019T201500
 SUMMARY:Girls Soccer: Northern-C at Patuxent

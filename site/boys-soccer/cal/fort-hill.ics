@@ -6,7 +6,7 @@ X-WR-CALNAME:Fort Hill Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-fort-hill-private-md-broadfording-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;TZID=America/New_York:20260905T180000
 DTEND;TZID=America/New_York:20260905T200000
 SUMMARY:Boys Soccer: Private MD- Broadfording at Fort Hill
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam2e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-fort-hill-mountain-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;TZID=America/New_York:20260905T180000
 DTEND;TZID=America/New_York:20260905T200000
 SUMMARY:Boys Soccer: Mountain Ridge at Fort Hill
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam2e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-allegany-fort-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Boys Soccer: Fort Hill at Allegany
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam9a9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-fort-hill-wv-keyser-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: WV- Keyser at Fort Hill
@@ -45,7 +45,7 @@ DESCRIPTION:Final: Fort Hill 5\, WV- Keyser 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-fort-hill-northern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;TZID=America/New_York:20260919T130000
 DTEND;TZID=America/New_York:20260919T150000
 SUMMARY:Boys Soccer: Northern-G at Fort Hill
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam3f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-fort-hill-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Boys Soccer: Southern-G at Fort Hill
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam16
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-fort-hill-mountain-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Mountain Ridge at Fort Hill
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam15
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-fort-hill-northern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;TZID=America/New_York:20260929T193000
 DTEND;TZID=America/New_York:20260929T213000
 SUMMARY:Boys Soccer: Northern-G at Fort Hill
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-allegany-fort-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Boys Soccer: Fort Hill at Allegany
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam5a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-fort-hill-private-md-bishop-walsh-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;TZID=America/New_York:20261003T130000
 DTEND;TZID=America/New_York:20261003T150000
 SUMMARY:Boys Soccer: Private MD- Bishop Walsh at Fort Hill
@@ -105,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam05
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-fort-hill-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;TZID=America/New_York:20261007T190000
 DTEND;TZID=America/New_York:20261007T210000
 SUMMARY:Boys Soccer: Southern-G at Fort Hill
@@ -115,7 +115,7 @@ URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-fort-hill-wv-hampshire-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Boys Soccer: WV- Hampshire at Fort Hill
@@ -123,7 +123,7 @@ LOCATION:Fort Hill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-fort-hill-private-md-bishop-walsh-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Private MD- Bishop Walsh at Fort Hill
@@ -131,7 +131,7 @@ LOCATION:Fort Hill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-fort-hill-private-md-lighthouse-christian-academy-boys-soccer@oldlinerankings
-DTSTAMP:20261012T212329Z
+DTSTAMP:20261012T213101Z
 DTSTART;TZID=America/New_York:20261017T130000
 DTEND;TZID=America/New_York:20261017T150000
 SUMMARY:Boys Soccer: Private MD- Lighthouse Christian Academy at Fort Hill

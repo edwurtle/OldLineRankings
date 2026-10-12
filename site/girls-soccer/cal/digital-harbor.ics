@@ -6,7 +6,7 @@ X-WR-CALNAME:Digital Harbor Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-digital-harbor-patterson-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Girls Soccer: Patterson at Digital Harbor
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Digital Harbor 14\, Patterson 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-baltimore-city-college-digital-harbor-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Girls Soccer: Digital Harbor at Baltimore City College
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Digital Harbor 1\, Baltimore City College 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-paul-laurence-dunbar-digital-harbor-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Girls Soccer: Digital Harbor at Paul Laurence Dunbar
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Digital Harbor 9\, Paul Laurence Dunbar 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-western-tech-digital-harbor-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Digital Harbor at Western Tech
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Digital Harbor 7\, Western Tech 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-national-academy-foundation-naf-digital-harbor-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Girls Soccer: Digital Harbor at National Academy Foundation (NAF)
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Digital Harbor 6\, National Academy Foundation (NAF) 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-baltimore-polytechnic-digital-harbor-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Digital Harbor at Baltimore Polytechnic
@@ -59,7 +59,7 @@ LOCATION:Baltimore Polytechnic
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-edmondson-westside-digital-harbor-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Digital Harbor at Edmondson-Westside
@@ -67,7 +67,7 @@ LOCATION:Edmondson-Westside
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-digital-harbor-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261012T212357Z
+DTSTAMP:20261012T213126Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Girls Soccer: Western-B at Digital Harbor

@@ -6,7 +6,7 @@ X-WR-CALNAME:Surrattsville Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-surrattsville-dc-phelps-football@oldlinerankings
-DTSTAMP:20261012T212301Z
+DTSTAMP:20261012T213034Z
 DTSTART;TZID=America/New_York:20260905T140000
 DTEND;TZID=America/New_York:20260905T160000
 SUMMARY:Football: DC- Phelps at Surrattsville
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/surrattsville-high-school-clinton-md/gam6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-surrattsville-dc-anacostia-football@oldlinerankings
-DTSTAMP:20261012T212301Z
+DTSTAMP:20261012T213034Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Football: DC- Anacostia at Surrattsville
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/surrattsville-high-school-clinton-md/gam4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-frederick-douglass-pg-surrattsville-football@oldlinerankings
-DTSTAMP:20261012T212301Z
+DTSTAMP:20261012T213034Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Surrattsville at Frederick Douglass-PG
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Surrattsville 6\, Frederick Douglass-PG 32
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-central-surrattsville-football@oldlinerankings
-DTSTAMP:20261012T212301Z
+DTSTAMP:20261012T213034Z
 DTSTART;TZID=America/New_York:20260926T130000
 DTEND;TZID=America/New_York:20260926T150000
 SUMMARY:Football: Surrattsville at Central
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/surrattsville-high-school-clinton-md/gam4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-gwynn-park-surrattsville-football@oldlinerankings
-DTSTAMP:20261012T212301Z
+DTSTAMP:20261012T213034Z
 DTSTART;TZID=America/New_York:20261002T184500
 DTEND;TZID=America/New_York:20261002T204500
 SUMMARY:Football: Surrattsville at Gwynn Park
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gamc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-friendly-surrattsville-football@oldlinerankings
-DTSTAMP:20261012T212301Z
+DTSTAMP:20261012T213034Z
 DTSTART;TZID=America/New_York:20261010T140000
 DTEND;TZID=America/New_York:20261010T160000
 SUMMARY:Football: Surrattsville at Friendly
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/surrattsville-high-school-clinton-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-fairmont-heights-surrattsville-football@oldlinerankings
-DTSTAMP:20261012T212301Z
+DTSTAMP:20261012T213034Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Surrattsville at Fairmont Heights
@@ -74,7 +74,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6879170
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-largo-surrattsville-football@oldlinerankings
-DTSTAMP:20261012T212301Z
+DTSTAMP:20261012T213034Z
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:Football: Surrattsville at Largo
@@ -83,7 +83,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6767897
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-crossland-surrattsville-football@oldlinerankings
-DTSTAMP:20261012T212301Z
+DTSTAMP:20261012T213034Z
 DTSTART;TZID=America/New_York:20261030T140000
 DTEND;TZID=America/New_York:20261030T160000
 SUMMARY:Football: Surrattsville at Crossland
