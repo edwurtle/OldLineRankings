@@ -21,6 +21,14 @@ const cl = c => (C.labels && C.labels[c]) || c;   // "4A_3A" -> "4A/3A"
 // Section name for a class + division: "4A Boys" for soccer, "4A/3A" for football
 const divName = (g, c) => [c && cl(c), MULTI ? GENDERS[g] : ""].filter(Boolean).join(" ");
 const rkBadge = n => `<span class="rk mono">${n}</span>`;
+// Ranking number: MPSSAA points per game (soccer) or the Old Line Rating (football, C.olr)
+const OLR = !!C.olr;
+const RATING = OLR ? "Old Line Rating" : "Rating", RATING_SHORT = OLR ? "OLR" : "avg";
+const fmtR = x => OLR ? (x > 0 ? "+" : x < 0 ? "−" : "") + Math.abs(x).toFixed(1) : x.toFixed(2);
+const pct = x => x >= 99.5 && x < 100 ? ">99%" : x > 0 && x < 0.5 ? "<1%" : Math.round(x) + "%";
+// Chance team a beats b (football): logistic in the OLR difference, home edge from the fit
+const oppRating = (g, name) => findTeam(g, name)?.rating ?? D.sports[g].nonmember?.[name] ?? 0;
+const winProb = (g, a, b, homeSign) => 1 / (1 + Math.exp(-C.olr.k * (oppRating(g, a) - oppRating(g, b) + (D.sports[g].home || 0) * homeSign)));
 const initials = name => name.replace(/\(.*?\)/g, "").split(/[\s-]+/).filter(w => /^[A-Z]/.test(w)).slice(0, 2).map(w => w[0]).join("") || "?";
 function logo(name, size = 32) {
   const s = SCHOOLS[name];
@@ -99,6 +107,7 @@ const SORTS = {
   record: {val: winPct, tie: (a, b) => b.W - a.W || a.L - b.L},
   pts: {val: t => t.pts},
   avg: {val: t => t.avg},
+  rating: {val: t => t.rating},
   sos: {val: t => t.sos},
   gp: {val: t => t.gp},
   gd: {val: t => t.gf - t.ga},
@@ -125,9 +134,10 @@ function renderHome() {
   <section class="hero">
     <div class="hero-inner">
       <div>
-        <div class="eyebrow">Fall ${throughAll.slice(0, 4)} · ${MULTI ? Object.values(GENDERS).join(" & ") + " " : ""}${C.sport}</div>
-        <h1>Maryland Public<br>High Schools <span>Power Rankings</span></h1>
-        <p>Every public high school ${C.sport.toLowerCase()} team in the state, ranked by who they beat. Strength of schedule is built in: a win over a ${CLASSES[0]} team with a winning record counts for more than a win over a winless ${CLASSES[CLASSES.length - 1]} team.</p>
+        <div class="eyebrow">Fall ${throughAll.slice(0, 4)} · Maryland Public High School ${MULTI ? Object.values(GENDERS).join(" & ") + " " : ""}${C.sport}</div>
+        <h1>Old Line<br><span>Rankings</span></h1>
+        <p>${OLR ? `Every public high school ${C.sport.toLowerCase()} team in the state, ranked by the Old Line Rating: how much better than average a team is, built from capped scoring margins, wins and the strength of every opponent. MPSSAA playoff points are tracked alongside for seeding.`
+          : `Every public high school ${C.sport.toLowerCase()} team in the state, ranked by who they beat. Strength of schedule is built in: a win over a ${CLASSES[0]} team with a winning record counts for more than a win over a winless ${CLASSES[CLASSES.length - 1]} team.`}</p>
         <div class="cta">
           ${DIVS.map((g, i) => `<a class="btn ${i ? "red" : "gold"}" href="#/${g}/${CLASSES[0]}">${MULTI ? GENDERS[g] + " rankings" : "Rankings"} →</a>`).join("")}
           ${C.playoffs ? `<a class="btn red" href="#/final8">Final 8 picture →</a>` : ""}
@@ -164,17 +174,17 @@ function renderHome() {
 
     <section class="section">
       <div class="section-head">
-        <div><div class="eyebrow">Top of the table</div><h2>Leaders by class</h2><p>The top five in every class by average power points per game.</p></div>
+        <div><div class="eyebrow">Top of the table</div><h2>Leaders by class</h2><p>The top five in every class by ${OLR ? "Old Line Rating" : "average power points per game"}.</p></div>
         ${MULTI ? `<div class="gender-tabs" role="tablist">${Object.entries(GENDERS).map(([g, l]) => `<button data-hg="${g}" aria-selected="${g === homeGender}">${l}</button>`).join("")}</div>` : ""}
       </div>
       <div class="hl-grid" style="--n:${CLASSES.length > 4 ? 3 : CLASSES.length}">${CLASSES.map(c => highlightCard(homeGender, c)).join("")}</div>
     </section>
 
     <section class="section">
-      <div class="section-head"><div><div class="eyebrow">Still perfect</div><h2>Unbeaten ${MULTI ? GENDERS[homeGender] : "teams"}</h2><p>No losses with at least five games played, ordered by power rating.</p></div></div>
+      <div class="section-head"><div><div class="eyebrow">Still perfect</div><h2>Unbeaten ${MULTI ? GENDERS[homeGender] : "teams"}</h2><p>No losses with at least five games played, ordered by ${OLR ? "Old Line Rating" : "power rating"}.</p></div></div>
       <div class="unbeaten">${D.sports[homeGender].teams.filter(t => t.L === 0 && t.gp >= 5).map(t => `
         <div class="ub" data-team="${esc(t.school)}" data-g="${homeGender}">${logo(t.school, 34)}
-          <div><b>${esc(t.school)}</b><br><small>${recTxt(t)} · ${t.avg.toFixed(2)} avg</small></div>
+          <div><b>${esc(t.school)}</b><br><small>${recTxt(t)} · ${fmtR(t.rating)} ${RATING_SHORT}</small></div>
           <span class="tag">${cl(t.cls)}</span></div>`).join("") || `<div class="muted">No unbeaten teams.</div>`}
       </div>
     </section>
@@ -189,17 +199,36 @@ function highlightCard(g, c) {
       <div class="row"><span class="hl-cls"><b>${cl(c)}</b> ${MULTI ? GENDERS[g] : ""}</span><span class="hl-crown">★ No. 1</span></div>
       <div class="hl-lead" data-team="${esc(lead.school)}" data-g="${g}">${logo(lead.school, 64)}
         <div><h4>${esc(lead.school)}</h4><div class="sub">${esc(subline(lead.school))}</div>
-        <div class="big">${recTxt(lead)} · ${lead.avg.toFixed(2)} avg</div></div></div>
+        <div class="big">${recTxt(lead)} · ${fmtR(lead.rating)} ${RATING_SHORT}</div></div></div>
     </div>
     <div class="hl-list">${rest.slice(0, 4).map((t, i) => `
       <div class="hl-row" data-team="${esc(t.school)}" data-g="${g}"><span class="n">${i + 2}</span>${logo(t.school, 30)}
-        <span class="nm">${esc(t.school)}<small>${recTxt(t)} · ${esc(t.region)}</small></span><span class="avg mono">${t.avg.toFixed(2)}</span></div>`).join("")}
+        <span class="nm">${esc(t.school)}<small>${recTxt(t)} · ${esc(t.region)}</small></span><span class="avg mono">${fmtR(t.rating)}</span></div>`).join("")}
     </div>
     <a class="hl-foot" href="#/${g}/${c}">Full ${divName(g, c)} rankings →</a>
   </div>`;
 }
 
 // ---------- how it works ----------
+function howOLR() {
+  const o = C.olr, home = D.sports[DEF].home || 0, spread = 6, p = 1 / (1 + Math.exp(-o.k * spread));
+  return `
+    <div class="section-head" style="margin-top:0"><div><div class="eyebrow">The ranking</div><h2>Old Line Rating</h2>
+      <p>How many points better than an average Maryland public school team a team is, judged by every game it has played.</p></div></div>
+    <div class="how-grid">
+      <div class="how-card w"><div class="k">Margin</div><h4>Capped at ${o.cap}</h4><p>Each game counts the scoring margin, capped at ${o.cap} points (just under the 35-point running clock), so running up the score doesn't help.</p></div>
+      <div class="how-card w"><div class="k">Result</div><h4>±${o.win_bonus} for the win</h4><p>A win adds ${o.win_bonus} points and a loss subtracts ${o.win_bonus}, so a close win counts well ahead of a close loss.</p></div>
+      <div class="how-card w"><div class="k">Opponents</div><h4>Strength built in</h4><p>A team's rating is its average game score plus the average rating of the teams it played, solved for every team at once. Beating a good team is worth more, by exactly how good it is.</p></div>
+    </div>
+    <div class="example"><b>Reading it:</b> +14 means about 14 points better than an average team. The difference between two ratings works like a point spread:
+      a +20 team is about a ${spread}-point favorite over a +14 team, roughly a ${Math.round(100 * p)}% chance to win. Those chances drive the Final 8 predictions and playoff odds.</div>
+    <div class="example"><b>Fine print:</b> Every rating is pulled toward its class average by ${o.prior} games' worth, so two big early wins don't make a team No. 1.
+      Home field is measured from this season's results (currently ${home ? "+" + home.toFixed(1) + " points" : "no measurable edge"}).
+      Out-of-state and private opponents are rated from their games against Maryland teams. Forfeits count as a win or loss with no margin.
+      Tested on 2026 weeks 3–6 using only earlier games, the Old Line Rating picked 79% of winners versus 71% for MPSSAA points.</div>
+    <div class="section-head"><div><div class="eyebrow">Playoff seeding</div><h2>MPSSAA points</h2>
+      <p>The MPSSAA's own point system. It decides playoff seeding, so the Final 8 picture seeds by it.</p></div></div>`;
+}
 function renderHow() {
   // Group classes that share a value: "4A & 4A/3A = 8"
   const byPts = {};
@@ -211,10 +240,12 @@ function renderHow() {
   app.innerHTML = `
   <section class="page-head"><div class="wrap">
     <div class="crumbs"><a href="#/">Home</a><span>/</span><span>How it works</span></div>
-    <h1>How the <span>power rankings</span> work</h1>
-    <div class="sub">Every game earns power points. A team's rating is its total points divided by games played, and teams are ranked by rating within their class.</div>
+    <h1>How the <span>rankings</span> work</h1>
+    <div class="sub">${OLR ? "Teams are ranked by the Old Line Rating. MPSSAA points, which decide playoff seeding, are shown alongside."
+      : "Every game earns power points. A team's rating is its total points divided by games played, and teams are ranked by rating within their class."}</div>
   </div></section>
   <div class="wrap" style="margin-top:24px">
+    ${OLR ? howOLR() : ""}
     <div class="how-grid" style="--n:${C.ties ? 3 : 2}">
       <div class="how-card w"><div class="k">Win</div><h4>Class + opponent's wins</h4><p>${tierText}, plus 1 point for every game your opponent has won this season.</p></div>
       ${C.ties ? `<div class="how-card t"><div class="k">Tie</div><h4>Half a win</h4><p>A tie earns half of what a win against that opponent would have earned. Ties also count as half a win in an opponent's win total.</p></div>` : ""}
@@ -254,7 +285,7 @@ function renderRank(r) {
   <section class="page-head"><div class="wrap">
     <div class="crumbs"><a href="#/">Home</a><span>/</span><a href="#/${r.g}/${CLASSES[0]}">${GENDERS[r.g]}</a><span>/</span><span>${r.c === "All" ? "All classes" : "Class " + cl(r.c)}</span></div>
     <h1>${title}</h1>
-    <div class="sub">${ts.length} teams · games through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})} · ranked by rating (power points per game)</div>
+    <div class="sub">${ts.length} teams · games through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})} · ranked by ${OLR ? "Old Line Rating" : "rating (power points per game)"}</div>
     <div class="switches">
       ${MULTI ? `<div class="pill-group ${r.g !== DEF ? "red" : ""}">${Object.entries(GENDERS).map(([g, l]) => `<a class="${g === r.g ? "on" : ""}" href="${href({...r, g, team: null})}">${l}</a>`).join("")}</div>` : ""}
       <div class="pill-group">${[...CLASSES, "All"].map(c => `<a class="${c === r.c ? "on" : ""}" href="${href({...r, c, team: null})}">${cl(c)}</a>`).join("")}</div>
@@ -270,8 +301,8 @@ function renderRank(r) {
         <label class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
           <input id="q" type="search" placeholder="Search teams, mascots, counties…" autocomplete="off" value="${esc(query)}"></label>
         <label class="sortsel">Sort by <select id="sortSel">
-          <option value="rank">Power ranking</option><option value="record">Record (win %)</option>
-          <option value="sos">Strength of schedule</option><option value="pts">Total points</option><option value="gd">${C.score.name}</option><option value="school">Team name</option>
+          <option value="rank">${OLR ? "Old Line Rating" : "Power ranking"}</option>${OLR ? `<option value="avg">MPSSAA points</option>` : ""}<option value="record">Record (win %)</option>
+          <option value="sos">Strength of schedule</option><option value="pts">${OLR ? "Total MPSSAA points" : "Total points"}</option><option value="gd">${C.score.name}</option><option value="school">Team name</option>
         </select></label>
       </div>
       <div id="list"></div>
@@ -292,7 +323,7 @@ function filterTeams(ts) {
 function renderList(r, ts) {
   const el = document.getElementById("list");
   const list = filterTeams(ts);
-  const maxAvg = Math.max(...ts.map(t => t.avg)) || 1;
+  const lo = OLR ? Math.min(...ts.map(t => t.rating)) : 0, span = (Math.max(...ts.map(t => t.rating)) - lo) || 1;
   if (!list.length) { el.innerHTML = `<div class="empty">No teams match “${esc(query)}”.</div>`; return; }
   if (r.view === "region") {
     const classes = r.c === "All" ? CLASSES : [r.c];
@@ -301,12 +332,12 @@ function renderList(r, ts) {
         const all = ts.filter(t => t.cls === c && t.region === reg);
         const shown = sorted(list.filter(t => t.cls === c && t.region === reg));
         if (!shown.length) return "";
-        const regAvg = all.reduce((s, t) => s + t.avg, 0) / all.length;
-        return `<div class="rcard"><div class="rhead"><h3>${r.c === "All" ? `<span>${cl(c)}</span> ` : ""}${reg}</h3><small>${all.length} teams · avg ${regAvg.toFixed(2)}</small></div>
+        const regAvg = all.reduce((s, t) => s + t.rating, 0) / all.length;
+        return `<div class="rcard"><div class="rhead"><h3>${r.c === "All" ? `<span>${cl(c)}</span> ` : ""}${reg}</h3><small>${all.length} teams · avg ${fmtR(regAvg)}</small></div>
           ${shown.map(t => `<div class="rrow" data-team="${esc(t.school)}">
             ${rkBadge(all.indexOf(t) + 1)}${logo(t.school, 32)}
-            <div><div class="nm">${esc(t.school)}</div><div class="meta">${rec(t)}<span class="pct mono">${pctStr(t)}</span> · SOS ${t.sos.toFixed(2)}</div></div>
-            <div class="ov">#${t.rank}<br>in ${cl(t.cls)}</div><span class="avg mono">${t.avg.toFixed(2)}</span></div>`).join("")}</div>`;
+            <div><div class="nm">${esc(t.school)}</div><div class="meta">${rec(t)}<span class="pct mono">${pctStr(t)}</span> · SOS ${fmtR(t.sos)}</div></div>
+            <div class="ov">#${t.rank}<br>in ${cl(t.cls)}</div><span class="avg mono">${fmtR(t.rating)}</span></div>`).join("")}</div>`;
       }).join("");
       return cards ? (r.c === "All" ? `<div class="class-label">Class ${cl(c)}</div>` : "") + cards : "";
     }).join("")}</div>`;
@@ -317,9 +348,11 @@ function renderList(r, ts) {
     ...(r.c === "All" ? [{key: "cls", label: "Class", cls: "hide-xs"}] : []),
     {key: "region", label: "Region", cls: "hide-reg"}, {key: "record", label: "Record"},
     {key: "gp", label: "GP", cls: "num hide-md"}, {key: "gd", label: C.score.short, cls: "num hide-md"},
-    {key: "pts", label: "Points", cls: "num hide-lg"},
-    {key: "sos", label: "SOS", cls: "num hide-xs", title: "Strength of schedule: average points per game if every game had been a win"},
-    {key: "avg", label: "Rating", cls: "num"},
+    {key: "pts", label: OLR ? "MPSSAA total" : "Points", cls: "num hide-lg"},
+    ...(OLR ? [{key: "avg", label: "MPSSAA avg", cls: "num hide-sm", title: "MPSSAA playoff points per game (used for seeding)"}] : []),
+    {key: "sos", label: "SOS", cls: "num hide-xs", title: OLR ? "Strength of schedule: average Old Line Rating of opponents played"
+      : "Strength of schedule: average points per game if every game had been a win"},
+    {key: "rating", label: OLR ? "OLR" : "Rating", cls: "num", title: OLR ? "Old Line Rating: points better than an average team" : ""},
   ];
   el.innerHTML = `<div class="table-wrap"><table><thead><tr>${cols.map(c =>
     `<th class="${c.cls || ""} ${sort.key === c.key ? "active" : ""}" data-sort="${c.key}"${c.title ? ` title="${c.title}"` : ""}>${c.label}<span class="arrow">${sort.key === c.key ? (sort.dir > 0 ? "▲" : "▼") : "↕"}</span></th>`).join("")}
@@ -333,8 +366,9 @@ function renderList(r, ts) {
       <td class="num mono hide-md">${t.gp}</td>
       <td class="num mono hide-md">${t.gf}–${t.ga}</td>
       <td class="num mono hide-lg">${n2(t.pts)}</td>
-      <td class="num hide-xs"><span class="sos mono">${t.sos.toFixed(2)}</span><span class="sosrk mono">#${r.c === "All" ? t.sosStateRank : t.sosRank}</span></td>
-      <td class="num"><div class="avgcell"><div class="bar"><i style="width:${(t.avg / maxAvg * 100).toFixed(1)}%"></i></div><span class="avg mono">${t.avg.toFixed(2)}</span></div></td>
+      ${OLR ? `<td class="num mono hide-sm">${t.avg.toFixed(2)}</td>` : ""}
+      <td class="num hide-xs"><span class="sos mono">${fmtR(t.sos)}</span><span class="sosrk mono">#${r.c === "All" ? t.sosStateRank : t.sosRank}</span></td>
+      <td class="num"><div class="avgcell"><div class="bar"><i style="width:${Math.max(2, (t.rating - lo) / span * 100).toFixed(1)}%"></i></div><span class="avg mono">${fmtR(t.rating)}</span></div></td>
     </tr>`).join("")}</tbody></table></div>`;
 }
 
@@ -347,63 +381,91 @@ function setSort(key, toggle) {
 }
 
 // ---------- final 8 picture ----------
-// Region seeds by rating; the top seeds win out, so No. 1 and No. 2 in each region reach the
-// state quarterfinals, which are reseeded 1-8 by rating. "Projected" uses ratings after the
-// rest of the regular season is played out with the higher-ranked team winning (t.proj).
+// Seeding uses MPSSAA points (what the MPSSAA seeds by). Each region's top 8 play two rounds
+// (1v8, 4v5, 2v7, 3v6), the two survivors reach the state quarterfinals, reseeded 1-8 by MPSSAA
+// points. Every playoff game goes to the Old Line Rating favorite (higher seed hosts).
+// "Projected" seeds from t.proj: the rest of the regular season won by the OLR favorite.
 function seeding(c, projected) {
   const val = t => projected ? t.proj : t;
   const order = (a, b) => val(b).avg - val(a).avg || val(b).pts - val(a).pts || a.stateRank - b.stateRank;
   const ts = teamsOf(DEF, c);
-  const regions = REGION_ORDER.map(reg => ({reg, teams: ts.filter(t => t.region === reg).sort(order)}));
-  const final8 = regions.flatMap(x => x.teams.slice(0, C.playoffs.per_region)).sort(order);
+  const regions = REGION_ORDER.map(reg => {
+    const teams = ts.filter(t => t.region === reg).sort(order);
+    // Current: the top seeds advance. Projected: region games go to the Old Line Rating favorite.
+    const adv = projected ? playBracket(teams.slice(0, C.playoffs.region_seeds), 2).pop()?.map(m => m.w) || []
+      : teams.slice(0, C.playoffs.per_region);
+    return {reg, teams, adv: new Set(adv)};
+  });
+  const final8 = regions.flatMap(x => [...x.adv]).sort(order);
   const regionSeed = new Map(regions.flatMap(x => x.teams.map((t, i) => [t, i + 1])));
   return {val, regions, final8, regionSeed};
 }
-// Rounds of seed matchups (1v8, 4v5, 2v7, 3v6, then winners), higher seed advancing
-function bracketRounds(n) {
-  let games = [[1, 8], [4, 5], [2, 7], [3, 6]].filter(([a]) => a <= n);
+// Standard bracket over seeds (best first); a missing seed is a bye. Returns rounds of
+// {a, b, w, p}: a = higher seed (hosts), p = chance a wins, w = predicted winner.
+function playBracket(seeds, maxRounds) {
+  let slots = [1, 8, 4, 5, 2, 7, 3, 6].map(i => seeds[i - 1] || null);
   const rounds = [];
-  while (games.length) {
-    rounds.push(games);
-    if (games.length === 1) break;
-    const w = games.map(g => Math.min(...g));
-    games = w.reduce((acc, x, i) => (i % 2 ? acc[acc.length - 1].push(x) : acc.push([x]), acc), []);
+  while (slots.length > 1 && rounds.length < maxRounds) {
+    const games = [];
+    for (let i = 0; i < slots.length; i += 2) {
+      let [a, b] = [slots[i], slots[i + 1]];
+      if (!a && !b) { games.push(null); continue; }
+      if (!a || (b && seeds.indexOf(b) < seeds.indexOf(a))) [a, b] = [b, a];
+      const p = b ? (OLR ? winProb(DEF, a.school, b.school, 1) : 1) : 1;
+      games.push({a, b, p, w: p >= .5 ? a : b});
+    }
+    rounds.push(games.filter(Boolean));
+    slots = games.map(m => m && m.w);
   }
   return rounds;
 }
 function renderFinal8(r) {
   const projected = r.view === "projected";
   const {val, regions, final8, regionSeed} = seeding(r.c, projected);
-  const slot = (seed, cls = "") => {
-    const t = final8[seed - 1];
-    if (!t) return `<div class="slot tbd ${cls}"><span class="seed mono">${seed}</span><span class="nm">TBD</span></div>`;
-    return `<div class="slot ${cls}" data-team="${esc(t.school)}"><span class="seed mono">${seed}</span>${logo(t.school, 26)}
-      <span class="nm">${esc(t.school)}<small>${esc(t.region)} #${regionSeed.get(t)} · ${recTxt(val(t))}</small></span>
-      <span class="avg mono">${val(t).avg.toFixed(2)}</span></div>`;
-  };
-  const rounds = bracketRounds(final8.length);
-  const champ = rounds.length ? Math.min(...rounds[rounds.length - 1][0]) : null;
+  // Projected view shows the projected record next to the actual one
+  const recLine = t => projected ? `<span class="proj-tag">proj ${recTxt(t.proj)}</span> · now ${recTxt(t)}` : recTxt(t);
+  const slot = (t, p, cls) => !t ? `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">Bye</span></div>`
+    : `<div class="slot ${cls}" data-team="${esc(t.school)}"><span class="seed mono">${final8.indexOf(t) + 1}</span>${logo(t.school, 26)}
+      <span class="nm">${esc(t.school)}<small>${esc(t.region)} #${regionSeed.get(t)} · ${recLine(t)} · MPSSAA ${val(t).avg.toFixed(2)}${projected ? " proj" : ""}</small></span>
+      <span class="avg mono" title="Chance to win this game (Old Line Rating)">${p == null ? "" : pct(100 * p)}</span></div>`;
+  // Current shows only the seeded quarterfinals; projected fills every round with the favorites.
+  // Matches are grouped in feeding pairs so CSS can draw the bracket connectors.
+  const rounds = playBracket(final8, 3);
+  const champ = projected && rounds.length === 3 ? rounds[2][0].w : null;
   const names = ["State quarterfinals", "Semifinals", "Final"];
-  const bracket = `<div class="bracket">${rounds.map((games, i) => `
-    <div class="bcol"><h4>${names[i]}</h4><div class="bgames">${games.map(([a, b]) => `
-      <div class="match">${slot(a, a < b ? "win" : "lose")}${slot(b, b < a ? "win" : "lose")}</div>`).join("")}</div></div>`).join("")}
-    <div class="bcol champ"><h4>Champion</h4><div class="bgames">${champ ? `<div class="match">${slot(champ, "win")}</div>` : ""}</div></div>
+  const tbd = `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">TBD</span></div>`;
+  const match = (m, show) => `<div class="match">${show && m
+    ? slot(m.a, projected && m.b ? m.p : null, projected ? (m.w === m.a ? "win" : "lose") : "") + slot(m.b, projected && m.b ? 1 - m.p : null, projected ? (m.w === m.b ? "win" : "lose") : "")
+    : tbd + tbd}</div>`;
+  const cell = html => `<div class="bslot">${html}</div>`;
+  const cols = [4, 2, 1].map((count, i) => {
+    const ms = Array.from({length: count}, (_, j) => match((rounds[i] || [])[j], i === 0 || projected));
+    const body = count === 1 ? cell(ms[0]) : Array.from({length: count / 2}, (_, j) => `<div class="bpair">${cell(ms[2 * j])}${cell(ms[2 * j + 1])}</div>`).join("");
+    return `<div class="bcol${i ? " fed" : ""}"><h4>${names[i]}</h4><div class="bgames">${body}</div></div>`;
+  }).join("");
+  const bracket = `<div class="bracket">${cols}
+    <div class="bcol fed champ"><h4>Champion</h4><div class="bgames">${cell(`<div class="match">${champ ? slot(champ, null, "win") : tbd}
+      ${champ && champ.odds ? `<div class="champ-odds">Title odds ${pct(champ.odds.champ)}</div>` : ""}</div>`)}</div></div>
   </div>`;
-  const regionCards = regions.map(({reg, teams}) => `<div class="rcard"><div class="rhead"><h3>${reg}</h3><small>${teams.length} teams · top ${C.playoffs.region_seeds} make region playoffs</small></div>
+  const regionCards = regions.map(({reg, teams, adv}) => {
+    return `<div class="rcard"><div class="rhead"><h3>${reg}</h3><small>${teams.length} teams · top ${C.playoffs.region_seeds} make region playoffs · ${projected ? "projected " : ""}MPSSAA pts</small></div>
     ${teams.map((t, i) => {
-      const adv = i < C.playoffs.per_region, inPO = i < C.playoffs.region_seeds;
+      const inPO = i < C.playoffs.region_seeds;
+      const tag = adv.has(t) ? `<span class="adv">Final 8 · #${final8.indexOf(t) + 1}</span>` : inPO ? "" : "Out";
       return `<div class="rrow ${inPO ? "" : "out"}" data-team="${esc(t.school)}">${rkBadge(i + 1)}${logo(t.school, 32)}
-        <div><div class="nm">${esc(t.school)}</div><div class="meta">${rec(val(t))} · ${val(t).gp} GP${projected && t.upcoming.length ? ` · ${t.gp} played` : ""}</div></div>
-        <div class="ov">${adv ? `<span class="adv">Final 8 · #${final8.indexOf(t) + 1}</span>` : inPO ? "" : "Out"}</div>
-        <span class="avg mono">${val(t).avg.toFixed(2)}</span></div>`;
-    }).join("")}</div>`).join("");
+        <div><div class="nm">${esc(t.school)}</div><div class="meta">${projected ? `${recLine(t)}${t.proj.gp > t.gp ? ` (${t.proj.gp - t.gp} to play)` : ""}` : rec(t)} · OLR ${fmtR(t.rating)}${projected && t.odds ? ` · Final 8 odds ${pct(t.odds.f8)}` : ""}</div></div>
+        <div class="ov">${tag}</div>
+        <span class="avg mono mp" title="${projected ? "Projected " : ""}MPSSAA points per game (seeding)">${val(t).avg.toFixed(2)}<small>${projected ? "proj " : ""}MPSSAA</small></span></div>`;
+    }).join("")}</div>`;
+  }).join("");
   app.innerHTML = `
   <section class="page-head"><div class="wrap">
     <div class="crumbs"><a href="#/">Home</a><span>/</span><span>Final 8</span><span>/</span><span>Class ${cl(r.c)}</span></div>
     <h1>${cl(r.c)} <span>Final 8</span> picture</h1>
-    <div class="sub">${projected ? "Projected: the rest of the regular season played out with the higher-ranked team winning every game."
-      : `Current: ratings through ${fmtDate(D.sports[DEF].through, {month: "long", day: "numeric"})}.`}
-      Top ${C.playoffs.per_region} per region advance; the Final 8 are reseeded by rating.</div>
+    <div class="sub">${projected
+      ? "Projected: seeds after the rest of the regular season is played out, each game won by the Old Line Rating favorite. Odds come from 2,000 simulated seasons and playoffs."
+      : `Current: seeds from MPSSAA points through ${fmtDate(D.sports[DEF].through, {month: "long", day: "numeric"})}.`}
+      ${projected ? "Each playoff game goes to the Old Line Rating favorite; percentages are each team's chance to win that game." : "Switch to Projected to see predicted winners."}</div>
     <div class="switches">
       <div class="pill-group">${CLASSES.map(c => `<a class="${c === r.c ? "on" : ""}" href="${href({...r, c, team: null})}">${cl(c)}</a>`).join("")}</div>
     </div>
@@ -418,8 +480,9 @@ function renderFinal8(r) {
       </div>
       ${final8.length ? bracket : `<div class="empty">No teams yet.</div>`}
     </div>
-    <div class="section-head"><div><div class="eyebrow">Region seeding</div><h2>${cl(r.c)} regions</h2>
-      <p>Each region's top ${C.playoffs.region_seeds} play two rounds (1v8, 4v5, 2v7, 3v6). Assuming the top seeds win, No. 1 and No. 2 advance to the Final 8.</p></div></div>
+    <div class="section-head"><div><div class="eyebrow">Region seeding · MPSSAA points</div><h2>${cl(r.c)} regions</h2>
+      <p>Each region's top ${C.playoffs.region_seeds} by MPSSAA points play two rounds (1v8, 4v5, 2v7, 3v6); the two survivors reach the Final 8.
+      ${projected ? "Marked teams are the Old Line Rating favorites to get there." : `Assuming the top seeds win, No. 1 and No. 2 advance.`}</p></div></div>
     <div class="regions f8-regions">${regionCards}</div>
   </div>`;
 }
@@ -442,13 +505,17 @@ function openTeam(g, name) {
   const best = scoring.length ? scoring.reduce((a, b) => b.pts > a.pts ? b : a) : null;
   document.getElementById("dBody").innerHTML = `
     <div class="tiles">
-      <div class="tile"><b class="mono">${t.avg.toFixed(2)}</b><span>Rating</span></div>
-      <div class="tile"><b class="mono">${t.sos.toFixed(2)}</b><span title="Strength of schedule">SOS · #${t.sosRank} in ${cl(t.cls)}</span></div>
-      <div class="tile"><b class="mono">${n2(t.pts)}</b><span>Power points</span></div>
+      <div class="tile"><b class="mono">${fmtR(t.rating)}</b><span>${RATING}</span></div>
+      ${OLR ? `<div class="tile"><b class="mono">${t.avg.toFixed(2)}</b><span title="MPSSAA playoff points per game (seeding)">MPSSAA avg</span></div>` : ""}
+      <div class="tile"><b class="mono">${fmtR(t.sos)}</b><span title="Strength of schedule">SOS · #${t.sosRank} in ${cl(t.cls)}</span></div>
+      ${OLR ? "" : `<div class="tile"><b class="mono">${n2(t.pts)}</b><span>Power points</span></div>`}
       <div class="tile"><b class="mono">${recTxt(t)}</b><span>Record · ${pctStr(t)}</span></div>
       <div class="tile"><b class="mono">${t.gf}–${t.ga}</b><span>${C.score.short}</span></div>
     </div>
-    ${best ? `<div class="sect">Best result</div><div class="best">${logo(best.opp, 40)}<div><b>${best.res === "W" ? "Beat" : "Tied"} ${esc(best.opp)}</b> ${best.gf}–${best.ga} on ${fmtDate(best.date)}<div class="muted" style="font-size:13px">Worth ${n2(best.pts)} power points</div></div></div>` : ""}
+    ${t.odds ? `<div class="sect">Playoff odds · 2,000 simulated seasons</div><div class="tiles odds">
+      ${[["po", "Region playoffs"], ["f8", "Final 8"], ["fin", "State final"], ["champ", "State champion"]].map(([k, l]) =>
+        `<div class="tile"><b class="mono">${pct(t.odds[k])}</b><span>${l}</span></div>`).join("")}</div>` : ""}
+    ${best ? `<div class="sect">Best result</div><div class="best">${logo(best.opp, 40)}<div><b>${best.res === "W" ? "Beat" : "Tied"} ${esc(best.opp)}</b> ${best.gf}–${best.ga} on ${fmtDate(best.date)}<div class="muted" style="font-size:13px">Worth ${n2(best.pts)} ${OLR ? "MPSSAA" : "power"} points</div></div></div>` : ""}
     ${t.upcoming.length ? `<div class="sect">Upcoming (${t.upcoming.length})</div>${t.upcoming.map(u => upcomingRow(g, t, u)).join("")}<div style="height:10px"></div>` : ""}
     <div class="sect">Games played (${t.gp})</div>
     ${[...t.games].reverse().map(x => gameRow(g, t, x)).join("") || `<div class="muted">No games yet.</div>`}`;
@@ -483,7 +550,7 @@ function upcomingRow(g, t, u) {
     <div class="when"><small>${d.toLocaleDateString(undefined, {weekday: "short"})}</small><b class="mono">${d.getDate()}</b></div>${logo(u.opp, 34)}
     <div><div class="opp">${u.home ? "vs" : "@"} ${name}</div>
       <div class="det"><span>${fmtDate(u.date)}</span>${ctag}${orec}${status}</div></div>
-    <div class="right"><div class="pts">win worth</div><div class="mono worth">${n2(worth)} <span class="pts">pts</span></div></div>
+    <div class="right">${OLR ? `<div class="prob mono" title="Chance to win (Old Line Rating)">${pct(100 * winProb(g, t.school, u.opp, u.home ? 1 : -1))} to win</div>` : ""}<div class="pts">win worth</div><div class="mono worth">${n2(worth)} <span class="pts">pts</span></div></div>
   </div>`;
 }
 function closeDrawer() { drawer.classList.remove("open"); drawer.setAttribute("aria-hidden", "true"); scrim.classList.remove("open"); }
@@ -499,7 +566,7 @@ function render() {
   }
   document.querySelectorAll("[data-nav]").forEach(a => a.classList.toggle("active", r.page === "rank" ? a.dataset.nav === r.g : a.dataset.nav === r.page));
   document.title = (r.page === "rank" ? `${r.c === "All" ? "All Classes" : cl(r.c)} ${GENDERS[r.g]}${MULTI ? " " + C.sport : ""} · `
-    : r.page === "final8" ? `${cl(r.c)} Final 8 · ` : "") + `Maryland Public High Schools ${C.sport} Power Rankings`;
+    : r.page === "final8" ? `${cl(r.c)} Final 8 · ` : "") + `Old Line Rankings · ${C.sport}`;
   if (r.team) openTeam(r.g || DEF, r.team); else closeDrawer();
 }
 

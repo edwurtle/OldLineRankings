@@ -299,28 +299,42 @@ td.team-td { white-space: normal; width: 100%; }  /* the only column allowed to 
 .footer .other-site { color: var(--md-gold); font-weight: 700; }
 .footer .other-site:hover { text-decoration: underline; }
 
-/* Final 8 bracket: columns of matchups, higher seed advancing */
-.bracket { display: grid; grid-template-columns: repeat(3, minmax(230px, 1fr)) minmax(210px, .9fr); gap: 0 30px; padding: 16px; overflow-x: auto; }
+/* Final 8 bracket. Every column's games area is the same height and each match sits centred in an
+   equal share of it, so a pair of feeders (centred at 25% / 75% of the pair) lines up with the next
+   round's match (centred at 50%). A pair draws ] on its right; a fed match draws a stub on its left. */
+.bracket { --gap: 32px; display: grid; grid-template-columns: repeat(3, minmax(230px, 1fr)) minmax(210px, .9fr); gap: 0 var(--gap); padding: 16px; overflow-x: auto; }
 .bcol { display: flex; flex-direction: column; min-width: 0; }
 .bcol h4 { margin: 0 0 10px; font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 700; }
-.bgames { flex: 1; display: flex; flex-direction: column; justify-content: space-around; gap: 14px; }
+.bgames { flex: 1; display: flex; flex-direction: column; }
+.bpair { flex: 2; display: flex; flex-direction: column; position: relative; }
+.bpair::after { content: ""; position: absolute; top: 25%; bottom: 25%; right: calc(var(--gap) / -2); width: calc(var(--gap) / 2);
+  border: 2px solid var(--border); border-left: 0; border-radius: 0 8px 8px 0; }
+.bslot { flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 7px 0; position: relative; }
 .match { position: relative; border: 1px solid var(--border); border-radius: 12px; background: var(--surface); }
-.bcol:not(.champ) .match::after { content: ""; position: absolute; left: 100%; top: 50%; width: 30px; border-top: 2px solid var(--border); }
+.fed .match::before { content: ""; position: absolute; right: 100%; top: 50%; width: calc(var(--gap) / 2); border-top: 2px solid var(--border); }
+.bcol:nth-child(3) .match::after { content: ""; position: absolute; left: 100%; top: 50%; width: calc(var(--gap) / 2); border-top: 2px solid var(--border); }
 .slot { display: grid; grid-template-columns: 22px 26px 1fr auto; gap: 8px; align-items: center; padding: 7px 10px; cursor: pointer; }
 .slot + .slot { border-top: 1px solid var(--border); }
 .slot:hover { background: var(--surface-2); }
 .slot .seed { font-size: 12px; color: var(--muted); text-align: center; }
 .slot .nm { font-size: 13px; font-weight: 600; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.slot .nm small { display: block; font-size: 11px; font-weight: 500; color: var(--muted); }
+.slot .nm small { display: block; font-size: 11px; font-weight: 500; color: var(--muted); white-space: normal; line-height: 1.35; }
 .slot .avg { font-size: 12px; }
 .slot.lose { opacity: .5; }
 .slot.win .nm { font-weight: 800; }
 .slot.tbd { cursor: default; color: var(--faint); }
 .champ .match { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.bracket .slot.tbd { cursor: default; color: var(--faint); min-height: 46px; }
 .f8-regions { padding: 0; margin: 16px 0 40px; grid-template-columns: repeat(2, 1fr); }
 @media (max-width: 820px) { .f8-regions { grid-template-columns: 1fr; } }
 .rrow.out { opacity: .5; }
+.champ-odds { padding: 6px 10px; border-top: 1px solid var(--border); font-size: 12px; font-weight: 700; color: var(--accent-ink); }
+.game .prob { font-size: 13px; font-weight: 700; color: var(--accent-ink); }
+.tiles.odds { margin-bottom: 6px; }
 .rrow .adv { color: var(--accent-ink); font-weight: 700; }
+.proj-tag { font-weight: 700; color: var(--accent-ink); }
+.avg.mp { line-height: 1.1; }
+.avg.mp small { display: block; font-family: Inter, sans-serif; font-size: 9px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
 
 /* Phones: drop the big hero flag */
 @media (max-width: 640px) {

@@ -1,4 +1,4 @@
-# Maryland Public High Schools · Power Rankings
+# Old Line Rankings
 
 Static sites ranking every Maryland public high school team: soccer (boys & girls, 1A–4A) at the root and
 football (4A, 4A/3A, 3A, 2A, 2A/1A, 1A) at `/football/`. Each site's footer links to the other.
@@ -14,10 +14,19 @@ football (4A, 4A/3A, 3A, 2A, 2A/1A, 1A) at `/football/`. Each site's footer link
 - Rating = total power points ÷ games played, ranked within class.
 - SOS (strength of schedule) = the rating a team would have if it had won every game.
 
+## Old Line Rating (football)
+Football is ranked by the Old Line Rating (`scripts/oldline.py`); MPSSAA points are kept for seeding.
+- Each game counts the scoring margin capped at 28, plus 4 for a win (minus 4 for a loss).
+- A team's rating is its average game value plus its opponents' average rating, solved for all teams at
+  once, pulled toward its class average by 3 games' worth. Home edge is measured from the data (floored at 0).
+- Rating differences work like point spreads; win chance = 1 / (1 + e^(−0.175 × difference)).
+- Backtested on 2026 weeks 3–6 using only earlier games: 79% of winners picked vs 71% for MPSSAA points.
+
 ## Final 8 (football)
-In each class, region seeds are ranked by rating. Assuming the top seeds win, the No. 1 and No. 2 seeds from each of the
-4 regions reach the state quarterfinals, which are reseeded 1–8 by rating and shown as a bracket. **Current** uses ratings
-as they stand today. **Projected** plays out the rest of the regular season with the higher-ranked team winning every game.
+Seeds use MPSSAA points. **Current**: today's seeds; the No. 1 and No. 2 seeds in each of the 4 regions reach the
+8-team state quarterfinal bracket (later rounds left open). **Projected**: the rest of the regular season and every
+playoff game go to the Old Line Rating favorite, with the full bracket filled in. Playoff odds come from 2,000
+simulated seasons and playoffs.
 
 ## Layout
 - `site/` — the deployable site: shared `app.js`, `styles.css`, `logos/`; soccer's `index.html` + `data.js`

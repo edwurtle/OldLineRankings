@@ -10,8 +10,12 @@ Opponent "wins" count each of the opponent's ties as half a win. Opponents outsi
 the state association count as the lowest class with 0 wins. Teams are ranked by average
 power points per game played. Strength of schedule (SOS) is the average a team
 would have earned had it won every game.
+
+Football is ranked by the Old Line Rating instead (see oldline.py); its MPSSAA points are kept
+for playoff seeding.
 """
 import collections, datetime, json, pathlib, re, subprocess
+import oldline
 
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -37,6 +41,10 @@ SITES = {
         ties=False, example=dict(cls="3A", W=5, L=2, T=0),
         # Region top 8 play two rounds; two per region reach the 8-team state quarterfinal, reseeded by rating
         playoffs=dict(region_seeds=8, per_region=2), first_meeting_only=True,
+        # Old Line Rating: margin capped at 28 (under the 35-point running clock), 4-point win bonus,
+        # pulled toward class average by 3 games' worth; k = win-probability scale per rating point.
+        # Backtested on 2026 weeks 3-6: picks 79% of winners vs 71% for MPSSAA points.
+        olr=dict(cap=28, win_bonus=4, prior=3, k=0.175),
     ),
 }
 
@@ -163,14 +171,21 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
             games.append(dict(g, member=member, cp=cp * mult, ow=ow * mult, pts=(cp + ow) * mult, max=cp + ow))
         gp = len(games)
         total = sum(g["pts"] for g in games)
+        avg = round(total / gp, 4) if gp else 0
         teams.append(dict(school=s, cls=info["cls"], region=info["region"], **record[s], gp=gp, pts=total,
-                          avg=round(total / gp, 4) if gp else 0,
+                          avg=avg, rating=avg,
                           # Strength of schedule: average points per game had every game been a win
                           sos=round(sum(g["max"] for g in games) / gp, 4) if gp else 0,
                           gf=sum(g["gf"] or 0 for g in games), ga=sum(g["ga"] or 0 for g in games),
                           games=games,
                           upcoming=[dict(u, member=u["opp"] in std) for u in sorted(upcoming[s], key=lambda u: u["date"])]))
-    teams.sort(key=lambda t: (-t["avg"], -t["pts"]))
+    assign_ranks(teams)
+    return teams
+
+
+def assign_ranks(teams):
+    """Order teams by rating and number them statewide and within class, by rating and by SOS."""
+    teams.sort(key=lambda t: (-t["rating"], -t["pts"]))
     for i, t in enumerate(teams, 1):
         t["stateRank"] = i
     for i, t in enumerate(sorted(teams, key=lambda t: -t["sos"]), 1):
@@ -180,7 +195,6 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
             t["rank"] = i
         for i, t in enumerate(sorted((t for t in teams if t["cls"] == c), key=lambda t: -t["sos"]), 1):
             t["sosRank"] = i
-    return teams
 
 
 # Results/standings name -> school directory name, where they differ beyond punctuation
@@ -218,16 +232,15 @@ def match_schools(team_names, logo_prefix=""):
     return out, missing
 
 
-def project(raw_games, standings, class_pts, teams, first_meeting_only):
-    """Re-rank as if every remaining (non-postponed) game were won by the higher-ranked team.
-    Members are assumed to beat non-member opponents. Adds t["proj"] to each team."""
-    rank = {t["school"]: t["stateRank"] for t in teams}
+def project(raw_games, standings, class_pts, teams, first_meeting_only, ratings, home, olr):
+    """MPSSAA points as if every remaining (non-postponed) game were won by the OLR favorite.
+    Adds t["proj"] to each team."""
     extra = []
     for t in teams:
         for u in t["upcoming"]:
             if u["status"] == "postponed" or (u["member"] and u["opp"] < t["school"]):
                 continue  # each member-vs-member game once
-            won = not u["member"] or rank[t["school"]] < rank[u["opp"]]
+            won = oldline.win_prob(ratings[t["school"]], ratings[u["opp"]], 1 if u["home"] else -1, home, olr["k"]) >= .5
             extra.append(dict(school=t["school"], opponent=u["opp"], result="Win" if won else "Loss",
                               your_score=None, opponent_score=None, game_date=u["date"]))
     projected = {p["school"]: p for p in rank_sport(raw_games + extra, standings, class_pts, first_meeting_only)}
@@ -244,9 +257,15 @@ def build_site(key, cfg, nonce, stamp):
     for div, d in cfg["divisions"].items():
         raw, standings = fetch(d["api"], nonce)
         teams = rank_sport(raw, standings, cfg["classes"], cfg.get("first_meeting_only", False))
-        if cfg.get("playoffs"):
-            project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False))
         sports[div] = dict(teams=teams, through=max((g["date"] for t in teams for g in t["games"]), default=None))
+        if cfg.get("olr"):
+            ratings, home = oldline.rate(teams, cfg["olr"])
+            assign_ranks(teams)
+            project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False), ratings, home, cfg["olr"])
+            oldline.simulate(teams, cfg["classes"], ratings, home, cfg["olr"], cfg["playoffs"], cfg["regions"])
+            members = {t["school"] for t in teams}
+            sports[div]["nonmember"] = {x: round(v, 2) for x, v in ratings.items() if x not in members}
+            sports[div]["home"] = round(home, 2)
         print(f"{key}/{div}: {len(teams)} teams, games through {sports[div]['through']}")
     names = sorted({t["school"] for s in sports.values() for t in s["teams"]})
     schools, missing = match_schools(names, root)
