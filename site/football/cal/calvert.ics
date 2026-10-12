@@ -6,7 +6,7 @@ X-WR-CALNAME:Calvert Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-calvert-leonardtown-football@oldlinerankings
-DTSTAMP:20261012T235009Z
+DTSTAMP:20261012T235531Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Leonardtown at Calvert
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Calvert 27\, Leonardtown 15
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-mcdonough-calvert-football@oldlinerankings
-DTSTAMP:20261012T235009Z
+DTSTAMP:20261012T235531Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Calvert at McDonough
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam324d0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-calvert-henry-e-lackey-football@oldlinerankings
-DTSTAMP:20261012T235009Z
+DTSTAMP:20261012T235531Z
 DTSTART;TZID=America/New_York:20260918T180000
 DTEND;TZID=America/New_York:20260918T200000
 SUMMARY:Football: Henry E. Lackey at Calvert
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-la-plata-calvert-football@oldlinerankings
-DTSTAMP:20261012T235009Z
+DTSTAMP:20261012T235531Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Calvert at La Plata
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Calvert 53\, La Plata 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-calvert-chopticon-football@oldlinerankings
-DTSTAMP:20261012T235009Z
+DTSTAMP:20261012T235531Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Chopticon at Calvert
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Calvert 35\, Chopticon 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-calvert-great-mills-football@oldlinerankings
-DTSTAMP:20261012T235009Z
+DTSTAMP:20261012T235531Z
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:Football: Great Mills at Calvert
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-northern-c-calvert-football@oldlinerankings
-DTSTAMP:20261012T235009Z
+DTSTAMP:20261012T235531Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Football: Calvert at Northern-C
@@ -73,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gam6e04527
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-patuxent-calvert-football@oldlinerankings
-DTSTAMP:20261012T235009Z
+DTSTAMP:20261012T235531Z
 DTSTART;TZID=America/New_York:20261024T120000
 DTEND;TZID=America/New_York:20261024T140000
 SUMMARY:Football: Calvert at Patuxent
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-huntingtown-calvert-football@oldlinerankings
-DTSTAMP:20261012T235009Z
+DTSTAMP:20261012T235531Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Calvert at Huntingtown
