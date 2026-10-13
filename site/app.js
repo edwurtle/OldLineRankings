@@ -922,6 +922,7 @@ document.addEventListener("click", e => {
   if (!isRoute(u) || (u.hash && u.pathname === location.pathname && u.search === location.search)) return;
   e.preventDefault();
   if (u.href !== location.href) history.pushState(null, "", u.pathname + u.search);
+  a.blur();   // no page load, so the tapped link would keep its focus ring (a sliver under the old tab on iPhone)
   render();
 });
 window.addEventListener("popstate", render);
