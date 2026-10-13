@@ -470,7 +470,7 @@ def write_splash(built, stamp):
     </div>''')
     page = (ROOT / "scripts" / "splash.html").read_text()
     gotw_html = ('<section class="section"><div class="section-head"><div><div class="eyebrow">This week</div><h2>Games of the week</h2>'
-                 '<p>The best matchups with a live stream, picked by Old Line Rating.</p></div></div>'
+                 '<p>The best matchups with a live stream, picked by Old Line Rankings.</p></div></div>'
                  f'<div class="gw-grid">{"".join(gotw)}</div></section>') if gotw else ""
     links = "".join(f'<a class="btn ghost" href="{b["href"]}">{icons.svg(b["cfg"]["icon"])}{esc(b["cfg"]["sport"])}</a>'
                     for b in built)
