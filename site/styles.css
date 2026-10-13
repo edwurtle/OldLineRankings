@@ -482,11 +482,11 @@ body.embed .drawer { width: 100%; box-shadow: none; transition: none; }
 .gw-p { font-family: "JetBrains Mono", monospace; font-size: 18px; font-weight: 700; }
 .gw-at { padding: 0 16px 0 68px; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: var(--faint); }
 .gw-actions { display: flex; gap: 8px; margin: auto 16px 14px; padding-top: 4px; }
-.gw-watch, .gw-tix { padding: 7px 12px; border-radius: 9px; text-align: center; font-size: 13px; font-weight: 700; }
-.gw-watch { background: var(--surface); color: var(--md-red); border: 1px solid rgba(200,16,46,.35); }
+.gw-watch, .gw-tix { padding: 10px 14px; border-radius: 10px; text-align: center; font-size: 14px; font-weight: 700; }
+.gw-watch { flex: 1; background: var(--surface); color: var(--md-red); border: 1px solid rgba(200,16,46,.35); }
 .gw-watch:hover { background: rgba(200,16,46,.06); }
 .gw-tix { display: grid; place-items: center; padding: 0 12px; background: var(--surface-2); color: var(--text); border: 1px solid var(--border); }
-.gw-tix .icon { width: 18px; height: 18px; }
+.gw-tix .icon { width: 20px; height: 20px; }
 .gw-tix:hover { border-color: var(--text); }
 
 /* Splash: where the name comes from */
