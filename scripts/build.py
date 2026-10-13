@@ -466,14 +466,14 @@ def write_splash(built, stamp):
       <div class="gw-at">at</div>
       {side(g["home"], g["p"])}
       <div class="gw-actions"><a class="gw-watch" href="{esc(g["watch"])}" target="_blank" rel="noopener">▶ Watch on NFHS Network</a>{
-        f'<a class="gw-tix" href="{esc(g["tickets"])}" target="_blank" rel="noopener" data-game="{esc(g["away"]["school"] + " at " + g["home"]["school"])}" data-when="{esc(when)}">Tickets</a>' if g["tickets"] else ""}</div>
+        f'<a class="gw-tix" href="{esc(g["tickets"])}" target="_blank" rel="noopener" title="Tickets on GoFan" aria-label="Tickets on GoFan" data-game="{esc(g["away"]["school"] + " at " + g["home"]["school"])}" data-when="{esc(when)}">{icons.svg("ticket")}</a>' if g["tickets"] else ""}</div>
     </div>''')
     page = (ROOT / "scripts" / "splash.html").read_text()
     gotw_html = ('<section class="section"><div class="section-head"><div><div class="eyebrow">This week</div><h2>Games of the week</h2>'
                  '<p>The best matchups with a live stream, picked by Old Line Rating. Percentages are each team\'s chance to win.</p></div></div>'
                  f'<div class="gw-grid">{"".join(gotw)}</div></section>') if gotw else ""
-    links = "".join(f'<a class="btn {"gold" if i == 0 else "ghost"}" href="{b["href"]}">{icons.svg(b["cfg"]["icon"])}{esc(b["cfg"]["sport"])}</a>'
-                    for i, b in enumerate(built))
+    links = "".join(f'<a class="btn ghost" href="{b["href"]}">{icons.svg(b["cfg"]["icon"])}{esc(b["cfg"]["sport"])}</a>'
+                    for b in built)
     for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), gotw=gotw_html, sportlinks=links,
                      favicon=icons.favicon(), stamp=stamp).items():
         page = page.replace("{{" + k + "}}", v)

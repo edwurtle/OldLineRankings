@@ -6,7 +6,7 @@ X-WR-CALNAME:Col. Zadok Magruder Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-col-zadok-magruder-seneca-valley-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001033Z
+DTSTAMP:20261013T001335Z
 DTSTART;TZID=America/New_York:20260908T191500
 DTEND;TZID=America/New_York:20260908T211500
 SUMMARY:Boys Soccer: Seneca Valley at Col. Zadok Magruder
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-zadok-magruder-high-school-rockvi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-col-zadok-magruder-walter-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001033Z
+DTSTAMP:20261013T001335Z
 DTSTART;TZID=America/New_York:20260910T191500
 DTEND;TZID=America/New_York:20260910T211500
 SUMMARY:Boys Soccer: Walter Johnson at Col. Zadok Magruder
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-zadok-magruder-high-school-rockvi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-col-zadok-magruder-paint-branch-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001033Z
+DTSTAMP:20261013T001335Z
 DTSTART;TZID=America/New_York:20260915T191500
 DTEND;TZID=America/New_York:20260915T211500
 SUMMARY:Boys Soccer: Paint Branch at Col. Zadok Magruder
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-col-zadok-magruder-sherwood-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001033Z
+DTSTAMP:20261013T001335Z
 DTSTART;TZID=America/New_York:20260925T191500
 DTEND;TZID=America/New_York:20260925T211500
 SUMMARY:Boys Soccer: Sherwood at Col. Zadok Magruder
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/sherwood-high-school-sandy-spring-md/gamb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-col-zadok-magruder-james-hubert-blake-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001033Z
+DTSTAMP:20261013T001335Z
 DTSTART;TZID=America/New_York:20260928T191500
 DTEND;TZID=America/New_York:20260928T211500
 SUMMARY:Boys Soccer: James Hubert Blake at Col. Zadok Magruder
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/james-hubert-blake-high-school-silver-spr
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-col-zadok-magruder-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001033Z
+DTSTAMP:20261013T001335Z
 DTSTART;TZID=America/New_York:20260930T191500
 DTEND;TZID=America/New_York:20260930T211500
 SUMMARY:Boys Soccer: Springbrook at Col. Zadok Magruder
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-zadok-magruder-high-school-rockvi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-col-zadok-magruder-thomas-s-wootton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001033Z
+DTSTAMP:20261013T001335Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Thomas S. Wootton at Col. Zadok Magruder
@@ -75,7 +75,7 @@ DESCRIPTION:Final: Col. Zadok Magruder 1\, Thomas S. Wootton 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-col-zadok-magruder-rockville-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001033Z
+DTSTAMP:20261013T001335Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Boys Soccer: Rockville at Col. Zadok Magruder
@@ -84,7 +84,7 @@ DESCRIPTION:Final: Col. Zadok Magruder 1\, Rockville 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-col-zadok-magruder-gaithersburg-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001033Z
+DTSTAMP:20261013T001335Z
 DTSTART;TZID=America/New_York:20261003T101200
 DTEND;TZID=America/New_York:20261003T121200
 SUMMARY:Boys Soccer: Gaithersburg at Col. Zadok Magruder
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/gaithersburg-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-col-zadok-magruder-albert-einstein-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001033Z
+DTSTAMP:20261013T001335Z
 DTSTART;TZID=America/New_York:20261014T191500
 DTEND;TZID=America/New_York:20261014T211500
 SUMMARY:Boys Soccer: Albert Einstein at Col. Zadok Magruder
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-col-zadok-magruder-richard-montgomery-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001033Z
+DTSTAMP:20261013T001335Z
 DTSTART;TZID=America/New_York:20261016T191500
 DTEND;TZID=America/New_York:20261016T211500
 SUMMARY:Boys Soccer: Richard Montgomery at Col. Zadok Magruder
@@ -114,7 +114,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-zadok-magruder-high-school-rockvi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-col-zadok-magruder-quince-orchard-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001033Z
+DTSTAMP:20261013T001335Z
 DTSTART;TZID=America/New_York:20261020T191500
 DTEND;TZID=America/New_York:20261020T211500
 SUMMARY:Boys Soccer: Quince Orchard at Col. Zadok Magruder

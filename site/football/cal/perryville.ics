@@ -6,7 +6,7 @@ X-WR-CALNAME:Perryville Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-havre-de-grace-perryville-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20260904T190000
 DTEND;TZID=America/New_York:20260904T210000
 SUMMARY:Football: Perryville at Havre de Grace
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-perryville-c-milton-wright-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20260911T190000
 DTEND;TZID=America/New_York:20260911T210000
 SUMMARY:Football: C. Milton Wright at Perryville
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/game
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-bohemia-manor-perryville-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20260918T190000
 DTEND;TZID=America/New_York:20260918T210000
 SUMMARY:Football: Perryville at Bohemia Manor
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gamc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-perryville-edgewood-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Football: Edgewood at Perryville
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-perryville-rising-sun-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Football: Rising Sun at Perryville
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Perryville 41\, Rising Sun 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-seed-school-perryville-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20261009T190000
 DTEND;TZID=America/New_York:20261009T210000
 SUMMARY:Football: Perryville at SEED School
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gama
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-perryville-elkton-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Football: Elkton at Perryville
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/elkton-high-school-elkton-md/gambd55f1692
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-patterson-mill-perryville-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20261023T173000
 DTEND;TZID=America/New_York:20261023T193000
 SUMMARY:Football: Perryville at Patterson Mill
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-perryville-north-east-c-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Football: North East-C at Perryville

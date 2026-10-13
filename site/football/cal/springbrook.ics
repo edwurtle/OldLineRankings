@@ -6,7 +6,7 @@ X-WR-CALNAME:Springbrook Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-albert-einstein-springbrook-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20260904T190000
 DTEND;TZID=America/New_York:20260904T210000
 SUMMARY:Football: Springbrook at Albert Einstein
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-wheaton-springbrook-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20260910T183000
 DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Football: Springbrook at Wheaton
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-james-hubert-blake-springbrook-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Football: Springbrook at James Hubert Blake
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-john-f-kennedy-springbrook-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Football: Springbrook at John F. Kennedy
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-springbrook-walt-whitman-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20261002T183000
 DTEND;TZID=America/New_York:20261002T203000
 SUMMARY:Football: Walt Whitman at Springbrook
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-paint-branch-springbrook-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20261009T190500
 DTEND;TZID=America/New_York:20261009T210500
 SUMMARY:Football: Springbrook at Paint Branch
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/paint-branch-high-school-burtonsville-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-montgomery-blair-springbrook-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Football: Springbrook at Montgomery Blair
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-bethesda-cc-springbrook-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20261022T183000
 DTEND;TZID=America/New_York:20261022T203000
 SUMMARY:Football: Springbrook at Bethesda-CC
@@ -86,7 +86,7 @@ URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-northwood-springbrook-football@oldlinerankings
-DTSTAMP:20261013T000959Z
+DTSTAMP:20261013T001251Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Springbrook at Northwood

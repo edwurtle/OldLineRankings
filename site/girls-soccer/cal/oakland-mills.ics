@@ -6,7 +6,7 @@ X-WR-CALNAME:Oakland Mills Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-hammond-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001110Z
+DTSTAMP:20261013T001421Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Oakland Mills at Hammond
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Oakland Mills 0\, Hammond 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-mount-hebron-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001110Z
+DTSTAMP:20261013T001421Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Oakland Mills at Mount Hebron
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Oakland Mills 0\, Mount Hebron 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-long-reach-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001110Z
+DTSTAMP:20261013T001421Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Girls Soccer: Oakland Mills at Long Reach
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Oakland Mills 0\, Long Reach 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-oakland-mills-reservoir-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001110Z
+DTSTAMP:20261013T001421Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Reservoir at Oakland Mills
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Oakland Mills 0\, Reservoir 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-river-hill-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001110Z
+DTSTAMP:20261013T001421Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Oakland Mills at River Hill
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Oakland Mills 0\, River Hill 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-wilde-lake-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001110Z
+DTSTAMP:20261013T001421Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Oakland Mills at Wilde Lake
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Oakland Mills 0\, Wilde Lake 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-marriotts-ridge-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001110Z
+DTSTAMP:20261013T001421Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Oakland Mills at Marriotts Ridge
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Oakland Mills 0\, Marriotts Ridge 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-atholton-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001110Z
+DTSTAMP:20261013T001421Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Oakland Mills at Atholton
@@ -78,7 +78,7 @@ DESCRIPTION:Final: Oakland Mills 0\, Atholton 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-centennial-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001110Z
+DTSTAMP:20261013T001421Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Oakland Mills at Centennial
@@ -86,7 +86,7 @@ LOCATION:Centennial
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-howard-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001110Z
+DTSTAMP:20261013T001421Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Girls Soccer: Oakland Mills at Howard
@@ -94,7 +94,7 @@ LOCATION:Howard
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-glenelg-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001110Z
+DTSTAMP:20261013T001421Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: Oakland Mills at Glenelg
@@ -102,7 +102,7 @@ LOCATION:Glenelg
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-guilford-park-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001110Z
+DTSTAMP:20261013T001421Z
 DTSTART;TZID=America/New_York:20261022T173000
 DTEND;TZID=America/New_York:20261022T193000
 SUMMARY:Girls Soccer: Oakland Mills at Guilford Park
