@@ -6,7 +6,7 @@ X-WR-CALNAME:Lansdowne Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-lansdowne-randallstown-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Randallstown at Lansdowne
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Lansdowne 11\, Randallstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-carver-aandt-lansdowne-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Lansdowne at Carver A&T
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Lansdowne 4\, Carver A&T 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-lansdowne-chesapeake-b-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Chesapeake-B at Lansdowne
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Lansdowne 2\, Chesapeake-B 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-lansdowne-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Boys Soccer: Franklin at Lansdowne
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Lansdowne 1\, Franklin 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-western-tech-lansdowne-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Lansdowne at Western Tech
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Lansdowne 4\, Western Tech 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-loch-raven-lansdowne-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Lansdowne at Loch Raven
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Lansdowne 3\, Loch Raven 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-lansdowne-milford-mill-academy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20260930T154500
 DTEND;TZID=America/New_York:20260930T174500
 SUMMARY:Boys Soccer: Milford Mill Academy at Lansdowne
@@ -70,7 +70,7 @@ URL:https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gam28b2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-lansdowne-parkville-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Parkville at Lansdowne
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Lansdowne 0\, Parkville 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-pikesville-lansdowne-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Boys Soccer: Lansdowne at Pikesville
@@ -89,7 +89,7 @@ URL:https://www.nfhsnetwork.com/events/pikesville-high-school-baltimore-md/gamae
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-lansdowne-new-town-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: New Town at Lansdowne
@@ -97,7 +97,7 @@ LOCATION:Lansdowne
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-lansdowne-owings-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20261022T174500
 DTEND;TZID=America/New_York:20261022T194500
 SUMMARY:Boys Soccer: Owings Mills at Lansdowne

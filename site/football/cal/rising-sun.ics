@@ -6,7 +6,7 @@ X-WR-CALNAME:Rising Sun Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-northeast-aa-rising-sun-football@oldlinerankings
-DTSTAMP:20261013T002335Z
+DTSTAMP:20261013T002534Z
 DTSTART;TZID=America/New_York:20260904T184500
 DTEND;TZID=America/New_York:20260904T204500
 SUMMARY:Football: Rising Sun at Northeast-AA
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-patterson-mill-rising-sun-football@oldlinerankings
-DTSTAMP:20261013T002335Z
+DTSTAMP:20261013T002534Z
 DTSTART;TZID=America/New_York:20260911T184500
 DTEND;TZID=America/New_York:20260911T204500
 SUMMARY:Football: Rising Sun at Patterson Mill
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-havre-de-grace-rising-sun-football@oldlinerankings
-DTSTAMP:20261013T002335Z
+DTSTAMP:20261013T002534Z
 DTSTART;TZID=America/New_York:20260918T184500
 DTEND;TZID=America/New_York:20260918T204500
 SUMMARY:Football: Rising Sun at Havre de Grace
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-elkton-rising-sun-football@oldlinerankings
-DTSTAMP:20261013T002335Z
+DTSTAMP:20261013T002534Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Football: Rising Sun at Elkton
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/elkton-high-school-elkton-md/gam64f40db0e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-perryville-rising-sun-football@oldlinerankings
-DTSTAMP:20261013T002335Z
+DTSTAMP:20261013T002534Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Football: Rising Sun at Perryville
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Rising Sun 6\, Perryville 41
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-rising-sun-joppatowne-football@oldlinerankings
-DTSTAMP:20261013T002335Z
+DTSTAMP:20261013T002534Z
 DTSTART;TZID=America/New_York:20261009T184500
 DTEND;TZID=America/New_York:20261009T204500
 SUMMARY:Football: Joppatowne at Rising Sun
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamdf5265
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-bohemia-manor-rising-sun-football@oldlinerankings
-DTSTAMP:20261013T002335Z
+DTSTAMP:20261013T002534Z
 DTSTART;TZID=America/New_York:20261015T184500
 DTEND;TZID=America/New_York:20261015T204500
 SUMMARY:Football: Rising Sun at Bohemia Manor
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gamd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-north-east-c-rising-sun-football@oldlinerankings
-DTSTAMP:20261013T002335Z
+DTSTAMP:20261013T002534Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Rising Sun at North East-C
@@ -83,7 +83,7 @@ LOCATION:North East-C
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-western-tech-rising-sun-football@oldlinerankings
-DTSTAMP:20261013T002335Z
+DTSTAMP:20261013T002534Z
 DTSTART;TZID=America/New_York:20261030T160000
 DTEND;TZID=America/New_York:20261030T180000
 SUMMARY:Football: Rising Sun at Western Tech

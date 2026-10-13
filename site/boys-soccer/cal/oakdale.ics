@@ -6,7 +6,7 @@ X-WR-CALNAME:Oakdale Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-oakdale-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Boys Soccer: Severna Park at Oakdale
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Oakdale 0\, Severna Park 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-oakdale-chesapeake-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20260905T190000
 DTEND;TZID=America/New_York:20260905T210000
 SUMMARY:Boys Soccer: Chesapeake-AA at Oakdale
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam7bd5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-middletown-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Boys Soccer: Oakdale at Middletown
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam8431
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-oakdale-urbana-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20260918T190000
 DTEND;TZID=America/New_York:20260918T210000
 SUMMARY:Boys Soccer: Urbana at Oakdale
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam1ae7f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-oakdale-north-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Boys Soccer: North Hagerstown at Oakdale
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gamfad1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-oakdale-south-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: South Hagerstown at Oakdale
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam9511
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-linganore-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Boys Soccer: Oakdale at Linganore
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam0db
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-oakdale-wv-jefferson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: WV - Jefferson at Oakdale
@@ -84,7 +84,7 @@ DESCRIPTION:Final: Oakdale 4\, WV - Jefferson 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-oakdale-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Oakdale
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-oakdale-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Frederick at Oakdale
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam9cb5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-oakdale-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Boys Soccer: Tuscarora at Oakdale
@@ -114,7 +114,7 @@ URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam315
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-manchester-valley-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Oakdale at Manchester Valley
@@ -124,7 +124,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam3576
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-century-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Boys Soccer: Oakdale at Century
@@ -134,7 +134,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam3fd1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-south-carroll-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002420Z
+DTSTAMP:20261013T002605Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Boys Soccer: Oakdale at South Carroll
