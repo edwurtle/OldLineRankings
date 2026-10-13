@@ -11,7 +11,7 @@
    nightly-rebuilt `.ics` at `t.cal`, e.g. `football/cal/quince-orchard.ics`) and per-game add-to-calendar.
 4. **Search visibility (Google, other search engines, AI assistants)**: per-page titles/descriptions,
    `sitemap.xml` + `robots.txt`, structured data (schema.org SportsEvent / SportsTeam), crawlable
-   per-team URLs (hash routes like `#/team/...` aren't indexed: needs real paths or pre-rendered pages),
+   per-team URLs (done: every team and section has a real, pre-rendered page),
    an `llms.txt` summary, and submit to Google Search Console / Bing Webmaster Tools once the domain is live.
 5. **More playoff simulations (later)**: 9,000 instead of 2,000 for steadier odds. Needs a faster simulator first:
    at 9,000 the nightly build ran several minutes per sport (`n` in `scripts/oldline.py` `simulate`, and the

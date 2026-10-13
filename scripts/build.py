@@ -352,9 +352,12 @@ def build_site(key, cfg, nonce, stamp):
             shutil.rmtree(d)
     for div, s in sports.items():
         for t in s["teams"]:
+            if t["slug"] in SECTIONS or t["slug"] == "cal":
+                raise SystemExit(f"Team page {t['slug']}/ would collide with a section page")
             write_team_page(out, page, cfg, div, s, t, schools, rel, description)
+    pages = write_section_pages(out, page, cfg, sports, rel, description)
     print(f"Wrote {cfg['out']}/")
-    return dict(cfg=cfg, sports=sports, schools=schools, href="/".join(pathlib.Path(cfg["out"]).parts[1:]) + "/")
+    return dict(cfg=cfg, sports=sports, schools=schools, pages=pages, href="/".join(pathlib.Path(cfg["out"]).parts[1:]) + "/")
 
 
 def write_team_page(out, page, cfg, div, s, t, schools, rel, sport_description):
@@ -398,17 +401,71 @@ def write_team_page(out, page, cfg, div, s, t, schools, rel, sport_description):
                     for u in t["upcoming"] if u["status"] != "postponed"]}
     if city:
         ld["location"] = {"@type": "Place", "address": {"@type": "PostalAddress", "addressLocality": city, "addressRegion": "MD"}}
-    sport_url = f"{SITE_URL}/{rel}"
-    html_out = page.replace("<head>\n", '<head>\n<base href="../">\n', 1)
-    html_out = re.sub(r"<title>.*?</title>", f"<title>{esc(title)}</title>", html_out, count=1)
-    html_out = html_out.replace(f'content="{sport_description}"', f'content="{esc(desc)}"')
-    html_out = html_out.replace(f'href="{sport_url}"', f'href="{url}"').replace(f'content="{sport_url}"', f'content="{url}"')
-    html_out = html_out.replace(f'<meta property="og:title" content="Old Line {sport} Rankings">', f'<meta property="og:title" content="{esc(name)} {esc(sport)}">')
-    html_out = html_out.replace("</head>", f'<script type="application/ld+json">{json.dumps(ld)}</script>\n</head>', 1)
-    html_out = html_out.replace('<main id="app"></main>', f'<main id="app">{static}</main>', 1)
+    html_out = page_variant(page, cfg, rel, sport_description, t["slug"] + "/", title, desc, f"{name} {sport}", static,
+                            f'<script type="application/ld+json">{json.dumps(ld)}</script>')
     html_out = html_out.replace('<script src="data.js', f'<script>window.TEAM_PAGE = {json.dumps(dict(g=div, school=school))};</script>\n<script src="data.js', 1)
     (out / t["slug"]).mkdir(exist_ok=True)
     (out / t["slug"] / "index.html").write_text(html_out)
+
+
+def page_variant(page, cfg, rel, sport_description, path, title, desc, og_title, static, head="", canonical=None):
+    """The sport page served at /<sport>/<path>: its own title, description, canonical address and link preview,
+    plus plain-HTML content for search engines (app.js replaces it). <base> keeps links relative to the sport."""
+    sport_url, url = f"{SITE_URL}/{rel}", f"{SITE_URL}/{rel}{canonical or path}"
+    html_out = page.replace("<head>\n", f'<head>\n<base href="{"../" * path.count("/")}">\n', 1)
+    html_out = re.sub(r"<title>.*?</title>", f"<title>{esc(title)}</title>", html_out, count=1)
+    html_out = html_out.replace(f'content="{sport_description}"', f'content="{esc(desc)}"')
+    html_out = html_out.replace(f'href="{sport_url}"', f'href="{url}"').replace(f'content="{sport_url}"', f'content="{url}"')
+    html_out = html_out.replace(f'<meta property="og:title" content="Old Line {cfg["sport"]} Rankings">', f'<meta property="og:title" content="{esc(og_title)}">')
+    if head:
+        html_out = html_out.replace("</head>", head + "\n</head>", 1)
+    return html_out.replace('<main id="app"></main>', f'<main id="app">{static}</main>', 1)
+
+
+# The app's sections, each with its own address (/<sport>/rankings/3a/ etc.; app.js SECTIONS); team slugs can't use these
+SECTIONS = ("rankings", "schedule", "playoffs", "how-it-works")
+
+
+def write_section_pages(out, page, cfg, sports, rel, sport_description):
+    """Real pages for the app's sections (rankings overall and by class, schedule, playoffs by class, how it works),
+    each with its own title and description and, for rankings, a plain ranked list linking every team's page."""
+    sport, lower = cfg["sport"], cfg["sport"].lower()
+    label = lambda c: cfg.get("labels", {}).get(c, c)
+    cslug = lambda c: c.lower().replace("_", "-")
+    rated = lambda t: f'{t["rating"]:+.{cfg["olr"].get("digits", 1)}f}' if cfg.get("olr") else f'{t["rating"]:.2f}'
+    rec = lambda t: f'{t["W"]}-{t["L"]}' + (f'-{t["T"]}' if cfg.get("ties") else "")
+    teams = [t for s in sports.values() for t in s["teams"]]
+    def ranked(ts, key):
+        return "<ol>" + "".join(f'<li><a href="{t["slug"]}/">{esc(t["school"])}</a> ({esc(label(t["cls"]))} {esc(t["region"])}) '
+                                f'{rec(t)} · Old Line Rating {rated(t)}</li>' for t in sorted(ts, key=lambda t: t[key])) + "</ol>"
+    pages = []   # (path, title, description, h1, body, canonical)
+    pages.append(("rankings/", f"Maryland {sport} Rankings, All Classes · Old Line Rankings",
+                  f"Every Maryland public high school {lower} team, 1A through 4A, ranked statewide by Old Line Rating. Updated nightly from MPSSAA results.",
+                  f"Maryland {sport} Rankings", ranked(teams, "stateRank"), None))
+    for c in cfg["classes"]:
+        pages.append((f"rankings/{cslug(c)}/", f"Maryland {label(c)} {sport} Rankings · Old Line Rankings",
+                      f"Class {label(c)} Maryland public high school {lower} rankings by Old Line Rating, with records, strength of schedule and region standings. Updated nightly.",
+                      f"Maryland {label(c)} {sport} Rankings", ranked([t for t in teams if t["cls"] == c], "rank"), None))
+    pages.append(("schedule/", f"Maryland {sport} Schedule & Scores · Old Line Rankings",
+                  f"Every Maryland public high school {lower} game: scores, upcoming games, live streams on NFHS Network and tickets.",
+                  f"Maryland {sport} Schedule & Scores", "", None))
+    if cfg.get("playoffs"):
+        for i, c in enumerate(cfg["classes"]):
+            p = (f"playoffs/{cslug(c)}/", f"Maryland {label(c)} {sport} Playoff Picture · Old Line Rankings",
+                 f"Class {label(c)} Maryland {lower} playoff picture: region seeds and brackets as they stand today, plus projections and title odds from Old Line Ratings.",
+                 f"Maryland {label(c)} {sport} Playoff Picture", "", None)
+            pages.append(p)
+            if i == 0:   # /playoffs/ shows the top class
+                pages.append(("playoffs/",) + p[1:5] + (p[0],))
+    pages.append(("how-it-works/", f"How the {sport} Rankings Work · Old Line Rankings",
+                  f"How Old Line Ratings rank Maryland high school {lower} teams, how playoff seeding works, and how the projections are made.",
+                  f"How the {sport} Rankings Work", "", None))
+    for path, title, desc, h1, body, canonical in pages:
+        static = f'<article class="wrap seo"><h1>{esc(h1)}</h1><p>{esc(desc)}</p>{body}</article>'
+        (out / path).mkdir(parents=True, exist_ok=True)
+        (out / path / "index.html").write_text(
+            page_variant(page, cfg, rel, sport_description, path, title, desc, title.split(" · ")[0], static, canonical=canonical))
+    return [path for path, *_, canonical in pages if not canonical]
 
 
 def slug(name):
@@ -531,9 +588,9 @@ def write_splash(built, stamp):
             img = f'<img src="{esc(logo[3:])}" alt="" loading="lazy">' if logo else ""
             rec = f'{t["W"]}-{t["L"]}' + (f'-{t["T"]}' if cfg.get("ties") else "")
             cls = cfg.get("labels", {}).get(t["cls"], t["cls"])
-            link = f'{b["href"]}#/{g["div"]}/All?team={urllib.parse.quote(t["school"])}'
             # data-panel: the splash page opens this team's drawer in a side panel instead of leaving the page
-            return (f'<a class="gw-team" href="{esc(link)}" data-panel="{esc(b["href"] + "?embed=1#/" + g["div"] + "/All?team=" + urllib.parse.quote(t["school"]))}"><span class="logo" style="--sz:40px">{img}</span>'
+            # (the plain link, for new tabs, is the team's own page)
+            return (f'<a class="gw-team" href="{esc(b["href"] + t["slug"] + "/")}" data-panel="{esc(b["href"] + "?embed=1&team=" + urllib.parse.quote(t["school"]))}"><span class="logo" style="--sz:40px">{img}</span>'
                     f'<span class="gw-who"><b>{esc(t["school"])}</b><small>{esc(cls)} · #{t["rank"]} in class · {rec}</small></span>'
                     f'<span class="gw-p">{round(100 * chance)}%</span></a>')
         day = datetime.date.fromisoformat(g["date"])
@@ -570,7 +627,7 @@ def write_splash(built, stamp):
     print("Wrote site/index.html (splash)")
     # Search engines: every page's address, and where to find that list
     today = datetime.date.today().isoformat()
-    urls = [f"{SITE_URL}/"] + [f"{SITE_URL}/{b['href']}" for b in built] + [
+    urls = [f"{SITE_URL}/"] + [f"{SITE_URL}/{b['href']}{p}" for b in built for p in [""] + b["pages"]] + [
         f"{SITE_URL}/{b['href']}{t['slug']}/" for b in built for s in b["sports"].values() for t in s["teams"]]
     (ROOT / "site" / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
         + "".join(f"  <url><loc>{u}</loc><lastmod>{today}</lastmod><changefreq>daily</changefreq></url>\n" for u in urls) + "</urlset>\n")

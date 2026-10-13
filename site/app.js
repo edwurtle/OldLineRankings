@@ -22,7 +22,7 @@ const recTxt = t => `${t.W}-${t.L}` + (C.ties || t.T ? `-${t.T}` : "");
 const cl = c => (C.labels && C.labels[c]) || c;   // "4A_3A" -> "4A/3A"
 // Section name for a class + division: "4A Boys" for soccer, "4A/3A" for football
 const divName = (g, c) => [c && cl(c), MULTI ? GENDERS[g] : ""].filter(Boolean).join(" ");
-const crumbs = (...items) => `<div class="crumbs"><a href="${esc(C.family.home || "../")}">Home</a><span>/</span><a href="#/">${esc(C.sport)}</a>` +
+const crumbs = (...items) => `<div class="crumbs"><a href="${esc(C.family.home || "../")}">Home</a><span>/</span><a href="${BASE}">${esc(C.sport)}</a>` +
   items.map(x => `<span>/</span>` + (Array.isArray(x) ? `<a href="${x[1]}">${esc(x[0])}</a>` : `<span>${esc(x)}</span>`)).join("") + `</div>`;
 const rkBadge = n => `<span class="rk mono">${n}</span>`;
 // NFHS Network broadcast link (live or replay) for a game, when one exists
@@ -89,42 +89,68 @@ const teamsOf = (g, c) => c === "All" ? D.sports[g].teams : D.sports[g].teams.fi
 const findTeam = (g, name) => D.sports[g].teams.find(t => t.school === name);
 const throughAll = Object.values(D.sports).map(s => s.through).sort().pop();
 document.getElementById("updated").textContent = `Games through ${fmtDate(throughAll, {month: "long", day: "numeric", year: "numeric"})} · updated ${D.updated}`;
-document.getElementById("navLinks").innerHTML = DIVS.map(g => `<a href="#/${g}/All" data-nav="${g}">${MULTI ? GENDERS[g] : "Rankings"}</a>`).join("") +
-  `<a href="#/schedule" data-nav="schedule">Schedule</a>` +
-  (C.playoffs ? `<a href="#/final8" data-nav="final8">Playoffs</a>` : "") + `<a href="#/how" data-nav="how">How it works</a>`;
 // Footer sport switcher: every Old Line Rankings sport, current one highlighted, coming-soon ones dimmed
 document.getElementById("family").innerHTML = C.family.sports.map(s => s.href
   ? `<a href="${esc(s.href)}" class="${s.current ? "on" : ""}"${s.current ? ` aria-current="page"` : ""}>${s.icon}${esc(s.sport)}</a>`
   : `<span class="soon" title="${esc(s.note || "")}">${s.icon}${esc(s.sport)} <small>soon</small></span>`).join("");
 
-// ---------- routing: #/  #/how  #/boys/2A?view=region&team=Glenelg  #/final8/4A?view=projected ----------
-function parseRoute() {
-  const [path, qs] = location.hash.replace(/^#/, "").split("?");
-  const parts = path.split("/").filter(Boolean);
-  const p = new URLSearchParams(qs || "");
-  const cls = def => { const c = (parts[1] || def).toUpperCase(); return c === "ALL" ? "All" : c; };
-  if (parts[0] in GENDERS)
-    return {page: "rank", g: parts[0], c: cls("All"), view: p.get("view") || "overall", team: p.get("team")};
-  if (parts[0] === "final8" && C.playoffs)
-    return {page: "final8", g: p.get("g") in GENDERS ? p.get("g") : DEF, c: cls(CLASSES[0]), view: p.get("view") || "current", team: p.get("team")};
-  return {page: ["how", "schedule"].includes(parts[0]) ? parts[0] : "home", team: p.get("team"), g: p.get("g") || DEF};
+// ---------- routing: clean paths under the sport's folder ----------
+//   ./  rankings/  rankings/4a-3a/  schedule/  playoffs/4a/?view=projected  how-it-works/   (?team=Glenelg opens a drawer)
+// Every page's <base> points at the sport's folder; pin it (absolute) so pushState doesn't move relative links
+const baseEl = document.querySelector("base") || document.head.appendChild(document.createElement("base"));
+baseEl.href = new URL(".", document.baseURI).href;
+const BASE = new URL(document.baseURI).pathname;            // e.g. /football/
+const EMBED = new URLSearchParams(location.search).has("embed");
+const SECTIONS = {rankings: "rank", schedule: "schedule", playoffs: "final8", "how-it-works": "how"};
+const clsSlug = c => c.toLowerCase().replace(/_/g, "-");   // "4A_3A" -> "4a-3a"
+const clsFrom = s => CLASSES.find(c => clsSlug(c) === String(s || "").toLowerCase());
+function parseRoute(loc = location) {
+  const parts = (loc.pathname.startsWith(BASE) ? loc.pathname.slice(BASE.length) : "").replace(/index\.html$/, "").split("/").filter(Boolean);
+  const p = new URLSearchParams(loc.search);
+  const g = p.get("g") in GENDERS ? p.get("g") : DEF, page = SECTIONS[parts[0]], team = p.get("team");
+  if (page === "rank") return {page, g, c: clsFrom(parts[1]) || "All", view: p.get("view") || "overall", team};
+  if (page === "final8" && C.playoffs) return {page, g, c: clsFrom(parts[1]) || CLASSES[0], view: p.get("view") || "current", team};
+  return {page: page && page !== "final8" ? page : "home", g, team};
 }
+// Is this link one of this sport's app pages (so it can be shown without a page load)?
+const isRoute = u => u.origin === location.origin && u.pathname.startsWith(BASE) &&
+  (u.pathname.slice(BASE.length).split("/")[0] || "index.html").replace("index.html", "") in {"": 1, ...SECTIONS};
 function href(r) {
   const p = new URLSearchParams();
-  if (r.page === "rank" || r.page === "final8") {
-    if (r.page === "final8" && MULTI && r.g !== DEF) p.set("g", r.g);
-    if (r.view && r.view !== {rank: "overall", final8: "current"}[r.page]) p.set("view", r.view);
-    if (r.team) p.set("team", r.team);
-    return `#/${r.page === "rank" ? r.g : "final8"}/${r.c}` + (p.toString() ? "?" + p : "");
-  }
-  if (r.team) { p.set("team", r.team); if (MULTI) p.set("g", r.g); }
-  return "#/" + (["how", "schedule"].includes(r.page) ? r.page : "") + (p.toString() ? "?" + p : "");
+  if (EMBED) p.set("embed", "1");
+  if (MULTI && r.g !== DEF) p.set("g", r.g);
+  if (r.view && r.view !== {rank: "overall", final8: "current"}[r.page]) p.set("view", r.view);
+  if (r.team) p.set("team", r.team);
+  const path = r.page === "rank" ? "rankings/" + (r.c && r.c !== "All" ? clsSlug(r.c) + "/" : "")
+    : r.page === "final8" ? `playoffs/${clsSlug(r.c || CLASSES[0])}/`
+    : {schedule: "schedule/", how: "how-it-works/"}[r.page] || "";
+  return BASE + path + (p.toString() ? "?" + p : "");
 }
 function go(patch, replace = false) {
-  const h = href(Object.assign(parseRoute(), patch));
-  replace ? history.replaceState(null, "", h) : (location.hash = h);
-  if (replace) render();
+  history[replace ? "replaceState" : "pushState"](null, "", href(Object.assign(parseRoute(), patch)));
+  render();
 }
+// Old hash links (#/boys/2A?team=Glenelg, #/final8/4A, #/how, #/?team=X) become their clean address
+function upgradeHash() {
+  if (!/^#\//.test(location.hash)) return;
+  const [path, qs] = location.hash.slice(1).split("?"), parts = path.split("/").filter(Boolean), p = new URLSearchParams(qs || "");
+  const c = String(parts[1] || "").toUpperCase(), r = {team: p.get("team"), view: p.get("view"), g: p.get("g") in GENDERS ? p.get("g") : DEF};
+  if (parts[0] in GENDERS) Object.assign(r, {page: "rank", g: parts[0], c: CLASSES.includes(c) ? c : "All"});
+  else if (parts[0] === "final8") Object.assign(r, {page: "final8", c: CLASSES.includes(c) ? c : CLASSES[0]});
+  else r.page = {how: "how", schedule: "schedule"}[parts[0]] || "home";
+  history.replaceState(null, "", href(r));
+}
+upgradeHash();
+const pageTitle = r => ({
+  rank: `Maryland ${r.c === "All" ? "" : cl(r.c) + " "}${C.sport} Rankings${r.c === "All" ? ", All Classes" : ""} · Old Line Rankings`,
+  final8: `Maryland ${cl(r.c)} ${C.sport} Playoff Picture · Old Line Rankings`,
+  schedule: `Maryland ${C.sport} Schedule & Scores · Old Line Rankings`,
+  how: `How the ${C.sport} Rankings Work · Old Line Rankings`,
+}[r.page] || `Old Line ${C.sport} Rankings · Maryland Public High Schools`);
+
+document.getElementById("navLinks").innerHTML = DIVS.map(g => `<a href="${href({page: "rank", g, c: "All"})}" data-nav="${g}">${MULTI ? GENDERS[g] : "Rankings"}</a>`).join("") +
+  `<a href="${href({page: "schedule"})}" data-nav="schedule">Schedule</a>` +
+  (C.playoffs ? `<a href="${href({page: "final8"})}" data-nav="final8">Playoffs</a>` : "") + `<a href="${href({page: "how"})}" data-nav="how">How it works</a>`;
 
 // ---------- state for the rankings page ----------
 let sort = {key: "rank", dir: 1}, query = "", lastPage = "";
@@ -165,9 +191,9 @@ function renderHome() {
         <p>${OLR ? `Every public high school ${C.sport.toLowerCase()} team in the state, ranked by the Old Line Rating: how much better than average a team is, built from capped scoring margins and the strength of every opponent.${SEEDS_BY_POINTS ? " MPSSAA playoff points are tracked alongside for seeding." : ""}`
           : `Every public high school ${C.sport.toLowerCase()} team in the state, ranked by who they beat. Strength of schedule is built in: a win over a ${CLASSES[0]} team with a winning record counts for more than a win over a winless ${CLASSES[CLASSES.length - 1]} team.`}</p>
         <div class="cta">
-          ${DIVS.map((g, i) => `<a class="btn ${i ? "red" : "gold"}" href="#/${g}/All">${MULTI ? GENDERS[g] + " rankings" : "Rankings"} →</a>`).join("")}
-          ${C.playoffs ? `<a class="btn red" href="#/final8">Playoffs →</a>` : ""}
-          <a class="btn ghost" href="#/how">How it works</a>
+          ${DIVS.map((g, i) => `<a class="btn ${i ? "red" : "gold"}" href="${href({page: "rank", g, c: "All"})}">${MULTI ? GENDERS[g] + " rankings" : "Rankings"} →</a>`).join("")}
+          ${C.playoffs ? `<a class="btn red" href="${href({page: "final8"})}">Playoffs →</a>` : ""}
+          <a class="btn ghost" href="${href({page: "how"})}">How it works</a>
         </div>
         <div class="hero-stats">
           <div><b>${totalTeams}</b><span>Teams</span></div>
@@ -185,10 +211,10 @@ function renderHome() {
       <div class="section-head"><div><div class="eyebrow">Choose a ${MULTI ? "division" : "class"}</div><h2>Jump to rankings</h2></div></div>
       <div class="picker" style="--picks:${DIVS.length}">${Object.entries(GENDERS).map(([g, label]) => `
         <div class="pick ${g}">
-          <div class="pick-head"><h3><i></i>${label}</h3><a href="#/${g}/All">All classes →</a></div>
+          <div class="pick-head"><h3><i></i>${label}</h3><a href="${href({page: "rank", g, c: "All"})}">All classes →</a></div>
           <div class="pick-grid" style="--n:${CLASSES.length}">${CLASSES.map(c => {
             const ts = teamsOf(g, c), top = ts[0];
-            return `<a class="cls-tile" href="#/${g}/${c}">
+            return `<a class="cls-tile" href="${href({page: "rank", g, c})}">
               <span class="cls-big">${cl(c)}</span>
               ${top ? logo(top.school, 40) : ""}
               <span class="lead">${top ? esc(top.school) : ""}</span>
@@ -231,7 +257,7 @@ function highlightCard(g, c) {
       <div class="hl-row" data-team="${esc(t.school)}" data-g="${g}"><span class="n">${i + 2}</span>${logo(t.school, 30)}
         <span class="nm">${esc(t.school)}<small>${recTxt(t)} · ${esc(t.region)}</small></span><span class="avg mono">${fmtR(t.rating)}</span></div>`).join("")}
     </div>
-    <a class="hl-foot" href="#/${g}/${c}">Full ${divName(g, c)} rankings →</a>
+    <a class="hl-foot" href="${href({page: "rank", g, c})}">Full ${divName(g, c)} rankings →</a>
   </div>`;
 }
 
@@ -332,7 +358,7 @@ function renderRank(r) {
   const title = `${r.c === "All" ? "All Classes" : cl(r.c)} <span>${GENDERS[r.g]}</span>${MULTI && r.c !== "All" ? " " + C.sport : ""}`;
   app.innerHTML = `
   <section class="page-head"><div class="wrap">
-    ${crumbs(["Rankings", `#/${r.g}/All`], r.c === "All" ? "All classes" : "Class " + cl(r.c))}
+    ${crumbs(["Rankings", href({page: "rank", g: r.g, c: "All"})], r.c === "All" ? "All classes" : "Class " + cl(r.c))}
     <h1>${title}</h1>
     <div class="sub">${ts.length} teams · games through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})} · ranked by Old Line Rating</div>
     <div class="switches">
@@ -553,7 +579,7 @@ function renderFinal8(r) {
     : `Each region's top ${PL.region_seeds} by ${SEED.name} play two rounds (1v8, 4v5, 2v7, 3v6); the two survivors reach the Final 8.`;
   app.innerHTML = `
   <section class="page-head"><div class="wrap">
-    ${crumbs(["Playoffs", "#/final8"], divName(r.g, r.c))}
+    ${crumbs(["Playoffs", href({page: "final8", g: r.g})], divName(r.g, r.c))}
     <h1>${divName(r.g, r.c)} <span>Playoffs</span></h1>
     <div class="switches">
       ${MULTI ? `<div class="pill-group ${r.g !== DEF ? "red" : ""}">${Object.entries(GENDERS).map(([g, l]) => `<a class="${g === r.g ? "on" : ""}" href="${href({...r, g, team: null})}">${l}</a>`).join("")}</div>` : ""}
@@ -723,7 +749,7 @@ function renderTeamPage() {
   if (!v) return;
   app.innerHTML = `
   <section class="page-head team-head" style="--team:${esc(v.color)}"><div class="wrap">
-    ${crumbs(["Rankings", `#/${g}/All`], school)}
+    ${crumbs(school)}
     <div class="team-hero">${logo(school, 96)}<div>
       <div class="eyebrow">${esc(v.eyebrow)}</div><h1>${esc(school)}</h1><div class="sub">${esc(v.meta)}</div>
       <div class="form">${v.form}</div></div></div>
@@ -807,8 +833,7 @@ function render() {
     render.lastKey = pageKey; render.lastPage = r.page;
   }
   document.querySelectorAll("[data-nav]").forEach(a => a.classList.toggle("active", r.page === "rank" ? a.dataset.nav === r.g : a.dataset.nav === r.page));
-  document.title = (r.page === "rank" ? `${r.c === "All" ? "All Classes" : cl(r.c)} ${GENDERS[r.g]}${MULTI ? " " + C.sport : ""} · `
-    : r.page === "final8" ? `${divName(r.g, r.c)} Playoffs · ` : "") + `Old Line ${C.sport} Rankings`;
+  document.title = pageTitle(r);
   if (r.team) openTeam(r.g || DEF, r.team); else closeDrawer();
 }
 
@@ -880,12 +905,22 @@ document.getElementById("dBody").addEventListener("click", e => {
   if (b) go({team: b.dataset.team});
 });
 // Embedded in the splash page's team panel (?embed): show only the drawer; closing tells the splash page
-const EMBED = new URLSearchParams(location.search).has("embed");
 if (EMBED) document.body.classList.add("embed");
 const close = () => EMBED ? parent.postMessage("olr-close-team", "*") : go({team: null});
 scrim.addEventListener("click", close);
 document.getElementById("close").addEventListener("click", close);
 document.addEventListener("keydown", e => { if (e.key === "Escape" && drawer.classList.contains("open")) close(); });
-window.addEventListener("hashchange", render);
+// Links to this sport's pages switch without a page load; Back/Forward re-render
+document.addEventListener("click", e => {
+  const a = e.target.closest("a[href]");
+  if (!a || window.TEAM_PAGE || a.target || a.hasAttribute("download") || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button) return;
+  const u = new URL(a.href);
+  if (!isRoute(u) || (u.hash && u.pathname === location.pathname && u.search === location.search)) return;
+  e.preventDefault();
+  if (u.href !== location.href) history.pushState(null, "", u.pathname + u.search);
+  render();
+});
+window.addEventListener("popstate", render);
+window.addEventListener("hashchange", () => { upgradeHash(); render(); });
 render();
 })();

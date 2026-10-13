@@ -6,6 +6,12 @@ football (4A, 4A/3A, 3A, 2A, 2A/1A, 1A) at `/football/`, boys soccer at `/boys-s
 lacrosse is listed as coming soon. Every site's footer has a sport switcher. Old soccer links (`/#/boys/4A`, `/soccer/…`)
 redirect to the right soccer site.
 
+Every page has a real address: `/football/rankings/`, `/football/rankings/3a/`, `/football/schedule/`,
+`/football/playoffs/4a/?view=projected`, `/football/how-it-works/`, and each team's `/football/<team>/`
+(`?team=Linganore` opens a team's drawer on any page). The build writes a static page for each (own title,
+description and canonical address, all in `sitemap.xml`); `site/app.js` switches between them without reloading.
+Old `#/…` links are rewritten to the new addresses.
+
 ## Rating
 - **Win:** opponent class points + opponent's season wins
   - Soccer: 1A=5, 2A=6, 3A=7, 4A=8 (modeled on football's system; MPSSAA seeds soccer by winning percentage only)
