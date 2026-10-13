@@ -6,7 +6,7 @@ X-WR-CALNAME:Century Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-century-c-milton-wright-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20260905T090000
 DTEND;TZID=America/New_York:20260905T110000
 SUMMARY:Girls Soccer: C. Milton Wright at Century
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-century-fallston-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20260905T140000
 DTEND;TZID=America/New_York:20260905T160000
 SUMMARY:Girls Soccer: Fallston at Century
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/c-milton-wright-high-school-bel-air-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-century-thomas-s-wootton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Thomas S. Wootton at Century
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Century 5\, Thomas S. Wootton 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-century-md-roland-park-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: MD- Roland Park at Century
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Century 2\, MD- Roland Park 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-century-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Catonsville at Century
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Century 1\, Catonsville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-century-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Westminster at Century
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Century 3\, Westminster 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-south-carroll-century-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Century at South Carroll
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Century 0\, South Carroll 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-century-winters-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Winters Mill at Century
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Century 2\, Winters Mill 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-francis-scott-key-century-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Century at Francis Scott Key
@@ -89,7 +89,7 @@ DESCRIPTION:Final: Century 6\, Francis Scott Key 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-century-manchester-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Manchester Valley at Century
@@ -98,7 +98,7 @@ DESCRIPTION:Final: Century 0\, Manchester Valley 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-liberty-century-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Girls Soccer: Century at Liberty
@@ -107,7 +107,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6870969
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-century-urbana-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
 SUMMARY:Girls Soccer: Urbana at Century
@@ -116,7 +116,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6785516
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-century-oakdale-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Girls Soccer: Oakdale at Century
@@ -125,7 +125,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6786899
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-century-towson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20261023T170000
 DTEND;TZID=America/New_York:20261023T190000
 SUMMARY:Girls Soccer: Towson at Century

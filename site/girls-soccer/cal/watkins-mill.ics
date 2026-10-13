@@ -6,7 +6,7 @@ X-WR-CALNAME:Watkins Mill Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-watkins-mill-gaithersburg-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20260908T191500
 DTEND;TZID=America/New_York:20260908T211500
 SUMMARY:Girls Soccer: Gaithersburg at Watkins Mill
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-northwood-watkins-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Watkins Mill at Northwood
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Watkins Mill 1\, Northwood 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-watkins-mill-clarksburg-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20260914T191500
 DTEND;TZID=America/New_York:20260914T211500
 SUMMARY:Girls Soccer: Clarksburg at Watkins Mill
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gamb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-watkins-mill-seneca-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20260916T191500
 DTEND;TZID=America/New_York:20260916T211500
 SUMMARY:Girls Soccer: Seneca Valley at Watkins Mill
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-damascus-watkins-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20260923T173000
 DTEND;TZID=America/New_York:20260923T193000
 SUMMARY:Girls Soccer: Watkins Mill at Damascus
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-watkins-mill-northwest-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20260925T191500
 DTEND;TZID=America/New_York:20260925T211500
 SUMMARY:Girls Soccer: Northwest at Watkins Mill
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gamfe
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-poolesville-watkins-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20260930T191500
 DTEND;TZID=America/New_York:20260930T211500
 SUMMARY:Girls Soccer: Watkins Mill at Poolesville
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-watkins-mill-bethesda-cc-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20261006T191500
 DTEND;TZID=America/New_York:20261006T211500
 SUMMARY:Girls Soccer: Bethesda-CC at Watkins Mill
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-thomas-s-wootton-watkins-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20261008T191500
 DTEND;TZID=America/New_York:20261008T211500
 SUMMARY:Girls Soccer: Watkins Mill at Thomas S. Wootton
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-watkins-mill-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20261013T191500
 DTEND;TZID=America/New_York:20261013T211500
 SUMMARY:Girls Soccer: John F. Kennedy at Watkins Mill
@@ -105,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-watkins-mill-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20261016T171500
 DTEND;TZID=America/New_York:20261016T191500
 SUMMARY:Girls Soccer: Springbrook at Watkins Mill
@@ -115,7 +115,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-watkins-mill-james-hubert-blake-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015020Z
+DTSTAMP:20261013T015232Z
 DTSTART;TZID=America/New_York:20261020T180000
 DTEND;TZID=America/New_York:20261020T200000
 SUMMARY:Girls Soccer: James Hubert Blake at Watkins Mill
