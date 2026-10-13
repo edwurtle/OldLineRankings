@@ -6,7 +6,7 @@ X-WR-CALNAME:Chesapeake-AA Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-fairmont-heights-chesapeake-aa-football@oldlinerankings
-DTSTAMP:20261013T015130Z
+DTSTAMP:20261013T015415Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Chesapeake-AA at Fairmont Heights
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Chesapeake-AA 47\, Fairmont Heights 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-chesapeake-aa-patterson-football@oldlinerankings
-DTSTAMP:20261013T015130Z
+DTSTAMP:20261013T015415Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Patterson at Chesapeake-AA
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam070
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-chesapeake-aa-de-first-state-military-academy-football@oldlinerankings
-DTSTAMP:20261013T015130Z
+DTSTAMP:20261013T015415Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Football: DE- First State Military Academy at Chesapeake-AA
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Chesapeake-AA 40\, DE- First State Military Academy 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-patterson-mill-chesapeake-aa-football@oldlinerankings
-DTSTAMP:20261013T015130Z
+DTSTAMP:20261013T015415Z
 DTSTART;TZID=America/New_York:20260928T173000
 DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Football: Chesapeake-AA at Patterson Mill
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-chesapeake-aa-crofton-football@oldlinerankings
-DTSTAMP:20261013T015130Z
+DTSTAMP:20261013T015415Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Crofton at Chesapeake-AA
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Chesapeake-AA 17\, Crofton 20
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-chesapeake-aa-severn-run-football@oldlinerankings
-DTSTAMP:20261013T015130Z
+DTSTAMP:20261013T015415Z
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:Football: Severn Run at Chesapeake-AA
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gamfe14c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-northeast-aa-chesapeake-aa-football@oldlinerankings
-DTSTAMP:20261013T015130Z
+DTSTAMP:20261013T015415Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Football: Chesapeake-AA at Northeast-AA
@@ -71,7 +71,7 @@ LOCATION:Northeast-AA
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-chesapeake-aa-south-river-football@oldlinerankings
-DTSTAMP:20261013T015130Z
+DTSTAMP:20261013T015415Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: South River at Chesapeake-AA
@@ -80,7 +80,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6725718
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-southern-aa-chesapeake-aa-football@oldlinerankings
-DTSTAMP:20261013T015130Z
+DTSTAMP:20261013T015415Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Football: Chesapeake-AA at Southern-AA

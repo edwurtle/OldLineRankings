@@ -6,7 +6,7 @@ X-WR-CALNAME:International HS at Langley Park Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-international-hs-at-langley-park-friendly-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015232Z
+DTSTAMP:20261013T015506Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Friendly at International HS at Langley Park
@@ -15,7 +15,7 @@ DESCRIPTION:Final: International HS at Langley Park 0\, Friendly 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-college-park-academy-international-hs-at-langley-park-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015232Z
+DTSTAMP:20261013T015506Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: International HS at Langley Park at College Park Academy
@@ -24,7 +24,7 @@ DESCRIPTION:Final: International HS at Langley Park 0\, College Park Academy 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-international-hs-at-langley-park-frederick-douglass-pg-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015232Z
+DTSTAMP:20261013T015506Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: Frederick Douglass-PG at International HS at Langley Park
@@ -33,7 +33,7 @@ DESCRIPTION:Final: International HS at Langley Park 0\, Frederick Douglass-PG 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-cmit-north-international-hs-at-langley-park-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015232Z
+DTSTAMP:20261013T015506Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: International HS at Langley Park at CMIT - North
@@ -42,7 +42,7 @@ DESCRIPTION:Final: International HS at Langley Park 1\, CMIT - North 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-international-hs-at-langley-park-crossland-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015232Z
+DTSTAMP:20261013T015506Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: Crossland at International HS at Langley Park
@@ -51,7 +51,7 @@ DESCRIPTION:Final: International HS at Langley Park 1\, Crossland 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-international-hs-at-langley-park-gwynn-park-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015232Z
+DTSTAMP:20261013T015506Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Gwynn Park at International HS at Langley Park
@@ -60,7 +60,7 @@ DESCRIPTION:Final: International HS at Langley Park 0\, Gwynn Park 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-international-hs-at-langley-park-charles-h-flowers-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015232Z
+DTSTAMP:20261013T015506Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Charles H. Flowers at International HS at Langley Park
@@ -69,7 +69,7 @@ DESCRIPTION:Final: International HS at Langley Park 0\, Charles H. Flowers 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-international-hs-at-langley-park-surrattsville-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015232Z
+DTSTAMP:20261013T015506Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Surrattsville at International HS at Langley Park
@@ -77,7 +77,7 @@ LOCATION:International HS at Langley Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-international-hs-at-largo-international-hs-at-langley-park-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015232Z
+DTSTAMP:20261013T015506Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: International HS at Langley Park at International HS at Largo
@@ -85,7 +85,7 @@ LOCATION:International HS at Largo
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-international-hs-at-langley-park-largo-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015232Z
+DTSTAMP:20261013T015506Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Girls Soccer: Largo at International HS at Langley Park
@@ -93,7 +93,7 @@ LOCATION:International HS at Langley Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-international-hs-at-langley-park-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015232Z
+DTSTAMP:20261013T015506Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: St. Charles at International HS at Langley Park
