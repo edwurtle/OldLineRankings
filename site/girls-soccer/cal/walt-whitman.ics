@@ -6,7 +6,7 @@ X-WR-CALNAME:Walt Whitman Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-walt-whitman-dc-georgetown-visitation-girls-soccer@oldlinerankings
-DTSTAMP:20261013T010735Z
+DTSTAMP:20261013T015020Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: DC- Georgetown Visitation at Walt Whitman
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Walt Whitman 0\, DC- Georgetown Visitation 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-walt-whitman-walter-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T010735Z
+DTSTAMP:20261013T015020Z
 DTSTART;TZID=America/New_York:20260914T191500
 DTEND;TZID=America/New_York:20260914T211500
 SUMMARY:Girls Soccer: Walter Johnson at Walt Whitman
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gamf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-thomas-s-wootton-walt-whitman-girls-soccer@oldlinerankings
-DTSTAMP:20261013T010735Z
+DTSTAMP:20261013T015020Z
 DTSTART;TZID=America/New_York:20260916T191500
 DTEND;TZID=America/New_York:20260916T211500
 SUMMARY:Girls Soccer: Walt Whitman at Thomas S. Wootton
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-wootton-high-school-rockville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-walt-whitman-winston-churchill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T010735Z
+DTSTAMP:20261013T015020Z
 DTSTART;TZID=America/New_York:20260923T191500
 DTEND;TZID=America/New_York:20260923T211500
 SUMMARY:Girls Soccer: Winston Churchill at Walt Whitman
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gamf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-quince-orchard-walt-whitman-girls-soccer@oldlinerankings
-DTSTAMP:20261013T010735Z
+DTSTAMP:20261013T015020Z
 DTSTART;TZID=America/New_York:20260925T191500
 DTEND;TZID=America/New_York:20260925T211500
 SUMMARY:Girls Soccer: Walt Whitman at Quince Orchard
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-bethesda-cc-walt-whitman-girls-soccer@oldlinerankings
-DTSTAMP:20261013T010735Z
+DTSTAMP:20261013T015020Z
 DTSTART;TZID=America/New_York:20260928T191500
 DTEND;TZID=America/New_York:20260928T211500
 SUMMARY:Girls Soccer: Walt Whitman at Bethesda-CC
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-clarksburg-walt-whitman-girls-soccer@oldlinerankings
-DTSTAMP:20261013T010735Z
+DTSTAMP:20261013T015020Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Girls Soccer: Walt Whitman at Clarksburg
@@ -74,7 +74,7 @@ DESCRIPTION:Final: Walt Whitman 8\, Clarksburg 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-walt-whitman-albert-einstein-girls-soccer@oldlinerankings
-DTSTAMP:20261013T010735Z
+DTSTAMP:20261013T015020Z
 DTSTART;TZID=America/New_York:20261007T191500
 DTEND;TZID=America/New_York:20261007T211500
 SUMMARY:Girls Soccer: Albert Einstein at Walt Whitman
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/game
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-walt-whitman-md-good-counsel-girls-soccer@oldlinerankings
-DTSTAMP:20261013T010735Z
+DTSTAMP:20261013T015020Z
 DTSTART;TZID=America/New_York:20261012T190000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Girls Soccer: MD- Good Counsel at Walt Whitman
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-northwest-walt-whitman-girls-soccer@oldlinerankings
-DTSTAMP:20261013T010735Z
+DTSTAMP:20261013T015020Z
 DTSTART;TZID=America/New_York:20261014T191500
 DTEND;TZID=America/New_York:20261014T211500
 SUMMARY:Girls Soccer: Walt Whitman at Northwest
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gama3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-walt-whitman-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261013T010735Z
+DTSTAMP:20261013T015020Z
 DTSTART;TZID=America/New_York:20261019T171500
 DTEND;TZID=America/New_York:20261019T191500
 SUMMARY:Girls Soccer: Montgomery Blair at Walt Whitman
@@ -114,7 +114,7 @@ URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-walt-whitman-paint-branch-girls-soccer@oldlinerankings
-DTSTAMP:20261013T010735Z
+DTSTAMP:20261013T015020Z
 DTSTART;TZID=America/New_York:20261021T191500
 DTEND;TZID=America/New_York:20261021T211500
 SUMMARY:Girls Soccer: Paint Branch at Walt Whitman

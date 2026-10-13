@@ -6,7 +6,7 @@ X-WR-CALNAME:Towson Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-towson-dulaney-football@oldlinerankings
-DTSTAMP:20261013T010635Z
+DTSTAMP:20261013T014915Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Football: Dulaney at Towson
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Towson 22\, Dulaney 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-lansdowne-towson-football@oldlinerankings
-DTSTAMP:20261013T010635Z
+DTSTAMP:20261013T014915Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Towson at Lansdowne
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Towson 44\, Lansdowne 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-western-tech-towson-football@oldlinerankings
-DTSTAMP:20261013T010635Z
+DTSTAMP:20261013T014915Z
 DTSTART;TZID=America/New_York:20260919T130000
 DTEND;TZID=America/New_York:20260919T150000
 SUMMARY:Football: Towson at Western Tech
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gambd5b46323
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-chesapeake-b-towson-football@oldlinerankings
-DTSTAMP:20261013T010635Z
+DTSTAMP:20261013T014915Z
 DTSTART;TZID=America/New_York:20260926T120000
 DTEND;TZID=America/New_York:20260926T140000
 SUMMARY:Football: Towson at Chesapeake-B
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-baltimore-md/gam79
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-patapsco-towson-football@oldlinerankings
-DTSTAMP:20261013T010635Z
+DTSTAMP:20261013T014915Z
 DTSTART;TZID=America/New_York:20261003T130000
 DTEND;TZID=America/New_York:20261003T150000
 SUMMARY:Football: Towson at Patapsco
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gamd0b172e13
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-loch-raven-towson-football@oldlinerankings
-DTSTAMP:20261013T010635Z
+DTSTAMP:20261013T014915Z
 DTSTART;TZID=America/New_York:20261010T130000
 DTEND;TZID=America/New_York:20261010T150000
 SUMMARY:Football: Towson at Loch Raven
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam519cdb10f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-eastern-tech-towson-football@oldlinerankings
-DTSTAMP:20261013T010635Z
+DTSTAMP:20261013T014915Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Football: Towson at Eastern Tech
@@ -73,7 +73,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6874262
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-pikesville-towson-football@oldlinerankings
-DTSTAMP:20261013T010635Z
+DTSTAMP:20261013T014915Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Towson at Pikesville
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/pikesville-high-school-baltimore-md/gamb7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-sparrows-point-towson-football@oldlinerankings
-DTSTAMP:20261013T010635Z
+DTSTAMP:20261013T014915Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Towson at Sparrows Point

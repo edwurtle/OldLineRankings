@@ -6,7 +6,7 @@ X-WR-CALNAME:Benjamin Franklin Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-benjamin-franklin-baltimore-polytechnic-boys-soccer@oldlinerankings
-DTSTAMP:20261013T010706Z
+DTSTAMP:20261013T014947Z
 DTSTART;TZID=America/New_York:20260908T154500
 DTEND;TZID=America/New_York:20260908T174500
 SUMMARY:Boys Soccer: Baltimore Polytechnic at Benjamin Franklin
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/baltimore-polytechnic-institute-baltimore
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-benjamin-franklin-digital-harbor-boys-soccer@oldlinerankings
-DTSTAMP:20261013T010706Z
+DTSTAMP:20261013T014947Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Digital Harbor at Benjamin Franklin
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Benjamin Franklin 1\, Digital Harbor 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-benjamin-franklin-edmondson-westside-boys-soccer@oldlinerankings
-DTSTAMP:20261013T010706Z
+DTSTAMP:20261013T014947Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Edmondson-Westside at Benjamin Franklin
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Benjamin Franklin 0\, Edmondson-Westside 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-benjamin-franklin-paul-laurence-dunbar-boys-soccer@oldlinerankings
-DTSTAMP:20261013T010706Z
+DTSTAMP:20261013T014947Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Paul Laurence Dunbar at Benjamin Franklin
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Benjamin Franklin 1\, Paul Laurence Dunbar 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-joppatowne-benjamin-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261013T010706Z
+DTSTAMP:20261013T014947Z
 DTSTART;TZID=America/New_York:20260928T153000
 DTEND;TZID=America/New_York:20260928T173000
 SUMMARY:Boys Soccer: Benjamin Franklin at Joppatowne
@@ -53,7 +53,7 @@ URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamd833c2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-benjamin-franklin-national-academy-foundation-naf-boys-soccer@oldlinerankings
-DTSTAMP:20261013T010706Z
+DTSTAMP:20261013T014947Z
 DTSTART;TZID=America/New_York:20260929T153000
 DTEND;TZID=America/New_York:20260929T173000
 SUMMARY:Boys Soccer: National Academy Foundation (NAF) at Benjamin Franklin
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamd833c2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-benjamin-franklin-edmondson-westside-boys-soccer@oldlinerankings
-DTSTAMP:20261013T010706Z
+DTSTAMP:20261013T014947Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Edmondson-Westside at Benjamin Franklin
@@ -72,7 +72,7 @@ DESCRIPTION:Final: Benjamin Franklin 0\, Edmondson-Westside 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-benjamin-franklin-forest-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T010706Z
+DTSTAMP:20261013T014947Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Forest Park at Benjamin Franklin
@@ -81,7 +81,7 @@ DESCRIPTION:Final: Benjamin Franklin 2\, Forest Park 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-benjamin-franklin-paul-laurence-dunbar-boys-soccer@oldlinerankings
-DTSTAMP:20261013T010706Z
+DTSTAMP:20261013T014947Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Paul Laurence Dunbar at Benjamin Franklin
@@ -89,7 +89,7 @@ LOCATION:Benjamin Franklin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-benjamin-franklin-glen-burnie-boys-soccer@oldlinerankings
-DTSTAMP:20261013T010706Z
+DTSTAMP:20261013T014947Z
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T130000
 SUMMARY:Boys Soccer: Glen Burnie at Benjamin Franklin
@@ -99,7 +99,7 @@ URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-benjamin-franklin-national-academy-foundation-naf-boys-soccer@oldlinerankings
-DTSTAMP:20261013T010706Z
+DTSTAMP:20261013T014947Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: National Academy Foundation (NAF) at Benjamin Franklin
@@ -107,7 +107,7 @@ LOCATION:Benjamin Franklin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-acce-benjamin-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261013T010706Z
+DTSTAMP:20261013T014947Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Benjamin Franklin at ACCE
