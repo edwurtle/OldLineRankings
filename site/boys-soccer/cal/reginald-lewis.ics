@@ -6,7 +6,7 @@ X-WR-CALNAME:Reginald Lewis Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-14-reginald-lewis-paul-laurence-dunbar-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003511Z
+DTSTAMP:20261013T003702Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Paul Laurence Dunbar at Reginald Lewis
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Reginald Lewis 2\, Paul Laurence Dunbar 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-reginald-lewis-forest-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003511Z
+DTSTAMP:20261013T003702Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Forest Park at Reginald Lewis
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Reginald Lewis 0\, Forest Park 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-reginald-lewis-acce-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003511Z
+DTSTAMP:20261013T003702Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: ACCE at Reginald Lewis
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Reginald Lewis 1\, ACCE 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-reginald-lewis-mergenthaler-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003511Z
+DTSTAMP:20261013T003702Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Mergenthaler at Reginald Lewis
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Reginald Lewis 5\, Mergenthaler 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-reginald-lewis-frederick-douglass-b-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003511Z
+DTSTAMP:20261013T003702Z
 DTSTART;TZID=America/New_York:20260924T154500
 DTEND;TZID=America/New_York:20260924T174500
 SUMMARY:Boys Soccer: Frederick Douglass-B at Reginald Lewis
@@ -52,7 +52,7 @@ URL:https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-reginald-lewis-forest-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003511Z
+DTSTAMP:20261013T003702Z
 DTSTART;TZID=America/New_York:20261006T154500
 DTEND;TZID=America/New_York:20261006T174500
 SUMMARY:Boys Soccer: Forest Park at Reginald Lewis
@@ -62,7 +62,7 @@ URL:https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-reginald-lewis-digital-harbor-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003511Z
+DTSTAMP:20261013T003702Z
 DTSTART;TZID=America/New_York:20261008T154500
 DTEND;TZID=America/New_York:20261008T174500
 SUMMARY:Boys Soccer: Digital Harbor at Reginald Lewis
@@ -72,7 +72,7 @@ URL:https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-acce-reginald-lewis-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003511Z
+DTSTAMP:20261013T003702Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Reginald Lewis at ACCE
@@ -80,7 +80,7 @@ LOCATION:ACCE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-mergenthaler-reginald-lewis-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003511Z
+DTSTAMP:20261013T003702Z
 DTSTART;TZID=America/New_York:20261020T154500
 DTEND;TZID=America/New_York:20261020T174500
 SUMMARY:Boys Soccer: Reginald Lewis at Mergenthaler
@@ -90,7 +90,7 @@ URL:https://www.nfhsnetwork.com/events/reginald-lewis-high-school-baltimore-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-frederick-douglass-b-reginald-lewis-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003511Z
+DTSTAMP:20261013T003702Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Reginald Lewis at Frederick Douglass-B
