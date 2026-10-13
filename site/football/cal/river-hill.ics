@@ -6,7 +6,7 @@ X-WR-CALNAME:River Hill Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-river-hill-arundel-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;TZID=America/New_York:20260904T184500
 DTEND;TZID=America/New_York:20260904T204500
 SUMMARY:Football: Arundel at River Hill
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gam01861
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-glenelg-river-hill-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: River Hill at Glenelg
@@ -25,7 +25,7 @@ DESCRIPTION:Final: River Hill 25\, Glenelg 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-river-hill-guilford-park-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Guilford Park at River Hill
@@ -34,7 +34,7 @@ DESCRIPTION:Final: River Hill 13\, Guilford Park 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-long-reach-river-hill-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T200000
 SUMMARY:Football: River Hill at Long Reach
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/river-hill-high-school-clarksville-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-river-hill-hammond-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Hammond at River Hill
@@ -53,7 +53,7 @@ DESCRIPTION:Final: River Hill 16\, Hammond 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-river-hill-wilde-lake-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T140000
 SUMMARY:Football: Wilde Lake at River Hill
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gamb5e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-river-hill-reservoir-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Football: Reservoir at River Hill
@@ -73,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/river-hill-high-school-clarksville-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-river-hill-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Marriotts Ridge at River Hill
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/marriotts-ridge-high-school-marriottsvill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-mount-hebron-river-hill-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: River Hill at Mount Hebron

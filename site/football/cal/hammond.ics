@@ -6,7 +6,7 @@ X-WR-CALNAME:Hammond Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-hammond-centennial-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Centennial at Hammond
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Hammond 60\, Centennial 12
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-hammond-md-boys-latin-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: MD- Boys Latin at Hammond
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Hammond 0\, MD- Boys Latin 42
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-oakland-mills-hammond-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;TZID=America/New_York:20260918T180000
 DTEND;TZID=America/New_York:20260918T200000
 SUMMARY:Football: Hammond at Oakland Mills
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/oakland-mills-high-school-columbia-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-howard-hammond-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Hammond at Howard
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Hammond 12\, Howard 55
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-river-hill-hammond-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Hammond at River Hill
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Hammond 8\, River Hill 16
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-hammond-reservoir-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Reservoir at Hammond
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Hammond 14\, Reservoir 17
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-mount-hebron-hammond-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Football: Hammond at Mount Hebron
@@ -70,7 +70,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6883162
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-wilde-lake-hammond-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;TZID=America/New_York:20261024T130000
 DTEND;TZID=America/New_York:20261024T150000
 SUMMARY:Football: Hammond at Wilde Lake
@@ -80,7 +80,7 @@ URL:https://www.nfhsnetwork.com/events/hammond-high-school-columbia-md/gamcc02fd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-hammond-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261013T031652Z
+DTSTAMP:20261013T152307Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Marriotts Ridge at Hammond

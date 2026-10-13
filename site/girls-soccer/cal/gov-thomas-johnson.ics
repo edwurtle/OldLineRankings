@@ -6,7 +6,7 @@ X-WR-CALNAME:Gov. Thomas Johnson Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-westminster-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Westminster
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Gov. Thomas Johnson 0\, Westminster 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-smithsburg-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Smithsburg
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-brunswick-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Brunswick
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam867
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-gov-thomas-johnson-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Girls Soccer: North Hagerstown at Gov. Thomas Johnson
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-linganore-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Linganore
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam39a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-gov-thomas-johnson-urbana-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: Urbana at Gov. Thomas Johnson
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-south-hagerstown-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at South Hagerstown
@@ -74,7 +74,7 @@ DESCRIPTION:Final: Gov. Thomas Johnson 8\, South Hagerstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-oakdale-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Oakdale
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gamc832
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-tuscarora-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Tuscarora
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-frederick-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Frederick
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-catoctin-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Catoctin
@@ -114,7 +114,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gama5e89
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-middletown-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Middletown

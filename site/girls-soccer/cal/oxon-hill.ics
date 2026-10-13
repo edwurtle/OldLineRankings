@@ -6,7 +6,7 @@ X-WR-CALNAME:Oxon Hill Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-oxon-hill-charles-h-flowers-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20260908T153000
 DTEND;TZID=America/New_York:20260908T173000
 SUMMARY:Girls Soccer: Charles H. Flowers at Oxon Hill
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/charles-herbert-flowers-high-school-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-fairmont-heights-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Oxon Hill at Fairmont Heights
@@ -25,17 +25,26 @@ DESCRIPTION:Final: Oxon Hill 8\, Fairmont Heights 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-la-plata-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20260914T181500
 DTEND;TZID=America/New_York:20260914T201500
 SUMMARY:Girls Soccer: Oxon Hill at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: Oxon Hill 1\, La Plata 6\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamf28025380a
+DESCRIPTION:Final: Oxon Hill 1\, La Plata 7\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamf28025380a
 URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamf28025380a
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-24-oxon-hill-potomac-girls-soccer@oldlinerankings
+DTSTAMP:20261013T152354Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Girls Soccer: Potomac at Oxon Hill
+LOCATION:Oxon Hill
+DESCRIPTION:Final: Oxon Hill 1\, Potomac 0
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-28-friendly-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20260928T180000
 DTEND;TZID=America/New_York:20260928T200000
 SUMMARY:Girls Soccer: Oxon Hill at Friendly
@@ -45,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gamb65
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-largo-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Oxon Hill at Largo
@@ -54,7 +63,7 @@ DESCRIPTION:Final: Oxon Hill 12\, Largo 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-international-hs-at-largo-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20261005T180000
 DTEND;TZID=America/New_York:20261005T200000
 SUMMARY:Girls Soccer: Oxon Hill at International HS at Largo
@@ -64,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gam07b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-frederick-douglass-pg-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
 SUMMARY:Girls Soccer: Oxon Hill at Frederick Douglass-PG
@@ -73,16 +82,8 @@ DESCRIPTION:Final: Oxon Hill 4\, Frederick Douglass-PG 0\nWatch: https://www.nfh
 URL:https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gam5007eadfd6
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-12-surrattsville-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Girls Soccer: Oxon Hill at Surrattsville
-LOCATION:Surrattsville
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-15-cmit-north-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Oxon Hill at CMIT - North
@@ -90,11 +91,20 @@ LOCATION:CMIT - North
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-gwynn-park-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T031801Z
+DTSTAMP:20261013T152354Z
 DTSTART;TZID=America/New_York:20261019T143000
 DTEND;TZID=America/New_York:20261019T163000
 SUMMARY:Girls Soccer: Oxon Hill at Gwynn Park
 LOCATION:Gwynn Park
 DESCRIPTION:Tickets: https://gofan.co/event/6891940
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-surrattsville-oxon-hill-girls-soccer@oldlinerankings
+DTSTAMP:20261013T152354Z
+DTSTART;TZID=America/New_York:20261022T164500
+DTEND;TZID=America/New_York:20261022T184500
+SUMMARY:Girls Soccer: Oxon Hill at Surrattsville
+LOCATION:Surrattsville
+DESCRIPTION:Tickets: https://gofan.co/event/6721170
 END:VEVENT
 END:VCALENDAR
