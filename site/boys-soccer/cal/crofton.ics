@@ -6,7 +6,7 @@ X-WR-CALNAME:Crofton Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-catonsville-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001525Z
+DTSTAMP:20261013T001750Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Boys Soccer: Crofton at Catonsville
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/game
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-towson-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001525Z
+DTSTAMP:20261013T001750Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Boys Soccer: Crofton at Towson
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamb4e57
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-southern-aa-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001525Z
+DTSTAMP:20261013T001750Z
 DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T190000
 SUMMARY:Boys Soccer: Crofton at Southern-AA
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamd8bb2d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-chesapeake-aa-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001525Z
+DTSTAMP:20261013T001750Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Crofton at Chesapeake-AA
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/game3b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-north-county-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001525Z
+DTSTAMP:20261013T001750Z
 DTSTART;TZID=America/New_York:20260929T170000
 DTEND;TZID=America/New_York:20260929T190000
 SUMMARY:Boys Soccer: Crofton at North County
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamd1e74
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-severna-park-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001525Z
+DTSTAMP:20261013T001750Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Boys Soccer: Crofton at Severna Park
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-northeast-aa-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001525Z
+DTSTAMP:20261013T001750Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Boys Soccer: Crofton at Northeast-AA
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/northeast-high-school-pasadena-md/gamab09
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-south-river-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001525Z
+DTSTAMP:20261013T001750Z
 DTSTART;TZID=America/New_York:20261008T184500
 DTEND;TZID=America/New_York:20261008T204500
 SUMMARY:Boys Soccer: Crofton at South River
@@ -86,7 +86,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamaa2b7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-severn-run-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001525Z
+DTSTAMP:20261013T001750Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Boys Soccer: Crofton at Severn Run
@@ -96,7 +96,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gam228a2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-old-mill-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001525Z
+DTSTAMP:20261013T001750Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Crofton at Old Mill
@@ -104,7 +104,7 @@ LOCATION:Old Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-arundel-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001525Z
+DTSTAMP:20261013T001750Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Boys Soccer: Crofton at Arundel
@@ -114,7 +114,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gama2bfe
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-broadneck-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001525Z
+DTSTAMP:20261013T001750Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Crofton at Broadneck
