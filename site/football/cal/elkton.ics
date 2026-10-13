@@ -6,7 +6,7 @@ X-WR-CALNAME:Elkton Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-patterson-mill-elkton-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;TZID=America/New_York:20260904T190000
 DTEND;TZID=America/New_York:20260904T210000
 SUMMARY:Football: Elkton at Patterson Mill
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/elkton-high-school-elkton-md/gam2a150fb9b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-elkton-harford-tech-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;TZID=America/New_York:20260911T190000
 DTEND;TZID=America/New_York:20260911T210000
 SUMMARY:Football: Harford Tech at Elkton
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-bel-air-elkton-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;TZID=America/New_York:20260918T185000
 DTEND;TZID=America/New_York:20260918T205000
 SUMMARY:Football: Elkton at Bel Air
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam2d4225a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-elkton-rising-sun-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Football: Rising Sun at Elkton
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/elkton-high-school-elkton-md/gam64f40db0e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-elkton-north-east-c-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: North East-C at Elkton
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Elkton 68\, North East-C 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-bohemia-manor-elkton-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;TZID=America/New_York:20261009T190000
 DTEND;TZID=America/New_York:20261009T210000
 SUMMARY:Football: Elkton at Bohemia Manor
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-perryville-elkton-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Football: Elkton at Perryville
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/elkton-high-school-elkton-md/gambd55f1692
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-seed-school-elkton-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Elkton at SEED School
@@ -83,7 +83,7 @@ LOCATION:SEED School
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-c-milton-wright-elkton-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;TZID=America/New_York:20261030T190000
 DTEND;TZID=America/New_York:20261030T210000
 SUMMARY:Football: Elkton at C. Milton Wright

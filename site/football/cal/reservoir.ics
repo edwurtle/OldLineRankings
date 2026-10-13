@@ -6,7 +6,7 @@ X-WR-CALNAME:Reservoir Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-reservoir-woodlawn-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Woodlawn at Reservoir
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gam4cc5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-howard-reservoir-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Reservoir at Howard
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Reservoir 0\, Howard 30
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-atholton-reservoir-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Reservoir at Atholton
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Reservoir 23\, Atholton 15
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-guilford-park-reservoir-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Reservoir at Guilford Park
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Reservoir 6\, Guilford Park 41
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-reservoir-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Marriotts Ridge at Reservoir
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Reservoir 0\, Marriotts Ridge 27
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-hammond-reservoir-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Reservoir at Hammond
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Reservoir 17\, Hammond 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-river-hill-reservoir-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Football: Reservoir at River Hill
@@ -71,7 +71,7 @@ URL:https://www.nfhsnetwork.com/events/river-hill-high-school-clarksville-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-mount-hebron-reservoir-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Reservoir at Mount Hebron
@@ -79,7 +79,7 @@ LOCATION:Mount Hebron
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-wilde-lake-reservoir-football@oldlinerankings
-DTSTAMP:20261013T001720Z
+DTSTAMP:20261013T001919Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Reservoir at Wilde Lake
