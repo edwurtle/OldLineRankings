@@ -6,7 +6,7 @@ X-WR-CALNAME:North Point Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-calvert-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000134Z
+DTSTAMP:20261013T000318Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: North Point at Calvert
@@ -15,7 +15,7 @@ DESCRIPTION:Final: North Point 0\, Calvert 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-mcdonough-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000134Z
+DTSTAMP:20261013T000318Z
 DTSTART;TZID=America/New_York:20260910T162500
 DTEND;TZID=America/New_York:20260910T182500
 SUMMARY:Boys Soccer: North Point at McDonough
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/north-point-high-school-waldorf-md/gam768
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-patuxent-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000134Z
+DTSTAMP:20261013T000318Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: North Point at Patuxent
@@ -34,7 +34,7 @@ DESCRIPTION:Final: North Point 3\, Patuxent 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-chopticon-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000134Z
+DTSTAMP:20261013T000318Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: North Point at Chopticon
@@ -43,7 +43,7 @@ DESCRIPTION:Final: North Point 0\, Chopticon 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-north-point-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000134Z
+DTSTAMP:20261013T000318Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Leonardtown at North Point
@@ -52,7 +52,7 @@ DESCRIPTION:Final: North Point 1\, Leonardtown 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-great-mills-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000134Z
+DTSTAMP:20261013T000318Z
 DTSTART;TZID=America/New_York:20260929T181500
 DTEND;TZID=America/New_York:20260929T201500
 SUMMARY:Boys Soccer: North Point at Great Mills
@@ -62,7 +62,7 @@ URL:https://www.nfhsnetwork.com/events/north-point-high-school-waldorf-md/gam45f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-north-point-bishop-mcnamara-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000134Z
+DTSTAMP:20261013T000318Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Bishop McNamara at North Point
@@ -71,7 +71,7 @@ DESCRIPTION:Final: North Point 3\, Bishop McNamara 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-la-plata-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000134Z
+DTSTAMP:20261013T000318Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: North Point at La Plata
@@ -81,7 +81,7 @@ URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam8e79c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-st-charles-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000134Z
+DTSTAMP:20261013T000318Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: North Point at St. Charles
@@ -91,7 +91,7 @@ URL:https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gam6d6c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-henry-e-lackey-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000134Z
+DTSTAMP:20261013T000318Z
 DTSTART;TZID=America/New_York:20261013T163000
 DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Boys Soccer: North Point at Henry E. Lackey
@@ -100,7 +100,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6767298
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-thomas-stone-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000134Z
+DTSTAMP:20261013T000318Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: North Point at Thomas Stone
@@ -110,7 +110,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam49
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-westlake-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000134Z
+DTSTAMP:20261013T000318Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Boys Soccer: North Point at Westlake
