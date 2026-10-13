@@ -6,7 +6,7 @@ X-WR-CALNAME:Chesapeake Science Point Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-15-chesapeake-science-point-northeast-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Northeast-AA at Chesapeake Science Point
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Chesapeake Science Point 0\, Northeast-AA 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-chesapeake-science-point-key-school-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20260917T163000
 DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Boys Soccer: Key School at Chesapeake Science Point
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/the-key-school-annapolis-md/gam070dddd508
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-chesapeake-science-point-chesapeake-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T190000
 SUMMARY:Boys Soccer: Chesapeake-AA at Chesapeake Science Point
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamf5a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-chesapeake-science-point-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20260924T184500
 DTEND;TZID=America/New_York:20260924T204500
 SUMMARY:Boys Soccer: Annapolis at Chesapeake Science Point
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/annapolis-high-school-annapolis-md/gam368
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-chesapeake-science-point-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20260929T164500
 DTEND;TZID=America/New_York:20260929T184500
 SUMMARY:Boys Soccer: South River at Chesapeake Science Point
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-chesapeake-science-point-old-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Old Mill at Chesapeake Science Point
@@ -64,7 +64,7 @@ DESCRIPTION:Final: Chesapeake Science Point 2\, Old Mill 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-chesapeake-science-point-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Boys Soccer: Severn Run at Chesapeake Science Point
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gam54d04
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-chesapeake-science-point-broadneck-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Broadneck at Chesapeake Science Point
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/broadneck-high-school-annapolis-md/gam15f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-chesapeake-science-point-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Friendly at Chesapeake Science Point
@@ -92,7 +92,7 @@ LOCATION:Chesapeake Science Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-chesapeake-science-point-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Meade at Chesapeake Science Point
@@ -100,7 +100,7 @@ LOCATION:Chesapeake Science Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-chesapeake-science-point-glen-burnie-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: Glen Burnie at Chesapeake Science Point
@@ -108,7 +108,7 @@ LOCATION:Chesapeake Science Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-chesapeake-science-point-southern-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Southern-AA at Chesapeake Science Point

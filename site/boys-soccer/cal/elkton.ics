@@ -6,7 +6,7 @@ X-WR-CALNAME:Elkton Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-elkton-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20260908T170000
 DTEND;TZID=America/New_York:20260908T190000
 SUMMARY:Boys Soccer: Aberdeen at Elkton
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/elkton-high-school-elkton-md/gamf588e9f13
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-elkton-rising-sun-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Boys Soccer: Rising Sun at Elkton
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/elkton-high-school-elkton-md/gam7df64e680
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-bohemia-manor-elkton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20260915T153000
 DTEND;TZID=America/New_York:20260915T173000
 SUMMARY:Boys Soccer: Elkton at Bohemia Manor
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/bohemia-manor-high-school-chesapeake-city
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-patterson-mill-elkton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20260917T163000
 DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Boys Soccer: Elkton at Patterson Mill
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-elkton-north-east-c-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: North East-C at Elkton
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Elkton 4\, North East-C 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-perryville-elkton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20260924T170000
 DTEND;TZID=America/New_York:20260924T190000
 SUMMARY:Boys Soccer: Elkton at Perryville
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gam2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-joppatowne-elkton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20260925T173000
 DTEND;TZID=America/New_York:20260925T193000
 SUMMARY:Boys Soccer: Elkton at Joppatowne
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gam0f57d1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-elkton-pa-kennett-high-school-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Boys Soccer: PA - Kennett High School at Elkton
@@ -84,7 +84,7 @@ DESCRIPTION:Final: Elkton 1\, PA - Kennett High School 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-havre-de-grace-elkton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Elkton at Havre de Grace
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-elkton-north-harford-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Boys Soccer: North Harford at Elkton
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/elkton-high-school-elkton-md/gam3b5c6ab0a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-elkton-edgewood-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005225Z
+DTSTAMP:20261013T005417Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Edgewood at Elkton

@@ -6,7 +6,7 @@ X-WR-CALNAME:Largo Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-14-surrattsville-largo-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005304Z
+DTSTAMP:20261013T005447Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Largo at Surrattsville
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Largo 2\, Surrattsville 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-crossland-largo-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005304Z
+DTSTAMP:20261013T005447Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Largo at Crossland
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Largo 1\, Crossland 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-largo-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005304Z
+DTSTAMP:20261013T005447Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Oxon Hill at Largo
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Largo 0\, Oxon Hill 12
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-college-park-academy-largo-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005304Z
+DTSTAMP:20261013T005447Z
 DTSTART;TZID=America/New_York:20261008T150000
 DTEND;TZID=America/New_York:20261008T170000
 SUMMARY:Girls Soccer: Largo at College Park Academy
@@ -43,17 +43,17 @@ URL:https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gam9e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-international-hs-at-largo-largo-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005304Z
+DTSTAMP:20261013T005447Z
 DTSTART;TZID=America/New_York:20261012T164500
 DTEND;TZID=America/New_York:20261012T184500
 SUMMARY:Girls Soccer: Largo at International HS at Largo
 LOCATION:International HS at Largo
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/international-high-school-largo-largo-md/gamac74aea2b5\nTickets: https://gofan.co/event/6833955
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/international-high-school-largo-largo-md/gamac74aea2b5
 URL:https://www.nfhsnetwork.com/events/international-high-school-largo-largo-md/gamac74aea2b5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-gwynn-park-largo-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005304Z
+DTSTAMP:20261013T005447Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Largo at Gwynn Park
@@ -61,7 +61,7 @@ LOCATION:Gwynn Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-fairmont-heights-largo-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005304Z
+DTSTAMP:20261013T005447Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Largo at Fairmont Heights
@@ -69,7 +69,7 @@ LOCATION:Fairmont Heights
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-international-hs-at-langley-park-largo-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005304Z
+DTSTAMP:20261013T005447Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Girls Soccer: Largo at International HS at Langley Park
@@ -77,7 +77,7 @@ LOCATION:International HS at Langley Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-largo-friendly-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005304Z
+DTSTAMP:20261013T005447Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: Friendly at Largo
