@@ -6,7 +6,7 @@ X-WR-CALNAME:Meade Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-meade-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: Annapolis at Meade
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Meade 0\, Annapolis 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-meade-private-school-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;TZID=America/New_York:20260905T090000
 DTEND;TZID=America/New_York:20260905T110000
 SUMMARY:Boys Soccer: Private School at Meade
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-south-river-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;TZID=America/New_York:20260915T170000
 DTEND;TZID=America/New_York:20260915T190000
 SUMMARY:Boys Soccer: Meade at South River
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-meade-broadneck-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Broadneck at Meade
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Meade 0\, Broadneck 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-old-mill-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Meade at Old Mill
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Meade 0\, Old Mill 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-chesapeake-aa-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;TZID=America/New_York:20260929T170000
 DTEND;TZID=America/New_York:20260929T190000
 SUMMARY:Boys Soccer: Meade at Chesapeake-AA
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/game848e0d2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-glen-burnie-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;TZID=America/New_York:20261001T184500
 DTEND;TZID=America/New_York:20261001T204500
 SUMMARY:Boys Soccer: Meade at Glen Burnie
@@ -73,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gam78d21e14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-severn-run-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Meade at Severn Run
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gambfc0de35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-southern-aa-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Boys Soccer: Meade at Southern-AA
@@ -93,7 +93,7 @@ URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gamf5e90c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-chesapeake-science-point-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Meade at Chesapeake Science Point
@@ -101,7 +101,7 @@ LOCATION:Chesapeake Science Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-meade-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Boys Soccer: Annapolis at Meade
@@ -111,7 +111,7 @@ URL:https://www.nfhsnetwork.com/events/meade-high-school-ft-meade-md/gamd100593f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-meade-northeast-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Northeast-AA at Meade

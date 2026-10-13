@@ -666,21 +666,20 @@ function renderScheduleList(r) {
 
 // ---------- team drawer ----------
 const drawer = document.getElementById("drawer"), scrim = document.getElementById("scrim");
-function openTeam(g, name) {
+// Everything shown about a team; used by the drawer (openTeam) and the full team page (renderTeamPage)
+function teamView(g, name) {
   const t = findTeam(g, name);
-  if (!t) return closeDrawer();
+  if (!t) return null;
   const s = SCHOOLS[name] || {};
   const regionRank = D.sports[g].teams.filter(x => x.cls === t.cls && x.region === t.region).indexOf(t) + 1;
-  document.getElementById("dHead").style.setProperty("--team", teamColor(name));
-  document.getElementById("dLogo").innerHTML = logo(name, 76);
-  document.getElementById("dEyebrow").textContent = `${divName(g, t.cls)} · #${t.rank} in class · #${regionRank} in ${t.region} · #${t.stateRank} statewide`;
-  document.getElementById("dName").textContent = name;
-  document.getElementById("dMeta").textContent = [s.mascot, s.city, s.county && s.county + (/(City|County)$/.test(s.county) ? "" : " County")].filter(Boolean).join(" · ");
-  document.getElementById("dForm").innerHTML = t.games.map(x => `<i class="${x.res}" title="${esc(fmtDate(x.date) + " vs " + x.opp)}">${x.res}</i>`).join("") +
+  const v = {t, color: teamColor(name),
+    eyebrow: `${divName(g, t.cls)} · #${t.rank} in class · #${regionRank} in ${t.region} · #${t.stateRank} statewide`,
+    meta: [s.mascot, s.city, s.county && s.county + (/(City|County)$/.test(s.county) ? "" : " County")].filter(Boolean).join(" · ")};
+  v.form = t.games.map(x => `<i class="${x.res}" title="${esc(fmtDate(x.date) + " vs " + x.opp)}">${x.res}</i>`).join("") +
     t.upcoming.filter(u => u.status !== "postponed").map(u => `<i class="U" title="${esc(fmtDate(u.date) + (u.home ? " vs " : " @ ") + u.opp)}"></i>`).join("");
   const scoring = t.games.filter(x => x.res !== "L").map(x => Object.assign(x, {__gs: gameScore(g, x).score}));
   const best = scoring.length ? scoring.reduce((a, b) => b.__gs > a.__gs ? b : a) : null;
-  document.getElementById("dBody").innerHTML = `
+  v.body = `
     <div class="tiles">
       <div class="tile tile-olr" id="olrTile">
         <button class="olr-head" id="olrBtn" aria-expanded="false" title="Show how this rating is calculated">
@@ -701,8 +700,35 @@ function openTeam(g, name) {
     ${t.upcoming.length ? `<div class="sect">Upcoming (${t.upcoming.length})</div>${t.upcoming.map(u => upcomingRow(g, t, u)).join("")}<div style="height:10px"></div>` : ""}
     <div class="sect">Games played (${t.gp})</div>
     ${[...t.games].reverse().map(x => gameRow(g, t, x)).join("") || `<div class="muted">No games yet.</div>`}`;
+  return v;
+}
+function openTeam(g, name) {
+  const v = teamView(g, name);
+  if (!v) return closeDrawer();
+  document.getElementById("dHead").style.setProperty("--team", v.color);
+  document.getElementById("dLogo").innerHTML = logo(name, 76);
+  document.getElementById("dEyebrow").textContent = v.eyebrow;
+  document.getElementById("dName").textContent = name;
+  // "Full page" opens the team's own page (target=_top so it also works from the splash page's panel)
+  document.getElementById("dMeta").innerHTML = esc(v.meta) + (v.t.slug ? ` <a class="fullpage" href="${esc(v.t.slug)}/" target="_top">Full page ›</a>` : "");
+  document.getElementById("dForm").innerHTML = v.form;
+  document.getElementById("dBody").innerHTML = v.body;
   document.getElementById("dBody").scrollTop = 0;
   drawer.classList.add("open"); drawer.setAttribute("aria-hidden", "false"); scrim.classList.add("open");
+}
+// A team's own page (/<sport>/<team>/, window.TEAM_PAGE): the same content as the drawer, as a full page.
+// The page sets <base href="../">, so relative links and data resolve from the sport's folder.
+function renderTeamPage() {
+  const {g, school} = window.TEAM_PAGE, v = teamView(g, school);
+  if (!v) return;
+  app.innerHTML = `
+  <section class="page-head team-head" style="--team:${esc(v.color)}"><div class="wrap">
+    ${crumbs(["Rankings", `#/${g}/All`], school)}
+    <div class="team-hero">${logo(school, 96)}<div>
+      <div class="eyebrow">${esc(v.eyebrow)}</div><h1>${esc(school)}</h1><div class="sub">${esc(v.meta)}</div>
+      <div class="form">${v.form}</div></div></div>
+  </div></section>
+  <div class="wrap team-page"><div class="team-body">${v.body}</div></div>`;
 }
 function gameRow(g, t, x) {
   const opp = x.member ? findTeam(g, x.opp) : null;
@@ -760,7 +786,7 @@ function olrBreakdown(g, t) {
       <div class="ob-fine">All ratings are solved together each night, since each depends on its opponents'; tiny rounding differences are expected.</div>
     </div></div>`;
 }
-document.getElementById("dBody").addEventListener("click", e => {
+document.addEventListener("click", e => {
   const btn = e.target.closest("#olrBtn");
   if (!btn) return;
   const tile = document.getElementById("olrTile"), open = !tile.classList.contains("open");
@@ -772,6 +798,7 @@ function closeDrawer() { drawer.classList.remove("open"); drawer.setAttribute("a
 
 // ---------- render & events ----------
 function render() {
+  if (window.TEAM_PAGE) { if (!render.lastKey) { renderTeamPage(); render.lastKey = "team"; } return; }
   const r = parseRoute();
   const pageKey = r.page + (r.page === "rank" || r.page === "final8" ? r.g + r.c + r.view : "") + (r.page === "home" ? homeGender : "");
   if (pageKey !== render.lastKey) {
@@ -825,6 +852,11 @@ app.addEventListener("click", e => {
   const th = e.target.closest("th[data-sort]");
   if (th) return setSort(th.dataset.sort, true);
   const team = e.target.closest("[data-team]");
+  if (team && window.TEAM_PAGE) {   // on a team's page, an opponent opens that team's page
+    const t = findTeam(window.TEAM_PAGE.g, team.dataset.team);
+    if (t && t.slug) location.href = new URL(t.slug + "/", document.baseURI).href;
+    return;
+  }
   if (team) return go({team: team.dataset.team, ...(team.dataset.g ? {g: team.dataset.g} : {})});
 });
 app.addEventListener("input", e => {

@@ -467,6 +467,23 @@ body.embed .drawer { width: 100%; box-shadow: none; transition: none; }
 .hero .sport-links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
 .hero .sport-links .btn .icon { width: 18px; height: 18px; }
 
+/* Team page (/<sport>/<team>/): drawer content as a full page, header tinted with the team color */
+.team-head::before { content: ""; position: absolute; inset: 0; background: var(--team, var(--md-gold)); opacity: var(--team-glow); mix-blend-mode: screen; }
+.team-head::after { content: ""; position: absolute; inset: 0; background: linear-gradient(160deg, transparent 20%, rgba(0,0,0,.7)); }
+.team-head > .wrap { position: relative; z-index: 1; }
+.team-hero { display: flex; gap: 20px; align-items: center; margin-top: 6px; }
+.team-hero .eyebrow { color: var(--md-gold); }
+.team-hero h1 { margin: 4px 0 2px; }
+.team-page { max-width: 920px; padding-top: 22px; padding-bottom: 20px; }
+.dmeta .fullpage { margin-left: 6px; color: var(--md-gold); font-weight: 700; white-space: nowrap; }
+.dmeta .fullpage:hover { text-decoration: underline; }
+@media (max-width: 620px) { .team-hero { flex-direction: column; align-items: flex-start; } }
+
+/* Plain team summary in a team page's HTML (search engines; replaced by the full page once app.js runs) */
+.seo { padding-top: 28px; padding-bottom: 28px; }
+.seo table { border-collapse: collapse; margin-top: 8px; }
+.seo td { padding: 4px 12px 4px 0; border-bottom: 1px solid var(--border); font-size: 14px; }
+
 /* Splash: games of the week */
 .gw-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 18px; }
 .gw-card { display: flex; flex-direction: column; background: var(--surface); border: 1px solid var(--border); border-radius: 18px; box-shadow: var(--shadow); overflow: hidden; }

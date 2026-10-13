@@ -15,7 +15,7 @@ would have earned had it won every game.
 Football is ranked by the Old Line Rating instead (see oldline.py); its MPSSAA points are kept
 for playoff seeding.
 """
-import collections, datetime, html, json, pathlib, re, subprocess, urllib.parse
+import collections, datetime, html, json, pathlib, re, shutil, subprocess, urllib.parse
 import gofan, icons, nfhs, oldline
 
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
@@ -297,6 +297,8 @@ def build_site(key, cfg, nonce, stamp):
     for div, d in cfg["divisions"].items():
         raw, standings = fetch(d["api"], nonce)
         teams = rank_sport(raw, standings, cfg["classes"], cfg.get("first_meeting_only", False))
+        for t in teams:
+            t["slug"] = slug(t["school"])   # the team's own page: /<sport>/<slug>/
         sports[div] = dict(teams=teams, through=max((g["date"] for t in teams for g in t["games"]), default=None))
         if cfg.get("olr"):
             ratings, home, class_means = oldline.rate(teams, cfg["olr"], list(cfg["classes"]))
@@ -344,8 +346,69 @@ def build_site(key, cfg, nonce, stamp):
                      description=description, url=f"{SITE_URL}/{rel}", site_url=SITE_URL).items():
         page = page.replace("{{" + k + "}}", v)
     (out / "index.html").write_text(page)
+    # A page for every team (for search engines and sharing); old team folders are cleared first
+    for d in out.iterdir():
+        if d.is_dir() and d.name != "cal":
+            shutil.rmtree(d)
+    for div, s in sports.items():
+        for t in s["teams"]:
+            write_team_page(out, page, cfg, div, s, t, schools, rel, description)
     print(f"Wrote {cfg['out']}/")
     return dict(cfg=cfg, sports=sports, schools=schools, href="/".join(pathlib.Path(cfg["out"]).parts[1:]) + "/")
+
+
+def write_team_page(out, page, cfg, div, s, t, schools, rel, sport_description):
+    """/<sport>/<slug>/index.html: the sport page with the team's title, description, canonical address, link
+    preview and structured data, plus a plain-HTML summary and schedule (what search engines read). In the
+    browser app.js replaces the summary with the full team page (window.TEAM_PAGE)."""
+    school, info = t["school"], schools.get(t["school"]) or {}
+    mascot, city = info.get("mascot"), info.get("city")
+    sport, cls = cfg["sport"], cfg.get("labels", {}).get(t["cls"], t["cls"])
+    rec = f'{t["W"]}-{t["L"]}' + (f'-{t["T"]}' if cfg.get("ties") else "")
+    region_rank = [x for x in s["teams"] if x["cls"] == t["cls"] and x["region"] == t["region"]].index(t) + 1
+    rating = f'{t["rating"]:+.{cfg["olr"].get("digits", 1)}f}' if cfg.get("olr") else f'{t["rating"]:.2f}'
+    year = (s["through"] or datetime.date.today().isoformat())[:4]
+    name = f"{school} {mascot}" if mascot else school
+    title = f"{name} {sport} · Rankings, Schedule & Scores · Old Line Rankings"
+    desc = (f"{school} ({cls} {t['region']}) is {rec}, #{t['rank']} in {cls} by Old Line Rating. "
+            f"{year} {sport.lower()} schedule, scores, playoff odds and where to watch.")
+    url = f"{SITE_URL}/{rel}{t['slug']}/"
+    when = lambda g: datetime.date.fromisoformat(g["date"]).strftime("%b %-d")
+    rows = []
+    for g in t["games"]:
+        rows.append(f'<tr><td>{when(g)}</td><td>{"vs" if g["home"] else "@"} {esc(g["opp"])}</td>'
+                    f'<td>{g["res"]}{f" {g['gf']}–{g['ga']}" if g["gf"] is not None and g["ga"] is not None else (" (forfeit)" if g.get("ff") else "")}</td></tr>')
+    for u in t["upcoming"]:
+        if u["status"] == "postponed":
+            continue
+        extra = (f' · {u["time"]}' if u.get("time") else "") + (f' · <a href="{esc(u["watch"])}">Watch on NFHS Network</a>' if u.get("watch") else "")
+        rows.append(f'<tr><td>{when(u)}</td><td>{"vs" if u["home"] else "@"} {esc(u["opp"])}</td><td>Upcoming{extra}</td></tr>')
+    static = (f'<article class="wrap seo"><h1>{esc(name)} {esc(sport)}</h1><p>{esc(desc)}</p>'
+              f'<p>Record {rec} · Old Line Rating {rating} · #{t["rank"]} in {esc(cls)} · #{region_rank} in {esc(t["region"])} · '
+              f'#{t["stateRank"]} statewide{f" · {esc(city)}" if city else ""}</p>'
+              f'<h2>{year} schedule and results</h2><table>{"".join(rows)}</table></article>')
+    team_ld = {"@type": "SportsTeam", "name": f"{name} {sport}"}
+    ld = {"@context": "https://schema.org", **team_ld, "sport": cfg.get("activity", sport), "url": url,
+          "memberOf": {"@type": "SportsOrganization", "name": "Maryland Public Secondary Schools Athletic Association (MPSSAA)"},
+          "event": [{"@type": "SportsEvent", "name": f'{u["opp"] if u["home"] else school} at {school if u["home"] else u["opp"]}',
+                     "startDate": u["date"] + (f'T{u["time"]}' if u.get("time") else ""), "sport": cfg.get("activity", sport),
+                     "homeTeam": {"@type": "SportsTeam", "name": school if u["home"] else u["opp"]},
+                     "awayTeam": {"@type": "SportsTeam", "name": u["opp"] if u["home"] else school},
+                     "location": {"@type": "Place", "name": school if u["home"] else u["opp"]}}
+                    for u in t["upcoming"] if u["status"] != "postponed"]}
+    if city:
+        ld["location"] = {"@type": "Place", "address": {"@type": "PostalAddress", "addressLocality": city, "addressRegion": "MD"}}
+    sport_url = f"{SITE_URL}/{rel}"
+    html_out = page.replace("<head>\n", '<head>\n<base href="../">\n', 1)
+    html_out = re.sub(r"<title>.*?</title>", f"<title>{esc(title)}</title>", html_out, count=1)
+    html_out = html_out.replace(f'content="{sport_description}"', f'content="{esc(desc)}"')
+    html_out = html_out.replace(f'href="{sport_url}"', f'href="{url}"').replace(f'content="{sport_url}"', f'content="{url}"')
+    html_out = html_out.replace(f'<meta property="og:title" content="Old Line {sport} Rankings">', f'<meta property="og:title" content="{esc(name)} {esc(sport)}">')
+    html_out = html_out.replace("</head>", f'<script type="application/ld+json">{json.dumps(ld)}</script>\n</head>', 1)
+    html_out = html_out.replace('<main id="app"></main>', f'<main id="app">{static}</main>', 1)
+    html_out = html_out.replace('<script src="data.js', f'<script>window.TEAM_PAGE = {json.dumps(dict(g=div, school=school))};</script>\n<script src="data.js', 1)
+    (out / t["slug"]).mkdir(exist_ok=True)
+    (out / t["slug"] / "index.html").write_text(html_out)
 
 
 def slug(name):
@@ -507,7 +570,8 @@ def write_splash(built, stamp):
     print("Wrote site/index.html (splash)")
     # Search engines: every page's address, and where to find that list
     today = datetime.date.today().isoformat()
-    urls = [f"{SITE_URL}/"] + [f"{SITE_URL}/{b['href']}" for b in built]
+    urls = [f"{SITE_URL}/"] + [f"{SITE_URL}/{b['href']}" for b in built] + [
+        f"{SITE_URL}/{b['href']}{t['slug']}/" for b in built for s in b["sports"].values() for t in s["teams"]]
     (ROOT / "site" / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
         + "".join(f"  <url><loc>{u}</loc><lastmod>{today}</lastmod><changefreq>daily</changefreq></url>\n" for u in urls) + "</urlset>\n")
     (ROOT / "site" / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /soccer/\n\nSitemap: {SITE_URL}/sitemap.xml\n")

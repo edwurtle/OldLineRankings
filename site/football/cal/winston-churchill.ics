@@ -6,7 +6,7 @@ X-WR-CALNAME:Winston Churchill Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-winston-churchill-bethesda-cc-football@oldlinerankings
-DTSTAMP:20261013T003629Z
+DTSTAMP:20261013T005148Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
 SUMMARY:Football: Bethesda-CC at Winston Churchill
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-northwest-winston-churchill-football@oldlinerankings
-DTSTAMP:20261013T003629Z
+DTSTAMP:20261013T005148Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Winston Churchill at Northwest
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Winston Churchill 28\, Northwest 13
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-walter-johnson-winston-churchill-football@oldlinerankings
-DTSTAMP:20261013T003629Z
+DTSTAMP:20261013T005148Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Winston Churchill at Walter Johnson
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Winston Churchill 35\, Walter Johnson 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-winston-churchill-walt-whitman-football@oldlinerankings
-DTSTAMP:20261013T003629Z
+DTSTAMP:20261013T005148Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Football: Walt Whitman at Winston Churchill
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-quince-orchard-winston-churchill-football@oldlinerankings
-DTSTAMP:20261013T003629Z
+DTSTAMP:20261013T005148Z
 DTSTART;TZID=America/New_York:20261002T183000
 DTEND;TZID=America/New_York:20261002T203000
 SUMMARY:Football: Winston Churchill at Quince Orchard
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-gaithersburg-winston-churchill-football@oldlinerankings
-DTSTAMP:20261013T003629Z
+DTSTAMP:20261013T005148Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Winston Churchill at Gaithersburg
@@ -63,7 +63,7 @@ DESCRIPTION:Final: Winston Churchill 35\, Gaithersburg 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-seneca-valley-winston-churchill-football@oldlinerankings
-DTSTAMP:20261013T003629Z
+DTSTAMP:20261013T005148Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Winston Churchill at Seneca Valley
@@ -72,7 +72,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6707805
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-winston-churchill-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261013T003629Z
+DTSTAMP:20261013T005148Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Thomas S. Wootton at Winston Churchill
@@ -82,7 +82,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-wootton-high-school-rockville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-winston-churchill-paint-branch-football@oldlinerankings
-DTSTAMP:20261013T003629Z
+DTSTAMP:20261013T005148Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Paint Branch at Winston Churchill

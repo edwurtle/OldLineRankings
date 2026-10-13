@@ -6,7 +6,7 @@ X-WR-CALNAME:Gwynn Park Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-cmit-north-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Gwynn Park at CMIT - North
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Gwynn Park 2\, CMIT - North 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-crossland-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Gwynn Park at Crossland
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Gwynn Park 1\, Crossland 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-college-park-academy-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Gwynn Park at College Park Academy
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Gwynn Park 4\, College Park Academy 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-gwynn-park-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;TZID=America/New_York:20260924T180000
 DTEND;TZID=America/New_York:20260924T200000
 SUMMARY:Boys Soccer: Bladensburg at Gwynn Park
@@ -43,7 +43,7 @@ URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-international-hs-at-largo-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;TZID=America/New_York:20260928T150000
 DTEND;TZID=America/New_York:20260928T170000
 SUMMARY:Boys Soccer: Gwynn Park at International HS at Largo
@@ -53,7 +53,7 @@ URL:https://www.nfhsnetwork.com/events/international-high-school-largo-largo-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-central-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Gwynn Park at Central
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Gwynn Park 5\, Central 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-gwynn-park-surrattsville-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Surrattsville at Gwynn Park
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Gwynn Park 2\, Surrattsville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-international-hs-at-langley-park-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Gwynn Park at International HS at Langley Park
@@ -80,15 +80,16 @@ DESCRIPTION:Final: Gwynn Park 1\, International HS at Langley Park 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-cmit-south-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
+DTSTAMP:20261013T005225Z
+DTSTART;TZID=America/New_York:20261012T150000
+DTEND;TZID=America/New_York:20261012T170000
 SUMMARY:Boys Soccer: Gwynn Park at CMIT - South
 LOCATION:CMIT - South
+DESCRIPTION:Tickets: https://gofan.co/event/6891941
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-gwynn-park-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Largo at Gwynn Park
@@ -96,7 +97,7 @@ LOCATION:Gwynn Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-gwynn-park-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;TZID=America/New_York:20261019T143000
 DTEND;TZID=America/New_York:20261019T163000
 SUMMARY:Boys Soccer: Oxon Hill at Gwynn Park
@@ -105,7 +106,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6891940
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-henry-e-lackey-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T003702Z
+DTSTAMP:20261013T005225Z
 DTSTART;TZID=America/New_York:20261021T163000
 DTEND;TZID=America/New_York:20261021T183000
 SUMMARY:Boys Soccer: Gwynn Park at Henry E. Lackey

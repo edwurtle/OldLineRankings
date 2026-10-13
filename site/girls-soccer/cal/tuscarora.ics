@@ -6,7 +6,7 @@ X-WR-CALNAME:Tuscarora Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-brunswick-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261013T003734Z
+DTSTAMP:20261013T005304Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Girls Soccer: Tuscarora at Brunswick
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam850
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-catoctin-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261013T003734Z
+DTSTAMP:20261013T005304Z
 DTSTART;TZID=America/New_York:20260915T180000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Girls Soccer: Tuscarora at Catoctin
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam10b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-tuscarora-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261013T003734Z
+DTSTAMP:20261013T005304Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Girls Soccer: South Hagerstown at Tuscarora
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam3ba
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-linganore-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261013T003734Z
+DTSTAMP:20261013T005304Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Girls Soccer: Tuscarora at Linganore
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gamea6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-tuscarora-urbana-girls-soccer@oldlinerankings
-DTSTAMP:20261013T003734Z
+DTSTAMP:20261013T005304Z
 DTSTART;TZID=America/New_York:20260924T171500
 DTEND;TZID=America/New_York:20260924T191500
 SUMMARY:Girls Soccer: Urbana at Tuscarora
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/game4ecd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-tuscarora-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261013T003734Z
+DTSTAMP:20261013T005304Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: North Hagerstown at Tuscarora
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam935
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-frederick-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261013T003734Z
+DTSTAMP:20261013T005304Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: Tuscarora at Frederick
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/game23
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-tuscarora-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T003734Z
+DTSTAMP:20261013T005304Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Tuscarora
@@ -86,7 +86,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-tuscarora-middletown-girls-soccer@oldlinerankings
-DTSTAMP:20261013T003734Z
+DTSTAMP:20261013T005304Z
 DTSTART;TZID=America/New_York:20261012T190000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Girls Soccer: Middletown at Tuscarora
@@ -96,7 +96,7 @@ URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam012
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-oakdale-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261013T003734Z
+DTSTAMP:20261013T005304Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Tuscarora at Oakdale
@@ -106,7 +106,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam573f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-westminster-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261013T003734Z
+DTSTAMP:20261013T005304Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Tuscarora at Westminster
@@ -114,7 +114,7 @@ LOCATION:Westminster
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-francis-scott-key-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261013T003734Z
+DTSTAMP:20261013T005304Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Girls Soccer: Tuscarora at Francis Scott Key
