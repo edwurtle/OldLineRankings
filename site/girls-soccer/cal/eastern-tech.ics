@@ -6,7 +6,7 @@ X-WR-CALNAME:Eastern Tech Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-eastern-tech-private-concordia-prep-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Girls Soccer: Private- Concordia Prep at Eastern Tech
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Eastern Tech 1\, Private- Concordia Prep 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-eastern-tech-private-bryn-mawr-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Girls Soccer: Private- Bryn Mawr at Eastern Tech
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Eastern Tech 3\, Private- Bryn Mawr 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-manchester-valley-eastern-tech-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Eastern Tech at Manchester Valley
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Eastern Tech 0\, Manchester Valley 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-hereford-eastern-tech-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Girls Soccer: Eastern Tech at Hereford
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Eastern Tech 0\, Hereford 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-eastern-tech-towson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Towson at Eastern Tech
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Eastern Tech 2\, Towson 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-eastern-tech-sparrows-point-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20260928T173000
 DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Girls Soccer: Sparrows Point at Eastern Tech
@@ -61,7 +61,7 @@ URL:https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-eastern-tech-dulaney-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: Dulaney at Eastern Tech
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Eastern Tech 1\, Dulaney 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-eastern-tech-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Catonsville at Eastern Tech
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Eastern Tech 2\, Catonsville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-eastern-tech-private-catholic-high-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Girls Soccer: Private- Catholic High at Eastern Tech
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Eastern Tech 3\, Private- Catholic High 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-eastern-tech-perry-hall-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Girls Soccer: Perry Hall at Eastern Tech
@@ -97,7 +97,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6868844
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-patterson-mill-eastern-tech-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Girls Soccer: Eastern Tech at Patterson Mill
@@ -107,7 +107,7 @@ URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-eastern-tech-glen-burnie-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261021T170000
 DTEND;TZID=America/New_York:20261021T190000
 SUMMARY:Girls Soccer: Glen Burnie at Eastern Tech

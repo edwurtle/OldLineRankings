@@ -6,7 +6,7 @@ X-WR-CALNAME:Oakdale Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-oakdale-md-john-carroll-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: MD - John Carroll at Oakdale
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Oakdale 0\, MD - John Carroll 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-oakdale-urbana-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Girls Soccer: Urbana at Oakdale
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam41ce
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-oakdale-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: North Hagerstown at Oakdale
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Oakdale 3\, North Hagerstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-linganore-oakdale-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: Oakdale at Linganore
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gamfe97
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-oakdale-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Girls Soccer: South Hagerstown at Oakdale
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Oakdale 10\, South Hagerstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-oakdale-wv-jefferson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Girls Soccer: WV - Jefferson at Oakdale
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam13cc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-oakdale-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Oakdale
@@ -73,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gamc832
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-frederick-oakdale-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Girls Soccer: Oakdale at Frederick
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/game96
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-oakdale-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Tuscarora at Oakdale
@@ -93,7 +93,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam573f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-manchester-valley-oakdale-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
 SUMMARY:Girls Soccer: Oakdale at Manchester Valley
@@ -102,7 +102,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6887087
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-century-oakdale-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Girls Soccer: Oakdale at Century
@@ -111,7 +111,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6786899
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-south-carroll-oakdale-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Girls Soccer: Oakdale at South Carroll

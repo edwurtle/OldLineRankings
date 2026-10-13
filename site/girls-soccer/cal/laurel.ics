@@ -6,7 +6,7 @@ X-WR-CALNAME:Laurel Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-laurel-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20260910T153000
 DTEND;TZID=America/New_York:20260910T173000
 SUMMARY:Girls Soccer: Bladensburg at Laurel
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamc28247d6a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-laurel-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20260914T153000
 DTEND;TZID=America/New_York:20260914T173000
 SUMMARY:Girls Soccer: Northwestern at Laurel
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamd3225df67
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-laurel-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20260917T150000
 DTEND;TZID=America/New_York:20260917T170000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Laurel
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-laurel-charles-h-flowers-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20260922T150000
 DTEND;TZID=America/New_York:20260922T170000
 SUMMARY:Girls Soccer: Charles H. Flowers at Laurel
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/charles-herbert-flowers-high-school-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-charles-h-flowers-laurel-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Laurel at Charles H. Flowers
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Laurel 0\, Charles H. Flowers 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-high-point-laurel-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20260928T153000
 DTEND;TZID=America/New_York:20260928T173000
 SUMMARY:Girls Soccer: Laurel at High Point
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gamd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-international-hs-at-largo-laurel-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261001T150000
 DTEND;TZID=America/New_York:20261001T170000
 SUMMARY:Girls Soccer: Laurel at International HS at Largo
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/international-high-school-largo-largo-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-laurel-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T173000
 SUMMARY:Girls Soccer: Bowie at Laurel
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/game74e06153
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-laurel-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Parkdale at Laurel
@@ -94,7 +94,7 @@ DESCRIPTION:Final: Laurel 3\, Parkdale 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-laurel-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261012T190000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Girls Soccer: Suitland at Laurel
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam5fbde2d4a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-laurel-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261015T153000
 DTEND;TZID=America/New_York:20261015T173000
 SUMMARY:Girls Soccer: Duval at Laurel
@@ -113,7 +113,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6521021
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-laurel-eleanor-roosevelt-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261019T153000
 DTEND;TZID=America/New_York:20261019T173000
 SUMMARY:Girls Soccer: Eleanor Roosevelt at Laurel
@@ -123,7 +123,7 @@ URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam17bca831c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-cmit-north-laurel-girls-soccer@oldlinerankings
-DTSTAMP:20261013T015506Z
+DTSTAMP:20261013T020111Z
 DTSTART;TZID=America/New_York:20261021T170000
 DTEND;TZID=America/New_York:20261021T190000
 SUMMARY:Girls Soccer: Laurel at CMIT - North

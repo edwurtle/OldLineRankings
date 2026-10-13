@@ -6,7 +6,7 @@ X-WR-CALNAME:Walter Johnson Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-rockville-walter-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: Walter Johnson at Rockville
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Walter Johnson 2\, Rockville 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-col-zadok-magruder-walter-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;TZID=America/New_York:20260910T191500
 DTEND;TZID=America/New_York:20260910T211500
 SUMMARY:Boys Soccer: Walter Johnson at Col. Zadok Magruder
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-zadok-magruder-high-school-rockvi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-walt-whitman-walter-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;TZID=America/New_York:20260914T191500
 DTEND;TZID=America/New_York:20260914T211500
 SUMMARY:Boys Soccer: Walter Johnson at Walt Whitman
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-quince-orchard-walter-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;TZID=America/New_York:20260916T191500
 DTEND;TZID=America/New_York:20260916T211500
 SUMMARY:Boys Soccer: Walter Johnson at Quince Orchard
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-thomas-s-wootton-walter-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;TZID=America/New_York:20260922T191500
 DTEND;TZID=America/New_York:20260922T211500
 SUMMARY:Boys Soccer: Walter Johnson at Thomas S. Wootton
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-walter-johnson-winston-churchill-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Winston Churchill at Walter Johnson
@@ -64,7 +64,7 @@ DESCRIPTION:Final: Walter Johnson 2\, Winston Churchill 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-bethesda-cc-walter-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;TZID=America/New_York:20261002T191500
 DTEND;TZID=America/New_York:20261002T211500
 SUMMARY:Boys Soccer: Walter Johnson at Bethesda-CC
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-walter-johnson-james-hubert-blake-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: James Hubert Blake at Walter Johnson
@@ -83,7 +83,7 @@ DESCRIPTION:Final: Walter Johnson 4\, James Hubert Blake 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-gaithersburg-walter-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;TZID=America/New_York:20261007T191500
 DTEND;TZID=America/New_York:20261007T211500
 SUMMARY:Boys Soccer: Walter Johnson at Gaithersburg
@@ -93,7 +93,7 @@ URL:https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-walter-johnson-richard-montgomery-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;TZID=America/New_York:20261013T180000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Boys Soccer: Richard Montgomery at Walter Johnson
@@ -103,7 +103,7 @@ URL:https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-northwest-walter-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;TZID=America/New_York:20261019T191500
 DTEND;TZID=America/New_York:20261019T211500
 SUMMARY:Boys Soccer: Walter Johnson at Northwest
@@ -113,7 +113,7 @@ URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam6f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-walter-johnson-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:Boys Soccer: John F. Kennedy at Walter Johnson

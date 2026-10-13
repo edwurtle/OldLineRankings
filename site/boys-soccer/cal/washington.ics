@@ -6,7 +6,7 @@ X-WR-CALNAME:Washington Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-washington-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Boys Soccer: James M. Bennett at Washington
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Washington 0\, James M. Bennett 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-washington-stephen-decatur-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Boys Soccer: Stephen Decatur at Washington
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Washington 0\, Stephen Decatur 12
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-washington-snow-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Snow Hill at Washington
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Washington 0\, Snow Hill 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-colonel-richardson-washington-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;TZID=America/New_York:20260916T173000
 DTEND;TZID=America/New_York:20260916T193000
 SUMMARY:Boys Soccer: Washington at Colonel Richardson
@@ -43,7 +43,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-washington-mardela-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Boys Soccer: Mardela at Washington
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Washington 0\, Mardela 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-parkside-washington-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Boys Soccer: Washington at Parkside
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Washington 0\, Parkside 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-washington-pocomoke-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Boys Soccer: Pocomoke at Washington
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Washington 1\, Pocomoke 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-cambridge-south-dorchester-washington-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Washington at Cambridge-South Dorchester
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Washington 2\, Cambridge-South Dorchester 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-washington-st-michael-s-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Boys Soccer: St. Michael's at Washington
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Washington 0\, St. Michael's 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-washington-wicomico-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Wicomico at Washington
@@ -97,7 +97,7 @@ DESCRIPTION:Final: Washington 0\, Wicomico 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-crisfield-washington-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Boys Soccer: Washington at Crisfield
@@ -105,7 +105,7 @@ LOCATION:Crisfield
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-north-dorchester-washington-boys-soccer@oldlinerankings
-DTSTAMP:20261013T015441Z
+DTSTAMP:20261013T020034Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Washington at North Dorchester
