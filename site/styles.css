@@ -19,6 +19,8 @@ body { background: var(--bg); color: var(--text); font: 15px/1.5 Inter, system-u
 main { flex: 1; }
 a { color: inherit; text-decoration: none; }
 button, select, input { font: inherit; color: inherit; }
+/* iPhones zoom (and shift the page) when a text box or menu under 16px gets focus */
+@media (max-width: 820px), (pointer: coarse) { input, select, textarea { font-size: 16px !important; } }
 .mono { font-family: "JetBrains Mono", ui-monospace, monospace; font-variant-numeric: tabular-nums; }
 .display { font-family: "Barlow Condensed", Inter, sans-serif; text-transform: uppercase; letter-spacing: .01em; }
 .wrap { max-width: 1360px; margin: 0 auto; padding: 0 16px; }
