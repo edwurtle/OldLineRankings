@@ -6,7 +6,7 @@ X-WR-CALNAME:Crofton Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-catonsville-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005447Z
+DTSTAMP:20261013T005646Z
 DTSTART;TZID=America/New_York:20260909T180000
 DTEND;TZID=America/New_York:20260909T200000
 SUMMARY:Girls Soccer: Crofton at Catonsville
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gam83e67
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-crofton-notre-dame-prep-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005447Z
+DTSTAMP:20261013T005646Z
 DTSTART;TZID=America/New_York:20260911T180000
 DTEND;TZID=America/New_York:20260911T200000
 SUMMARY:Girls Soccer: Notre Dame Prep at Crofton
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gameb302
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-baltimore-polytechnic-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005447Z
+DTSTAMP:20261013T005646Z
 DTSTART;TZID=America/New_York:20260919T131500
 DTEND;TZID=America/New_York:20260919T151500
 SUMMARY:Girls Soccer: Crofton at Baltimore Polytechnic
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamc4e68
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-southern-aa-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005447Z
+DTSTAMP:20261013T005646Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Girls Soccer: Crofton at Southern-AA
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam65dd4e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-chesapeake-aa-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005447Z
+DTSTAMP:20261013T005646Z
 DTSTART;TZID=America/New_York:20260924T170000
 DTEND;TZID=America/New_York:20260924T190000
 SUMMARY:Girls Soccer: Crofton at Chesapeake-AA
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam78a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-north-county-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005447Z
+DTSTAMP:20261013T005646Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: Crofton at North County
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamf5eb9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-severna-park-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005447Z
+DTSTAMP:20261013T005646Z
 DTSTART;TZID=America/New_York:20261001T170000
 DTEND;TZID=America/New_York:20261001T190000
 SUMMARY:Girls Soccer: Crofton at Severna Park
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-northeast-aa-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005447Z
+DTSTAMP:20261013T005646Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: Crofton at Northeast-AA
@@ -86,7 +86,7 @@ URL:https://www.nfhsnetwork.com/events/northeast-high-school-pasadena-md/gamb4f5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-south-river-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005447Z
+DTSTAMP:20261013T005646Z
 DTSTART;TZID=America/New_York:20261008T164500
 DTEND;TZID=America/New_York:20261008T184500
 SUMMARY:Girls Soccer: Crofton at South River
@@ -96,7 +96,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamac5f7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-severn-run-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005447Z
+DTSTAMP:20261013T005646Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Crofton at Severn Run
@@ -106,7 +106,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gam5205b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-old-mill-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005447Z
+DTSTAMP:20261013T005646Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Crofton at Old Mill
@@ -114,7 +114,7 @@ LOCATION:Old Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-arundel-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005447Z
+DTSTAMP:20261013T005646Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Girls Soccer: Crofton at Arundel
@@ -124,7 +124,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gam6e372
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-broadneck-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005447Z
+DTSTAMP:20261013T005646Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Girls Soccer: Crofton at Broadneck
