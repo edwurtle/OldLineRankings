@@ -466,7 +466,7 @@ def write_splash(built, stamp):
       <div class="gw-at">at</div>
       {side(g["home"], g["p"])}
       <div class="gw-actions"><a class="gw-watch" href="{esc(g["watch"])}" target="_blank" rel="noopener">▶ Watch on NFHS Network</a>{
-        f'<a class="gw-tix" href="{esc(g["tickets"])}" target="_blank" rel="noopener" title="Tickets on GoFan" aria-label="Tickets on GoFan" data-game="{esc(g["away"]["school"] + " at " + g["home"]["school"])}" data-when="{esc(when)}">{icons.svg("ticket")}</a>' if g["tickets"] else ""}</div>
+        f'<a class="gw-tix" href="{esc(g["tickets"])}" target="_blank" rel="noopener" title="Tickets on GoFan" aria-label="Tickets on GoFan" data-game="{esc(g["away"]["school"] + " at " + g["home"]["school"])}" data-when="{esc(when)}">{icons.svg("ticket")}Tickets</a>' if g["tickets"] else ""}</div>
     </div>''')
     page = (ROOT / "scripts" / "splash.html").read_text()
     gotw_html = ('<section class="section"><div class="section-head"><div><div class="eyebrow">This week</div><h2>Games of the week</h2>'

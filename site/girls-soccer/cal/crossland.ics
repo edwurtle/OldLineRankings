@@ -6,7 +6,7 @@ X-WR-CALNAME:Crossland Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-crossland-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261013T002029Z
+DTSTAMP:20261013T002501Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Crossland
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Crossland 0\, Dr. Henry A. Wise 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-crossland-gwynn-park-girls-soccer@oldlinerankings
-DTSTAMP:20261013T002029Z
+DTSTAMP:20261013T002501Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Gwynn Park at Crossland
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Crossland 1\, Gwynn Park 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-crossland-friendly-girls-soccer@oldlinerankings
-DTSTAMP:20261013T002029Z
+DTSTAMP:20261013T002501Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Girls Soccer: Friendly at Crossland
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Crossland 3\, Friendly 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-cmit-north-crossland-girls-soccer@oldlinerankings
-DTSTAMP:20261013T002029Z
+DTSTAMP:20261013T002501Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Crossland at CMIT - North
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Crossland 0\, CMIT - North 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-crossland-largo-girls-soccer@oldlinerankings
-DTSTAMP:20261013T002029Z
+DTSTAMP:20261013T002501Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Largo at Crossland
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Crossland 4\, Largo 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-crossland-frederick-douglass-pg-girls-soccer@oldlinerankings
-DTSTAMP:20261013T002029Z
+DTSTAMP:20261013T002501Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Frederick Douglass-PG at Crossland
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Crossland 0\, Frederick Douglass-PG 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-international-hs-at-langley-park-crossland-girls-soccer@oldlinerankings
-DTSTAMP:20261013T002029Z
+DTSTAMP:20261013T002501Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: Crossland at International HS at Langley Park
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Crossland 3\, International HS at Langley Park 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-crossland-central-girls-soccer@oldlinerankings
-DTSTAMP:20261013T002029Z
+DTSTAMP:20261013T002501Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: Central at Crossland
@@ -78,7 +78,7 @@ DESCRIPTION:Final: Crossland 3\, Central 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-crossland-surrattsville-girls-soccer@oldlinerankings
-DTSTAMP:20261013T002029Z
+DTSTAMP:20261013T002501Z
 DTSTART;TZID=America/New_York:20261008T150000
 DTEND;TZID=America/New_York:20261008T170000
 SUMMARY:Girls Soccer: Surrattsville at Crossland
@@ -88,7 +88,7 @@ URL:https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-crossland-fairmont-heights-girls-soccer@oldlinerankings
-DTSTAMP:20261013T002029Z
+DTSTAMP:20261013T002501Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Fairmont Heights at Crossland
@@ -96,7 +96,7 @@ LOCATION:Crossland
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-college-park-academy-crossland-girls-soccer@oldlinerankings
-DTSTAMP:20261013T002029Z
+DTSTAMP:20261013T002501Z
 DTSTART;TZID=America/New_York:20261015T164500
 DTEND;TZID=America/New_York:20261015T184500
 SUMMARY:Girls Soccer: Crossland at College Park Academy
@@ -105,7 +105,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6689157
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-crossland-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261013T002029Z
+DTSTAMP:20261013T002501Z
 DTSTART;TZID=America/New_York:20261021T150000
 DTEND;TZID=America/New_York:20261021T170000
 SUMMARY:Girls Soccer: Suitland at Crossland
