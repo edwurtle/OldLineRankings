@@ -6,7 +6,7 @@ X-WR-CALNAME:Eastern Tech Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-eastern-tech-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;TZID=America/New_York:20260904T132000
 DTEND;TZID=America/New_York:20260904T152000
 SUMMARY:Boys Soccer: Bel Air at Eastern Tech
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam6f78e21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-harford-tech-eastern-tech-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;TZID=America/New_York:20260905T132000
 DTEND;TZID=America/New_York:20260905T152000
 SUMMARY:Boys Soccer: Eastern Tech at Harford Tech
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam6f78e21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-eastern-tech-baltimore-polytechnic-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Baltimore Polytechnic at Eastern Tech
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Eastern Tech 2\, Baltimore Polytechnic 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-manchester-valley-eastern-tech-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Eastern Tech at Manchester Valley
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Eastern Tech 1\, Manchester Valley 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-eastern-tech-sparrows-point-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Sparrows Point at Eastern Tech
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Eastern Tech 3\, Sparrows Point 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-eastern-tech-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Kenwood at Eastern Tech
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Eastern Tech 5\, Kenwood 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-eastern-tech-catonsville-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;TZID=America/New_York:20260924T173000
 DTEND;TZID=America/New_York:20260924T193000
 SUMMARY:Boys Soccer: Catonsville at Eastern Tech
@@ -72,7 +72,7 @@ URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-eastern-tech-dulaney-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Dulaney at Eastern Tech
@@ -81,7 +81,7 @@ DESCRIPTION:Final: Eastern Tech 0\, Dulaney 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-eastern-tech-towson-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;TZID=America/New_York:20261001T171500
 DTEND;TZID=America/New_York:20261001T191500
 SUMMARY:Boys Soccer: Towson at Eastern Tech
@@ -91,7 +91,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam26725f495
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-eastern-tech-dundalk-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Dundalk at Eastern Tech
@@ -100,7 +100,7 @@ DESCRIPTION:Final: Eastern Tech 1\, Dundalk 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-hereford-eastern-tech-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Eastern Tech at Hereford
@@ -109,7 +109,7 @@ DESCRIPTION:Final: Eastern Tech 2\, Hereford 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-eastern-tech-perry-hall-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Boys Soccer: Perry Hall at Eastern Tech
@@ -118,7 +118,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6873929
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-patterson-mill-eastern-tech-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Eastern Tech at Patterson Mill
@@ -126,7 +126,7 @@ LOCATION:Patterson Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-eastern-tech-glen-burnie-boys-soccer@oldlinerankings
-DTSTAMP:20261012T235601Z
+DTSTAMP:20261013T000134Z
 DTSTART;TZID=America/New_York:20261021T190000
 DTEND;TZID=America/New_York:20261021T210000
 SUMMARY:Boys Soccer: Glen Burnie at Eastern Tech

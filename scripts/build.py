@@ -15,7 +15,7 @@ would have earned had it won every game.
 Football is ranked by the Old Line Rating instead (see oldline.py); its MPSSAA points are kept
 for playoff seeding.
 """
-import collections, datetime, html, json, pathlib, re, subprocess
+import collections, datetime, html, json, pathlib, re, subprocess, urllib.parse
 import gofan, icons, nfhs, oldline
 
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
@@ -382,6 +382,36 @@ def esc(s):
     return html.escape(str(s), quote=True)
 
 
+def game_of_week(b, days=7):
+    """The sport's game of the week: an upcoming game in the next `days` days between two MPSSAA teams with an
+    NFHS Network broadcast, close enough to be a real contest (favorite at most 75%, else 85%), picking the
+    highest average Old Line Rating. Returns None when no game qualifies."""
+    cfg = b["cfg"]
+    if not cfg.get("olr"):
+        return None
+    today = datetime.date.today()
+    best = {}
+    for div, s in b["sports"].items():
+        teams = {t["school"]: t for t in s["teams"]}
+        home_edge = s.get("home", 0)
+        for t in s["teams"]:
+            for u in t["upcoming"]:
+                if not u.get("watch") or u["status"] != "scheduled" or u["opp"] not in teams:
+                    continue
+                if not today <= datetime.date.fromisoformat(u["date"]) <= today + datetime.timedelta(days):
+                    continue
+                home, away = (t, teams[u["opp"]]) if u["home"] else (teams[u["opp"]], t)
+                key = (u["date"], home["school"], away["school"])
+                p = oldline.win_prob(home["rating"], away["rating"], 1, home_edge, cfg["olr"]["k"])
+                best[key] = dict(div=div, date=u["date"], time=u.get("time"), watch=u["watch"], home=home, away=away, p=p,
+                                 fav=max(p, 1 - p), strength=(home["rating"] + away["rating"]) / 2)
+    for limit in (.75, .85):
+        close = [g for g in best.values() if g["fav"] <= limit]
+        if close:
+            return max(close, key=lambda g: g["strength"])
+    return None
+
+
 def write_splash(built, stamp):
     """site/index.html: a card per sport with its current No. 1 team(s), plus coming-soon sports."""
     cards = []
@@ -409,8 +439,39 @@ def write_splash(built, stamp):
       <span class="sport-go">Old Line {esc(cfg["sport"])} Rankings →</span></a>''')
     coming = [f'''<div class="sport-card soon"><div class="sport-top"><span class="sport-icon">{icons.svg(c["icon"])}</span>
       <div><h2>{esc(c["sport"])}</h2><small>{esc(c["note"])}</small></div></div></div>''' for c in COMING]
+    # Games of the week: one per sport
+    gotw = []
+    for b in built:
+        g = game_of_week(b)
+        if not g:
+            continue
+        cfg = b["cfg"]
+        def side(t, chance):
+            logo = (b["schools"].get(t["school"]) or {}).get("logo")
+            img = f'<img src="{esc(logo[3:])}" alt="" loading="lazy">' if logo else ""
+            rec = f'{t["W"]}-{t["L"]}' + (f'-{t["T"]}' if cfg.get("ties") else "")
+            cls = cfg.get("labels", {}).get(t["cls"], t["cls"])
+            link = f'{b["href"]}#/{g["div"]}/All?team={urllib.parse.quote(t["school"])}'
+            return (f'<a class="gw-team" href="{esc(link)}"><span class="logo" style="--sz:40px">{img}</span>'
+                    f'<span class="gw-who"><b>{esc(t["school"])}</b><small>{esc(cls)} · #{t["rank"]} in class · {rec}</small></span>'
+                    f'<span class="gw-p">{round(100 * chance)}%</span></a>')
+        day = datetime.date.fromisoformat(g["date"])
+        when = day.strftime("%A, %b %-d")
+        if g["time"]:
+            h, m = map(int, g["time"].split(":"))
+            when += f' · {h % 12 or 12}:{m:02d} {"AM" if h < 12 else "PM"}'
+        gotw.append(f'''<div class="gw-card">
+      <div class="gw-top"><span class="gw-sport">{icons.svg(cfg["icon"])}{esc(cfg["sport"])}</span><span class="gw-when">{esc(when)}</span></div>
+      {side(g["away"], 1 - g["p"])}
+      <div class="gw-at">at</div>
+      {side(g["home"], g["p"])}
+      <a class="gw-watch" href="{esc(g["watch"])}" target="_blank" rel="noopener">▶ Watch on NFHS Network</a>
+    </div>''')
     page = (ROOT / "scripts" / "splash.html").read_text()
-    for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), favicon=icons.favicon(), stamp=stamp).items():
+    gotw_html = ('<section class="section"><div class="section-head"><div><div class="eyebrow">This week</div><h2>Games of the week</h2>'
+                 '<p>The best matchups with a live stream, picked by Old Line Rating. Percentages are each team\'s chance to win.</p></div></div>'
+                 f'<div class="gw-grid">{"".join(gotw)}</div></section>') if gotw else ""
+    for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), gotw=gotw_html, favicon=icons.favicon(), stamp=stamp).items():
         page = page.replace("{{" + k + "}}", v)
     (ROOT / "site" / "index.html").write_text(page)
     print("Wrote site/index.html (splash)")

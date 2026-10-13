@@ -6,7 +6,7 @@ X-WR-CALNAME:Charles H. Flowers Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-11-eleanor-roosevelt-charles-h-flowers-football@oldlinerankings
-DTSTAMP:20261012T235531Z
+DTSTAMP:20261013T000051Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: Charles H. Flowers at Eleanor Roosevelt
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Charles H. Flowers 42\, Eleanor Roosevelt 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-charles-h-flowers-dr-henry-a-wise-football@oldlinerankings
-DTSTAMP:20261012T235531Z
+DTSTAMP:20261013T000051Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Dr. Henry A. Wise at Charles H. Flowers
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Charles H. Flowers 22\, Dr. Henry A. Wise 25
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-charles-h-flowers-duval-football@oldlinerankings
-DTSTAMP:20261012T235531Z
+DTSTAMP:20261013T000051Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Football: DuVal at Charles H. Flowers
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Charles H. Flowers 40\, DuVal 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-charles-h-flowers-parkdale-football@oldlinerankings
-DTSTAMP:20261012T235531Z
+DTSTAMP:20261013T000051Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Parkdale at Charles H. Flowers
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Charles H. Flowers 27\, Parkdale 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-bladensburg-charles-h-flowers-football@oldlinerankings
-DTSTAMP:20261012T235531Z
+DTSTAMP:20261013T000051Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Charles H. Flowers at Bladensburg
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Charles H. Flowers 63\, Bladensburg 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-charles-h-flowers-oxon-hill-football@oldlinerankings
-DTSTAMP:20261012T235531Z
+DTSTAMP:20261013T000051Z
 DTSTART;TZID=America/New_York:20261016T140000
 DTEND;TZID=America/New_York:20261016T160000
 SUMMARY:Football: Oxon Hill at Charles H. Flowers
@@ -60,7 +60,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6768016
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-charles-h-flowers-potomac-football@oldlinerankings
-DTSTAMP:20261012T235531Z
+DTSTAMP:20261013T000051Z
 DTSTART;TZID=America/New_York:20261023T140000
 DTEND;TZID=America/New_York:20261023T160000
 SUMMARY:Football: Potomac at Charles H. Flowers
@@ -69,7 +69,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6768094
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-suitland-charles-h-flowers-football@oldlinerankings
-DTSTAMP:20261012T235531Z
+DTSTAMP:20261013T000051Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Football: Charles H. Flowers at Suitland
