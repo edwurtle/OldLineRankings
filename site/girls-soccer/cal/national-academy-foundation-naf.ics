@@ -6,7 +6,7 @@ X-WR-CALNAME:National Academy Foundation (NAF) Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-national-academy-foundation-naf-edmondson-westside-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Girls Soccer: Edmondson-Westside at National Academy Foundation (NAF)
@@ -15,7 +15,7 @@ DESCRIPTION:Final: National Academy Foundation (NAF) 9\, Edmondson-Westside 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-national-academy-foundation-naf-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Girls Soccer: Western-B at National Academy Foundation (NAF)
@@ -24,7 +24,7 @@ DESCRIPTION:Final: National Academy Foundation (NAF) 6\, Western-B 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-national-academy-foundation-naf-patterson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Girls Soccer: Patterson at National Academy Foundation (NAF)
@@ -33,7 +33,7 @@ DESCRIPTION:Final: National Academy Foundation (NAF) 4\, Patterson 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-national-academy-foundation-naf-baltimore-city-college-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Girls Soccer: Baltimore City College at National Academy Foundation (NAF)
@@ -42,7 +42,7 @@ DESCRIPTION:Final: National Academy Foundation (NAF) 0\, Baltimore City College 
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-national-academy-foundation-naf-paul-laurence-dunbar-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: Paul Laurence Dunbar at National Academy Foundation (NAF)
@@ -51,7 +51,7 @@ DESCRIPTION:Final: National Academy Foundation (NAF) 4\, Paul Laurence Dunbar 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-national-academy-foundation-naf-digital-harbor-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Girls Soccer: Digital Harbor at National Academy Foundation (NAF)
@@ -60,7 +60,7 @@ DESCRIPTION:Final: National Academy Foundation (NAF) 2\, Digital Harbor 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-national-academy-foundation-naf-baltimore-polytechnic-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Girls Soccer: Baltimore Polytechnic at National Academy Foundation (NAF)

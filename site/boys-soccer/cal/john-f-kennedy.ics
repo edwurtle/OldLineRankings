@@ -6,7 +6,7 @@ X-WR-CALNAME:John F. Kennedy Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-poolesville-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20260904T191500
 DTEND;TZID=America/New_York:20260904T211500
 SUMMARY:Boys Soccer: John F. Kennedy at Poolesville
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-seneca-valley-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20260910T191500
 DTEND;TZID=America/New_York:20260910T211500
 SUMMARY:Boys Soccer: John F. Kennedy at Seneca Valley
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-richard-montgomery-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20260914T191500
 DTEND;TZID=America/New_York:20260914T211500
 SUMMARY:Boys Soccer: John F. Kennedy at Richard Montgomery
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-john-f-kennedy-northwood-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20260916T173000
 DTEND;TZID=America/New_York:20260916T193000
 SUMMARY:Boys Soccer: Northwood at John F. Kennedy
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-albert-einstein-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20260922T191500
 DTEND;TZID=America/New_York:20260922T211500
 SUMMARY:Boys Soccer: John F. Kennedy at Albert Einstein
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-rockville-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: John F. Kennedy at Rockville
@@ -65,7 +65,7 @@ DESCRIPTION:Final: John F. Kennedy 1\, Rockville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-wheaton-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20261001T191500
 DTEND;TZID=America/New_York:20261001T211500
 SUMMARY:Boys Soccer: John F. Kennedy at Wheaton
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-john-f-kennedy-montgomery-blair-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20261005T191500
 DTEND;TZID=America/New_York:20261005T211500
 SUMMARY:Boys Soccer: Montgomery Blair at John F. Kennedy
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-damascus-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20261008T191500
 DTEND;TZID=America/New_York:20261008T211500
 SUMMARY:Boys Soccer: John F. Kennedy at Damascus
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-watkins-mill-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20261013T171500
 DTEND;TZID=America/New_York:20261013T191500
 SUMMARY:Boys Soccer: John F. Kennedy at Watkins Mill
@@ -105,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-northwood-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Boys Soccer: John F. Kennedy at Northwood
@@ -113,7 +113,7 @@ LOCATION:Northwood
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-sherwood-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20261020T191500
 DTEND;TZID=America/New_York:20261020T211500
 SUMMARY:Boys Soccer: John F. Kennedy at Sherwood
@@ -123,7 +123,7 @@ URL:https://www.nfhsnetwork.com/events/sherwood-high-school-sandy-spring-md/gam3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-walter-johnson-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:Boys Soccer: John F. Kennedy at Walter Johnson

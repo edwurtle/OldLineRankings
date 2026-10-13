@@ -6,7 +6,7 @@ X-WR-CALNAME:Northern-G Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-northern-g-wv-petersburg-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Girls Soccer: WV-Petersburg at Northern-G
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Northern-G 10\, WV-Petersburg 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-mountain-ridge-northern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;TZID=America/New_York:20260917T180000
 DTEND;TZID=America/New_York:20260917T200000
 SUMMARY:Girls Soccer: Northern-G at Mountain Ridge
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-fort-hill-northern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;TZID=America/New_York:20260919T110000
 DTEND;TZID=America/New_York:20260919T130000
 SUMMARY:Girls Soccer: Northern-G at Fort Hill
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam91
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-allegany-northern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Girls Soccer: Northern-G at Allegany
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Northern-G 2\, Allegany 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-northern-g-wv-frankfort-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: WV-Frankfort at Northern-G
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Northern-G 6\, WV-Frankfort 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-northern-g-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;TZID=America/New_York:20260924T193000
 DTEND;TZID=America/New_York:20260924T213000
 SUMMARY:Girls Soccer: Southern-G at Northern-G
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-fort-hill-northern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;TZID=America/New_York:20260929T173000
 DTEND;TZID=America/New_York:20260929T193000
 SUMMARY:Girls Soccer: Northern-G at Fort Hill
@@ -73,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-northern-g-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;TZID=America/New_York:20261005T190000
 DTEND;TZID=America/New_York:20261005T210000
 SUMMARY:Girls Soccer: Southern-G at Northern-G
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-allegany-northern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;TZID=America/New_York:20261007T180000
 DTEND;TZID=America/New_York:20261007T200000
 SUMMARY:Girls Soccer: Northern-G at Allegany
@@ -93,7 +93,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-northern-g-pa-rockwood-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;TZID=America/New_York:20261013T155500
 DTEND;TZID=America/New_York:20261013T175500
 SUMMARY:Girls Soccer: PA-Rockwood at Northern-G
@@ -103,7 +103,7 @@ URL:https://www.nfhsnetwork.com/events/rockwood-area-high-school-rockwood-pa/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-northern-g-wv-frankfort-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;TZID=America/New_York:20261014T170000
 DTEND;TZID=America/New_York:20261014T190000
 SUMMARY:Girls Soccer: WV-Frankfort at Northern-G
@@ -113,7 +113,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-mountain-ridge-northern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261013T005646Z
+DTSTAMP:20261013T010735Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Girls Soccer: Northern-G at Mountain Ridge

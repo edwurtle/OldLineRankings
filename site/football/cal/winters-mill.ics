@@ -6,7 +6,7 @@ X-WR-CALNAME:Winters Mill Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-poolesville-winters-mill-football@oldlinerankings
-DTSTAMP:20261013T005551Z
+DTSTAMP:20261013T010635Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
 SUMMARY:Football: Winters Mill at Poolesville
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-winters-mill-watkins-mill-football@oldlinerankings
-DTSTAMP:20261013T005551Z
+DTSTAMP:20261013T010635Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Watkins Mill at Winters Mill
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Winters Mill 69\, Watkins Mill 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-winters-mill-centennial-football@oldlinerankings
-DTSTAMP:20261013T005551Z
+DTSTAMP:20261013T010635Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Centennial at Winters Mill
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Winters Mill 49\, Centennial 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-manchester-valley-winters-mill-football@oldlinerankings
-DTSTAMP:20261013T005551Z
+DTSTAMP:20261013T010635Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Winters Mill at Manchester Valley
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Winters Mill 38\, Manchester Valley 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-francis-scott-key-winters-mill-football@oldlinerankings
-DTSTAMP:20261013T005551Z
+DTSTAMP:20261013T010635Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Winters Mill at Francis Scott Key
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Winters Mill 14\, Francis Scott Key 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-winters-mill-century-football@oldlinerankings
-DTSTAMP:20261013T005551Z
+DTSTAMP:20261013T010635Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Century at Winters Mill
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Winters Mill 35\, Century 55
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-winters-mill-liberty-football@oldlinerankings
-DTSTAMP:20261013T005551Z
+DTSTAMP:20261013T010635Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Liberty at Winters Mill
@@ -70,7 +70,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6871193
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-winters-mill-south-carroll-football@oldlinerankings
-DTSTAMP:20261013T005551Z
+DTSTAMP:20261013T010635Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: South Carroll at Winters Mill
@@ -79,7 +79,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6813012
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-winters-mill-westminster-football@oldlinerankings
-DTSTAMP:20261013T005551Z
+DTSTAMP:20261013T010635Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Westminster at Winters Mill

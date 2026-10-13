@@ -6,7 +6,7 @@ X-WR-CALNAME:Northwest Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-northwest-bethesda-cc-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20260908T191500
 DTEND;TZID=America/New_York:20260908T211500
 SUMMARY:Boys Soccer: Bethesda-CC at Northwest
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam18
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-northwest-quince-orchard-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20260911T154500
 DTEND;TZID=America/New_York:20260911T174500
 SUMMARY:Boys Soccer: Quince Orchard at Northwest
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-northwest-seneca-valley-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20260914T191500
 DTEND;TZID=America/New_York:20260914T211500
 SUMMARY:Boys Soccer: Seneca Valley at Northwest
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam47
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-poolesville-northwest-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20260917T191500
 DTEND;TZID=America/New_York:20260917T211500
 SUMMARY:Boys Soccer: Northwest at Poolesville
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-watkins-mill-northwest-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20260924T191500
 DTEND;TZID=America/New_York:20260924T211500
 SUMMARY:Boys Soccer: Northwest at Watkins Mill
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-damascus-northwest-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20260929T191500
 DTEND;TZID=America/New_York:20260929T211500
 SUMMARY:Boys Soccer: Northwest at Damascus
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/game7e0f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-clarksburg-northwest-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20261006T153000
 DTEND;TZID=America/New_York:20261006T173000
 SUMMARY:Boys Soccer: Northwest at Clarksburg
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gamcc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-northwest-montgomery-blair-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20261007T191500
 DTEND;TZID=America/New_York:20261007T211500
 SUMMARY:Boys Soccer: Montgomery Blair at Northwest
@@ -86,7 +86,7 @@ URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam71
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-northwest-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20261012T191500
 DTEND;TZID=America/New_York:20261012T211500
 SUMMARY:Boys Soccer: Springbrook at Northwest
@@ -96,7 +96,7 @@ URL:https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-northwest-walt-whitman-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20261014T191500
 DTEND;TZID=America/New_York:20261014T211500
 SUMMARY:Boys Soccer: Walt Whitman at Northwest
@@ -106,7 +106,7 @@ URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gamb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-northwest-walter-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20261019T191500
 DTEND;TZID=America/New_York:20261019T211500
 SUMMARY:Boys Soccer: Walter Johnson at Northwest
@@ -116,7 +116,7 @@ URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam6f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-northwest-gaithersburg-boys-soccer@oldlinerankings
-DTSTAMP:20261013T005620Z
+DTSTAMP:20261013T010706Z
 DTSTART;TZID=America/New_York:20261021T191500
 DTEND;TZID=America/New_York:20261021T211500
 SUMMARY:Boys Soccer: Gaithersburg at Northwest
