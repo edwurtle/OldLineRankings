@@ -46,7 +46,14 @@ button, select, input { font: inherit; color: inherit; }
 .flag-stripe { height: 3px; opacity: var(--stripe-opacity); background:
   repeating-linear-gradient(-45deg, var(--md-gold) 0 6px, #000 6px 12px) left / 50% 100% no-repeat,
   repeating-linear-gradient(-45deg, var(--md-red) 0 6px, var(--ink-muted) 6px 12px) right / 50% 100% no-repeat; }
-@media (max-width: 640px) { .brand-text small { display: none; } .nav-links a[data-nav="how"] { display: none; } .brand-text b { font-size: 16px; } }
+/* Phones: the section links get their own row under the brand so neither is cut off */
+@media (max-width: 640px) {
+  .brand-text small { display: none; } .brand-text b { font-size: 16px; }
+  .nav-inner { flex-wrap: wrap; row-gap: 8px; padding: 8px 12px; }
+  .nav-links { margin-left: 0; width: 100%; overflow-x: auto; scrollbar-width: none; }
+  .nav-links::-webkit-scrollbar { display: none; }
+  .nav-links a { flex: 1 0 auto; text-align: center; padding: 7px 10px; font-size: 13.5px; }
+}
 
 /* Hero */
 .hero { background: var(--hero-bg); color: var(--hero-ink); position: relative; overflow: hidden; }
@@ -227,8 +234,13 @@ td.team-td { white-space: normal; width: 100%; }  /* the only column allowed to 
 @media (max-width: 1060px) { .hide-md { display: none; } .bar { width: 70px; } }
 @media (max-width: 900px) { .hide-reg { display: none; } }
 @media (max-width: 760px) { .bar, .table-wrap .pct, .sosrk { display: none; } }
-@media (max-width: 480px) { .hide-xs { display: none; } td, th { padding: 9px 5px; } .teamcell .logo { --sz: 28px !important; } .teamcell { gap: 8px; } }
+/* The sorted column always shows, even where its width would hide it */
+.table-wrap .keep { display: table-cell !important; }
+@media (max-width: 480px) { .table-wrap .yield { display: none; } }
 @media (max-width: 760px) { .hide-sm { display: none; } .bar { width: 56px; } td, th { padding: 9px 8px; } .teamcell small { display: none; } }
+@media (max-width: 480px) { .hide-xs { display: none; } td, th { padding: 9px 5px; } .teamcell .logo { --sz: 28px !important; } .teamcell { gap: 8px; } .lbl-long { display: none; } }
+.lbl-short { display: none; }
+@media (max-width: 480px) { .lbl-short { display: inline; } }
 
 .regions { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 16px; padding: 16px; }
 .class-label { grid-column: 1 / -1; font-family: "Barlow Condensed", sans-serif; font-weight: 800; font-size: 24px; text-transform: uppercase; margin: 8px 0 -4px; }
@@ -479,6 +491,8 @@ body.embed .drawer { width: 100%; box-shadow: none; transition: none; }
 .team-page { max-width: 920px; padding-top: 22px; padding-bottom: 20px; }
 .dmeta .fullpage { margin-left: 6px; color: var(--md-gold); font-weight: 700; white-space: nowrap; }
 .dmeta .fullpage:hover { text-decoration: underline; }
+/* Where the drawer already fills the screen, a "Full page" link adds nothing */
+@media (max-width: 660px) { .dmeta .fullpage { display: none; } }
 @media (max-width: 620px) { .team-hero { flex-direction: column; align-items: flex-start; } }
 
 /* Plain team summary in a team page's HTML (search engines; replaced by the full page once app.js runs) */

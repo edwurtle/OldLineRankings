@@ -423,25 +423,29 @@ function renderList(r, ts) {
     ...(r.c === "All" ? [{key: "cls", label: "Class", cls: "hide-xs"}] : []),
     {key: "region", label: "Region", cls: "hide-reg"}, {key: "record", label: "Record"},
     {key: "gp", label: "GP", cls: "num hide-md"}, {key: "gd", label: C.score.short, cls: "num hide-md"},
-    ...(SEEDS_BY_POINTS ? [{key: "pts", label: "MPSSAA total", cls: "num hide-lg"},
-      {key: "avg", label: "MPSSAA avg", cls: "num hide-sm", title: "MPSSAA playoff points per game (used for seeding)"}] : []),
+    ...(SEEDS_BY_POINTS ? [{key: "pts", label: "MPSSAA total", short: "Pts", cls: "num hide-lg"},
+      {key: "avg", label: "MPSSAA avg", short: "Avg", cls: "num hide-sm", title: "MPSSAA playoff points per game (used for seeding)"}] : []),
     {key: "sos", label: "SOS", cls: "num hide-xs", title: "Strength of schedule: average Old Line Rating of opponents played"},
     {key: "rating", label: "OLR", cls: "num", title: `Old Line Rating: ${C.score.plural} better than an average team`},
   ];
+  // Narrow screens hide some columns, but never the one the table is sorted by
+  // (on phones the OLR column makes room for it)
+  const k = key => sort.key === key ? " keep" : "";
+  const olr = "num" + (cols.some(c => c.key === sort.key && /hide-/.test(c.cls || "")) ? " yield" : "");
   el.innerHTML = `<div class="table-wrap"><table><thead><tr>${cols.map(c =>
-    `<th class="${c.cls || ""} ${sort.key === c.key ? "active" : ""}" data-sort="${c.key}"${c.title ? ` title="${c.title}"` : ""}>${c.label}<span class="arrow">${sort.key === c.key ? (sort.dir > 0 ? "▲" : "▼") : "↕"}</span></th>`).join("")}
+    `<th class="${c.key === "rating" ? olr : c.cls || ""} ${sort.key === c.key ? "active keep" : ""}" data-sort="${c.key}"${c.title ? ` title="${c.title}"` : ""}>${c.short ? `<span class="lbl-long">${c.label}</span><span class="lbl-short">${c.short}</span>` : c.label}<span class="arrow">${sort.key === c.key ? (sort.dir > 0 ? "▲" : "▼") : "↕"}</span></th>`).join("")}
   </tr></thead><tbody>${sorted(list).map(t => `
     <tr data-team="${esc(t.school)}">
       <td>${rkBadge(t.__rank)}</td>
       <td class="team-td"><div class="teamcell">${logo(t.school, 34)}<div><div class="nm">${esc(t.school)}</div><small>${esc(subline(t.school))}</small></div></div></td>
-      ${r.c === "All" ? `<td class="hide-xs"><span class="tag cls">${cl(t.cls)}</span></td>` : ""}
-      <td class="hide-reg"><span class="tag">${esc(t.region)}</span></td>
+      ${r.c === "All" ? `<td class="hide-xs${k("cls")}"><span class="tag cls">${cl(t.cls)}</span></td>` : ""}
+      <td class="hide-reg${k("region")}"><span class="tag">${esc(t.region)}</span></td>
       <td>${rec(t)}<span class="pct mono">${pctStr(t)}</span></td>
-      <td class="num mono hide-md">${t.gp}</td>
-      <td class="num mono hide-md">${t.gf}–${t.ga}</td>
-      ${SEEDS_BY_POINTS ? `<td class="num mono hide-lg">${n2(t.pts)}</td><td class="num mono hide-sm">${t.avg.toFixed(2)}</td>` : ""}
-      <td class="num hide-xs"><span class="sos mono">${fmtR(t.sos)}</span><span class="sosrk mono">#${r.c === "All" ? t.sosStateRank : t.sosRank}</span></td>
-      <td class="num"><div class="avgcell"><div class="bar"><i style="width:${Math.max(2, (t.rating - lo) / span * 100).toFixed(1)}%"></i></div><span class="avg mono">${fmtR(t.rating)}</span></div></td>
+      <td class="num mono hide-md${k("gp")}">${t.gp}</td>
+      <td class="num mono hide-md${k("gd")}">${t.gf}–${t.ga}</td>
+      ${SEEDS_BY_POINTS ? `<td class="num mono hide-lg${k("pts")}">${n2(t.pts)}</td><td class="num mono hide-sm${k("avg")}">${t.avg.toFixed(2)}</td>` : ""}
+      <td class="num hide-xs${k("sos")}"><span class="sos mono">${fmtR(t.sos)}</span><span class="sosrk mono">#${r.c === "All" ? t.sosStateRank : t.sosRank}</span></td>
+      <td class="${olr}"><div class="avgcell"><div class="bar"><i style="width:${Math.max(2, (t.rating - lo) / span * 100).toFixed(1)}%"></i></div><span class="avg mono">${fmtR(t.rating)}</span></div></td>
     </tr>`).join("")}</tbody></table></div>`;
 }
 
