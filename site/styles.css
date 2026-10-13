@@ -13,6 +13,8 @@
 }
 * { box-sizing: border-box; }
 html, body { margin: 0; }
+/* Overscroll (rubber-band) areas above the header and below the footer match their black */
+html { background: var(--md-black); }
 body { background: var(--bg); color: var(--text); font: 15px/1.5 Inter, system-ui, sans-serif; -webkit-font-smoothing: antialiased; min-height: 100vh; display: flex; flex-direction: column; }
 main { flex: 1; }
 a { color: inherit; text-decoration: none; }
