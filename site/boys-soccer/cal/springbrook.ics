@@ -6,7 +6,7 @@ X-WR-CALNAME:Springbrook Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-poolesville-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020803Z
+DTSTAMP:20261013T031725Z
 DTSTART;TZID=America/New_York:20260909T191500
 DTEND;TZID=America/New_York:20260909T211500
 SUMMARY:Boys Soccer: Springbrook at Poolesville
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-sherwood-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020803Z
+DTSTAMP:20261013T031725Z
 DTSTART;TZID=America/New_York:20260915T191500
 DTEND;TZID=America/New_York:20260915T211500
 SUMMARY:Boys Soccer: Springbrook at Sherwood
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-james-hubert-blake-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020803Z
+DTSTAMP:20261013T031725Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Springbrook at James Hubert Blake
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Springbrook 0\, James Hubert Blake 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-springbrook-paint-branch-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020803Z
+DTSTAMP:20261013T031725Z
 DTSTART;TZID=America/New_York:20260922T191500
 DTEND;TZID=America/New_York:20260922T211500
 SUMMARY:Boys Soccer: Paint Branch at Springbrook
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-gaithersburg-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020803Z
+DTSTAMP:20261013T031725Z
 DTSTART;TZID=America/New_York:20260925T191500
 DTEND;TZID=America/New_York:20260925T211500
 SUMMARY:Boys Soccer: Springbrook at Gaithersburg
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-col-zadok-magruder-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020803Z
+DTSTAMP:20261013T031725Z
 DTSTART;TZID=America/New_York:20260930T191500
 DTEND;TZID=America/New_York:20260930T211500
 SUMMARY:Boys Soccer: Springbrook at Col. Zadok Magruder
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-zadok-magruder-high-school-rockvi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-seneca-valley-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020803Z
+DTSTAMP:20261013T031725Z
 DTSTART;TZID=America/New_York:20261006T191500
 DTEND;TZID=America/New_York:20261006T211500
 SUMMARY:Boys Soccer: Springbrook at Seneca Valley
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-northwood-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020803Z
+DTSTAMP:20261013T031725Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Boys Soccer: Springbrook at Northwood
@@ -85,17 +85,17 @@ URL:https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-northwest-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020803Z
+DTSTAMP:20261013T031725Z
 DTSTART;TZID=America/New_York:20261012T191500
 DTEND;TZID=America/New_York:20261012T211500
 SUMMARY:Boys Soccer: Springbrook at Northwest
 LOCATION:Northwest
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/gamba7c7b49b0\nTickets: https://gofan.co/event/6707980
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/gamba7c7b49b0
 URL:https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/gamba7c7b49b0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-watkins-mill-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020803Z
+DTSTAMP:20261013T031725Z
 DTSTART;TZID=America/New_York:20261016T191500
 DTEND;TZID=America/New_York:20261016T211500
 SUMMARY:Boys Soccer: Springbrook at Watkins Mill
@@ -105,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-damascus-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020803Z
+DTSTAMP:20261013T031725Z
 DTSTART;TZID=America/New_York:20261020T171500
 DTEND;TZID=America/New_York:20261020T191500
 SUMMARY:Boys Soccer: Springbrook at Damascus
@@ -115,7 +115,7 @@ URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-clarksburg-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020803Z
+DTSTAMP:20261013T031725Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:Boys Soccer: Springbrook at Clarksburg
