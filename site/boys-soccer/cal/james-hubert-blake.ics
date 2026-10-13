@@ -6,7 +6,7 @@ X-WR-CALNAME:James Hubert Blake Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-albert-einstein-james-hubert-blake-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020321Z
+DTSTAMP:20261013T020803Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: James Hubert Blake at Albert Einstein
@@ -15,7 +15,7 @@ DESCRIPTION:Final: James Hubert Blake 3\, Albert Einstein 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-gaithersburg-james-hubert-blake-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020321Z
+DTSTAMP:20261013T020803Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: James Hubert Blake at Gaithersburg
@@ -24,7 +24,7 @@ DESCRIPTION:Final: James Hubert Blake 2\, Gaithersburg 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-james-hubert-blake-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020321Z
+DTSTAMP:20261013T020803Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Springbrook at James Hubert Blake
@@ -33,7 +33,7 @@ DESCRIPTION:Final: James Hubert Blake 8\, Springbrook 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-james-hubert-blake-paint-branch-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020321Z
+DTSTAMP:20261013T020803Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Paint Branch at James Hubert Blake
@@ -42,7 +42,7 @@ DESCRIPTION:Final: James Hubert Blake 2\, Paint Branch 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-col-zadok-magruder-james-hubert-blake-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020321Z
+DTSTAMP:20261013T020803Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: James Hubert Blake at Col. Zadok Magruder
@@ -51,7 +51,7 @@ DESCRIPTION:Final: James Hubert Blake 5\, Col. Zadok Magruder 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-sherwood-james-hubert-blake-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020321Z
+DTSTAMP:20261013T020803Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Boys Soccer: James Hubert Blake at Sherwood
@@ -60,7 +60,7 @@ DESCRIPTION:Final: James Hubert Blake 1\, Sherwood 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-walter-johnson-james-hubert-blake-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020321Z
+DTSTAMP:20261013T020803Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: James Hubert Blake at Walter Johnson
@@ -69,7 +69,7 @@ DESCRIPTION:Final: James Hubert Blake 0\, Walter Johnson 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-james-hubert-blake-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020321Z
+DTSTAMP:20261013T020803Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Wheaton at James Hubert Blake
@@ -78,7 +78,7 @@ DESCRIPTION:Final: James Hubert Blake 1\, Wheaton 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-james-hubert-blake-montgomery-blair-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020321Z
+DTSTAMP:20261013T020803Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Montgomery Blair at James Hubert Blake
@@ -87,7 +87,7 @@ DESCRIPTION:Final: James Hubert Blake 1\, Montgomery Blair 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-rockville-james-hubert-blake-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020321Z
+DTSTAMP:20261013T020803Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: James Hubert Blake at Rockville
@@ -95,7 +95,7 @@ LOCATION:Rockville
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-watkins-mill-james-hubert-blake-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020321Z
+DTSTAMP:20261013T020803Z
 DTSTART;TZID=America/New_York:20261020T180000
 DTEND;TZID=America/New_York:20261020T200000
 SUMMARY:Boys Soccer: James Hubert Blake at Watkins Mill
@@ -104,7 +104,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6706267
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-northwood-james-hubert-blake-boys-soccer@oldlinerankings
-DTSTAMP:20261013T020321Z
+DTSTAMP:20261013T020803Z
 DTSTART;TZID=America/New_York:20261023T171500
 DTEND;TZID=America/New_York:20261023T191500
 SUMMARY:Boys Soccer: James Hubert Blake at Northwood

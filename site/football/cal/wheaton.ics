@@ -6,7 +6,7 @@ X-WR-CALNAME:Wheaton Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-montgomery-blair-wheaton-football@oldlinerankings
-DTSTAMP:20261013T020252Z
+DTSTAMP:20261013T020723Z
 DTSTART;TZID=America/New_York:20260904T190000
 DTEND;TZID=America/New_York:20260904T210000
 SUMMARY:Football: Wheaton at Montgomery Blair
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/wheaton-high-school-silver-spring-md/gamc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-wheaton-springbrook-football@oldlinerankings
-DTSTAMP:20261013T020252Z
+DTSTAMP:20261013T020723Z
 DTSTART;TZID=America/New_York:20260910T183000
 DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Football: Springbrook at Wheaton
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-poolesville-wheaton-football@oldlinerankings
-DTSTAMP:20261013T020252Z
+DTSTAMP:20261013T020723Z
 DTSTART;TZID=America/New_York:20260918T183000
 DTEND;TZID=America/New_York:20260918T203000
 SUMMARY:Football: Wheaton at Poolesville
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/wheaton-high-school-silver-spring-md/gam0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-bethesda-cc-wheaton-football@oldlinerankings
-DTSTAMP:20261013T020252Z
+DTSTAMP:20261013T020723Z
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T203000
 SUMMARY:Football: Wheaton at Bethesda-CC
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-richard-montgomery-wheaton-football@oldlinerankings
-DTSTAMP:20261013T020252Z
+DTSTAMP:20261013T020723Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Football: Wheaton at Richard Montgomery
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/wheaton-high-school-silver-spring-md/gam4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-watkins-mill-wheaton-football@oldlinerankings
-DTSTAMP:20261013T020252Z
+DTSTAMP:20261013T020723Z
 DTSTART;TZID=America/New_York:20261009T190000
 DTEND;TZID=America/New_York:20261009T210000
 SUMMARY:Football: Wheaton at Watkins Mill
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-northwood-wheaton-football@oldlinerankings
-DTSTAMP:20261013T020252Z
+DTSTAMP:20261013T020723Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Football: Wheaton at Northwood
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-wheaton-john-f-kennedy-football@oldlinerankings
-DTSTAMP:20261013T020252Z
+DTSTAMP:20261013T020723Z
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:Football: John F. Kennedy at Wheaton
@@ -86,7 +86,7 @@ URL:https://www.nfhsnetwork.com/events/wheaton-high-school-silver-spring-md/gam4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-wheaton-albert-einstein-football@oldlinerankings
-DTSTAMP:20261013T020252Z
+DTSTAMP:20261013T020723Z
 DTSTART;TZID=America/New_York:20261029T190000
 DTEND;TZID=America/New_York:20261029T210000
 SUMMARY:Football: Albert Einstein at Wheaton

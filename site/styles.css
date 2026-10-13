@@ -53,9 +53,9 @@ button, select, input { font: inherit; color: inherit; }
 @media (max-width: 640px) {
   .brand-text small { display: none; } .brand-text b { font-size: 16px; }
   .nav-inner { flex-wrap: wrap; row-gap: 8px; padding: 8px 12px; }
-  .nav-links { margin-left: 0; width: 100%; overflow-x: auto; scrollbar-width: none; }
-  .nav-links::-webkit-scrollbar { display: none; }
-  .nav-links a { flex: 1 0 auto; text-align: center; padding: 7px 10px; font-size: 13.5px; }
+  /* Not a scrolling box: iPhone Safari left a sliver of the old gold tab behind when the active tab changed */
+  .nav-links { margin-left: 0; width: 100%; flex-wrap: wrap; gap: 2px; }
+  .nav-links a { flex: 1 1 auto; text-align: center; padding: 7px 6px; font-size: 13.5px; }
 }
 
 /* Hero */

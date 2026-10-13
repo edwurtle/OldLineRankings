@@ -21,6 +21,12 @@ import gofan, icons, nfhs, oldline
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
+# Scores MPSSAA is missing, filled in by hand: site key -> {(date, team, opponent): (team score, opponent score)}.
+# Only used when MPSSAA has no score for the game; its result still decides who won.
+SCORE_FIXES = {
+    "football": {("2026-09-04", "Linganore", "Mergenthaler"): (29, 28)},
+}
+
 # Canonical address of the site (search engines, link previews, sitemap)
 SITE_URL = "https://oldlinerankings.com"
 
@@ -296,6 +302,7 @@ def build_site(key, cfg, nonce, stamp):
     sports = {}
     for div, d in cfg["divisions"].items():
         raw, standings = fetch(d["api"], nonce)
+        fill_scores(raw, SCORE_FIXES.get(key, {}))
         teams = rank_sport(raw, standings, cfg["classes"], cfg.get("first_meeting_only", False))
         for t in teams:
             t["slug"] = slug(t["school"])   # the team's own page: /<sport>/<slug>/
@@ -466,6 +473,23 @@ def write_section_pages(out, page, cfg, sports, rel, sport_description):
         (out / path / "index.html").write_text(
             page_variant(page, cfg, rel, sport_description, path, title, desc, title.split(" · ")[0], static, canonical=canonical))
     return [path for path, *_, canonical in pages if not canonical]
+
+
+def fill_scores(raw, fixes):
+    """Fill in hand-entered scores (SCORE_FIXES) where MPSSAA's entry has none, from either team's side."""
+    for x in raw:
+        for (date, a, b), (sa, sb) in fixes.items():
+            if x["game_date"] != date or x["your_score"] is not None:
+                continue
+            if (x["school"], x["opponent"]) == (a, b):
+                x["your_score"], x["opponent_score"] = sa, sb
+            elif (x["school"], x["opponent"]) == (b, a):
+                x["your_score"], x["opponent_score"] = sb, sa
+            else:
+                continue
+            home = x.get("home_team")
+            if home and x.get("home_score") is None:
+                x["home_score"], x["away_score"] = (x["your_score"], x["opponent_score"]) if home == x["school"] else (x["opponent_score"], x["your_score"])
 
 
 def slug(name):
