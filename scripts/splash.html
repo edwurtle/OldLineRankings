@@ -51,10 +51,7 @@
         <p>Every Maryland public high school team, ranked by who they beat and how. Refreshed every night from MPSSAA results.</p>
         <div class="sport-links">{{sportlinks}}</div>
       </div>
-      <div class="hero-art">
-        <div class="hero-flag" data-flag></div>
-        {{board}}
-      </div>
+      <div class="hero-flag" data-flag></div>
     </div>
   </section>
   <div class="wrap">
@@ -114,15 +111,6 @@
     scrim.addEventListener("click", close);
     document.addEventListener("keydown", e => { if (e.key === "Escape") close(); });
     addEventListener("message", e => { if (e.data === "olr-close-team") close(); });
-
-    // Hero leaderboard: sport tabs, rotating every few seconds until someone picks one
-    const tabs = [...document.querySelectorAll("[data-hb]")];
-    let cur = 0, timer;
-    const show = i => { cur = i; tabs.forEach((t, j) => t.setAttribute("aria-selected", j === i));
-      document.querySelectorAll("[data-hb-panel]").forEach((p, j) => p.hidden = j !== i); };
-    tabs.forEach((t, i) => t.addEventListener("click", () => { clearInterval(timer); show(i); }));
-    if (tabs.length > 1 && !matchMedia("(prefers-reduced-motion: reduce)").matches)
-      timer = setInterval(() => show((cur + 1) % tabs.length), 6000);
 
     // Tickets: same warning as the sport pages before sending buyers to GoFan
     document.addEventListener("click", e => {
