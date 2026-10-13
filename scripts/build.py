@@ -576,6 +576,25 @@ def write_splash(built, stamp):
       <span class="sport-go">Old Line {esc(cfg["sport"])} Rankings →</span></a>''')
     coming = [f'''<div class="sport-card soon"><div class="sport-top"><span class="sport-icon">{icons.svg(c["icon"])}</span>
       <div><h2>{esc(c["sport"])}</h2><small>{esc(c["note"])}</small></div></div></div>''' for c in COMING]
+    # Hero: each sport's statewide top 5 by Old Line Rating, one tab per sport (the splash rotates through them)
+    tabs, lists = [], []
+    for i, b in enumerate(built):
+        cfg = b["cfg"]
+        top = sorted((t for s in b["sports"].values() for t in s["teams"]), key=lambda t: t["stateRank"])[:5]
+        rows = []
+        for t in top:
+            logo = (b["schools"].get(t["school"]) or {}).get("logo")
+            img = f'<img src="{esc(logo[3:])}" alt="" loading="lazy">' if logo else ""
+            rec = f'{t["W"]}-{t["L"]}' + (f'-{t["T"]}' if cfg.get("ties") else "")
+            olr = f'{t["rating"]:+.{cfg["olr"].get("digits", 1)}f}' if cfg.get("olr") else f'{t["rating"]:.2f}'
+            rows.append(f'<li><a href="{b["href"]}{t["slug"]}/"><span class="hb-n">{t["stateRank"]}</span><span class="logo" style="--sz:30px">{img}</span>'
+                        f'<span class="hb-who"><b>{esc(t["school"])}</b><small>{esc(cfg.get("labels", {}).get(t["cls"], t["cls"]))} · {rec}</small></span>'
+                        f'<span class="hb-olr">{olr}</span></a></li>')
+        tabs.append(f'<button type="button" data-hb="{i}" aria-selected="{str(not i).lower()}">{icons.svg(cfg["icon"])}{esc(cfg["sport"])}</button>')
+        lists.append(f'<div class="hb-panel" data-hb-panel="{i}"{"" if not i else " hidden"}><ol>{"".join(rows)}</ol>'
+                     f'<a class="hb-foot" href="{b["href"]}rankings/">All {esc(cfg["sport"].lower())} rankings →</a></div>')
+    board = (f'<div class="hero-board"><div class="hb-head"><span class="eyebrow">Statewide top 5</span><span class="hb-key">OLR</span></div>'
+             f'<div class="hb-tabs" role="tablist">{"".join(tabs)}</div>{"".join(lists)}</div>')
     # Games of the week: one per sport
     gotw = []
     for b in built:
@@ -619,7 +638,7 @@ def write_splash(built, stamp):
     updated = f'Games through {datetime.date.fromisoformat(through):%B %-d, %Y} · updated {datetime.datetime.now():%b %-d, %Y}'
     description = ("Rankings, schedules, playoff brackets and games of the week for every Maryland public high school team: "
                    + ", ".join(b["cfg"]["sport"].lower() for b in built) + ". Updated nightly from MPSSAA results.")
-    for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), gotw=gotw_html, sportlinks=links, family=family, updated=updated,
+    for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), gotw=gotw_html, board=board, sportlinks=links, family=family, updated=updated,
                      description=description, site_url=SITE_URL,
                      favicon=icons.favicon(), stamp=stamp).items():
         page = page.replace("{{" + k + "}}", v)
