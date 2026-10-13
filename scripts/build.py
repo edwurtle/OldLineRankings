@@ -403,7 +403,7 @@ def game_of_week(b, days=7):
                 home, away = (t, teams[u["opp"]]) if u["home"] else (teams[u["opp"]], t)
                 key = (u["date"], home["school"], away["school"])
                 p = oldline.win_prob(home["rating"], away["rating"], 1, home_edge, cfg["olr"]["k"])
-                best[key] = dict(div=div, date=u["date"], time=u.get("time"), watch=u["watch"], home=home, away=away, p=p,
+                best[key] = dict(div=div, date=u["date"], time=u.get("time"), watch=u["watch"], tickets=u.get("tickets"), home=home, away=away, p=p,
                                  fav=max(p, 1 - p), strength=(home["rating"] + away["rating"]) / 2)
     for limit in (.75, .85):
         close = [g for g in best.values() if g["fav"] <= limit]
@@ -434,7 +434,6 @@ def write_splash(built, stamp):
         cards.append(f'''<a class="sport-card" href="{b["href"]}">
       <div class="sport-top"><span class="sport-icon">{icons.svg(cfg["icon"])}</span><div><h2>{esc(cfg["sport"])}</h2>
         <small>{esc(" · ".join(filter(None, [divs, cfg["season"] + " " + through[:4], f"{teams} teams", f"through {date}"])))}</small></div></div>
-      <div class="leaders-head">Top Old Line Rating <span>· by class</span></div>
       <ul class="leaders">{"".join(leaders)}</ul>
       <span class="sport-go">Old Line {esc(cfg["sport"])} Rankings →</span></a>''')
     coming = [f'''<div class="sport-card soon"><div class="sport-top"><span class="sport-icon">{icons.svg(c["icon"])}</span>
@@ -452,7 +451,8 @@ def write_splash(built, stamp):
             rec = f'{t["W"]}-{t["L"]}' + (f'-{t["T"]}' if cfg.get("ties") else "")
             cls = cfg.get("labels", {}).get(t["cls"], t["cls"])
             link = f'{b["href"]}#/{g["div"]}/All?team={urllib.parse.quote(t["school"])}'
-            return (f'<a class="gw-team" href="{esc(link)}"><span class="logo" style="--sz:40px">{img}</span>'
+            # data-panel: the splash page opens this team's drawer in a side panel instead of leaving the page
+            return (f'<a class="gw-team" href="{esc(link)}" data-panel="{esc(b["href"] + "?embed=1#/" + g["div"] + "/All?team=" + urllib.parse.quote(t["school"]))}"><span class="logo" style="--sz:40px">{img}</span>'
                     f'<span class="gw-who"><b>{esc(t["school"])}</b><small>{esc(cls)} · #{t["rank"]} in class · {rec}</small></span>'
                     f'<span class="gw-p">{round(100 * chance)}%</span></a>')
         day = datetime.date.fromisoformat(g["date"])
@@ -465,13 +465,17 @@ def write_splash(built, stamp):
       {side(g["away"], 1 - g["p"])}
       <div class="gw-at">at</div>
       {side(g["home"], g["p"])}
-      <a class="gw-watch" href="{esc(g["watch"])}" target="_blank" rel="noopener">▶ Watch on NFHS Network</a>
+      <div class="gw-actions"><a class="gw-watch" href="{esc(g["watch"])}" target="_blank" rel="noopener">▶ Watch on NFHS Network</a>{
+        f'<a class="gw-tix" href="{esc(g["tickets"])}" target="_blank" rel="noopener" data-game="{esc(g["away"]["school"] + " at " + g["home"]["school"])}" data-when="{esc(when)}">Tickets</a>' if g["tickets"] else ""}</div>
     </div>''')
     page = (ROOT / "scripts" / "splash.html").read_text()
     gotw_html = ('<section class="section"><div class="section-head"><div><div class="eyebrow">This week</div><h2>Games of the week</h2>'
                  '<p>The best matchups with a live stream, picked by Old Line Rating. Percentages are each team\'s chance to win.</p></div></div>'
                  f'<div class="gw-grid">{"".join(gotw)}</div></section>') if gotw else ""
-    for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), gotw=gotw_html, favicon=icons.favicon(), stamp=stamp).items():
+    links = "".join(f'<a class="btn {"gold" if i == 0 else "ghost"}" href="{b["href"]}">{icons.svg(b["cfg"]["icon"])}{esc(b["cfg"]["sport"])}</a>'
+                    for i, b in enumerate(built))
+    for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), gotw=gotw_html, sportlinks=links,
+                     favicon=icons.favicon(), stamp=stamp).items():
         page = page.replace("{{" + k + "}}", v)
     (ROOT / "site" / "index.html").write_text(page)
     print("Wrote site/index.html (splash)")

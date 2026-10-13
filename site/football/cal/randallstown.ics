@@ -6,7 +6,7 @@ X-WR-CALNAME:Randallstown Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-randallstown-south-river-football@oldlinerankings
-DTSTAMP:20261013T000247Z
+DTSTAMP:20261013T000746Z
 DTSTART;TZID=America/New_York:20260904T181500
 DTEND;TZID=America/New_York:20260904T201500
 SUMMARY:Football: South River at Randallstown
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-randallstown-baltimore-city-college-football@oldlinerankings
-DTSTAMP:20261013T000247Z
+DTSTAMP:20261013T000746Z
 DTSTART;TZID=America/New_York:20260910T173000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:Football: Baltimore City College at Randallstown
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/randallstown-high-school-randallstown-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-randallstown-woodlawn-football@oldlinerankings
-DTSTAMP:20261013T000247Z
+DTSTAMP:20261013T000746Z
 DTSTART;TZID=America/New_York:20260918T163000
 DTEND;TZID=America/New_York:20260918T183000
 SUMMARY:Football: Woodlawn at Randallstown
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/randallstown-high-school-randallstown-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-randallstown-hereford-football@oldlinerankings
-DTSTAMP:20261013T000247Z
+DTSTAMP:20261013T000746Z
 DTSTART;TZID=America/New_York:20260925T163000
 DTEND;TZID=America/New_York:20260925T183000
 SUMMARY:Football: Hereford at Randallstown
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/randallstown-high-school-randallstown-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-randallstown-catonsville-football@oldlinerankings
-DTSTAMP:20261013T000247Z
+DTSTAMP:20261013T000746Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: Catonsville at Randallstown
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-owings-mills-randallstown-football@oldlinerankings
-DTSTAMP:20261013T000247Z
+DTSTAMP:20261013T000746Z
 DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Football: Randallstown at Owings Mills
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/owings-mills-high-school-owings-mills-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-randallstown-new-town-football@oldlinerankings
-DTSTAMP:20261013T000247Z
+DTSTAMP:20261013T000746Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Football: New Town at Randallstown
@@ -74,7 +74,7 @@ LOCATION:Randallstown
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-randallstown-milford-mill-academy-football@oldlinerankings
-DTSTAMP:20261013T000247Z
+DTSTAMP:20261013T000746Z
 DTSTART;TZID=America/New_York:20261023T170000
 DTEND;TZID=America/New_York:20261023T190000
 SUMMARY:Football: Milford Mill Academy at Randallstown
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gam6058
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-randallstown-franklin-football@oldlinerankings
-DTSTAMP:20261013T000247Z
+DTSTAMP:20261013T000746Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Football: Franklin at Randallstown

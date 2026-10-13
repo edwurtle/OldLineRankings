@@ -37,6 +37,7 @@
         <div class="eyebrow">Maryland Public High School Sports</div>
         <h1>Old Line<br><span>Rankings</span></h1>
         <p>Every Maryland public high school team, ranked by who they beat and how. Refreshed every night from MPSSAA results.</p>
+        <div class="sport-links">{{sportlinks}}</div>
       </div>
       <div class="hero-flag" data-flag></div>
     </div>
@@ -44,7 +45,7 @@
   <div class="wrap">
     {{gotw}}
     <section class="section">
-      <div class="section-head"><div><div class="eyebrow">Choose a sport</div><h2>Rankings</h2></div></div>
+      <div class="section-head"><div><div class="eyebrow">By class</div><h2>Current top Old Line Ratings</h2></div></div>
       <div class="sport-grid">
     {{cards}}
       </div>
@@ -79,5 +80,46 @@
   </div>
 </footer>
 <script src="flag.js?v={{stamp}}"></script>
+<div class="team-scrim" id="teamScrim"></div>
+<aside class="team-panel" id="teamPanel" aria-hidden="true"><iframe id="teamFrame" title="Team"></iframe></aside>
+<script>
+  // Games of the week: open a team's drawer (from its sport's site) in a side panel, staying on this page
+  (() => {
+    const panel = document.getElementById("teamPanel"), scrim = document.getElementById("teamScrim"), frame = document.getElementById("teamFrame");
+    const close = () => { panel.classList.remove("open"); scrim.classList.remove("open"); panel.setAttribute("aria-hidden", "true"); };
+    document.addEventListener("click", e => {
+      const a = e.target.closest("[data-panel]");
+      if (!a || e.metaKey || e.ctrlKey) return;  // modified clicks still open the full page
+      e.preventDefault();
+      frame.src = a.dataset.panel;
+      panel.classList.add("open"); scrim.classList.add("open"); panel.setAttribute("aria-hidden", "false");
+    });
+    scrim.addEventListener("click", close);
+    document.addEventListener("keydown", e => { if (e.key === "Escape") close(); });
+    addEventListener("message", e => { if (e.data === "olr-close-team") close(); });
+
+    // Tickets: same warning as the sport pages before sending buyers to GoFan
+    document.addEventListener("click", e => {
+      const a = e.target.closest("a.gw-tix");
+      if (!a) return;
+      e.preventDefault();
+      let m = document.getElementById("tixModal");
+      if (!m) {
+        m = document.createElement("div"); m.id = "tixModal"; m.className = "modal";
+        m.innerHTML = `<div class="modal-box" role="dialog" aria-modal="true"><h3>Check the game before you buy</h3>
+          <p class="tix-game"><b></b><br><span></span></p>
+          <p>Tickets are sold by <b>GoFan</b>, not Old Line Rankings. We match games to GoFan automatically, so please make sure the
+            teams, date and time on GoFan are the game you want before buying. Old Line Rankings isn't responsible for purchases made through these links.</p>
+          <div class="modal-actions"><button class="btn ghost" data-close>Cancel</button><a class="btn gold" target="_blank" rel="noopener" data-go>Continue to GoFan →</a></div></div>`;
+        document.body.appendChild(m);
+        m.addEventListener("click", ev => { if (ev.target === m || ev.target.closest("[data-close], [data-go]")) m.classList.remove("open"); });
+      }
+      m.querySelector(".tix-game b").textContent = a.dataset.game;
+      m.querySelector(".tix-game span").textContent = a.dataset.when;
+      m.querySelector("[data-go]").href = a.href;
+      m.classList.add("open");
+    });
+  })();
+</script>
 </body>
 </html>

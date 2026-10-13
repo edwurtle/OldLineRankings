@@ -847,7 +847,10 @@ document.getElementById("dBody").addEventListener("click", e => {
   const b = e.target.closest("button[data-team]");
   if (b) go({team: b.dataset.team});
 });
-const close = () => go({team: null});
+// Embedded in the splash page's team panel (?embed): show only the drawer; closing tells the splash page
+const EMBED = new URLSearchParams(location.search).has("embed");
+if (EMBED) document.body.classList.add("embed");
+const close = () => EMBED ? parent.postMessage("olr-close-team", "*") : go({team: null});
 scrim.addEventListener("click", close);
 document.getElementById("close").addEventListener("click", close);
 document.addEventListener("keydown", e => { if (e.key === "Escape" && drawer.classList.contains("open")) close(); });

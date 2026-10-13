@@ -453,6 +453,19 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 .modal-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 6px; }
 .modal-actions .btn.ghost { background: var(--surface-2); color: var(--text); box-shadow: inset 0 0 0 1px var(--border); }
 
+/* Embedded team drawer (splash page panel): just the drawer, full width */
+body.embed .nav, body.embed main, body.embed .footer, body.embed .scrim { display: none; }
+body.embed .drawer { width: 100%; box-shadow: none; transition: none; }
+/* Splash: team panel that loads a sport's team drawer */
+.team-panel { position: fixed; top: 0; right: 0; height: 100%; width: min(660px, 100%); z-index: 41; transform: translateX(100%); transition: transform .26s cubic-bezier(.2,.8,.2,1);
+  box-shadow: -12px 0 40px rgba(0,0,0,.3); background: var(--bg); }
+.team-panel.open { transform: none; }
+.team-panel iframe { width: 100%; height: 100%; border: 0; display: block; }
+.team-scrim { position: fixed; inset: 0; z-index: 40; background: rgba(0,0,0,.55); opacity: 0; pointer-events: none; transition: opacity .2s; }
+.team-scrim.open { opacity: 1; pointer-events: auto; }
+.hero .sport-links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
+.hero .sport-links .btn .icon { width: 18px; height: 18px; }
+
 /* Splash: games of the week */
 .gw-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 18px; }
 .gw-card { display: flex; flex-direction: column; background: var(--surface); border: 1px solid var(--border); border-radius: 18px; box-shadow: var(--shadow); overflow: hidden; }
@@ -467,7 +480,11 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 .gw-who small { font-size: 12px; color: var(--muted); }
 .gw-p { font-family: "JetBrains Mono", monospace; font-size: 18px; font-weight: 700; }
 .gw-at { padding: 0 16px 0 68px; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: var(--faint); }
-.gw-watch { margin: auto 16px 16px; padding: 10px; border-radius: 10px; background: var(--md-red); color: #fff; text-align: center; font-weight: 700; }
+.gw-actions { display: flex; gap: 8px; margin: auto 16px 16px; }
+.gw-watch, .gw-tix { padding: 10px 14px; border-radius: 10px; text-align: center; font-weight: 700; }
+.gw-watch { flex: 1; background: var(--md-red); color: #fff; }
+.gw-tix { background: var(--md-gold); color: var(--md-black); }
+.gw-tix:hover { filter: brightness(1.05); }
 .gw-watch:hover { filter: brightness(1.08); }
 
 /* Splash: where the name comes from */

@@ -6,7 +6,7 @@ X-WR-CALNAME:Bethesda-CC Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-tuscarora-bethesda-cc-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20260905T170000
 DTEND;TZID=America/New_York:20260905T190000
 SUMMARY:Boys Soccer: Bethesda-CC at Tuscarora
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam08e5f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-northwest-bethesda-cc-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20260908T191500
 DTEND;TZID=America/New_York:20260908T211500
 SUMMARY:Boys Soccer: Bethesda-CC at Northwest
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam18
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-thomas-s-wootton-bethesda-cc-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20260914T191500
 DTEND;TZID=America/New_York:20260914T211500
 SUMMARY:Boys Soccer: Bethesda-CC at Thomas S. Wootton
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-wootton-high-school-rockville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-bethesda-cc-winston-churchill-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20260916T191500
 DTEND;TZID=America/New_York:20260916T211500
 SUMMARY:Boys Soccer: Winston Churchill at Bethesda-CC
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-bethesda-cc-quince-orchard-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20260922T191500
 DTEND;TZID=America/New_York:20260922T211500
 SUMMARY:Boys Soccer: Quince Orchard at Bethesda-CC
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-bethesda-cc-walt-whitman-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20260928T191500
 DTEND;TZID=America/New_York:20260928T211500
 SUMMARY:Boys Soccer: Walt Whitman at Bethesda-CC
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-bethesda-cc-walter-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20261002T191500
 DTEND;TZID=America/New_York:20261002T211500
 SUMMARY:Boys Soccer: Walter Johnson at Bethesda-CC
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-watkins-mill-bethesda-cc-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20261006T191500
 DTEND;TZID=America/New_York:20261006T211500
 SUMMARY:Boys Soccer: Bethesda-CC at Watkins Mill
@@ -86,7 +86,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-bethesda-cc-gaithersburg-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20261009T191500
 DTEND;TZID=America/New_York:20261009T211500
 SUMMARY:Boys Soccer: Gaithersburg at Bethesda-CC
@@ -96,17 +96,17 @@ URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-bethesda-cc-albert-einstein-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20261012T191500
 DTEND;TZID=America/New_York:20261012T211500
 SUMMARY:Boys Soccer: Albert Einstein at Bethesda-CC
 LOCATION:Bethesda-CC
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gamd404e48c48
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gamd404e48c48\nTickets: https://gofan.co/event/6706555
 URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gamd404e48c48
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-bethesda-cc-montgomery-blair-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20261014T171500
 DTEND;TZID=America/New_York:20261014T191500
 SUMMARY:Boys Soccer: Montgomery Blair at Bethesda-CC
@@ -116,7 +116,7 @@ URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-northwood-bethesda-cc-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20261019T191500
 DTEND;TZID=America/New_York:20261019T211500
 SUMMARY:Boys Soccer: Bethesda-CC at Northwood
@@ -126,7 +126,7 @@ URL:https://www.nfhsnetwork.com/events/northwood-high-school-silver-spring-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-bethesda-cc-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20261022T191500
 DTEND;TZID=America/New_York:20261022T211500
 SUMMARY:Boys Soccer: Wheaton at Bethesda-CC

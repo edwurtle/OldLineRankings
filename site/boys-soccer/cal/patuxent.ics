@@ -6,7 +6,7 @@ X-WR-CALNAME:Patuxent Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-patuxent-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: St. Charles at Patuxent
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Patuxent 5\, St. Charles 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-patuxent-thomas-stone-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20260910T163000
 DTEND;TZID=America/New_York:20260910T183000
 SUMMARY:Boys Soccer: Thomas Stone at Patuxent
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam09d4e3e4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-patuxent-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: North Point at Patuxent
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Patuxent 1\, North Point 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-patuxent-la-plata-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: La Plata at Patuxent
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Patuxent 0\, La Plata 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-patuxent-mcdonough-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20260924T163000
 DTEND;TZID=America/New_York:20260924T183000
 SUMMARY:Boys Soccer: McDonough at Patuxent
@@ -53,7 +53,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam15b4b9a5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-patuxent-westlake-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20260929T184500
 DTEND;TZID=America/New_York:20260929T204500
 SUMMARY:Boys Soccer: Westlake at Patuxent
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam51218184
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-patuxent-henry-e-lackey-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20261001T180000
 DTEND;TZID=America/New_York:20261001T200000
 SUMMARY:Boys Soccer: Henry E. Lackey at Patuxent
@@ -73,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gamc19c6e43
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-patuxent-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: Huntingtown at Patuxent
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-patuxent-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: Great Mills at Patuxent
@@ -93,7 +93,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam01cd3b3e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-patuxent-calvert-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20261013T181500
 DTEND;TZID=America/New_York:20261013T201500
 SUMMARY:Boys Soccer: Calvert at Patuxent
@@ -103,7 +103,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gamdda20b0b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-patuxent-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;TZID=America/New_York:20261019T163000
 DTEND;TZID=America/New_York:20261019T183000
 SUMMARY:Boys Soccer: Northern-C at Patuxent
@@ -113,7 +113,7 @@ URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamfbb146b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-patuxent-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000318Z
+DTSTAMP:20261013T000829Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Boys Soccer: Friendly at Patuxent
