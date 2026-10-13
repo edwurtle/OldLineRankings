@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /soccer/
+
+Sitemap: https://oldlinerankings.com/sitemap.xml

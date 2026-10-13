@@ -21,6 +21,9 @@ import gofan, icons, nfhs, oldline
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
+# Canonical address of the site (search engines, link previews, sitemap)
+SITE_URL = "https://oldlinerankings.com"
+
 # Boys and girls soccer are separate sites that share everything but the division
 SOCCER = dict(
     icon="soccer", season="Fall", activity="Soccer",   # activity: the sport's name on NFHS Network / GoFan
@@ -102,11 +105,12 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
            for c, rs in standings["classifications"].items() for r in rs for t in r["teams"]}
 
     def norm(name):
+        # Exact name, then a known alias, then without " HS", but only if that is a team in this sport
         name = name.strip()
-        if name in ALIAS:
-            return ALIAS[name]
-        bare = re.sub(r"\s+HS$", "", name)
-        return bare if bare in std else name
+        for cand in (name, ALIAS.get(name), re.sub(r"\s+HS$", "", name)):
+            if cand and cand in std:
+                return cand
+        return ALIAS.get(name, name)
 
     # Some football rows have only a week number. Date them from the same matchup's other
     # entry in that week, else from the most common date that week.
@@ -141,6 +145,9 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
     unplayed = {}  # (date, a, b) -> (home team, postponed?)
     for x in raw_games:
         r = RES.get(x["result"])
+        # Some games are posted as completed with a score but no result: take the result from the score
+        if not r and x.get("status") == "completed" and x["your_score"] is not None and x["opponent_score"] is not None:
+            r = "W" if x["your_score"] > x["opponent_score"] else "L" if x["your_score"] < x["opponent_score"] else "T"
         a, b = norm(x["school"]), norm(x["opponent"])
         x = dict(x, game_date=same_game.get((frozenset((a, b)), x["game_date"]), x["game_date"]))
         sa, sb, home = x["your_score"], x["opponent_score"], a
@@ -151,7 +158,7 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
             if x["result"] != "Cancelled" and x["game_date"]:
                 unplayed[(x["game_date"], a, b)] = (home, x["result"] == "Postponed")
             continue
-        entries[(x["game_date"], a, b)].append((r, sa, sb, home, x["result"].startswith("Forfeit")))
+        entries[(x["game_date"], a, b)].append((r, sa, sb, home, (x["result"] or "").startswith("Forfeit")))
     if first_meeting_only:
         # Only the first meeting between two teams counts (football bulletin II.A.2.h); this also
         # drops repeat entries the source has under the wrong date. Later scheduled repeats are dropped too.
@@ -176,8 +183,15 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
         pairs[(a, b)].append(dt)
     today = datetime.date.today().isoformat()
     upcoming = collections.defaultdict(list)
+    stale = (datetime.date.today() - datetime.timedelta(days=7)).isoformat()
     for (dt, a, b), (home, postponed) in unplayed.items():
-        if (dt, a, b) in entries or (postponed and any(d > dt for d in pairs[(a, b)])):
+        if (dt, a, b) in entries:
+            continue
+        # A game whose date has passed without a result is dropped if the same matchup appears again later
+        # (rescheduled) or if it is more than a week old (cancelled or never reported); otherwise "pending"
+        if (postponed or dt < today) and any(d > dt for d in pairs[(a, b)]):
+            continue
+        if dt < stale:
             continue
         status = "postponed" if postponed else ("pending" if dt < today else "scheduled")
         upcoming[a].append(dict(date=dt, opp=b, home=home == a, status=status))
@@ -323,7 +337,11 @@ def build_site(key, cfg, nonce, stamp):
     (out / "data.js").write_text("window.DATA = " + json.dumps(data, separators=(",", ":")) + ";\n")
     # Every site shares one page shell; asset links are cache-busted so browsers pick up new data/code
     page = (ROOT / "scripts" / "page.html").read_text()
-    for k, v in dict(root=root, sport=cfg["sport"], sport_lower=cfg["sport"].lower(), favicon=icons.favicon(cfg["icon"]), stamp=stamp).items():
+    rel = "".join(p + "/" for p in pathlib.Path(cfg["out"]).parts[1:])
+    description = (f"Rankings, schedules, playoff brackets and live-stream links for every Maryland public high school "
+                   f"{cfg['sport'].lower()} team, Class 1A through 4A, updated nightly from MPSSAA results.")
+    for k, v in dict(root=root, sport=cfg["sport"], sport_lower=cfg["sport"].lower(), favicon=icons.favicon(cfg["icon"]), stamp=stamp,
+                     description=description, url=f"{SITE_URL}/{rel}", site_url=SITE_URL).items():
         page = page.replace("{{" + k + "}}", v)
     (out / "index.html").write_text(page)
     print(f"Wrote {cfg['out']}/")
@@ -479,11 +497,20 @@ def write_splash(built, stamp):
         f'<span class="soon" title="{esc(c["note"])}">{icons.svg(c["icon"])}{esc(c["sport"])} <small>soon</small></span>' for c in COMING)
     through = max(s["through"] for b in built for s in b["sports"].values() if s["through"])
     updated = f'Games through {datetime.date.fromisoformat(through):%B %-d, %Y} · updated {datetime.datetime.now():%b %-d, %Y}'
+    description = ("Rankings, schedules, playoff brackets and games of the week for every Maryland public high school team: "
+                   + ", ".join(b["cfg"]["sport"].lower() for b in built) + ". Updated nightly from MPSSAA results.")
     for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), gotw=gotw_html, sportlinks=links, family=family, updated=updated,
+                     description=description, site_url=SITE_URL,
                      favicon=icons.favicon(), stamp=stamp).items():
         page = page.replace("{{" + k + "}}", v)
     (ROOT / "site" / "index.html").write_text(page)
     print("Wrote site/index.html (splash)")
+    # Search engines: every page's address, and where to find that list
+    today = datetime.date.today().isoformat()
+    urls = [f"{SITE_URL}/"] + [f"{SITE_URL}/{b['href']}" for b in built]
+    (ROOT / "site" / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + "".join(f"  <url><loc>{u}</loc><lastmod>{today}</lastmod><changefreq>daily</changefreq></url>\n" for u in urls) + "</urlset>\n")
+    (ROOT / "site" / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /soccer/\n\nSitemap: {SITE_URL}/sitemap.xml\n")
 
 
 def main():

@@ -6,7 +6,7 @@ X-WR-CALNAME:Henry E. Lackey Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-henry-e-lackey-st-charles-football@oldlinerankings
-DTSTAMP:20261013T002534Z
+DTSTAMP:20261013T003433Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: St. Charles at Henry E. Lackey
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gam3c58
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-henry-e-lackey-north-point-football@oldlinerankings
-DTSTAMP:20261013T002534Z
+DTSTAMP:20261013T003433Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Football: North Point at Henry E. Lackey
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Henry E. Lackey 27\, North Point 25
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-henry-e-lackey-leonardtown-football@oldlinerankings
-DTSTAMP:20261013T002534Z
+DTSTAMP:20261013T003433Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Leonardtown at Henry E. Lackey
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gam99e1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-calvert-henry-e-lackey-football@oldlinerankings
-DTSTAMP:20261013T002534Z
+DTSTAMP:20261013T003433Z
 DTSTART;TZID=America/New_York:20260918T180000
 DTEND;TZID=America/New_York:20260918T200000
 SUMMARY:Football: Henry E. Lackey at Calvert
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-huntingtown-henry-e-lackey-football@oldlinerankings
-DTSTAMP:20261013T002534Z
+DTSTAMP:20261013T003433Z
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T200000
 SUMMARY:Football: Henry E. Lackey at Huntingtown
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gam3544
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-mcdonough-henry-e-lackey-football@oldlinerankings
-DTSTAMP:20261013T002534Z
+DTSTAMP:20261013T003433Z
 DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T140000
 SUMMARY:Football: Henry E. Lackey at McDonough
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gam1d4f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-la-plata-henry-e-lackey-football@oldlinerankings
-DTSTAMP:20261013T002534Z
+DTSTAMP:20261013T003433Z
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T200000
 SUMMARY:Football: Henry E. Lackey at La Plata
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam24fd4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-henry-e-lackey-great-mills-football@oldlinerankings
-DTSTAMP:20261013T002534Z
+DTSTAMP:20261013T003433Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Great Mills at Henry E. Lackey
@@ -83,7 +83,7 @@ LOCATION:Henry E. Lackey
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-westlake-henry-e-lackey-football@oldlinerankings
-DTSTAMP:20261013T002534Z
+DTSTAMP:20261013T003433Z
 DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T200000
 SUMMARY:Football: Henry E. Lackey at Westlake

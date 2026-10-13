@@ -4,4 +4,112 @@ PRODID:-//Old Line Rankings//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Duval Boys Soccer
 X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-09-04-duval-potomac-boys-soccer@oldlinerankings
+DTSTAMP:20261013T003511Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Boys Soccer: Potomac at Duval
+LOCATION:Duval
+DESCRIPTION:Final: Duval 0\, Potomac 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-dr-henry-a-wise-duval-boys-soccer@oldlinerankings
+DTSTAMP:20261013T003511Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Boys Soccer: Duval at Dr. Henry A. Wise
+LOCATION:Dr. Henry A. Wise
+DESCRIPTION:Final: Duval 4\, Dr. Henry A. Wise 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-northern-c-duval-boys-soccer@oldlinerankings
+DTSTAMP:20261013T003511Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Boys Soccer: Duval at Northern-C
+LOCATION:Northern-C
+DESCRIPTION:Final: Duval 2\, Northern-C 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-charles-h-flowers-duval-boys-soccer@oldlinerankings
+DTSTAMP:20261013T003511Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Boys Soccer: Duval at Charles H. Flowers
+LOCATION:Charles H. Flowers
+DESCRIPTION:Final: Duval 0\, Charles H. Flowers 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-duval-parkdale-boys-soccer@oldlinerankings
+DTSTAMP:20261013T003511Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Boys Soccer: Parkdale at Duval
+LOCATION:Duval
+DESCRIPTION:Final: Duval 3\, Parkdale 4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-duval-suitland-boys-soccer@oldlinerankings
+DTSTAMP:20261013T003511Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Boys Soccer: Suitland at Duval
+LOCATION:Duval
+DESCRIPTION:Final: Duval 6\, Suitland 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-northwestern-duval-boys-soccer@oldlinerankings
+DTSTAMP:20261013T003511Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Boys Soccer: Duval at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Final: Duval 2\, Northwestern 3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-bladensburg-duval-boys-soccer@oldlinerankings
+DTSTAMP:20261013T003511Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Boys Soccer: Duval at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Final: Duval 0\, Bladensburg 4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-duval-high-point-boys-soccer@oldlinerankings
+DTSTAMP:20261013T003511Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Boys Soccer: High Point at Duval
+LOCATION:Duval
+DESCRIPTION:Final: Duval 1\, High Point 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-duval-eleanor-roosevelt-boys-soccer@oldlinerankings
+DTSTAMP:20261013T003511Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Boys Soccer: Eleanor Roosevelt at Duval
+LOCATION:Duval
+DESCRIPTION:Final: Duval 1\, Eleanor Roosevelt 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-duval-laurel-boys-soccer@oldlinerankings
+DTSTAMP:20261013T003511Z
+DTSTART;TZID=America/New_York:20261015T153000
+DTEND;TZID=America/New_York:20261015T173000
+SUMMARY:Boys Soccer: Laurel at Duval
+LOCATION:Duval
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamf8ad82c489\nTickets: https://gofan.co/event/6721395
+URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamf8ad82c489
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-bowie-duval-boys-soccer@oldlinerankings
+DTSTAMP:20261013T003511Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Boys Soccer: Duval at Bowie
+LOCATION:Bowie
+END:VEVENT
 END:VCALENDAR

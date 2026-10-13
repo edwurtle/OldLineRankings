@@ -6,7 +6,7 @@ X-WR-CALNAME:Poolesville Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-poolesville-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;TZID=America/New_York:20260904T191500
 DTEND;TZID=America/New_York:20260904T211500
 SUMMARY:Boys Soccer: John F. Kennedy at Poolesville
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-poolesville-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;TZID=America/New_York:20260909T191500
 DTEND;TZID=America/New_York:20260909T211500
 SUMMARY:Boys Soccer: Springbrook at Poolesville
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-poolesville-damascus-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;TZID=America/New_York:20260915T191500
 DTEND;TZID=America/New_York:20260915T211500
 SUMMARY:Boys Soccer: Damascus at Poolesville
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/gamc8cf5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-poolesville-northwest-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;TZID=America/New_York:20260917T191500
 DTEND;TZID=America/New_York:20260917T211500
 SUMMARY:Boys Soccer: Northwest at Poolesville
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-poolesville-seneca-valley-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;TZID=America/New_York:20260922T191500
 DTEND;TZID=America/New_York:20260922T211500
 SUMMARY:Boys Soccer: Seneca Valley at Poolesville
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-poolesville-clarksburg-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;TZID=America/New_York:20260924T191500
 DTEND;TZID=America/New_York:20260924T211500
 SUMMARY:Boys Soccer: Clarksburg at Poolesville
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gam2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-poolesville-watkins-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;TZID=America/New_York:20260930T191500
 DTEND;TZID=America/New_York:20260930T211500
 SUMMARY:Boys Soccer: Watkins Mill at Poolesville
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-poolesville-richard-montgomery-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;TZID=America/New_York:20261007T191500
 DTEND;TZID=America/New_York:20261007T211500
 SUMMARY:Boys Soccer: Richard Montgomery at Poolesville
@@ -86,15 +86,16 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-poolesville-winston-churchill-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
+DTSTAMP:20261013T003511Z
+DTSTART;TZID=America/New_York:20261012T173000
+DTEND;TZID=America/New_York:20261012T193000
 SUMMARY:Boys Soccer: Winston Churchill at Poolesville
 LOCATION:Poolesville
+DESCRIPTION:Tickets: https://gofan.co/event/6707920
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-poolesville-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;TZID=America/New_York:20261015T191500
 DTEND;TZID=America/New_York:20261015T211500
 SUMMARY:Boys Soccer: Wheaton at Poolesville
@@ -104,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-poolesville-albert-einstein-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;TZID=America/New_York:20261021T191500
 DTEND;TZID=America/New_York:20261021T211500
 SUMMARY:Boys Soccer: Albert Einstein at Poolesville
@@ -114,7 +115,7 @@ URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-poolesville-sherwood-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;TZID=America/New_York:20261023T171500
 DTEND;TZID=America/New_York:20261023T191500
 SUMMARY:Boys Soccer: Sherwood at Poolesville

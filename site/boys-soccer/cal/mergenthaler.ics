@@ -6,7 +6,7 @@ X-WR-CALNAME:Mergenthaler Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-acce-mergenthaler-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Mergenthaler at ACCE
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Mergenthaler 0\, ACCE 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-frederick-douglass-b-mergenthaler-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Mergenthaler at Frederick Douglass-B
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Mergenthaler 0\, Frederick Douglass-B 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-reginald-lewis-mergenthaler-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Mergenthaler at Reginald Lewis
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Mergenthaler 0\, Reginald Lewis 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-acce-mergenthaler-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Mergenthaler at ACCE
@@ -41,16 +41,8 @@ LOCATION:ACCE
 DESCRIPTION:Final: Mergenthaler 0\, ACCE 4
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-24-mergenthaler-forest-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Boys Soccer: Forest Park at Mergenthaler
-LOCATION:Mergenthaler
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-13-frederick-douglass-b-mergenthaler-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Mergenthaler at Frederick Douglass-B
@@ -58,7 +50,7 @@ LOCATION:Frederick Douglass-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-forest-park-mergenthaler-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Boys Soccer: Mergenthaler at Forest Park
@@ -66,7 +58,7 @@ LOCATION:Forest Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-mergenthaler-reginald-lewis-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: Reginald Lewis at Mergenthaler
@@ -74,7 +66,7 @@ LOCATION:Mergenthaler
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-forest-park-mergenthaler-boys-soccer@oldlinerankings
-DTSTAMP:20261013T002605Z
+DTSTAMP:20261013T003511Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Mergenthaler at Forest Park
