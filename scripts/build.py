@@ -470,11 +470,16 @@ def write_splash(built, stamp):
     </div>''')
     page = (ROOT / "scripts" / "splash.html").read_text()
     gotw_html = ('<section class="section"><div class="section-head"><div><div class="eyebrow">This week</div><h2>Games of the week</h2>'
-                 '<p>The best matchups with a live stream, picked by Old Line Rating. Percentages are each team\'s chance to win.</p></div></div>'
+                 '<p>The best matchups with a live stream, picked by Old Line Rating.</p></div></div>'
                  f'<div class="gw-grid">{"".join(gotw)}</div></section>') if gotw else ""
     links = "".join(f'<a class="btn ghost" href="{b["href"]}">{icons.svg(b["cfg"]["icon"])}{esc(b["cfg"]["sport"])}</a>'
                     for b in built)
-    for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), gotw=gotw_html, sportlinks=links,
+    # Footer: the same sport switcher as the sport pages, plus when results were last updated
+    family = "".join(f'<a href="{b["href"]}">{icons.svg(b["cfg"]["icon"])}{esc(b["cfg"]["sport"])}</a>' for b in built) + "".join(
+        f'<span class="soon" title="{esc(c["note"])}">{icons.svg(c["icon"])}{esc(c["sport"])} <small>soon</small></span>' for c in COMING)
+    through = max(s["through"] for b in built for s in b["sports"].values() if s["through"])
+    updated = f'Games through {datetime.date.fromisoformat(through):%B %-d, %Y} · updated {datetime.datetime.now():%b %-d, %Y}'
+    for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), gotw=gotw_html, sportlinks=links, family=family, updated=updated,
                      favicon=icons.favicon(), stamp=stamp).items():
         page = page.replace("{{" + k + "}}", v)
     (ROOT / "site" / "index.html").write_text(page)
