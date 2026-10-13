@@ -6,7 +6,7 @@ X-WR-CALNAME:Loch Raven Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-loch-raven-chesapeake-b-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Chesapeake-B at Loch Raven
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Loch Raven 1\, Chesapeake-B 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-loch-raven-new-town-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: New Town at Loch Raven
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Loch Raven 2\, New Town 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-loch-raven-randallstown-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
 SUMMARY:Boys Soccer: Randallstown at Loch Raven
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/randallstown-high-school-randallstown-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-loch-raven-pikesville-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Pikesville at Loch Raven
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Loch Raven 1\, Pikesville 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-loch-raven-md-our-lady-of-mt-carmel-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: MD - Our Lady of Mt. Carmel at Loch Raven
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Loch Raven 0\, MD - Our Lady of Mt. Carmel 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-loch-raven-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Franklin at Loch Raven
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Loch Raven 0\, Franklin 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-loch-raven-lansdowne-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Lansdowne at Loch Raven
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Loch Raven 0\, Lansdowne 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-loch-raven-western-tech-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Western Tech at Loch Raven
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Loch Raven 4\, Western Tech 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-loch-raven-milford-mill-academy-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Milford Mill Academy at Loch Raven
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Loch Raven 1\, Milford Mill Academy 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-loch-raven-owings-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Boys Soccer: Owings Mills at Loch Raven
@@ -97,7 +97,7 @@ DESCRIPTION:Final: Loch Raven 6\, Owings Mills 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-loch-raven-parkville-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Boys Soccer: Parkville at Loch Raven
@@ -106,7 +106,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6843834
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-loch-raven-carver-aandt-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;TZID=America/New_York:20261020T173000
 DTEND;TZID=America/New_York:20261020T193000
 SUMMARY:Boys Soccer: Carver A&T at Loch Raven

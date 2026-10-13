@@ -6,7 +6,7 @@ X-WR-CALNAME:Severna Park Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-oakdale-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Boys Soccer: Severna Park at Oakdale
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Severna Park 2\, Oakdale 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-linganore-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;TZID=America/New_York:20260905T170000
 DTEND;TZID=America/New_York:20260905T190000
 SUMMARY:Boys Soccer: Severna Park at Linganore
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/game635
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-crossland-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;TZID=America/New_York:20260908T170000
 DTEND;TZID=America/New_York:20260908T190000
 SUMMARY:Boys Soccer: Severna Park at Crossland
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-severna-park-broadneck-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;TZID=America/New_York:20260915T170000
 DTEND;TZID=America/New_York:20260915T190000
 SUMMARY:Boys Soccer: Broadneck at Severna Park
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-severna-park-dundalk-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Boys Soccer: Dundalk at Severna Park
@@ -54,7 +54,7 @@ DESCRIPTION:Final: Severna Park 3\, Dundalk 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-severna-park-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T190000
 SUMMARY:Boys Soccer: Severn Run at Severna Park
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gam21604
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-severna-park-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: South River at Severna Park
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-northeast-aa-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Severna Park at Northeast-AA
@@ -83,7 +83,7 @@ DESCRIPTION:Final: Severna Park 5\, Northeast-AA 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-severna-park-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Boys Soccer: Crofton at Severna Park
@@ -93,7 +93,7 @@ URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-severna-park-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Boys Soccer: North County at Severna Park
@@ -103,7 +103,7 @@ URL:https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-chesapeake-aa-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Severna Park at Chesapeake-AA
@@ -113,7 +113,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gamf41
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-arundel-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Boys Soccer: Severna Park at Arundel
@@ -123,7 +123,7 @@ URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-southern-aa-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Severna Park at Southern-AA
@@ -133,7 +133,7 @@ URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-old-mill-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T000829Z
+DTSTAMP:20261013T001033Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Severna Park at Old Mill
