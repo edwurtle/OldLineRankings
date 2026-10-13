@@ -6,7 +6,7 @@ X-WR-CALNAME:Rising Sun Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-havre-de-grace-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;TZID=America/New_York:20260908T180000
 DTEND;TZID=America/New_York:20260908T200000
 SUMMARY:Girls Soccer: Rising Sun at Havre de Grace
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-elkton-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;TZID=America/New_York:20260910T170000
 DTEND;TZID=America/New_York:20260910T190000
 SUMMARY:Girls Soccer: Rising Sun at Elkton
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-perryville-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;TZID=America/New_York:20260915T170000
 DTEND;TZID=America/New_York:20260915T190000
 SUMMARY:Girls Soccer: Rising Sun at Perryville
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/perryville-high-school-perryville-md/gamf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-winters-mill-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;TZID=America/New_York:20260917T173000
 DTEND;TZID=America/New_York:20260917T193000
 SUMMARY:Girls Soccer: Rising Sun at Winters Mill
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gamd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-north-east-c-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Rising Sun at North East-C
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Rising Sun 1\, North East-C 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-rising-sun-bel-air-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;TZID=America/New_York:20260929T183000
 DTEND;TZID=America/New_York:20260929T203000
 SUMMARY:Girls Soccer: Bel Air at Rising Sun
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-bohemia-manor-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Girls Soccer: Rising Sun at Bohemia Manor
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-harford-tech-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: Rising Sun at Harford Tech
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-rising-sun-c-milton-wright-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T190000
 SUMMARY:Girls Soccer: C. Milton Wright at Rising Sun
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-rising-sun-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;TZID=America/New_York:20261012T170000
 DTEND;TZID=America/New_York:20261012T190000
 SUMMARY:Girls Soccer: North Harford at Rising Sun
@@ -105,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-sparrows-point-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;TZID=America/New_York:20261015T153000
 DTEND;TZID=America/New_York:20261015T173000
 SUMMARY:Girls Soccer: Rising Sun at Sparrows Point

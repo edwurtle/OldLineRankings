@@ -6,7 +6,7 @@ X-WR-CALNAME:International HS at Langley Park Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-international-hs-at-langley-park-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Friendly at International HS at Langley Park
@@ -15,7 +15,7 @@ DESCRIPTION:Final: International HS at Langley Park 6\, Friendly 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-college-park-academy-international-hs-at-langley-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: International HS at Langley Park at College Park Academy
@@ -24,7 +24,7 @@ DESCRIPTION:Final: International HS at Langley Park 0\, College Park Academy 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-international-hs-at-langley-park-central-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Central at International HS at Langley Park
@@ -33,7 +33,7 @@ DESCRIPTION:Final: International HS at Langley Park 8\, Central 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-cmit-north-international-hs-at-langley-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: International HS at Langley Park at CMIT - North
@@ -42,7 +42,7 @@ DESCRIPTION:Final: International HS at Langley Park 5\, CMIT - North 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-international-hs-at-langley-park-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Potomac at International HS at Langley Park
@@ -51,7 +51,7 @@ DESCRIPTION:Final: International HS at Langley Park 2\, Potomac 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-international-hs-at-langley-park-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Gwynn Park at International HS at Langley Park
@@ -60,7 +60,7 @@ DESCRIPTION:Final: International HS at Langley Park 0\, Gwynn Park 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-international-hs-at-langley-park-charles-h-flowers-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Charles H. Flowers at International HS at Langley Park
@@ -69,7 +69,7 @@ DESCRIPTION:Final: International HS at Langley Park 4\, Charles H. Flowers 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-cmit-south-international-hs-at-langley-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Boys Soccer: International HS at Langley Park at CMIT - South
@@ -77,7 +77,7 @@ LOCATION:CMIT - South
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-international-hs-at-langley-park-surrattsville-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Surrattsville at International HS at Langley Park
@@ -85,7 +85,7 @@ LOCATION:International HS at Langley Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-international-hs-at-largo-international-hs-at-langley-park-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: International HS at Langley Park at International HS at Largo
@@ -93,7 +93,7 @@ LOCATION:International HS at Largo
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-international-hs-at-langley-park-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Boys Soccer: Largo at International HS at Langley Park
@@ -101,7 +101,7 @@ LOCATION:International HS at Langley Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-international-hs-at-langley-park-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: St. Charles at International HS at Langley Park

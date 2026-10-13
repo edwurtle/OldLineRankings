@@ -6,7 +6,7 @@ X-WR-CALNAME:Easton Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-easton-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: James M. Bennett at Easton
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Easton 0\, James M. Bennett 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-north-caroline-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;TZID=America/New_York:20260910T173000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:Girls Soccer: Easton at North Caroline
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-easton-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Wicomico at Easton
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Easton 1\, Wicomico 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-kent-island-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Easton at Kent Island
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Easton 0\, Kent Island 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-kent-county-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Girls Soccer: Easton at Kent County
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Easton 7\, Kent County 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-easton-stephen-decatur-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Stephen Decatur at Easton
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Easton 0\, Stephen Decatur 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-colonel-richardson-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
 SUMMARY:Girls Soccer: Easton at Colonel Richardson
@@ -71,7 +71,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-cambridge-south-dorchester-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Easton at Cambridge-South Dorchester
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Easton 2\, Cambridge-South Dorchester 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-queen-anne-s-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Easton at Queen Anne's
@@ -89,7 +89,7 @@ DESCRIPTION:Final: Easton 0\, Queen Anne's 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-easton-parkside-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Parkside at Easton
@@ -97,7 +97,7 @@ LOCATION:Easton
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-north-caroline-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Easton at North Caroline
@@ -105,7 +105,7 @@ LOCATION:North Caroline
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-north-dorchester-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261013T001421Z
+DTSTAMP:20261013T001551Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: Easton at North Dorchester

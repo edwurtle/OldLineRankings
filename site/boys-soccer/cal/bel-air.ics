@@ -6,7 +6,7 @@ X-WR-CALNAME:Bel Air Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-eastern-tech-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260904T132000
 DTEND;TZID=America/New_York:20260904T152000
 SUMMARY:Boys Soccer: Bel Air at Eastern Tech
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam6f78e21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-hereford-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260905T182000
 DTEND;TZID=America/New_York:20260905T202000
 SUMMARY:Boys Soccer: Bel Air at Hereford
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam1be5e7f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-bel-air-north-harford-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: North Harford at Bel Air
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Bel Air 2\, North Harford 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-fallston-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260910T185000
 DTEND;TZID=America/New_York:20260910T205000
 SUMMARY:Boys Soccer: Bel Air at Fallston
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gama624b70
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-joppatowne-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260914T174500
 DTEND;TZID=America/New_York:20260914T194500
 SUMMARY:Boys Soccer: Bel Air at Joppatowne
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gam2613de
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-bel-air-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260916T185000
 DTEND;TZID=America/New_York:20260916T205000
 SUMMARY:Boys Soccer: Aberdeen at Bel Air
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam3da987f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-patterson-mill-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260924T183000
 DTEND;TZID=America/New_York:20260924T203000
 SUMMARY:Boys Soccer: Bel Air at Patterson Mill
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-rising-sun-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260929T165000
 DTEND;TZID=America/New_York:20260929T185000
 SUMMARY:Boys Soccer: Bel Air at Rising Sun
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam0b01ab3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-bel-air-patterson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Boys Soccer: Patterson at Bel Air
@@ -94,7 +94,7 @@ DESCRIPTION:Final: Bel Air 5\, Patterson 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-harford-tech-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20261009T185000
 DTEND;TZID=America/New_York:20261009T205000
 SUMMARY:Boys Soccer: Bel Air at Harford Tech
@@ -104,7 +104,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam52cfc05
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-bel-air-urbana-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20261013T173000
 DTEND;TZID=America/New_York:20261013T193000
 SUMMARY:Boys Soccer: Urbana at Bel Air
@@ -113,7 +113,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6931320
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-north-east-c-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Bel Air at North East-C
@@ -121,7 +121,7 @@ LOCATION:North East-C
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-c-milton-wright-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Bel Air at C. Milton Wright

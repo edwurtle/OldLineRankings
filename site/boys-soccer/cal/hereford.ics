@@ -6,7 +6,7 @@ X-WR-CALNAME:Hereford Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-harford-tech-hereford-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260905T082000
 DTEND;TZID=America/New_York:20260905T102000
 SUMMARY:Boys Soccer: Hereford at Harford Tech
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam068f0b9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-hereford-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260905T182000
 DTEND;TZID=America/New_York:20260905T202000
 SUMMARY:Boys Soccer: Bel Air at Hereford
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam1be5e7f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-hereford-perry-hall-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260915T173000
 DTEND;TZID=America/New_York:20260915T193000
 SUMMARY:Boys Soccer: Perry Hall at Hereford
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gamdfc123
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-hereford-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260916T183000
 DTEND;TZID=America/New_York:20260916T203000
 SUMMARY:Boys Soccer: Winters Mill at Hereford
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gamd555f4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-hereford-towson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260917T171500
 DTEND;TZID=America/New_York:20260917T191500
 SUMMARY:Boys Soccer: Towson at Hereford
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam129aae4cf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-hereford-boys-latin-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260922T160000
 DTEND;TZID=America/New_York:20260922T180000
 SUMMARY:Boys Soccer: Boys Latin at Hereford
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gamcb2be0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-hereford-sparrows-point-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
 SUMMARY:Boys Soccer: Sparrows Point at Hereford
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-hereford-catonsville-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
 SUMMARY:Boys Soccer: Catonsville at Hereford
@@ -86,7 +86,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam490fe3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-hereford-dulaney-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Dulaney at Hereford
@@ -95,7 +95,7 @@ DESCRIPTION:Final: Hereford 0\, Dulaney 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-hereford-eastern-tech-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Eastern Tech at Hereford
@@ -104,7 +104,7 @@ DESCRIPTION:Final: Hereford 1\, Eastern Tech 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-hereford-c-milton-wright-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20261009T173000
 DTEND;TZID=America/New_York:20261009T193000
 SUMMARY:Boys Soccer: C. Milton Wright at Hereford
@@ -114,7 +114,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam9d1938
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-hereford-dundalk-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Boys Soccer: Dundalk at Hereford
@@ -123,7 +123,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6885836
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-hereford-archbishop-curley-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20261015T173000
 DTEND;TZID=America/New_York:20261015T193000
 SUMMARY:Boys Soccer: Archbishop Curley at Hereford
@@ -133,7 +133,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gama77161
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-hereford-fallston-boys-soccer@oldlinerankings
-DTSTAMP:20261013T001335Z
+DTSTAMP:20261013T001525Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Boys Soccer: Fallston at Hereford
