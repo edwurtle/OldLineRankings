@@ -6,7 +6,7 @@ X-WR-CALNAME:Guilford Park Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-guilford-park-frederick-football@oldlinerankings
-DTSTAMP:20261014T134919Z
+DTSTAMP:20261014T153345Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
 SUMMARY:Football: Frederick at Guilford Park
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gamcef
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-guilford-park-md-st-vincent-pallotti-football@oldlinerankings
-DTSTAMP:20261014T134919Z
+DTSTAMP:20261014T153345Z
 DTSTART;TZID=America/New_York:20260910T183000
 DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Football: MD- St. Vincent Pallotti at Guilford Park
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gama0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-river-hill-guilford-park-football@oldlinerankings
-DTSTAMP:20261014T134919Z
+DTSTAMP:20261014T153345Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Guilford Park at River Hill
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Guilford Park 35\, River Hill 13
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-guilford-park-reservoir-football@oldlinerankings
-DTSTAMP:20261014T134919Z
+DTSTAMP:20261014T153345Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Reservoir at Guilford Park
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Guilford Park 41\, Reservoir 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-atholton-guilford-park-football@oldlinerankings
-DTSTAMP:20261014T134919Z
+DTSTAMP:20261014T153345Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: Guilford Park at Atholton
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/atholton-high-school-columbia-md/gam9c22e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-oakland-mills-guilford-park-football@oldlinerankings
-DTSTAMP:20261014T134919Z
+DTSTAMP:20261014T153345Z
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:Football: Guilford Park at Oakland Mills
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/oakland-mills-high-school-columbia-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-glenelg-guilford-park-football@oldlinerankings
-DTSTAMP:20261014T134919Z
+DTSTAMP:20261014T153345Z
 DTSTART;TZID=America/New_York:20261017T130000
 DTEND;TZID=America/New_York:20261017T150000
 SUMMARY:Football: Guilford Park at Glenelg
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gam0d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-howard-guilford-park-football@oldlinerankings
-DTSTAMP:20261014T134919Z
+DTSTAMP:20261014T153345Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Guilford Park at Howard
@@ -82,7 +82,7 @@ LOCATION:Howard
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-long-reach-guilford-park-football@oldlinerankings
-DTSTAMP:20261014T134919Z
+DTSTAMP:20261014T153345Z
 DTSTART;TZID=America/New_York:20261030T190000
 DTEND;TZID=America/New_York:20261030T210000
 SUMMARY:Football: Guilford Park at Long Reach

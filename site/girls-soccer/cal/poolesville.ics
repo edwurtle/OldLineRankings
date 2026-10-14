@@ -6,7 +6,7 @@ X-WR-CALNAME:Poolesville Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-poolesville-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261014T135018Z
+DTSTAMP:20261014T153443Z
 DTSTART;TZID=America/New_York:20260909T191500
 DTEND;TZID=America/New_York:20260909T211500
 SUMMARY:Girls Soccer: Springbrook at Poolesville
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-poolesville-damascus-girls-soccer@oldlinerankings
-DTSTAMP:20261014T135018Z
+DTSTAMP:20261014T153443Z
 DTSTART;TZID=America/New_York:20260915T191500
 DTEND;TZID=America/New_York:20260915T211500
 SUMMARY:Girls Soccer: Damascus at Poolesville
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-poolesville-northwest-girls-soccer@oldlinerankings
-DTSTAMP:20261014T135018Z
+DTSTAMP:20261014T153443Z
 DTSTART;TZID=America/New_York:20260918T191500
 DTEND;TZID=America/New_York:20260918T211500
 SUMMARY:Girls Soccer: Northwest at Poolesville
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gam95
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-poolesville-seneca-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261014T135018Z
+DTSTAMP:20261014T153443Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
 SUMMARY:Girls Soccer: Seneca Valley at Poolesville
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-poolesville-clarksburg-girls-soccer@oldlinerankings
-DTSTAMP:20261014T135018Z
+DTSTAMP:20261014T153443Z
 DTSTART;TZID=America/New_York:20260928T191500
 DTEND;TZID=America/New_York:20260928T211500
 SUMMARY:Girls Soccer: Clarksburg at Poolesville
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-poolesville-watkins-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261014T135018Z
+DTSTAMP:20261014T153443Z
 DTSTART;TZID=America/New_York:20260930T191500
 DTEND;TZID=America/New_York:20260930T211500
 SUMMARY:Girls Soccer: Watkins Mill at Poolesville
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-poolesville-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261014T135018Z
+DTSTAMP:20261014T153443Z
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T130000
 SUMMARY:Girls Soccer: John F. Kennedy at Poolesville
@@ -76,7 +76,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-poolesville-richard-montgomery-girls-soccer@oldlinerankings
-DTSTAMP:20261014T135018Z
+DTSTAMP:20261014T153443Z
 DTSTART;TZID=America/New_York:20261007T191500
 DTEND;TZID=America/New_York:20261007T211500
 SUMMARY:Girls Soccer: Richard Montgomery at Poolesville
@@ -86,7 +86,7 @@ URL:https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-poolesville-winston-churchill-girls-soccer@oldlinerankings
-DTSTAMP:20261014T135018Z
+DTSTAMP:20261014T153443Z
 DTSTART;TZID=America/New_York:20261014T191500
 DTEND;TZID=America/New_York:20261014T211500
 SUMMARY:Girls Soccer: Winston Churchill at Poolesville
@@ -96,7 +96,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-poolesville-wheaton-girls-soccer@oldlinerankings
-DTSTAMP:20261014T135018Z
+DTSTAMP:20261014T153443Z
 DTSTART;TZID=America/New_York:20261015T171500
 DTEND;TZID=America/New_York:20261015T191500
 SUMMARY:Girls Soccer: Wheaton at Poolesville
@@ -106,7 +106,7 @@ URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-poolesville-albert-einstein-girls-soccer@oldlinerankings
-DTSTAMP:20261014T135018Z
+DTSTAMP:20261014T153443Z
 DTSTART;TZID=America/New_York:20261021T171500
 DTEND;TZID=America/New_York:20261021T191500
 SUMMARY:Girls Soccer: Albert Einstein at Poolesville
@@ -116,7 +116,7 @@ URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-poolesville-sherwood-girls-soccer@oldlinerankings
-DTSTAMP:20261014T135018Z
+DTSTAMP:20261014T153443Z
 DTSTART;TZID=America/New_York:20261023T191500
 DTEND;TZID=America/New_York:20261023T211500
 SUMMARY:Girls Soccer: Sherwood at Poolesville
