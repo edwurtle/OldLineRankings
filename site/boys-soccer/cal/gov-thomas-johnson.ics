@@ -6,7 +6,7 @@ X-WR-CALNAME:Gov. Thomas Johnson Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-westminster-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T152331Z
+DTSTAMP:20261014T035651Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Westminster
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-brunswick-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T152331Z
+DTSTAMP:20261014T035651Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Brunswick
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-north-hagerstown-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T152331Z
+DTSTAMP:20261014T035651Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at North Hagerstown
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Gov. Thomas Johnson 1\, North Hagerstown 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-south-hagerstown-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T152331Z
+DTSTAMP:20261014T035651Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at South Hagerstown
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-linganore-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T152331Z
+DTSTAMP:20261014T035651Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Linganore
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-gov-thomas-johnson-urbana-boys-soccer@oldlinerankings
-DTSTAMP:20261013T152331Z
+DTSTAMP:20261014T035651Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Boys Soccer: Urbana at Gov. Thomas Johnson
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gamb0da8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-oakdale-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T152331Z
+DTSTAMP:20261014T035651Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Oakdale
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-tuscarora-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T152331Z
+DTSTAMP:20261014T035651Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Tuscarora
@@ -85,16 +85,17 @@ URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gamb42
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-frederick-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T152331Z
-DTSTART;TZID=America/New_York:20261013T173000
-DTEND;TZID=America/New_York:20261013T193000
+DTSTAMP:20261014T035651Z
+DTSTART;TZID=America/New_York:20261013T200200
+DTEND;TZID=America/New_York:20261013T220200
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Frederick
 LOCATION:Frederick
-DESCRIPTION:Tickets: https://gofan.co/event/6792750
+DESCRIPTION:Final: Gov. Thomas Johnson 2\, Frederick 1\nWatch: https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gamd44c48175d
+URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gamd44c48175d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-catoctin-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T152331Z
+DTSTAMP:20261014T035651Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Catoctin
@@ -104,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-south-carroll-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T152331Z
+DTSTAMP:20261014T035651Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at South Carroll
@@ -114,7 +115,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-smithsburg-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261013T152331Z
+DTSTAMP:20261014T035651Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Smithsburg

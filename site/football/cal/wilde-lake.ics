@@ -6,7 +6,7 @@ X-WR-CALNAME:Wilde Lake Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-wilde-lake-severn-run-football@oldlinerankings
-DTSTAMP:20261013T152307Z
+DTSTAMP:20261014T035623Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Severn Run at Wilde Lake
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gamac6f2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-wilde-lake-atholton-football@oldlinerankings
-DTSTAMP:20261013T152307Z
+DTSTAMP:20261014T035623Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Atholton at Wilde Lake
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/atholton-high-school-columbia-md/gam551df
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-glenelg-wilde-lake-football@oldlinerankings
-DTSTAMP:20261013T152307Z
+DTSTAMP:20261014T035623Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Wilde Lake at Glenelg
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Wilde Lake 26\, Glenelg 21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-oakland-mills-wilde-lake-football@oldlinerankings
-DTSTAMP:20261013T152307Z
+DTSTAMP:20261014T035623Z
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T200000
 SUMMARY:Football: Wilde Lake at Oakland Mills
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gam355
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-mount-hebron-wilde-lake-football@oldlinerankings
-DTSTAMP:20261013T152307Z
+DTSTAMP:20261014T035623Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: Wilde Lake at Mount Hebron
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/mt-hebron-high-school-ellicott-city-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-river-hill-wilde-lake-football@oldlinerankings
-DTSTAMP:20261013T152307Z
+DTSTAMP:20261014T035623Z
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T140000
 SUMMARY:Football: Wilde Lake at River Hill
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gamb5e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-wilde-lake-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261013T152307Z
+DTSTAMP:20261014T035623Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Football: Marriotts Ridge at Wilde Lake
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gam459
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-wilde-lake-hammond-football@oldlinerankings
-DTSTAMP:20261013T152307Z
+DTSTAMP:20261014T035623Z
 DTSTART;TZID=America/New_York:20261024T130000
 DTEND;TZID=America/New_York:20261024T150000
 SUMMARY:Football: Hammond at Wilde Lake
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/hammond-high-school-columbia-md/gamcc02fd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-wilde-lake-reservoir-football@oldlinerankings
-DTSTAMP:20261013T152307Z
+DTSTAMP:20261014T035623Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Reservoir at Wilde Lake

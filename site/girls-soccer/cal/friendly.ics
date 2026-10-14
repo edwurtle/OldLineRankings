@@ -6,7 +6,7 @@ X-WR-CALNAME:Friendly Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-international-hs-at-langley-park-friendly-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Friendly at International HS at Langley Park
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Friendly 5\, International HS at Langley Park 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-friendly-fairmont-heights-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Fairmont Heights at Friendly
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Friendly 0\, Fairmont Heights 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-crossland-friendly-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Girls Soccer: Friendly at Crossland
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Friendly 6\, Crossland 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-friendly-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;TZID=America/New_York:20260928T180000
 DTEND;TZID=America/New_York:20260928T200000
 SUMMARY:Girls Soccer: Oxon Hill at Friendly
@@ -43,7 +43,7 @@ URL:https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gamb65
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-college-park-academy-friendly-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Friendly at College Park Academy
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Friendly 1\, College Park Academy 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-international-hs-at-largo-friendly-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Girls Soccer: Friendly at International HS at Largo
@@ -60,25 +60,25 @@ LOCATION:International HS at Largo
 DESCRIPTION:Final: Friendly 0\, International HS at Largo 7
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-13-chesapeake-science-point-friendly-girls-soccer@oldlinerankings
+DTSTAMP:20261014T035717Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Girls Soccer: Friendly at Chesapeake Science Point
+LOCATION:Chesapeake Science Point
+DESCRIPTION:Final: Friendly 0\, Chesapeake Science Point 6
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-12-friendly-central-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Central at Friendly
 LOCATION:Friendly
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-13-chesapeake-science-point-friendly-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
-DTSTART;TZID=America/New_York:20261013T160000
-DTEND;TZID=America/New_York:20261013T180000
-SUMMARY:Girls Soccer: Friendly at Chesapeake Science Point
-LOCATION:Chesapeake Science Point
-DESCRIPTION:Tickets: https://gofan.co/event/6768517
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-19-friendly-potomac-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Potomac at Friendly
@@ -86,7 +86,7 @@ LOCATION:Friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-largo-friendly-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: Friendly at Largo

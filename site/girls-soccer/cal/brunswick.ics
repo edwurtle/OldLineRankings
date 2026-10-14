@@ -6,7 +6,7 @@ X-WR-CALNAME:Brunswick Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-allegany-brunswick-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Girls Soccer: Brunswick at Allegany
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Brunswick 0\, Allegany 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-brunswick-frederick-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Girls Soccer: Frederick at Brunswick
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gamf91
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-brunswick-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Girls Soccer: Tuscarora at Brunswick
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam850
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-brunswick-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Brunswick
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam867
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-brunswick-boonsboro-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;TZID=America/New_York:20260917T180000
 DTEND;TZID=America/New_York:20260917T200000
 SUMMARY:Girls Soccer: Boonsboro at Brunswick
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam6b1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-brunswick-catoctin-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Girls Soccer: Catoctin at Brunswick
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gam00766
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-brunswick-south-carroll-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Girls Soccer: South Carroll at Brunswick
@@ -74,7 +74,7 @@ DESCRIPTION:Final: Brunswick 0\, South Carroll 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-brunswick-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: Walkersville at Brunswick
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam2f6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-brunswick-smithsburg-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Girls Soccer: Smithsburg at Brunswick
@@ -93,26 +93,18 @@ DESCRIPTION:Final: Brunswick 1\, Smithsburg 2\nWatch: https://www.nfhsnetwork.co
 URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam261d8cd8b6
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-06-clear-spring-brunswick-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Girls Soccer: Brunswick at Clear Spring
-LOCATION:Clear Spring
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-13-brunswick-middletown-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Middletown at Brunswick
 LOCATION:Brunswick
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam7c756afe86\nTickets: https://gofan.co/event/6740013
+DESCRIPTION:Final: Brunswick 0\, Middletown 1\nWatch: https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam7c756afe86
 URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam7c756afe86
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-brunswick-linganore-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Girls Soccer: Linganore at Brunswick
@@ -122,7 +114,7 @@ URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam051
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-williamsport-brunswick-girls-soccer@oldlinerankings
-DTSTAMP:20261013T152354Z
+DTSTAMP:20261014T035717Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Girls Soccer: Brunswick at Williamsport
