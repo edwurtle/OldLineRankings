@@ -6,7 +6,7 @@ X-WR-CALNAME:Lansdowne Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-lansdowne-sparrows-point-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Sparrows Point at Lansdowne
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-lansdowne-towson-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Towson at Lansdowne
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Lansdowne 0\, Towson 44
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-eastern-tech-lansdowne-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Football: Lansdowne at Eastern Tech
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Lansdowne 0\, Eastern Tech 47
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-western-tech-lansdowne-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Football: Lansdowne at Western Tech
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Lansdowne 15\, Western Tech 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-lansdowne-northeast-aa-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Northeast-AA at Lansdowne
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Lansdowne 0\, Northeast-AA 44
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-lansdowne-chesapeake-b-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T140000
 SUMMARY:Football: Chesapeake-B at Lansdowne
@@ -62,7 +62,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-baltimore-md/gamf6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-lansdowne-patapsco-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Football: Patapsco at Lansdowne
@@ -72,7 +72,7 @@ URL:https://www.nfhsnetwork.com/events/patapsco-high-school-baltimore-md/gam971b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-loch-raven-lansdowne-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Football: Lansdowne at Loch Raven
@@ -80,7 +80,7 @@ LOCATION:Loch Raven
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-pikesville-lansdowne-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T200000
 SUMMARY:Football: Lansdowne at Pikesville

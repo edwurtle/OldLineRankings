@@ -6,7 +6,7 @@ X-WR-CALNAME:Easton Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-easton-de-caesar-rodney-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: DE- Caesar Rodney at Easton
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Easton 46\, DE- Caesar Rodney 22
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-parkside-easton-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: Easton at Parkside
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Easton 46\, Parkside 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-kent-island-easton-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;TZID=America/New_York:20260918T175000
 DTEND;TZID=America/New_York:20260918T195000
 SUMMARY:Football: Easton at Kent Island
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-north-caroline-easton-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T200000
 SUMMARY:Football: Easton at North Caroline
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/north-caroline-high-school-ridgely-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-easton-james-m-bennett-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: James M. Bennett at Easton
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Easton 42\, James M. Bennett 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-queen-anne-s-easton-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Easton at Queen Anne's
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Easton 48\, Queen Anne's 16
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-easton-stephen-decatur-football@oldlinerankings
-DTSTAMP:20261014T035623Z
+DTSTAMP:20261014T134919Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Football: Stephen Decatur at Easton
@@ -70,18 +70,20 @@ LOCATION:Easton
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-wicomico-easton-football@oldlinerankings
-DTSTAMP:20261014T035623Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
+DTSTAMP:20261014T134919Z
+DTSTART;TZID=America/New_York:20261023T180000
+DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Easton at Wicomico
 LOCATION:Wicomico
+DESCRIPTION:Tickets: https://gofan.co/event/6839931
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-cambridge-south-dorchester-easton-football@oldlinerankings
-DTSTAMP:20261014T035623Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
+DTSTAMP:20261014T134919Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Easton at Cambridge-South Dorchester
 LOCATION:Cambridge-South Dorchester
+DESCRIPTION:Tickets: https://gofan.co/event/6762318
 END:VEVENT
 END:VCALENDAR
