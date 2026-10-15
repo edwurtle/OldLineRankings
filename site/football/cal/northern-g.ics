@@ -6,7 +6,7 @@ X-WR-CALNAME:Northern-G Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-fort-hill-northern-g-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
 SUMMARY:Football: Northern-G at Fort Hill
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-northern-g-clear-spring-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Clear Spring at Northern-G
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Northern-G 14\, Clear Spring 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-northern-g-wv-frankfort-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: WV- Frankfort at Northern-G
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Northern-G 13\, WV- Frankfort 37
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-northern-g-wv-hampshire-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Football: WV– Hampshire at Northern-G
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/hampshire-high-school-romney-wv/gam6b7f01
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-northern-g-pa-north-star-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;TZID=America/New_York:20261009T190000
 DTEND;TZID=America/New_York:20261009T210000
 SUMMARY:Football: PA- North Star at Northern-G
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-mountain-ridge-northern-g-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T200000
 SUMMARY:Football: Northern-G at Mountain Ridge
@@ -63,7 +63,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6952237
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-allegany-northern-g-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Northern-G at Allegany
@@ -73,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam8ff
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-northern-g-southern-g-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Southern-G at Northern-G

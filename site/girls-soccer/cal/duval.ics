@@ -6,7 +6,7 @@ X-WR-CALNAME:Duval Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-duval-potomac-girls-soccer@oldlinerankings
-DTSTAMP:20261014T153443Z
+DTSTAMP:20261015T133153Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Girls Soccer: Potomac at Duval
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Duval 0\, Potomac 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-dr-henry-a-wise-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261014T153443Z
+DTSTAMP:20261015T133153Z
 DTSTART;TZID=America/New_York:20260914T180000
 DTEND;TZID=America/New_York:20260914T200000
 SUMMARY:Girls Soccer: Duval at Dr. Henry A. Wise
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-charles-h-flowers-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261014T153443Z
+DTSTAMP:20261015T133153Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Duval at Charles H. Flowers
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Duval 0\, Charles H. Flowers 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-duval-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261014T153443Z
+DTSTAMP:20261015T133153Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Parkdale at Duval
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Duval 0\, Parkdale 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-duval-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261014T153443Z
+DTSTAMP:20261015T133153Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Suitland at Duval
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Duval 2\, Suitland 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-northwestern-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261014T153443Z
+DTSTAMP:20261015T133153Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Girls Soccer: Duval at Northwestern
@@ -62,7 +62,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-bladensburg-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261014T153443Z
+DTSTAMP:20261015T133153Z
 DTSTART;TZID=America/New_York:20261005T163000
 DTEND;TZID=America/New_York:20261005T183000
 SUMMARY:Girls Soccer: Duval at Bladensburg
@@ -72,7 +72,7 @@ URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-high-point-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261014T153443Z
+DTSTAMP:20261015T133153Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Girls Soccer: Duval at High Point
@@ -82,7 +82,7 @@ URL:https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-eleanor-roosevelt-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261014T153443Z
+DTSTAMP:20261015T133153Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Duval at Eleanor Roosevelt
@@ -91,7 +91,7 @@ DESCRIPTION:Final: Duval 0\, Eleanor Roosevelt 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-laurel-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261014T153443Z
+DTSTAMP:20261015T133153Z
 DTSTART;TZID=America/New_York:20261015T153000
 DTEND;TZID=America/New_York:20261015T173000
 SUMMARY:Girls Soccer: Duval at Laurel
@@ -100,7 +100,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6521021
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-duval-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261014T153443Z
+DTSTAMP:20261015T133153Z
 DTSTART;TZID=America/New_York:20261019T153000
 DTEND;TZID=America/New_York:20261019T173000
 SUMMARY:Girls Soccer: Bowie at Duval
@@ -109,7 +109,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6521068
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-duval-guilford-park-girls-soccer@oldlinerankings
-DTSTAMP:20261014T153443Z
+DTSTAMP:20261015T133153Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: Guilford Park at Duval

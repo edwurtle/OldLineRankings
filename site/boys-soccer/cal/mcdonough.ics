@@ -6,7 +6,7 @@ X-WR-CALNAME:McDonough Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-henry-e-lackey-mcdonough-boys-soccer@oldlinerankings
-DTSTAMP:20261014T153414Z
+DTSTAMP:20261015T133127Z
 DTSTART;TZID=America/New_York:20260908T183000
 DTEND;TZID=America/New_York:20260908T203000
 SUMMARY:Boys Soccer: McDonough at Henry E. Lackey
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gam10c0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-mcdonough-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261014T153414Z
+DTSTAMP:20261015T133127Z
 DTSTART;TZID=America/New_York:20260910T162500
 DTEND;TZID=America/New_York:20260910T182500
 SUMMARY:Boys Soccer: North Point at McDonough
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/north-point-high-school-waldorf-md/gam768
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-mcdonough-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261014T153414Z
+DTSTAMP:20261015T133127Z
 DTSTART;TZID=America/New_York:20260915T181500
 DTEND;TZID=America/New_York:20260915T201500
 SUMMARY:Boys Soccer: Chopticon at McDonough
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gamec7f3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-huntingtown-mcdonough-boys-soccer@oldlinerankings
-DTSTAMP:20261014T153414Z
+DTSTAMP:20261015T133127Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: McDonough at Huntingtown
@@ -45,7 +45,7 @@ DESCRIPTION:Final: McDonough 0\, Huntingtown 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-patuxent-mcdonough-boys-soccer@oldlinerankings
-DTSTAMP:20261014T153414Z
+DTSTAMP:20261015T133127Z
 DTSTART;TZID=America/New_York:20260924T163000
 DTEND;TZID=America/New_York:20260924T183000
 SUMMARY:Boys Soccer: McDonough at Patuxent
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam15b4b9a5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-la-plata-mcdonough-boys-soccer@oldlinerankings
-DTSTAMP:20261014T153414Z
+DTSTAMP:20261015T133127Z
 DTSTART;TZID=America/New_York:20260929T183000
 DTEND;TZID=America/New_York:20260929T203000
 SUMMARY:Boys Soccer: McDonough at La Plata
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam5c50c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-mcdonough-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261014T153414Z
+DTSTAMP:20261015T133127Z
 DTSTART;TZID=America/New_York:20261001T163000
 DTEND;TZID=America/New_York:20261001T183000
 SUMMARY:Boys Soccer: Great Mills at McDonough
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam939bd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-mcdonough-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261014T153414Z
+DTSTAMP:20261015T133127Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: Northern-C at McDonough
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamb7a9a51
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-calvert-mcdonough-boys-soccer@oldlinerankings
-DTSTAMP:20261014T153414Z
+DTSTAMP:20261015T133127Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: McDonough at Calvert
@@ -95,15 +95,16 @@ URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam2082a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-mcdonough-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261014T153414Z
+DTSTAMP:20261015T133127Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Leonardtown at McDonough
 LOCATION:McDonough
+DESCRIPTION:Final: McDonough 0\, Leonardtown 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-mcdonough-westlake-boys-soccer@oldlinerankings
-DTSTAMP:20261014T153414Z
+DTSTAMP:20261015T133127Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: Westlake at McDonough
@@ -113,7 +114,7 @@ URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam0ff96
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-mcdonough-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261014T153414Z
+DTSTAMP:20261015T133127Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: St. Charles at McDonough

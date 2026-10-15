@@ -6,7 +6,7 @@ X-WR-CALNAME:Manchester Valley Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-manchester-valley-hereford-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
 SUMMARY:Football: Hereford at Manchester Valley
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gamf39842
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-manchester-valley-north-hagerstown-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: North Hagerstown at Manchester Valley
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Manchester Valley 28\, North Hagerstown 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-francis-scott-key-manchester-valley-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Manchester Valley at Francis Scott Key
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Manchester Valley 13\, Francis Scott Key 12
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-manchester-valley-winters-mill-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Winters Mill at Manchester Valley
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Manchester Valley 0\, Winters Mill 38
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-manchester-valley-liberty-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Liberty at Manchester Valley
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Manchester Valley 20\, Liberty 23
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-manchester-valley-south-carroll-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: South Carroll at Manchester Valley
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Manchester Valley 21\, South Carroll 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-manchester-valley-westminster-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Westminster at Manchester Valley
@@ -70,7 +70,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6887098
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-manchester-valley-century-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Century at Manchester Valley
@@ -79,7 +79,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6887097
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-manchester-valley-centennial-football@oldlinerankings
-DTSTAMP:20261014T153345Z
+DTSTAMP:20261015T133101Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Centennial at Manchester Valley
