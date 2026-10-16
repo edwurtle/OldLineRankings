@@ -6,7 +6,7 @@ X-WR-CALNAME:Mountain Ridge Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-fort-hill-mountain-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;TZID=America/New_York:20260905T160000
 DTEND;TZID=America/New_York:20260905T180000
 SUMMARY:Girls Soccer: Mountain Ridge at Fort Hill
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-mountain-ridge-boonsboro-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;TZID=America/New_York:20260905T080000
 DTEND;TZID=America/New_York:20260905T100000
 SUMMARY:Girls Soccer: Boonsboro at Mountain Ridge
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-mountain-ridge-clear-spring-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Girls Soccer: Clear Spring at Mountain Ridge
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Mountain Ridge 10\, Clear Spring 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-mountain-ridge-northern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;TZID=America/New_York:20260917T180000
 DTEND;TZID=America/New_York:20260917T200000
 SUMMARY:Girls Soccer: Northern-G at Mountain Ridge
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-mountain-ridge-hampshire-wv-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;TZID=America/New_York:20260922T180000
 DTEND;TZID=America/New_York:20260922T200000
 SUMMARY:Girls Soccer: Hampshire WV at Mountain Ridge
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-allegany-mountain-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Girls Soccer: Mountain Ridge at Allegany
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-mountain-ridge-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Girls Soccer: Southern-G at Mountain Ridge
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-mountain-ridge-hedgesville-wv-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;TZID=America/New_York:20261001T180000
 DTEND;TZID=America/New_York:20261001T200000
 SUMMARY:Girls Soccer: Hedgesville WV at Mountain Ridge
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-fort-hill-mountain-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Girls Soccer: Mountain Ridge at Fort Hill
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gamaa
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-mountain-ridge-boonsboro-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Girls Soccer: Boonsboro at Mountain Ridge
@@ -104,7 +104,7 @@ DESCRIPTION:Final: Mountain Ridge 3\, Boonsboro 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-allegany-mountain-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;TZID=America/New_York:20261012T180000
 DTEND;TZID=America/New_York:20261012T200000
 SUMMARY:Girls Soccer: Mountain Ridge at Allegany
@@ -113,16 +113,8 @@ DESCRIPTION:Final: Mountain Ridge 2\, Allegany 0\nWatch: https://www.nfhsnetwork
 URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam8c171a1286
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-15-williamsport-mountain-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Girls Soccer: Mountain Ridge at Williamsport
-LOCATION:Williamsport
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-17-mountain-ridge-northern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Girls Soccer: Northern-G at Mountain Ridge
@@ -130,7 +122,7 @@ LOCATION:Mountain Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-mountain-ridge-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;TZID=America/New_York:20261019T180000
 DTEND;TZID=America/New_York:20261019T200000
 SUMMARY:Girls Soccer: Southern-G at Mountain Ridge
@@ -140,7 +132,7 @@ URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-mountain-ridge-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261016T035845Z
+DTSTAMP:20261016T040234Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Girls Soccer: Williamsport at Mountain Ridge
