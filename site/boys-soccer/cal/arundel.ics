@@ -6,7 +6,7 @@ X-WR-CALNAME:Arundel Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-frederick-arundel-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: Arundel at Frederick
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Arundel -\, Frederick -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-arundel-dulaney-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20260905T090000
 DTEND;TZID=America/New_York:20260905T110000
 SUMMARY:Boys Soccer: Dulaney at Arundel
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gamf32ce
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-arundel-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Annapolis at Arundel
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Arundel 1\, Annapolis 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-arundel-md-severn-school-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: MD- Severn School at Arundel
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Arundel 2\, MD- Severn School 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-southern-aa-arundel-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20260915T170000
 DTEND;TZID=America/New_York:20260915T190000
 SUMMARY:Boys Soccer: Arundel at Southern-AA
@@ -53,7 +53,7 @@ URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gamde21d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-northeast-aa-arundel-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Arundel at Northeast-AA
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Arundel 2\, Northeast-AA 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-arundel-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: North County at Arundel
@@ -72,7 +72,7 @@ URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gamab45b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-arundel-old-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Old Mill at Arundel
@@ -81,7 +81,7 @@ DESCRIPTION:Final: Arundel 1\, Old Mill 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-chesapeake-aa-arundel-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Boys Soccer: Arundel at Chesapeake-AA
@@ -91,7 +91,7 @@ URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam683
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-arundel-broadneck-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Boys Soccer: Broadneck at Arundel
@@ -101,7 +101,7 @@ URL:https://www.nfhsnetwork.com/events/arundel-high-school-gambrills-md/gam0c3de
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-arundel-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Boys Soccer: Severna Park at Arundel
@@ -111,7 +111,7 @@ URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-arundel-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20261015T184500
 DTEND;TZID=America/New_York:20261015T204500
 SUMMARY:Boys Soccer: South River at Arundel
@@ -121,7 +121,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gama
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-arundel-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Boys Soccer: Crofton at Arundel
@@ -131,7 +131,7 @@ URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gama2bfe
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-arundel-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Severn Run at Arundel

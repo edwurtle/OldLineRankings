@@ -6,7 +6,7 @@ X-WR-CALNAME:Largo Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-central-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20260910T150000
 DTEND;TZID=America/New_York:20260910T170000
 SUMMARY:Boys Soccer: Largo at Central
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/central-high-school-capitol-heights-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-surrattsville-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Largo at Surrattsville
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Largo 2\, Surrattsville 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-largo-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20260917T150000
 DTEND;TZID=America/New_York:20260917T170000
 SUMMARY:Boys Soccer: Potomac at Largo
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gamd0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-crossland-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Largo at Crossland
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Largo 1\, Crossland 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-largo-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Oxon Hill at Largo
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Largo 1\, Oxon Hill 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-friendly-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20261005T150000
 DTEND;TZID=America/New_York:20261005T170000
 SUMMARY:Boys Soccer: Largo at Friendly
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-college-park-academy-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20261008T164500
 DTEND;TZID=America/New_York:20261008T184500
 SUMMARY:Boys Soccer: Largo at College Park Academy
@@ -73,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gama5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-international-hs-at-largo-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;TZID=America/New_York:20261012T144500
 DTEND;TZID=America/New_York:20261012T164500
 SUMMARY:Boys Soccer: Largo at International HS at Largo
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/international-high-school-largo-largo-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-gwynn-park-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Largo at Gwynn Park
@@ -92,7 +92,7 @@ DESCRIPTION:Final: Largo 1\, Gwynn Park 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-fairmont-heights-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Largo at Fairmont Heights
@@ -100,7 +100,7 @@ LOCATION:Fairmont Heights
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-international-hs-at-langley-park-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261016T194643Z
+DTSTAMP:20261016T195301Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Boys Soccer: Largo at International HS at Langley Park

@@ -6,7 +6,7 @@ X-WR-CALNAME:Central Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-central-northwestern-football@oldlinerankings
-DTSTAMP:20261016T194616Z
+DTSTAMP:20261016T195233Z
 DTSTART;TZID=America/New_York:20260904T150000
 DTEND;TZID=America/New_York:20260904T170000
 SUMMARY:Football: Northwestern at Central
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/central-high-school-capitol-heights-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-reginald-lewis-central-football@oldlinerankings
-DTSTAMP:20261016T194616Z
+DTSTAMP:20261016T195233Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Football: Central at Reginald Lewis
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/central-high-school-capitol-heights-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-friendly-central-football@oldlinerankings
-DTSTAMP:20261016T194616Z
+DTSTAMP:20261016T195233Z
 DTSTART;TZID=America/New_York:20260918T140000
 DTEND;TZID=America/New_York:20260918T160000
 SUMMARY:Football: Central at Friendly
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/central-high-school-capitol-heights-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-central-surrattsville-football@oldlinerankings
-DTSTAMP:20261016T194616Z
+DTSTAMP:20261016T195233Z
 DTSTART;TZID=America/New_York:20260926T130000
 DTEND;TZID=America/New_York:20260926T150000
 SUMMARY:Football: Surrattsville at Central
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/surrattsville-high-school-clinton-md/gam4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-frederick-douglass-pg-central-football@oldlinerankings
-DTSTAMP:20261016T194616Z
+DTSTAMP:20261016T195233Z
 DTSTART;TZID=America/New_York:20261003T130000
 DTEND;TZID=America/New_York:20261003T150000
 SUMMARY:Football: Central at Frederick Douglass-PG
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/central-high-school-capitol-heights-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-central-gwynn-park-football@oldlinerankings
-DTSTAMP:20261016T194616Z
+DTSTAMP:20261016T195233Z
 DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T203000
 SUMMARY:Football: Gwynn Park at Central
@@ -66,7 +66,7 @@ URL:https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gamf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-largo-central-football@oldlinerankings
-DTSTAMP:20261016T194616Z
+DTSTAMP:20261016T195233Z
 DTSTART;TZID=America/New_York:20261017T120000
 DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Football: Central at Largo
@@ -75,7 +75,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6879069
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-crossland-central-football@oldlinerankings
-DTSTAMP:20261016T194616Z
+DTSTAMP:20261016T195233Z
 DTSTART;TZID=America/New_York:20261024T140000
 DTEND;TZID=America/New_York:20261024T160000
 SUMMARY:Football: Central at Crossland
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-central-fairmont-heights-football@oldlinerankings
-DTSTAMP:20261016T194616Z
+DTSTAMP:20261016T195233Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Fairmont Heights at Central
