@@ -108,7 +108,7 @@ def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, se
     remaining = []  # (a, b, a home?)
     for t in teams:
         for x in t["upcoming"]:
-            if x["status"] != "postponed" and (not x["member"] or t["school"] < x["opp"]):
+            if x["status"] != "postponed" and x["date"] <= playoffs["last_date"] and (not x["member"] or t["school"] < x["opp"]):
                 remaining.append((t["school"], x["opp"], x["home"]))
     tally = {s: collections.Counter() for s in member}
 

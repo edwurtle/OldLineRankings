@@ -54,7 +54,8 @@ SOCCER = dict(
     ties=True, example=dict(cls="3A", W=7, L=2, T=1),
     # Soccer bulletin: every team is seeded in its region by winning percentage (fewer than 9 games
     # divide by 9); each region plays down to one champion; the 8 champions are reseeded by it
-    playoffs=dict(seed_by="winpct", min_games=9, region_seeds=8, per_region=1),
+    # last_date: the bulletin's "last play date for seeding consideration"; later games don't count
+    playoffs=dict(seed_by="winpct", min_games=9, region_seeds=8, per_region=1, last_date="2026-10-24"),
     # Old Line Rating as for football but on goals: margin capped at 4, no win bonus. Backtested on 2026
     # weeks 3+ (each week from earlier games): boys 73% of winners vs 70% for class+opponent-wins points;
     # girls 68% vs 70% (within noise). k is set per site below.
@@ -76,7 +77,7 @@ SITES = {
         ties=False, example=dict(cls="3A", W=5, L=2, T=0),
         # Football bulletin: region top 8 by MPSSAA points play two rounds; two per region reach the
         # 8-team state quarterfinal, reseeded by MPSSAA points
-        playoffs=dict(seed_by="mpssaa", region_seeds=8, per_region=2), first_meeting_only=True,
+        playoffs=dict(seed_by="mpssaa", region_seeds=8, per_region=2, last_date="2026-10-31"), first_meeting_only=True,
         # Old Line Rating: margin capped at 28 (under the 35-point running clock), 4-point win bonus,
         # pulled toward class average by 3 games' worth; k = win-probability scale per rating point.
         # Backtested on 2026 weeks 3-6 (games after the week-2 fit): picks 75% of winners vs 70% for MPSSAA points.
@@ -297,13 +298,13 @@ def match_schools(team_names, logo_prefix=""):
     return out, missing
 
 
-def project(raw_games, standings, class_pts, teams, first_meeting_only, wins, key="proj"):
-    """Records and MPSSAA points as if every remaining (non-postponed) game went to the favorite;
+def project(raw_games, standings, class_pts, teams, first_meeting_only, wins, last_date, key="proj"):
+    """Records and MPSSAA points as if every remaining (non-postponed) game through last_date went to the favorite;
     wins(team, opponent, team_home) says whether `team` is favored. Adds t[key] to each team."""
     extra = []
     for t in teams:
         for u in t["upcoming"]:
-            if u["status"] == "postponed" or (u["member"] and u["opp"] < t["school"]):
+            if u["status"] == "postponed" or u["date"] > last_date or (u["member"] and u["opp"] < t["school"]):
                 continue  # each member-vs-member game once
             won = wins(t["school"], u["opp"], u["home"])
             extra.append(dict(school=t["school"], opponent=u["opp"], result="Win" if won else "Loss",
@@ -330,7 +331,8 @@ def build_site(key, cfg, nonce, stamp):
             ratings, home, class_means = oldline.rate(teams, cfg["olr"], list(cfg["classes"]))
             assign_ranks(teams)
             project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False),
-                    lambda a, b, a_home: oldline.win_prob(ratings[a], ratings[b], 1 if a_home else -1, home, cfg["olr"]["k"]) >= .5)
+                    lambda a, b, a_home: oldline.win_prob(ratings[a], ratings[b], 1 if a_home else -1, home, cfg["olr"]["k"]) >= .5,
+                    cfg["playoffs"]["last_date"])
             oldline.simulate(teams, cfg["classes"], ratings, home, cfg["olr"], cfg["playoffs"], cfg["regions"])
             members = {t["school"] for t in teams}
             sports[div]["nonmember"] = {x: round(v, 2) for x, v in ratings.items() if x not in members}
@@ -341,7 +343,7 @@ def build_site(key, cfg, nonce, stamp):
             # No game-prediction model: the higher-rated team wins; members beat non-members
             rating = {t["school"]: t["rating"] for t in teams}
             project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False),
-                    lambda a, b, a_home: b not in rating or rating[a] >= rating[b])
+                    lambda a, b, a_home: b not in rating or rating[a] >= rating[b], cfg["playoffs"]["last_date"])
         print(f"{key}/{div}: {len(teams)} teams, games through {sports[div]['through']}")
     names = sorted({t["school"] for s in sports.values() for t in s["teams"]})
     schools, missing = match_schools(names, root)

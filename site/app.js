@@ -553,7 +553,7 @@ function renderFinal8(r) {
     const lines = `<span class="d-rec mono">${recTxt(x)}</span>` + (SEEDS_BY_POINTS ? `<span class="d-pts">${x.avg.toFixed(2)} MPSSAA</span>` : "");
     if (!projected) return lines;
     // Projected: a link under both lines opens the games behind the projection
-    const left = t.upcoming.filter(u => u.status !== "postponed").length;
+    const left = t.upcoming.filter(seedable).length;
     return lines + (left ? `<button class="proj-link" data-proj="${esc(t.school)}" title="How this was projected">${left} game${left === 1 ? "" : "s"} projected ›</button>`
       : `<span class="d-done">Season complete</span>`);
   };
@@ -843,8 +843,10 @@ function render() {
 
 // "Projected" chip: a floating panel with the current record, each remaining game's projected result
 // (higher Old Line Rating wins) and the projected record
+// Remaining games that count toward seeding: not postponed, played by the bulletin's last seeding date
+const seedable = u => u.status !== "postponed" && !(PL && u.date > PL.last_date);
 function projPanel(g, t) {
-  const games = t.upcoming.filter(u => u.status !== "postponed").map(u => {
+  const games = t.upcoming.filter(seedable).map(u => {
     const p = winProb(g, t.school, u.opp, u.home ? 1 : -1);
     return `<li><span>${fmtDate(u.date)} ${u.home ? "vs" : "@"} ${esc(u.opp)}</span><b class="${p >= .5 ? "w" : "l"}">${p >= .5 ? "W" : "L"}</b><small>${pct(100 * (p >= .5 ? p : 1 - p))}</small></li>`;
   }).join("");
