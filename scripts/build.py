@@ -174,6 +174,10 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
         if b in std and b < a:
             a, b, sa, sb = b, a, sb, sa
             r = FLIP.get(r)
+        # A result dated after today (Eastern) can't be real yet (entered early or by mistake): keep it upcoming
+        if r and x["game_date"] and x["game_date"] > now_et().date().isoformat():
+            unplayed[(x["game_date"], a, b)] = (home, False)
+            continue
         if not r:
             if x["result"] != "Cancelled" and x["game_date"]:
                 unplayed[(x["game_date"], a, b)] = (home, x["result"] == "Postponed")
