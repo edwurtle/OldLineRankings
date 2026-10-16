@@ -6,7 +6,7 @@ X-WR-CALNAME:Joppatowne Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-joppatowne-edgewood-boys-soccer@oldlinerankings
-DTSTAMP:20261016T035119Z
+DTSTAMP:20261016T035815Z
 DTSTART;TZID=America/New_York:20260904T153000
 DTEND;TZID=America/New_York:20260904T173000
 SUMMARY:Boys Soccer: Edgewood at Joppatowne
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamed4cb5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-havre-de-grace-joppatowne-boys-soccer@oldlinerankings
-DTSTAMP:20261016T035119Z
+DTSTAMP:20261016T035815Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Boys Soccer: Joppatowne at Havre de Grace
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gam5f3abe
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-joppatowne-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261016T035119Z
+DTSTAMP:20261016T035815Z
 DTSTART;TZID=America/New_York:20260910T172500
 DTEND;TZID=America/New_York:20260910T192500
 SUMMARY:Boys Soccer: Aberdeen at Joppatowne
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gamded7d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-joppatowne-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261016T035119Z
+DTSTAMP:20261016T035815Z
 DTSTART;TZID=America/New_York:20260914T174500
 DTEND;TZID=America/New_York:20260914T194500
 SUMMARY:Boys Soccer: Bel Air at Joppatowne
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gam2613de
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-joppatowne-north-east-c-boys-soccer@oldlinerankings
-DTSTAMP:20261016T035119Z
+DTSTAMP:20261016T035815Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Boys Soccer: North East-C at Joppatowne
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Joppatowne 0\, North East-C 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-joppatowne-edgewood-boys-soccer@oldlinerankings
-DTSTAMP:20261016T035119Z
+DTSTAMP:20261016T035815Z
 DTSTART;TZID=America/New_York:20260924T153000
 DTEND;TZID=America/New_York:20260924T173000
 SUMMARY:Boys Soccer: Edgewood at Joppatowne
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gamdca15
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-joppatowne-elkton-boys-soccer@oldlinerankings
-DTSTAMP:20261016T035119Z
+DTSTAMP:20261016T035815Z
 DTSTART;TZID=America/New_York:20260925T173000
 DTEND;TZID=America/New_York:20260925T193000
 SUMMARY:Boys Soccer: Elkton at Joppatowne
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gam0f57d1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-joppatowne-benjamin-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261016T035119Z
+DTSTAMP:20261016T035815Z
 DTSTART;TZID=America/New_York:20260928T153000
 DTEND;TZID=America/New_York:20260928T173000
 SUMMARY:Boys Soccer: Benjamin Franklin at Joppatowne
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamd833c2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-joppatowne-fallston-boys-soccer@oldlinerankings
-DTSTAMP:20261016T035119Z
+DTSTAMP:20261016T035815Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Boys Soccer: Fallston at Joppatowne
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamb04e8d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-joppatowne-acce-boys-soccer@oldlinerankings
-DTSTAMP:20261016T035119Z
+DTSTAMP:20261016T035815Z
 DTSTART;TZID=America/New_York:20261008T153000
 DTEND;TZID=America/New_York:20261008T173000
 SUMMARY:Boys Soccer: ACCE at Joppatowne
@@ -105,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamb7e024
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-joppatowne-patterson-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261016T035119Z
+DTSTAMP:20261016T035815Z
 DTSTART;TZID=America/New_York:20261009T150000
 DTEND;TZID=America/New_York:20261009T170000
 SUMMARY:Boys Soccer: Patterson Mill at Joppatowne
@@ -115,7 +115,7 @@ URL:https://www.nfhsnetwork.com/events/patterson-mill-high-school-bel-air-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-joppatowne-bohemia-manor-boys-soccer@oldlinerankings
-DTSTAMP:20261016T035119Z
+DTSTAMP:20261016T035815Z
 DTSTART;TZID=America/New_York:20261013T180000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Boys Soccer: Bohemia Manor at Joppatowne

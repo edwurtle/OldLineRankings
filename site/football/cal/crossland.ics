@@ -6,7 +6,7 @@ X-WR-CALNAME:Crossland Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-crossland-bladensburg-football@oldlinerankings
-DTSTAMP:20261016T035052Z
+DTSTAMP:20261016T035746Z
 DTSTART;TZID=America/New_York:20260904T140000
 DTEND;TZID=America/New_York:20260904T160000
 SUMMARY:Football: Bladensburg at Crossland
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-crossland-va-alexandria-city-football@oldlinerankings
-DTSTAMP:20261016T035052Z
+DTSTAMP:20261016T035746Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Football: VA- Alexandria City at Crossland
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/alexandria-city-high-school-alexandria-va
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-crossland-largo-football@oldlinerankings
-DTSTAMP:20261016T035052Z
+DTSTAMP:20261016T035746Z
 DTSTART;TZID=America/New_York:20260918T190000
 DTEND;TZID=America/New_York:20260918T210000
 SUMMARY:Football: Largo at Crossland
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gam88
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-crossland-frederick-douglass-pg-football@oldlinerankings
-DTSTAMP:20261016T035052Z
+DTSTAMP:20261016T035746Z
 DTSTART;TZID=America/New_York:20260926T140000
 DTEND;TZID=America/New_York:20260926T160000
 SUMMARY:Football: Frederick Douglass-PG at Crossland
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-crossland-friendly-football@oldlinerankings
-DTSTAMP:20261016T035052Z
+DTSTAMP:20261016T035746Z
 DTSTART;TZID=America/New_York:20261002T170000
 DTEND;TZID=America/New_York:20261002T190000
 SUMMARY:Football: Friendly at Crossland
@@ -56,7 +56,7 @@ URL:https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-crossland-fairmont-heights-football@oldlinerankings
-DTSTAMP:20261016T035052Z
+DTSTAMP:20261016T035746Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Football: Fairmont Heights at Crossland
@@ -65,7 +65,7 @@ DESCRIPTION:Final: Crossland 18\, Fairmont Heights 19
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-crossland-gwynn-park-football@oldlinerankings
-DTSTAMP:20261016T035052Z
+DTSTAMP:20261016T035746Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Gwynn Park at Crossland
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gam4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-crossland-central-football@oldlinerankings
-DTSTAMP:20261016T035052Z
+DTSTAMP:20261016T035746Z
 DTSTART;TZID=America/New_York:20261024T140000
 DTEND;TZID=America/New_York:20261024T160000
 SUMMARY:Football: Central at Crossland
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-crossland-surrattsville-football@oldlinerankings
-DTSTAMP:20261016T035052Z
+DTSTAMP:20261016T035746Z
 DTSTART;TZID=America/New_York:20261030T140000
 DTEND;TZID=America/New_York:20261030T160000
 SUMMARY:Football: Surrattsville at Crossland
