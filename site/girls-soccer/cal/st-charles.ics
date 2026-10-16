@@ -6,7 +6,7 @@ X-WR-CALNAME:St. Charles Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-patuxent-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261015T133153Z
+DTSTAMP:20261016T032048Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: St. Charles at Patuxent
@@ -15,7 +15,7 @@ DESCRIPTION:Final: St. Charles 1\, Patuxent 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-calvert-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261015T133153Z
+DTSTAMP:20261016T032048Z
 DTSTART;TZID=America/New_York:20260910T181500
 DTEND;TZID=America/New_York:20260910T201500
 SUMMARY:Girls Soccer: St. Charles at Calvert
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-northern-c-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261015T133153Z
+DTSTAMP:20261016T032048Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: St. Charles at Northern-C
@@ -34,7 +34,7 @@ DESCRIPTION:Final: St. Charles 0\, Northern-C 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-st-charles-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261015T133153Z
+DTSTAMP:20261016T032048Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Leonardtown at St. Charles
@@ -43,7 +43,7 @@ DESCRIPTION:Final: St. Charles 0\, Leonardtown 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-st-charles-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261015T133153Z
+DTSTAMP:20261016T032048Z
 DTSTART;TZID=America/New_York:20260929T173000
 DTEND;TZID=America/New_York:20260929T193000
 SUMMARY:Girls Soccer: Chopticon at St. Charles
@@ -53,7 +53,7 @@ URL:https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gam551e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-patuxent-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261015T133153Z
+DTSTAMP:20261016T032048Z
 DTSTART;TZID=America/New_York:20261005T170000
 DTEND;TZID=America/New_York:20261005T190000
 SUMMARY:Girls Soccer: St. Charles at Patuxent
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gamaf5920a5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-henry-e-lackey-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261015T133153Z
+DTSTAMP:20261016T032048Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Girls Soccer: St. Charles at Henry E. Lackey
@@ -73,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gamc91a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-st-charles-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261015T133153Z
+DTSTAMP:20261016T032048Z
 DTSTART;TZID=America/New_York:20261008T181500
 DTEND;TZID=America/New_York:20261008T201500
 SUMMARY:Girls Soccer: North Point at St. Charles
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gam5d29
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-st-charles-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261015T133153Z
+DTSTAMP:20261016T032048Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Great Mills at St. Charles
@@ -92,27 +92,27 @@ DESCRIPTION:Final: St. Charles 0\, Great Mills 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-huntingtown-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261015T133153Z
+DTSTAMP:20261016T032048Z
 DTSTART;TZID=America/New_York:20261015T181500
 DTEND;TZID=America/New_York:20261015T201500
 SUMMARY:Girls Soccer: St. Charles at Huntingtown
 LOCATION:Huntingtown
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gama0435bb9df\nTickets: https://gofan.co/event/6713046
+DESCRIPTION:Final: St. Charles 0\, Huntingtown 13\nWatch: https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gama0435bb9df
 URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gama0435bb9df
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-st-charles-henry-e-lackey-girls-soccer@oldlinerankings
-DTSTAMP:20261015T133153Z
+DTSTAMP:20261016T032048Z
 DTSTART;TZID=America/New_York:20261019T181500
 DTEND;TZID=America/New_York:20261019T201500
 SUMMARY:Girls Soccer: Henry E. Lackey at St. Charles
 LOCATION:St. Charles
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gamd29bc5db53
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gamd29bc5db53\nTickets: https://gofan.co/event/6969383
 URL:https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gamd29bc5db53
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-international-hs-at-langley-park-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261015T133153Z
+DTSTAMP:20261016T032048Z
 DTSTART;TZID=America/New_York:20261022T163000
 DTEND;TZID=America/New_York:20261022T183000
 SUMMARY:Girls Soccer: St. Charles at International HS at Langley Park

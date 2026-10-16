@@ -6,7 +6,7 @@ X-WR-CALNAME:High Point Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-high-point-northwestern-boys-soccer@oldlinerankings
-DTSTAMP:20261015T133127Z
+DTSTAMP:20261016T032018Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Northwestern at High Point
@@ -15,7 +15,7 @@ DESCRIPTION:Final: High Point 4\, Northwestern 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-high-point-charles-h-flowers-boys-soccer@oldlinerankings
-DTSTAMP:20261015T133127Z
+DTSTAMP:20261016T032018Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Charles H. Flowers at High Point
@@ -24,7 +24,7 @@ DESCRIPTION:Final: High Point 1\, Charles H. Flowers 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-high-point-parkdale-boys-soccer@oldlinerankings
-DTSTAMP:20261015T133127Z
+DTSTAMP:20261016T032018Z
 DTSTART;TZID=America/New_York:20260917T153000
 DTEND;TZID=America/New_York:20260917T173000
 SUMMARY:Boys Soccer: Parkdale at High Point
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gamc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-high-point-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261015T133127Z
+DTSTAMP:20261016T032018Z
 DTSTART;TZID=America/New_York:20260924T153000
 DTEND;TZID=America/New_York:20260924T173000
 SUMMARY:Boys Soccer: Suitland at High Point
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gam3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-high-point-laurel-boys-soccer@oldlinerankings
-DTSTAMP:20261015T133127Z
+DTSTAMP:20261016T032018Z
 DTSTART;TZID=America/New_York:20260928T153000
 DTEND;TZID=America/New_York:20260928T173000
 SUMMARY:Boys Soccer: Laurel at High Point
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam0d31d2444
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-high-point-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261015T133127Z
+DTSTAMP:20261016T032018Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at High Point
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-baltimore-city-college-high-point-boys-soccer@oldlinerankings
-DTSTAMP:20261015T133127Z
+DTSTAMP:20261016T032018Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Boys Soccer: High Point at Baltimore City College
@@ -73,7 +73,7 @@ DESCRIPTION:Final: High Point 2\, Baltimore City College 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-high-point-duval-boys-soccer@oldlinerankings
-DTSTAMP:20261015T133127Z
+DTSTAMP:20261016T032018Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Duval at High Point
@@ -82,7 +82,7 @@ DESCRIPTION:Final: High Point 2\, Duval 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-high-point-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261015T133127Z
+DTSTAMP:20261016T032018Z
 DTSTART;TZID=America/New_York:20261012T170000
 DTEND;TZID=America/New_York:20261012T190000
 SUMMARY:Boys Soccer: Bowie at High Point
@@ -92,21 +92,30 @@ URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gamc7f9080c2b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-high-point-eleanor-roosevelt-boys-soccer@oldlinerankings
-DTSTAMP:20261015T133127Z
-DTSTART;TZID=America/New_York:20261015T150000
-DTEND;TZID=America/New_York:20261015T170000
+DTSTAMP:20261016T032018Z
+DTSTART;TZID=America/New_York:20261015T163000
+DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: Eleanor Roosevelt at High Point
 LOCATION:High Point
-DESCRIPTION:Tickets: https://gofan.co/event/6967426
+DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-md/gam7d6a173f86
+URL:https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-md/gam7d6a173f86
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-high-point-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261015T133127Z
+DTSTAMP:20261016T032018Z
 DTSTART;TZID=America/New_York:20261019T180000
 DTEND;TZID=America/New_York:20261019T200000
 SUMMARY:Boys Soccer: Bladensburg at High Point
 LOCATION:High Point
 DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam109396b0fc\nTickets: https://gofan.co/event/6792939
 URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam109396b0fc
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-baltimore-polytechnic-high-point-boys-soccer@oldlinerankings
+DTSTAMP:20261016T032018Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Boys Soccer: High Point at Baltimore Polytechnic
+LOCATION:Baltimore Polytechnic
 END:VEVENT
 END:VCALENDAR

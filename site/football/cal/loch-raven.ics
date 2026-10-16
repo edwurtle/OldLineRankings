@@ -6,7 +6,7 @@ X-WR-CALNAME:Loch Raven Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-loch-raven-eastern-tech-football@oldlinerankings
-DTSTAMP:20261015T133101Z
+DTSTAMP:20261016T031948Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Eastern Tech at Loch Raven
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Loch Raven 14\, Eastern Tech 28
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-western-tech-loch-raven-football@oldlinerankings
-DTSTAMP:20261015T133101Z
+DTSTAMP:20261016T031948Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Loch Raven at Western Tech
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Loch Raven 38\, Western Tech 12
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-pikesville-loch-raven-football@oldlinerankings
-DTSTAMP:20261015T133101Z
+DTSTAMP:20261016T031948Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Loch Raven at Pikesville
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Loch Raven 28\, Pikesville 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-loch-raven-sparrows-point-football@oldlinerankings
-DTSTAMP:20261015T133101Z
+DTSTAMP:20261016T031948Z
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T200000
 SUMMARY:Football: Sparrows Point at Loch Raven
@@ -43,7 +43,7 @@ URL:https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-loch-raven-chesapeake-b-football@oldlinerankings
-DTSTAMP:20261015T133101Z
+DTSTAMP:20261016T031948Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Chesapeake-B at Loch Raven
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Loch Raven 20\, Chesapeake-B 16
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-loch-raven-towson-football@oldlinerankings
-DTSTAMP:20261015T133101Z
+DTSTAMP:20261016T031948Z
 DTSTART;TZID=America/New_York:20261010T130000
 DTEND;TZID=America/New_York:20261010T150000
 SUMMARY:Football: Towson at Loch Raven
@@ -62,16 +62,16 @@ URL:https://www.nfhsnetwork.com/events/towson-high-school-towson-md/gam519cdb10f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-loch-raven-rockville-football@oldlinerankings
-DTSTAMP:20261015T133101Z
-DTSTART;TZID=America/New_York:20261015T180000
-DTEND;TZID=America/New_York:20261015T200000
+DTSTAMP:20261016T031948Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
 SUMMARY:Football: Rockville at Loch Raven
 LOCATION:Loch Raven
-DESCRIPTION:Tickets: https://gofan.co/event/6843289
+DESCRIPTION:Final: Loch Raven 14\, Rockville 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-loch-raven-lansdowne-football@oldlinerankings
-DTSTAMP:20261015T133101Z
+DTSTAMP:20261016T031948Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Football: Lansdowne at Loch Raven
@@ -79,7 +79,7 @@ LOCATION:Loch Raven
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-loch-raven-patapsco-football@oldlinerankings
-DTSTAMP:20261015T133101Z
+DTSTAMP:20261016T031948Z
 DTSTART;TZID=America/New_York:20261029T160000
 DTEND;TZID=America/New_York:20261029T180000
 SUMMARY:Football: Patapsco at Loch Raven
