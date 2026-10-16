@@ -6,7 +6,7 @@ X-WR-CALNAME:Calvert Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-calvert-md-archbishop-spalding-girls-soccer@oldlinerankings
-DTSTAMP:20261016T081925Z
+DTSTAMP:20261016T194713Z
 DTSTART;TZID=America/New_York:20260904T173000
 DTEND;TZID=America/New_York:20260904T193000
 SUMMARY:Girls Soccer: MD- Archbishop Spalding at Calvert
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-calvert-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261016T081925Z
+DTSTAMP:20261016T194713Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: North Point at Calvert
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Calvert 1\, North Point 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-calvert-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261016T081925Z
+DTSTAMP:20261016T194713Z
 DTSTART;TZID=America/New_York:20260910T181500
 DTEND;TZID=America/New_York:20260910T201500
 SUMMARY:Girls Soccer: St. Charles at Calvert
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-calvert-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261016T081925Z
+DTSTAMP:20261016T194713Z
 DTSTART;TZID=America/New_York:20260917T203500
 DTEND;TZID=America/New_York:20260917T223500
 SUMMARY:Girls Soccer: Northern-C at Calvert
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-leonardtown-calvert-girls-soccer@oldlinerankings
-DTSTAMP:20261016T081925Z
+DTSTAMP:20261016T194713Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Girls Soccer: Calvert at Leonardtown
@@ -54,7 +54,7 @@ DESCRIPTION:Final: Calvert 2\, Leonardtown 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-calvert-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261016T081925Z
+DTSTAMP:20261016T194713Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
 SUMMARY:Girls Soccer: Bowie at Calvert
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gam7898160cea
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-calvert-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261016T081925Z
+DTSTAMP:20261016T194713Z
 DTSTART;TZID=America/New_York:20260924T181500
 DTEND;TZID=America/New_York:20260924T201500
 SUMMARY:Girls Soccer: Chopticon at Calvert
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-calvert-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261016T081925Z
+DTSTAMP:20261016T194713Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Girls Soccer: Leonardtown at Calvert
@@ -83,7 +83,7 @@ DESCRIPTION:Final: Calvert 2\, Leonardtown 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-calvert-huntingtown-girls-soccer@oldlinerankings
-DTSTAMP:20261016T081925Z
+DTSTAMP:20261016T194713Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Girls Soccer: Huntingtown at Calvert
@@ -93,7 +93,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-calvert-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261016T081925Z
+DTSTAMP:20261016T194713Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Girls Soccer: Westlake at Calvert
@@ -103,7 +103,7 @@ URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-calvert-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261016T081925Z
+DTSTAMP:20261016T194713Z
 DTSTART;TZID=America/New_York:20261008T181500
 DTEND;TZID=America/New_York:20261008T201500
 SUMMARY:Girls Soccer: McDonough at Calvert
@@ -113,7 +113,7 @@ URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gameed9f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-patuxent-calvert-girls-soccer@oldlinerankings
-DTSTAMP:20261016T081925Z
+DTSTAMP:20261016T194713Z
 DTSTART;TZID=America/New_York:20261013T163000
 DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Girls Soccer: Calvert at Patuxent
@@ -123,7 +123,7 @@ URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam9639a0c5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-calvert-la-plata-girls-soccer@oldlinerankings
-DTSTAMP:20261016T081925Z
+DTSTAMP:20261016T194713Z
 DTSTART;TZID=America/New_York:20261015T181500
 DTEND;TZID=America/New_York:20261015T201500
 SUMMARY:Girls Soccer: La Plata at Calvert

@@ -6,7 +6,7 @@ X-WR-CALNAME:Chesapeake-B Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-loch-raven-chesapeake-b-boys-soccer@oldlinerankings
-DTSTAMP:20261016T081853Z
+DTSTAMP:20261016T194643Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Chesapeake-B at Loch Raven
@@ -15,16 +15,16 @@ DESCRIPTION:Final: Chesapeake-B 2\, Loch Raven 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-chesapeake-b-milford-mill-academy-boys-soccer@oldlinerankings
-DTSTAMP:20261016T081853Z
+DTSTAMP:20261016T194643Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Milford Mill Academy at Chesapeake-B
 LOCATION:Chesapeake-B
-DESCRIPTION:Final: Chesapeake-B 3\, Milford Mill Academy 1
+DESCRIPTION:Final: Chesapeake-B 5\, Milford Mill Academy 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-lansdowne-chesapeake-b-boys-soccer@oldlinerankings
-DTSTAMP:20261016T081853Z
+DTSTAMP:20261016T194643Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Chesapeake-B at Lansdowne
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Chesapeake-B 3\, Lansdowne 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-carver-aandt-chesapeake-b-boys-soccer@oldlinerankings
-DTSTAMP:20261016T081853Z
+DTSTAMP:20261016T194643Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Chesapeake-B at Carver A&T
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Chesapeake-B 1\, Carver A&T 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-chesapeake-b-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261016T081853Z
+DTSTAMP:20261016T194643Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Woodlawn at Chesapeake-B
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Chesapeake-B 0\, Woodlawn 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-chesapeake-b-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261016T081853Z
+DTSTAMP:20261016T194643Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Kenwood at Chesapeake-B
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Chesapeake-B 0\, Kenwood 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-chesapeake-b-new-town-boys-soccer@oldlinerankings
-DTSTAMP:20261016T081853Z
+DTSTAMP:20261016T194643Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: New Town at Chesapeake-B
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Chesapeake-B 2\, New Town 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-chesapeake-b-overlea-boys-soccer@oldlinerankings
-DTSTAMP:20261016T081853Z
+DTSTAMP:20261016T194643Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Overlea at Chesapeake-B
@@ -78,7 +78,7 @@ DESCRIPTION:Final: Chesapeake-B 5\, Overlea 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-chesapeake-b-patapsco-boys-soccer@oldlinerankings
-DTSTAMP:20261016T081853Z
+DTSTAMP:20261016T194643Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Patapsco at Chesapeake-B
@@ -87,16 +87,16 @@ DESCRIPTION:Final: Chesapeake-B 4\, Patapsco 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-randallstown-chesapeake-b-boys-soccer@oldlinerankings
-DTSTAMP:20261016T081853Z
+DTSTAMP:20261016T194643Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Chesapeake-B at Randallstown
 LOCATION:Randallstown
-DESCRIPTION:Final: Chesapeake-B 0\, Randallstown 0
+DESCRIPTION:Final: Chesapeake-B -\, Randallstown -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-owings-mills-chesapeake-b-boys-soccer@oldlinerankings
-DTSTAMP:20261016T081853Z
+DTSTAMP:20261016T194643Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Chesapeake-B at Owings Mills
