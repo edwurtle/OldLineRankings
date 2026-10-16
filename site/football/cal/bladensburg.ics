@@ -6,7 +6,7 @@ X-WR-CALNAME:Bladensburg Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-crossland-bladensburg-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20260904T140000
 DTEND;TZID=America/New_York:20260904T160000
 SUMMARY:Football: Bladensburg at Crossland
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/gam
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-bladensburg-bowie-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Football: Bowie at Bladensburg
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-bladensburg-duval-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: DuVal at Bladensburg
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Bladensburg 0\, DuVal 34
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-bladensburg-parkdale-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T203000
 SUMMARY:Football: Parkdale at Bladensburg
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-northwestern-bladensburg-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20261003T140000
 DTEND;TZID=America/New_York:20261003T160000
 SUMMARY:Football: Bladensburg at Northwestern
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-bladensburg-charles-h-flowers-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20261009T190000
 DTEND;TZID=America/New_York:20261009T210000
 SUMMARY:Football: Charles H. Flowers at Bladensburg
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/charles-herbert-flowers-high-school-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-laurel-bladensburg-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T210000
 SUMMARY:Football: Bladensburg at Laurel
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam877b01ec0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-bladensburg-oxon-hill-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20261024T140000
 DTEND;TZID=America/New_York:20261024T160000
 SUMMARY:Football: Oxon Hill at Bladensburg
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gambfd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-bladensburg-potomac-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Potomac at Bladensburg

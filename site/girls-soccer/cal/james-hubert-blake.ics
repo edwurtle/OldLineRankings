@@ -6,7 +6,7 @@ X-WR-CALNAME:James Hubert Blake Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-albert-einstein-james-hubert-blake-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Girls Soccer: James Hubert Blake at Albert Einstein
@@ -15,7 +15,7 @@ DESCRIPTION:Final: James Hubert Blake 1\, Albert Einstein 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-james-hubert-blake-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Girls Soccer: Montgomery Blair at James Hubert Blake
@@ -24,7 +24,7 @@ DESCRIPTION:Final: James Hubert Blake 0\, Montgomery Blair 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-gaithersburg-james-hubert-blake-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: James Hubert Blake at Gaithersburg
@@ -33,7 +33,7 @@ DESCRIPTION:Final: James Hubert Blake 1\, Gaithersburg 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-james-hubert-blake-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Girls Soccer: Springbrook at James Hubert Blake
@@ -42,7 +42,7 @@ DESCRIPTION:Final: James Hubert Blake 2\, Springbrook 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-james-hubert-blake-paint-branch-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Paint Branch at James Hubert Blake
@@ -51,7 +51,7 @@ DESCRIPTION:Final: James Hubert Blake 3\, Paint Branch 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-col-zadok-magruder-james-hubert-blake-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: James Hubert Blake at Col. Zadok Magruder
@@ -60,7 +60,7 @@ DESCRIPTION:Final: James Hubert Blake 0\, Col. Zadok Magruder 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-sherwood-james-hubert-blake-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Girls Soccer: James Hubert Blake at Sherwood
@@ -69,7 +69,7 @@ DESCRIPTION:Final: James Hubert Blake 0\, Sherwood 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-walter-johnson-james-hubert-blake-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: James Hubert Blake at Walter Johnson
@@ -78,7 +78,7 @@ DESCRIPTION:Final: James Hubert Blake 0\, Walter Johnson 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-james-hubert-blake-wheaton-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Wheaton at James Hubert Blake
@@ -87,7 +87,7 @@ DESCRIPTION:Final: James Hubert Blake 3\, Wheaton 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-rockville-james-hubert-blake-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: James Hubert Blake at Rockville
@@ -96,7 +96,7 @@ DESCRIPTION:Final: James Hubert Blake 1\, Rockville 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-watkins-mill-james-hubert-blake-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;TZID=America/New_York:20261020T180000
 DTEND;TZID=America/New_York:20261020T200000
 SUMMARY:Girls Soccer: James Hubert Blake at Watkins Mill
@@ -105,7 +105,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708887
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-northwood-james-hubert-blake-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;TZID=America/New_York:20261023T171500
 DTEND;TZID=America/New_York:20261023T191500
 SUMMARY:Girls Soccer: James Hubert Blake at Northwood

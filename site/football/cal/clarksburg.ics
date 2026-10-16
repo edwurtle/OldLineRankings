@@ -6,7 +6,7 @@ X-WR-CALNAME:Clarksburg Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-clarksburg-seneca-valley-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Seneca Valley at Clarksburg
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Clarksburg 0\, Seneca Valley 38
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-clarksburg-col-zadok-magruder-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20260910T183000
 DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Football: Col. Zadok Magruder at Clarksburg
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gamf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-damascus-clarksburg-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20260918T183000
 DTEND;TZID=America/New_York:20260918T203000
 SUMMARY:Football: Clarksburg at Damascus
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gam7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-clarksburg-richard-montgomery-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Football: Richard Montgomery at Clarksburg
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-clarksburg-sherwood-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Football: Sherwood at Clarksburg
@@ -54,7 +54,7 @@ DESCRIPTION:Final: Clarksburg 6\, Sherwood 31
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-rockville-clarksburg-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Football: Clarksburg at Rockville
@@ -63,7 +63,7 @@ DESCRIPTION:Final: Clarksburg 61\, Rockville 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-clarksburg-quince-orchard-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Quince Orchard at Clarksburg
@@ -73,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-watkins-mill-clarksburg-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Clarksburg at Watkins Mill
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gamf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-clarksburg-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261016T044643Z
+DTSTAMP:20261016T081824Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Thomas S. Wootton at Clarksburg

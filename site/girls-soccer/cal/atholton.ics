@@ -6,7 +6,7 @@ X-WR-CALNAME:Atholton Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-hammond-atholton-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Girls Soccer: Atholton at Hammond
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Atholton 5\, Hammond 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-atholton-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;TZID=America/New_York:20260905T090000
 DTEND;TZID=America/New_York:20260905T110000
 SUMMARY:Girls Soccer: Montgomery Blair at Atholton
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-atholton-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;TZID=America/New_York:20260905T160500
 DTEND;TZID=America/New_York:20260905T180500
 SUMMARY:Girls Soccer: Northern-C at Atholton
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/atholton-high-school-columbia-md/gamc6052
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-glenelg-atholton-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Girls Soccer: Atholton at Glenelg
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Atholton 1\, Glenelg 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-howard-atholton-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Atholton at Howard
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Atholton 0\, Howard 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-long-reach-atholton-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Atholton at Long Reach
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Atholton 3\, Long Reach 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-marriotts-ridge-atholton-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Atholton at Marriotts Ridge
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Atholton 3\, Marriotts Ridge 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-mount-hebron-atholton-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Atholton at Mount Hebron
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Atholton 0\, Mount Hebron 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-atholton-guilford-park-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T193000
 SUMMARY:Girls Soccer: Guilford Park at Atholton
@@ -90,7 +90,7 @@ URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gam50
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-atholton-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Oakland Mills at Atholton
@@ -99,7 +99,7 @@ DESCRIPTION:Final: Atholton 9\, Oakland Mills 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-atholton-reservoir-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Reservoir at Atholton
@@ -108,7 +108,7 @@ DESCRIPTION:Final: Atholton 1\, Reservoir 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-centennial-atholton-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Girls Soccer: Atholton at Centennial
@@ -116,7 +116,7 @@ LOCATION:Centennial
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-river-hill-atholton-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: Atholton at River Hill
@@ -124,7 +124,7 @@ LOCATION:River Hill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-wilde-lake-atholton-girls-soccer@oldlinerankings
-DTSTAMP:20261016T044735Z
+DTSTAMP:20261016T081925Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: Atholton at Wilde Lake
