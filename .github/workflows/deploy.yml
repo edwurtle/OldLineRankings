@@ -2,9 +2,8 @@ name: Refresh results & deploy
 
 on:
   schedule:
-    # Off the top of the hour, when GitHub delays scheduled runs the most (UTC; Eastern is UTC-4 in
-    # daylight time, UTC-5 in winter). The second run is a backup in case the first is delayed or skipped.
-    - cron: "17 8 * * *"    # 4:17am EDT / 3:17am EST
+    # The nightly run is started at 4:17am Eastern by a Cloudflare Worker (cloudflare/refresh/), since
+    # GitHub's schedule has been starting runs hours late. This GitHub schedule is only a backup (UTC).
     - cron: "47 10 * * *"   # 6:47am EDT / 5:47am EST
   workflow_dispatch:       # "Run workflow" button for an on-demand refresh
   push:

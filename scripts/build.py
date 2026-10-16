@@ -15,7 +15,7 @@ would have earned had it won every game.
 Football is ranked by the Old Line Rating instead (see oldline.py); its MPSSAA points are kept
 for playoff seeding.
 """
-import collections, datetime, html, json, pathlib, re, shutil, subprocess, time, urllib.parse
+import collections, datetime, html, json, pathlib, re, shutil, subprocess, time, urllib.parse, zoneinfo
 import gofan, icons, nfhs, oldline
 
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
@@ -26,6 +26,20 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 SCORE_FIXES = {
     "football": {("2026-09-04", "Linganore", "Mergenthaler"): (29, 28)},
 }
+
+# Maryland time: "today" and "updated" follow Eastern time, not the build server's clock (UTC)
+ET = zoneinfo.ZoneInfo("America/New_York")
+
+
+def now_et():
+    return datetime.datetime.now(ET)
+
+
+def updated_et():
+    """'Oct 15, 2026, 11:19 PM ET': when this build ran, Eastern time."""
+    t = now_et()
+    return f"{t:%b} {t.day}, {t.year}, {t.hour % 12 or 12}:{t:%M} {'AM' if t.hour < 12 else 'PM'} ET"
+
 
 # Canonical address of the site (search engines, link previews, sitemap)
 SITE_URL = "https://oldlinerankings.com"
@@ -187,9 +201,9 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
     pairs = collections.defaultdict(list)
     for dt, a, b in list(entries) + list(unplayed):
         pairs[(a, b)].append(dt)
-    today = datetime.date.today().isoformat()
+    today = now_et().date().isoformat()
     upcoming = collections.defaultdict(list)
-    stale = (datetime.date.today() - datetime.timedelta(days=7)).isoformat()
+    stale = (now_et().date() - datetime.timedelta(days=7)).isoformat()
     for (dt, a, b), (home, postponed) in unplayed.items():
         if (dt, a, b) in entries:
             continue
@@ -342,7 +356,7 @@ def build_site(key, cfg, nonce, stamp):
                                      for k, c in SITES.items()] + [c | dict(icon=icons.svg(c["icon"])) for c in COMING])
     config = {k: v for k, v in cfg.items() if k not in ("out", "divisions")} | dict(
         family=family, divisions={k: d["label"] for k, d in cfg["divisions"].items()})
-    data = dict(updated=datetime.datetime.now().strftime("%b %-d, %Y"), config=config, schools=schools, sports=sports)
+    data = dict(updated=updated_et(), config=config, schools=schools, sports=sports)
     (out / "data.js").write_text("window.DATA = " + json.dumps(data, separators=(",", ":")) + ";\n")
     # Every site shares one page shell; asset links are cache-busted so browsers pick up new data/code
     page = (ROOT / "scripts" / "page.html").read_text()
@@ -377,7 +391,7 @@ def write_team_page(out, page, cfg, div, s, t, schools, rel, sport_description):
     rec = f'{t["W"]}-{t["L"]}' + (f'-{t["T"]}' if cfg.get("ties") else "")
     region_rank = [x for x in s["teams"] if x["cls"] == t["cls"] and x["region"] == t["region"]].index(t) + 1
     rating = f'{t["rating"]:+.{cfg["olr"].get("digits", 1)}f}' if cfg.get("olr") else f'{t["rating"]:.2f}'
-    year = (s["through"] or datetime.date.today().isoformat())[:4]
+    year = (s["through"] or now_et().date().isoformat())[:4]
     name = f"{school} {mascot}" if mascot else school
     title = f"{name} {sport} · Rankings, Schedule & Scores · Old Line Rankings"
     desc = (f"{school} ({cls} {t['region']}) is {rec}, #{t['rank']} in {cls} by Old Line Rating. "
@@ -551,7 +565,7 @@ def game_of_week(b, days=7):
     cfg = b["cfg"]
     if not cfg.get("olr"):
         return None
-    today = datetime.date.today()
+    today = now_et().date()
     best = {}
     for div, s in b["sports"].items():
         teams = {t["school"]: t for t in s["teams"]}
@@ -640,7 +654,7 @@ def write_splash(built, stamp):
     family = "".join(f'<a href="{b["href"]}">{icons.svg(b["cfg"]["icon"])}{esc(b["cfg"]["sport"])}</a>' for b in built) + "".join(
         f'<span class="soon" title="{esc(c["note"])}">{icons.svg(c["icon"])}{esc(c["sport"])} <small>soon</small></span>' for c in COMING)
     through = max(s["through"] for b in built for s in b["sports"].values() if s["through"])
-    updated = f'Games through {datetime.date.fromisoformat(through):%B %-d, %Y} · updated {datetime.datetime.now():%b %-d, %Y}'
+    updated = f'Games through {datetime.date.fromisoformat(through):%B %-d, %Y} · updated {updated_et()}'
     description = ("Rankings, schedules, playoff brackets and games of the week for every Maryland public high school team: "
                    + ", ".join(b["cfg"]["sport"].lower() for b in built) + ". Updated nightly from MPSSAA results.")
     for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), gotw=gotw_html, sportlinks=links, family=family, updated=updated,
@@ -650,7 +664,7 @@ def write_splash(built, stamp):
     (ROOT / "site" / "index.html").write_text(page)
     print("Wrote site/index.html (splash)")
     # Search engines: every page's address, and where to find that list
-    today = datetime.date.today().isoformat()
+    today = now_et().date().isoformat()
     urls = [f"{SITE_URL}/"] + [f"{SITE_URL}/{b['href']}{p}" for b in built for p in [""] + b["pages"]] + [
         f"{SITE_URL}/{b['href']}{t['slug']}/" for b in built for s in b["sports"].values() for t in s["teams"]]
     (ROOT / "site" / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
@@ -669,7 +683,7 @@ def main():
     else:
         raise SystemExit("MPSSAA scores page never returned a nonce")
     nonce = m.group(1)
-    stamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
+    stamp = now_et().strftime("%Y%m%d%H%M%S")
     built = [build_site(key, cfg, nonce, stamp) for key, cfg in SITES.items()]
     write_splash(built, stamp)
 

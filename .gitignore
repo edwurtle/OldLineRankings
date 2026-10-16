@@ -4,3 +4,4 @@ __pycache__/
 scripts/cache/raw/
 *.csv
 /Screenshot*
+.wrangler/

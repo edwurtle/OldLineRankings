@@ -1,0 +1,11 @@
+# Cloudflare Worker that starts the nightly "Refresh results & deploy" GitHub workflow on time
+# (GitHub's own schedule has been starting runs hours late). See README.md in this folder.
+name = "oldlinerankings-refresh"
+main = "index.js"
+compatibility_date = "2026-10-01"
+workers_dev = false   # no public web address; it only runs on the schedule below
+
+[triggers]
+# Cron times are UTC. Both fire every day; index.js only acts on the one that's 4:17 AM in Maryland
+# (08:17 UTC in daylight time, 09:17 UTC in standard time).
+crons = ["17 8 * * *", "17 9 * * *"]

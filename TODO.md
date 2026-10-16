@@ -16,3 +16,6 @@
 5. **More playoff simulations (later)**: 9,000 instead of 2,000 for steadier odds. Needs a faster simulator first:
    at 9,000 the nightly build ran several minutes per sport (`n` in `scripts/oldline.py` `simulate`, and the
    "2,000 simulated seasons" text in `site/app.js`).
+6. **Set up the Cloudflare nightly trigger** (one time, see `cloudflare/refresh/README.md`): create a GitHub
+   token with Actions read/write, `npx wrangler login`, `npx wrangler deploy`, `npx wrangler secret put GITHUB_TOKEN`.
+   Renew the token before it expires.

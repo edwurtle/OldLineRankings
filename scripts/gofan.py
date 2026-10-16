@@ -82,7 +82,7 @@ def add_ticket_links(sports, divisions, sport, alt_names, cities):
             for gender in genders or {None}:
                 for sid in schools:
                     idx.setdefault((sid, gender, day), []).append((schools - {sid}, f"https://gofan.co/event/{e['id']}", time))
-    today, linked = datetime.date.today(), 0
+    today, linked = datetime.datetime.now(zoneinfo.ZoneInfo("America/New_York")).date(), 0
     for div, s in sports.items():
         gender = divisions[div]["gender"]
         for t in s["teams"]:
