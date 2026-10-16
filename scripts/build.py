@@ -175,7 +175,8 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
             a, b, sa, sb = b, a, sb, sa
             r = FLIP.get(r)
         # A result dated after today (Eastern) can't be real yet (entered early or by mistake): keep it upcoming
-        if r and x["game_date"] and x["game_date"] > now_et().date().isoformat():
+        # (project() adds future games on purpose; those are marked projected)
+        if r and x["game_date"] and x["game_date"] > now_et().date().isoformat() and not x.get("projected"):
             unplayed[(x["game_date"], a, b)] = (home, False)
             continue
         if not r:
@@ -306,7 +307,7 @@ def project(raw_games, standings, class_pts, teams, first_meeting_only, wins, ke
                 continue  # each member-vs-member game once
             won = wins(t["school"], u["opp"], u["home"])
             extra.append(dict(school=t["school"], opponent=u["opp"], result="Win" if won else "Loss",
-                              your_score=None, opponent_score=None, game_date=u["date"]))
+                              your_score=None, opponent_score=None, game_date=u["date"], projected=True))
     projected = {p["school"]: p for p in rank_sport(raw_games + extra, standings, class_pts, first_meeting_only)}
     for t in teams:
         p = projected[t["school"]]
