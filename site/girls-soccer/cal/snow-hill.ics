@@ -6,7 +6,7 @@ X-WR-CALNAME:Snow Hill Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-mardela-snow-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261016T040234Z
+DTSTAMP:20261016T044735Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Girls Soccer: Snow Hill at Mardela
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Snow Hill 3\, Mardela 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-colonel-richardson-snow-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261016T040234Z
+DTSTAMP:20261016T044735Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Girls Soccer: Snow Hill at Colonel Richardson
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-crisfield-snow-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261016T040234Z
+DTSTAMP:20261016T044735Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Snow Hill at Crisfield
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Snow Hill 10\, Crisfield 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-snow-hill-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261016T040234Z
+DTSTAMP:20261016T044735Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at Snow Hill
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Snow Hill 4\, Cambridge-South Dorchester 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-snow-hill-stephen-decatur-girls-soccer@oldlinerankings
-DTSTAMP:20261016T040234Z
+DTSTAMP:20261016T044735Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Girls Soccer: Stephen Decatur at Snow Hill
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Snow Hill 2\, Stephen Decatur 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-snow-hill-parkside-girls-soccer@oldlinerankings
-DTSTAMP:20261016T040234Z
+DTSTAMP:20261016T044735Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Parkside at Snow Hill
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Snow Hill 3\, Parkside 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-north-dorchester-snow-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261016T040234Z
+DTSTAMP:20261016T044735Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Snow Hill at North Dorchester
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Snow Hill 11\, North Dorchester 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-crisfield-snow-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261016T040234Z
+DTSTAMP:20261016T044735Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Snow Hill at Crisfield
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Snow Hill 12\, Crisfield 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-snow-hill-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261016T040234Z
+DTSTAMP:20261016T044735Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: James M. Bennett at Snow Hill
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Snow Hill 0\, James M. Bennett 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-snow-hill-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261016T040234Z
+DTSTAMP:20261016T044735Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Wicomico at Snow Hill
@@ -97,7 +97,7 @@ DESCRIPTION:Final: Snow Hill 6\, Wicomico 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-kent-county-snow-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261016T040234Z
+DTSTAMP:20261016T044735Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Snow Hill at Kent County
@@ -106,7 +106,7 @@ DESCRIPTION:Final: Snow Hill 7\, Kent County 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-mardela-snow-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261016T040234Z
+DTSTAMP:20261016T044735Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Snow Hill at Mardela

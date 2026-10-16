@@ -6,7 +6,7 @@ X-WR-CALNAME:Western Tech Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-western-tech-overlea-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Overlea at Western Tech
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Western Tech 7\, Overlea 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-western-tech-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;TZID=America/New_York:20260909T160000
 DTEND;TZID=America/New_York:20260909T180000
 SUMMARY:Boys Soccer: Kenwood at Western Tech
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/kenwood-high-school-baltimore-md/gamd7e1f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-western-tech-patapsco-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Patapsco at Western Tech
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Western Tech 4\, Patapsco 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-western-tech-owings-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Owings Mills at Western Tech
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Western Tech 4\, Owings Mills 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-western-tech-lansdowne-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Lansdowne at Western Tech
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Western Tech 0\, Lansdowne 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-western-tech-parkville-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Parkville at Western Tech
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Western Tech 0\, Parkville 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-loch-raven-western-tech-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Western Tech at Loch Raven
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Western Tech 2\, Loch Raven 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-western-tech-pikesville-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T193000
 SUMMARY:Boys Soccer: Pikesville at Western Tech
@@ -80,7 +80,7 @@ URL:https://www.nfhsnetwork.com/events/pikesville-high-school-baltimore-md/gam92
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-western-tech-milford-mill-academy-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Boys Soccer: Milford Mill Academy at Western Tech
@@ -90,7 +90,7 @@ URL:https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gam8cfe
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-western-tech-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;TZID=America/New_York:20261012T170000
 DTEND;TZID=America/New_York:20261012T190000
 SUMMARY:Boys Soccer: Woodlawn at Western Tech
@@ -100,7 +100,7 @@ URL:https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/gamde8a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-western-tech-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Franklin at Western Tech
@@ -109,7 +109,7 @@ DESCRIPTION:Final: Western Tech 2\, Franklin 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-frederick-douglass-b-western-tech-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: Western Tech at Frederick Douglass-B

@@ -6,7 +6,7 @@ X-WR-CALNAME:South River Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-randallstown-south-river-football@oldlinerankings
-DTSTAMP:20261016T040129Z
+DTSTAMP:20261016T044643Z
 DTSTART;TZID=America/New_York:20260904T181500
 DTEND;TZID=America/New_York:20260904T201500
 SUMMARY:Football: South River at Randallstown
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-hereford-south-river-football@oldlinerankings
-DTSTAMP:20261016T040129Z
+DTSTAMP:20261016T044643Z
 DTSTART;TZID=America/New_York:20260910T183000
 DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Football: South River at Hereford
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam170dbd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-seed-school-south-river-football@oldlinerankings
-DTSTAMP:20261016T040129Z
+DTSTAMP:20261016T044643Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: South River at SEED School
@@ -35,7 +35,7 @@ DESCRIPTION:Final: South River 13\, SEED School 31
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-south-river-urbana-football@oldlinerankings
-DTSTAMP:20261016T040129Z
+DTSTAMP:20261016T044643Z
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T203000
 SUMMARY:Football: Urbana at South River
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-south-river-severn-run-football@oldlinerankings
-DTSTAMP:20261016T040129Z
+DTSTAMP:20261016T044643Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: Severn Run at South River
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/severn-run-high-school-severn-md/gama73ad
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-south-river-crofton-football@oldlinerankings
-DTSTAMP:20261016T040129Z
+DTSTAMP:20261016T044643Z
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:Football: Crofton at South River
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-southern-aa-south-river-football@oldlinerankings
-DTSTAMP:20261016T040129Z
+DTSTAMP:20261016T044643Z
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T200000
 SUMMARY:Football: South River at Southern-AA
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gam7aea01
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-chesapeake-aa-south-river-football@oldlinerankings
-DTSTAMP:20261016T040129Z
+DTSTAMP:20261016T044643Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: South River at Chesapeake-AA
@@ -84,7 +84,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6725718
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-northeast-aa-south-river-football@oldlinerankings
-DTSTAMP:20261016T040129Z
+DTSTAMP:20261016T044643Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: South River at Northeast-AA

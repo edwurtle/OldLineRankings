@@ -6,7 +6,7 @@ X-WR-CALNAME:Carver A&T Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-carver-aandt-milford-mill-academy-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;TZID=America/New_York:20260908T160000
 DTEND;TZID=America/New_York:20260908T180000
 SUMMARY:Boys Soccer: Milford Mill Academy at Carver A&T
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gamfb1d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-carver-aandt-lansdowne-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Lansdowne at Carver A&T
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Carver A&T 1\, Lansdowne 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-carver-aandt-owings-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Owings Mills at Carver A&T
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Carver A&T 3\, Owings Mills 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-carver-aandt-chesapeake-b-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Chesapeake-B at Carver A&T
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Carver A&T 0\, Chesapeake-B 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-carver-aandt-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Kenwood at Carver A&T
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Carver A&T 0\, Kenwood 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-carver-aandt-new-town-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: New Town at Carver A&T
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Carver A&T 1\, New Town 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-carver-aandt-overlea-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Overlea at Carver A&T
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Carver A&T 2\, Overlea 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-carver-aandt-patapsco-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Patapsco at Carver A&T
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Carver A&T 8\, Patapsco 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-carver-aandt-randallstown-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Randallstown at Carver A&T
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Carver A&T 4\, Randallstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-carver-aandt-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Boys Soccer: Woodlawn at Carver A&T
@@ -98,7 +98,7 @@ URL:https://www.nfhsnetwork.com/events/woodlawn-high-school-baltimore-md/game734
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-loch-raven-carver-aandt-boys-soccer@oldlinerankings
-DTSTAMP:20261016T040200Z
+DTSTAMP:20261016T044710Z
 DTSTART;TZID=America/New_York:20261020T173000
 DTEND;TZID=America/New_York:20261020T193000
 SUMMARY:Boys Soccer: Carver A&T at Loch Raven
