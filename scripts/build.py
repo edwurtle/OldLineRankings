@@ -15,7 +15,7 @@ would have earned had it won every game.
 Football is ranked by the Old Line Rating instead (see oldline.py); its MPSSAA points are kept
 for playoff seeding.
 """
-import collections, datetime, html, json, pathlib, re, shutil, subprocess, urllib.parse
+import collections, datetime, html, json, pathlib, re, shutil, subprocess, time, urllib.parse
 import gofan, icons, nfhs, oldline
 
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
@@ -659,8 +659,16 @@ def write_splash(built, stamp):
 
 
 def main():
-    page = curl("https://www.mpssaa.org/live-scores/")
-    nonce = re.search(r'"nonce":"([a-z0-9]+)"', page).group(1)
+    # MPSSAA's scores page carries the key for its score data; it occasionally comes back without it, so retry
+    for attempt in range(5):
+        m = re.search(r'"nonce":"([a-z0-9]+)"', curl("https://www.mpssaa.org/live-scores/"))
+        if m:
+            break
+        print("MPSSAA scores page had no nonce; retrying in 60s")
+        time.sleep(60)
+    else:
+        raise SystemExit("MPSSAA scores page never returned a nonce")
+    nonce = m.group(1)
     stamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
     built = [build_site(key, cfg, nonce, stamp) for key, cfg in SITES.items()]
     write_splash(built, stamp)
