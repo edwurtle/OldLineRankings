@@ -6,7 +6,7 @@ X-WR-CALNAME:Baltimore City College Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-new-town-baltimore-city-college-football@oldlinerankings
-DTSTAMP:20261016T031948Z
+DTSTAMP:20261016T035052Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Baltimore City College at New Town
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Baltimore City College 2\, New Town 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-randallstown-baltimore-city-college-football@oldlinerankings
-DTSTAMP:20261016T031948Z
+DTSTAMP:20261016T035052Z
 DTSTART;TZID=America/New_York:20260910T173000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:Football: Baltimore City College at Randallstown
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/randallstown-high-school-randallstown-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-baltimore-city-college-patterson-football@oldlinerankings
-DTSTAMP:20261016T031948Z
+DTSTAMP:20261016T035052Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Patterson at Baltimore City College
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Baltimore City College 46\, Patterson 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-forest-park-baltimore-city-college-football@oldlinerankings
-DTSTAMP:20261016T031948Z
+DTSTAMP:20261016T035052Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Baltimore City College at Forest Park
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Baltimore City College 26\, Forest Park 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-baltimore-city-college-mergenthaler-football@oldlinerankings
-DTSTAMP:20261016T031948Z
+DTSTAMP:20261016T035052Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Mergenthaler at Baltimore City College
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Baltimore City College 8\, Mergenthaler 24
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-paul-laurence-dunbar-baltimore-city-college-football@oldlinerankings
-DTSTAMP:20261016T031948Z
+DTSTAMP:20261016T035052Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Baltimore City College at Paul Laurence Dunbar
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Baltimore City College 6\, Paul Laurence Dunbar 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-baltimore-city-college-digital-harbor-football@oldlinerankings
-DTSTAMP:20261016T031948Z
+DTSTAMP:20261016T035052Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Football: Digital Harbor at Baltimore City College
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Baltimore City College 30\, Digital Harbor 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-green-street-academy-baltimore-city-college-football@oldlinerankings
-DTSTAMP:20261016T031948Z
+DTSTAMP:20261016T035052Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Baltimore City College at Green Street Academy
@@ -78,7 +78,7 @@ LOCATION:Green Street Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-baltimore-polytechnic-baltimore-city-college-football@oldlinerankings
-DTSTAMP:20261016T031948Z
+DTSTAMP:20261016T035052Z
 DTSTART;TZID=America/New_York:20261030T120000
 DTEND;TZID=America/New_York:20261030T140000
 SUMMARY:Football: Baltimore City College at Baltimore Polytechnic
