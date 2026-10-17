@@ -6,7 +6,7 @@ X-WR-CALNAME:Owings Mills Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-owings-mills-urbana-football@oldlinerankings
-DTSTAMP:20261017T081824Z
+DTSTAMP:20261017T135812Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
 SUMMARY:Football: Urbana at Owings Mills
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam51739
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-owings-mills-north-county-football@oldlinerankings
-DTSTAMP:20261017T081824Z
+DTSTAMP:20261017T135812Z
 DTSTART;TZID=America/New_York:20260910T183000
 DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Football: North County at Owings Mills
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/owings-mills-high-school-owings-mills-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-owings-mills-franklin-football@oldlinerankings
-DTSTAMP:20261017T081824Z
+DTSTAMP:20261017T135812Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Franklin at Owings Mills
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Owings Mills 6\, Franklin 44
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-owings-mills-new-town-football@oldlinerankings
-DTSTAMP:20261017T081824Z
+DTSTAMP:20261017T135812Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: New Town at Owings Mills
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Owings Mills 0\, New Town 49
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-owings-mills-woodlawn-football@oldlinerankings
-DTSTAMP:20261017T081824Z
+DTSTAMP:20261017T135812Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: Woodlawn at Owings Mills
@@ -54,7 +54,7 @@ URL:https://www.nfhsnetwork.com/events/owings-mills-high-school-owings-mills-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-owings-mills-randallstown-football@oldlinerankings
-DTSTAMP:20261017T081824Z
+DTSTAMP:20261017T135812Z
 DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Football: Randallstown at Owings Mills
@@ -64,7 +64,7 @@ URL:https://www.nfhsnetwork.com/events/owings-mills-high-school-owings-mills-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-owings-mills-catonsville-football@oldlinerankings
-DTSTAMP:20261017T081824Z
+DTSTAMP:20261017T135812Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Football: Catonsville at Owings Mills
@@ -74,7 +74,7 @@ URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-owings-mills-overlea-football@oldlinerankings
-DTSTAMP:20261017T081824Z
+DTSTAMP:20261017T135812Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Overlea at Owings Mills
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/owings-mills-high-school-owings-mills-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-owings-mills-milford-mill-academy-football@oldlinerankings
-DTSTAMP:20261017T081824Z
+DTSTAMP:20261017T135812Z
 DTSTART;TZID=America/New_York:20261029T160000
 DTEND;TZID=America/New_York:20261029T180000
 SUMMARY:Football: Milford Mill Academy at Owings Mills

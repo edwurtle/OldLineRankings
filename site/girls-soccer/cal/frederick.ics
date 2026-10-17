@@ -6,7 +6,7 @@ X-WR-CALNAME:Frederick Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-brunswick-frederick-girls-soccer@oldlinerankings
-DTSTAMP:20261017T081935Z
+DTSTAMP:20261017T135901Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Girls Soccer: Frederick at Brunswick
@@ -16,7 +16,7 @@ URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gamf91
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-frederick-st-john-s-catholic-prep-girls-soccer@oldlinerankings
-DTSTAMP:20261017T081935Z
+DTSTAMP:20261017T135901Z
 DTSTART;TZID=America/New_York:20260915T180000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Girls Soccer: St. John's Catholic Prep at Frederick
@@ -26,7 +26,7 @@ URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gam900
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-frederick-linganore-girls-soccer@oldlinerankings
-DTSTAMP:20261017T081935Z
+DTSTAMP:20261017T135901Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Girls Soccer: Linganore at Frederick
@@ -36,7 +36,7 @@ URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gam04e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-frederick-urbana-girls-soccer@oldlinerankings
-DTSTAMP:20261017T081935Z
+DTSTAMP:20261017T135901Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Girls Soccer: Urbana at Frederick
@@ -46,7 +46,7 @@ URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/game80fe
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-frederick-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261017T081935Z
+DTSTAMP:20261017T135901Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: North Hagerstown at Frederick
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Frederick 0\, North Hagerstown 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-frederick-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261017T081935Z
+DTSTAMP:20261017T135901Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: South Hagerstown at Frederick
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/gam40b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-frederick-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261017T081935Z
+DTSTAMP:20261017T135901Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: Tuscarora at Frederick
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/game23
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-frederick-oakdale-girls-soccer@oldlinerankings
-DTSTAMP:20261017T081935Z
+DTSTAMP:20261017T135901Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Girls Soccer: Oakdale at Frederick
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/frederick-high-school-frederick-md/game96
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-frederick-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261017T081935Z
+DTSTAMP:20261017T135901Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Frederick
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-boonsboro-frederick-girls-soccer@oldlinerankings
-DTSTAMP:20261017T081935Z
+DTSTAMP:20261017T135901Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Girls Soccer: Frederick at Boonsboro
@@ -104,7 +104,7 @@ DESCRIPTION:Final: Frederick 2\, Boonsboro 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-liberty-frederick-girls-soccer@oldlinerankings
-DTSTAMP:20261017T081935Z
+DTSTAMP:20261017T135901Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Girls Soccer: Frederick at Liberty
