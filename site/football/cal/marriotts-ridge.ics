@@ -6,27 +6,27 @@ X-WR-CALNAME:Marriotts Ridge Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-catonsville-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Marriotts Ridge at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Final: Marriotts Ridge 43\, Catonsville 7\nWatch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/game97ba88a99
-URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/game97ba88a99
+DESCRIPTION:Final: Marriotts Ridge 43\, Catonsville 7\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgame97ba88a99
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgame97ba88a99
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-century-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Marriotts Ridge at Century
 LOCATION:Century
-DESCRIPTION:Final: Marriotts Ridge 13\, Century 20\nWatch: https://www.nfhsnetwork.com/events/marriotts-ridge-high-school-marriottsville-md/gam5da4236c12
-URL:https://www.nfhsnetwork.com/events/marriotts-ridge-high-school-marriottsville-md/gam5da4236c12
+DESCRIPTION:Final: Marriotts Ridge 13\, Century 20\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmarriotts-ridge-high-school-marriottsville-md%2Fgam5da4236c12
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmarriotts-ridge-high-school-marriottsville-md%2Fgam5da4236c12
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-howard-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Marriotts Ridge at Howard
@@ -35,17 +35,17 @@ DESCRIPTION:Final: Marriotts Ridge 0\, Howard 28
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-glenelg-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T200000
 SUMMARY:Football: Marriotts Ridge at Glenelg
 LOCATION:Glenelg
-DESCRIPTION:Final: Marriotts Ridge 21\, Glenelg 13\nWatch: https://www.nfhsnetwork.com/events/marriotts-ridge-high-school-marriottsville-md/gam0dd801e68a
-URL:https://www.nfhsnetwork.com/events/marriotts-ridge-high-school-marriottsville-md/gam0dd801e68a
+DESCRIPTION:Final: Marriotts Ridge 21\, Glenelg 13\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmarriotts-ridge-high-school-marriottsville-md%2Fgam0dd801e68a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmarriotts-ridge-high-school-marriottsville-md%2Fgam0dd801e68a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-reservoir-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Marriotts Ridge at Reservoir
@@ -54,7 +54,7 @@ DESCRIPTION:Final: Marriotts Ridge 27\, Reservoir 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-mount-hebron-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Marriotts Ridge at Mount Hebron
@@ -63,32 +63,32 @@ DESCRIPTION:Final: Marriotts Ridge 42\, Mount Hebron 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-wilde-lake-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Football: Marriotts Ridge at Wilde Lake
 LOCATION:Wilde Lake
-DESCRIPTION:Final: Marriotts Ridge 21\, Wilde Lake 13\nWatch: https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gam459820c1ff
-URL:https://www.nfhsnetwork.com/events/wilde-lake-high-school-columbia-md/gam459820c1ff
+DESCRIPTION:Final: Marriotts Ridge 21\, Wilde Lake 13\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwilde-lake-high-school-columbia-md%2Fgam459820c1ff
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwilde-lake-high-school-columbia-md%2Fgam459820c1ff
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-river-hill-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Marriotts Ridge at River Hill
 LOCATION:River Hill
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/marriotts-ridge-high-school-marriottsville-md/gam32f88039e1\nTickets: https://gofan.co/event/6892921
-URL:https://www.nfhsnetwork.com/events/marriotts-ridge-high-school-marriottsville-md/gam32f88039e1
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmarriotts-ridge-high-school-marriottsville-md%2Fgam32f88039e1\nTickets: https://gofan.co/event/6892921
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmarriotts-ridge-high-school-marriottsville-md%2Fgam32f88039e1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-hammond-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Marriotts Ridge at Hammond
 LOCATION:Hammond
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/hammond-high-school-columbia-md/gam4a104b4a0d\nTickets: https://gofan.co/event/6883191
-URL:https://www.nfhsnetwork.com/events/hammond-high-school-columbia-md/gam4a104b4a0d
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhammond-high-school-columbia-md%2Fgam4a104b4a0d\nTickets: https://gofan.co/event/6883191
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhammond-high-school-columbia-md%2Fgam4a104b4a0d
 END:VEVENT
 END:VCALENDAR

@@ -6,27 +6,27 @@ X-WR-CALNAME:North Harford Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-bel-air-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Girls Soccer: North Harford at Bel Air
 LOCATION:Bel Air
-DESCRIPTION:Final: North Harford 1\, Bel Air 2\nWatch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam31d1340389
-URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam31d1340389
+DESCRIPTION:Final: North Harford 1\, Bel Air 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-harford-high-school-pylesville-md%2Fgam31d1340389
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-harford-high-school-pylesville-md%2Fgam31d1340389
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-north-harford-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260915T165500
 DTEND;TZID=America/New_York:20260915T185500
 SUMMARY:Girls Soccer: Aberdeen at North Harford
 LOCATION:North Harford
-DESCRIPTION:Final: North Harford 12\, Aberdeen 0\nWatch: https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam3c2cc31328
-URL:https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam3c2cc31328
+DESCRIPTION:Final: North Harford 12\, Aberdeen 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Faberdeen-high-school-aberdeen-md%2Fgam3c2cc31328
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Faberdeen-high-school-aberdeen-md%2Fgam3c2cc31328
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-north-east-c-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Girls Soccer: North Harford at North East-C
@@ -35,27 +35,27 @@ DESCRIPTION:Final: North Harford 1\, North East-C 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-north-harford-havre-de-grace-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260921T153000
 DTEND;TZID=America/New_York:20260921T173000
 SUMMARY:Girls Soccer: Havre de Grace at North Harford
 LOCATION:North Harford
-DESCRIPTION:Final: North Harford 5\, Havre de Grace 1\nWatch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam9031f3dd16
-URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam9031f3dd16
+DESCRIPTION:Final: North Harford 5\, Havre de Grace 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-harford-high-school-pylesville-md%2Fgam9031f3dd16
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-harford-high-school-pylesville-md%2Fgam9031f3dd16
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-c-milton-wright-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Girls Soccer: North Harford at C. Milton Wright
 LOCATION:C. Milton Wright
-DESCRIPTION:Final: North Harford 1\, C. Milton Wright 5\nWatch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam624b7f697c
-URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam624b7f697c
+DESCRIPTION:Final: North Harford 1\, C. Milton Wright 5\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-harford-high-school-pylesville-md%2Fgam624b7f697c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-harford-high-school-pylesville-md%2Fgam624b7f697c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-harford-tech-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: North Harford at Harford Tech
@@ -64,52 +64,52 @@ DESCRIPTION:Final: North Harford 1\, Harford Tech 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-perryville-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261006T183000
 DTEND;TZID=America/New_York:20261006T203000
 SUMMARY:Girls Soccer: North Harford at Perryville
 LOCATION:Perryville
-DESCRIPTION:Final: North Harford 4\, Perryville 1\nWatch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam5e902190fe
-URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam5e902190fe
+DESCRIPTION:Final: North Harford 4\, Perryville 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-harford-high-school-pylesville-md%2Fgam5e902190fe
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-harford-high-school-pylesville-md%2Fgam5e902190fe
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-fallston-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Girls Soccer: North Harford at Fallston
 LOCATION:Fallston
-DESCRIPTION:Final: North Harford 1\, Fallston 1\nWatch: https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gamf6b45dc4f7
-URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gamf6b45dc4f7
+DESCRIPTION:Final: North Harford 1\, Fallston 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffallston-high-school-fallston-md%2Fgamf6b45dc4f7
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffallston-high-school-fallston-md%2Fgamf6b45dc4f7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-rising-sun-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261012T170000
 DTEND;TZID=America/New_York:20261012T190000
 SUMMARY:Girls Soccer: North Harford at Rising Sun
 LOCATION:Rising Sun
-DESCRIPTION:Final: North Harford 0\, Rising Sun 0\nWatch: https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam8dd44f2f60
-URL:https://www.nfhsnetwork.com/events/rising-sun-high-school-north-east-md/gam8dd44f2f60
+DESCRIPTION:Final: North Harford 0\, Rising Sun 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frising-sun-high-school-north-east-md%2Fgam8dd44f2f60
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frising-sun-high-school-north-east-md%2Fgam8dd44f2f60
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-north-harford-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261014T173000
 DTEND;TZID=America/New_York:20261014T193000
 SUMMARY:Girls Soccer: Edgewood at North Harford
 LOCATION:North Harford
-DESCRIPTION:Final: North Harford 6\, Edgewood 0\nWatch: https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gam1279534311
-URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gam1279534311
+DESCRIPTION:Final: North Harford 6\, Edgewood 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedgewood-high-school-edgewood-md%2Fgam1279534311
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedgewood-high-school-edgewood-md%2Fgam1279534311
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-elkton-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261019T170000
 DTEND;TZID=America/New_York:20261019T190000
 SUMMARY:Girls Soccer: North Harford at Elkton
 LOCATION:Elkton
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam88424dbfbd\nTickets: https://gofan.co/event/6859431
-URL:https://www.nfhsnetwork.com/events/north-harford-high-school-pylesville-md/gam88424dbfbd
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-harford-high-school-pylesville-md%2Fgam88424dbfbd\nTickets: https://gofan.co/event/6859431
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-harford-high-school-pylesville-md%2Fgam88424dbfbd
 END:VEVENT
 END:VCALENDAR

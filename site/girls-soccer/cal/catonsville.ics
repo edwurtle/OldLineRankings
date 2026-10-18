@@ -6,47 +6,47 @@ X-WR-CALNAME:Catonsville Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-catonsville-marriotts-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260905T080000
 DTEND;TZID=America/New_York:20260905T100000
 SUMMARY:Girls Soccer: Marriotts Ridge at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Final: Catonsville 2\, Marriotts Ridge 0\nWatch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamd9115477c6
-URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamd9115477c6
+DESCRIPTION:Final: Catonsville 2\, Marriotts Ridge 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgamd9115477c6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgamd9115477c6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-catonsville-southern-aa-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260905T183000
 DTEND;TZID=America/New_York:20260905T203000
 SUMMARY:Girls Soccer: Southern-AA at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Final: Catonsville 5\, Southern-AA 0\nWatch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam98ec678294
-URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam98ec678294
+DESCRIPTION:Final: Catonsville 5\, Southern-AA 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam98ec678294
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam98ec678294
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-catonsville-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260909T180000
 DTEND;TZID=America/New_York:20260909T200000
 SUMMARY:Girls Soccer: Crofton at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Final: Catonsville 3\, Crofton 2\nWatch: https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gam83e67a166f
-URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gam83e67a166f
+DESCRIPTION:Final: Catonsville 3\, Crofton 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrofton-high-school-gambrills-md%2Fgam83e67a166f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrofton-high-school-gambrills-md%2Fgam83e67a166f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-middletown-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Girls Soccer: Catonsville at Middletown
 LOCATION:Middletown
-DESCRIPTION:Final: Catonsville 3\, Middletown 0\nWatch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/game2bc160bb9
-URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/game2bc160bb9
+DESCRIPTION:Final: Catonsville 3\, Middletown 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmiddletown-high-school-middletown-md%2Fgame2bc160bb9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmiddletown-high-school-middletown-md%2Fgame2bc160bb9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-century-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Catonsville at Century
@@ -55,17 +55,17 @@ DESCRIPTION:Final: Catonsville 0\, Century 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-sparrows-point-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260917T173000
 DTEND;TZID=America/New_York:20260917T193000
 SUMMARY:Girls Soccer: Catonsville at Sparrows Point
 LOCATION:Sparrows Point
-DESCRIPTION:Final: Catonsville 1\, Sparrows Point 0\nWatch: https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gam75e33dd58b
-URL:https://www.nfhsnetwork.com/events/sparrows-point-high-school-edgemere-md/gam75e33dd58b
+DESCRIPTION:Final: Catonsville 1\, Sparrows Point 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsparrows-point-high-school-edgemere-md%2Fgam75e33dd58b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsparrows-point-high-school-edgemere-md%2Fgam75e33dd58b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-catonsville-dulaney-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Girls Soccer: Dulaney at Catonsville
@@ -74,7 +74,7 @@ DESCRIPTION:Final: Catonsville 2\, Dulaney 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-glenelg-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Catonsville at Glenelg
@@ -83,27 +83,27 @@ DESCRIPTION:Final: Catonsville 0\, Glenelg 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-catonsville-perry-hall-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
 SUMMARY:Girls Soccer: Perry Hall at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Final: Catonsville 0\, Perry Hall 0\nWatch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamc356d0b9c3
-URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gamc356d0b9c3
+DESCRIPTION:Final: Catonsville 0\, Perry Hall 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgamc356d0b9c3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgamc356d0b9c3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-hereford-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T193000
 SUMMARY:Girls Soccer: Catonsville at Hereford
 LOCATION:Hereford
-DESCRIPTION:Final: Catonsville 0\, Hereford 1\nWatch: https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam7f79470764
-URL:https://www.nfhsnetwork.com/events/hereford-high-school-parkton-md/gam7f79470764
+DESCRIPTION:Final: Catonsville 0\, Hereford 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam7f79470764
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam7f79470764
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-eastern-tech-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Catonsville at Eastern Tech
@@ -112,7 +112,7 @@ DESCRIPTION:Final: Catonsville 0\, Eastern Tech 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-towson-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Catonsville at Towson
@@ -121,7 +121,7 @@ DESCRIPTION:Final: Catonsville 5\, Towson 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-lansdowne-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261020T160000
 DTEND;TZID=America/New_York:20261020T180000
 SUMMARY:Girls Soccer: Catonsville at Lansdowne

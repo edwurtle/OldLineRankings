@@ -6,7 +6,7 @@ X-WR-CALNAME:Westlake Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-westlake-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Great Mills at Westlake
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Westlake 1\, Great Mills 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-westlake-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Leonardtown at Westlake
@@ -24,82 +24,82 @@ DESCRIPTION:Final: Westlake 0\, Leonardtown 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-henry-e-lackey-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260917T183000
 DTEND;TZID=America/New_York:20260917T203000
 SUMMARY:Girls Soccer: Westlake at Henry E. Lackey
 LOCATION:Henry E. Lackey
-DESCRIPTION:Final: Westlake 1\, Henry E. Lackey 3\nWatch: https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gamc809cb3ade
-URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gamc809cb3ade
+DESCRIPTION:Final: Westlake 1\, Henry E. Lackey 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgamc809cb3ade
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgamc809cb3ade
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-huntingtown-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260923T183000
 DTEND;TZID=America/New_York:20260923T203000
 SUMMARY:Girls Soccer: Westlake at Huntingtown
 LOCATION:Huntingtown
-DESCRIPTION:Final: Westlake 0\, Huntingtown 9\nWatch: https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam85b19af56f
-URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam85b19af56f
+DESCRIPTION:Final: Westlake 0\, Huntingtown 9\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam85b19af56f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam85b19af56f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-patuxent-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Girls Soccer: Westlake at Patuxent
 LOCATION:Patuxent
-DESCRIPTION:Final: Westlake 0\, Patuxent 4\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam8faf8712e1
-URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam8faf8712e1
+DESCRIPTION:Final: Westlake 0\, Patuxent 4\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam8faf8712e1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam8faf8712e1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-calvert-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Girls Soccer: Westlake at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: Westlake 0\, Calvert 12\nWatch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam942727289f
-URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam942727289f
+DESCRIPTION:Final: Westlake 0\, Calvert 12\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam942727289f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam942727289f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-westlake-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261008T183000
 DTEND;TZID=America/New_York:20261008T203000
 SUMMARY:Girls Soccer: Northern-C at Westlake
 LOCATION:Westlake
-DESCRIPTION:Final: Westlake 0\, Northern-C 12\nWatch: https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam4bd756419c
-URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam4bd756419c
+DESCRIPTION:Final: Westlake 0\, Northern-C 12\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam4bd756419c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam4bd756419c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-la-plata-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261013T163000
 DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Girls Soccer: Westlake at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: Westlake 0\, La Plata 10\nWatch: https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam58fbae1fff
-URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam58fbae1fff
+DESCRIPTION:Final: Westlake 0\, La Plata 10\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam58fbae1fff
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam58fbae1fff
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-mcdonough-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261015T181500
 DTEND;TZID=America/New_York:20261015T201500
 SUMMARY:Girls Soccer: Westlake at McDonough
 LOCATION:McDonough
-DESCRIPTION:Final: Westlake 1\, McDonough 18\nWatch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gamdbeee9bd01
-URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gamdbeee9bd01
+DESCRIPTION:Final: Westlake 1\, McDonough 18\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamdbeee9bd01
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamdbeee9bd01
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-westlake-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261021T181500
 DTEND;TZID=America/New_York:20261021T201500
 SUMMARY:Girls Soccer: North Point at Westlake
 LOCATION:Westlake
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam3ba0f22b43
-URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam3ba0f22b43
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam3ba0f22b43
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam3ba0f22b43
 END:VEVENT
 END:VCALENDAR

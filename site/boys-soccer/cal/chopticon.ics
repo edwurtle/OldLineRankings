@@ -6,17 +6,17 @@ X-WR-CALNAME:Chopticon Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-northern-c-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260904T163000
 DTEND;TZID=America/New_York:20260904T183000
 SUMMARY:Boys Soccer: Chopticon at Northern-C
 LOCATION:Northern-C
-DESCRIPTION:Final: Chopticon 1\, Northern-C 1\nWatch: https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamc2d2a60d8c
-URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gamc2d2a60d8c
+DESCRIPTION:Final: Chopticon 1\, Northern-C 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgamc2d2a60d8c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgamc2d2a60d8c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-la-plata-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Chopticon at La Plata
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Chopticon 4\, La Plata 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-westlake-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Chopticon at Westlake
@@ -34,17 +34,17 @@ DESCRIPTION:Final: Chopticon 4\, Westlake 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-mcdonough-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260915T181500
 DTEND;TZID=America/New_York:20260915T201500
 SUMMARY:Boys Soccer: Chopticon at McDonough
 LOCATION:McDonough
-DESCRIPTION:Final: Chopticon 2\, McDonough 0\nWatch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gamec7f378dca
-URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gamec7f378dca
+DESCRIPTION:Final: Chopticon 2\, McDonough 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamec7f378dca
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamec7f378dca
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-chopticon-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: North Point at Chopticon
@@ -53,17 +53,17 @@ DESCRIPTION:Final: Chopticon 4\, North Point 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-calvert-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260924T163000
 DTEND;TZID=America/New_York:20260924T183000
 SUMMARY:Boys Soccer: Chopticon at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: Chopticon 3\, Calvert 1\nWatch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam898ae9b953
-URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam898ae9b953
+DESCRIPTION:Final: Chopticon 3\, Calvert 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam898ae9b953
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam898ae9b953
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-huntingtown-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Boys Soccer: Chopticon at Huntingtown
@@ -72,17 +72,17 @@ DESCRIPTION:Final: Chopticon 0\, Huntingtown 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-st-charles-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260929T181500
 DTEND;TZID=America/New_York:20260929T201500
 SUMMARY:Boys Soccer: Chopticon at St. Charles
 LOCATION:St. Charles
-DESCRIPTION:Final: Chopticon 8\, St. Charles 2\nWatch: https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gamd3bfc31106
-URL:https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gamd3bfc31106
+DESCRIPTION:Final: Chopticon 8\, St. Charles 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgamd3bfc31106
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgamd3bfc31106
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-chopticon-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Great Mills at Chopticon
@@ -91,7 +91,7 @@ DESCRIPTION:Final: Chopticon 1\, Great Mills 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-chopticon-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Leonardtown at Chopticon
@@ -100,7 +100,7 @@ DESCRIPTION:Final: Chopticon 0\, Leonardtown 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-thomas-stone-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Chopticon at Thomas Stone
@@ -109,7 +109,7 @@ DESCRIPTION:Final: Chopticon 7\, Thomas Stone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-henry-e-lackey-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Chopticon at Henry E. Lackey

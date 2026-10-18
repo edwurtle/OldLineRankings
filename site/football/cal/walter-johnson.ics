@@ -6,7 +6,7 @@ X-WR-CALNAME:Walter Johnson Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-gaithersburg-walter-johnson-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Walter Johnson at Gaithersburg
@@ -15,17 +15,17 @@ DESCRIPTION:Final: Walter Johnson 20\, Gaithersburg 19
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-quince-orchard-walter-johnson-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260910T183000
 DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Football: Walter Johnson at Quince Orchard
 LOCATION:Quince Orchard
-DESCRIPTION:Final: Walter Johnson 0\, Quince Orchard 68\nWatch: https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-md/gambfddfd625b
-URL:https://www.nfhsnetwork.com/events/quince-orchard-high-school-gaithersburg-md/gambfddfd625b
+DESCRIPTION:Final: Walter Johnson 0\, Quince Orchard 68\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fquince-orchard-high-school-gaithersburg-md%2Fgambfddfd625b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fquince-orchard-high-school-gaithersburg-md%2Fgambfddfd625b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-walter-johnson-winston-churchill-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Winston Churchill at Walter Johnson
@@ -34,62 +34,62 @@ DESCRIPTION:Final: Walter Johnson 6\, Winston Churchill 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-walter-johnson-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Football: Thomas S. Wootton at Walter Johnson
 LOCATION:Walter Johnson
-DESCRIPTION:Final: Walter Johnson 13\, Thomas S. Wootton 7\nWatch: https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/gam69c6054813
-URL:https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/gam69c6054813
+DESCRIPTION:Final: Walter Johnson 13\, Thomas S. Wootton 7\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgam69c6054813
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgam69c6054813
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-seneca-valley-walter-johnson-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Football: Walter Johnson at Seneca Valley
 LOCATION:Seneca Valley
-DESCRIPTION:Final: Walter Johnson 0\, Seneca Valley 47\nWatch: https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam193817e1f6
-URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/gam193817e1f6
+DESCRIPTION:Final: Walter Johnson 0\, Seneca Valley 47\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseneca-valley-high-school-germantown-md%2Fgam193817e1f6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseneca-valley-high-school-germantown-md%2Fgam193817e1f6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-walter-johnson-bethesda-cc-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
 SUMMARY:Football: Bethesda-CC at Walter Johnson
 LOCATION:Walter Johnson
-DESCRIPTION:Final: Walter Johnson 0\, Bethesda-CC 60\nWatch: https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/gamb18f84feb9
-URL:https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/gamb18f84feb9
+DESCRIPTION:Final: Walter Johnson 0\, Bethesda-CC 60\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgamb18f84feb9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgamb18f84feb9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-northwest-walter-johnson-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T210000
 SUMMARY:Football: Walter Johnson at Northwest
 LOCATION:Northwest
-DESCRIPTION:Final: Walter Johnson 0\, Northwest 20\nWatch: https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/gam4aa1005eac
-URL:https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/gam4aa1005eac
+DESCRIPTION:Final: Walter Johnson 0\, Northwest 20\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgam4aa1005eac
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgam4aa1005eac
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-walter-johnson-walt-whitman-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:Football: Walt Whitman at Walter Johnson
 LOCATION:Walter Johnson
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam79eb4d622d\nTickets: https://gofan.co/event/6709173
-URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam79eb4d622d
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalt-whitman-high-school-bethesda-md%2Fgam79eb4d622d\nTickets: https://gofan.co/event/6709173
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalt-whitman-high-school-bethesda-md%2Fgam79eb4d622d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-walter-johnson-james-hubert-blake-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261030T190000
 DTEND;TZID=America/New_York:20261030T210000
 SUMMARY:Football: James Hubert Blake at Walter Johnson
 LOCATION:Walter Johnson
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/gam1167f066fb\nTickets: https://gofan.co/event/6707423
-URL:https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/gam1167f066fb
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgam1167f066fb\nTickets: https://gofan.co/event/6707423
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgam1167f066fb
 END:VEVENT
 END:VCALENDAR

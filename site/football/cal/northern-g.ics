@@ -6,17 +6,17 @@ X-WR-CALNAME:Northern-G Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-fort-hill-northern-g-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
 SUMMARY:Football: Northern-G at Fort Hill
 LOCATION:Fort Hill
-DESCRIPTION:Final: Northern-G 0\, Fort Hill 48\nWatch: https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gama5c3bddd0a
-URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gama5c3bddd0a
+DESCRIPTION:Final: Northern-G 0\, Fort Hill 48\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgama5c3bddd0a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgama5c3bddd0a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-northern-g-clear-spring-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Clear Spring at Northern-G
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Northern-G 14\, Clear Spring 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-northern-g-wv-frankfort-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: WV- Frankfort at Northern-G
@@ -34,27 +34,27 @@ DESCRIPTION:Final: Northern-G 13\, WV- Frankfort 37
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-northern-g-wv-hampshire-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Football: WV– Hampshire at Northern-G
 LOCATION:Northern-G
-DESCRIPTION:Final: Northern-G 12\, WV– Hampshire 39\nWatch: https://www.nfhsnetwork.com/events/hampshire-high-school-romney-wv/gam6b7f011f6e
-URL:https://www.nfhsnetwork.com/events/hampshire-high-school-romney-wv/gam6b7f011f6e
+DESCRIPTION:Final: Northern-G 12\, WV– Hampshire 39\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhampshire-high-school-romney-wv%2Fgam6b7f011f6e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhampshire-high-school-romney-wv%2Fgam6b7f011f6e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-northern-g-pa-north-star-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261009T190000
 DTEND;TZID=America/New_York:20261009T210000
 SUMMARY:Football: PA- North Star at Northern-G
 LOCATION:Northern-G
-DESCRIPTION:Final: Northern-G 0\, PA- North Star 12\nWatch: https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gam1f49bf1430
-URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gam1f49bf1430
+DESCRIPTION:Final: Northern-G 0\, PA- North Star 12\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam1f49bf1430
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam1f49bf1430
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-mountain-ridge-northern-g-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Football: Northern-G at Mountain Ridge
@@ -63,22 +63,22 @@ DESCRIPTION:Final: Northern-G 0\, Mountain Ridge 40
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-allegany-northern-g-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Northern-G at Allegany
 LOCATION:Allegany
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam8ffb22e7a3\nTickets: https://gofan.co/event/6712868
-URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam8ffb22e7a3
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam8ffb22e7a3\nTickets: https://gofan.co/event/6712868
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam8ffb22e7a3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-northern-g-southern-g-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Southern-G at Northern-G
 LOCATION:Northern-G
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamb0782669e2
-URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamb0782669e2
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgamb0782669e2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgamb0782669e2
 END:VEVENT
 END:VCALENDAR

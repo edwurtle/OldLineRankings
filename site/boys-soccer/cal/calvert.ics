@@ -6,7 +6,7 @@ X-WR-CALNAME:Calvert Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-calvert-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: North Point at Calvert
@@ -15,67 +15,67 @@ DESCRIPTION:Final: Calvert 1\, North Point 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-calvert-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260910T163000
 DTEND;TZID=America/New_York:20260910T183000
 SUMMARY:Boys Soccer: St. Charles at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: Calvert 1\, St. Charles 0\nWatch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gamc4e566b83b
-URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gamc4e566b83b
+DESCRIPTION:Final: Calvert 1\, St. Charles 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgamc4e566b83b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgamc4e566b83b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-calvert-thomas-stone-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260915T181500
 DTEND;TZID=America/New_York:20260915T201500
 SUMMARY:Boys Soccer: Thomas Stone at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: Calvert 5\, Thomas Stone 0\nWatch: https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam8e3c39037c
-URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam8e3c39037c
+DESCRIPTION:Final: Calvert 5\, Thomas Stone 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam8e3c39037c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam8e3c39037c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-calvert-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260917T163000
 DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Boys Soccer: Northern-C at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: Calvert 1\, Northern-C 2\nWatch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam89254190ef
-URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam89254190ef
+DESCRIPTION:Final: Calvert 1\, Northern-C 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam89254190ef
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam89254190ef
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-calvert-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260922T181500
 DTEND;TZID=America/New_York:20260922T201500
 SUMMARY:Boys Soccer: Bladensburg at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: Calvert 2\, Bladensburg 1\nWatch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam70dd63c1d5
-URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam70dd63c1d5
+DESCRIPTION:Final: Calvert 2\, Bladensburg 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam70dd63c1d5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam70dd63c1d5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-calvert-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260924T163000
 DTEND;TZID=America/New_York:20260924T183000
 SUMMARY:Boys Soccer: Chopticon at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: Calvert 1\, Chopticon 3\nWatch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam898ae9b953
-URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam898ae9b953
+DESCRIPTION:Final: Calvert 1\, Chopticon 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam898ae9b953
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam898ae9b953
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-calvert-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260929T181500
 DTEND;TZID=America/New_York:20260929T201500
 SUMMARY:Boys Soccer: Huntingtown at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: Calvert 0\, Huntingtown 1\nWatch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam8fb5991582
-URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam8fb5991582
+DESCRIPTION:Final: Calvert 0\, Huntingtown 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam8fb5991582
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam8fb5991582
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-calvert-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Great Mills at Calvert
@@ -84,42 +84,42 @@ DESCRIPTION:Final: Calvert 1\, Great Mills 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-calvert-westlake-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: Westlake at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: Calvert 3\, Westlake 0\nWatch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gamddb80b5b0a
-URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gamddb80b5b0a
+DESCRIPTION:Final: Calvert 3\, Westlake 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgamddb80b5b0a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgamddb80b5b0a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-calvert-mcdonough-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: McDonough at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: Calvert 2\, McDonough 0\nWatch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam2082afd447
-URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam2082afd447
+DESCRIPTION:Final: Calvert 2\, McDonough 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam2082afd447
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam2082afd447
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-patuxent-calvert-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261013T181500
 DTEND;TZID=America/New_York:20261013T201500
 SUMMARY:Boys Soccer: Calvert at Patuxent
 LOCATION:Patuxent
-DESCRIPTION:Final: Calvert 3\, Patuxent 2\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gamdda20b0be0
-URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gamdda20b0be0
+DESCRIPTION:Final: Calvert 3\, Patuxent 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgamdda20b0be0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgamdda20b0be0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-calvert-la-plata-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: La Plata at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: Calvert 1\, La Plata 3\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamf26b144def
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamf26b144def
+DESCRIPTION:Final: Calvert 1\, La Plata 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf26b144def
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf26b144def
 END:VEVENT
 END:VCALENDAR

@@ -6,17 +6,17 @@ X-WR-CALNAME:Oxon Hill Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-largo-oxon-hill-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260904T185200
 DTEND;TZID=America/New_York:20260904T205200
 SUMMARY:Football: Oxon Hill at Largo
 LOCATION:Largo
-DESCRIPTION:Final: Oxon Hill 21\, Largo 20\nWatch: https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gam7ca2db5855
-URL:https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gam7ca2db5855
+DESCRIPTION:Final: Oxon Hill 21\, Largo 20\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flargo-high-school-upper-marlboro-md%2Fgam7ca2db5855
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flargo-high-school-upper-marlboro-md%2Fgam7ca2db5855
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-duval-oxon-hill-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: Oxon Hill at DuVal
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Oxon Hill 35\, DuVal 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-suitland-oxon-hill-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Football: Oxon Hill at Suitland
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Oxon Hill 16\, Suitland 24
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-oxon-hill-potomac-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Potomac at Oxon Hill
@@ -43,17 +43,17 @@ DESCRIPTION:Final: Oxon Hill 28\, Potomac 26
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-bowie-oxon-hill-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Football: Oxon Hill at Bowie
 LOCATION:Bowie
-DESCRIPTION:Final: Oxon Hill 0\, Bowie 2\nWatch: https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gam3a5dcb6fe5
-URL:https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gam3a5dcb6fe5
+DESCRIPTION:Final: Oxon Hill 0\, Bowie 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foxon-hill-high-school-oxon-hill-md%2Fgam3a5dcb6fe5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foxon-hill-high-school-oxon-hill-md%2Fgam3a5dcb6fe5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-parkdale-oxon-hill-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Football: Oxon Hill at Parkdale
@@ -62,32 +62,32 @@ DESCRIPTION:Final: Oxon Hill 48\, Parkdale 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-charles-h-flowers-oxon-hill-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261017T140000
 DTEND;TZID=America/New_York:20261017T160000
 SUMMARY:Football: Oxon Hill at Charles H. Flowers
 LOCATION:Charles H. Flowers
-DESCRIPTION:Final: Oxon Hill 12\, Charles H. Flowers 14\nWatch: https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gam7b4af883c4
-URL:https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gam7b4af883c4
+DESCRIPTION:Final: Oxon Hill 12\, Charles H. Flowers 14\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foxon-hill-high-school-oxon-hill-md%2Fgam7b4af883c4
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foxon-hill-high-school-oxon-hill-md%2Fgam7b4af883c4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-bladensburg-oxon-hill-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261024T140000
 DTEND;TZID=America/New_York:20261024T160000
 SUMMARY:Football: Oxon Hill at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gambfd74da2bd\nTickets: https://gofan.co/event/6768015
-URL:https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gambfd74da2bd
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foxon-hill-high-school-oxon-hill-md%2Fgambfd74da2bd\nTickets: https://gofan.co/event/6768015
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foxon-hill-high-school-oxon-hill-md%2Fgambfd74da2bd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-eleanor-roosevelt-oxon-hill-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261031T140000
 DTEND;TZID=America/New_York:20261031T160000
 SUMMARY:Football: Oxon Hill at Eleanor Roosevelt
 LOCATION:Eleanor Roosevelt
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gamd7b326ad40\nTickets: https://gofan.co/event/6768014
-URL:https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gamd7b326ad40
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foxon-hill-high-school-oxon-hill-md%2Fgamd7b326ad40\nTickets: https://gofan.co/event/6768014
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foxon-hill-high-school-oxon-hill-md%2Fgamd7b326ad40
 END:VEVENT
 END:VCALENDAR

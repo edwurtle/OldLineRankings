@@ -6,17 +6,17 @@ X-WR-CALNAME:Walt Whitman Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-john-f-kennedy-walt-whitman-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260904T190000
 DTEND;TZID=America/New_York:20260904T210000
 SUMMARY:Football: Walt Whitman at John F. Kennedy
 LOCATION:John F. Kennedy
-DESCRIPTION:Final: Walt Whitman 46\, John F. Kennedy 0\nWatch: https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam34451e5ed7
-URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam34451e5ed7
+DESCRIPTION:Final: Walt Whitman 46\, John F. Kennedy 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalt-whitman-high-school-bethesda-md%2Fgam34451e5ed7
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalt-whitman-high-school-bethesda-md%2Fgam34451e5ed7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-james-hubert-blake-walt-whitman-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Walt Whitman at James Hubert Blake
@@ -25,72 +25,72 @@ DESCRIPTION:Final: Walt Whitman 13\, James Hubert Blake 25
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-thomas-s-wootton-walt-whitman-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260918T183000
 DTEND;TZID=America/New_York:20260918T203000
 SUMMARY:Football: Walt Whitman at Thomas S. Wootton
 LOCATION:Thomas S. Wootton
-DESCRIPTION:Final: Walt Whitman 28\, Thomas S. Wootton 14\nWatch: https://www.nfhsnetwork.com/events/thomas-wootton-high-school-rockville-md/gamea1f537689
-URL:https://www.nfhsnetwork.com/events/thomas-wootton-high-school-rockville-md/gamea1f537689
+DESCRIPTION:Final: Walt Whitman 28\, Thomas S. Wootton 14\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-wootton-high-school-rockville-md%2Fgamea1f537689
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-wootton-high-school-rockville-md%2Fgamea1f537689
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-winston-churchill-walt-whitman-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Football: Walt Whitman at Winston Churchill
 LOCATION:Winston Churchill
-DESCRIPTION:Final: Walt Whitman 14\, Winston Churchill 35\nWatch: https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam8c4d3e293c
-URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam8c4d3e293c
+DESCRIPTION:Final: Walt Whitman 14\, Winston Churchill 35\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalt-whitman-high-school-bethesda-md%2Fgam8c4d3e293c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalt-whitman-high-school-bethesda-md%2Fgam8c4d3e293c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-springbrook-walt-whitman-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261002T183000
 DTEND;TZID=America/New_York:20261002T203000
 SUMMARY:Football: Walt Whitman at Springbrook
 LOCATION:Springbrook
-DESCRIPTION:Final: Walt Whitman 42\, Springbrook 0\nWatch: https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/gamccf4a3ff49
-URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/gamccf4a3ff49
+DESCRIPTION:Final: Walt Whitman 42\, Springbrook 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fspringbrook-high-school-silver-spring-md%2Fgamccf4a3ff49
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fspringbrook-high-school-silver-spring-md%2Fgamccf4a3ff49
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-montgomery-blair-walt-whitman-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T203000
 SUMMARY:Football: Walt Whitman at Montgomery Blair
 LOCATION:Montgomery Blair
-DESCRIPTION:Final: Walt Whitman 30\, Montgomery Blair 26\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam6f9b7a65d5
-URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam6f9b7a65d5
+DESCRIPTION:Final: Walt Whitman 30\, Montgomery Blair 26\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam6f9b7a65d5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam6f9b7a65d5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-paint-branch-walt-whitman-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T210000
 SUMMARY:Football: Walt Whitman at Paint Branch
 LOCATION:Paint Branch
-DESCRIPTION:Final: Walt Whitman 6\, Paint Branch 41\nWatch: https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam2720c9578f
-URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam2720c9578f
+DESCRIPTION:Final: Walt Whitman 6\, Paint Branch 41\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalt-whitman-high-school-bethesda-md%2Fgam2720c9578f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalt-whitman-high-school-bethesda-md%2Fgam2720c9578f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-walter-johnson-walt-whitman-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:Football: Walt Whitman at Walter Johnson
 LOCATION:Walter Johnson
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam79eb4d622d\nTickets: https://gofan.co/event/6709173
-URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam79eb4d622d
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalt-whitman-high-school-bethesda-md%2Fgam79eb4d622d\nTickets: https://gofan.co/event/6709173
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalt-whitman-high-school-bethesda-md%2Fgam79eb4d622d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-bethesda-cc-walt-whitman-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Walt Whitman at Bethesda-CC
 LOCATION:Bethesda-CC
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam90aea5665c\nTickets: https://gofan.co/event/6706500
-URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam90aea5665c
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam90aea5665c\nTickets: https://gofan.co/event/6706500
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam90aea5665c
 END:VEVENT
 END:VCALENDAR

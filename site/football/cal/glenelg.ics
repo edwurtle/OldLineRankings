@@ -6,7 +6,7 @@ X-WR-CALNAME:Glenelg Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-glenelg-south-carroll-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: South Carroll at Glenelg
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Glenelg 14\, South Carroll 17
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-glenelg-river-hill-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: River Hill at Glenelg
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Glenelg 35\, River Hill 25
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-glenelg-wilde-lake-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Wilde Lake at Glenelg
@@ -33,17 +33,17 @@ DESCRIPTION:Final: Glenelg 21\, Wilde Lake 26
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-glenelg-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T200000
 SUMMARY:Football: Marriotts Ridge at Glenelg
 LOCATION:Glenelg
-DESCRIPTION:Final: Glenelg 13\, Marriotts Ridge 21\nWatch: https://www.nfhsnetwork.com/events/marriotts-ridge-high-school-marriottsville-md/gam0dd801e68a
-URL:https://www.nfhsnetwork.com/events/marriotts-ridge-high-school-marriottsville-md/gam0dd801e68a
+DESCRIPTION:Final: Glenelg 13\, Marriotts Ridge 21\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmarriotts-ridge-high-school-marriottsville-md%2Fgam0dd801e68a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmarriotts-ridge-high-school-marriottsville-md%2Fgam0dd801e68a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-glenelg-oakland-mills-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Oakland Mills at Glenelg
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Glenelg 7\, Oakland Mills 29
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-glenelg-howard-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Howard at Glenelg
@@ -61,17 +61,17 @@ DESCRIPTION:Final: Glenelg 6\, Howard 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-glenelg-guilford-park-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261017T130000
 DTEND;TZID=America/New_York:20261017T150000
 SUMMARY:Football: Guilford Park at Glenelg
 LOCATION:Glenelg
-DESCRIPTION:Final: Glenelg 0\, Guilford Park 32\nWatch: https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gam0d66eeb442
-URL:https://www.nfhsnetwork.com/events/guilford-park-high-school-jessup-md/gam0d66eeb442
+DESCRIPTION:Final: Glenelg 0\, Guilford Park 32\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fguilford-park-high-school-jessup-md%2Fgam0d66eeb442
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fguilford-park-high-school-jessup-md%2Fgam0d66eeb442
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-glenelg-long-reach-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Long Reach at Glenelg
@@ -80,7 +80,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6854821
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-glenelg-atholton-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Atholton at Glenelg

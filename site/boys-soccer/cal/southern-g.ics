@@ -6,7 +6,7 @@ X-WR-CALNAME:Southern-G Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-southern-g-wv-elkins-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: WV-Elkins at Southern-G
@@ -15,97 +15,97 @@ DESCRIPTION:Final: Southern-G 0\, WV-Elkins 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-allegany-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Boys Soccer: Southern-G at Allegany
 LOCATION:Allegany
-DESCRIPTION:Final: Southern-G 0\, Allegany 2\nWatch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam7a947c2258
-URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam7a947c2258
+DESCRIPTION:Final: Southern-G 0\, Allegany 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam7a947c2258
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam7a947c2258
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-southern-g-private-broadfording-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260911T190000
 DTEND;TZID=America/New_York:20260911T210000
 SUMMARY:Boys Soccer: Private - Broadfording at Southern-G
 LOCATION:Southern-G
-DESCRIPTION:Final: Southern-G 0\, Private - Broadfording 10\nWatch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam7a947c2258
-URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam7a947c2258
+DESCRIPTION:Final: Southern-G 0\, Private - Broadfording 10\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam7a947c2258
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam7a947c2258
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-northern-g-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260915T180000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Boys Soccer: Southern-G at Northern-G
 LOCATION:Northern-G
-DESCRIPTION:Final: Southern-G 0\, Northern-G 1\nWatch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam7aab33ee20
-URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam7aab33ee20
+DESCRIPTION:Final: Southern-G 0\, Northern-G 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam7aab33ee20
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam7aab33ee20
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-fort-hill-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Boys Soccer: Southern-G at Fort Hill
 LOCATION:Fort Hill
-DESCRIPTION:Final: Southern-G 2\, Fort Hill 5\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam162b07924a
-URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gam162b07924a
+DESCRIPTION:Final: Southern-G 2\, Fort Hill 5\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam162b07924a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam162b07924a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-allegany-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Boys Soccer: Southern-G at Allegany
 LOCATION:Allegany
-DESCRIPTION:Final: Southern-G 0\, Allegany 8\nWatch: https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam6d887a6d46
-URL:https://www.nfhsnetwork.com/events/allegany-high-school-cumberland-md/gam6d887a6d46
+DESCRIPTION:Final: Southern-G 0\, Allegany 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam6d887a6d46
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam6d887a6d46
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-mountain-ridge-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Boys Soccer: Southern-G at Mountain Ridge
 LOCATION:Mountain Ridge
-DESCRIPTION:Final: Southern-G 0\, Mountain Ridge 5\nWatch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam316a7ab929
-URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam316a7ab929
+DESCRIPTION:Final: Southern-G 0\, Mountain Ridge 5\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam316a7ab929
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam316a7ab929
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-fort-hill-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261007T190000
 DTEND;TZID=America/New_York:20261007T210000
 SUMMARY:Boys Soccer: Southern-G at Fort Hill
 LOCATION:Fort Hill
-DESCRIPTION:Final: Southern-G 0\, Fort Hill 1\nWatch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamf33696fe39
-URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamf33696fe39
+DESCRIPTION:Final: Southern-G 0\, Fort Hill 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgamf33696fe39
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgamf33696fe39
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-northern-g-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261008T093000
 DTEND;TZID=America/New_York:20261008T113000
 SUMMARY:Boys Soccer: Southern-G at Northern-G
 LOCATION:Northern-G
-DESCRIPTION:Final: Southern-G 1\, Northern-G 0\nWatch: https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gamf2d120382b
-URL:https://www.nfhsnetwork.com/events/northern-garrett-high-school-accident-md/gamf2d120382b
+DESCRIPTION:Final: Southern-G 1\, Northern-G 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamf2d120382b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamf2d120382b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-southern-g-wv-berkeley-springs-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Boys Soccer: WV-Berkeley Springs at Southern-G
 LOCATION:Southern-G
-DESCRIPTION:Final: Southern-G 3\, WV-Berkeley Springs 0\nWatch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam8f09ef399d
-URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam8f09ef399d
+DESCRIPTION:Final: Southern-G 3\, WV-Berkeley Springs 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam8f09ef399d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam8f09ef399d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-southern-g-wv-musselman-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: WV-Musselman at Southern-G
@@ -114,7 +114,7 @@ DESCRIPTION:Final: Southern-G 1\, WV-Musselman 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-southern-g-clear-spring-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Boys Soccer: Clear Spring at Southern-G
@@ -122,7 +122,7 @@ LOCATION:Southern-G
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-mountain-ridge-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: Southern-G at Mountain Ridge

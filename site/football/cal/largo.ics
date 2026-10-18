@@ -6,47 +6,47 @@ X-WR-CALNAME:Largo Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-largo-oxon-hill-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260904T185200
 DTEND;TZID=America/New_York:20260904T205200
 SUMMARY:Football: Oxon Hill at Largo
 LOCATION:Largo
-DESCRIPTION:Final: Largo 20\, Oxon Hill 21\nWatch: https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gam7ca2db5855
-URL:https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gam7ca2db5855
+DESCRIPTION:Final: Largo 20\, Oxon Hill 21\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flargo-high-school-upper-marlboro-md%2Fgam7ca2db5855
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flargo-high-school-upper-marlboro-md%2Fgam7ca2db5855
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-largo-glen-burnie-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Glen Burnie at Largo
 LOCATION:Largo
-DESCRIPTION:Final: Largo 50\, Glen Burnie 34\nWatch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamdbd2a1b27a
-URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamdbd2a1b27a
+DESCRIPTION:Final: Largo 50\, Glen Burnie 34\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglen-burnie-high-school-glen-burnie-md%2Fgamdbd2a1b27a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglen-burnie-high-school-glen-burnie-md%2Fgamdbd2a1b27a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-crossland-largo-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260918T190000
 DTEND;TZID=America/New_York:20260918T210000
 SUMMARY:Football: Largo at Crossland
 LOCATION:Crossland
-DESCRIPTION:Final: Largo 42\, Crossland 0\nWatch: https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gam88ad6be197
-URL:https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gam88ad6be197
+DESCRIPTION:Final: Largo 42\, Crossland 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flargo-high-school-upper-marlboro-md%2Fgam88ad6be197
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flargo-high-school-upper-marlboro-md%2Fgam88ad6be197
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-gwynn-park-largo-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Football: Largo at Gwynn Park
 LOCATION:Gwynn Park
-DESCRIPTION:Final: Largo 24\, Gwynn Park 22\nWatch: https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gamcaf03c603f
-URL:https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gamcaf03c603f
+DESCRIPTION:Final: Largo 24\, Gwynn Park 22\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flargo-high-school-upper-marlboro-md%2Fgamcaf03c603f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flargo-high-school-upper-marlboro-md%2Fgamcaf03c603f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-fairmont-heights-largo-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Largo at Fairmont Heights
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Largo 51\, Fairmont Heights 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-frederick-douglass-pg-largo-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Largo at Frederick Douglass-PG
@@ -64,7 +64,7 @@ DESCRIPTION:Final: Largo 6\, Frederick Douglass-PG 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-largo-central-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Football: Central at Largo
@@ -73,7 +73,7 @@ DESCRIPTION:Final: Largo 69\, Central 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-largo-surrattsville-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:Football: Surrattsville at Largo
@@ -82,7 +82,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6767897
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-largo-friendly-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Friendly at Largo

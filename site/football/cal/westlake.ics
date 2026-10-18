@@ -6,27 +6,27 @@ X-WR-CALNAME:Westlake Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-patuxent-westlake-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Westlake at Patuxent
 LOCATION:Patuxent
-DESCRIPTION:Final: Westlake 0\, Patuxent 2\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam6ae63f5410
-URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam6ae63f5410
+DESCRIPTION:Final: Westlake 0\, Patuxent 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam6ae63f5410
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam6ae63f5410
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-westlake-chopticon-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Chopticon at Westlake
 LOCATION:Westlake
-DESCRIPTION:Final: Westlake 12\, Chopticon 0\nWatch: https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam9038d5ca04
-URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam9038d5ca04
+DESCRIPTION:Final: Westlake 12\, Chopticon 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam9038d5ca04
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam9038d5ca04
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-westlake-great-mills-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Great Mills at Westlake
@@ -35,47 +35,47 @@ DESCRIPTION:Final: Westlake 26\, Great Mills 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-westlake-leonardtown-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T200000
 SUMMARY:Football: Leonardtown at Westlake
 LOCATION:Westlake
-DESCRIPTION:Final: Westlake 26\, Leonardtown 15\nWatch: https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gamd867dc500c
-URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gamd867dc500c
+DESCRIPTION:Final: Westlake 26\, Leonardtown 15\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgamd867dc500c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgamd867dc500c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-westlake-st-charles-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: St. Charles at Westlake
 LOCATION:Westlake
-DESCRIPTION:Final: Westlake 14\, St. Charles 28\nWatch: https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam449654d42c
-URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam449654d42c
+DESCRIPTION:Final: Westlake 14\, St. Charles 28\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam449654d42c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam449654d42c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-thomas-stone-westlake-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T140000
 SUMMARY:Football: Westlake at Thomas Stone
 LOCATION:Thomas Stone
-DESCRIPTION:Final: Westlake 42\, Thomas Stone 0\nWatch: https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam7657f5ba3d
-URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam7657f5ba3d
+DESCRIPTION:Final: Westlake 42\, Thomas Stone 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam7657f5ba3d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam7657f5ba3d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-mcdonough-westlake-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261016T173000
 DTEND;TZID=America/New_York:20261016T193000
 SUMMARY:Football: Westlake at McDonough
 LOCATION:McDonough
-DESCRIPTION:Final: Westlake 41\, McDonough 0\nWatch: https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam1f712a20c1
-URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam1f712a20c1
+DESCRIPTION:Final: Westlake 41\, McDonough 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam1f712a20c1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam1f712a20c1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-westlake-north-point-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: North Point at Westlake
@@ -84,12 +84,12 @@ DESCRIPTION:Tickets: https://gofan.co/event/6767191
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-westlake-henry-e-lackey-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T200000
 SUMMARY:Football: Henry E. Lackey at Westlake
 LOCATION:Westlake
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gamd550423a8a\nTickets: https://gofan.co/event/6858351
-URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gamd550423a8a
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgamd550423a8a\nTickets: https://gofan.co/event/6858351
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgamd550423a8a
 END:VEVENT
 END:VCALENDAR

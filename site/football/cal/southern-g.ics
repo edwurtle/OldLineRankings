@@ -6,47 +6,47 @@ X-WR-CALNAME:Southern-G Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-mountain-ridge-southern-g-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
 SUMMARY:Football: Southern-G at Mountain Ridge
 LOCATION:Mountain Ridge
-DESCRIPTION:Final: Southern-G 9\, Mountain Ridge 58\nWatch: https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/gam7a60c15249
-URL:https://www.nfhsnetwork.com/events/mountain-ridge-high-school-frostburg-md/gam7a60c15249
+DESCRIPTION:Final: Southern-G 9\, Mountain Ridge 58\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam7a60c15249
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam7a60c15249
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-southern-g-wv-madonna-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260911T183000
 DTEND;TZID=America/New_York:20260911T203000
 SUMMARY:Football: WV- Madonna at Southern-G
 LOCATION:Southern-G
-DESCRIPTION:Final: Southern-G 54\, WV- Madonna 0\nWatch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamabac6f69c3
-URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamabac6f69c3
+DESCRIPTION:Final: Southern-G 54\, WV- Madonna 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgamabac6f69c3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgamabac6f69c3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-fort-hill-southern-g-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260917T180000
 DTEND;TZID=America/New_York:20260917T200000
 SUMMARY:Football: Southern-G at Fort Hill
 LOCATION:Fort Hill
-DESCRIPTION:Final: Southern-G 0\, Fort Hill 75\nWatch: https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gamd9b4d3969c
-URL:https://www.nfhsnetwork.com/events/fort-hill-high-school-cumberland-md/gamd9b4d3969c
+DESCRIPTION:Final: Southern-G 0\, Fort Hill 75\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgamd9b4d3969c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgamd9b4d3969c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-southern-g-clear-spring-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T203000
 SUMMARY:Football: Clear Spring at Southern-G
 LOCATION:Southern-G
-DESCRIPTION:Final: Southern-G 41\, Clear Spring 6\nWatch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam4f8e6a5893
-URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gam4f8e6a5893
+DESCRIPTION:Final: Southern-G 41\, Clear Spring 6\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam4f8e6a5893
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam4f8e6a5893
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-southern-g-wv-berkeley-springs-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: WV- Berkeley Springs at Southern-G
@@ -55,17 +55,17 @@ DESCRIPTION:Final: Southern-G 11\, WV- Berkeley Springs 21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-allegany-southern-g-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T203000
 SUMMARY:Football: Southern-G at Allegany
 LOCATION:Allegany
-DESCRIPTION:Final: Southern-G 17\, Allegany 55\nWatch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamb01a9753c2
-URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamb01a9753c2
+DESCRIPTION:Final: Southern-G 17\, Allegany 55\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgamb01a9753c2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgamb01a9753c2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-southern-g-wv-tucker-county-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Football: WV- Tucker County at Southern-G
@@ -74,7 +74,7 @@ DESCRIPTION:Final: Southern-G 6\, WV- Tucker County 20
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-southern-g-wv-oak-glen-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: WV- Oak Glen at Southern-G
@@ -83,12 +83,12 @@ DESCRIPTION:Tickets: https://gofan.co/event/6810851
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-northern-g-southern-g-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Southern-G at Northern-G
 LOCATION:Northern-G
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamb0782669e2
-URL:https://www.nfhsnetwork.com/events/southern-garrett-high-school-oakland-md/gamb0782669e2
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgamb0782669e2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgamb0782669e2
 END:VEVENT
 END:VCALENDAR

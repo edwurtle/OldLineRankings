@@ -6,57 +6,57 @@ X-WR-CALNAME:Clarksburg Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-sherwood-clarksburg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260904T191500
 DTEND;TZID=America/New_York:20260904T211500
 SUMMARY:Boys Soccer: Clarksburg at Sherwood
 LOCATION:Sherwood
-DESCRIPTION:Final: Clarksburg 3\, Sherwood 2\nWatch: https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gambfb234f255
-URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gambfb234f255
+DESCRIPTION:Final: Clarksburg 3\, Sherwood 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgambfb234f255
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgambfb234f255
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-clarksburg-montgomery-blair-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260909T191500
 DTEND;TZID=America/New_York:20260909T211500
 SUMMARY:Boys Soccer: Montgomery Blair at Clarksburg
 LOCATION:Clarksburg
-DESCRIPTION:Final: Clarksburg 3\, Montgomery Blair 1\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamdc3a453799
-URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamdc3a453799
+DESCRIPTION:Final: Clarksburg 3\, Montgomery Blair 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgamdc3a453799
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgamdc3a453799
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-watkins-mill-clarksburg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260915T191500
 DTEND;TZID=America/New_York:20260915T211500
 SUMMARY:Boys Soccer: Clarksburg at Watkins Mill
 LOCATION:Watkins Mill
-DESCRIPTION:Final: Clarksburg 4\, Watkins Mill 0\nWatch: https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/gam1eb37c99d1
-URL:https://www.nfhsnetwork.com/events/watkins-mill-high-school-gaithersburg-md/gam1eb37c99d1
+DESCRIPTION:Final: Clarksburg 4\, Watkins Mill 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwatkins-mill-high-school-gaithersburg-md%2Fgam1eb37c99d1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwatkins-mill-high-school-gaithersburg-md%2Fgam1eb37c99d1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-damascus-clarksburg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260917T191500
 DTEND;TZID=America/New_York:20260917T211500
 SUMMARY:Boys Soccer: Clarksburg at Damascus
 LOCATION:Damascus
-DESCRIPTION:Final: Clarksburg 5\, Damascus 0\nWatch: https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gamb6141064a6
-URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gamb6141064a6
+DESCRIPTION:Final: Clarksburg 5\, Damascus 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgamb6141064a6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgamb6141064a6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-poolesville-clarksburg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260924T191500
 DTEND;TZID=America/New_York:20260924T211500
 SUMMARY:Boys Soccer: Clarksburg at Poolesville
 LOCATION:Poolesville
-DESCRIPTION:Final: Clarksburg 2\, Poolesville 1\nWatch: https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gam21001c74e2
-URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gam21001c74e2
+DESCRIPTION:Final: Clarksburg 2\, Poolesville 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgam21001c74e2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgam21001c74e2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-clarksburg-seneca-valley-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Seneca Valley at Clarksburg
@@ -65,62 +65,62 @@ DESCRIPTION:Final: Clarksburg 1\, Seneca Valley 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-clarksburg-walt-whitman-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261002T191500
 DTEND;TZID=America/New_York:20261002T211500
 SUMMARY:Boys Soccer: Walt Whitman at Clarksburg
 LOCATION:Clarksburg
-DESCRIPTION:Final: Clarksburg 0\, Walt Whitman 1\nWatch: https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam78ffc2723c
-URL:https://www.nfhsnetwork.com/events/walt-whitman-high-school-bethesda-md/gam78ffc2723c
+DESCRIPTION:Final: Clarksburg 0\, Walt Whitman 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalt-whitman-high-school-bethesda-md%2Fgam78ffc2723c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalt-whitman-high-school-bethesda-md%2Fgam78ffc2723c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-clarksburg-paint-branch-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261005T191500
 DTEND;TZID=America/New_York:20261005T211500
 SUMMARY:Boys Soccer: Paint Branch at Clarksburg
 LOCATION:Clarksburg
-DESCRIPTION:Final: Clarksburg 3\, Paint Branch 1\nWatch: https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/game42dba2bb5
-URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/game42dba2bb5
+DESCRIPTION:Final: Clarksburg 3\, Paint Branch 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgame42dba2bb5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgame42dba2bb5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-clarksburg-northwest-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261006T153000
 DTEND;TZID=America/New_York:20261006T173000
 SUMMARY:Boys Soccer: Northwest at Clarksburg
 LOCATION:Clarksburg
-DESCRIPTION:Final: Clarksburg 3\, Northwest 2\nWatch: https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gamcca6ae2a86
-URL:https://www.nfhsnetwork.com/events/northwest-high-school-germantown-md/gamcca6ae2a86
+DESCRIPTION:Final: Clarksburg 3\, Northwest 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwest-high-school-germantown-md%2Fgamcca6ae2a86
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwest-high-school-germantown-md%2Fgamcca6ae2a86
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-clarksburg-quince-orchard-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261012T191500
 DTEND;TZID=America/New_York:20261012T211500
 SUMMARY:Boys Soccer: Quince Orchard at Clarksburg
 LOCATION:Clarksburg
-DESCRIPTION:Final: Clarksburg 0\, Quince Orchard 4\nWatch: https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gama780c2c4a7
-URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gama780c2c4a7
+DESCRIPTION:Final: Clarksburg 0\, Quince Orchard 4\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgama780c2c4a7
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgama780c2c4a7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-clarksburg-gaithersburg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261015T191500
 DTEND;TZID=America/New_York:20261015T211500
 SUMMARY:Boys Soccer: Gaithersburg at Clarksburg
 LOCATION:Clarksburg
-DESCRIPTION:Final: Clarksburg 2\, Gaithersburg 1\nWatch: https://www.nfhsnetwork.com/events/gaithersburg-high-school-gaithersburg-md/gam593735f18d
-URL:https://www.nfhsnetwork.com/events/gaithersburg-high-school-gaithersburg-md/gam593735f18d
+DESCRIPTION:Final: Clarksburg 2\, Gaithersburg 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgaithersburg-high-school-gaithersburg-md%2Fgam593735f18d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgaithersburg-high-school-gaithersburg-md%2Fgam593735f18d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-clarksburg-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:Boys Soccer: Springbrook at Clarksburg
 LOCATION:Clarksburg
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/gam238d823346\nTickets: https://gofan.co/event/6708971
-URL:https://www.nfhsnetwork.com/events/springbrook-high-school-silver-spring-md/gam238d823346
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fspringbrook-high-school-silver-spring-md%2Fgam238d823346\nTickets: https://gofan.co/event/6708971
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fspringbrook-high-school-silver-spring-md%2Fgam238d823346
 END:VEVENT
 END:VCALENDAR

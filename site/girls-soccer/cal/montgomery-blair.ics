@@ -6,37 +6,37 @@ X-WR-CALNAME:Montgomery Blair Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-atholton-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260905T090000
 DTEND;TZID=America/New_York:20260905T110000
 SUMMARY:Girls Soccer: Montgomery Blair at Atholton
 LOCATION:Atholton
-DESCRIPTION:Final: Montgomery Blair 0\, Atholton 1\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamf0719168e6
-URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gamf0719168e6
+DESCRIPTION:Final: Montgomery Blair 0\, Atholton 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgamf0719168e6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgamf0719168e6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-northern-c-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260905T130000
 DTEND;TZID=America/New_York:20260905T150000
 SUMMARY:Girls Soccer: Montgomery Blair at Northern-C
 LOCATION:Northern-C
-DESCRIPTION:Final: Montgomery Blair 3\, Northern-C 2\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam18e77b3d3a
-URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam18e77b3d3a
+DESCRIPTION:Final: Montgomery Blair 3\, Northern-C 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam18e77b3d3a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam18e77b3d3a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-clarksburg-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260909T191500
 DTEND;TZID=America/New_York:20260909T211500
 SUMMARY:Girls Soccer: Montgomery Blair at Clarksburg
 LOCATION:Clarksburg
-DESCRIPTION:Final: Montgomery Blair 6\, Clarksburg 0\nWatch: https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gam61445a82d6
-URL:https://www.nfhsnetwork.com/events/clarksburg-high-school-clarksburg-md/gam61445a82d6
+DESCRIPTION:Final: Montgomery Blair 6\, Clarksburg 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgam61445a82d6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgam61445a82d6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-james-hubert-blake-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Girls Soccer: Montgomery Blair at James Hubert Blake
@@ -45,97 +45,97 @@ DESCRIPTION:Final: Montgomery Blair 8\, James Hubert Blake 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-wheaton-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260915T191500
 DTEND;TZID=America/New_York:20260915T211500
 SUMMARY:Girls Soccer: Montgomery Blair at Wheaton
 LOCATION:Wheaton
-DESCRIPTION:Final: Montgomery Blair 8\, Wheaton 0\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam959d02877f
-URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam959d02877f
+DESCRIPTION:Final: Montgomery Blair 8\, Wheaton 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam959d02877f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam959d02877f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-richard-montgomery-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260922T191500
 DTEND;TZID=America/New_York:20260922T211500
 SUMMARY:Girls Soccer: Montgomery Blair at Richard Montgomery
 LOCATION:Richard Montgomery
-DESCRIPTION:Final: Montgomery Blair 4\, Richard Montgomery 1\nWatch: https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gama1ec47e875
-URL:https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gama1ec47e875
+DESCRIPTION:Final: Montgomery Blair 4\, Richard Montgomery 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frichard-montgomery-high-school-rockville-md%2Fgama1ec47e875
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frichard-montgomery-high-school-rockville-md%2Fgama1ec47e875
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-northwood-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260925T173000
 DTEND;TZID=America/New_York:20260925T193000
 SUMMARY:Girls Soccer: Montgomery Blair at Northwood
 LOCATION:Northwood
-DESCRIPTION:Final: Montgomery Blair 8\, Northwood 0\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam9cc72235df
-URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam9cc72235df
+DESCRIPTION:Final: Montgomery Blair 8\, Northwood 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam9cc72235df
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam9cc72235df
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-albert-einstein-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260929T191500
 DTEND;TZID=America/New_York:20260929T211500
 SUMMARY:Girls Soccer: Montgomery Blair at Albert Einstein
 LOCATION:Albert Einstein
-DESCRIPTION:Final: Montgomery Blair 3\, Albert Einstein 1\nWatch: https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam6c54d4d2be
-URL:https://www.nfhsnetwork.com/events/albert-einstein-high-school-kensington-md/gam6c54d4d2be
+DESCRIPTION:Final: Montgomery Blair 3\, Albert Einstein 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Falbert-einstein-high-school-kensington-md%2Fgam6c54d4d2be
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Falbert-einstein-high-school-kensington-md%2Fgam6c54d4d2be
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-rockville-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261001T191500
 DTEND;TZID=America/New_York:20261001T211500
 SUMMARY:Girls Soccer: Montgomery Blair at Rockville
 LOCATION:Rockville
-DESCRIPTION:Final: Montgomery Blair 5\, Rockville 0\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam9a9772ad4d
-URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam9a9772ad4d
+DESCRIPTION:Final: Montgomery Blair 5\, Rockville 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam9a9772ad4d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam9a9772ad4d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-john-f-kennedy-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261005T191500
 DTEND;TZID=America/New_York:20261005T211500
 SUMMARY:Girls Soccer: Montgomery Blair at John F. Kennedy
 LOCATION:John F. Kennedy
-DESCRIPTION:Final: Montgomery Blair 8\, John F. Kennedy 0\nWatch: https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gam80da46a399
-URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gam80da46a399
+DESCRIPTION:Final: Montgomery Blair 8\, John F. Kennedy 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam80da46a399
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam80da46a399
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-northwest-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261007T191500
 DTEND;TZID=America/New_York:20261007T211500
 SUMMARY:Girls Soccer: Montgomery Blair at Northwest
 LOCATION:Northwest
-DESCRIPTION:Final: Montgomery Blair 1\, Northwest 0\nWatch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam2ec76b4021
-URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam2ec76b4021
+DESCRIPTION:Final: Montgomery Blair 1\, Northwest 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam2ec76b4021
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam2ec76b4021
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-bethesda-cc-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261014T191500
 DTEND;TZID=America/New_York:20261014T211500
 SUMMARY:Girls Soccer: Montgomery Blair at Bethesda-CC
 LOCATION:Bethesda-CC
-DESCRIPTION:Final: Montgomery Blair 2\, Bethesda-CC 2\nWatch: https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam96b14b1cb7
-URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda-md/gam96b14b1cb7
+DESCRIPTION:Final: Montgomery Blair 2\, Bethesda-CC 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam96b14b1cb7
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam96b14b1cb7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-walt-whitman-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261019T171500
 DTEND;TZID=America/New_York:20261019T191500
 SUMMARY:Girls Soccer: Montgomery Blair at Walt Whitman
 LOCATION:Walt Whitman
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam3bb9c33a0e\nTickets: https://gofan.co/event/6706629
-URL:https://www.nfhsnetwork.com/events/montgomery-blair-high-school-silver-spring-md/gam3bb9c33a0e
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam3bb9c33a0e\nTickets: https://gofan.co/event/6706629
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgam3bb9c33a0e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-winston-churchill-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:Girls Soccer: Montgomery Blair at Winston Churchill

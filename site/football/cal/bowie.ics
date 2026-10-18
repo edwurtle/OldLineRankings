@@ -6,77 +6,77 @@ X-WR-CALNAME:Bowie Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-gwynn-park-bowie-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Bowie at Gwynn Park
 LOCATION:Gwynn Park
-DESCRIPTION:Final: Bowie 6\, Gwynn Park 56\nWatch: https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gamae597b0eba
-URL:https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gamae597b0eba
+DESCRIPTION:Final: Bowie 6\, Gwynn Park 56\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgwynn-park-high-school-brandywine-md%2Fgamae597b0eba
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgwynn-park-high-school-brandywine-md%2Fgamae597b0eba
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-bladensburg-bowie-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Football: Bowie at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Final: Bowie 28\, Bladensburg 0\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gamcbcf26497c
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gamcbcf26497c
+DESCRIPTION:Final: Bowie 28\, Bladensburg 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamcbcf26497c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamcbcf26497c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-bowie-potomac-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260918T183000
 DTEND;TZID=America/New_York:20260918T203000
 SUMMARY:Football: Potomac at Bowie
 LOCATION:Bowie
-DESCRIPTION:Final: Bowie 14\, Potomac 36\nWatch: https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gamf9a917fdc2
-URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gamf9a917fdc2
+DESCRIPTION:Final: Bowie 14\, Potomac 36\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamf9a917fdc2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamf9a917fdc2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-dr-henry-a-wise-bowie-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T203000
 SUMMARY:Football: Bowie at Dr. Henry A. Wise
 LOCATION:Dr. Henry A. Wise
-DESCRIPTION:Final: Bowie 0\, Dr. Henry A. Wise 51\nWatch: https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam97ccf02cff
-URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam97ccf02cff
+DESCRIPTION:Final: Bowie 0\, Dr. Henry A. Wise 51\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam97ccf02cff
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam97ccf02cff
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-bowie-oxon-hill-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Football: Oxon Hill at Bowie
 LOCATION:Bowie
-DESCRIPTION:Final: Bowie 2\, Oxon Hill 0\nWatch: https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gam3a5dcb6fe5
-URL:https://www.nfhsnetwork.com/events/oxon-hill-high-school-oxon-hill-md/gam3a5dcb6fe5
+DESCRIPTION:Final: Bowie 2\, Oxon Hill 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foxon-hill-high-school-oxon-hill-md%2Fgam3a5dcb6fe5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foxon-hill-high-school-oxon-hill-md%2Fgam3a5dcb6fe5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-suitland-bowie-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:Football: Bowie at Suitland
 LOCATION:Suitland
-DESCRIPTION:Final: Bowie 0\, Suitland 37\nWatch: https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gam918a6f8890
-URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gam918a6f8890
+DESCRIPTION:Final: Bowie 0\, Suitland 37\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam918a6f8890
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam918a6f8890
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-eleanor-roosevelt-bowie-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261016T170000
 DTEND;TZID=America/New_York:20261016T190000
 SUMMARY:Football: Bowie at Eleanor Roosevelt
 LOCATION:Eleanor Roosevelt
-DESCRIPTION:Final: Bowie 20\, Eleanor Roosevelt 34\nWatch: https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gamde27cfef9c
-URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gamde27cfef9c
+DESCRIPTION:Final: Bowie 20\, Eleanor Roosevelt 34\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamde27cfef9c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamde27cfef9c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-parkdale-bowie-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261024T140000
 DTEND;TZID=America/New_York:20261024T160000
 SUMMARY:Football: Bowie at Parkdale
@@ -85,12 +85,12 @@ DESCRIPTION:Tickets: https://gofan.co/event/6768029
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-laurel-bowie-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261031T130000
 DTEND;TZID=America/New_York:20261031T150000
 SUMMARY:Football: Bowie at Laurel
 LOCATION:Laurel
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gamdf7d6f20bf
-URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gamdf7d6f20bf
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamdf7d6f20bf
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamdf7d6f20bf
 END:VEVENT
 END:VCALENDAR

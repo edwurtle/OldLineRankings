@@ -6,27 +6,27 @@ X-WR-CALNAME:Thomas Stone Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-la-plata-thomas-stone-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Thomas Stone at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: Thomas Stone 33\, La Plata 21\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamde14044cbd
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamde14044cbd
+DESCRIPTION:Final: Thomas Stone 33\, La Plata 21\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamde14044cbd
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamde14044cbd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-patuxent-thomas-stone-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260910T170000
 DTEND;TZID=America/New_York:20260910T190000
 SUMMARY:Football: Thomas Stone at Patuxent
 LOCATION:Patuxent
-DESCRIPTION:Final: Thomas Stone 7\, Patuxent 48\nWatch: https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gamd6aafe12cd
-URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gamd6aafe12cd
+DESCRIPTION:Final: Thomas Stone 7\, Patuxent 48\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgamd6aafe12cd
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgamd6aafe12cd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-thomas-stone-chopticon-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Chopticon at Thomas Stone
@@ -35,47 +35,47 @@ DESCRIPTION:Final: Thomas Stone 13\, Chopticon 21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-thomas-stone-great-mills-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260924T180000
 DTEND;TZID=America/New_York:20260924T200000
 SUMMARY:Football: Great Mills at Thomas Stone
 LOCATION:Thomas Stone
-DESCRIPTION:Final: Thomas Stone 0\, Great Mills 31\nWatch: https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gamff5f3a6596
-URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gamff5f3a6596
+DESCRIPTION:Final: Thomas Stone 0\, Great Mills 31\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgamff5f3a6596
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgamff5f3a6596
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-northern-c-thomas-stone-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: Thomas Stone at Northern-C
 LOCATION:Northern-C
-DESCRIPTION:Final: Thomas Stone 0\, Northern-C 45\nWatch: https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam9c09568b06
-URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam9c09568b06
+DESCRIPTION:Final: Thomas Stone 0\, Northern-C 45\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam9c09568b06
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam9c09568b06
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-thomas-stone-westlake-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T140000
 SUMMARY:Football: Westlake at Thomas Stone
 LOCATION:Thomas Stone
-DESCRIPTION:Final: Thomas Stone 0\, Westlake 42\nWatch: https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam7657f5ba3d
-URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam7657f5ba3d
+DESCRIPTION:Final: Thomas Stone 0\, Westlake 42\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam7657f5ba3d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam7657f5ba3d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-thomas-stone-north-point-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261016T173000
 DTEND;TZID=America/New_York:20261016T193000
 SUMMARY:Football: North Point at Thomas Stone
 LOCATION:Thomas Stone
-DESCRIPTION:Final: Thomas Stone 7\, North Point 35\nWatch: https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam3d8961f5ac
-URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam3d8961f5ac
+DESCRIPTION:Final: Thomas Stone 7\, North Point 35\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam3d8961f5ac
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam3d8961f5ac
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-thomas-stone-st-charles-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: St. Charles at Thomas Stone
@@ -84,7 +84,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6952150
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-mcdonough-thomas-stone-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Thomas Stone at McDonough

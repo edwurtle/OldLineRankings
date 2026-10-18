@@ -6,27 +6,27 @@ X-WR-CALNAME:Gov. Thomas Johnson Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-catoctin-gov-thomas-johnson-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
 SUMMARY:Football: Gov. Thomas Johnson at Catoctin
 LOCATION:Catoctin
-DESCRIPTION:Final: Gov. Thomas Johnson 26\, Catoctin 8\nWatch: https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam61e688fd9f
-URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam61e688fd9f
+DESCRIPTION:Final: Gov. Thomas Johnson 26\, Catoctin 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam61e688fd9f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam61e688fd9f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-oakdale-gov-thomas-johnson-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260910T183000
 DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Football: Gov. Thomas Johnson at Oakdale
 LOCATION:Oakdale
-DESCRIPTION:Final: Gov. Thomas Johnson 6\, Oakdale 42\nWatch: https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam5616fa8a14
-URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam5616fa8a14
+DESCRIPTION:Final: Gov. Thomas Johnson 6\, Oakdale 42\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam5616fa8a14
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam5616fa8a14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-north-hagerstown-gov-thomas-johnson-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Gov. Thomas Johnson at North Hagerstown
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Gov. Thomas Johnson 14\, North Hagerstown 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-gov-thomas-johnson-south-hagerstown-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: South Hagerstown at Gov. Thomas Johnson
@@ -44,52 +44,52 @@ DESCRIPTION:Final: Gov. Thomas Johnson 16\, South Hagerstown 19
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-walkersville-gov-thomas-johnson-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261002T183000
 DTEND;TZID=America/New_York:20261002T203000
 SUMMARY:Football: Gov. Thomas Johnson at Walkersville
 LOCATION:Walkersville
-DESCRIPTION:Final: Gov. Thomas Johnson 19\, Walkersville 58\nWatch: https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam1a8e9478a3
-URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam1a8e9478a3
+DESCRIPTION:Final: Gov. Thomas Johnson 19\, Walkersville 58\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam1a8e9478a3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam1a8e9478a3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-gov-thomas-johnson-urbana-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T203000
 SUMMARY:Football: Urbana at Gov. Thomas Johnson
 LOCATION:Gov. Thomas Johnson
-DESCRIPTION:Final: Gov. Thomas Johnson 0\, Urbana 38\nWatch: https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam1952d0f1c8
-URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam1952d0f1c8
+DESCRIPTION:Final: Gov. Thomas Johnson 0\, Urbana 38\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgam1952d0f1c8
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgam1952d0f1c8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-gov-thomas-johnson-tuscarora-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261016T160000
 DTEND;TZID=America/New_York:20261016T180000
 SUMMARY:Football: Tuscarora at Gov. Thomas Johnson
 LOCATION:Gov. Thomas Johnson
-DESCRIPTION:Final: Gov. Thomas Johnson 28\, Tuscarora 56\nWatch: https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam64c50d3a58
-URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam64c50d3a58
+DESCRIPTION:Final: Gov. Thomas Johnson 28\, Tuscarora 56\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ftuscarora-high-school-frederick-md%2Fgam64c50d3a58
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ftuscarora-high-school-frederick-md%2Fgam64c50d3a58
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-linganore-gov-thomas-johnson-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Gov. Thomas Johnson at Linganore
 LOCATION:Linganore
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gamf54a95f597\nTickets: https://gofan.co/event/6728208
-URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gamf54a95f597
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgamf54a95f597\nTickets: https://gofan.co/event/6728208
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgamf54a95f597
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-frederick-gov-thomas-johnson-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Gov. Thomas Johnson at Frederick
 LOCATION:Frederick
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam14ddeadef0\nTickets: https://gofan.co/event/6728229
-URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam14ddeadef0
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam14ddeadef0\nTickets: https://gofan.co/event/6728229
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam14ddeadef0
 END:VEVENT
 END:VCALENDAR

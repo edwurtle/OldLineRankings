@@ -6,27 +6,27 @@ X-WR-CALNAME:McDonough Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-henry-e-lackey-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Girls Soccer: McDonough at Henry E. Lackey
 LOCATION:Henry E. Lackey
-DESCRIPTION:Final: McDonough 13\, Henry E. Lackey 0\nWatch: https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gamddb74d0939
-URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gamddb74d0939
+DESCRIPTION:Final: McDonough 13\, Henry E. Lackey 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgamddb74d0939
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgamddb74d0939
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-mcdonough-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Girls Soccer: North Point at McDonough
 LOCATION:McDonough
-DESCRIPTION:Final: McDonough 0\, North Point 1\nWatch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam827169bc4b
-URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam827169bc4b
+DESCRIPTION:Final: McDonough 0\, North Point 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam827169bc4b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam827169bc4b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-mcdonough-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Chopticon at McDonough
@@ -35,7 +35,7 @@ DESCRIPTION:Final: McDonough 9\, Chopticon 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-huntingtown-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: McDonough at Huntingtown
@@ -44,57 +44,57 @@ DESCRIPTION:Final: McDonough 1\, Huntingtown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-patuxent-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260924T181500
 DTEND;TZID=America/New_York:20260924T201500
 SUMMARY:Girls Soccer: McDonough at Patuxent
 LOCATION:Patuxent
-DESCRIPTION:Final: McDonough 9\, Patuxent 1\nWatch: https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam6d7d39ef19
-URL:https://www.nfhsnetwork.com/events/patuxent-high-school-lusby-md/gam6d7d39ef19
+DESCRIPTION:Final: McDonough 9\, Patuxent 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam6d7d39ef19
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam6d7d39ef19
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-la-plata-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Girls Soccer: McDonough at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: McDonough 8\, La Plata 0\nWatch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/game749bb642e
-URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/game749bb642e
+DESCRIPTION:Final: McDonough 8\, La Plata 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgame749bb642e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgame749bb642e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-mcdonough-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261001T183000
 DTEND;TZID=America/New_York:20261001T203000
 SUMMARY:Girls Soccer: Great Mills at McDonough
 LOCATION:McDonough
-DESCRIPTION:Final: McDonough 5\, Great Mills 1\nWatch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam2775cd2d6b
-URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam2775cd2d6b
+DESCRIPTION:Final: McDonough 5\, Great Mills 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam2775cd2d6b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam2775cd2d6b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-mcdonough-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Girls Soccer: Northern-C at McDonough
 LOCATION:McDonough
-DESCRIPTION:Final: McDonough 1\, Northern-C 2\nWatch: https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gam57b82a004d
-URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gam57b82a004d
+DESCRIPTION:Final: McDonough 1\, Northern-C 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam57b82a004d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam57b82a004d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-calvert-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261008T181500
 DTEND;TZID=America/New_York:20261008T201500
 SUMMARY:Girls Soccer: McDonough at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: McDonough 0\, Calvert 0\nWatch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gameed9f58891
-URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gameed9f58891
+DESCRIPTION:Final: McDonough 0\, Calvert 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgameed9f58891
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgameed9f58891
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-mcdonough-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Leonardtown at McDonough
@@ -103,12 +103,12 @@ DESCRIPTION:Final: McDonough 2\, Leonardtown 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-mcdonough-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261015T181500
 DTEND;TZID=America/New_York:20261015T201500
 SUMMARY:Girls Soccer: Westlake at McDonough
 LOCATION:McDonough
-DESCRIPTION:Final: McDonough 18\, Westlake 1\nWatch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gamdbeee9bd01
-URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gamdbeee9bd01
+DESCRIPTION:Final: McDonough 18\, Westlake 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamdbeee9bd01
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamdbeee9bd01
 END:VEVENT
 END:VCALENDAR

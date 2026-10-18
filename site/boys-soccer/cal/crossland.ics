@@ -6,17 +6,17 @@ X-WR-CALNAME:Crossland Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-crossland-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260908T170000
 DTEND;TZID=America/New_York:20260908T190000
 SUMMARY:Boys Soccer: Severna Park at Crossland
 LOCATION:Crossland
-DESCRIPTION:Final: Crossland 0\, Severna Park 10\nWatch: https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam52958027a5
-URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gam52958027a5
+DESCRIPTION:Final: Crossland 0\, Severna Park 10\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseverna-park-high-school-severna-park-md%2Fgam52958027a5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseverna-park-high-school-severna-park-md%2Fgam52958027a5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-crossland-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Potomac at Crossland
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Crossland 2\, Potomac 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-crossland-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Gwynn Park at Crossland
@@ -34,17 +34,17 @@ DESCRIPTION:Final: Crossland 3\, Gwynn Park 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-crossland-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260916T150000
 DTEND;TZID=America/New_York:20260916T170000
 SUMMARY:Boys Soccer: Friendly at Crossland
 LOCATION:Crossland
-DESCRIPTION:Final: Crossland 5\, Friendly 1\nWatch: https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/gamf82f43cde1
-URL:https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/gamf82f43cde1
+DESCRIPTION:Final: Crossland 5\, Friendly 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffriendly-high-school-fort-washington-md%2Fgamf82f43cde1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffriendly-high-school-fort-washington-md%2Fgamf82f43cde1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-cmit-north-crossland-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Crossland at CMIT - North
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Crossland 6\, CMIT - North 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-crossland-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Largo at Crossland
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Crossland 4\, Largo 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-crossland-frederick-douglass-pg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Frederick Douglass-PG at Crossland
@@ -71,27 +71,27 @@ DESCRIPTION:Final: Crossland 4\, Frederick Douglass-PG 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-central-crossland-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261005T150000
 DTEND;TZID=America/New_York:20261005T170000
 SUMMARY:Boys Soccer: Crossland at Central
 LOCATION:Central
-DESCRIPTION:Final: Crossland 4\, Central 0\nWatch: https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/gam9b332c5853
-URL:https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/gam9b332c5853
+DESCRIPTION:Final: Crossland 4\, Central 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrossland-high-school-temple-hills-md%2Fgam9b332c5853
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrossland-high-school-temple-hills-md%2Fgam9b332c5853
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-crossland-surrattsville-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261008T164600
 DTEND;TZID=America/New_York:20261008T184600
 SUMMARY:Boys Soccer: Surrattsville at Crossland
 LOCATION:Crossland
-DESCRIPTION:Final: Crossland 2\, Surrattsville 0\nWatch: https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/game29df3ffae
-URL:https://www.nfhsnetwork.com/events/crossland-high-school-temple-hills-md/game29df3ffae
+DESCRIPTION:Final: Crossland 2\, Surrattsville 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrossland-high-school-temple-hills-md%2Fgame29df3ffae
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrossland-high-school-temple-hills-md%2Fgame29df3ffae
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-crossland-fairmont-heights-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Fairmont Heights at Crossland
@@ -100,7 +100,7 @@ DESCRIPTION:Final: Crossland 1\, Fairmont Heights 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-college-park-academy-crossland-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Crossland at College Park Academy
@@ -109,7 +109,7 @@ DESCRIPTION:Final: Crossland 2\, College Park Academy 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-crossland-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261021T150000
 DTEND;TZID=America/New_York:20261021T170000
 SUMMARY:Boys Soccer: Suitland at Crossland

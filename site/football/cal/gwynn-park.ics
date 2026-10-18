@@ -6,17 +6,17 @@ X-WR-CALNAME:Gwynn Park Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-gwynn-park-bowie-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Bowie at Gwynn Park
 LOCATION:Gwynn Park
-DESCRIPTION:Final: Gwynn Park 56\, Bowie 6\nWatch: https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gamae597b0eba
-URL:https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gamae597b0eba
+DESCRIPTION:Final: Gwynn Park 56\, Bowie 6\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgwynn-park-high-school-brandywine-md%2Fgamae597b0eba
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgwynn-park-high-school-brandywine-md%2Fgamae597b0eba
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-gwynn-park-new-town-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: New Town at Gwynn Park
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Gwynn Park 8\, New Town 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-fairmont-heights-gwynn-park-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Gwynn Park at Fairmont Heights
@@ -34,62 +34,62 @@ DESCRIPTION:Final: Gwynn Park 47\, Fairmont Heights 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-gwynn-park-largo-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Football: Largo at Gwynn Park
 LOCATION:Gwynn Park
-DESCRIPTION:Final: Gwynn Park 22\, Largo 24\nWatch: https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gamcaf03c603f
-URL:https://www.nfhsnetwork.com/events/largo-high-school-upper-marlboro-md/gamcaf03c603f
+DESCRIPTION:Final: Gwynn Park 22\, Largo 24\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flargo-high-school-upper-marlboro-md%2Fgamcaf03c603f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flargo-high-school-upper-marlboro-md%2Fgamcaf03c603f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-gwynn-park-surrattsville-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261002T184500
 DTEND;TZID=America/New_York:20261002T204500
 SUMMARY:Football: Surrattsville at Gwynn Park
 LOCATION:Gwynn Park
-DESCRIPTION:Final: Gwynn Park 49\, Surrattsville 0\nWatch: https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gamc4119e701c
-URL:https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gamc4119e701c
+DESCRIPTION:Final: Gwynn Park 49\, Surrattsville 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgwynn-park-high-school-brandywine-md%2Fgamc4119e701c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgwynn-park-high-school-brandywine-md%2Fgamc4119e701c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-central-gwynn-park-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T203000
 SUMMARY:Football: Gwynn Park at Central
 LOCATION:Central
-DESCRIPTION:Final: Gwynn Park 53\, Central 0\nWatch: https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gamf029d94ebd
-URL:https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gamf029d94ebd
+DESCRIPTION:Final: Gwynn Park 53\, Central 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgwynn-park-high-school-brandywine-md%2Fgamf029d94ebd
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgwynn-park-high-school-brandywine-md%2Fgamf029d94ebd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-crossland-gwynn-park-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Football: Gwynn Park at Crossland
 LOCATION:Crossland
-DESCRIPTION:Final: Gwynn Park 42\, Crossland 0\nWatch: https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gam4f945b7e0f
-URL:https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gam4f945b7e0f
+DESCRIPTION:Final: Gwynn Park 42\, Crossland 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgwynn-park-high-school-brandywine-md%2Fgam4f945b7e0f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgwynn-park-high-school-brandywine-md%2Fgam4f945b7e0f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-gwynn-park-friendly-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Friendly at Gwynn Park
 LOCATION:Gwynn Park
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/gam3b66a2537f\nTickets: https://gofan.co/event/6767853
-URL:https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/gam3b66a2537f
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffriendly-high-school-fort-washington-md%2Fgam3b66a2537f\nTickets: https://gofan.co/event/6767853
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffriendly-high-school-fort-washington-md%2Fgam3b66a2537f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-frederick-douglass-pg-gwynn-park-football@oldlinerankings
-DTSTAMP:20261018T141038Z
+DTSTAMP:20261018T143235Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Gwynn Park at Frederick Douglass-PG
 LOCATION:Frederick Douglass-PG
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gama58adfd970\nTickets: https://gofan.co/event/6767869
-URL:https://www.nfhsnetwork.com/events/gwynn-park-high-school-brandywine-md/gama58adfd970
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgwynn-park-high-school-brandywine-md%2Fgama58adfd970\nTickets: https://gofan.co/event/6767869
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fgwynn-park-high-school-brandywine-md%2Fgama58adfd970
 END:VEVENT
 END:VCALENDAR

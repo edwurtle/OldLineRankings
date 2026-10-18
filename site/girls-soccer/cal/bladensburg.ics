@@ -6,27 +6,27 @@ X-WR-CALNAME:Bladensburg Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-laurel-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260910T153000
 DTEND;TZID=America/New_York:20260910T173000
 SUMMARY:Girls Soccer: Bladensburg at Laurel
 LOCATION:Laurel
-DESCRIPTION:Final: Bladensburg 2\, Laurel 0\nWatch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamc28247d6a4
-URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamc28247d6a4
+DESCRIPTION:Final: Bladensburg 2\, Laurel 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamc28247d6a4
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamc28247d6a4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-bladensburg-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260914T153000
 DTEND;TZID=America/New_York:20260914T173000
 SUMMARY:Girls Soccer: Bowie at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Final: Bladensburg 0\, Bowie 2\nWatch: https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gam49d775d25a
-URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gam49d775d25a
+DESCRIPTION:Final: Bladensburg 0\, Bowie 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam49d775d25a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam49d775d25a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-bladensburg-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Suitland at Bladensburg
@@ -35,77 +35,77 @@ DESCRIPTION:Final: Bladensburg 6\, Suitland 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-gwynn-park-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260924T163000
 DTEND;TZID=America/New_York:20260924T183000
 SUMMARY:Girls Soccer: Bladensburg at Gwynn Park
 LOCATION:Gwynn Park
-DESCRIPTION:Final: Bladensburg 9\, Gwynn Park 0\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam764ea4d753
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam764ea4d753
+DESCRIPTION:Final: Bladensburg 9\, Gwynn Park 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam764ea4d753
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam764ea4d753
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-bladensburg-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260928T163000
 DTEND;TZID=America/New_York:20260928T183000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Final: Bladensburg 6\, Dr. Henry A. Wise 0\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gamf313e4cb3b
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gamf313e4cb3b
+DESCRIPTION:Final: Bladensburg 6\, Dr. Henry A. Wise 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamf313e4cb3b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamf313e4cb3b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-bladensburg-eleanor-roosevelt-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
 SUMMARY:Girls Soccer: Eleanor Roosevelt at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Final: Bladensburg 0\, Eleanor Roosevelt 3\nWatch: https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-md/gamdb72d0f8e3
-URL:https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-md/gamdb72d0f8e3
+DESCRIPTION:Final: Bladensburg 0\, Eleanor Roosevelt 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feleanor-roosevelt-high-school-greenbelt-md%2Fgamdb72d0f8e3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feleanor-roosevelt-high-school-greenbelt-md%2Fgamdb72d0f8e3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-bladensburg-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261005T163000
 DTEND;TZID=America/New_York:20261005T183000
 SUMMARY:Girls Soccer: Duval at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Final: Bladensburg 7\, Duval 0\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam90d285f245
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam90d285f245
+DESCRIPTION:Final: Bladensburg 7\, Duval 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam90d285f245
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam90d285f245
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-northwestern-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261007T174500
 DTEND;TZID=America/New_York:20261007T194500
 SUMMARY:Girls Soccer: Bladensburg at Northwestern
 LOCATION:Northwestern
-DESCRIPTION:Final: Bladensburg 3\, Northwestern 0\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam577b2d3cc2
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam577b2d3cc2
+DESCRIPTION:Final: Bladensburg 3\, Northwestern 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam577b2d3cc2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam577b2d3cc2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-bladensburg-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261012T174500
 DTEND;TZID=America/New_York:20261012T194500
 SUMMARY:Girls Soccer: Parkdale at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Final: Bladensburg 1\, Parkdale 2\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam6bec7830f6
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam6bec7830f6
+DESCRIPTION:Final: Bladensburg 1\, Parkdale 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam6bec7830f6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam6bec7830f6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-bladensburg-charles-h-flowers-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261015T174500
 DTEND;TZID=America/New_York:20261015T194500
 SUMMARY:Girls Soccer: Charles H. Flowers at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Final: Bladensburg 0\, Charles H. Flowers 2\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam26863f4e80
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam26863f4e80
+DESCRIPTION:Final: Bladensburg 0\, Charles H. Flowers 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam26863f4e80
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam26863f4e80
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-high-point-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Bladensburg at High Point

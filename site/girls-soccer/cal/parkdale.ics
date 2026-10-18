@@ -6,17 +6,17 @@ X-WR-CALNAME:Parkdale Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-dr-henry-a-wise-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260910T150000
 DTEND;TZID=America/New_York:20260910T170000
 SUMMARY:Girls Soccer: Parkdale at Dr. Henry A. Wise
 LOCATION:Dr. Henry A. Wise
-DESCRIPTION:Final: Parkdale 2\, Dr. Henry A. Wise 3\nWatch: https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam34e4f025b0
-URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam34e4f025b0
+DESCRIPTION:Final: Parkdale 2\, Dr. Henry A. Wise 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam34e4f025b0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam34e4f025b0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-parkdale-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Suitland at Parkdale
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Parkdale 6\, Suitland 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-high-point-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Parkdale at High Point
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Parkdale 8\, High Point 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-duval-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Parkdale at Duval
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Parkdale 3\, Duval 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-eleanor-roosevelt-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Parkdale at Eleanor Roosevelt
@@ -52,27 +52,27 @@ DESCRIPTION:Final: Parkdale 0\, Eleanor Roosevelt 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-charles-h-flowers-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Girls Soccer: Parkdale at Charles H. Flowers
 LOCATION:Charles H. Flowers
-DESCRIPTION:Final: Parkdale 0\, Charles H. Flowers 1\nWatch: https://www.nfhsnetwork.com/events/charles-herbert-flowers-high-school-springdale-md/game690a5d04b
-URL:https://www.nfhsnetwork.com/events/charles-herbert-flowers-high-school-springdale-md/game690a5d04b
+DESCRIPTION:Final: Parkdale 0\, Charles H. Flowers 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcharles-herbert-flowers-high-school-springdale-md%2Fgame690a5d04b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcharles-herbert-flowers-high-school-springdale-md%2Fgame690a5d04b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-northwestern-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T173000
 SUMMARY:Girls Soccer: Parkdale at Northwestern
 LOCATION:Northwestern
-DESCRIPTION:Final: Parkdale 1\, Northwestern 0\nWatch: https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam3fcd8709f9
-URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam3fcd8709f9
+DESCRIPTION:Final: Parkdale 1\, Northwestern 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam3fcd8709f9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam3fcd8709f9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-laurel-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Parkdale at Laurel
@@ -81,17 +81,17 @@ DESCRIPTION:Final: Parkdale 5\, Laurel 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-bladensburg-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261012T174500
 DTEND;TZID=America/New_York:20261012T194500
 SUMMARY:Girls Soccer: Parkdale at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Final: Parkdale 2\, Bladensburg 1\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam6bec7830f6
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam6bec7830f6
+DESCRIPTION:Final: Parkdale 2\, Bladensburg 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam6bec7830f6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam6bec7830f6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-parkdale-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Bowie at Parkdale
@@ -100,7 +100,7 @@ DESCRIPTION:Final: Parkdale 1\, Bowie 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-college-park-academy-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261019T153000
 DTEND;TZID=America/New_York:20261019T173000
 SUMMARY:Girls Soccer: Parkdale at College Park Academy

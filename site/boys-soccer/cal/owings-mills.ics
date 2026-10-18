@@ -6,7 +6,7 @@ X-WR-CALNAME:Owings Mills Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-owings-mills-new-town-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: New Town at Owings Mills
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Owings Mills 1\, New Town 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-carver-aandt-owings-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Owings Mills at Carver A&T
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Owings Mills 2\, Carver A&T 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-western-tech-owings-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Owings Mills at Western Tech
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Owings Mills 2\, Western Tech 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-owings-mills-parkville-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Boys Soccer: Parkville at Owings Mills
@@ -42,17 +42,17 @@ DESCRIPTION:Final: Owings Mills 0\, Parkville 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-pikesville-owings-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260928T173000
 DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Boys Soccer: Owings Mills at Pikesville
 LOCATION:Pikesville
-DESCRIPTION:Final: Owings Mills 1\, Pikesville 5\nWatch: https://www.nfhsnetwork.com/events/pikesville-high-school-baltimore-md/gam17d2b695ef
-URL:https://www.nfhsnetwork.com/events/pikesville-high-school-baltimore-md/gam17d2b695ef
+DESCRIPTION:Final: Owings Mills 1\, Pikesville 5\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpikesville-high-school-baltimore-md%2Fgam17d2b695ef
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpikesville-high-school-baltimore-md%2Fgam17d2b695ef
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-owings-mills-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Boys Soccer: Franklin at Owings Mills
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Owings Mills 1\, Franklin 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-loch-raven-owings-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Boys Soccer: Owings Mills at Loch Raven
@@ -70,27 +70,27 @@ DESCRIPTION:Final: Owings Mills 2\, Loch Raven 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-owings-mills-milford-mill-academy-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261013T153000
 DTEND;TZID=America/New_York:20261013T173000
 SUMMARY:Boys Soccer: Milford Mill Academy at Owings Mills
 LOCATION:Owings Mills
-DESCRIPTION:Final: Owings Mills 2\, Milford Mill Academy 1\nWatch: https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gamddbe22e729
-URL:https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gamddbe22e729
+DESCRIPTION:Final: Owings Mills 2\, Milford Mill Academy 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgamddbe22e729
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgamddbe22e729
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-owings-mills-chesapeake-b-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Boys Soccer: Chesapeake-B at Owings Mills
 LOCATION:Owings Mills
-DESCRIPTION:Final: Owings Mills 2\, Chesapeake-B 8\nWatch: https://www.nfhsnetwork.com/events/chesapeake-high-school-baltimore-md/gamd0fa9f3bcd
-URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-baltimore-md/gamd0fa9f3bcd
+DESCRIPTION:Final: Owings Mills 2\, Chesapeake-B 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-baltimore-md%2Fgamd0fa9f3bcd
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-baltimore-md%2Fgamd0fa9f3bcd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-owings-mills-randallstown-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: Randallstown at Owings Mills
@@ -98,17 +98,17 @@ LOCATION:Owings Mills
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-lansdowne-owings-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261022T174500
 DTEND;TZID=America/New_York:20261022T194500
 SUMMARY:Boys Soccer: Owings Mills at Lansdowne
 LOCATION:Lansdowne
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/lansdowne-high-school-baltimore-md/gamd1a3ac724c\nTickets: https://gofan.co/event/6967962
-URL:https://www.nfhsnetwork.com/events/lansdowne-high-school-baltimore-md/gamd1a3ac724c
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgamd1a3ac724c\nTickets: https://gofan.co/event/6967962
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgamd1a3ac724c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-owings-mills-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Boys Soccer: Winters Mill at Owings Mills

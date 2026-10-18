@@ -6,7 +6,7 @@ X-WR-CALNAME:St. Charles Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-patuxent-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: St. Charles at Patuxent
@@ -15,17 +15,17 @@ DESCRIPTION:Final: St. Charles 2\, Patuxent 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-calvert-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260910T163000
 DTEND;TZID=America/New_York:20260910T183000
 SUMMARY:Boys Soccer: St. Charles at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: St. Charles 0\, Calvert 1\nWatch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gamc4e566b83b
-URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gamc4e566b83b
+DESCRIPTION:Final: St. Charles 0\, Calvert 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgamc4e566b83b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgamc4e566b83b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-northern-c-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: St. Charles at Northern-C
@@ -34,47 +34,47 @@ DESCRIPTION:Final: St. Charles 0\, Northern-C 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-st-charles-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260917T144900
 DTEND;TZID=America/New_York:20260917T164900
 SUMMARY:Boys Soccer: Leonardtown at St. Charles
 LOCATION:St. Charles
-DESCRIPTION:Final: St. Charles 1\, Leonardtown 10\nWatch: https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gam11fa3c446e
-URL:https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gam11fa3c446e
+DESCRIPTION:Final: St. Charles 1\, Leonardtown 10\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgam11fa3c446e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgam11fa3c446e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-st-charles-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260929T181500
 DTEND;TZID=America/New_York:20260929T201500
 SUMMARY:Boys Soccer: Chopticon at St. Charles
 LOCATION:St. Charles
-DESCRIPTION:Final: St. Charles 2\, Chopticon 8\nWatch: https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gamd3bfc31106
-URL:https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gamd3bfc31106
+DESCRIPTION:Final: St. Charles 2\, Chopticon 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgamd3bfc31106
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgamd3bfc31106
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-henry-e-lackey-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: St. Charles at Henry E. Lackey
 LOCATION:Henry E. Lackey
-DESCRIPTION:Final: St. Charles 0\, Henry E. Lackey 4\nWatch: https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gama8f0eb2377
-URL:https://www.nfhsnetwork.com/events/lackey-high-school-indian-head-md/gama8f0eb2377
+DESCRIPTION:Final: St. Charles 0\, Henry E. Lackey 4\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgama8f0eb2377
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgama8f0eb2377
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-st-charles-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: North Point at St. Charles
 LOCATION:St. Charles
-DESCRIPTION:Final: St. Charles 1\, North Point 1\nWatch: https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gam6d6cb1e7d8
-URL:https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gam6d6cb1e7d8
+DESCRIPTION:Final: St. Charles 1\, North Point 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgam6d6cb1e7d8
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgam6d6cb1e7d8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-st-charles-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Great Mills at St. Charles
@@ -83,17 +83,17 @@ DESCRIPTION:Final: St. Charles 0\, Great Mills 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-huntingtown-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: St. Charles at Huntingtown
 LOCATION:Huntingtown
-DESCRIPTION:Final: St. Charles 0\, Huntingtown 2\nWatch: https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gam22698ea309
-URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gam22698ea309
+DESCRIPTION:Final: St. Charles 0\, Huntingtown 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhuntingtown-high-school-huntingtown-md%2Fgam22698ea309
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhuntingtown-high-school-huntingtown-md%2Fgam22698ea309
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-st-charles-thomas-stone-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261019T163000
 DTEND;TZID=America/New_York:20261019T183000
 SUMMARY:Boys Soccer: Thomas Stone at St. Charles
@@ -102,7 +102,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6969281
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-mcdonough-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: St. Charles at McDonough
@@ -110,7 +110,7 @@ LOCATION:McDonough
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-international-hs-at-langley-park-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261022T163000
 DTEND;TZID=America/New_York:20261022T183000
 SUMMARY:Boys Soccer: St. Charles at International HS at Langley Park

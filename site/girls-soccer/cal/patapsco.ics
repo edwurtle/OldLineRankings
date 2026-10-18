@@ -6,7 +6,7 @@ X-WR-CALNAME:Patapsco Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-owings-mills-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Patapsco at Owings Mills
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Patapsco 8\, Owings Mills 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-western-tech-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Patapsco at Western Tech
@@ -24,17 +24,17 @@ DESCRIPTION:Final: Patapsco 4\, Western Tech 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-patapsco-woodlawn-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260917T160000
 DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Girls Soccer: Woodlawn at Patapsco
 LOCATION:Patapsco
-DESCRIPTION:Final: Patapsco 8\, Woodlawn 0\nWatch: https://www.nfhsnetwork.com/events/patapsco-high-school-baltimore-md/gamc17b230a4d
-URL:https://www.nfhsnetwork.com/events/patapsco-high-school-baltimore-md/gamc17b230a4d
+DESCRIPTION:Final: Patapsco 8\, Woodlawn 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatapsco-high-school-baltimore-md%2Fgamc17b230a4d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatapsco-high-school-baltimore-md%2Fgamc17b230a4d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-patapsco-dundalk-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: Dundalk at Patapsco
@@ -43,27 +43,27 @@ DESCRIPTION:Final: Patapsco 3\, Dundalk 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-pikesville-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Girls Soccer: Patapsco at Pikesville
 LOCATION:Pikesville
-DESCRIPTION:Final: Patapsco 1\, Pikesville 3\nWatch: https://www.nfhsnetwork.com/events/dundalk-high-school-baltimore-md/gam3c966d2534
-URL:https://www.nfhsnetwork.com/events/dundalk-high-school-baltimore-md/gam3c966d2534
+DESCRIPTION:Final: Patapsco 1\, Pikesville 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdundalk-high-school-baltimore-md%2Fgam3c966d2534
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdundalk-high-school-baltimore-md%2Fgam3c966d2534
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-joppatowne-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260925T154500
 DTEND;TZID=America/New_York:20260925T174500
 SUMMARY:Girls Soccer: Patapsco at Joppatowne
 LOCATION:Joppatowne
-DESCRIPTION:Final: Patapsco 4\, Joppatowne 2\nWatch: https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamb910159973
-URL:https://www.nfhsnetwork.com/events/joppatowne-high-school-joppa-md/gamb910159973
+DESCRIPTION:Final: Patapsco 4\, Joppatowne 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgamb910159973
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgamb910159973
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-loch-raven-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Patapsco at Loch Raven
@@ -72,7 +72,7 @@ DESCRIPTION:Final: Patapsco 2\, Loch Raven 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-milford-mill-academy-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Patapsco at Milford Mill Academy
@@ -81,7 +81,7 @@ DESCRIPTION:Final: Patapsco 10\, Milford Mill Academy 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-chesapeake-b-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Patapsco at Chesapeake-B
@@ -90,7 +90,7 @@ DESCRIPTION:Final: Patapsco 8\, Chesapeake-B 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-lansdowne-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Patapsco at Lansdowne

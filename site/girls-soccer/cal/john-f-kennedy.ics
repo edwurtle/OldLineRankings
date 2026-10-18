@@ -6,37 +6,37 @@ X-WR-CALNAME:John F. Kennedy Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-11-seneca-valley-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260911T154500
 DTEND;TZID=America/New_York:20260911T174500
 SUMMARY:Girls Soccer: John F. Kennedy at Seneca Valley
 LOCATION:Seneca Valley
-DESCRIPTION:Final: John F. Kennedy 0\, Seneca Valley 6\nWatch: https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/game152834f94
-URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/game152834f94
+DESCRIPTION:Final: John F. Kennedy 0\, Seneca Valley 6\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgame152834f94
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgame152834f94
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-richard-montgomery-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260914T191500
 DTEND;TZID=America/New_York:20260914T211500
 SUMMARY:Girls Soccer: John F. Kennedy at Richard Montgomery
 LOCATION:Richard Montgomery
-DESCRIPTION:Final: John F. Kennedy 0\, Richard Montgomery 13\nWatch: https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gam2db6ffa075
-URL:https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-md/gam2db6ffa075
+DESCRIPTION:Final: John F. Kennedy 0\, Richard Montgomery 13\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frichard-montgomery-high-school-rockville-md%2Fgam2db6ffa075
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frichard-montgomery-high-school-rockville-md%2Fgam2db6ffa075
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-john-f-kennedy-northwood-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260916T180000
 DTEND;TZID=America/New_York:20260916T200000
 SUMMARY:Girls Soccer: Northwood at John F. Kennedy
 LOCATION:John F. Kennedy
-DESCRIPTION:Final: John F. Kennedy 2\, Northwood 9\nWatch: https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gam053effc66d
-URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gam053effc66d
+DESCRIPTION:Final: John F. Kennedy 2\, Northwood 9\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam053effc66d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam053effc66d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-albert-einstein-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: John F. Kennedy at Albert Einstein
@@ -45,67 +45,67 @@ DESCRIPTION:Final: John F. Kennedy 0\, Albert Einstein 12
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-rockville-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260924T180000
 DTEND;TZID=America/New_York:20260924T200000
 SUMMARY:Girls Soccer: John F. Kennedy at Rockville
 LOCATION:Rockville
-DESCRIPTION:Final: John F. Kennedy 0\, Rockville 8\nWatch: https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gam48a1d4bd44
-URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gam48a1d4bd44
+DESCRIPTION:Final: John F. Kennedy 0\, Rockville 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam48a1d4bd44
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam48a1d4bd44
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-wheaton-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261001T180000
 DTEND;TZID=America/New_York:20261001T200000
 SUMMARY:Girls Soccer: John F. Kennedy at Wheaton
 LOCATION:Wheaton
-DESCRIPTION:Final: John F. Kennedy 0\, Wheaton 2\nWatch: https://www.nfhsnetwork.com/events/wheaton-high-school-silver-spring-md/gamd953bd2167
-URL:https://www.nfhsnetwork.com/events/wheaton-high-school-silver-spring-md/gamd953bd2167
+DESCRIPTION:Final: John F. Kennedy 0\, Wheaton 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwheaton-high-school-silver-spring-md%2Fgamd953bd2167
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwheaton-high-school-silver-spring-md%2Fgamd953bd2167
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-poolesville-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T130000
 SUMMARY:Girls Soccer: John F. Kennedy at Poolesville
 LOCATION:Poolesville
-DESCRIPTION:Final: John F. Kennedy 0\, Poolesville 10\nWatch: https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/gam88c4f07924
-URL:https://www.nfhsnetwork.com/events/poolesville-high-school-poolesville-md/gam88c4f07924
+DESCRIPTION:Final: John F. Kennedy 0\, Poolesville 10\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam88c4f07924
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam88c4f07924
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-john-f-kennedy-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261005T191500
 DTEND;TZID=America/New_York:20261005T211500
 SUMMARY:Girls Soccer: Montgomery Blair at John F. Kennedy
 LOCATION:John F. Kennedy
-DESCRIPTION:Final: John F. Kennedy 0\, Montgomery Blair 8\nWatch: https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gam80da46a399
-URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gam80da46a399
+DESCRIPTION:Final: John F. Kennedy 0\, Montgomery Blair 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam80da46a399
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam80da46a399
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-damascus-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261008T191500
 DTEND;TZID=America/New_York:20261008T211500
 SUMMARY:Girls Soccer: John F. Kennedy at Damascus
 LOCATION:Damascus
-DESCRIPTION:Final: John F. Kennedy 0\, Damascus 9\nWatch: https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/gam1370eb43d1
-URL:https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/gam1370eb43d1
+DESCRIPTION:Final: John F. Kennedy 0\, Damascus 9\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdamascus-high-school-damascus-md%2Fgam1370eb43d1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdamascus-high-school-damascus-md%2Fgam1370eb43d1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-watkins-mill-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261013T191500
 DTEND;TZID=America/New_York:20261013T211500
 SUMMARY:Girls Soccer: John F. Kennedy at Watkins Mill
 LOCATION:Watkins Mill
-DESCRIPTION:Final: John F. Kennedy 1\, Watkins Mill 4\nWatch: https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gam2ea146a6d9
-URL:https://www.nfhsnetwork.com/events/john-f-kennedy-high-school-silver-spring-md/gam2ea146a6d9
+DESCRIPTION:Final: John F. Kennedy 1\, Watkins Mill 4\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam2ea146a6d9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam2ea146a6d9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-northwood-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Girls Soccer: John F. Kennedy at Northwood
@@ -113,22 +113,22 @@ LOCATION:Northwood
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-sherwood-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261020T171500
 DTEND;TZID=America/New_York:20261020T191500
 SUMMARY:Girls Soccer: John F. Kennedy at Sherwood
 LOCATION:Sherwood
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/sherwood-high-school-sandy-spring-md/game814814d68\nTickets: https://gofan.co/event/6710220
-URL:https://www.nfhsnetwork.com/events/sherwood-high-school-sandy-spring-md/game814814d68
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgame814814d68\nTickets: https://gofan.co/event/6710220
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgame814814d68
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-walter-johnson-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261022T191500
 DTEND;TZID=America/New_York:20261022T211500
 SUMMARY:Girls Soccer: John F. Kennedy at Walter Johnson
 LOCATION:Walter Johnson
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/gam3e6fbbc995\nTickets: https://gofan.co/event/6707441
-URL:https://www.nfhsnetwork.com/events/walter-johnson-high-school-bethesda-md/gam3e6fbbc995
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgam3e6fbbc995\nTickets: https://gofan.co/event/6707441
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgam3e6fbbc995
 END:VEVENT
 END:VCALENDAR

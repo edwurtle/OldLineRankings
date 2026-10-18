@@ -6,7 +6,7 @@ X-WR-CALNAME:South River Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-howard-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Girls Soccer: South River at Howard
@@ -15,7 +15,7 @@ DESCRIPTION:Final: South River 1\, Howard 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-south-river-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Girls Soccer: Bowie at South River
@@ -24,122 +24,122 @@ DESCRIPTION:Final: South River 8\, Bowie 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-south-river-meade-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Girls Soccer: Meade at South River
 LOCATION:South River
-DESCRIPTION:Final: South River 8\, Meade 0\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam4e0336b875
-URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam4e0336b875
+DESCRIPTION:Final: South River 8\, Meade 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgam4e0336b875
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgam4e0336b875
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-south-river-john-carroll-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260917T183000
 DTEND;TZID=America/New_York:20260917T203000
 SUMMARY:Girls Soccer: John Carroll at South River
 LOCATION:South River
-DESCRIPTION:Final: South River 2\, John Carroll 3\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam9bfd89eb80
-URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam9bfd89eb80
+DESCRIPTION:Final: South River 2\, John Carroll 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgam9bfd89eb80
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgam9bfd89eb80
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-south-river-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260922T184500
 DTEND;TZID=America/New_York:20260922T204500
 SUMMARY:Girls Soccer: Annapolis at South River
 LOCATION:South River
-DESCRIPTION:Final: South River 3\, Annapolis 0\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam56af87ee96
-URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam56af87ee96
+DESCRIPTION:Final: South River 3\, Annapolis 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgam56af87ee96
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgam56af87ee96
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-severna-park-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260924T170000
 DTEND;TZID=America/New_York:20260924T190000
 SUMMARY:Girls Soccer: South River at Severna Park
 LOCATION:Severna Park
-DESCRIPTION:Final: South River 1\, Severna Park 3\nWatch: https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gamc0de92eae5
-URL:https://www.nfhsnetwork.com/events/severna-park-high-school-severna-park-md/gamc0de92eae5
+DESCRIPTION:Final: South River 1\, Severna Park 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseverna-park-high-school-severna-park-md%2Fgamc0de92eae5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseverna-park-high-school-severna-park-md%2Fgamc0de92eae5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-chesapeake-science-point-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260929T184500
 DTEND;TZID=America/New_York:20260929T204500
 SUMMARY:Girls Soccer: South River at Chesapeake Science Point
 LOCATION:Chesapeake Science Point
-DESCRIPTION:Final: South River 9\, Chesapeake Science Point 0\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam2e0205e66c
-URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam2e0205e66c
+DESCRIPTION:Final: South River 9\, Chesapeake Science Point 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgam2e0205e66c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgam2e0205e66c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-south-river-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261001T164500
 DTEND;TZID=America/New_York:20261001T184500
 SUMMARY:Girls Soccer: Broadneck at South River
 LOCATION:South River
-DESCRIPTION:Final: South River 2\, Broadneck 4\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam98c1ff8068
-URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gam98c1ff8068
+DESCRIPTION:Final: South River 2\, Broadneck 4\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgam98c1ff8068
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgam98c1ff8068
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-old-mill-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: South River at Old Mill
 LOCATION:Old Mill
-DESCRIPTION:Final: South River 4\, Old Mill 0\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gamead715bb81
-URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/gamead715bb81
+DESCRIPTION:Final: South River 4\, Old Mill 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgamead715bb81
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgamead715bb81
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-south-river-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261008T164500
 DTEND;TZID=America/New_York:20261008T184500
 SUMMARY:Girls Soccer: Crofton at South River
 LOCATION:South River
-DESCRIPTION:Final: South River 0\, Crofton 1\nWatch: https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamac5f7e04a1
-URL:https://www.nfhsnetwork.com/events/crofton-high-school-gambrills-md/gamac5f7e04a1
+DESCRIPTION:Final: South River 0\, Crofton 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrofton-high-school-gambrills-md%2Fgamac5f7e04a1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrofton-high-school-gambrills-md%2Fgamac5f7e04a1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-south-river-glen-burnie-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Glen Burnie at South River
 LOCATION:South River
-DESCRIPTION:Final: South River 3\, Glen Burnie 1\nWatch: https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamb423f5ba3b
-URL:https://www.nfhsnetwork.com/events/glen-burnie-high-school-glen-burnie-md/gamb423f5ba3b
+DESCRIPTION:Final: South River 3\, Glen Burnie 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglen-burnie-high-school-glen-burnie-md%2Fgamb423f5ba3b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglen-burnie-high-school-glen-burnie-md%2Fgamb423f5ba3b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-arundel-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261015T164500
 DTEND;TZID=America/New_York:20261015T184500
 SUMMARY:Girls Soccer: South River at Arundel
 LOCATION:Arundel
-DESCRIPTION:Final: South River 2\, Arundel 0\nWatch: https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/game83c15e464
-URL:https://www.nfhsnetwork.com/events/south-river-high-school-edgewater-md/game83c15e464
+DESCRIPTION:Final: South River 2\, Arundel 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgame83c15e464
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgame83c15e464
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-chesapeake-aa-south-river-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Girls Soccer: South River at Chesapeake-AA
 LOCATION:Chesapeake-AA
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam1dcc7846e2\nTickets: https://gofan.co/event/6728468
-URL:https://www.nfhsnetwork.com/events/chesapeake-high-school-pasadena-md/gam1dcc7846e2
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-pasadena-md%2Fgam1dcc7846e2\nTickets: https://gofan.co/event/6728468
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-pasadena-md%2Fgam1dcc7846e2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-south-river-north-county-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Girls Soccer: North County at South River
 LOCATION:South River
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gam2d6fe5a515\nTickets: https://gofan.co/event/6897774
-URL:https://www.nfhsnetwork.com/events/north-county-high-school-glen-burnie-md/gam2d6fe5a515
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-county-high-school-glen-burnie-md%2Fgam2d6fe5a515\nTickets: https://gofan.co/event/6897774
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-county-high-school-glen-burnie-md%2Fgam2d6fe5a515
 END:VEVENT
 END:VCALENDAR

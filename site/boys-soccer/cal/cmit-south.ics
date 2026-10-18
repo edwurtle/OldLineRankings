@@ -6,7 +6,7 @@ X-WR-CALNAME:CMIT - South Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-14-cmit-south-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Oxon Hill at CMIT - South
@@ -15,7 +15,7 @@ DESCRIPTION:Final: CMIT - South 6\, Oxon Hill 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-cmit-south-international-hs-at-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: International HS at Largo at CMIT - South
@@ -24,17 +24,17 @@ DESCRIPTION:Final: CMIT - South 1\, International HS at Largo 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-cmit-south-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260924T150000
 DTEND;TZID=America/New_York:20260924T170000
 SUMMARY:Boys Soccer: Friendly at CMIT - South
 LOCATION:CMIT - South
-DESCRIPTION:Final: CMIT - South 0\, Friendly 2\nWatch: https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/gam9aaf9216d4
-URL:https://www.nfhsnetwork.com/events/friendly-high-school-fort-washington-md/gam9aaf9216d4
+DESCRIPTION:Final: CMIT - South 0\, Friendly 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffriendly-high-school-fort-washington-md%2Fgam9aaf9216d4
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffriendly-high-school-fort-washington-md%2Fgam9aaf9216d4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-cmit-south-central-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Central at CMIT - South
@@ -43,7 +43,7 @@ DESCRIPTION:Final: CMIT - South 5\, Central 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-cmit-south-fairmont-heights-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Fairmont Heights at CMIT - South
@@ -52,7 +52,7 @@ DESCRIPTION:Final: CMIT - South 2\, Fairmont Heights 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-cmit-north-cmit-south-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: CMIT - South at CMIT - North
@@ -61,7 +61,7 @@ DESCRIPTION:Final: CMIT - South 1\, CMIT - North 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-cmit-south-international-hs-at-langley-park-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Boys Soccer: International HS at Langley Park at CMIT - South
@@ -70,7 +70,7 @@ DESCRIPTION:Final: CMIT - South 4\, International HS at Langley Park 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-cmit-south-frederick-douglass-pg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Frederick Douglass-PG at CMIT - South
@@ -79,7 +79,7 @@ DESCRIPTION:Final: CMIT - South 3\, Frederick Douglass-PG 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-college-park-academy-cmit-south-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: CMIT - South at College Park Academy
@@ -87,7 +87,7 @@ LOCATION:College Park Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-cmit-south-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Gwynn Park at CMIT - South

@@ -6,7 +6,7 @@ X-WR-CALNAME:North Point Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-calvert-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: North Point at Calvert
@@ -15,17 +15,17 @@ DESCRIPTION:Final: North Point 0\, Calvert 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-mcdonough-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260910T162500
 DTEND;TZID=America/New_York:20260910T182500
 SUMMARY:Boys Soccer: North Point at McDonough
 LOCATION:McDonough
-DESCRIPTION:Final: North Point 2\, McDonough 1\nWatch: https://www.nfhsnetwork.com/events/north-point-high-school-waldorf-md/gam768913dce3
-URL:https://www.nfhsnetwork.com/events/north-point-high-school-waldorf-md/gam768913dce3
+DESCRIPTION:Final: North Point 2\, McDonough 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-point-high-school-waldorf-md%2Fgam768913dce3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-point-high-school-waldorf-md%2Fgam768913dce3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-patuxent-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: North Point at Patuxent
@@ -34,7 +34,7 @@ DESCRIPTION:Final: North Point 3\, Patuxent 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-chopticon-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: North Point at Chopticon
@@ -43,7 +43,7 @@ DESCRIPTION:Final: North Point 0\, Chopticon 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-north-point-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Leonardtown at North Point
@@ -52,17 +52,17 @@ DESCRIPTION:Final: North Point 1\, Leonardtown 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-great-mills-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260929T181500
 DTEND;TZID=America/New_York:20260929T201500
 SUMMARY:Boys Soccer: North Point at Great Mills
 LOCATION:Great Mills
-DESCRIPTION:Final: North Point 3\, Great Mills 8\nWatch: https://www.nfhsnetwork.com/events/north-point-high-school-waldorf-md/gam45facae3ad
-URL:https://www.nfhsnetwork.com/events/north-point-high-school-waldorf-md/gam45facae3ad
+DESCRIPTION:Final: North Point 3\, Great Mills 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-point-high-school-waldorf-md%2Fgam45facae3ad
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-point-high-school-waldorf-md%2Fgam45facae3ad
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-north-point-bishop-mcnamara-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Bishop McNamara at North Point
@@ -71,27 +71,27 @@ DESCRIPTION:Final: North Point 3\, Bishop McNamara 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-la-plata-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: North Point at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: North Point 0\, La Plata 3\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam8e79c539a2
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam8e79c539a2
+DESCRIPTION:Final: North Point 0\, La Plata 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam8e79c539a2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam8e79c539a2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-st-charles-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: North Point at St. Charles
 LOCATION:St. Charles
-DESCRIPTION:Final: North Point 1\, St. Charles 1\nWatch: https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gam6d6cb1e7d8
-URL:https://www.nfhsnetwork.com/events/st-charles-high-school-waldorf-md/gam6d6cb1e7d8
+DESCRIPTION:Final: North Point 1\, St. Charles 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgam6d6cb1e7d8
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgam6d6cb1e7d8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-henry-e-lackey-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: North Point at Henry E. Lackey
@@ -100,17 +100,17 @@ DESCRIPTION:Final: North Point 2\, Henry E. Lackey 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-thomas-stone-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: North Point at Thomas Stone
 LOCATION:Thomas Stone
-DESCRIPTION:Final: North Point 1\, Thomas Stone 1\nWatch: https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam494c45dc0f
-URL:https://www.nfhsnetwork.com/events/thomas-stone-high-school-waldorf-md/gam494c45dc0f
+DESCRIPTION:Final: North Point 1\, Thomas Stone 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam494c45dc0f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam494c45dc0f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-westlake-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Boys Soccer: North Point at Westlake

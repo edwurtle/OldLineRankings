@@ -6,7 +6,7 @@ X-WR-CALNAME:Huntingtown Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-huntingtown-thomas-stone-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Thomas Stone at Huntingtown
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Huntingtown 12\, Thomas Stone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-henry-e-lackey-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Huntingtown at Henry E. Lackey
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Huntingtown 4\, Henry E. Lackey 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-huntingtown-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Great Mills at Huntingtown
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Huntingtown 0\, Great Mills 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-huntingtown-mcdonough-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: McDonough at Huntingtown
@@ -42,17 +42,17 @@ DESCRIPTION:Final: Huntingtown -\, McDonough -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-westlake-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260923T163000
 DTEND;TZID=America/New_York:20260923T183000
 SUMMARY:Boys Soccer: Huntingtown at Westlake
 LOCATION:Westlake
-DESCRIPTION:Final: Huntingtown 7\, Westlake 0\nWatch: https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam7b75191567
-URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam7b75191567
+DESCRIPTION:Final: Huntingtown 7\, Westlake 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam7b75191567
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam7b75191567
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-huntingtown-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Boys Soccer: Chopticon at Huntingtown
@@ -61,47 +61,47 @@ DESCRIPTION:Final: Huntingtown 1\, Chopticon 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-calvert-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260929T181500
 DTEND;TZID=America/New_York:20260929T201500
 SUMMARY:Boys Soccer: Huntingtown at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: Huntingtown 1\, Calvert 0\nWatch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam8fb5991582
-URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam8fb5991582
+DESCRIPTION:Final: Huntingtown 1\, Calvert 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam8fb5991582
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam8fb5991582
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-southern-aa-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Boys Soccer: Huntingtown at Southern-AA
 LOCATION:Southern-AA
-DESCRIPTION:Final: Huntingtown 3\, Southern-AA 2\nWatch: https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gambca8bac452
-URL:https://www.nfhsnetwork.com/events/southern-high-school-harwood-md/gambca8bac452
+DESCRIPTION:Final: Huntingtown 3\, Southern-AA 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-high-school-harwood-md%2Fgambca8bac452
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-high-school-harwood-md%2Fgambca8bac452
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-patuxent-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: Huntingtown at Patuxent
 LOCATION:Patuxent
-DESCRIPTION:Final: Huntingtown 4\, Patuxent 3\nWatch: https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gamf8d7075314
-URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gamf8d7075314
+DESCRIPTION:Final: Huntingtown 4\, Patuxent 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhuntingtown-high-school-huntingtown-md%2Fgamf8d7075314
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhuntingtown-high-school-huntingtown-md%2Fgamf8d7075314
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-huntingtown-la-plata-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: La Plata at Huntingtown
 LOCATION:Huntingtown
-DESCRIPTION:Final: Huntingtown 0\, La Plata 8\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam0172c835c6
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam0172c835c6
+DESCRIPTION:Final: Huntingtown 0\, La Plata 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam0172c835c6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam0172c835c6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-huntingtown-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Northern-C at Huntingtown
@@ -110,12 +110,12 @@ DESCRIPTION:Final: Huntingtown 1\, Northern-C 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-huntingtown-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: St. Charles at Huntingtown
 LOCATION:Huntingtown
-DESCRIPTION:Final: Huntingtown 2\, St. Charles 0\nWatch: https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gam22698ea309
-URL:https://www.nfhsnetwork.com/events/huntingtown-high-school-huntingtown-md/gam22698ea309
+DESCRIPTION:Final: Huntingtown 2\, St. Charles 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhuntingtown-high-school-huntingtown-md%2Fgam22698ea309
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhuntingtown-high-school-huntingtown-md%2Fgam22698ea309
 END:VEVENT
 END:VCALENDAR

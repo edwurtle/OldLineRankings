@@ -6,7 +6,7 @@ X-WR-CALNAME:Milford Mill Academy Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-lansdowne-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Milford Mill Academy at Lansdowne
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Milford Mill Academy 2\, Lansdowne 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-milford-mill-academy-lansdowne-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Lansdowne at Milford Mill Academy
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Milford Mill Academy 2\, Lansdowne 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-pikesville-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Milford Mill Academy at Pikesville
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Milford Mill Academy 0\, Pikesville 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-owings-mills-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Milford Mill Academy at Owings Mills
@@ -42,17 +42,17 @@ DESCRIPTION:Final: Milford Mill Academy 3\, Owings Mills 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-milford-mill-academy-parkville-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260922T160000
 DTEND;TZID=America/New_York:20260922T180000
 SUMMARY:Girls Soccer: Parkville at Milford Mill Academy
 LOCATION:Milford Mill Academy
-DESCRIPTION:Final: Milford Mill Academy 6\, Parkville 9\nWatch: https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gamf663a97ff0
-URL:https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gamf663a97ff0
+DESCRIPTION:Final: Milford Mill Academy 6\, Parkville 9\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgamf663a97ff0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgamf663a97ff0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-paul-laurence-dunbar-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Milford Mill Academy at Paul Laurence Dunbar
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Milford Mill Academy 0\, Paul Laurence Dunbar 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-baltimore-city-college-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Milford Mill Academy at Baltimore City College
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Milford Mill Academy 1\, Baltimore City College 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-chesapeake-b-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Milford Mill Academy at Chesapeake-B
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Milford Mill Academy 4\, Chesapeake-B 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-milford-mill-academy-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Patapsco at Milford Mill Academy
@@ -88,27 +88,27 @@ DESCRIPTION:Final: Milford Mill Academy 2\, Patapsco 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-milford-mill-academy-woodlawn-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
 SUMMARY:Girls Soccer: Woodlawn at Milford Mill Academy
 LOCATION:Milford Mill Academy
-DESCRIPTION:Final: Milford Mill Academy 5\, Woodlawn 6\nWatch: https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gama28e9d5e18
-URL:https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gama28e9d5e18
+DESCRIPTION:Final: Milford Mill Academy 5\, Woodlawn 6\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgama28e9d5e18
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgama28e9d5e18
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-loch-raven-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
 SUMMARY:Girls Soccer: Milford Mill Academy at Loch Raven
 LOCATION:Loch Raven
-DESCRIPTION:Final: Milford Mill Academy 0\, Loch Raven 16\nWatch: https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gamdb8bdd90e3
-URL:https://www.nfhsnetwork.com/events/milford-mill-academy-baltimore-md/gamdb8bdd90e3
+DESCRIPTION:Final: Milford Mill Academy 0\, Loch Raven 16\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgamdb8bdd90e3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgamdb8bdd90e3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-western-tech-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Milford Mill Academy at Western Tech

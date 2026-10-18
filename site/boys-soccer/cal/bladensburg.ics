@@ -6,7 +6,7 @@ X-WR-CALNAME:Bladensburg Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-bladensburg-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: Annapolis at Bladensburg
@@ -15,77 +15,77 @@ DESCRIPTION:Final: Bladensburg 0\, Annapolis 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-laurel-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260910T163000
 DTEND;TZID=America/New_York:20260910T183000
 SUMMARY:Boys Soccer: Bladensburg at Laurel
 LOCATION:Laurel
-DESCRIPTION:Final: Bladensburg 5\, Laurel 1\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam114f7d0e6c
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam114f7d0e6c
+DESCRIPTION:Final: Bladensburg 5\, Laurel 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam114f7d0e6c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam114f7d0e6c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-bladensburg-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260914T163000
 DTEND;TZID=America/New_York:20260914T183000
 SUMMARY:Boys Soccer: Bowie at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Final: Bladensburg 2\, Bowie 3\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gamc346fad485
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gamc346fad485
+DESCRIPTION:Final: Bladensburg 2\, Bowie 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamc346fad485
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamc346fad485
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-bladensburg-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260917T163000
 DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Boys Soccer: Suitland at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Final: Bladensburg -\, Suitland -\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam8d6a8c1e23
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam8d6a8c1e23
+DESCRIPTION:Final: Bladensburg -\, Suitland -\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam8d6a8c1e23
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam8d6a8c1e23
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-calvert-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260922T181500
 DTEND;TZID=America/New_York:20260922T201500
 SUMMARY:Boys Soccer: Bladensburg at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: Bladensburg 1\, Calvert 2\nWatch: https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam70dd63c1d5
-URL:https://www.nfhsnetwork.com/events/calvert-high-school-prince-frederick-md/gam70dd63c1d5
+DESCRIPTION:Final: Bladensburg 1\, Calvert 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam70dd63c1d5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcalvert-high-school-prince-frederick-md%2Fgam70dd63c1d5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-gwynn-park-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260924T180000
 DTEND;TZID=America/New_York:20260924T200000
 SUMMARY:Boys Soccer: Bladensburg at Gwynn Park
 LOCATION:Gwynn Park
-DESCRIPTION:Final: Bladensburg 5\, Gwynn Park 0\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/game07e8bf481
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/game07e8bf481
+DESCRIPTION:Final: Bladensburg 5\, Gwynn Park 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgame07e8bf481
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgame07e8bf481
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-bladensburg-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Final: Bladensburg 4\, Dr. Henry A. Wise 0\nWatch: https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam4f66e356bb
-URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam4f66e356bb
+DESCRIPTION:Final: Bladensburg 4\, Dr. Henry A. Wise 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam4f66e356bb
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam4f66e356bb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-eleanor-roosevelt-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261001T174500
 DTEND;TZID=America/New_York:20261001T194500
 SUMMARY:Boys Soccer: Bladensburg at Eleanor Roosevelt
 LOCATION:Eleanor Roosevelt
-DESCRIPTION:Final: Bladensburg 3\, Eleanor Roosevelt 2\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam3b031a3106
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam3b031a3106
+DESCRIPTION:Final: Bladensburg 3\, Eleanor Roosevelt 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam3b031a3106
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam3b031a3106
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-bladensburg-duval-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Duval at Bladensburg
@@ -94,17 +94,17 @@ DESCRIPTION:Final: Bladensburg 4\, Duval 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-northwestern-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Boys Soccer: Bladensburg at Northwestern
 LOCATION:Northwestern
-DESCRIPTION:Final: Bladensburg 0\, Northwestern 2\nWatch: https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam2cb983e77e
-URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam2cb983e77e
+DESCRIPTION:Final: Bladensburg 0\, Northwestern 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam2cb983e77e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam2cb983e77e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-bladensburg-parkdale-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Parkdale at Bladensburg
@@ -113,22 +113,22 @@ DESCRIPTION:Final: Bladensburg 2\, Parkdale 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-bladensburg-charles-h-flowers-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261015T150000
 DTEND;TZID=America/New_York:20261015T170000
 SUMMARY:Boys Soccer: Charles H. Flowers at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Final: Bladensburg 2\, Charles H. Flowers 0\nWatch: https://www.nfhsnetwork.com/events/charles-herbert-flowers-high-school-springdale-md/gam7390dfa635
-URL:https://www.nfhsnetwork.com/events/charles-herbert-flowers-high-school-springdale-md/gam7390dfa635
+DESCRIPTION:Final: Bladensburg 2\, Charles H. Flowers 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcharles-herbert-flowers-high-school-springdale-md%2Fgam7390dfa635
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcharles-herbert-flowers-high-school-springdale-md%2Fgam7390dfa635
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-high-point-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261019T180000
 DTEND;TZID=America/New_York:20261019T200000
 SUMMARY:Boys Soccer: Bladensburg at High Point
 LOCATION:High Point
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam109396b0fc\nTickets: https://gofan.co/event/6792939
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam109396b0fc
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam109396b0fc\nTickets: https://gofan.co/event/6792939
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam109396b0fc
 END:VEVENT
 END:VCALENDAR

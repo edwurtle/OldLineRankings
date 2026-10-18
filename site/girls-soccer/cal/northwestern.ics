@@ -6,7 +6,7 @@ X-WR-CALNAME:Northwestern Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-high-point-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Northwestern at High Point
@@ -15,87 +15,87 @@ DESCRIPTION:Final: Northwestern 8\, High Point 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-laurel-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260914T153000
 DTEND;TZID=America/New_York:20260914T173000
 SUMMARY:Girls Soccer: Northwestern at Laurel
 LOCATION:Laurel
-DESCRIPTION:Final: Northwestern 1\, Laurel 2\nWatch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamd3225df673
-URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gamd3225df673
+DESCRIPTION:Final: Northwestern 1\, Laurel 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamd3225df673
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamd3225df673
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-northwestern-eleanor-roosevelt-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260917T173000
 DTEND;TZID=America/New_York:20260917T193000
 SUMMARY:Girls Soccer: Eleanor Roosevelt at Northwestern
 LOCATION:Northwestern
-DESCRIPTION:Final: Northwestern 0\, Eleanor Roosevelt 4\nWatch: https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-md/gam2eac967a60
-URL:https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-md/gam2eac967a60
+DESCRIPTION:Final: Northwestern 0\, Eleanor Roosevelt 4\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feleanor-roosevelt-high-school-greenbelt-md%2Fgam2eac967a60
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feleanor-roosevelt-high-school-greenbelt-md%2Fgam2eac967a60
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-bowie-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260923T150000
 DTEND;TZID=America/New_York:20260923T170000
 SUMMARY:Girls Soccer: Northwestern at Bowie
 LOCATION:Bowie
-DESCRIPTION:Final: Northwestern 0\, Bowie 5\nWatch: https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gam34c2f29c45
-URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gam34c2f29c45
+DESCRIPTION:Final: Northwestern 0\, Bowie 5\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam34c2f29c45
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam34c2f29c45
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-college-park-academy-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Girls Soccer: Northwestern at College Park Academy
 LOCATION:College Park Academy
-DESCRIPTION:Final: Northwestern 8\, College Park Academy 0\nWatch: https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gamaa3fa4b51a
-URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gamaa3fa4b51a
+DESCRIPTION:Final: Northwestern 8\, College Park Academy 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgamaa3fa4b51a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgamaa3fa4b51a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-northwestern-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Girls Soccer: Duval at Northwestern
 LOCATION:Northwestern
-DESCRIPTION:Final: Northwestern 0\, Duval 0\nWatch: https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam2de8925a58
-URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam2de8925a58
+DESCRIPTION:Final: Northwestern 0\, Duval 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam2de8925a58
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam2de8925a58
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-northwestern-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T173000
 SUMMARY:Girls Soccer: Parkdale at Northwestern
 LOCATION:Northwestern
-DESCRIPTION:Final: Northwestern 0\, Parkdale 1\nWatch: https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam3fcd8709f9
-URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gam3fcd8709f9
+DESCRIPTION:Final: Northwestern 0\, Parkdale 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam3fcd8709f9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam3fcd8709f9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-northwestern-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261007T174500
 DTEND;TZID=America/New_York:20261007T194500
 SUMMARY:Girls Soccer: Bladensburg at Northwestern
 LOCATION:Northwestern
-DESCRIPTION:Final: Northwestern 0\, Bladensburg 3\nWatch: https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam577b2d3cc2
-URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/gam577b2d3cc2
+DESCRIPTION:Final: Northwestern 0\, Bladensburg 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam577b2d3cc2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam577b2d3cc2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-northwestern-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261012T153000
 DTEND;TZID=America/New_York:20261012T173000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Northwestern
 LOCATION:Northwestern
-DESCRIPTION:Final: Northwestern 2\, Dr. Henry A. Wise 1\nWatch: https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gama792c02f49
-URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gama792c02f49
+DESCRIPTION:Final: Northwestern 2\, Dr. Henry A. Wise 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgama792c02f49
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgama792c02f49
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-northwestern-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Suitland at Northwestern
@@ -104,12 +104,12 @@ DESCRIPTION:Final: Northwestern 4\, Suitland 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-northwestern-charles-h-flowers-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261019T170000
 DTEND;TZID=America/New_York:20261019T190000
 SUMMARY:Girls Soccer: Charles H. Flowers at Northwestern
 LOCATION:Northwestern
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gameb95b5afc5\nTickets: https://gofan.co/event/6904017
-URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/gameb95b5afc5
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgameb95b5afc5\nTickets: https://gofan.co/event/6904017
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgameb95b5afc5
 END:VEVENT
 END:VCALENDAR

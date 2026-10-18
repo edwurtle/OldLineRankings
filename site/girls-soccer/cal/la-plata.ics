@@ -6,27 +6,27 @@ X-WR-CALNAME:La Plata Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-la-plata-marriotts-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260905T113000
 DTEND;TZID=America/New_York:20260905T133000
 SUMMARY:Girls Soccer: Marriotts Ridge at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 1\, Marriotts Ridge 1\nWatch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam53ac157e87
-URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam53ac157e87
+DESCRIPTION:Final: La Plata 1\, Marriotts Ridge 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam53ac157e87
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam53ac157e87
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-la-plata-southern-aa-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260905T150000
 DTEND;TZID=America/New_York:20260905T170000
 SUMMARY:Girls Soccer: Southern-AA at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 1\, Southern-AA 1\nWatch: https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam92a4e71c32
-URL:https://www.nfhsnetwork.com/events/catonsville-high-school-baltimore-md/gam92a4e71c32
+DESCRIPTION:Final: La Plata 1\, Southern-AA 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam92a4e71c32
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam92a4e71c32
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-la-plata-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Chopticon at La Plata
@@ -35,27 +35,27 @@ DESCRIPTION:Final: La Plata 4\, Chopticon 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-la-plata-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260910T181500
 DTEND;TZID=America/New_York:20260910T201500
 SUMMARY:Girls Soccer: Leonardtown at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 1\, Leonardtown 4\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamacd9cffcbc
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamacd9cffcbc
+DESCRIPTION:Final: La Plata 1\, Leonardtown 4\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamacd9cffcbc
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamacd9cffcbc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-la-plata-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260914T181500
 DTEND;TZID=America/New_York:20260914T201500
 SUMMARY:Girls Soccer: Oxon Hill at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 7\, Oxon Hill 1\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamf28025380a
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamf28025380a
+DESCRIPTION:Final: La Plata 7\, Oxon Hill 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf28025380a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf28025380a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-henry-e-lackey-la-plata-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: La Plata at Henry E. Lackey
@@ -64,7 +64,7 @@ DESCRIPTION:Final: La Plata 6\, Henry E. Lackey 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-patuxent-la-plata-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: La Plata at Patuxent
@@ -73,72 +73,72 @@ DESCRIPTION:Final: La Plata 6\, Patuxent 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-la-plata-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260924T181500
 DTEND;TZID=America/New_York:20260924T201500
 SUMMARY:Girls Soccer: Northern-C at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 0\, Northern-C 7\nWatch: https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gam65fb9b04ba
-URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gam65fb9b04ba
+DESCRIPTION:Final: La Plata 0\, Northern-C 7\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam65fb9b04ba
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam65fb9b04ba
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-la-plata-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Girls Soccer: McDonough at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 0\, McDonough 8\nWatch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/game749bb642e
-URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/game749bb642e
+DESCRIPTION:Final: La Plata 0\, McDonough 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgame749bb642e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgame749bb642e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-la-plata-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261001T181500
 DTEND;TZID=America/New_York:20261001T201500
 SUMMARY:Girls Soccer: Northern-C at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 3\, Northern-C 7\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam640ba1e635
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam640ba1e635
+DESCRIPTION:Final: La Plata 3\, Northern-C 7\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam640ba1e635
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam640ba1e635
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-la-plata-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Girls Soccer: North Point at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 0\, North Point 3\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam77b339d2de
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam77b339d2de
+DESCRIPTION:Final: La Plata 0\, North Point 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam77b339d2de
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam77b339d2de
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-huntingtown-la-plata-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261008T181500
 DTEND;TZID=America/New_York:20261008T201500
 SUMMARY:Girls Soccer: La Plata at Huntingtown
 LOCATION:Huntingtown
-DESCRIPTION:Final: La Plata 0\, Huntingtown 3\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam57deb537a9
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam57deb537a9
+DESCRIPTION:Final: La Plata 0\, Huntingtown 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam57deb537a9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam57deb537a9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-la-plata-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261013T163000
 DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Girls Soccer: Westlake at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 10\, Westlake 0\nWatch: https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam58fbae1fff
-URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gam58fbae1fff
+DESCRIPTION:Final: La Plata 10\, Westlake 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam58fbae1fff
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam58fbae1fff
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-calvert-la-plata-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261015T181500
 DTEND;TZID=America/New_York:20261015T201500
 SUMMARY:Girls Soccer: La Plata at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: La Plata 0\, Calvert 6\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gama408d779b6
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gama408d779b6
+DESCRIPTION:Final: La Plata 0\, Calvert 6\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgama408d779b6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgama408d779b6
 END:VEVENT
 END:VCALENDAR

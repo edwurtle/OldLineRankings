@@ -6,17 +6,17 @@ X-WR-CALNAME:Queen Anne's Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-queen-anne-s-stephen-decatur-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Girls Soccer: Stephen Decatur at Queen Anne's
 LOCATION:Queen Anne's
-DESCRIPTION:Final: Queen Anne's 1\, Stephen Decatur 1\nWatch: https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gamef9e0a7793
-URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gamef9e0a7793
+DESCRIPTION:Final: Queen Anne's 1\, Stephen Decatur 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fqueen-annes-high-school-centreville-md%2Fgamef9e0a7793
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fqueen-annes-high-school-centreville-md%2Fgamef9e0a7793
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-queen-anne-s-parkside-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Parkside at Queen Anne's
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Queen Anne's 6\, Parkside 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-kent-county-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Queen Anne's at Kent County
@@ -34,27 +34,27 @@ DESCRIPTION:Final: Queen Anne's 10\, Kent County 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-cambridge-south-dorchester-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
 SUMMARY:Girls Soccer: Queen Anne's at Cambridge-South Dorchester
 LOCATION:Cambridge-South Dorchester
-DESCRIPTION:Final: Queen Anne's 10\, Cambridge-South Dorchester 0\nWatch: https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam0f429b13b9
-URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam0f429b13b9
+DESCRIPTION:Final: Queen Anne's 10\, Cambridge-South Dorchester 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fqueen-annes-high-school-centreville-md%2Fgam0f429b13b9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fqueen-annes-high-school-centreville-md%2Fgam0f429b13b9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-north-caroline-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260924T173000
 DTEND;TZID=America/New_York:20260924T193000
 SUMMARY:Girls Soccer: Queen Anne's at North Caroline
 LOCATION:North Caroline
-DESCRIPTION:Final: Queen Anne's 8\, North Caroline 0\nWatch: https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam1169c94f13
-URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam1169c94f13
+DESCRIPTION:Final: Queen Anne's 8\, North Caroline 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fqueen-annes-high-school-centreville-md%2Fgam1169c94f13
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fqueen-annes-high-school-centreville-md%2Fgam1169c94f13
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-queen-anne-s-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: James M. Bennett at Queen Anne's
@@ -63,7 +63,7 @@ DESCRIPTION:Final: Queen Anne's 2\, James M. Bennett 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-north-dorchester-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Queen Anne's at North Dorchester
@@ -72,17 +72,17 @@ DESCRIPTION:Final: Queen Anne's 11\, North Dorchester 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-colonel-richardson-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T193000
 SUMMARY:Girls Soccer: Queen Anne's at Colonel Richardson
 LOCATION:Colonel Richardson
-DESCRIPTION:Final: Queen Anne's 8\, Colonel Richardson 0\nWatch: https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam60954f3b95
-URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam60954f3b95
+DESCRIPTION:Final: Queen Anne's 8\, Colonel Richardson 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fqueen-annes-high-school-centreville-md%2Fgam60954f3b95
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fqueen-annes-high-school-centreville-md%2Fgam60954f3b95
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-queen-anne-s-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Easton at Queen Anne's
@@ -91,7 +91,7 @@ DESCRIPTION:Final: Queen Anne's 5\, Easton 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-queen-anne-s-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Wicomico at Queen Anne's
@@ -100,12 +100,12 @@ DESCRIPTION:Final: Queen Anne's 15\, Wicomico 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-kent-island-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261014T170000
 DTEND;TZID=America/New_York:20261014T190000
 SUMMARY:Girls Soccer: Queen Anne's at Kent Island
 LOCATION:Kent Island
-DESCRIPTION:Final: Queen Anne's 7\, Kent Island 0\nWatch: https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam70b7ace00e
-URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam70b7ace00e
+DESCRIPTION:Final: Queen Anne's 7\, Kent Island 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkent-island-high-school-stevensville-md%2Fgam70b7ace00e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkent-island-high-school-stevensville-md%2Fgam70b7ace00e
 END:VEVENT
 END:VCALENDAR

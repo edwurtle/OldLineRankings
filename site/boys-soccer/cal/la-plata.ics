@@ -6,7 +6,7 @@ X-WR-CALNAME:La Plata Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-la-plata-northeast-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: Northeast-AA at La Plata
@@ -15,7 +15,7 @@ DESCRIPTION:Final: La Plata 0\, Northeast-AA 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-la-plata-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: Severn Run at La Plata
@@ -24,7 +24,7 @@ DESCRIPTION:Final: La Plata 2\, Severn Run 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-la-plata-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Chopticon at La Plata
@@ -33,17 +33,17 @@ DESCRIPTION:Final: La Plata 1\, Chopticon 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-la-plata-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260910T163000
 DTEND;TZID=America/New_York:20260910T183000
 SUMMARY:Boys Soccer: Leonardtown at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 0\, Leonardtown 4\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gambb133a62b0
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gambb133a62b0
+DESCRIPTION:Final: La Plata 0\, Leonardtown 4\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgambb133a62b0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgambb133a62b0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-henry-e-lackey-la-plata-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: La Plata at Henry E. Lackey
@@ -52,7 +52,7 @@ DESCRIPTION:Final: La Plata 5\, Henry E. Lackey 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-patuxent-la-plata-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: La Plata at Patuxent
@@ -61,7 +61,7 @@ DESCRIPTION:Final: La Plata 8\, Patuxent 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-surrattsville-la-plata-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Boys Soccer: La Plata at Surrattsville
@@ -70,27 +70,27 @@ DESCRIPTION:Final: La Plata 5\, Surrattsville 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-la-plata-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260924T163000
 DTEND;TZID=America/New_York:20260924T183000
 SUMMARY:Boys Soccer: Northern-C at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 2\, Northern-C 0\nWatch: https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gam8454394739
-URL:https://www.nfhsnetwork.com/events/northern-high-school-owings-md/gam8454394739
+DESCRIPTION:Final: La Plata 2\, Northern-C 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam8454394739
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam8454394739
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-la-plata-mcdonough-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260929T183000
 DTEND;TZID=America/New_York:20260929T203000
 SUMMARY:Boys Soccer: McDonough at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 2\, McDonough 0\nWatch: https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam5c50c6bf9b
-URL:https://www.nfhsnetwork.com/events/mcdonough-high-school-pomfret-md/gam5c50c6bf9b
+DESCRIPTION:Final: La Plata 2\, McDonough 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam5c50c6bf9b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam5c50c6bf9b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-la-plata-private-smca-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: private -SMCA at La Plata
@@ -99,42 +99,42 @@ DESCRIPTION:Final: La Plata 2\, private -SMCA 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-la-plata-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: North Point at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 3\, North Point 0\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam8e79c539a2
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam8e79c539a2
+DESCRIPTION:Final: La Plata 3\, North Point 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam8e79c539a2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam8e79c539a2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-huntingtown-la-plata-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: La Plata at Huntingtown
 LOCATION:Huntingtown
-DESCRIPTION:Final: La Plata 8\, Huntingtown 0\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam0172c835c6
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gam0172c835c6
+DESCRIPTION:Final: La Plata 8\, Huntingtown 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam0172c835c6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam0172c835c6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-la-plata-westlake-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261013T183000
 DTEND;TZID=America/New_York:20261013T203000
 SUMMARY:Boys Soccer: Westlake at La Plata
 LOCATION:La Plata
-DESCRIPTION:Final: La Plata 2\, Westlake 0\nWatch: https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gamb882e9fc95
-URL:https://www.nfhsnetwork.com/events/westlake-high-school-waldorf-md/gamb882e9fc95
+DESCRIPTION:Final: La Plata 2\, Westlake 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgamb882e9fc95
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgamb882e9fc95
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-calvert-la-plata-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: La Plata at Calvert
 LOCATION:Calvert
-DESCRIPTION:Final: La Plata 3\, Calvert 1\nWatch: https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamf26b144def
-URL:https://www.nfhsnetwork.com/events/la-plata-high-school-la-plata-md/gamf26b144def
+DESCRIPTION:Final: La Plata 3\, Calvert 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf26b144def
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf26b144def
 END:VEVENT
 END:VCALENDAR

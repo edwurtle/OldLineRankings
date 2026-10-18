@@ -6,27 +6,27 @@ X-WR-CALNAME:Colonel Richardson Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-colonel-richardson-snow-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Girls Soccer: Snow Hill at Colonel Richardson
 LOCATION:Colonel Richardson
-DESCRIPTION:Final: Colonel Richardson 0\, Snow Hill 5\nWatch: https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam5d78bfb061
-URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam5d78bfb061
+DESCRIPTION:Final: Colonel Richardson 0\, Snow Hill 5\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-richardson-high-school-federalsburg-md%2Fgam5d78bfb061
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-richardson-high-school-federalsburg-md%2Fgam5d78bfb061
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-colonel-richardson-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260910T173000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at Colonel Richardson
 LOCATION:Colonel Richardson
-DESCRIPTION:Final: Colonel Richardson 5\, Cambridge-South Dorchester 2\nWatch: https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam7992d21ec5
-URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam7992d21ec5
+DESCRIPTION:Final: Colonel Richardson 5\, Cambridge-South Dorchester 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-richardson-high-school-federalsburg-md%2Fgam7992d21ec5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-richardson-high-school-federalsburg-md%2Fgam7992d21ec5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-colonel-richardson-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at Colonel Richardson
@@ -35,27 +35,27 @@ DESCRIPTION:Final: Colonel Richardson 1\, Cambridge-South Dorchester 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-colonel-richardson-north-caroline-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
 SUMMARY:Girls Soccer: North Caroline at Colonel Richardson
 LOCATION:Colonel Richardson
-DESCRIPTION:Final: Colonel Richardson 3\, North Caroline 1\nWatch: https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gamfb70a77e78
-URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gamfb70a77e78
+DESCRIPTION:Final: Colonel Richardson 3\, North Caroline 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-richardson-high-school-federalsburg-md%2Fgamfb70a77e78
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-richardson-high-school-federalsburg-md%2Fgamfb70a77e78
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-colonel-richardson-north-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260924T173000
 DTEND;TZID=America/New_York:20260924T193000
 SUMMARY:Girls Soccer: North Dorchester at Colonel Richardson
 LOCATION:Colonel Richardson
-DESCRIPTION:Final: Colonel Richardson 11\, North Dorchester 0\nWatch: https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam13463503bd
-URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam13463503bd
+DESCRIPTION:Final: Colonel Richardson 11\, North Dorchester 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-richardson-high-school-federalsburg-md%2Fgam13463503bd
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-richardson-high-school-federalsburg-md%2Fgam13463503bd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-colonel-richardson-crisfield-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Crisfield at Colonel Richardson
@@ -64,57 +64,57 @@ DESCRIPTION:Final: Colonel Richardson 9\, Crisfield 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-colonel-richardson-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
 SUMMARY:Girls Soccer: Easton at Colonel Richardson
 LOCATION:Colonel Richardson
-DESCRIPTION:Final: Colonel Richardson 1\, Easton 3\nWatch: https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gamd2a83a1180
-URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gamd2a83a1180
+DESCRIPTION:Final: Colonel Richardson 1\, Easton 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-richardson-high-school-federalsburg-md%2Fgamd2a83a1180
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-richardson-high-school-federalsburg-md%2Fgamd2a83a1180
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-colonel-richardson-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T193000
 SUMMARY:Girls Soccer: Queen Anne's at Colonel Richardson
 LOCATION:Colonel Richardson
-DESCRIPTION:Final: Colonel Richardson 0\, Queen Anne's 8\nWatch: https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam60954f3b95
-URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/gam60954f3b95
+DESCRIPTION:Final: Colonel Richardson 0\, Queen Anne's 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fqueen-annes-high-school-centreville-md%2Fgam60954f3b95
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fqueen-annes-high-school-centreville-md%2Fgam60954f3b95
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-colonel-richardson-kent-island-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261009T173000
 DTEND;TZID=America/New_York:20261009T193000
 SUMMARY:Girls Soccer: Kent Island at Colonel Richardson
 LOCATION:Colonel Richardson
-DESCRIPTION:Final: Colonel Richardson 0\, Kent Island 8\nWatch: https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam69d7fe9b94
-URL:https://www.nfhsnetwork.com/events/kent-island-high-school-stevensville-md/gam69d7fe9b94
+DESCRIPTION:Final: Colonel Richardson 0\, Kent Island 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkent-island-high-school-stevensville-md%2Fgam69d7fe9b94
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkent-island-high-school-stevensville-md%2Fgam69d7fe9b94
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-colonel-richardson-mardela-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261013T173000
 DTEND;TZID=America/New_York:20261013T193000
 SUMMARY:Girls Soccer: Mardela at Colonel Richardson
 LOCATION:Colonel Richardson
-DESCRIPTION:Final: Colonel Richardson 2\, Mardela 1\nWatch: https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam598e72851d
-URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsburg-md/gam598e72851d
+DESCRIPTION:Final: Colonel Richardson 2\, Mardela 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-richardson-high-school-federalsburg-md%2Fgam598e72851d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-richardson-high-school-federalsburg-md%2Fgam598e72851d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-colonel-richardson-kent-county-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
 SUMMARY:Girls Soccer: Kent County at Colonel Richardson
 LOCATION:Colonel Richardson
-DESCRIPTION:Final: Colonel Richardson 2\, Kent County 0\nWatch: https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam2ce4ef8d4b
-URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gam2ce4ef8d4b
+DESCRIPTION:Final: Colonel Richardson 2\, Kent County 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkent-county-high-school-worton-md%2Fgam2ce4ef8d4b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkent-county-high-school-worton-md%2Fgam2ce4ef8d4b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-colonel-richardson-north-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: North Dorchester at Colonel Richardson

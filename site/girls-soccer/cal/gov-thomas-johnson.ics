@@ -6,7 +6,7 @@ X-WR-CALNAME:Gov. Thomas Johnson Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-westminster-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Westminster
@@ -15,57 +15,57 @@ DESCRIPTION:Final: Gov. Thomas Johnson 0\, Westminster 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-smithsburg-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Smithsburg
 LOCATION:Smithsburg
-DESCRIPTION:Final: Gov. Thomas Johnson 0\, Smithsburg 5\nWatch: https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam8613ca9583
-URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam8613ca9583
+DESCRIPTION:Final: Gov. Thomas Johnson 0\, Smithsburg 5\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam8613ca9583
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam8613ca9583
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-brunswick-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Brunswick
 LOCATION:Brunswick
-DESCRIPTION:Final: Gov. Thomas Johnson 0\, Brunswick 5\nWatch: https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam8678a9624f
-URL:https://www.nfhsnetwork.com/events/brunswick-high-school-brunswick-md/gam8678a9624f
+DESCRIPTION:Final: Gov. Thomas Johnson 0\, Brunswick 5\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam8678a9624f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam8678a9624f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-gov-thomas-johnson-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Girls Soccer: North Hagerstown at Gov. Thomas Johnson
 LOCATION:Gov. Thomas Johnson
-DESCRIPTION:Final: Gov. Thomas Johnson 0\, North Hagerstown 5\nWatch: https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gamcaea812aab
-URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gamcaea812aab
+DESCRIPTION:Final: Gov. Thomas Johnson 0\, North Hagerstown 5\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgamcaea812aab
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgamcaea812aab
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-linganore-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Linganore
 LOCATION:Linganore
-DESCRIPTION:Final: Gov. Thomas Johnson 0\, Linganore 8\nWatch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam39aa286043
-URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam39aa286043
+DESCRIPTION:Final: Gov. Thomas Johnson 0\, Linganore 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flinganore-high-school-frederick-md%2Fgam39aa286043
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flinganore-high-school-frederick-md%2Fgam39aa286043
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-gov-thomas-johnson-urbana-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: Urbana at Gov. Thomas Johnson
 LOCATION:Gov. Thomas Johnson
-DESCRIPTION:Final: Gov. Thomas Johnson 0\, Urbana 3\nWatch: https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam58e020adc2
-URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam58e020adc2
+DESCRIPTION:Final: Gov. Thomas Johnson 0\, Urbana 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam58e020adc2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam58e020adc2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-south-hagerstown-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at South Hagerstown
@@ -74,52 +74,52 @@ DESCRIPTION:Final: Gov. Thomas Johnson 8\, South Hagerstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-oakdale-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Oakdale
 LOCATION:Oakdale
-DESCRIPTION:Final: Gov. Thomas Johnson 0\, Oakdale 8\nWatch: https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gamc83200e2d0
-URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gamc83200e2d0
+DESCRIPTION:Final: Gov. Thomas Johnson 0\, Oakdale 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgamc83200e2d0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgamc83200e2d0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-tuscarora-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Tuscarora
 LOCATION:Tuscarora
-DESCRIPTION:Final: Gov. Thomas Johnson 0\, Tuscarora 6\nWatch: https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam7635bf4155
-URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam7635bf4155
+DESCRIPTION:Final: Gov. Thomas Johnson 0\, Tuscarora 6\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam7635bf4155
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam7635bf4155
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-frederick-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Frederick
 LOCATION:Frederick
-DESCRIPTION:Final: Gov. Thomas Johnson 0\, Frederick 1\nWatch: https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam4d3a682ccb
-URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gam4d3a682ccb
+DESCRIPTION:Final: Gov. Thomas Johnson 0\, Frederick 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam4d3a682ccb
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam4d3a682ccb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-catoctin-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Catoctin
 LOCATION:Catoctin
-DESCRIPTION:Final: Gov. Thomas Johnson 1\, Catoctin 2\nWatch: https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gama5e89f4303
-URL:https://www.nfhsnetwork.com/events/catoctin-high-school-thurmont-md/gama5e89f4303
+DESCRIPTION:Final: Gov. Thomas Johnson 1\, Catoctin 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgama5e89f4303
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgama5e89f4303
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-middletown-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261018T141128Z
+DTSTAMP:20261018T143321Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Middletown
 LOCATION:Middletown
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gamf37747da16\nTickets: https://gofan.co/event/6871634
-URL:https://www.nfhsnetwork.com/events/middletown-high-school-middletown-md/gamf37747da16
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmiddletown-high-school-middletown-md%2Fgamf37747da16\nTickets: https://gofan.co/event/6871634
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmiddletown-high-school-middletown-md%2Fgamf37747da16
 END:VEVENT
 END:VCALENDAR

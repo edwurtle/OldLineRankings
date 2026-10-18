@@ -6,7 +6,7 @@ X-WR-CALNAME:Dr. Henry A. Wise Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-dr-henry-a-wise-bishop-mcnamara-private-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Bishop McNamara (Private) at Dr. Henry A. Wise
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Dr. Henry A. Wise 2\, Bishop McNamara (Private) 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-dr-henry-a-wise-parkdale-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Parkdale at Dr. Henry A. Wise
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Dr. Henry A. Wise 0\, Parkdale 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-dr-henry-a-wise-duval-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Duval at Dr. Henry A. Wise
@@ -33,77 +33,77 @@ DESCRIPTION:Final: Dr. Henry A. Wise 2\, Duval 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-laurel-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260917T153000
 DTEND;TZID=America/New_York:20260917T173000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Laurel
 LOCATION:Laurel
-DESCRIPTION:Final: Dr. Henry A. Wise -\, Laurel -\nWatch: https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam3c3520ca2b
-URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam3c3520ca2b
+DESCRIPTION:Final: Dr. Henry A. Wise -\, Laurel -\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam3c3520ca2b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam3c3520ca2b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-eleanor-roosevelt-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260924T150000
 DTEND;TZID=America/New_York:20260924T170000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Eleanor Roosevelt
 LOCATION:Eleanor Roosevelt
-DESCRIPTION:Final: Dr. Henry A. Wise 0\, Eleanor Roosevelt 3\nWatch: https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gamc4a0dbf455
-URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gamc4a0dbf455
+DESCRIPTION:Final: Dr. Henry A. Wise 0\, Eleanor Roosevelt 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgamc4a0dbf455
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgamc4a0dbf455
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-bladensburg-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Bladensburg
 LOCATION:Bladensburg
-DESCRIPTION:Final: Dr. Henry A. Wise 0\, Bladensburg 4\nWatch: https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam4f66e356bb
-URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam4f66e356bb
+DESCRIPTION:Final: Dr. Henry A. Wise 0\, Bladensburg 4\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam4f66e356bb
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam4f66e356bb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-high-point-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at High Point
 LOCATION:High Point
-DESCRIPTION:Final: Dr. Henry A. Wise -\, High Point -\nWatch: https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gam5a79ae8bb2
-URL:https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gam5a79ae8bb2
+DESCRIPTION:Final: Dr. Henry A. Wise -\, High Point -\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhigh-point-high-school-beltsville-md%2Fgam5a79ae8bb2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhigh-point-high-school-beltsville-md%2Fgam5a79ae8bb2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-charles-h-flowers-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T173000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Charles H. Flowers
 LOCATION:Charles H. Flowers
-DESCRIPTION:Final: Dr. Henry A. Wise 2\, Charles H. Flowers 0\nWatch: https://www.nfhsnetwork.com/events/charles-herbert-flowers-high-school-springdale-md/gamd668dbd847
-URL:https://www.nfhsnetwork.com/events/charles-herbert-flowers-high-school-springdale-md/gamd668dbd847
+DESCRIPTION:Final: Dr. Henry A. Wise 2\, Charles H. Flowers 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcharles-herbert-flowers-high-school-springdale-md%2Fgamd668dbd847
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcharles-herbert-flowers-high-school-springdale-md%2Fgamd668dbd847
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-dr-henry-a-wise-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261008T150000
 DTEND;TZID=America/New_York:20261008T170000
 SUMMARY:Boys Soccer: Bowie at Dr. Henry A. Wise
 LOCATION:Dr. Henry A. Wise
-DESCRIPTION:Final: Dr. Henry A. Wise 0\, Bowie 5\nWatch: https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam483da5af34
-URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam483da5af34
+DESCRIPTION:Final: Dr. Henry A. Wise 0\, Bowie 5\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam483da5af34
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam483da5af34
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-northwestern-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261012T190000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Northwestern
 LOCATION:Northwestern
-DESCRIPTION:Final: Dr. Henry A. Wise 2\, Northwestern 1\nWatch: https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam5cd22707c3
-URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlboro-md/gam5cd22707c3
+DESCRIPTION:Final: Dr. Henry A. Wise 2\, Northwestern 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam5cd22707c3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam5cd22707c3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-dr-henry-a-wise-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261019T190000
 DTEND;TZID=America/New_York:20261019T210000
 SUMMARY:Boys Soccer: Suitland at Dr. Henry A. Wise

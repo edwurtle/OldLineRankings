@@ -6,7 +6,7 @@ X-WR-CALNAME:Oakdale Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-oakdale-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Boys Soccer: Severna Park at Oakdale
@@ -15,67 +15,67 @@ DESCRIPTION:Final: Oakdale 0\, Severna Park 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-oakdale-chesapeake-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260905T190000
 DTEND;TZID=America/New_York:20260905T210000
 SUMMARY:Boys Soccer: Chesapeake-AA at Oakdale
 LOCATION:Oakdale
-DESCRIPTION:Final: Oakdale 0\, Chesapeake-AA 1\nWatch: https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam7bd566bf07
-URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam7bd566bf07
+DESCRIPTION:Final: Oakdale 0\, Chesapeake-AA 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam7bd566bf07
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam7bd566bf07
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-middletown-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Boys Soccer: Oakdale at Middletown
 LOCATION:Middletown
-DESCRIPTION:Final: Oakdale 4\, Middletown 2\nWatch: https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam843115e43e
-URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam843115e43e
+DESCRIPTION:Final: Oakdale 4\, Middletown 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam843115e43e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam843115e43e
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-oakdale-urbana-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260918T190000
 DTEND;TZID=America/New_York:20260918T210000
 SUMMARY:Boys Soccer: Urbana at Oakdale
 LOCATION:Oakdale
-DESCRIPTION:Final: Oakdale 0\, Urbana 2\nWatch: https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam1ae7fcb1a4
-URL:https://www.nfhsnetwork.com/events/urbana-high-school-ijamsville-md/gam1ae7fcb1a4
+DESCRIPTION:Final: Oakdale 0\, Urbana 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgam1ae7fcb1a4
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgam1ae7fcb1a4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-oakdale-north-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Boys Soccer: North Hagerstown at Oakdale
 LOCATION:Oakdale
-DESCRIPTION:Final: Oakdale 3\, North Hagerstown 2\nWatch: https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gamfad1c2bd71
-URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gamfad1c2bd71
+DESCRIPTION:Final: Oakdale 3\, North Hagerstown 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgamfad1c2bd71
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgamfad1c2bd71
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-oakdale-south-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: South Hagerstown at Oakdale
 LOCATION:Oakdale
-DESCRIPTION:Final: Oakdale 3\, South Hagerstown 1\nWatch: https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam9511b20c4b
-URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam9511b20c4b
+DESCRIPTION:Final: Oakdale 3\, South Hagerstown 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam9511b20c4b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam9511b20c4b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-linganore-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Boys Soccer: Oakdale at Linganore
 LOCATION:Linganore
-DESCRIPTION:Final: Oakdale 4\, Linganore 3\nWatch: https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam0db43fba0b
-URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam0db43fba0b
+DESCRIPTION:Final: Oakdale 4\, Linganore 3\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flinganore-high-school-frederick-md%2Fgam0db43fba0b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flinganore-high-school-frederick-md%2Fgam0db43fba0b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-oakdale-wv-jefferson-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: WV - Jefferson at Oakdale
@@ -84,57 +84,57 @@ DESCRIPTION:Final: Oakdale 4\, WV - Jefferson 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-oakdale-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Oakdale
 LOCATION:Oakdale
-DESCRIPTION:Final: Oakdale 1\, Gov. Thomas Johnson 1\nWatch: https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gamf2865ed5da
-URL:https://www.nfhsnetwork.com/events/thomas-johnson-high-school-frederick-md/gamf2865ed5da
+DESCRIPTION:Final: Oakdale 1\, Gov. Thomas Johnson 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgamf2865ed5da
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgamf2865ed5da
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-oakdale-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Frederick at Oakdale
 LOCATION:Oakdale
-DESCRIPTION:Final: Oakdale 2\, Frederick 1\nWatch: https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam9cb5138da3
-URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam9cb5138da3
+DESCRIPTION:Final: Oakdale 2\, Frederick 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam9cb5138da3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam9cb5138da3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-oakdale-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Boys Soccer: Tuscarora at Oakdale
 LOCATION:Oakdale
-DESCRIPTION:Final: Oakdale 1\, Tuscarora 4\nWatch: https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam3157fef2bd
-URL:https://www.nfhsnetwork.com/events/tuscarora-high-school-frederick-md/gam3157fef2bd
+DESCRIPTION:Final: Oakdale 1\, Tuscarora 4\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ftuscarora-high-school-frederick-md%2Fgam3157fef2bd
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ftuscarora-high-school-frederick-md%2Fgam3157fef2bd
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-manchester-valley-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Oakdale at Manchester Valley
 LOCATION:Manchester Valley
-DESCRIPTION:Final: Oakdale 3\, Manchester Valley 1\nWatch: https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam35764114ea
-URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam35764114ea
+DESCRIPTION:Final: Oakdale 3\, Manchester Valley 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam35764114ea
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam35764114ea
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-century-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Boys Soccer: Oakdale at Century
 LOCATION:Century
-DESCRIPTION:Watch: https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam3fd130106b\nTickets: https://gofan.co/event/6769868
-URL:https://www.nfhsnetwork.com/events/oakdale-high-school-ijamsville-md/gam3fd130106b
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam3fd130106b\nTickets: https://gofan.co/event/6769868
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam3fd130106b
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-south-carroll-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261018T141104Z
+DTSTAMP:20261018T143300Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Boys Soccer: Oakdale at South Carroll
