@@ -6,7 +6,7 @@ X-WR-CALNAME:Westminster Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-westminster-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Westminster
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Westminster 5\, Gov. Thomas Johnson 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-westminster-urbana-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Urbana at Westminster
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Westminster 3\, Urbana 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-century-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Westminster at Century
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Westminster 2\, Century 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-patterson-mill-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;TZID=America/New_York:20260919T125000
 DTEND;TZID=America/New_York:20260919T145000
 SUMMARY:Girls Soccer: Westminster at Patterson Mill
@@ -43,7 +43,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam67a9233
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-westminster-chesapeake-aa-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;TZID=America/New_York:20260919T125000
 DTEND;TZID=America/New_York:20260919T145000
 SUMMARY:Girls Soccer: Chesapeake-AA at Westminster
@@ -53,7 +53,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam67a9233
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-liberty-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Westminster at Liberty
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Westminster 0\, Liberty 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-south-carroll-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Westminster at South Carroll
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Westminster 0\, South Carroll 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-westminster-linganore-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Girls Soccer: Linganore at Westminster
@@ -81,7 +81,7 @@ URL:https://www.nfhsnetwork.com/events/linganore-high-school-frederick-md/gam145
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-manchester-valley-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Westminster at Manchester Valley
@@ -90,7 +90,7 @@ DESCRIPTION:Final: Westminster 0\, Manchester Valley 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-francis-scott-key-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Westminster at Francis Scott Key
@@ -99,7 +99,7 @@ DESCRIPTION:Final: Westminster 3\, Francis Scott Key 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-winters-mill-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Westminster at Winters Mill
@@ -108,7 +108,7 @@ DESCRIPTION:Final: Westminster 3\, Winters Mill 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-westminster-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Tuscarora at Westminster
@@ -117,7 +117,7 @@ DESCRIPTION:Final: Westminster 3\, Tuscarora 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-westminster-dulaney-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: Dulaney at Westminster

@@ -6,7 +6,7 @@ X-WR-CALNAME:Dr. Henry A. Wise Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-crossland-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Crossland
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Dr. Henry A. Wise 8\, Crossland 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-dr-henry-a-wise-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;TZID=America/New_York:20260910T150000
 DTEND;TZID=America/New_York:20260910T170000
 SUMMARY:Girls Soccer: Parkdale at Dr. Henry A. Wise
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-dr-henry-a-wise-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;TZID=America/New_York:20260914T180000
 DTEND;TZID=America/New_York:20260914T200000
 SUMMARY:Girls Soccer: Duval at Dr. Henry A. Wise
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-laurel-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;TZID=America/New_York:20260917T150000
 DTEND;TZID=America/New_York:20260917T170000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Laurel
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-eleanor-roosevelt-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Eleanor Roosevelt
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/eleanor-roosevelt-high-school-greenbelt-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-bladensburg-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;TZID=America/New_York:20260928T163000
 DTEND;TZID=America/New_York:20260928T183000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Bladensburg
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/bladensburg-high-school-bladensburg-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-high-point-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;TZID=America/New_York:20261001T150000
 DTEND;TZID=America/New_York:20261001T170000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at High Point
@@ -75,7 +75,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-charles-h-flowers-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;TZID=America/New_York:20261005T191000
 DTEND;TZID=America/New_York:20261005T211000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Charles H. Flowers
@@ -85,7 +85,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-dr-henry-a-wise-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;TZID=America/New_York:20261008T183000
 DTEND;TZID=America/New_York:20261008T203000
 SUMMARY:Girls Soccer: Bowie at Dr. Henry A. Wise
@@ -95,7 +95,7 @@ URL:https://www.nfhsnetwork.com/events/bowie-high-school-bowie-md/gam14e6f3e49d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-northwestern-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;TZID=America/New_York:20261012T153000
 DTEND;TZID=America/New_York:20261012T173000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Northwestern
@@ -105,7 +105,7 @@ URL:https://www.nfhsnetwork.com/events/northwestern-high-school-hyattsville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-dr-henry-a-wise-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261017T135901Z
+DTSTAMP:20261018T081904Z
 DTSTART;TZID=America/New_York:20261019T153000
 DTEND;TZID=America/New_York:20261019T173000
 SUMMARY:Girls Soccer: Suitland at Dr. Henry A. Wise

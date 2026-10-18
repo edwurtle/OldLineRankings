@@ -6,7 +6,7 @@ X-WR-CALNAME:Colonel Richardson Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-colonel-richardson-cambridge-south-dorchester-boys-soccer@oldlinerankings
-DTSTAMP:20261017T135838Z
+DTSTAMP:20261018T081840Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Boys Soccer: Cambridge-South Dorchester at Colonel Richardson
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Colonel Richardson 12\, Cambridge-South Dorchester 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-colonel-richardson-pocomoke-boys-soccer@oldlinerankings
-DTSTAMP:20261017T135838Z
+DTSTAMP:20261018T081840Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Boys Soccer: Pocomoke at Colonel Richardson
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Colonel Richardson 2\, Pocomoke 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-colonel-richardson-north-dorchester-boys-soccer@oldlinerankings
-DTSTAMP:20261017T135838Z
+DTSTAMP:20261018T081840Z
 DTSTART;TZID=America/New_York:20260914T173000
 DTEND;TZID=America/New_York:20260914T193000
 SUMMARY:Boys Soccer: North Dorchester at Colonel Richardson
@@ -34,7 +34,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-colonel-richardson-washington-boys-soccer@oldlinerankings
-DTSTAMP:20261017T135838Z
+DTSTAMP:20261018T081840Z
 DTSTART;TZID=America/New_York:20260916T173000
 DTEND;TZID=America/New_York:20260916T193000
 SUMMARY:Boys Soccer: Washington at Colonel Richardson
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-colonel-richardson-st-michael-s-boys-soccer@oldlinerankings
-DTSTAMP:20261017T135838Z
+DTSTAMP:20261018T081840Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Boys Soccer: St. Michael's at Colonel Richardson
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Colonel Richardson 4\, St. Michael's 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-colonel-richardson-kent-island-boys-soccer@oldlinerankings
-DTSTAMP:20261017T135838Z
+DTSTAMP:20261018T081840Z
 DTSTART;TZID=America/New_York:20260923T173000
 DTEND;TZID=America/New_York:20260923T193000
 SUMMARY:Boys Soccer: Kent Island at Colonel Richardson
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-colonel-richardson-crisfield-boys-soccer@oldlinerankings
-DTSTAMP:20261017T135838Z
+DTSTAMP:20261018T081840Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Crisfield at Colonel Richardson
@@ -72,7 +72,7 @@ DESCRIPTION:Final: Colonel Richardson 3\, Crisfield 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-colonel-richardson-kent-county-boys-soccer@oldlinerankings
-DTSTAMP:20261017T135838Z
+DTSTAMP:20261018T081840Z
 DTSTART;TZID=America/New_York:20261005T173000
 DTEND;TZID=America/New_York:20261005T193000
 SUMMARY:Boys Soccer: Kent County at Colonel Richardson
@@ -82,7 +82,7 @@ URL:https://www.nfhsnetwork.com/events/kent-county-high-school-worton-md/gamfdeb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-colonel-richardson-mardela-boys-soccer@oldlinerankings
-DTSTAMP:20261017T135838Z
+DTSTAMP:20261018T081840Z
 DTSTART;TZID=America/New_York:20261007T173000
 DTEND;TZID=America/New_York:20261007T193000
 SUMMARY:Boys Soccer: Mardela at Colonel Richardson
@@ -92,7 +92,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-colonel-richardson-queen-anne-s-boys-soccer@oldlinerankings
-DTSTAMP:20261017T135838Z
+DTSTAMP:20261018T081840Z
 DTSTART;TZID=America/New_York:20261009T173000
 DTEND;TZID=America/New_York:20261009T193000
 SUMMARY:Boys Soccer: Queen Anne's at Colonel Richardson
@@ -102,7 +102,7 @@ URL:https://www.nfhsnetwork.com/events/queen-annes-high-school-centreville-md/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-colonel-richardson-north-caroline-boys-soccer@oldlinerankings
-DTSTAMP:20261017T135838Z
+DTSTAMP:20261018T081840Z
 DTSTART;TZID=America/New_York:20261014T173000
 DTEND;TZID=America/New_York:20261014T193000
 SUMMARY:Boys Soccer: North Caroline at Colonel Richardson
@@ -112,7 +112,7 @@ URL:https://www.nfhsnetwork.com/events/colonel-richardson-high-school-federalsbu
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-colonel-richardson-easton-boys-soccer@oldlinerankings
-DTSTAMP:20261017T135838Z
+DTSTAMP:20261018T081840Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Boys Soccer: Easton at Colonel Richardson
