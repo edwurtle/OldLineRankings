@@ -6,7 +6,7 @@ X-WR-CALNAME:Dr. Henry A. Wise Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-dr-henry-a-wise-bishop-mcnamara-private-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Bishop McNamara (Private) at Dr. Henry A. Wise
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Dr. Henry A. Wise 2\, Bishop McNamara (Private) 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-dr-henry-a-wise-parkdale-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Parkdale at Dr. Henry A. Wise
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Dr. Henry A. Wise 0\, Parkdale 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-dr-henry-a-wise-duval-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Duval at Dr. Henry A. Wise
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Dr. Henry A. Wise 2\, Duval 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-laurel-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20260917T153000
 DTEND;TZID=America/New_York:20260917T173000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Laurel
@@ -43,7 +43,7 @@ URL:https://www.nfhsnetwork.com/events/laurel-high-school-laurel-md/gam3c3520ca2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-eleanor-roosevelt-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20260924T150000
 DTEND;TZID=America/New_York:20260924T170000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Eleanor Roosevelt
@@ -53,7 +53,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-bladensburg-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Bladensburg
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-high-point-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at High Point
@@ -73,7 +73,7 @@ URL:https://www.nfhsnetwork.com/events/high-point-high-school-beltsville-md/gam5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-charles-h-flowers-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T173000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Charles H. Flowers
@@ -83,7 +83,7 @@ URL:https://www.nfhsnetwork.com/events/charles-herbert-flowers-high-school-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-dr-henry-a-wise-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20261008T150000
 DTEND;TZID=America/New_York:20261008T170000
 SUMMARY:Boys Soccer: Bowie at Dr. Henry A. Wise
@@ -93,7 +93,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-northwestern-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20261012T190000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Northwestern
@@ -103,7 +103,7 @@ URL:https://www.nfhsnetwork.com/events/dr-henry-a-wise-high-school-upper-marlbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-dr-henry-a-wise-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20261019T190000
 DTEND;TZID=America/New_York:20261019T210000
 SUMMARY:Boys Soccer: Suitland at Dr. Henry A. Wise

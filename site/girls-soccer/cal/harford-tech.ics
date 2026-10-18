@@ -6,7 +6,7 @@ X-WR-CALNAME:Harford Tech Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-harford-tech-north-east-c-girls-soccer@oldlinerankings
-DTSTAMP:20261018T081904Z
+DTSTAMP:20261018T141128Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Girls Soccer: North East-C at Harford Tech
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Harford Tech 7\, North East-C 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-harford-tech-c-milton-wright-girls-soccer@oldlinerankings
-DTSTAMP:20261018T081904Z
+DTSTAMP:20261018T141128Z
 DTSTART;TZID=America/New_York:20260914T190000
 DTEND;TZID=America/New_York:20260914T210000
 SUMMARY:Girls Soccer: C. Milton Wright at Harford Tech
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-harford-tech-fallston-girls-soccer@oldlinerankings
-DTSTAMP:20261018T081904Z
+DTSTAMP:20261018T141128Z
 DTSTART;TZID=America/New_York:20260917T170000
 DTEND;TZID=America/New_York:20260917T190000
 SUMMARY:Girls Soccer: Fallston at Harford Tech
@@ -35,7 +35,7 @@ URL:https://www.nfhsnetwork.com/events/fallston-high-school-fallston-md/gameb7ea
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-harford-tech-liberty-girls-soccer@oldlinerankings
-DTSTAMP:20261018T081904Z
+DTSTAMP:20261018T141128Z
 DTSTART;TZID=America/New_York:20260919T125000
 DTEND;TZID=America/New_York:20260919T145000
 SUMMARY:Girls Soccer: Liberty at Harford Tech
@@ -45,7 +45,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam67a9233
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-harford-tech-mount-hebron-girls-soccer@oldlinerankings
-DTSTAMP:20261018T081904Z
+DTSTAMP:20261018T141128Z
 DTSTART;TZID=America/New_York:20260919T125000
 DTEND;TZID=America/New_York:20260919T145000
 SUMMARY:Girls Soccer: Mount Hebron at Harford Tech
@@ -55,7 +55,7 @@ URL:https://www.nfhsnetwork.com/events/bel-air-high-school-bel-air-md/gam67a9233
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-harford-tech-havre-de-grace-girls-soccer@oldlinerankings
-DTSTAMP:20261018T081904Z
+DTSTAMP:20261018T141128Z
 DTSTART;TZID=America/New_York:20260924T180000
 DTEND;TZID=America/New_York:20260924T200000
 SUMMARY:Girls Soccer: Havre de Grace at Harford Tech
@@ -65,7 +65,7 @@ URL:https://www.nfhsnetwork.com/events/havre-de-grace-high-school-havre-de-grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-harford-tech-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261018T081904Z
+DTSTAMP:20261018T141128Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: North Harford at Harford Tech
@@ -74,7 +74,7 @@ DESCRIPTION:Final: Harford Tech 6\, North Harford 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-harford-tech-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261018T081904Z
+DTSTAMP:20261018T141128Z
 DTSTART;TZID=America/New_York:20261005T165500
 DTEND;TZID=America/New_York:20261005T185500
 SUMMARY:Girls Soccer: Aberdeen at Harford Tech
@@ -84,7 +84,7 @@ URL:https://www.nfhsnetwork.com/events/aberdeen-high-school-aberdeen-md/gam370c8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-harford-tech-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261018T081904Z
+DTSTAMP:20261018T141128Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: Rising Sun at Harford Tech
@@ -94,7 +94,7 @@ URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-harford-tech-bel-air-girls-soccer@oldlinerankings
-DTSTAMP:20261018T081904Z
+DTSTAMP:20261018T141128Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Bel Air at Harford Tech
@@ -103,7 +103,7 @@ DESCRIPTION:Final: Harford Tech 5\, Bel Air 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-harford-tech-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261018T081904Z
+DTSTAMP:20261018T141128Z
 DTSTART;TZID=America/New_York:20261012T153000
 DTEND;TZID=America/New_York:20261012T173000
 SUMMARY:Girls Soccer: Edgewood at Harford Tech
@@ -113,7 +113,7 @@ URL:https://www.nfhsnetwork.com/events/edgewood-high-school-edgewood-md/gamf8bbc
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-harford-tech-bohemia-manor-girls-soccer@oldlinerankings
-DTSTAMP:20261018T081904Z
+DTSTAMP:20261018T141128Z
 DTSTART;TZID=America/New_York:20261013T180000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Girls Soccer: Bohemia Manor at Harford Tech
@@ -123,7 +123,7 @@ URL:https://www.nfhsnetwork.com/events/harford-technical-high-school-bel-air-md/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-harford-tech-perry-hall-girls-soccer@oldlinerankings
-DTSTAMP:20261018T081904Z
+DTSTAMP:20261018T141128Z
 DTSTART;TZID=America/New_York:20261021T173000
 DTEND;TZID=America/New_York:20261021T193000
 SUMMARY:Girls Soccer: Perry Hall at Harford Tech

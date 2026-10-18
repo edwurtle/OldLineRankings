@@ -6,7 +6,7 @@ X-WR-CALNAME:Winston Churchill Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-urbana-winston-churchill-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Winston Churchill at Urbana
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Winston Churchill 1\, Urbana 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-winston-churchill-richard-montgomery-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20260910T191500
 DTEND;TZID=America/New_York:20260910T211500
 SUMMARY:Boys Soccer: Richard Montgomery at Winston Churchill
@@ -25,7 +25,7 @@ URL:https://www.nfhsnetwork.com/events/richard-montgomery-high-school-rockville-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-quince-orchard-winston-churchill-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Winston Churchill at Quince Orchard
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Winston Churchill 4\, Quince Orchard 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-bethesda-cc-winston-churchill-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20260916T191500
 DTEND;TZID=America/New_York:20260916T211500
 SUMMARY:Boys Soccer: Winston Churchill at Bethesda-CC
@@ -44,7 +44,7 @@ URL:https://www.nfhsnetwork.com/events/bethesda-chevy-chase-high-school-bethesda
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-walt-whitman-winston-churchill-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Boys Soccer: Winston Churchill at Walt Whitman
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Winston Churchill 1\, Walt Whitman 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-thomas-s-wootton-winston-churchill-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20260925T191500
 DTEND;TZID=America/New_York:20260925T211500
 SUMMARY:Boys Soccer: Winston Churchill at Thomas S. Wootton
@@ -63,7 +63,7 @@ URL:https://www.nfhsnetwork.com/events/thomas-wootton-high-school-rockville-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-walter-johnson-winston-churchill-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Winston Churchill at Walter Johnson
@@ -72,7 +72,7 @@ DESCRIPTION:Final: Winston Churchill 3\, Walter Johnson 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-damascus-winston-churchill-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20261005T180000
 DTEND;TZID=America/New_York:20261005T200000
 SUMMARY:Boys Soccer: Winston Churchill at Damascus
@@ -82,7 +82,7 @@ URL:https://www.nfhsnetwork.com/events/damascus-high-school-damascus-md/gamb6d68
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-winston-churchill-paint-branch-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Boys Soccer: Paint Branch at Winston Churchill
@@ -91,7 +91,7 @@ DESCRIPTION:Final: Winston Churchill 2\, Paint Branch 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-poolesville-winston-churchill-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Winston Churchill at Poolesville
@@ -100,7 +100,7 @@ DESCRIPTION:Final: Winston Churchill 5\, Poolesville 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-seneca-valley-winston-churchill-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20261019T180000
 DTEND;TZID=America/New_York:20261019T200000
 SUMMARY:Boys Soccer: Winston Churchill at Seneca Valley
@@ -110,7 +110,7 @@ URL:https://www.nfhsnetwork.com/events/seneca-valley-high-school-germantown-md/g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-winston-churchill-montgomery-blair-boys-soccer@oldlinerankings
-DTSTAMP:20261018T081840Z
+DTSTAMP:20261018T141104Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:Boys Soccer: Montgomery Blair at Winston Churchill
