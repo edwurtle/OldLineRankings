@@ -6,7 +6,7 @@ X-WR-CALNAME:Randallstown Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-16-hereford-randallstown-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151248Z
+DTSTAMP:20261018T151616Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Girls Basketball: Randallstown at Hereford
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-owings-mills-randallstown-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151248Z
+DTSTAMP:20261018T151616Z
 DTSTART;TZID=America/New_York:20261218T170000
 DTEND;TZID=America/New_York:20261218T190000
 SUMMARY:Girls Basketball: Randallstown at Owings Mills
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-catonsville-randallstown-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151248Z
+DTSTAMP:20261018T151616Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Girls Basketball: Randallstown at Catonsville
@@ -34,7 +34,7 @@ LOCATION:Catonsville
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-new-town-randallstown-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151248Z
+DTSTAMP:20261018T151616Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Girls Basketball: Randallstown at New Town
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-pikesville-randallstown-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151248Z
+DTSTAMP:20261018T151616Z
 DTSTART;TZID=America/New_York:20270129T173000
 DTEND;TZID=America/New_York:20270129T193000
 SUMMARY:Girls Basketball: Randallstown at Pikesville
@@ -52,7 +52,7 @@ LOCATION:Pikesville
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-western-tech-randallstown-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151248Z
+DTSTAMP:20261018T151616Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Girls Basketball: Randallstown at Western Tech

@@ -6,7 +6,7 @@ X-WR-CALNAME:Boonsboro Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-boonsboro-middletown-football@oldlinerankings
-DTSTAMP:20261018T151000Z
+DTSTAMP:20261018T151357Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Middletown at Boonsboro
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Boonsboro 7\, Middletown 18
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-mountain-ridge-boonsboro-football@oldlinerankings
-DTSTAMP:20261018T151000Z
+DTSTAMP:20261018T151357Z
 DTSTART;TZID=America/New_York:20260911T183000
 DTEND;TZID=America/New_York:20260911T203000
 SUMMARY:Football: Boonsboro at Mountain Ridge
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-brunswick-boonsboro-football@oldlinerankings
-DTSTAMP:20261018T151000Z
+DTSTAMP:20261018T151357Z
 DTSTART;TZID=America/New_York:20260918T183000
 DTEND;TZID=America/New_York:20260918T203000
 SUMMARY:Football: Boonsboro at Brunswick
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-catoctin-boonsboro-football@oldlinerankings
-DTSTAMP:20261018T151000Z
+DTSTAMP:20261018T151357Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Boonsboro at Catoctin
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Boonsboro 55\, Catoctin 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-boonsboro-williamsport-football@oldlinerankings
-DTSTAMP:20261018T151000Z
+DTSTAMP:20261018T151357Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Williamsport at Boonsboro
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Boonsboro 7\, Williamsport 27
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-boonsboro-wv-musselman-football@oldlinerankings
-DTSTAMP:20261018T151000Z
+DTSTAMP:20261018T151357Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: WV- Musselman at Boonsboro
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Boonsboro 21\, WV- Musselman 24
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-clear-spring-boonsboro-football@oldlinerankings
-DTSTAMP:20261018T151000Z
+DTSTAMP:20261018T151357Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Football: Boonsboro at Clear Spring
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Boonsboro 75\, Clear Spring 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-boonsboro-north-hagerstown-football@oldlinerankings
-DTSTAMP:20261018T151000Z
+DTSTAMP:20261018T151357Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: North Hagerstown at Boonsboro
@@ -80,7 +80,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6956184
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-smithsburg-boonsboro-football@oldlinerankings
-DTSTAMP:20261018T151000Z
+DTSTAMP:20261018T151357Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Boonsboro at Smithsburg

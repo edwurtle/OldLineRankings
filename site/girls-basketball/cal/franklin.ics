@@ -6,7 +6,7 @@ X-WR-CALNAME:Franklin Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-18-pikesville-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151248Z
+DTSTAMP:20261018T151616Z
 DTSTART;TZID=America/New_York:20261218T173000
 DTEND;TZID=America/New_York:20261218T193000
 SUMMARY:Girls Basketball: Franklin at Pikesville
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-new-town-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151248Z
+DTSTAMP:20261018T151616Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Girls Basketball: Franklin at New Town
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-hereford-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151248Z
+DTSTAMP:20261018T151616Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Girls Basketball: Franklin at Hereford
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-owings-mills-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151248Z
+DTSTAMP:20261018T151616Z
 DTSTART;TZID=America/New_York:20270122T173000
 DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Girls Basketball: Franklin at Owings Mills
@@ -44,7 +44,7 @@ LOCATION:Owings Mills
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-catonsville-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151248Z
+DTSTAMP:20261018T151616Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Girls Basketball: Franklin at Catonsville
