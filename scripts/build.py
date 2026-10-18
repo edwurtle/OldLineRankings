@@ -679,17 +679,19 @@ def write_splash(built, stamp):
     (ROOT / "site" / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /soccer/\n\nSitemap: {SITE_URL}/sitemap.xml\n")
 
 
-def main():
-    # MPSSAA's scores page carries the key for its score data; it occasionally comes back without it, so retry
+def get_nonce():
+    """MPSSAA's scores page carries the key for its score data; it occasionally comes back without it, so retry."""
     for attempt in range(5):
         m = re.search(r'"nonce":"([a-z0-9]+)"', curl("https://www.mpssaa.org/live-scores/"))
         if m:
-            break
+            return m.group(1)
         print("MPSSAA scores page had no nonce; retrying in 60s")
         time.sleep(60)
-    else:
-        raise SystemExit("MPSSAA scores page never returned a nonce")
-    nonce = m.group(1)
+    raise SystemExit("MPSSAA scores page never returned a nonce")
+
+
+def main():
+    nonce = get_nonce()
     stamp = now_et().strftime("%Y%m%d%H%M%S")
     built = [build_site(key, cfg, nonce, stamp) for key, cfg in SITES.items()]
     write_splash(built, stamp)

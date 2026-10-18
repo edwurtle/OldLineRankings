@@ -9,6 +9,13 @@ import collections, datetime, json, re, subprocess, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 
 API = "https://search-api.nfhsnetwork.com/search/"
+# NFHS Network affiliate program (Impact, media property oldlinerankings.com): watch links go through this
+# tracking link, which forwards to the event page given in ?u=
+AFFILIATE = "https://nfhs-network.pxf.io/c/7957348/699473/10661"
+
+
+def affiliate(url):
+    return f"{AFFILIATE}?u={urllib.parse.quote(url, safe='')}"
 
 
 def get(path):
@@ -96,7 +103,7 @@ def add_watch_links(sports, divisions, sport, alt_names, cities):
                     entries = idx[(k, gender, d)] + idx[(k, "Coed", d)] + idx[(k, None, d)]
                     hit = next(((url, time) for others, url, time in entries if not opp or opp in others), None)
                     if hit:
-                        g["watch"] = hit[0]
+                        g["watch"] = affiliate(hit[0])
                         if hit[1] and "time" not in g:  # MPSSAA has no start times; NFHS does
                             g["time"] = hit[1]
                         linked += 1
