@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Wilde Lake Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-04-wilde-lake-marriotts-ridge-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T180000
+DTEND;TZID=America/New_York:20261204T200000
+SUMMARY:Girls Basketball: Marriotts Ridge at Wilde Lake
+LOCATION:Wilde Lake
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwilde-lake-high-school-columbia-md%2Fgam9593e5c2d6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwilde-lake-high-school-columbia-md%2Fgam9593e5c2d6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-river-hill-wilde-lake-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T173000
+DTEND;TZID=America/New_York:20261207T193000
+SUMMARY:Girls Basketball: Wilde Lake at River Hill
+LOCATION:River Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-glenelg-wilde-lake-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261209T173000
+DTEND;TZID=America/New_York:20261209T193000
+SUMMARY:Girls Basketball: Wilde Lake at Glenelg
+LOCATION:Glenelg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgam219087f54d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgam219087f54d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-wilde-lake-hammond-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T173000
+DTEND;TZID=America/New_York:20261214T193000
+SUMMARY:Girls Basketball: Hammond at Wilde Lake
+LOCATION:Wilde Lake
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwilde-lake-high-school-columbia-md%2Fgam00bef13187
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwilde-lake-high-school-columbia-md%2Fgam00bef13187
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-calvert-wilde-lake-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261217T181500
+DTEND;TZID=America/New_York:20261217T201500
+SUMMARY:Girls Basketball: Wilde Lake at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-mount-hebron-wilde-lake-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Girls Basketball: Wilde Lake at Mount Hebron
+LOCATION:Mount Hebron
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmt-hebron-high-school-ellicott-city-md%2Fgam3948f15723
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmt-hebron-high-school-ellicott-city-md%2Fgam3948f15723
+END:VEVENT
+END:VCALENDAR

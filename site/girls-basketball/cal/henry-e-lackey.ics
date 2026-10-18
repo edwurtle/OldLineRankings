@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Henry E. Lackey Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-04-mcdonough-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T184500
+DTEND;TZID=America/New_York:20261204T204500
+SUMMARY:Girls Basketball: Henry E. Lackey at McDonough
+LOCATION:McDonough
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam17a2ca0d9d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam17a2ca0d9d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-henry-e-lackey-westlake-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T170000
+DTEND;TZID=America/New_York:20261207T190000
+SUMMARY:Girls Basketball: Westlake at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam952a3b8ab7
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam952a3b8ab7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-thomas-stone-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261209T173000
+DTEND;TZID=America/New_York:20261209T193000
+SUMMARY:Girls Basketball: Henry E. Lackey at Thomas Stone
+LOCATION:Thomas Stone
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgambffe8fa7c0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgambffe8fa7c0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-great-mills-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T170000
+DTEND;TZID=America/New_York:20261211T190000
+SUMMARY:Girls Basketball: Henry E. Lackey at Great Mills
+LOCATION:Great Mills
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-patuxent-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T170000
+DTEND;TZID=America/New_York:20261214T190000
+SUMMARY:Girls Basketball: Henry E. Lackey at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam4ea3dafd9d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam4ea3dafd9d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-la-plata-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T170000
+DTEND;TZID=America/New_York:20261216T190000
+SUMMARY:Girls Basketball: Henry E. Lackey at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf03f0cd142
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf03f0cd142
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-st-charles-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T181500
+DTEND;TZID=America/New_York:20270108T201500
+SUMMARY:Girls Basketball: Henry E. Lackey at St. Charles
+LOCATION:St. Charles
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgamaf8795f2d0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgamaf8795f2d0
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-calvert-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270113T181500
+DTEND;TZID=America/New_York:20270113T201500
+SUMMARY:Girls Basketball: Henry E. Lackey at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-henry-e-lackey-north-point-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T181500
+DTEND;TZID=America/New_York:20270115T201500
+SUMMARY:Girls Basketball: North Point at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgama6296eaca8
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgama6296eaca8
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-henry-e-lackey-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270120T181500
+DTEND;TZID=America/New_York:20270120T201500
+SUMMARY:Girls Basketball: Patuxent at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam878c28c42d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam878c28c42d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-westlake-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T181500
+DTEND;TZID=America/New_York:20270122T201500
+SUMMARY:Girls Basketball: Henry E. Lackey at Westlake
+LOCATION:Westlake
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam79fb377844
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam79fb377844
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-henry-e-lackey-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270127T180000
+DTEND;TZID=America/New_York:20270127T200000
+SUMMARY:Girls Basketball: Northern-C at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgamcf5c3605c9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgamcf5c3605c9
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-henry-e-lackey-thomas-stone-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T181500
+DTEND;TZID=America/New_York:20270129T201500
+SUMMARY:Girls Basketball: Thomas Stone at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam3a9987ab8b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam3a9987ab8b
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-henry-e-lackey-leonardtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T181500
+DTEND;TZID=America/New_York:20270203T201500
+SUMMARY:Girls Basketball: Leonardtown at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam5f29eadabb
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam5f29eadabb
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-henry-e-lackey-chopticon-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T181500
+DTEND;TZID=America/New_York:20270205T201500
+SUMMARY:Girls Basketball: Chopticon at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgamcb4e85f7c8
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgamcb4e85f7c8
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-huntingtown-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T181500
+DTEND;TZID=America/New_York:20270210T201500
+SUMMARY:Girls Basketball: Henry E. Lackey at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-henry-e-lackey-la-plata-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T181500
+DTEND;TZID=America/New_York:20270212T201500
+SUMMARY:Girls Basketball: La Plata at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam992f198490
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam992f198490
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-henry-e-lackey-great-mills-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270217T181500
+DTEND;TZID=America/New_York:20270217T201500
+SUMMARY:Girls Basketball: Great Mills at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam6a409b3e4e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam6a409b3e4e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-mcdonough-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T190000
+DTEND;TZID=America/New_York:20270219T210000
+SUMMARY:Girls Basketball: Henry E. Lackey at McDonough
+LOCATION:McDonough
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgamfe0522f6cf
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgamfe0522f6cf
+END:VEVENT
+END:VCALENDAR

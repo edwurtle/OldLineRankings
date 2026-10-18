@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bethesda-CC Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-20-poolesville-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261120T180000
+DTEND;TZID=America/New_York:20261120T200000
+SUMMARY:Boys Basketball: Bethesda-CC at Poolesville
+LOCATION:Poolesville
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-bethesda-cc-oakdale-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261124T130000
+DTEND;TZID=America/New_York:20261124T150000
+SUMMARY:Boys Basketball: Oakdale at Bethesda-CC
+LOCATION:Bethesda-CC
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-col-zadok-magruder-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261128T090000
+DTEND;TZID=America/New_York:20261128T110000
+SUMMARY:Boys Basketball: Bethesda-CC at Col. Zadok Magruder
+LOCATION:Col. Zadok Magruder
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-watkins-mill-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261202T190000
+DTEND;TZID=America/New_York:20261202T210000
+SUMMARY:Boys Basketball: Bethesda-CC at Watkins Mill
+LOCATION:Watkins Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-richard-montgomery-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261204T191500
+DTEND;TZID=America/New_York:20261204T211500
+SUMMARY:Boys Basketball: Bethesda-CC at Richard Montgomery
+LOCATION:Richard Montgomery
+DESCRIPTION:Tickets: https://gofan.co/event/6708668
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-clarksburg-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261208T191500
+DTEND;TZID=America/New_York:20261208T211500
+SUMMARY:Boys Basketball: Bethesda-CC at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgamff16e2f6ea\nTickets: https://gofan.co/event/6706779
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgamff16e2f6ea
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-bethesda-cc-walt-whitman-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261214T191500
+DTEND;TZID=America/New_York:20261214T211500
+SUMMARY:Boys Basketball: Walt Whitman at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgamfcdcfd38ba\nTickets: https://gofan.co/event/6706532
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgamfcdcfd38ba
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-bethesda-cc-montgomery-blair-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261216T191500
+DTEND;TZID=America/New_York:20261216T211500
+SUMMARY:Boys Basketball: Montgomery Blair at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam2b4d89f2ae\nTickets: https://gofan.co/event/6706535
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam2b4d89f2ae
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-quince-orchard-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261218T191500
+DTEND;TZID=America/New_York:20261218T211500
+SUMMARY:Boys Basketball: Bethesda-CC at Quince Orchard
+LOCATION:Quince Orchard
+DESCRIPTION:Tickets: https://gofan.co/event/6707756
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-thomas-s-wootton-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261221T191500
+DTEND;TZID=America/New_York:20261221T211500
+SUMMARY:Boys Basketball: Bethesda-CC at Thomas S. Wootton
+LOCATION:Thomas S. Wootton
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-wootton-high-school-rockville-md%2Fgamf8f7bd1cdd\nTickets: https://gofan.co/event/6708098
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-wootton-high-school-rockville-md%2Fgamf8f7bd1cdd
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-bethesda-cc-walter-johnson-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270105T191500
+DTEND;TZID=America/New_York:20270105T211500
+SUMMARY:Boys Basketball: Walter Johnson at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam913f86311e\nTickets: https://gofan.co/event/6706550
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam913f86311e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-winston-churchill-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270108T191500
+DTEND;TZID=America/New_York:20270108T211500
+SUMMARY:Boys Basketball: Bethesda-CC at Winston Churchill
+LOCATION:Winston Churchill
+DESCRIPTION:Tickets: https://gofan.co/event/6707877
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-bethesda-cc-gaithersburg-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270112T191500
+DTEND;TZID=America/New_York:20270112T211500
+SUMMARY:Boys Basketball: Gaithersburg at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgamd63649b3a7\nTickets: https://gofan.co/event/6706536
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgamd63649b3a7
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-northwest-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270114T191500
+DTEND;TZID=America/New_York:20270114T211500
+SUMMARY:Boys Basketball: Bethesda-CC at Northwest
+LOCATION:Northwest
+DESCRIPTION:Tickets: https://gofan.co/event/6708012
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-sherwood-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270119T191500
+DTEND;TZID=America/New_York:20270119T211500
+SUMMARY:Boys Basketball: Bethesda-CC at Sherwood
+LOCATION:Sherwood
+DESCRIPTION:Tickets: https://gofan.co/event/6708743
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-bethesda-cc-john-f-kennedy-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270122T191500
+DTEND;TZID=America/New_York:20270122T211500
+SUMMARY:Boys Basketball: John F. Kennedy at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam1c194ebe8b\nTickets: https://gofan.co/event/6706556
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam1c194ebe8b
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-walt-whitman-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270129T191500
+DTEND;TZID=America/New_York:20270129T211500
+SUMMARY:Boys Basketball: Bethesda-CC at Walt Whitman
+LOCATION:Walt Whitman
+DESCRIPTION:Tickets: https://gofan.co/event/6709237
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-bethesda-cc-quince-orchard-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270201T191500
+DTEND;TZID=America/New_York:20270201T211500
+SUMMARY:Boys Basketball: Quince Orchard at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgama92acda337\nTickets: https://gofan.co/event/6706540
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgama92acda337
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-bethesda-cc-thomas-s-wootton-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270203T191500
+DTEND;TZID=America/New_York:20270203T211500
+SUMMARY:Boys Basketball: Thomas S. Wootton at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgamab43bc02ed\nTickets: https://gofan.co/event/6706541
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgamab43bc02ed
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-walter-johnson-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270205T180000
+DTEND;TZID=America/New_York:20270205T200000
+SUMMARY:Boys Basketball: Bethesda-CC at Walter Johnson
+LOCATION:Walter Johnson
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgamd4c82982d1\nTickets: https://gofan.co/event/6707500
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgamd4c82982d1
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-bethesda-cc-winston-churchill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270208T180000
+DTEND;TZID=America/New_York:20270208T200000
+SUMMARY:Boys Basketball: Winston Churchill at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgamea62c7544d\nTickets: https://gofan.co/event/6706538
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgamea62c7544d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-james-hubert-blake-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270212T173000
+DTEND;TZID=America/New_York:20270212T193000
+SUMMARY:Boys Basketball: Bethesda-CC at James Hubert Blake
+LOCATION:James Hubert Blake
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjames-hubert-blake-high-school-silver-spring-md%2Fgam7efe1ad441\nTickets: https://gofan.co/event/6706303
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjames-hubert-blake-high-school-silver-spring-md%2Fgam7efe1ad441
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-bethesda-cc-damascus-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270216T191500
+DTEND;TZID=America/New_York:20270216T211500
+SUMMARY:Boys Basketball: Damascus at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam785a0d559b\nTickets: https://gofan.co/event/6706546
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam785a0d559b
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-rockville-bethesda-cc-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270219T191500
+DTEND;TZID=America/New_York:20270219T211500
+SUMMARY:Boys Basketball: Bethesda-CC at Rockville
+LOCATION:Rockville
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frockville-high-school-rockville-md%2Fgam62b1b900bf\nTickets: https://gofan.co/event/6708194
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frockville-high-school-rockville-md%2Fgam62b1b900bf
+END:VEVENT
+END:VCALENDAR

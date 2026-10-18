@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bladensburg Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-01-springbrook-bladensburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261201T170000
+DTEND;TZID=America/New_York:20261201T190000
+SUMMARY:Girls Basketball: Bladensburg at Springbrook
+LOCATION:Springbrook
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-bladensburg-friendly-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T180000
+DTEND;TZID=America/New_York:20261207T200000
+SUMMARY:Girls Basketball: Friendly at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamda9a3f83ac\nTickets: https://gofan.co/event/6956531
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamda9a3f83ac
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-laurel-bladensburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261210T191500
+DTEND;TZID=America/New_York:20261210T211500
+SUMMARY:Girls Basketball: Bladensburg at Laurel
+LOCATION:Laurel
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam8e353b646e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam8e353b646e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-bowie-bladensburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261215T191500
+DTEND;TZID=America/New_York:20261215T211500
+SUMMARY:Girls Basketball: Bladensburg at Bowie
+LOCATION:Bowie
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamc4cfb3d0cb
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamc4cfb3d0cb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-bladensburg-suitland-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261217T180000
+DTEND;TZID=America/New_York:20261217T200000
+SUMMARY:Girls Basketball: Suitland at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamf04dc64d1f\nTickets: https://gofan.co/event/6956497
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamf04dc64d1f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-surrattsville-bladensburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T180000
+DTEND;TZID=America/New_York:20261218T200000
+SUMMARY:Girls Basketball: Bladensburg at Surrattsville
+LOCATION:Surrattsville
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsurrattsville-high-school-clinton-md%2Fgam394b7c2547
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsurrattsville-high-school-clinton-md%2Fgam394b7c2547
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-bladensburg-dr-henry-a-wise-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270107T180000
+DTEND;TZID=America/New_York:20270107T200000
+SUMMARY:Girls Basketball: Dr. Henry A. Wise at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam599fc005b1\nTickets: https://gofan.co/event/6956500
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam599fc005b1
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-eleanor-roosevelt-bladensburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270112T191500
+DTEND;TZID=America/New_York:20270112T211500
+SUMMARY:Girls Basketball: Bladensburg at Eleanor Roosevelt
+LOCATION:Eleanor Roosevelt
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-duval-bladensburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T191500
+DTEND;TZID=America/New_York:20270114T211500
+SUMMARY:Girls Basketball: Bladensburg at Duval
+LOCATION:Duval
+DESCRIPTION:Tickets: https://gofan.co/event/6697109
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-bladensburg-northwestern-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T180000
+DTEND;TZID=America/New_York:20270119T200000
+SUMMARY:Girls Basketball: Northwestern at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam82bbb6c0b9\nTickets: https://gofan.co/event/6956493
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam82bbb6c0b9
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-bladensburg-parkdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270121T180000
+DTEND;TZID=America/New_York:20270121T200000
+SUMMARY:Girls Basketball: Parkdale at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam3e13429bb7\nTickets: https://gofan.co/event/6956499
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam3e13429bb7
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-bladensburg-charles-h-flowers-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T180000
+DTEND;TZID=America/New_York:20270126T200000
+SUMMARY:Girls Basketball: Charles H. Flowers at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamc62da71f52\nTickets: https://gofan.co/event/6956495
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamc62da71f52
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-high-point-bladensburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270128T191500
+DTEND;TZID=America/New_York:20270128T211500
+SUMMARY:Girls Basketball: Bladensburg at High Point
+LOCATION:High Point
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-bladensburg-laurel-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270202T180000
+DTEND;TZID=America/New_York:20270202T200000
+SUMMARY:Girls Basketball: Laurel at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamfe4f4a2f6f\nTickets: https://gofan.co/event/6956494
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamfe4f4a2f6f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-bladensburg-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270204T180000
+DTEND;TZID=America/New_York:20270204T200000
+SUMMARY:Girls Basketball: Bowie at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam1226f93838\nTickets: https://gofan.co/event/6956496
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam1226f93838
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-suitland-bladensburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T191500
+DTEND;TZID=America/New_York:20270210T211500
+SUMMARY:Girls Basketball: Bladensburg at Suitland
+LOCATION:Suitland
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgam0d8d9122df
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgam0d8d9122df
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-dr-henry-a-wise-bladensburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T191500
+DTEND;TZID=America/New_York:20270216T211500
+SUMMARY:Girls Basketball: Bladensburg at Dr. Henry A. Wise
+LOCATION:Dr. Henry A. Wise
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam9ec2921537
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam9ec2921537
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-bladensburg-eleanor-roosevelt-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270218T180000
+DTEND;TZID=America/New_York:20270218T200000
+SUMMARY:Girls Basketball: Eleanor Roosevelt at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgame7a584e644\nTickets: https://gofan.co/event/6956498
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgame7a584e644
+END:VEVENT
+END:VCALENDAR

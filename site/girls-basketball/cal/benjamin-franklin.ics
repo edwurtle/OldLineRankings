@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Benjamin Franklin Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-08-benjamin-franklin-reginald-lewis-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261208T171500
+DTEND;TZID=America/New_York:20261208T191500
+SUMMARY:Girls Basketball: Reginald Lewis at Benjamin Franklin
+LOCATION:Benjamin Franklin
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-benjamin-franklin-baltimore-polytechnic-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261210T171500
+DTEND;TZID=America/New_York:20261210T191500
+SUMMARY:Girls Basketball: Baltimore Polytechnic at Benjamin Franklin
+LOCATION:Benjamin Franklin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbenjamin-franklin-community-academy-baltimore-md%2Fgam8922af3a02
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbenjamin-franklin-community-academy-baltimore-md%2Fgam8922af3a02
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-forest-park-benjamin-franklin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261217T160000
+DTEND;TZID=America/New_York:20261217T180000
+SUMMARY:Girls Basketball: Benjamin Franklin at Forest Park
+LOCATION:Forest Park
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fforest-park-high-school-baltimore-md%2Fgam24802793b7
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fforest-park-high-school-baltimore-md%2Fgam24802793b7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-benjamin-franklin-baltimore-city-college-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261222T171500
+DTEND;TZID=America/New_York:20261222T191500
+SUMMARY:Girls Basketball: Baltimore City College at Benjamin Franklin
+LOCATION:Benjamin Franklin
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-patterson-benjamin-franklin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T171500
+DTEND;TZID=America/New_York:20270105T191500
+SUMMARY:Girls Basketball: Benjamin Franklin at Patterson
+LOCATION:Patterson
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatterson-high-school-baltimore-md%2Fgam6671873653
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatterson-high-school-baltimore-md%2Fgam6671873653
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-benjamin-franklin-paul-laurence-dunbar-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270107T171500
+DTEND;TZID=America/New_York:20270107T191500
+SUMMARY:Girls Basketball: Paul Laurence Dunbar at Benjamin Franklin
+LOCATION:Benjamin Franklin
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-benjamin-franklin-digital-harbor-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270112T171500
+DTEND;TZID=America/New_York:20270112T191500
+SUMMARY:Girls Basketball: Digital Harbor at Benjamin Franklin
+LOCATION:Benjamin Franklin
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-benjamin-franklin-mergenthaler-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T171500
+DTEND;TZID=America/New_York:20270114T191500
+SUMMARY:Girls Basketball: Mergenthaler at Benjamin Franklin
+LOCATION:Benjamin Franklin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbenjamin-franklin-community-academy-baltimore-md%2Fgam530b9f598c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbenjamin-franklin-community-academy-baltimore-md%2Fgam530b9f598c
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-edmondson-westside-benjamin-franklin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T171500
+DTEND;TZID=America/New_York:20270119T191500
+SUMMARY:Girls Basketball: Benjamin Franklin at Edmondson-Westside
+LOCATION:Edmondson-Westside
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgamc89ec67a97
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgamc89ec67a97
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-lake-clifton-benjamin-franklin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270121T160000
+DTEND;TZID=America/New_York:20270121T180000
+SUMMARY:Girls Basketball: Benjamin Franklin at Lake Clifton
+LOCATION:Lake Clifton
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-benjamin-franklin-forest-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Girls Basketball: Forest Park at Benjamin Franklin
+LOCATION:Benjamin Franklin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbenjamin-franklin-community-academy-baltimore-md%2Fgam6d191f0352
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbenjamin-franklin-community-academy-baltimore-md%2Fgam6d191f0352
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-carver-vocational-technical-benjamin-franklin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270202T171500
+DTEND;TZID=America/New_York:20270202T191500
+SUMMARY:Girls Basketball: Benjamin Franklin at Carver Vocational-Technical
+LOCATION:Carver Vocational-Technical
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcarver-votechnical-high-school-baltimore-md%2Fgam126a300827
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcarver-votechnical-high-school-baltimore-md%2Fgam126a300827
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-benjamin-franklin-city-neighbors-charter-school-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270204T171500
+DTEND;TZID=America/New_York:20270204T191500
+SUMMARY:Girls Basketball: City Neighbors Charter School at Benjamin Franklin
+LOCATION:Benjamin Franklin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbenjamin-franklin-community-academy-baltimore-md%2Fgam1fed8a045f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbenjamin-franklin-community-academy-baltimore-md%2Fgam1fed8a045f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-western-b-benjamin-franklin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270209T171500
+DTEND;TZID=America/New_York:20270209T191500
+SUMMARY:Girls Basketball: Benjamin Franklin at Western-B
+LOCATION:Western-B
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestern-high-school-baltimore-md-2%2Fgam6fd8d00d6e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestern-high-school-baltimore-md-2%2Fgam6fd8d00d6e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-benjamin-franklin-lake-clifton-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270211T160000
+DTEND;TZID=America/New_York:20270211T180000
+SUMMARY:Girls Basketball: Lake Clifton at Benjamin Franklin
+LOCATION:Benjamin Franklin
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-digital-harbor-benjamin-franklin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T171500
+DTEND;TZID=America/New_York:20270216T191500
+SUMMARY:Girls Basketball: Benjamin Franklin at Digital Harbor
+LOCATION:Digital Harbor
+END:VEVENT
+END:VCALENDAR

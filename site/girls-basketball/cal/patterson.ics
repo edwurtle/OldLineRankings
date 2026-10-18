@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Patterson Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-28-hereford-patterson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261128T120000
+DTEND;TZID=America/New_York:20261128T140000
+SUMMARY:Girls Basketball: Patterson at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgamad3e01d918
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgamad3e01d918
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-perry-hall-patterson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261128T133000
+DTEND;TZID=America/New_York:20261128T153000
+SUMMARY:Girls Basketball: Patterson at Perry Hall
+LOCATION:Perry Hall
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgamad3e01d918
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgamad3e01d918
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-patterson-paul-laurence-dunbar-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261208T171500
+DTEND;TZID=America/New_York:20261208T191500
+SUMMARY:Girls Basketball: Paul Laurence Dunbar at Patterson
+LOCATION:Patterson
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-coppin-academy-patterson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261210T171500
+DTEND;TZID=America/New_York:20261210T191500
+SUMMARY:Girls Basketball: Patterson at Coppin Academy
+LOCATION:Coppin Academy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-green-street-academy-patterson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261210T154500
+DTEND;TZID=America/New_York:20261210T174500
+SUMMARY:Girls Basketball: Patterson at Green Street Academy
+LOCATION:Green Street Academy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-patterson-reginald-lewis-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261217T171500
+DTEND;TZID=America/New_York:20261217T191500
+SUMMARY:Girls Basketball: Reginald Lewis at Patterson
+LOCATION:Patterson
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatterson-high-school-baltimore-md%2Fgam18b0617b21
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatterson-high-school-baltimore-md%2Fgam18b0617b21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-coppin-academy-patterson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261222T171500
+DTEND;TZID=America/New_York:20261222T191500
+SUMMARY:Girls Basketball: Patterson at Coppin Academy
+LOCATION:Coppin Academy
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-patterson-benjamin-franklin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T171500
+DTEND;TZID=America/New_York:20270105T191500
+SUMMARY:Girls Basketball: Benjamin Franklin at Patterson
+LOCATION:Patterson
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatterson-high-school-baltimore-md%2Fgam6671873653
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatterson-high-school-baltimore-md%2Fgam6671873653
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-national-academy-foundation-naf-patterson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270107T171500
+DTEND;TZID=America/New_York:20270107T191500
+SUMMARY:Girls Basketball: Patterson at National Academy Foundation (NAF)
+LOCATION:National Academy Foundation (NAF)
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-patterson-southwestern-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270112T171500
+DTEND;TZID=America/New_York:20270112T191500
+SUMMARY:Girls Basketball: Southwestern at Patterson
+LOCATION:Patterson
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatterson-high-school-baltimore-md%2Fgam9d87161f4a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatterson-high-school-baltimore-md%2Fgam9d87161f4a
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-city-neighbors-charter-school-patterson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T171500
+DTEND;TZID=America/New_York:20270114T191500
+SUMMARY:Girls Basketball: Patterson at City Neighbors Charter School
+LOCATION:City Neighbors Charter School
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-patterson-green-street-academy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T171500
+DTEND;TZID=America/New_York:20270126T191500
+SUMMARY:Girls Basketball: Green Street Academy at Patterson
+LOCATION:Patterson
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-reginald-lewis-patterson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270128T171500
+DTEND;TZID=America/New_York:20270128T191500
+SUMMARY:Girls Basketball: Patterson at Reginald Lewis
+LOCATION:Reginald Lewis
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-patterson-coppin-academy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270202T171500
+DTEND;TZID=America/New_York:20270202T191500
+SUMMARY:Girls Basketball: Coppin Academy at Patterson
+LOCATION:Patterson
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-patterson-edmondson-westside-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270204T171500
+DTEND;TZID=America/New_York:20270204T191500
+SUMMARY:Girls Basketball: Edmondson-Westside at Patterson
+LOCATION:Patterson
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatterson-high-school-baltimore-md%2Fgam1ef402fa8d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatterson-high-school-baltimore-md%2Fgam1ef402fa8d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-acce-patterson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270209T171500
+DTEND;TZID=America/New_York:20270209T191500
+SUMMARY:Girls Basketball: Patterson at ACCE
+LOCATION:ACCE
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Facademy-for-college-career-exploration-baltimore-md%2Fgam2687b52d76
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Facademy-for-college-career-exploration-baltimore-md%2Fgam2687b52d76
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-patterson-city-neighbors-charter-school-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
+SUMMARY:Girls Basketball: City Neighbors Charter School at Patterson
+LOCATION:Patterson
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-frederick-douglass-b-patterson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T171500
+DTEND;TZID=America/New_York:20270216T191500
+SUMMARY:Girls Basketball: Patterson at Frederick Douglass-B
+LOCATION:Frederick Douglass-B
+END:VEVENT
+END:VCALENDAR

@@ -639,6 +639,11 @@
   "name": "North East High School",
   "type": "High School"
  },
+ "MD69736": {
+  "city": "Buckeystown",
+  "name": "St. Johns Catholic Prep",
+  "type": "High School"
+ },
  "MD73085": {
   "city": "Westminster",
   "name": "Carroll County Public Schools",
@@ -648,6 +653,11 @@
   "city": "Gambrills",
   "name": "Crofton High School",
   "type": "High School"
+ },
+ "MD79874": {
+  "city": "Baltimore",
+  "name": "Sudbrook Magnet Middle School",
+  "type": "Middle School"
  },
  "MD79931": {
   "city": "Prince Frederick",

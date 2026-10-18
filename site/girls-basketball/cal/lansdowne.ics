@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Lansdowne Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-07-carver-aandt-lansdowne-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Girls Basketball: Lansdowne at Carver A&T
+LOCATION:Carver A&T
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcarver-center-for-arts-technology-high-school-towson-md%2Fgam4db58c8b1a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcarver-center-for-arts-technology-high-school-towson-md%2Fgam4db58c8b1a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-new-town-lansdowne-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261210T173000
+DTEND;TZID=America/New_York:20261210T193000
+SUMMARY:Girls Basketball: Lansdowne at New Town
+LOCATION:New Town
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnew-town-high-school-owings-mills-md%2Fgamf435a8ad92
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnew-town-high-school-owings-mills-md%2Fgamf435a8ad92
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-catonsville-lansdowne-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270111T173000
+DTEND;TZID=America/New_York:20270111T193000
+SUMMARY:Girls Basketball: Lansdowne at Catonsville
+LOCATION:Catonsville
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-pikesville-lansdowne-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270120T173000
+DTEND;TZID=America/New_York:20270120T193000
+SUMMARY:Girls Basketball: Lansdowne at Pikesville
+LOCATION:Pikesville
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-western-tech-lansdowne-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Girls Basketball: Lansdowne at Western Tech
+LOCATION:Western Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-woodlawn-lansdowne-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T173000
+DTEND;TZID=America/New_York:20270212T193000
+SUMMARY:Girls Basketball: Lansdowne at Woodlawn
+LOCATION:Woodlawn
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwoodlawn-high-school-baltimore-md%2Fgamdfb4d57518
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwoodlawn-high-school-baltimore-md%2Fgamdfb4d57518
+END:VEVENT
+END:VCALENDAR

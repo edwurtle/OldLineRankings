@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Severna Park Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-04-annapolis-severna-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T170000
+DTEND;TZID=America/New_York:20261204T190000
+SUMMARY:Girls Basketball: Severna Park at Annapolis
+LOCATION:Annapolis
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fannapolis-high-school-annapolis-md%2Fgam0f0ee02bdb
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fannapolis-high-school-annapolis-md%2Fgam0f0ee02bdb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-severna-park-broadneck-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T170000
+DTEND;TZID=America/New_York:20261211T190000
+SUMMARY:Girls Basketball: Broadneck at Severna Park
+LOCATION:Severna Park
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-severna-park-glen-burnie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Girls Basketball: Glen Burnie at Severna Park
+LOCATION:Severna Park
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-north-county-severna-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T170000
+DTEND;TZID=America/New_York:20270108T190000
+SUMMARY:Girls Basketball: Severna Park at North County
+LOCATION:North County
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-severna-park-northeast-aa-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270112T180000
+DTEND;TZID=America/New_York:20270112T200000
+SUMMARY:Girls Basketball: Northeast-AA at Severna Park
+LOCATION:Severna Park
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseverna-park-high-school-severna-park-md%2Fgamc555b747f4
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseverna-park-high-school-severna-park-md%2Fgamc555b747f4
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-southern-aa-severna-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T170000
+DTEND;TZID=America/New_York:20270115T190000
+SUMMARY:Girls Basketball: Severna Park at Southern-AA
+LOCATION:Southern-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-arundel-severna-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T170000
+DTEND;TZID=America/New_York:20270122T190000
+SUMMARY:Girls Basketball: Severna Park at Arundel
+LOCATION:Arundel
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Farundel-high-school-gambrills-md%2Fgam7e65ac4cd1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Farundel-high-school-gambrills-md%2Fgam7e65ac4cd1
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-crofton-severna-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T180000
+DTEND;TZID=America/New_York:20270126T200000
+SUMMARY:Girls Basketball: Severna Park at Crofton
+LOCATION:Crofton
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-severna-park-old-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T170000
+DTEND;TZID=America/New_York:20270129T190000
+SUMMARY:Girls Basketball: Old Mill at Severna Park
+LOCATION:Severna Park
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseverna-park-high-school-severna-park-md%2Fgam563b2f5436
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseverna-park-high-school-severna-park-md%2Fgam563b2f5436
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-severna-park-severn-run-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270202T180000
+DTEND;TZID=America/New_York:20270202T200000
+SUMMARY:Girls Basketball: Severn Run at Severna Park
+LOCATION:Severna Park
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-severna-park-annapolis-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
+SUMMARY:Girls Basketball: Annapolis at Severna Park
+LOCATION:Severna Park
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-oakdale-severna-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270208T190000
+DTEND;TZID=America/New_York:20270208T210000
+SUMMARY:Girls Basketball: Severna Park at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-meade-severna-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T180000
+DTEND;TZID=America/New_York:20270210T200000
+SUMMARY:Girls Basketball: Severna Park at Meade
+LOCATION:Meade
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-broadneck-severna-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T170000
+DTEND;TZID=America/New_York:20270212T190000
+SUMMARY:Girls Basketball: Severna Park at Broadneck
+LOCATION:Broadneck
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-south-river-severna-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T180000
+DTEND;TZID=America/New_York:20270216T200000
+SUMMARY:Girls Basketball: Severna Park at South River
+LOCATION:South River
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-severna-park-chesapeake-aa-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270218T180000
+DTEND;TZID=America/New_York:20270218T200000
+SUMMARY:Girls Basketball: Chesapeake-AA at Severna Park
+LOCATION:Severna Park
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseverna-park-high-school-severna-park-md%2Fgam3e74a27d8e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseverna-park-high-school-severna-park-md%2Fgam3e74a27d8e
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:McDonough Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-05-mcdonough-crossland-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261105T131500
+DTEND;TZID=America/New_York:20261105T151500
+SUMMARY:Girls Basketball: Crossland at McDonough
+LOCATION:McDonough
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-mcdonough-friendly-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261105T131500
+DTEND;TZID=America/New_York:20261105T151500
+SUMMARY:Girls Basketball: Friendly at McDonough
+LOCATION:McDonough
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-mcdonough-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T184500
+DTEND;TZID=America/New_York:20261204T204500
+SUMMARY:Girls Basketball: Henry E. Lackey at McDonough
+LOCATION:McDonough
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam17a2ca0d9d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam17a2ca0d9d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-st-charles-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261209T181500
+DTEND;TZID=America/New_York:20261209T201500
+SUMMARY:Girls Basketball: McDonough at St. Charles
+LOCATION:St. Charles
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgam3be6854b34
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgam3be6854b34
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-mcdonough-chopticon-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T181500
+DTEND;TZID=America/New_York:20261214T201500
+SUMMARY:Girls Basketball: Chopticon at McDonough
+LOCATION:McDonough
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamfb6c3df0eb
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamfb6c3df0eb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-westlake-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T170000
+DTEND;TZID=America/New_York:20261218T190000
+SUMMARY:Girls Basketball: McDonough at Westlake
+LOCATION:Westlake
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam85d0c8408b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam85d0c8408b
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-calvert-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270106T170000
+DTEND;TZID=America/New_York:20270106T190000
+SUMMARY:Girls Basketball: McDonough at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-north-point-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T190000
+DTEND;TZID=America/New_York:20270108T210000
+SUMMARY:Girls Basketball: McDonough at North Point
+LOCATION:North Point
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-point-high-school-waldorf-md%2Fgam15dfe5172d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-point-high-school-waldorf-md%2Fgam15dfe5172d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-chopticon-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270113T181500
+DTEND;TZID=America/New_York:20270113T201500
+SUMMARY:Girls Basketball: McDonough at Chopticon
+LOCATION:Chopticon
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-great-mills-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T181500
+DTEND;TZID=America/New_York:20270115T201500
+SUMMARY:Girls Basketball: McDonough at Great Mills
+LOCATION:Great Mills
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-thomas-stone-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T190000
+DTEND;TZID=America/New_York:20270119T210000
+SUMMARY:Girls Basketball: McDonough at Thomas Stone
+LOCATION:Thomas Stone
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam99d182a98d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam99d182a98d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-mcdonough-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270120T181500
+DTEND;TZID=America/New_York:20270120T201500
+SUMMARY:Girls Basketball: Calvert at McDonough
+LOCATION:McDonough
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamaa20c9f4e1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamaa20c9f4e1
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-patuxent-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270127T181500
+DTEND;TZID=America/New_York:20270127T201500
+SUMMARY:Girls Basketball: McDonough at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam809c6801b0\nTickets: https://gofan.co/event/6802821
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam809c6801b0
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-mcdonough-st-charles-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T190000
+DTEND;TZID=America/New_York:20270129T210000
+SUMMARY:Girls Basketball: St. Charles at McDonough
+LOCATION:McDonough
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamc5aa0c9f04
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamc5aa0c9f04
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-mcdonough-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T181500
+DTEND;TZID=America/New_York:20270203T201500
+SUMMARY:Girls Basketball: Northern-C at McDonough
+LOCATION:McDonough
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam56a6610a38
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam56a6610a38
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-la-plata-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T181500
+DTEND;TZID=America/New_York:20270205T201500
+SUMMARY:Girls Basketball: McDonough at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf7b3310bf9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf7b3310bf9
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-leonardtown-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T181500
+DTEND;TZID=America/New_York:20270210T201500
+SUMMARY:Girls Basketball: McDonough at Leonardtown
+LOCATION:Leonardtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-mcdonough-westlake-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T190000
+DTEND;TZID=America/New_York:20270212T210000
+SUMMARY:Girls Basketball: Westlake at McDonough
+LOCATION:McDonough
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam8bdafff607
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam8bdafff607
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-mcdonough-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270217T181500
+DTEND;TZID=America/New_York:20270217T201500
+SUMMARY:Girls Basketball: Huntingtown at McDonough
+LOCATION:McDonough
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam6794bdb7b7
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam6794bdb7b7
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-mcdonough-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T190000
+DTEND;TZID=America/New_York:20270219T210000
+SUMMARY:Girls Basketball: Henry E. Lackey at McDonough
+LOCATION:McDonough
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgamfe0522f6cf
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgamfe0522f6cf
+END:VEVENT
+END:VCALENDAR

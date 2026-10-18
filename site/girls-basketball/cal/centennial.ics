@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Centennial Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-24-centennial-century-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261124T173000
+DTEND;TZID=America/New_York:20261124T193000
+SUMMARY:Girls Basketball: Century at Centennial
+LOCATION:Centennial
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-centennial-walkersville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261201T190000
+DTEND;TZID=America/New_York:20261201T210000
+SUMMARY:Girls Basketball: Walkersville at Centennial
+LOCATION:Centennial
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcentennial-high-school-ellicott-city-md%2Fgam261b36291e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcentennial-high-school-ellicott-city-md%2Fgam261b36291e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-centennial-guilford-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T180000
+DTEND;TZID=America/New_York:20261204T200000
+SUMMARY:Girls Basketball: Guilford Park at Centennial
+LOCATION:Centennial
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-reservoir-centennial-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T173000
+DTEND;TZID=America/New_York:20261207T193000
+SUMMARY:Girls Basketball: Centennial at Reservoir
+LOCATION:Reservoir
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Freservoir-high-school-fulton-md%2Fgamd9d571bce6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Freservoir-high-school-fulton-md%2Fgamd9d571bce6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-centennial-howard-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261209T173000
+DTEND;TZID=America/New_York:20261209T193000
+SUMMARY:Girls Basketball: Howard at Centennial
+LOCATION:Centennial
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcentennial-high-school-ellicott-city-md%2Fgam05769bab91
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcentennial-high-school-ellicott-city-md%2Fgam05769bab91
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-centennial-gov-thomas-johnson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T180000
+DTEND;TZID=America/New_York:20261214T200000
+SUMMARY:Girls Basketball: Gov. Thomas Johnson at Centennial
+LOCATION:Centennial
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-centennial-marriotts-ridge-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Girls Basketball: Marriotts Ridge at Centennial
+LOCATION:Centennial
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcentennial-high-school-ellicott-city-md%2Fgam7e70c7c8a2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcentennial-high-school-ellicott-city-md%2Fgam7e70c7c8a2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-centennial-glenelg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Girls Basketball: Glenelg at Centennial
+LOCATION:Centennial
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcentennial-high-school-ellicott-city-md%2Fgamee2c5fa48f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcentennial-high-school-ellicott-city-md%2Fgamee2c5fa48f
+END:VEVENT
+END:VCALENDAR

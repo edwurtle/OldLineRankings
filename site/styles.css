@@ -343,6 +343,7 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 .leaders { list-style: none; margin: 14px 0 14px; padding: 0; display: grid; gap: 2px; }
 .leaders li { display: grid; grid-template-columns: 26px 1fr auto; gap: 10px; align-items: center; padding: 5px 0; border-bottom: 1px solid var(--border); font-size: 14px; }
 .leaders li:last-child { border-bottom: 0; }
+.leaders li.hold { display: block; color: var(--muted); font-size: 14px; line-height: 1.45; }
 .leaders b { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .leaders small { color: var(--muted); font-size: 12px; font-weight: 600; }
 .sport-go { margin-top: auto; font-weight: 700; color: var(--accent-ink); }
@@ -596,3 +597,9 @@ body.embed .drawer { width: 100%; box-shadow: none; transition: none; }
   .hero-flag { display: none; }
   .hero-inner { padding: 28px 16px 32px; }
 }
+
+/* Early season (basketball): rankings / projections not started yet */
+.hold-card { padding: 22px 26px; margin: 18px 0 24px; border-left: 5px solid var(--md-gold); }
+.hold-card h2 { font-family: "Barlow Condensed", sans-serif; font-size: 30px; font-weight: 800; margin: 4px 0 8px; }
+.hold-card p { margin: 0; color: var(--muted); max-width: 70ch; line-height: 1.55; }
+.hold-card a { color: inherit; font-weight: 600; }

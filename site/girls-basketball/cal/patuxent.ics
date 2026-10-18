@@ -1,0 +1,177 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Patuxent Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-04-huntingtown-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T181500
+DTEND;TZID=America/New_York:20261204T201500
+SUMMARY:Girls Basketball: Patuxent at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-patuxent-thomas-stone-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T170000
+DTEND;TZID=America/New_York:20261207T190000
+SUMMARY:Girls Basketball: Thomas Stone at Patuxent
+LOCATION:Patuxent
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-patuxent-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T181500
+DTEND;TZID=America/New_York:20261211T201500
+SUMMARY:Girls Basketball: Calvert at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgame581640fc0\nTickets: https://gofan.co/event/6802817
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgame581640fc0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-patuxent-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T170000
+DTEND;TZID=America/New_York:20261214T190000
+SUMMARY:Girls Basketball: Henry E. Lackey at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam4ea3dafd9d\nTickets: https://gofan.co/event/6802816
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam4ea3dafd9d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-northern-c-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T181500
+DTEND;TZID=America/New_York:20261218T201500
+SUMMARY:Girls Basketball: Patuxent at Northern-C
+LOCATION:Northern-C
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam1ab8e4de77
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam1ab8e4de77
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-surrattsville-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261222T180000
+DTEND;TZID=America/New_York:20261222T200000
+SUMMARY:Girls Basketball: Patuxent at Surrattsville
+LOCATION:Surrattsville
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsurrattsville-high-school-clinton-md%2Fgam184fcf99f3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsurrattsville-high-school-clinton-md%2Fgam184fcf99f3
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-westlake-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T181500
+DTEND;TZID=America/New_York:20270108T201500
+SUMMARY:Girls Basketball: Patuxent at Westlake
+LOCATION:Westlake
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam319debb429
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam319debb429
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-patuxent-la-plata-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270113T181500
+DTEND;TZID=America/New_York:20270113T201500
+SUMMARY:Girls Basketball: La Plata at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam23c74adac7\nTickets: https://gofan.co/event/6802818
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam23c74adac7
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-patuxent-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T181500
+DTEND;TZID=America/New_York:20270115T201500
+SUMMARY:Girls Basketball: Northern-C at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam675c86691c\nTickets: https://gofan.co/event/6802819
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam675c86691c
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-henry-e-lackey-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270120T181500
+DTEND;TZID=America/New_York:20270120T201500
+SUMMARY:Girls Basketball: Patuxent at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam878c28c42d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam878c28c42d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-patuxent-chopticon-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T181500
+DTEND;TZID=America/New_York:20270122T201500
+SUMMARY:Girls Basketball: Chopticon at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam9e0a38a388\nTickets: https://gofan.co/event/6802820
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam9e0a38a388
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-patuxent-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270127T181500
+DTEND;TZID=America/New_York:20270127T201500
+SUMMARY:Girls Basketball: McDonough at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam809c6801b0\nTickets: https://gofan.co/event/6802821
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam809c6801b0
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-calvert-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T181500
+DTEND;TZID=America/New_York:20270129T201500
+SUMMARY:Girls Basketball: Patuxent at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-north-point-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T181500
+DTEND;TZID=America/New_York:20270203T201500
+SUMMARY:Girls Basketball: Patuxent at North Point
+LOCATION:North Point
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-point-high-school-waldorf-md%2Fgame1513c8c9b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-point-high-school-waldorf-md%2Fgame1513c8c9b
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-patuxent-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T181500
+DTEND;TZID=America/New_York:20270205T201500
+SUMMARY:Girls Basketball: Huntingtown at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgamdab934ed38\nTickets: https://gofan.co/event/6802822
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgamdab934ed38
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-patuxent-st-charles-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T181500
+DTEND;TZID=America/New_York:20270210T201500
+SUMMARY:Girls Basketball: St. Charles at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgamdc37b1c559\nTickets: https://gofan.co/event/6802823
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgamdc37b1c559
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-great-mills-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T181500
+DTEND;TZID=America/New_York:20270212T201500
+SUMMARY:Girls Basketball: Patuxent at Great Mills
+LOCATION:Great Mills
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-leonardtown-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T181500
+DTEND;TZID=America/New_York:20270219T201500
+SUMMARY:Girls Basketball: Patuxent at Leonardtown
+LOCATION:Leonardtown
+END:VEVENT
+END:VCALENDAR

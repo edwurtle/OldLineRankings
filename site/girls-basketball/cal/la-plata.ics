@@ -1,0 +1,171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:La Plata Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-04-westlake-la-plata-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T181500
+DTEND;TZID=America/New_York:20261204T201500
+SUMMARY:Girls Basketball: La Plata at Westlake
+LOCATION:Westlake
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgamdf7601d13b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgamdf7601d13b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-la-plata-colonial-beach-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T183000
+DTEND;TZID=America/New_York:20261214T203000
+SUMMARY:Girls Basketball: Colonial Beach at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam399814dab6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam399814dab6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-la-plata-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T170000
+DTEND;TZID=America/New_York:20261216T190000
+SUMMARY:Girls Basketball: Henry E. Lackey at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf03f0cd142
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf03f0cd142
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-westmoreland-la-plata-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261219T160000
+DTEND;TZID=America/New_York:20261219T180000
+SUMMARY:Girls Basketball: La Plata at Westmoreland
+LOCATION:Westmoreland
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-thomas-stone-la-plata-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T180000
+DTEND;TZID=America/New_York:20270108T200000
+SUMMARY:Girls Basketball: La Plata at Thomas Stone
+LOCATION:Thomas Stone
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgame34c209b3d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgame34c209b3d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-patuxent-la-plata-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270113T181500
+DTEND;TZID=America/New_York:20270113T201500
+SUMMARY:Girls Basketball: La Plata at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam23c74adac7\nTickets: https://gofan.co/event/6802818
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam23c74adac7
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-la-plata-st-charles-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T181500
+DTEND;TZID=America/New_York:20270115T201500
+SUMMARY:Girls Basketball: St. Charles at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam1ad13dd1b9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam1ad13dd1b9
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-la-plata-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270120T180000
+DTEND;TZID=America/New_York:20270120T200000
+SUMMARY:Girls Basketball: Northern-C at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamd13857e1ee
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamd13857e1ee
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-la-plata-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T181500
+DTEND;TZID=America/New_York:20270122T201500
+SUMMARY:Girls Basketball: Calvert at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgama5c99be61d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgama5c99be61d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-leonardtown-la-plata-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270127T181500
+DTEND;TZID=America/New_York:20270127T201500
+SUMMARY:Girls Basketball: La Plata at Leonardtown
+LOCATION:Leonardtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-la-plata-westlake-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T181500
+DTEND;TZID=America/New_York:20270129T201500
+SUMMARY:Girls Basketball: Westlake at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam56654abcd6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam56654abcd6
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-la-plata-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T181500
+DTEND;TZID=America/New_York:20270203T201500
+SUMMARY:Girls Basketball: Huntingtown at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgama9730eb5af
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgama9730eb5af
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-la-plata-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T181500
+DTEND;TZID=America/New_York:20270205T201500
+SUMMARY:Girls Basketball: McDonough at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf7b3310bf9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamf7b3310bf9
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-great-mills-la-plata-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T181500
+DTEND;TZID=America/New_York:20270210T201500
+SUMMARY:Girls Basketball: La Plata at Great Mills
+LOCATION:Great Mills
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-henry-e-lackey-la-plata-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T181500
+DTEND;TZID=America/New_York:20270212T201500
+SUMMARY:Girls Basketball: La Plata at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam992f198490
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam992f198490
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-la-plata-chopticon-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270217T181500
+DTEND;TZID=America/New_York:20270217T201500
+SUMMARY:Girls Basketball: Chopticon at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam816f7c5b91
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgam816f7c5b91
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-north-point-la-plata-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T190000
+DTEND;TZID=America/New_York:20270219T210000
+SUMMARY:Girls Basketball: La Plata at North Point
+LOCATION:North Point
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-point-high-school-waldorf-md%2Fgam3fef1ef3cf
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-point-high-school-waldorf-md%2Fgam3fef1ef3cf
+END:VEVENT
+END:VCALENDAR

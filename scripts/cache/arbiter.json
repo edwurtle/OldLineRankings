@@ -1,0 +1,1171 @@
+{
+ "ACCE": {
+  "boys": "7817473",
+  "girls": "7817474",
+  "id": "27288",
+  "name": "ACCE High School"
+ },
+ "Aberdeen": {
+  "boys": "7238553",
+  "girls": "4265778",
+  "id": "39",
+  "name": "Aberdeen High School"
+ },
+ "Albert Einstein": {
+  "boys": "6559737",
+  "girls": "6559739",
+  "id": "261",
+  "name": "Einstein HS"
+ },
+ "Allegany": {
+  "boys": "7173092",
+  "girls": "7526974",
+  "id": "352",
+  "name": "Allegany High School"
+ },
+ "Annapolis": {
+  "boys": "7600020",
+  "girls": "7600018",
+  "id": "604",
+  "name": null
+ },
+ "Arundel": {
+  "boys": "7600103",
+  "girls": "7708443",
+  "id": "840",
+  "name": "Arundel High School"
+ },
+ "Atholton": {
+  "boys": "6572147",
+  "girls": "6572149",
+  "id": "924",
+  "name": "Atholton High School"
+ },
+ "Baltimore City College": {
+  "boys": "7016213",
+  "girls": "7016215",
+  "id": "1153",
+  "name": null
+ },
+ "Baltimore Polytechnic": {
+  "boys": "7016248",
+  "girls": "7016250",
+  "id": "1154",
+  "name": "Baltimore Polytechnic Institute"
+ },
+ "Bel Air": {
+  "boys": "7598446",
+  "girls": "7580690",
+  "id": "1427",
+  "name": "Bel Air High School"
+ },
+ "Benjamin Franklin": {
+  "boys": "7016362",
+  "girls": "7016364",
+  "id": "36522",
+  "name": "Benjamin Franklin High School @ Masonville Cove"
+ },
+ "Bethesda-CC": {
+  "boys": "7156260",
+  "girls": "7156263",
+  "id": "1747",
+  "name": "Bethesda-Chevy Chase HS"
+ },
+ "Bladensburg": {
+  "boys": "7708639",
+  "girls": "7339061",
+  "id": "1973",
+  "name": "Bladensburg High School"
+ },
+ "Bohemia Manor": {
+  "boys": "7611784",
+  "girls": "7611785",
+  "id": "2121",
+  "name": "Bohemia Manor High School"
+ },
+ "Boonsboro": {
+  "boys": "7173032",
+  "girls": "7173033",
+  "id": "2188",
+  "name": "Boonsboro High School"
+ },
+ "Bowie": {
+  "boys": "7708648",
+  "girls": "6012043",
+  "id": "2249",
+  "name": "Bowie High School"
+ },
+ "Broadneck": {
+  "boys": "4061372",
+  "girls": "7611787",
+  "id": "2500",
+  "name": "Broadneck High School"
+ },
+ "Brunswick": {
+  "boys": "7173130",
+  "girls": "7173133",
+  "id": "2621",
+  "name": "Brunswick High School"
+ },
+ "C. Milton Wright": {
+  "boys": "6542110",
+  "girls": "7598451",
+  "id": "2862",
+  "name": "C Milton Wright High School"
+ },
+ "CMIT - North": {
+  "id": "52886",
+  "name": "CMIT Academy North High School"
+ },
+ "CMIT - South": {
+  "id": "53957",
+  "name": "CMIT South"
+ },
+ "Calvert": {
+  "boys": "7708695",
+  "girls": "7600132",
+  "id": "3029",
+  "name": "Calvert High School"
+ },
+ "Cambridge-South Dorchester": {
+  "boys": "7222933",
+  "girls": "7222934",
+  "id": "3058",
+  "name": "Cambridge S Dorchester High School"
+ },
+ "Carver A&T": {
+  "boys": "7351348",
+  "girls": "7600169",
+  "id": "3405",
+  "name": null
+ },
+ "Carver Vocational-Technical": {
+  "boys": "7016296",
+  "girls": "7016298",
+  "id": "3414",
+  "name": "Carver Vocational-Technical High School"
+ },
+ "Catoctin": {
+  "boys": "4380470",
+  "girls": "6297239",
+  "id": "3527",
+  "name": "Catoctin High School"
+ },
+ "Catonsville": {
+  "boys": "7600176",
+  "girls": "7600177",
+  "id": "3530",
+  "name": "Catonsville High School"
+ },
+ "Centennial": {
+  "boys": "7158774",
+  "girls": "7158777",
+  "id": "3601",
+  "name": "Centennial High School"
+ },
+ "Central": {
+  "boys": "7436265",
+  "girls": "11127570",
+  "id": "3728",
+  "name": "Central High School"
+ },
+ "Century": {
+  "boys": "7600181",
+  "girls": "7173230",
+  "id": "3828",
+  "name": "Century High School"
+ },
+ "Charles H. Flowers": {
+  "boys": "7710996",
+  "girls": "11791755",
+  "id": "2869",
+  "name": "C.H. Flowers High School"
+ },
+ "Chesapeake Science Point": {
+  "boys": "7600189",
+  "id": "27353",
+  "name": "Chesapeake Science Point"
+ },
+ "Chesapeake-AA": {
+  "boys": "8639956",
+  "girls": "8384973",
+  "id": "4068",
+  "name": "Chesapeake High School, Pasadena"
+ },
+ "Chesapeake-B": {
+  "boys": "7600187",
+  "girls": "7600188",
+  "id": "4069",
+  "name": "Chesapeake High School"
+ },
+ "Chopticon": {
+  "boys": "7709088",
+  "girls": "7600204",
+  "id": "4197",
+  "name": "Chopticon High School"
+ },
+ "Clarksburg": {
+  "boys": "7156509",
+  "girls": "7156514",
+  "id": "27333",
+  "name": "Clarksburg HS"
+ },
+ "Clear Spring": {
+  "boys": "7173061",
+  "girls": "7173062",
+  "id": "4492",
+  "name": "Clear Spring High School"
+ },
+ "Col. Zadok Magruder": {
+  "boys": "7158026",
+  "girls": "7158028",
+  "id": "4655",
+  "name": "Col Zadok Magruder High School"
+ },
+ "College Park Academy": {
+  "id": null,
+  "name": null
+ },
+ "Colonel Richardson": {
+  "boys": "7239686",
+  "girls": "7239687",
+  "id": "4737",
+  "name": "Colonel Richardson High School"
+ },
+ "Coppin Academy": {
+  "boys": "7239613",
+  "girls": "7238575",
+  "id": "34855",
+  "name": "Coppin Academy"
+ },
+ "Crisfield": {
+  "boys": "7747977",
+  "girls": "7747978",
+  "id": "27418",
+  "name": "Crisfield High School"
+ },
+ "Crofton": {
+  "id": "118249",
+  "name": "Crofton High School"
+ },
+ "Crossland": {
+  "boys": "7436274",
+  "girls": "11780768",
+  "id": "5346",
+  "name": "Crossland High School"
+ },
+ "Damascus": {
+  "boys": "7156518",
+  "girls": "7156522",
+  "id": "5519",
+  "name": "Damascus"
+ },
+ "Digital Harbor": {
+  "boys": "7016304",
+  "girls": "7016306",
+  "id": "27381",
+  "name": "Digital Harbor High School"
+ },
+ "Dr. Henry A. Wise": {
+  "boys": "7718482",
+  "girls": "8716938",
+  "id": "6120",
+  "name": null
+ },
+ "Dulaney": {
+  "boys": "7600296",
+  "girls": "7600294",
+  "id": "6179",
+  "name": "Dulaney High School"
+ },
+ "Dundalk": {
+  "boys": "7600302",
+  "girls": "7600303",
+  "id": "6201",
+  "name": "Dundalk High School"
+ },
+ "Duval": {
+  "boys": "913984",
+  "girls": "7710849",
+  "id": "6251",
+  "name": "Duval High School"
+ },
+ "Eastern Tech": {
+  "boys": "7266281",
+  "girls": "7266283",
+  "id": "6566",
+  "name": "Eastern Tech High School"
+ },
+ "Easton": {
+  "boys": "7222921",
+  "girls": "7222939",
+  "id": "6581",
+  "name": "Easton High School"
+ },
+ "Edgewood": {
+  "boys": "7278783",
+  "girls": "7278785",
+  "id": "6652",
+  "name": "Edgewood High School"
+ },
+ "Edmondson-Westside": {
+  "boys": "7016221",
+  "girls": "7016223",
+  "id": "6694",
+  "name": "Edmondson-Westside High School"
+ },
+ "Eleanor Roosevelt": {
+  "boys": "7710940",
+  "girls": "7339057",
+  "id": "6790",
+  "name": "Eleanor Roosevelt High School"
+ },
+ "Elkton": {
+  "boys": "7600340",
+  "girls": "7600342",
+  "id": "6862",
+  "name": "Elkton High School"
+ },
+ "Fairmont Heights": {
+  "boys": "7589967",
+  "girls": "7710955",
+  "id": "7270",
+  "name": "Fairmont Heights Sr High School"
+ },
+ "Fallston": {
+  "boys": "7598456",
+  "girls": "7598457",
+  "id": "7374",
+  "name": "Fallston High School"
+ },
+ "Forest Park": {
+  "boys": "7016357",
+  "girls": "7016359",
+  "id": "7710",
+  "name": "Forest Park High School"
+ },
+ "Fort Hill": {
+  "boys": "7173227",
+  "girls": "7526979",
+  "id": "7770",
+  "name": "Fort Hill High School"
+ },
+ "Francis Scott Key": {
+  "boys": "5758898",
+  "girls": "5329453",
+  "id": "7872",
+  "name": "Francis Scott Key High School"
+ },
+ "Franklin": {
+  "boys": "7600404",
+  "girls": "7317333",
+  "id": "7919",
+  "name": "Franklin High School"
+ },
+ "Frederick": {
+  "boys": "7173208",
+  "girls": "7173209",
+  "id": "7985",
+  "name": null
+ },
+ "Frederick Douglass-B": {
+  "boys": "7016269",
+  "girls": "7016271",
+  "id": "6077",
+  "name": "Frederick Douglass High School - BC"
+ },
+ "Frederick Douglass-PG": {
+  "boys": "7600445",
+  "girls": "7709313",
+  "id": "7980",
+  "name": "Frederick Douglass High School - PG"
+ },
+ "Friendly": {
+  "boys": "7711016",
+  "girls": "11780771",
+  "id": "8075",
+  "name": "Friendly Senior High School"
+ },
+ "Gaithersburg": {
+  "boys": "7156539",
+  "girls": "7156544",
+  "id": "8185",
+  "name": "Gaithersburg High School"
+ },
+ "Glen Burnie": {
+  "boys": "7600518",
+  "girls": "7339055",
+  "id": "8553",
+  "name": "Glen Burnie High School"
+ },
+ "Glenelg": {
+  "boys": "7158797",
+  "girls": "7158812",
+  "id": "8593",
+  "name": "Glenelg High School"
+ },
+ "Gov. Thomas Johnson": {
+  "boys": "7173161",
+  "girls": "7173162",
+  "id": "8744",
+  "name": null
+ },
+ "Great Mills": {
+  "boys": "7266366",
+  "girls": "7266368",
+  "id": "8945",
+  "name": "Great Mills High School"
+ },
+ "Green Street Academy": {
+  "boys": "7257209",
+  "girls": "7257211",
+  "id": "45754",
+  "name": "Green Street Academy"
+ },
+ "Guilford Park": {
+  "id": "124122",
+  "name": "Guilford Park High School"
+ },
+ "Gwynn Park": {
+  "boys": "7449727",
+  "girls": "7449728",
+  "id": "9234",
+  "name": "Gwynn Park High School"
+ },
+ "Hammond": {
+  "boys": "7158821",
+  "girls": "7158938",
+  "id": "9359",
+  "name": "Hammond High School"
+ },
+ "Hancock": {
+  "boys": "7173071",
+  "girls": "7173072",
+  "id": "9396",
+  "name": "Hancock High School"
+ },
+ "Harford Tech": {
+  "boys": "3909077",
+  "girls": "8087112",
+  "id": "9476",
+  "name": "Harford Tech High School"
+ },
+ "Havre de Grace": {
+  "boys": "7598468",
+  "girls": "7436289",
+  "id": "9670",
+  "name": "Havre De Grace High School"
+ },
+ "Henry E. Lackey": {
+  "boys": "7712712",
+  "girls": "7712713",
+  "id": "12072",
+  "name": "Lackey High School"
+ },
+ "Hereford": {
+  "boys": "6554978",
+  "girls": "4491572",
+  "id": "9854",
+  "name": "Hereford High School"
+ },
+ "High Point": {
+  "boys": "7711291",
+  "girls": "11121324",
+  "id": "9997",
+  "name": "High Point High School"
+ },
+ "Howard": {
+  "boys": "7158804",
+  "girls": "7158807",
+  "id": "10540",
+  "name": "Howard High School"
+ },
+ "Huntingtown": {
+  "boys": "7238611",
+  "girls": "7600739",
+  "id": "27285",
+  "name": "Huntingtown High School"
+ },
+ "International HS at Largo": {
+  "id": "51325",
+  "name": "International High School @ Langley Park"
+ },
+ "James Hubert Blake": {
+  "boys": "7156482",
+  "girls": "7156489",
+  "id": "11100",
+  "name": "James Hubert Blake H"
+ },
+ "James M. Bennett": {
+  "boys": "7600759",
+  "girls": "7600761",
+  "id": "11106",
+  "name": "James M Bennett Sr High School"
+ },
+ "John F. Kennedy": {
+  "boys": "7156557",
+  "girls": "7156561",
+  "id": "11330",
+  "name": null
+ },
+ "Joppatowne": {
+  "boys": "7300918",
+  "girls": "7300920",
+  "id": "11457",
+  "name": "Joppatowne High School"
+ },
+ "Kent County": {
+  "boys": "7600774",
+  "girls": "7747991",
+  "id": "11695",
+  "name": "Kent County High School"
+ },
+ "Kent Island": {
+  "boys": "7244558",
+  "girls": "7244560",
+  "id": "11697",
+  "name": "Kent Island High School"
+ },
+ "Kenwood": {
+  "boys": "7600781",
+  "girls": "7600782",
+  "id": "11715",
+  "name": "Kenwood High School"
+ },
+ "La Plata": {
+  "boys": "7237829",
+  "girls": "7713290",
+  "id": "12032",
+  "name": "La Plata High School"
+ },
+ "Lake Clifton": {
+  "boys": "7016280",
+  "girls": "7016282",
+  "id": "12137",
+  "name": "Lake Clifton (REACH!) High School"
+ },
+ "Lansdowne": {
+  "boys": "7321880",
+  "girls": "7321881",
+  "id": "12398",
+  "name": "Lansdowne High School"
+ },
+ "Largo": {
+  "boys": "7733996",
+  "girls": "7600807",
+  "id": "12428",
+  "name": null
+ },
+ "Laurel": {
+  "boys": "8031677",
+  "girls": "7600819",
+  "id": "12459",
+  "name": "Laurel High School"
+ },
+ "Leonardtown": {
+  "boys": "7713299",
+  "girls": "7713301",
+  "id": "12678",
+  "name": "Leonardtown High School"
+ },
+ "Liberty": {
+  "boys": "4622079",
+  "girls": "7600824",
+  "id": "12783",
+  "name": "Liberty High School"
+ },
+ "Linganore": {
+  "boys": "7173167",
+  "girls": "7173168",
+  "id": "12991",
+  "name": "Linganore High School"
+ },
+ "Loch Raven": {
+  "boys": "7600832",
+  "girls": "7600833",
+  "id": "13099",
+  "name": null
+ },
+ "Long Reach": {
+  "boys": "7158941",
+  "girls": "7158944",
+  "id": "13180",
+  "name": "Long Reach High School"
+ },
+ "Manchester Valley": {
+  "boys": "6918555",
+  "girls": "7173212",
+  "id": "36451",
+  "name": "Manchester Valley High School"
+ },
+ "Mardela": {
+  "boys": "7747994",
+  "girls": "7180456",
+  "id": "13803",
+  "name": "Mardela High School"
+ },
+ "Marriotts Ridge": {
+  "boys": "7158940",
+  "girls": "7158946",
+  "id": "27356",
+  "name": "Marriotts Ridge High School"
+ },
+ "McDonough": {
+  "id": null,
+  "name": null
+ },
+ "Meade": {
+  "boys": "7608442",
+  "girls": "7608443",
+  "id": "14314",
+  "name": "Meade High School"
+ },
+ "Mergenthaler": {
+  "boys": "7016254",
+  "girls": "7016256",
+  "id": "14484",
+  "name": "Mergenthaler Vocational-Technical High School"
+ },
+ "Middletown": {
+  "boys": "5538386",
+  "girls": "7173140",
+  "id": "14644",
+  "name": null
+ },
+ "Milford Mill Academy": {
+  "boys": "7317336",
+  "girls": "7608454",
+  "id": "14727",
+  "name": "Milford Mill Academy"
+ },
+ "Montgomery Blair": {
+  "boys": "7153310",
+  "girls": "7153437",
+  "id": "15054",
+  "name": "Blair HS"
+ },
+ "Mount Hebron": {
+  "boys": "7158909",
+  "girls": "7158935",
+  "id": "15289",
+  "name": "Mount Hebron High School"
+ },
+ "Mountain Ridge": {
+  "boys": "7173218",
+  "girls": "7254086",
+  "id": "27389",
+  "name": "Mountain Ridge High School"
+ },
+ "National Academy Foundation (NAF)": {
+  "boys": "7016418",
+  "girls": "7016420",
+  "id": "36757",
+  "name": "National Academy Foundation"
+ },
+ "New Town": {
+  "boys": "7317331",
+  "girls": "7317332",
+  "id": "27359",
+  "name": "New Town High School"
+ },
+ "North Caroline": {
+  "boys": "7271128",
+  "girls": "7271129",
+  "id": "16138",
+  "name": "North Caroline High School"
+ },
+ "North County": {
+  "boys": "7237803",
+  "girls": "7608393",
+  "id": "16170",
+  "name": "North County High School"
+ },
+ "North Dorchester": {
+  "boys": "7271134",
+  "girls": "7271135",
+  "id": "16187",
+  "name": "North Dorchester High School"
+ },
+ "North East-C": {
+  "boys": "7608395",
+  "girls": "7608406",
+  "id": "16190",
+  "name": null
+ },
+ "North Hagerstown": {
+  "boys": "7173076",
+  "girls": "7173077",
+  "id": "16214",
+  "name": "North Hagerstown High School"
+ },
+ "North Harford": {
+  "boys": "3909229",
+  "girls": "7598471",
+  "id": "16218",
+  "name": "North Harford High School"
+ },
+ "North Point": {
+  "boys": "7716808",
+  "girls": "7716809",
+  "id": "27281",
+  "name": "North Point High School"
+ },
+ "Northeast-AA": {
+  "boys": "7608409",
+  "girls": "7608411",
+  "id": "16438",
+  "name": null
+ },
+ "Northern-C": {
+  "boys": "7684414",
+  "girls": "7716834",
+  "id": "16470",
+  "name": null
+ },
+ "Northern-G": {
+  "boys": "7173249",
+  "girls": "7173250",
+  "id": "16208",
+  "name": null
+ },
+ "Northwest": {
+  "boys": "7158067",
+  "girls": "7158070",
+  "id": "16600",
+  "name": "Northwest HS"
+ },
+ "Northwestern": {
+  "boys": "7716812",
+  "girls": "7592293",
+  "id": "16607",
+  "name": "Northwestern High School"
+ },
+ "Northwood": {
+  "boys": "7158073",
+  "girls": "7158076",
+  "id": "27338",
+  "name": "Northwood HS"
+ },
+ "Oakdale": {
+  "boys": "7173127",
+  "girls": "7173144",
+  "id": "36931",
+  "name": "Oakdale High School"
+ },
+ "Oakland Mills": {
+  "boys": "7158900",
+  "girls": "7158903",
+  "id": "16844",
+  "name": "Oakland Mills High School"
+ },
+ "Old Mill": {
+  "boys": "7317339",
+  "girls": "7717088",
+  "id": "16992",
+  "name": "Old Mill Senior High School"
+ },
+ "Overlea": {
+  "boys": "7321885",
+  "girls": "7321886",
+  "id": "17317",
+  "name": "Overlea High School"
+ },
+ "Owings Mills": {
+  "boys": "7608188",
+  "girls": "573729",
+  "id": "17341",
+  "name": "Owings Mills High School"
+ },
+ "Oxon Hill": {
+  "boys": "7207669",
+  "girls": "8787452",
+  "id": "17363",
+  "name": "Oxon Hill High School"
+ },
+ "Paint Branch": {
+  "boys": "7158078",
+  "girls": "7158080",
+  "id": "17417",
+  "name": "Paint Branch HS"
+ },
+ "Parkdale": {
+  "boys": "8644492",
+  "girls": "11121335",
+  "id": "17559",
+  "name": "Parkdale High School"
+ },
+ "Parkside": {
+  "boys": "7608124",
+  "girls": "7608126",
+  "id": "17578",
+  "name": "Parkside High School"
+ },
+ "Parkville": {
+  "boys": "7608132",
+  "girls": "7608135",
+  "id": "17594",
+  "name": "Parkville High School"
+ },
+ "Patapsco": {
+  "boys": "7608138",
+  "girls": "7608139",
+  "id": "17639",
+  "name": "Patapsco High School"
+ },
+ "Patterson": {
+  "boys": "7016233",
+  "girls": "7016235",
+  "id": "17670",
+  "name": null
+ },
+ "Patterson Mill": {
+  "boys": "4437507",
+  "girls": "7598453",
+  "id": "37097",
+  "name": "Patterson Mill High School"
+ },
+ "Patuxent": {
+  "boys": "7608148",
+  "girls": "7608149",
+  "id": "17675",
+  "name": "Patuxent High School"
+ },
+ "Paul Laurence Dunbar": {
+  "boys": "7016207",
+  "girls": "7016209",
+  "id": "6190",
+  "name": "Paul Laurence Dunbar High School"
+ },
+ "Perry Hall": {
+  "boys": "7266269",
+  "girls": "7266271",
+  "id": "17894",
+  "name": "Perry Hall High School"
+ },
+ "Perryville": {
+  "boys": "7608167",
+  "girls": "7608169",
+  "id": "17920",
+  "name": "Perryville High School"
+ },
+ "Pikesville": {
+  "boys": "7452631",
+  "girls": "7393726",
+  "id": "18062",
+  "name": "Pikesville High School"
+ },
+ "Pocomoke": {
+  "boys": "7608171",
+  "girls": "7717560",
+  "id": "18313",
+  "name": "Pocomoke High School"
+ },
+ "Poolesville": {
+  "boys": "7158084",
+  "girls": "7158087",
+  "id": "18371",
+  "name": "Poolesville HS"
+ },
+ "Potomac": {
+  "boys": "7232267",
+  "girls": "11121336",
+  "id": "18474",
+  "name": "Potomac High School"
+ },
+ "Queen Anne's": {
+  "boys": "7271109",
+  "girls": "7271110",
+  "id": "18730",
+  "name": "Queen Anne's County High School"
+ },
+ "Quince Orchard": {
+  "boys": "7158090",
+  "girls": "7158094",
+  "id": "27335",
+  "name": "Quince Orchard HS"
+ },
+ "Randallstown": {
+  "boys": "7308691",
+  "girls": "7308692",
+  "id": "18847",
+  "name": "Randallstown High School"
+ },
+ "Reginald Lewis": {
+  "boys": "7016390",
+  "girls": "7016392",
+  "id": "45035",
+  "name": "Reginald F. Lewis High School"
+ },
+ "Reservoir": {
+  "boys": "7158833",
+  "girls": "7158837",
+  "id": "27311",
+  "name": "Reservoir High School"
+ },
+ "Richard Montgomery": {
+  "boys": "7158058",
+  "girls": "7158063",
+  "id": "19102",
+  "name": "Richard Montgomery HS"
+ },
+ "Rising Sun": {
+  "boys": "7608064",
+  "girls": "7608065",
+  "id": "19255",
+  "name": "Rising Sun High School"
+ },
+ "River Hill": {
+  "boys": "7158815",
+  "girls": "7158818",
+  "id": "19276",
+  "name": "River Hill High School"
+ },
+ "Rockville": {
+  "boys": "7158100",
+  "girls": "7158104",
+  "id": "27331",
+  "name": "Rockville HS"
+ },
+ "SEED School": {
+  "id": "41160",
+  "name": "The SEED School of Maryland"
+ },
+ "Seneca Valley": {
+  "boys": "7158106",
+  "girls": "7158111",
+  "id": "20679",
+  "name": "Seneca Valley HS"
+ },
+ "Severn Run": {
+  "id": "121387",
+  "name": "Severn Run High School"
+ },
+ "Severna Park": {
+  "boys": "5221668",
+  "girls": "7604439",
+  "id": "20729",
+  "name": null
+ },
+ "Sherwood": {
+  "boys": "7158115",
+  "girls": "7158118",
+  "id": "20921",
+  "name": "Sherwood HS"
+ },
+ "Smithsburg": {
+  "boys": "7209058",
+  "girls": "7209060",
+  "id": "21142",
+  "name": "Smithsburg High School"
+ },
+ "Snow Hill": {
+  "boys": "7604442",
+  "girls": "7748016",
+  "id": "21166",
+  "name": "Snow Hill High School"
+ },
+ "South Carroll": {
+  "boys": "7604446",
+  "girls": "7604444",
+  "id": "21278",
+  "name": "South Carroll High School"
+ },
+ "South Hagerstown": {
+  "boys": "7209069",
+  "girls": "7209071",
+  "id": "21331",
+  "name": "South Hagerstown High School"
+ },
+ "South River": {
+  "boys": "7604449",
+  "girls": "7604450",
+  "id": "21443",
+  "name": "South River High School"
+ },
+ "Southern-AA": {
+  "boys": "7717914",
+  "girls": "7608021",
+  "id": "21575",
+  "name": "Southern Senior High School"
+ },
+ "Southern-G": {
+  "boys": "7526987",
+  "girls": "7526988",
+  "id": "21552",
+  "name": null
+ },
+ "Southwestern": {
+  "boys": "5216288",
+  "girls": "7016318",
+  "id": "21654",
+  "name": null
+ },
+ "Sparrows Point": {
+  "boys": "7607965",
+  "girls": "7607966",
+  "id": "21685",
+  "name": "Sparrows Point High School"
+ },
+ "Springbrook": {
+  "boys": "7158123",
+  "girls": "7158126",
+  "id": "21767",
+  "name": "Springbrook HS"
+ },
+ "St. Charles": {
+  "boys": "7718008",
+  "girls": "7718009",
+  "id": "40621",
+  "name": "St. Charles High School"
+ },
+ "St. Michael's": {
+  "boys": "8895079",
+  "girls": "8895081",
+  "id": "20116",
+  "name": null
+ },
+ "Stephen Decatur": {
+  "boys": "7604409",
+  "girls": "7748021",
+  "id": "22514",
+  "name": "Stephen Decatur High School"
+ },
+ "Suitland": {
+  "boys": "8081845",
+  "girls": "7718115",
+  "id": "22687",
+  "name": "Suitland High School"
+ },
+ "Surrattsville": {
+  "boys": "7257295",
+  "girls": "7257297",
+  "id": "22792",
+  "name": "Surrattsville High School"
+ },
+ "Thomas S. Wootton": {
+  "boys": "7158398",
+  "girls": "7158401",
+  "id": "23354",
+  "name": "Wootton HS"
+ },
+ "Thomas Stone": {
+  "boys": "7594387",
+  "girls": "7718242",
+  "id": "23356",
+  "name": null
+ },
+ "Towson": {
+  "boys": "7604389",
+  "girls": "7604390",
+  "id": "23578",
+  "name": "Towson High School"
+ },
+ "Tuscarora": {
+  "boys": "7173200",
+  "girls": "7173201",
+  "id": "23884",
+  "name": "Tuscarora High School-MD"
+ },
+ "Urbana": {
+  "boys": "7173189",
+  "girls": "7173190",
+  "id": "24156",
+  "name": "Urbana High School"
+ },
+ "Walkersville": {
+  "boys": "4926108",
+  "girls": "7173146",
+  "id": "24622",
+  "name": "Walkersville High School"
+ },
+ "Walt Whitman": {
+  "boys": "7158392",
+  "girls": "7158394",
+  "id": "24670",
+  "name": null
+ },
+ "Walter Johnson": {
+  "boys": "7156550",
+  "girls": "7156552",
+  "id": "24677",
+  "name": "Walter Johnson HS"
+ },
+ "Washington": {
+  "boys": "7748025",
+  "girls": "7748023",
+  "id": "24833",
+  "name": "Washington High School"
+ },
+ "Watkins Mill": {
+  "boys": "7158139",
+  "girls": "7158141",
+  "id": "24932",
+  "name": "Watkins Mill HS"
+ },
+ "Western Tech": {
+  "boys": "7599484",
+  "girls": "7604292",
+  "id": "25476",
+  "name": "Western School Of Technology"
+ },
+ "Western-B": {
+  "boys": "9710971",
+  "girls": "7016241",
+  "id": "25457",
+  "name": "Western High School"
+ },
+ "Westlake": {
+  "boys": "7718430",
+  "girls": "7718431",
+  "id": "25509",
+  "name": "Westlake High School"
+ },
+ "Westminster": {
+  "boys": "7173158",
+  "girls": "11793297",
+  "id": "25531",
+  "name": "Westminster Senior High School"
+ },
+ "Wheaton": {
+  "boys": "7158145",
+  "girls": "7158386",
+  "id": "25638",
+  "name": "Wheaton HS"
+ },
+ "Wicomico": {
+  "boys": "7604358",
+  "girls": "7604360",
+  "id": "25799",
+  "name": "Wicomico High School"
+ },
+ "Wilde Lake": {
+  "boys": "7158825",
+  "girls": "7158830",
+  "id": "25819",
+  "name": "Wilde Lake High School"
+ },
+ "Williamsport": {
+  "boys": "7209077",
+  "girls": "7209079",
+  "id": "25905",
+  "name": "Williamsport High School"
+ },
+ "Winston Churchill": {
+  "boys": "7156497",
+  "girls": "7156504",
+  "id": "26099",
+  "name": "Winston Churchill HS"
+ },
+ "Winters Mill": {
+  "boys": "884583",
+  "girls": "7604370",
+  "id": "26110",
+  "name": "Winters Mill High School"
+ },
+ "Woodlawn": {
+  "boys": "7317335",
+  "girls": "8038816",
+  "id": "26222",
+  "name": "Woodlawn High School"
+ }
+}

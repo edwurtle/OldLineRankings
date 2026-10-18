@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calvert Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-21-digital-harbor-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261121T123000
+DTEND;TZID=America/New_York:20261121T143000
+SUMMARY:Girls Basketball: Calvert at Digital Harbor
+LOCATION:Digital Harbor
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-southern-aa-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261121T123000
+DTEND;TZID=America/New_York:20261121T143000
+SUMMARY:Girls Basketball: Calvert at Southern-AA
+LOCATION:Southern-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-calvert-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T181500
+DTEND;TZID=America/New_York:20261204T201500
+SUMMARY:Girls Basketball: Northern-C at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-surrattsville-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T170000
+DTEND;TZID=America/New_York:20261207T190000
+SUMMARY:Girls Basketball: Calvert at Surrattsville
+LOCATION:Surrattsville
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-calvert-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261209T181500
+DTEND;TZID=America/New_York:20261209T201500
+SUMMARY:Girls Basketball: Huntingtown at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-patuxent-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T181500
+DTEND;TZID=America/New_York:20261211T201500
+SUMMARY:Girls Basketball: Calvert at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgame581640fc0\nTickets: https://gofan.co/event/6802817
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgame581640fc0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-calvert-wilde-lake-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261217T181500
+DTEND;TZID=America/New_York:20261217T201500
+SUMMARY:Girls Basketball: Wilde Lake at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-calvert-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270106T170000
+DTEND;TZID=America/New_York:20270106T190000
+SUMMARY:Girls Basketball: McDonough at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-northern-c-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T181500
+DTEND;TZID=America/New_York:20270108T201500
+SUMMARY:Girls Basketball: Calvert at Northern-C
+LOCATION:Northern-C
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam2952f9c881
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam2952f9c881
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-calvert-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270113T181500
+DTEND;TZID=America/New_York:20270113T201500
+SUMMARY:Girls Basketball: Henry E. Lackey at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-calvert-leonardtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T181500
+DTEND;TZID=America/New_York:20270115T201500
+SUMMARY:Girls Basketball: Leonardtown at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-mcdonough-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270120T181500
+DTEND;TZID=America/New_York:20270120T201500
+SUMMARY:Girls Basketball: Calvert at McDonough
+LOCATION:McDonough
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamaa20c9f4e1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgamaa20c9f4e1
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-la-plata-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T181500
+DTEND;TZID=America/New_York:20270122T201500
+SUMMARY:Girls Basketball: Calvert at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgama5c99be61d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgama5c99be61d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-calvert-north-point-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270127T181500
+DTEND;TZID=America/New_York:20270127T201500
+SUMMARY:Girls Basketball: North Point at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-calvert-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T181500
+DTEND;TZID=America/New_York:20270129T201500
+SUMMARY:Girls Basketball: Patuxent at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-st-charles-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T181500
+DTEND;TZID=America/New_York:20270203T201500
+SUMMARY:Girls Basketball: Calvert at St. Charles
+LOCATION:St. Charles
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgamba1079f9b0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgamba1079f9b0
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-calvert-great-mills-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T181500
+DTEND;TZID=America/New_York:20270205T201500
+SUMMARY:Girls Basketball: Great Mills at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-calvert-thomas-stone-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T181500
+DTEND;TZID=America/New_York:20270210T201500
+SUMMARY:Girls Basketball: Thomas Stone at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-chopticon-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T181500
+DTEND;TZID=America/New_York:20270212T201500
+SUMMARY:Girls Basketball: Calvert at Chopticon
+LOCATION:Chopticon
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-westlake-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270217T181500
+DTEND;TZID=America/New_York:20270217T201500
+SUMMARY:Girls Basketball: Calvert at Westlake
+LOCATION:Westlake
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam94b106ab9b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam94b106ab9b
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-huntingtown-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T181500
+DTEND;TZID=America/New_York:20270219T201500
+SUMMARY:Girls Basketball: Calvert at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+END:VCALENDAR

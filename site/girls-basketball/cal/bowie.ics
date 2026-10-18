@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bowie Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-01-huntingtown-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261201T183000
+DTEND;TZID=America/New_York:20261201T203000
+SUMMARY:Girls Basketball: Bowie at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-eleanor-roosevelt-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261210T191500
+DTEND;TZID=America/New_York:20261210T211500
+SUMMARY:Girls Basketball: Bowie at Eleanor Roosevelt
+LOCATION:Eleanor Roosevelt
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-bowie-bladensburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261215T191500
+DTEND;TZID=America/New_York:20261215T211500
+SUMMARY:Girls Basketball: Bladensburg at Bowie
+LOCATION:Bowie
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamc4cfb3d0cb
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamc4cfb3d0cb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-bowie-westlake-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T190000
+DTEND;TZID=America/New_York:20261216T210000
+SUMMARY:Girls Basketball: Westlake at Bowie
+LOCATION:Bowie
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-bowie-northwestern-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T191500
+DTEND;TZID=America/New_York:20270105T211500
+SUMMARY:Girls Basketball: Northwestern at Bowie
+LOCATION:Bowie
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamf52716f03d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamf52716f03d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-bowie-charles-h-flowers-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270107T191500
+DTEND;TZID=America/New_York:20270107T211500
+SUMMARY:Girls Basketball: Charles H. Flowers at Bowie
+LOCATION:Bowie
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam65f5f90901
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam65f5f90901
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-laurel-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T191500
+DTEND;TZID=America/New_York:20270114T211500
+SUMMARY:Girls Basketball: Bowie at Laurel
+LOCATION:Laurel
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamfcb4b689e9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamfcb4b689e9
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-bowie-dr-henry-a-wise-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T191500
+DTEND;TZID=America/New_York:20270119T211500
+SUMMARY:Girls Basketball: Dr. Henry A. Wise at Bowie
+LOCATION:Bowie
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam2e65b761af
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam2e65b761af
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-high-point-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270121T191500
+DTEND;TZID=America/New_York:20270121T211500
+SUMMARY:Girls Basketball: Bowie at High Point
+LOCATION:High Point
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-bowie-great-mills-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270123T150000
+DTEND;TZID=America/New_York:20270123T170000
+SUMMARY:Girls Basketball: Great Mills at Bowie
+LOCATION:Bowie
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-parkdale-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T191500
+DTEND;TZID=America/New_York:20270126T211500
+SUMMARY:Girls Basketball: Bowie at Parkdale
+LOCATION:Parkdale
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgamdb912c6e27\nTickets: https://gofan.co/event/6714865
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgamdb912c6e27
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-duval-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270128T191500
+DTEND;TZID=America/New_York:20270128T211500
+SUMMARY:Girls Basketball: Bowie at Duval
+LOCATION:Duval
+DESCRIPTION:Tickets: https://gofan.co/event/6697116
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-bowie-eleanor-roosevelt-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270202T191500
+DTEND;TZID=America/New_York:20270202T211500
+SUMMARY:Girls Basketball: Eleanor Roosevelt at Bowie
+LOCATION:Bowie
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam1cf52ee7e5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam1cf52ee7e5
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-bladensburg-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270204T180000
+DTEND;TZID=America/New_York:20270204T200000
+SUMMARY:Girls Basketball: Bowie at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam1226f93838\nTickets: https://gofan.co/event/6956496
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam1226f93838
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-northwestern-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T191500
+DTEND;TZID=America/New_York:20270212T211500
+SUMMARY:Girls Basketball: Bowie at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam1d876a8bf9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam1d876a8bf9
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-charles-h-flowers-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T191500
+DTEND;TZID=America/New_York:20270216T211500
+SUMMARY:Girls Basketball: Bowie at Charles H. Flowers
+LOCATION:Charles H. Flowers
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-suitland-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270218T191500
+DTEND;TZID=America/New_York:20270218T211500
+SUMMARY:Girls Basketball: Bowie at Suitland
+LOCATION:Suitland
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgamade0724843
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgamade0724843
+END:VEVENT
+END:VCALENDAR

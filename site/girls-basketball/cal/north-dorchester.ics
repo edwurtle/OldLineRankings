@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:North Dorchester Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-20-arcadia-north-dorchester-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261120T160000
+DTEND;TZID=America/New_York:20261120T180000
+SUMMARY:Girls Basketball: North Dorchester at Arcadia
+LOCATION:Arcadia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-washington-north-dorchester-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T180000
+DTEND;TZID=America/New_York:20261204T200000
+SUMMARY:Girls Basketball: North Dorchester at Washington
+LOCATION:Washington
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-arcadia-north-dorchester-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T160000
+DTEND;TZID=America/New_York:20261214T180000
+SUMMARY:Girls Basketball: North Dorchester at Arcadia
+LOCATION:Arcadia
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Farcadia-high-school-oak-hall-va%2Fgam1be6470c92
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Farcadia-high-school-oak-hall-va%2Fgam1be6470c92
+END:VEVENT
+END:VCALENDAR

@@ -53,7 +53,8 @@ def rate(teams, cfg, class_order, iters=200):
                 mean[k] = (num + cfg["ladder"] * step * rung[k]) / (den + cfg["ladder"])
             else:
                 mean[k] = num / (den + 1)
-        step = sum(rung[k] * mean[k] for k in mean if k in rung) / sum(rung[k] ** 2 for k in mean if k in rung)
+        den = sum(rung[k] ** 2 for k in mean if k in rung)   # 0 before any games are played
+        step = sum(rung[k] * mean[k] for k in mean if k in rung) / den if den else 0.0
         # Home edge measured from the data, but never negative (an away "advantage" is noise)
         home = max(0.0, sum(s * (v - r(a) + r(b)) for a, b, v, s in games) / max(1, len(games)))
         centre = sum(r(x) for x in by if x in cls) / max(1, sum(x in cls for x in by))

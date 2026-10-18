@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Northern-G Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-21-northern-g-hampshire-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Girls Basketball: Hampshire at Northern-G
+LOCATION:Northern-G
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-southern-fulton-northern-g-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261130T170000
+DTEND;TZID=America/New_York:20261130T190000
+SUMMARY:Girls Basketball: Northern-G at Southern Fulton
+LOCATION:Southern Fulton
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-fulton-high-school-warfordsburg-pa%2Fgamb660fecbf1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-fulton-high-school-warfordsburg-pa%2Fgamb660fecbf1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-tussey-mountain-northern-g-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261202T180000
+DTEND;TZID=America/New_York:20261202T200000
+SUMMARY:Girls Basketball: Northern-G at Tussey Mountain
+LOCATION:Tussey Mountain
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-southern-g-northern-g-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T193000
+DTEND;TZID=America/New_York:20261204T213000
+SUMMARY:Girls Basketball: Northern-G at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgame9ec965558
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgame9ec965558
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-northern-g-bishop-walsh-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T190000
+DTEND;TZID=America/New_York:20261207T210000
+SUMMARY:Girls Basketball: Bishop Walsh at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam82bdc4e97b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam82bdc4e97b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-northern-g-hancock-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T173000
+DTEND;TZID=America/New_York:20261211T193000
+SUMMARY:Girls Basketball: Hancock at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamf4d956e185
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamf4d956e185
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-northern-g-allegany-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Girls Basketball: Allegany at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamda923f34d5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamda923f34d5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-frankfort-northern-g-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T193000
+DTEND;TZID=America/New_York:20261216T213000
+SUMMARY:Girls Basketball: Northern-G at Frankfort
+LOCATION:Frankfort
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamda923f34d5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamda923f34d5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-meyersdale-area-northern-g-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261221T191000
+DTEND;TZID=America/New_York:20261221T211000
+SUMMARY:Girls Basketball: Northern-G at Meyersdale Area
+LOCATION:Meyersdale Area
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmeyersdale-area-high-school-meyersdale-pa%2Fgambdfcbff9c6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmeyersdale-area-high-school-meyersdale-pa%2Fgambdfcbff9c6
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-northern-g-mountain-ridge-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270104T190000
+DTEND;TZID=America/New_York:20270104T210000
+SUMMARY:Girls Basketball: Mountain Ridge at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamcf34813c81
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamcf34813c81
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-northern-g-southern-g-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270111T193000
+DTEND;TZID=America/New_York:20270111T213000
+SUMMARY:Girls Basketball: Southern-G at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam26e20e2552
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam26e20e2552
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-fort-hill-northern-g-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270121T190000
+DTEND;TZID=America/New_York:20270121T210000
+SUMMARY:Girls Basketball: Northern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam456e158577
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam456e158577
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-northern-g-meyersdale-area-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270123T143000
+DTEND;TZID=America/New_York:20270123T163000
+SUMMARY:Girls Basketball: Meyersdale Area at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamce77c152bd
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamce77c152bd
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-25-mountain-ridge-northern-g-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270125T190000
+DTEND;TZID=America/New_York:20270125T210000
+SUMMARY:Girls Basketball: Northern-G at Mountain Ridge
+LOCATION:Mountain Ridge
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-hancock-northern-g-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T173000
+DTEND;TZID=America/New_York:20270126T193000
+SUMMARY:Girls Basketball: Northern-G at Hancock
+LOCATION:Hancock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-northern-g-broadfording-christian-academy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270130T120000
+DTEND;TZID=America/New_York:20270130T140000
+SUMMARY:Girls Basketball: Broadfording Christian Academy at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam430b6716fd
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam430b6716fd
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-allegany-northern-g-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270201T190000
+DTEND;TZID=America/New_York:20270201T210000
+SUMMARY:Girls Basketball: Northern-G at Allegany
+LOCATION:Allegany
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgameac01f396d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgameac01f396d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-northern-g-clear-spring-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270204T190000
+DTEND;TZID=America/New_York:20270204T210000
+SUMMARY:Girls Basketball: Clear Spring at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam146e9f5a9d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam146e9f5a9d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-northern-g-frankfort-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270208T193000
+DTEND;TZID=America/New_York:20270208T213000
+SUMMARY:Girls Basketball: Frankfort at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam565132d90f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam565132d90f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-northern-g-fort-hill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270211T190000
+DTEND;TZID=America/New_York:20270211T210000
+SUMMARY:Girls Basketball: Fort Hill at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamb55d895241
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamb55d895241
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-bishop-walsh-northern-g-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270215T190000
+DTEND;TZID=America/New_York:20270215T210000
+SUMMARY:Girls Basketball: Northern-G at Bishop Walsh
+LOCATION:Bishop Walsh
+END:VEVENT
+END:VCALENDAR

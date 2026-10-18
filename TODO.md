@@ -19,3 +19,10 @@
 6. ~~**Set up the Cloudflare nightly trigger**~~ Done 2026-10-16 (`cloudflare/refresh/`, Worker
    `oldlinerankings-refresh`). Renew the GitHub token before it expires, then `npx wrangler secret put GITHUB_TOKEN`
    from `cloudflare/refresh/`.
+7. **Basketball, once MPSSAA posts the 2026-27 season** (sites live 2026-10-18; `BASKETBALL` in `scripts/build.py`):
+   - Upcoming games come from ArbiterLive (`scripts/arbiter.py`) until MPSSAA has 100+ of the season's games scheduled,
+     then MPSSAA only. Check the switch-over looks right.
+   - Classes/regions come from this fall's soccer standings until the basketball standings are this season's; check
+     them against the posted basketball standings.
+   - Set `playoffs.last_date` from the 2026-27 winter bulletin (now an estimate, Feb 22).
+   - Rankings start `rank_date` (Dec 15), projections `project_date` (Jan 12).

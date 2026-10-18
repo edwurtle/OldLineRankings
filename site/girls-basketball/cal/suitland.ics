@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Suitland Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-10-suitland-charles-h-flowers-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261210T191500
+DTEND;TZID=America/New_York:20261210T211500
+SUMMARY:Girls Basketball: Charles H. Flowers at Suitland
+LOCATION:Suitland
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgam0716291a20
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgam0716291a20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-suitland-parkdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261215T191500
+DTEND;TZID=America/New_York:20261215T211500
+SUMMARY:Girls Basketball: Parkdale at Suitland
+LOCATION:Suitland
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgamdbb9ce886b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgamdbb9ce886b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-bladensburg-suitland-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261217T180000
+DTEND;TZID=America/New_York:20261217T200000
+SUMMARY:Girls Basketball: Suitland at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamf04dc64d1f\nTickets: https://gofan.co/event/6956497
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamf04dc64d1f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-suitland-high-point-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T191500
+DTEND;TZID=America/New_York:20270105T211500
+SUMMARY:Girls Basketball: High Point at Suitland
+LOCATION:Suitland
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-duval-suitland-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270107T191500
+DTEND;TZID=America/New_York:20270107T211500
+SUMMARY:Girls Basketball: Suitland at Duval
+LOCATION:Duval
+DESCRIPTION:Tickets: https://gofan.co/event/6697108
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-laurel-suitland-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270121T191500
+DTEND;TZID=America/New_York:20270121T211500
+SUMMARY:Girls Basketball: Suitland at Laurel
+LOCATION:Laurel
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamc2a8de5d3e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamc2a8de5d3e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-suitland-northwestern-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T191500
+DTEND;TZID=America/New_York:20270126T211500
+SUMMARY:Girls Basketball: Northwestern at Suitland
+LOCATION:Suitland
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgam21b387b0ff
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgam21b387b0ff
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-suitland-dr-henry-a-wise-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270128T191500
+DTEND;TZID=America/New_York:20270128T211500
+SUMMARY:Girls Basketball: Dr. Henry A. Wise at Suitland
+LOCATION:Suitland
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgam623e0a7102
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgam623e0a7102
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-charles-h-flowers-suitland-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270202T191500
+DTEND;TZID=America/New_York:20270202T211500
+SUMMARY:Girls Basketball: Suitland at Charles H. Flowers
+LOCATION:Charles H. Flowers
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-parkdale-suitland-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270204T191500
+DTEND;TZID=America/New_York:20270204T211500
+SUMMARY:Girls Basketball: Suitland at Parkdale
+LOCATION:Parkdale
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam27f984935e\nTickets: https://gofan.co/event/6714863
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam27f984935e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-suitland-bladensburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T191500
+DTEND;TZID=America/New_York:20270210T211500
+SUMMARY:Girls Basketball: Bladensburg at Suitland
+LOCATION:Suitland
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgam0d8d9122df
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgam0d8d9122df
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-high-point-suitland-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T191500
+DTEND;TZID=America/New_York:20270212T211500
+SUMMARY:Girls Basketball: Suitland at High Point
+LOCATION:High Point
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-suitland-duval-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T191500
+DTEND;TZID=America/New_York:20270216T211500
+SUMMARY:Girls Basketball: Duval at Suitland
+LOCATION:Suitland
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgam956a2edada
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgam956a2edada
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-suitland-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270218T191500
+DTEND;TZID=America/New_York:20270218T211500
+SUMMARY:Girls Basketball: Bowie at Suitland
+LOCATION:Suitland
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgamade0724843
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgamade0724843
+END:VEVENT
+END:VCALENDAR

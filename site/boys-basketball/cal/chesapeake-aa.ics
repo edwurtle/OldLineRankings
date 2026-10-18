@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Chesapeake-AA Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-04-chesapeake-aa-north-county-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261204T184500
+DTEND;TZID=America/New_York:20261204T204500
+SUMMARY:Boys Basketball: North County at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-pasadena-md%2Fgam0933eecccc
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-pasadena-md%2Fgam0933eecccc
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-northeast-aa-chesapeake-aa-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261211T184500
+DTEND;TZID=America/New_York:20261211T204500
+SUMMARY:Boys Basketball: Chesapeake-AA at Northeast-AA
+LOCATION:Northeast-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-arundel-chesapeake-aa-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261218T184500
+DTEND;TZID=America/New_York:20261218T204500
+SUMMARY:Boys Basketball: Chesapeake-AA at Arundel
+LOCATION:Arundel
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Farundel-high-school-gambrills-md%2Fgamcfef6baa8a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Farundel-high-school-gambrills-md%2Fgamcfef6baa8a
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-chesapeake-aa-crofton-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270108T184500
+DTEND;TZID=America/New_York:20270108T204500
+SUMMARY:Boys Basketball: Crofton at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-pasadena-md%2Fgam6ee3899ba1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-pasadena-md%2Fgam6ee3899ba1
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-chesapeake-aa-old-mill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270112T180000
+DTEND;TZID=America/New_York:20270112T200000
+SUMMARY:Boys Basketball: Old Mill at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-pasadena-md%2Fgam96f2ad5f25
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-pasadena-md%2Fgam96f2ad5f25
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-annapolis-chesapeake-aa-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270115T184500
+DTEND;TZID=America/New_York:20270115T204500
+SUMMARY:Boys Basketball: Chesapeake-AA at Annapolis
+LOCATION:Annapolis
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fannapolis-high-school-annapolis-md%2Fgamd176c43f0e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fannapolis-high-school-annapolis-md%2Fgamd176c43f0e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-chesapeake-aa-meade-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270119T180000
+DTEND;TZID=America/New_York:20270119T200000
+SUMMARY:Boys Basketball: Meade at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-pasadena-md%2Fgamca7ca9a804
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-pasadena-md%2Fgamca7ca9a804
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-broadneck-chesapeake-aa-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270122T184500
+DTEND;TZID=America/New_York:20270122T204500
+SUMMARY:Boys Basketball: Chesapeake-AA at Broadneck
+LOCATION:Broadneck
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-chesapeake-aa-south-river-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270126T180000
+DTEND;TZID=America/New_York:20270126T200000
+SUMMARY:Boys Basketball: South River at Chesapeake-AA
+LOCATION:Chesapeake-AA
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-pasadena-md%2Fgamd64e66dac9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-pasadena-md%2Fgamd64e66dac9
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-chesapeake-aa-chesapeake-science-point-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270129T184500
+DTEND;TZID=America/New_York:20270129T204500
+SUMMARY:Boys Basketball: Chesapeake Science Point at Chesapeake-AA
+LOCATION:Chesapeake-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-north-county-chesapeake-aa-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270205T184500
+DTEND;TZID=America/New_York:20270205T204500
+SUMMARY:Boys Basketball: Chesapeake-AA at North County
+LOCATION:North County
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-county-high-school-glen-burnie-md%2Fgam77c5b59f20
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-county-high-school-glen-burnie-md%2Fgam77c5b59f20
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-glen-burnie-chesapeake-aa-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270210T180000
+DTEND;TZID=America/New_York:20270210T200000
+SUMMARY:Boys Basketball: Chesapeake-AA at Glen Burnie
+LOCATION:Glen Burnie
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglen-burnie-high-school-glen-burnie-md%2Fgam0c7e71a337
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglen-burnie-high-school-glen-burnie-md%2Fgam0c7e71a337
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-chesapeake-aa-northeast-aa-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270212T184500
+DTEND;TZID=America/New_York:20270212T204500
+SUMMARY:Boys Basketball: Northeast-AA at Chesapeake-AA
+LOCATION:Chesapeake-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-southern-aa-chesapeake-aa-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270216T180000
+DTEND;TZID=America/New_York:20270216T200000
+SUMMARY:Boys Basketball: Chesapeake-AA at Southern-AA
+LOCATION:Southern-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-chesapeake-aa-severna-park-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270218T180000
+DTEND;TZID=America/New_York:20270218T200000
+SUMMARY:Boys Basketball: Severna Park at Chesapeake-AA
+LOCATION:Chesapeake-AA
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atholton Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-24-atholton-winters-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261124T173000
+DTEND;TZID=America/New_York:20261124T193000
+SUMMARY:Girls Basketball: Winters Mill at Atholton
+LOCATION:Atholton
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-northeast-aa-atholton-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261124T180000
+DTEND;TZID=America/New_York:20261124T200000
+SUMMARY:Girls Basketball: Atholton at Northeast-AA
+LOCATION:Northeast-AA
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnortheast-high-school-pasadena-md%2Fgamf9148625f5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnortheast-high-school-pasadena-md%2Fgamf9148625f5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-atholton-long-reach-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T180000
+DTEND;TZID=America/New_York:20261204T200000
+SUMMARY:Girls Basketball: Long Reach at Atholton
+LOCATION:Atholton
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-marriotts-ridge-atholton-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T173000
+DTEND;TZID=America/New_York:20261207T193000
+SUMMARY:Girls Basketball: Atholton at Marriotts Ridge
+LOCATION:Marriotts Ridge
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-atholton-river-hill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261209T173000
+DTEND;TZID=America/New_York:20261209T193000
+SUMMARY:Girls Basketball: River Hill at Atholton
+LOCATION:Atholton
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-glenelg-atholton-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T180000
+DTEND;TZID=America/New_York:20261211T200000
+SUMMARY:Girls Basketball: Atholton at Glenelg
+LOCATION:Glenelg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgam000b23a982
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgam000b23a982
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-reservoir-atholton-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T173000
+DTEND;TZID=America/New_York:20261214T193000
+SUMMARY:Girls Basketball: Atholton at Reservoir
+LOCATION:Reservoir
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-atholton-hammond-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Girls Basketball: Hammond at Atholton
+LOCATION:Atholton
+END:VEVENT
+END:VCALENDAR

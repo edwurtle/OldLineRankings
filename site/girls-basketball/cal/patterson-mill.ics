@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Patterson Mill Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-01-kennard-dale-high-school-with-1-others-patterson-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261201T160000
+DTEND;TZID=America/New_York:20261201T180000
+SUMMARY:Girls Basketball: Patterson Mill at Kennard Dale High School with 1 others
+LOCATION:Kennard Dale High School with 1 others
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-havre-de-grace-patterson-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T190000
+DTEND;TZID=America/New_York:20261207T210000
+SUMMARY:Girls Basketball: Patterson Mill at Havre de Grace
+LOCATION:Havre de Grace
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-patterson-mill-joppatowne-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261209T190000
+DTEND;TZID=America/New_York:20261209T210000
+SUMMARY:Girls Basketball: Joppatowne at Patterson Mill
+LOCATION:Patterson Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-aberdeen-patterson-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Girls Basketball: Patterson Mill at Aberdeen
+LOCATION:Aberdeen
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-patterson-mill-fallston-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261217T190000
+DTEND;TZID=America/New_York:20261217T210000
+SUMMARY:Girls Basketball: Fallston at Patterson Mill
+LOCATION:Patterson Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-patterson-mill-notre-dame-preparatory-school-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261219T125000
+DTEND;TZID=America/New_York:20261219T145000
+SUMMARY:Girls Basketball: Notre Dame Preparatory School at Patterson Mill
+LOCATION:Patterson Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-edgewood-patterson-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:Girls Basketball: Patterson Mill at Edgewood
+LOCATION:Edgewood
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-patterson-mill-manchester-valley-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270106T190000
+DTEND;TZID=America/New_York:20270106T210000
+SUMMARY:Girls Basketball: Manchester Valley at Patterson Mill
+LOCATION:Patterson Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-patterson-mill-rising-sun-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T190000
+DTEND;TZID=America/New_York:20270108T210000
+SUMMARY:Girls Basketball: Rising Sun at Patterson Mill
+LOCATION:Patterson Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-patterson-mill-aberdeen-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270112T170000
+DTEND;TZID=America/New_York:20270112T190000
+SUMMARY:Girls Basketball: Aberdeen at Patterson Mill
+LOCATION:Patterson Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-rising-sun-patterson-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T190000
+DTEND;TZID=America/New_York:20270115T210000
+SUMMARY:Girls Basketball: Patterson Mill at Rising Sun
+LOCATION:Rising Sun
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-fallston-patterson-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270120T190000
+DTEND;TZID=America/New_York:20270120T210000
+SUMMARY:Girls Basketball: Patterson Mill at Fallston
+LOCATION:Fallston
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-joppatowne-patterson-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T183000
+DTEND;TZID=America/New_York:20270122T203000
+SUMMARY:Girls Basketball: Patterson Mill at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgama4791df8a0\nTickets: https://gofan.co/event/6972136
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgama4791df8a0
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-patterson-mill-bel-air-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270128T190000
+DTEND;TZID=America/New_York:20270128T210000
+SUMMARY:Girls Basketball: Bel Air at Patterson Mill
+LOCATION:Patterson Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-patterson-mill-oakdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270201T190000
+DTEND;TZID=America/New_York:20270201T210000
+SUMMARY:Girls Basketball: Oakdale at Patterson Mill
+LOCATION:Patterson Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-bel-air-patterson-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T190000
+DTEND;TZID=America/New_York:20270205T210000
+SUMMARY:Girls Basketball: Patterson Mill at Bel Air
+LOCATION:Bel Air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-patterson-mill-edgewood-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T190000
+DTEND;TZID=America/New_York:20270210T210000
+SUMMARY:Girls Basketball: Edgewood at Patterson Mill
+LOCATION:Patterson Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-harford-tech-patterson-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T190000
+DTEND;TZID=America/New_York:20270212T210000
+SUMMARY:Girls Basketball: Patterson Mill at Harford Tech
+LOCATION:Harford Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-north-harford-patterson-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T190000
+DTEND;TZID=America/New_York:20270216T210000
+SUMMARY:Girls Basketball: Patterson Mill at North Harford
+LOCATION:North Harford
+END:VEVENT
+END:VCALENDAR

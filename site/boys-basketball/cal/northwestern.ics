@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Northwestern Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-10-high-point-northwestern-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261210T191500
+DTEND;TZID=America/New_York:20261210T211500
+SUMMARY:Boys Basketball: Northwestern at High Point
+LOCATION:High Point
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-northwestern-laurel-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261215T191500
+DTEND;TZID=America/New_York:20261215T211500
+SUMMARY:Boys Basketball: Laurel at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam2e090d6a67
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam2e090d6a67
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-northwestern-eleanor-roosevelt-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261217T191500
+DTEND;TZID=America/New_York:20261217T211500
+SUMMARY:Boys Basketball: Eleanor Roosevelt at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam4cac568ff2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam4cac568ff2
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-northwestern-bowie-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270105T191500
+DTEND;TZID=America/New_York:20270105T211500
+SUMMARY:Boys Basketball: Bowie at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgama1b25edf15
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgama1b25edf15
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-duval-northwestern-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270112T191500
+DTEND;TZID=America/New_York:20270112T211500
+SUMMARY:Boys Basketball: Northwestern at Duval
+LOCATION:Duval
+DESCRIPTION:Tickets: https://gofan.co/event/6697093
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-parkdale-northwestern-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270114T191500
+DTEND;TZID=America/New_York:20270114T211500
+SUMMARY:Boys Basketball: Northwestern at Parkdale
+LOCATION:Parkdale
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam827e36df7c\nTickets: https://gofan.co/event/6714848
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam827e36df7c
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-northwestern-bladensburg-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270119T191500
+DTEND;TZID=America/New_York:20270119T211500
+SUMMARY:Boys Basketball: Bladensburg at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam7bf0d0cffc
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam7bf0d0cffc
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-charles-h-flowers-northwestern-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270121T191500
+DTEND;TZID=America/New_York:20270121T211500
+SUMMARY:Boys Basketball: Northwestern at Charles H. Flowers
+LOCATION:Charles H. Flowers
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcharles-herbert-flowers-high-school-springdale-md%2Fgamf2ddf13a70
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcharles-herbert-flowers-high-school-springdale-md%2Fgamf2ddf13a70
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-northwestern-suitland-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270126T191500
+DTEND;TZID=America/New_York:20270126T211500
+SUMMARY:Boys Basketball: Suitland at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam48e90aee92
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam48e90aee92
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-charles-h-flowers-northwestern-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270128T191500
+DTEND;TZID=America/New_York:20270128T211500
+SUMMARY:Boys Basketball: Northwestern at Charles H. Flowers
+LOCATION:Charles H. Flowers
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcharles-herbert-flowers-high-school-springdale-md%2Fgam2c2ec9a1ae
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcharles-herbert-flowers-high-school-springdale-md%2Fgam2c2ec9a1ae
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-northwestern-high-point-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270202T191500
+DTEND;TZID=America/New_York:20270202T211500
+SUMMARY:Boys Basketball: High Point at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam59f75c8970
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam59f75c8970
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-laurel-northwestern-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270204T191500
+DTEND;TZID=America/New_York:20270204T211500
+SUMMARY:Boys Basketball: Northwestern at Laurel
+LOCATION:Laurel
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam515041247c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam515041247c
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-eleanor-roosevelt-northwestern-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270210T191500
+DTEND;TZID=America/New_York:20270210T211500
+SUMMARY:Boys Basketball: Northwestern at Eleanor Roosevelt
+LOCATION:Eleanor Roosevelt
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feleanor-roosevelt-high-school-greenbelt-md%2Fgamfa5f8a5d33
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feleanor-roosevelt-high-school-greenbelt-md%2Fgamfa5f8a5d33
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-bowie-northwestern-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270212T191500
+DTEND;TZID=America/New_York:20270212T211500
+SUMMARY:Boys Basketball: Northwestern at Bowie
+LOCATION:Bowie
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamb6d49975c1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgamb6d49975c1
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-northwestern-duval-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270218T191500
+DTEND;TZID=America/New_York:20270218T211500
+SUMMARY:Boys Basketball: Duval at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgame1bf11e1ab
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgame1bf11e1ab
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Oakdale Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-23-walkersville-oakdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261123T173000
+DTEND;TZID=America/New_York:20261123T193000
+SUMMARY:Girls Basketball: Oakdale at Walkersville
+LOCATION:Walkersville
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-oakdale-south-river-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261127T133000
+DTEND;TZID=America/New_York:20261127T153000
+SUMMARY:Girls Basketball: South River at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-oakdale-brunswick-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261201T190000
+DTEND;TZID=America/New_York:20261201T210000
+SUMMARY:Girls Basketball: Brunswick at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-manchester-valley-oakdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T183000
+DTEND;TZID=America/New_York:20261204T203000
+SUMMARY:Girls Basketball: Oakdale at Manchester Valley
+LOCATION:Manchester Valley
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-gov-thomas-johnson-oakdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261210T190000
+DTEND;TZID=America/New_York:20261210T210000
+SUMMARY:Girls Basketball: Oakdale at Gov. Thomas Johnson
+LOCATION:Gov. Thomas Johnson
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam40a4a5a3d9\nTickets: https://gofan.co/event/6941691
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgam40a4a5a3d9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-oakdale-jefferson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T190000
+DTEND;TZID=America/New_York:20261214T210000
+SUMMARY:Girls Basketball: Jefferson at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-oakdale-linganore-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T190000
+DTEND;TZID=America/New_York:20261216T210000
+SUMMARY:Girls Basketball: Linganore at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-oakdale-frederick-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T190000
+DTEND;TZID=America/New_York:20261218T210000
+SUMMARY:Girls Basketball: Frederick at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-urbana-oakdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T190000
+DTEND;TZID=America/New_York:20270108T210000
+SUMMARY:Girls Basketball: Oakdale at Urbana
+LOCATION:Urbana
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgamb8d0de0380\nTickets: https://gofan.co/event/6898879
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgamb8d0de0380
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-tuscarora-oakdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270112T190000
+DTEND;TZID=America/New_York:20270112T210000
+SUMMARY:Girls Basketball: Oakdale at Tuscarora
+LOCATION:Tuscarora
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ftuscarora-high-school-frederick-md%2Fgam56fbcffece\nTickets: https://gofan.co/event/6816886
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ftuscarora-high-school-frederick-md%2Fgam56fbcffece
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-oakdale-catoctin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T190000
+DTEND;TZID=America/New_York:20270114T210000
+SUMMARY:Girls Basketball: Catoctin at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-frederick-oakdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T190000
+DTEND;TZID=America/New_York:20270119T210000
+SUMMARY:Girls Basketball: Oakdale at Frederick
+LOCATION:Frederick
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-linganore-oakdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270121T190000
+DTEND;TZID=America/New_York:20270121T210000
+SUMMARY:Girls Basketball: Oakdale at Linganore
+LOCATION:Linganore
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flinganore-high-school-frederick-md%2Fgam46501a6582
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flinganore-high-school-frederick-md%2Fgam46501a6582
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-oakdale-gov-thomas-johnson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T190000
+DTEND;TZID=America/New_York:20270126T210000
+SUMMARY:Girls Basketball: Gov. Thomas Johnson at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-oakdale-north-hagerstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T190000
+DTEND;TZID=America/New_York:20270129T210000
+SUMMARY:Girls Basketball: North Hagerstown at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-patterson-mill-oakdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270201T190000
+DTEND;TZID=America/New_York:20270201T210000
+SUMMARY:Girls Basketball: Oakdale at Patterson Mill
+LOCATION:Patterson Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-oakdale-severna-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270208T190000
+DTEND;TZID=America/New_York:20270208T210000
+SUMMARY:Girls Basketball: Severna Park at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-oakdale-tuscarora-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270209T190000
+DTEND;TZID=America/New_York:20270209T210000
+SUMMARY:Girls Basketball: Tuscarora at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-oakdale-century-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T190000
+DTEND;TZID=America/New_York:20270212T210000
+SUMMARY:Girls Basketball: Century at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-oakdale-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270218T190000
+DTEND;TZID=America/New_York:20270218T210000
+SUMMARY:Girls Basketball: Urbana at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+END:VCALENDAR

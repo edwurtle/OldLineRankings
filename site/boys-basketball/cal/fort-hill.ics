@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Fort Hill Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-01-moorefield-fort-hill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261201T190000
+DTEND;TZID=America/New_York:20261201T210000
+SUMMARY:Boys Basketball: Fort Hill at Moorefield
+LOCATION:Moorefield
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-fort-hill-hampshire-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261203T193000
+DTEND;TZID=America/New_York:20261203T213000
+SUMMARY:Boys Basketball: Hampshire at Fort Hill
+LOCATION:Fort Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-fort-hill-morgantown-christian-academy-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261210T190000
+DTEND;TZID=America/New_York:20261210T210000
+SUMMARY:Boys Basketball: Morgantown Christian Academy at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam4458cbfed0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam4458cbfed0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-fort-hill-windber-area-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261212T133000
+DTEND;TZID=America/New_York:20261212T153000
+SUMMARY:Boys Basketball: Windber Area at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam5945929f9e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam5945929f9e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-fort-hill-university-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Boys Basketball: University at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgambae1e78e01
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgambae1e78e01
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-fort-hill-broadfording-christian-academy-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261217T190000
+DTEND;TZID=America/New_York:20261217T210000
+SUMMARY:Boys Basketball: Broadfording Christian Academy at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam634e40b6c8
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam634e40b6c8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-boonsboro-fort-hill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:Boys Basketball: Fort Hill at Boonsboro
+LOCATION:Boonsboro
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-fort-hill-northern-g-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270105T190000
+DTEND;TZID=America/New_York:20270105T210000
+SUMMARY:Boys Basketball: Northern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam90b4a26c2d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam90b4a26c2d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-allegany-fort-hill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270108T190000
+DTEND;TZID=America/New_York:20270108T210000
+SUMMARY:Boys Basketball: Fort Hill at Allegany
+LOCATION:Allegany
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam318ab2e736
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam318ab2e736
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-fort-hill-keyser-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270115T190000
+DTEND;TZID=America/New_York:20270115T210000
+SUMMARY:Boys Basketball: Keyser at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam12e043601f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam12e043601f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-fort-hill-southern-g-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270118T190000
+DTEND;TZID=America/New_York:20270118T210000
+SUMMARY:Boys Basketball: Southern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam06d41a5173
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam06d41a5173
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-northern-g-fort-hill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270119T190000
+DTEND;TZID=America/New_York:20270119T210000
+SUMMARY:Boys Basketball: Fort Hill at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamd682d8a031
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamd682d8a031
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-keyser-fort-hill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270126T193000
+DTEND;TZID=America/New_York:20270126T213000
+SUMMARY:Boys Basketball: Fort Hill at Keyser
+LOCATION:Keyser
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-fort-hill-mountain-ridge-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270129T190000
+DTEND;TZID=America/New_York:20270129T210000
+SUMMARY:Boys Basketball: Mountain Ridge at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgamf4980f666d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgamf4980f666d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-fort-hill-allegany-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270205T190000
+DTEND;TZID=America/New_York:20270205T210000
+SUMMARY:Boys Basketball: Allegany at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam71a5643619
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam71a5643619
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-mountain-ridge-fort-hill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270212T190000
+DTEND;TZID=America/New_York:20270212T210000
+SUMMARY:Boys Basketball: Fort Hill at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam312effe610
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam312effe610
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-university-fort-hill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270216T193000
+DTEND;TZID=America/New_York:20270216T213000
+SUMMARY:Boys Basketball: Fort Hill at University
+LOCATION:University
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-southern-g-fort-hill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270219T193000
+DTEND;TZID=America/New_York:20270219T213000
+SUMMARY:Boys Basketball: Fort Hill at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam9df25205e6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam9df25205e6
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-fort-hill-boonsboro-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270222T190000
+DTEND;TZID=America/New_York:20270222T210000
+SUMMARY:Boys Basketball: Boonsboro at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgamf9c6505fa7
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgamf9c6505fa7
+END:VEVENT
+END:VCALENDAR

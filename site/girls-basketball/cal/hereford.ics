@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Hereford Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-28-hereford-patterson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261128T120000
+DTEND;TZID=America/New_York:20261128T140000
+SUMMARY:Girls Basketball: Patterson at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgamad3e01d918
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgamad3e01d918
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-hereford-perry-hall-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261128T150000
+DTEND;TZID=America/New_York:20261128T170000
+SUMMARY:Girls Basketball: Perry Hall at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgamaa1b1330cd
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgamaa1b1330cd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-hereford-park-school-of-baltimore-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T183000
+DTEND;TZID=America/New_York:20261207T203000
+SUMMARY:Girls Basketball: Park School of Baltimore at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam5031540b63
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam5031540b63
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-hereford-manchester-valley-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261209T183000
+DTEND;TZID=America/New_York:20261209T203000
+SUMMARY:Girls Basketball: Manchester Valley at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgama4db199a98
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgama4db199a98
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-hereford-owings-mills-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T173000
+DTEND;TZID=America/New_York:20261211T193000
+SUMMARY:Girls Basketball: Owings Mills at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam18a6ea0097
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam18a6ea0097
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-hereford-randallstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Girls Basketball: Randallstown at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgamb6d54c5679
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgamb6d54c5679
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-woodlawn-hereford-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270106T173000
+DTEND;TZID=America/New_York:20270106T193000
+SUMMARY:Girls Basketball: Hereford at Woodlawn
+LOCATION:Woodlawn
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwoodlawn-high-school-baltimore-md%2Fgam7863d055c0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwoodlawn-high-school-baltimore-md%2Fgam7863d055c0
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-hereford-franklin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Girls Basketball: Franklin at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam264f9759da
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam264f9759da
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-hereford-western-tech-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270113T173000
+DTEND;TZID=America/New_York:20270113T193000
+SUMMARY:Girls Basketball: Western Tech at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam46bc08620c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam46bc08620c
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-hereford-pikesville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Girls Basketball: Pikesville at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgamf4d4d7144d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgamf4d4d7144d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-hereford-catonsville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270120T173000
+DTEND;TZID=America/New_York:20270120T193000
+SUMMARY:Girls Basketball: Catonsville at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgama0fffaf8e2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgama0fffaf8e2
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-25-fallston-hereford-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270125T190000
+DTEND;TZID=America/New_York:20270125T210000
+SUMMARY:Girls Basketball: Hereford at Fallston
+LOCATION:Fallston
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-owings-mills-hereford-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T173000
+DTEND;TZID=America/New_York:20270129T193000
+SUMMARY:Girls Basketball: Hereford at Owings Mills
+LOCATION:Owings Mills
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-new-town-hereford-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T173000
+DTEND;TZID=America/New_York:20270203T193000
+SUMMARY:Girls Basketball: Hereford at New Town
+LOCATION:New Town
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnew-town-high-school-owings-mills-md%2Fgam98dddab571
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnew-town-high-school-owings-mills-md%2Fgam98dddab571
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-hereford-dulaney-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Girls Basketball: Dulaney at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam19cb28e30d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam19cb28e30d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-pikesville-hereford-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T173000
+DTEND;TZID=America/New_York:20270210T193000
+SUMMARY:Girls Basketball: Hereford at Pikesville
+LOCATION:Pikesville
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-hereford-milford-mill-academy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270217T173000
+DTEND;TZID=America/New_York:20270217T193000
+SUMMARY:Girls Basketball: Milford Mill Academy at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam8db8bc3766
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam8db8bc3766
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-hereford-century-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T183000
+DTEND;TZID=America/New_York:20270219T203000
+SUMMARY:Girls Basketball: Century at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam7578ea738f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam7578ea738f
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Southern-G Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-25-southern-g-hampshire-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261125T180000
+DTEND;TZID=America/New_York:20261125T200000
+SUMMARY:Boys Basketball: Hampshire at Southern-G
+LOCATION:Southern-G
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-berlin-brothersvalley-southern-g-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261130T160000
+DTEND;TZID=America/New_York:20261130T180000
+SUMMARY:Boys Basketball: Southern-G at Berlin Brothersvalley
+LOCATION:Berlin Brothersvalley
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-southern-g-tygarts-valley-middle-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261203T183000
+DTEND;TZID=America/New_York:20261203T203000
+SUMMARY:Boys Basketball: Tygarts Valley Middle/ at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam9438122215
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam9438122215
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-southern-g-broadfording-christian-academy-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261207T193000
+DTEND;TZID=America/New_York:20261207T213000
+SUMMARY:Boys Basketball: Broadfording Christian Academy at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam0d2c1f69ad
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam0d2c1f69ad
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-southern-g-elkins-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261211T193000
+DTEND;TZID=America/New_York:20261211T213000
+SUMMARY:Boys Basketball: Elkins at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam032ee44218
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam032ee44218
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-keyser-southern-g-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261215T193000
+DTEND;TZID=America/New_York:20261215T213000
+SUMMARY:Boys Basketball: Southern-G at Keyser
+LOCATION:Keyser
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-southern-g-mountain-ridge-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261218T193000
+DTEND;TZID=America/New_York:20261218T213000
+SUMMARY:Boys Basketball: Mountain Ridge at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam79f2e74a4b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam79f2e74a4b
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-allegany-southern-g-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270102T143000
+DTEND;TZID=America/New_York:20270102T163000
+SUMMARY:Boys Basketball: Southern-G at Allegany
+LOCATION:Allegany
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam673480355a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam673480355a
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-southern-g-northern-g-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270108T193000
+DTEND;TZID=America/New_York:20270108T213000
+SUMMARY:Boys Basketball: Northern-G at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgamd7a921bfe2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgamd7a921bfe2
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-southern-g-tucker-county-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270112T193000
+DTEND;TZID=America/New_York:20270112T213000
+SUMMARY:Boys Basketball: Tucker County at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam21a06b9ff3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam21a06b9ff3
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-southern-g-allegany-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270115T193000
+DTEND;TZID=America/New_York:20270115T213000
+SUMMARY:Boys Basketball: Allegany at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam5755c127ab
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam5755c127ab
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-fort-hill-southern-g-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270118T190000
+DTEND;TZID=America/New_York:20270118T210000
+SUMMARY:Boys Basketball: Southern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam06d41a5173
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam06d41a5173
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-southern-g-paw-paw-middle-high-school-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270126T180000
+DTEND;TZID=America/New_York:20270126T200000
+SUMMARY:Boys Basketball: Paw Paw Middle/High School at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam76649de83c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam76649de83c
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-southern-g-petersburg-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270128T153000
+DTEND;TZID=America/New_York:20270128T173000
+SUMMARY:Boys Basketball: Petersburg at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam39790a9a42
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam39790a9a42
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-east-fairmont-southern-g-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270204T193000
+DTEND;TZID=America/New_York:20270204T213000
+SUMMARY:Boys Basketball: Southern-G at East Fairmont
+LOCATION:East Fairmont
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam0ad7c854cf
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam0ad7c854cf
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-northern-g-southern-g-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270205T193000
+DTEND;TZID=America/New_York:20270205T213000
+SUMMARY:Boys Basketball: Southern-G at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam0ad7c854cf
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam0ad7c854cf
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-southern-g-keyser-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270209T193000
+DTEND;TZID=America/New_York:20270209T213000
+SUMMARY:Boys Basketball: Keyser at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam7893786cac
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam7893786cac
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-mountain-ridge-southern-g-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270216T190000
+DTEND;TZID=America/New_York:20270216T210000
+SUMMARY:Boys Basketball: Southern-G at Mountain Ridge
+LOCATION:Mountain Ridge
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-frankfort-southern-g-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270217T193000
+DTEND;TZID=America/New_York:20270217T213000
+SUMMARY:Boys Basketball: Southern-G at Frankfort
+LOCATION:Frankfort
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-southern-g-fort-hill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270219T193000
+DTEND;TZID=America/New_York:20270219T213000
+SUMMARY:Boys Basketball: Fort Hill at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam9df25205e6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam9df25205e6
+END:VEVENT
+END:VCALENDAR

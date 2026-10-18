@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Mountain Ridge Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-28-mountain-ridge-southern-fulton-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261128T100000
+DTEND;TZID=America/New_York:20261128T120000
+SUMMARY:Boys Basketball: Southern Fulton at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam99b688663d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam99b688663d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-meyersdale-area-mountain-ridge-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261201T170000
+DTEND;TZID=America/New_York:20261201T190000
+SUMMARY:Boys Basketball: Mountain Ridge at Meyersdale Area
+LOCATION:Meyersdale Area
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmeyersdale-area-high-school-meyersdale-pa%2Fgamb821f54b90
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmeyersdale-area-high-school-meyersdale-pa%2Fgamb821f54b90
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-mountain-ridge-heritage-academy-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261204T190000
+DTEND;TZID=America/New_York:20261204T210000
+SUMMARY:Boys Basketball: Heritage Academy at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgamf62de88b53
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgamf62de88b53
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-mountain-ridge-frankfort-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261208T190000
+DTEND;TZID=America/New_York:20261208T210000
+SUMMARY:Boys Basketball: Frankfort at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam1ab7c8d88c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam1ab7c8d88c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-bridgeport-mountain-ridge-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Boys Basketball: Mountain Ridge at Bridgeport
+LOCATION:Bridgeport
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-southern-g-mountain-ridge-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261218T193000
+DTEND;TZID=America/New_York:20261218T213000
+SUMMARY:Boys Basketball: Mountain Ridge at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam79f2e74a4b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam79f2e74a4b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-mountain-ridge-keyser-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:Boys Basketball: Keyser at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam38b1488c7a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam38b1488c7a
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-mountain-ridge-boonsboro-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261229T190000
+DTEND;TZID=America/New_York:20261229T210000
+SUMMARY:Boys Basketball: Boonsboro at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam4214c6949d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam4214c6949d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-mountain-ridge-clear-spring-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270107T190000
+DTEND;TZID=America/New_York:20270107T210000
+SUMMARY:Boys Basketball: Clear Spring at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam42d7ff5725
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam42d7ff5725
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-mountain-ridge-allegany-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270112T190000
+DTEND;TZID=America/New_York:20270112T210000
+SUMMARY:Boys Basketball: Allegany at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam08b1fcdb67
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam08b1fcdb67
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-northern-g-mountain-ridge-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270115T190000
+DTEND;TZID=America/New_York:20270115T210000
+SUMMARY:Boys Basketball: Mountain Ridge at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam9627c4c74b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgam9627c4c74b
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-mountain-ridge-northern-g-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270122T190000
+DTEND;TZID=America/New_York:20270122T210000
+SUMMARY:Boys Basketball: Northern-G at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam1d2c8a082d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam1d2c8a082d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-allegany-mountain-ridge-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270126T190000
+DTEND;TZID=America/New_York:20270126T210000
+SUMMARY:Boys Basketball: Mountain Ridge at Allegany
+LOCATION:Allegany
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam5c12ce1bc0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam5c12ce1bc0
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-fort-hill-mountain-ridge-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270129T190000
+DTEND;TZID=America/New_York:20270129T210000
+SUMMARY:Boys Basketball: Mountain Ridge at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgamf4980f666d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgamf4980f666d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-south-carroll-mountain-ridge-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270202T173000
+DTEND;TZID=America/New_York:20270202T193000
+SUMMARY:Boys Basketball: Mountain Ridge at South Carroll
+LOCATION:South Carroll
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-mountain-ridge-boonsboro-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270205T190000
+DTEND;TZID=America/New_York:20270205T210000
+SUMMARY:Boys Basketball: Boonsboro at Mountain Ridge
+LOCATION:Mountain Ridge
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-berlin-brothersvalley-mountain-ridge-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270209T191500
+DTEND;TZID=America/New_York:20270209T211500
+SUMMARY:Boys Basketball: Mountain Ridge at Berlin Brothersvalley
+LOCATION:Berlin Brothersvalley
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fberlin-brothers-valley-high-school-berlin-pa%2Fgam804f3c7989
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fberlin-brothers-valley-high-school-berlin-pa%2Fgam804f3c7989
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-mountain-ridge-fort-hill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270212T190000
+DTEND;TZID=America/New_York:20270212T210000
+SUMMARY:Boys Basketball: Fort Hill at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam312effe610
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam312effe610
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-mountain-ridge-southern-g-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270216T190000
+DTEND;TZID=America/New_York:20270216T210000
+SUMMARY:Boys Basketball: Southern-G at Mountain Ridge
+LOCATION:Mountain Ridge
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-keyser-mountain-ridge-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270218T193000
+DTEND;TZID=America/New_York:20270218T213000
+SUMMARY:Boys Basketball: Mountain Ridge at Keyser
+LOCATION:Keyser
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-mountain-ridge-broadfording-christian-academy-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270222T190000
+DTEND;TZID=America/New_York:20270222T210000
+SUMMARY:Boys Basketball: Broadfording Christian Academy at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgamc0ff6bf5b2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgamc0ff6bf5b2
+END:VEVENT
+END:VCALENDAR

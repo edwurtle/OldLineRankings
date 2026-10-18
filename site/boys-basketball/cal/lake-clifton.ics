@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Lake Clifton Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-08-frederick-douglass-b-lake-clifton-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261208T171500
+DTEND;TZID=America/New_York:20261208T191500
+SUMMARY:Boys Basketball: Lake Clifton at Frederick Douglass-B
+LOCATION:Frederick Douglass-B
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-lake-clifton-bard-high-school-early-college-baltimore-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261215T171500
+DTEND;TZID=America/New_York:20261215T191500
+SUMMARY:Boys Basketball: Bard High School Early College Baltimore at Lake Clifton
+LOCATION:Lake Clifton
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flake-clifton-high-school-baltimore-md%2Fgamf75c776975
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flake-clifton-high-school-baltimore-md%2Fgamf75c776975
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-lake-clifton-carver-vocational-technical-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261217T171500
+DTEND;TZID=America/New_York:20261217T191500
+SUMMARY:Boys Basketball: Carver Vocational-Technical at Lake Clifton
+LOCATION:Lake Clifton
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-mergenthaler-lake-clifton-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261222T171500
+DTEND;TZID=America/New_York:20261222T191500
+SUMMARY:Boys Basketball: Lake Clifton at Mergenthaler
+LOCATION:Mergenthaler
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmergenthaler-vocational-technical-senior-high-school-baltimore-md%2Fgamb3ac473ebb
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmergenthaler-vocational-technical-senior-high-school-baltimore-md%2Fgamb3ac473ebb
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-lake-clifton-reginald-lewis-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270105T171500
+DTEND;TZID=America/New_York:20270105T191500
+SUMMARY:Boys Basketball: Reginald Lewis at Lake Clifton
+LOCATION:Lake Clifton
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flake-clifton-high-school-baltimore-md%2Fgam5bc672bcc9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flake-clifton-high-school-baltimore-md%2Fgam5bc672bcc9
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-carver-vocational-technical-lake-clifton-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270112T171500
+DTEND;TZID=America/New_York:20270112T191500
+SUMMARY:Boys Basketball: Lake Clifton at Carver Vocational-Technical
+LOCATION:Carver Vocational-Technical
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcarver-votechnical-high-school-baltimore-md%2Fgam21d2c06633
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcarver-votechnical-high-school-baltimore-md%2Fgam21d2c06633
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-baltimore-polytechnic-lake-clifton-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270114T171500
+DTEND;TZID=America/New_York:20270114T191500
+SUMMARY:Boys Basketball: Lake Clifton at Baltimore Polytechnic
+LOCATION:Baltimore Polytechnic
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbaltimore-polytechnic-institute-baltimore-md%2Fgam92102dff8e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbaltimore-polytechnic-institute-baltimore-md%2Fgam92102dff8e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-lake-clifton-paul-laurence-dunbar-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270119T171500
+DTEND;TZID=America/New_York:20270119T191500
+SUMMARY:Boys Basketball: Paul Laurence Dunbar at Lake Clifton
+LOCATION:Lake Clifton
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-benjamin-franklin-lake-clifton-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270121T171500
+DTEND;TZID=America/New_York:20270121T191500
+SUMMARY:Boys Basketball: Lake Clifton at Benjamin Franklin
+LOCATION:Benjamin Franklin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbenjamin-franklin-community-academy-baltimore-md%2Fgam3fe15cf126
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbenjamin-franklin-community-academy-baltimore-md%2Fgam3fe15cf126
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-lake-clifton-kenwood-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270126T160000
+DTEND;TZID=America/New_York:20270126T180000
+SUMMARY:Boys Basketball: Kenwood at Lake Clifton
+LOCATION:Lake Clifton
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flake-clifton-high-school-baltimore-md%2Fgam1e84611416
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flake-clifton-high-school-baltimore-md%2Fgam1e84611416
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-edmondson-westside-lake-clifton-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270128T171500
+DTEND;TZID=America/New_York:20270128T191500
+SUMMARY:Boys Basketball: Lake Clifton at Edmondson-Westside
+LOCATION:Edmondson-Westside
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgamb3b1104ff6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgamb3b1104ff6
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-baltimore-city-college-lake-clifton-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270202T171500
+DTEND;TZID=America/New_York:20270202T191500
+SUMMARY:Boys Basketball: Lake Clifton at Baltimore City College
+LOCATION:Baltimore City College
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-lake-clifton-green-street-academy-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270204T171500
+DTEND;TZID=America/New_York:20270204T191500
+SUMMARY:Boys Basketball: Green Street Academy at Lake Clifton
+LOCATION:Lake Clifton
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flake-clifton-high-school-baltimore-md%2Fgam8f86081cbb
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flake-clifton-high-school-baltimore-md%2Fgam8f86081cbb
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-digital-harbor-lake-clifton-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270209T171500
+DTEND;TZID=America/New_York:20270209T191500
+SUMMARY:Boys Basketball: Lake Clifton at Digital Harbor
+LOCATION:Digital Harbor
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-lake-clifton-benjamin-franklin-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270211T171500
+DTEND;TZID=America/New_York:20270211T191500
+SUMMARY:Boys Basketball: Benjamin Franklin at Lake Clifton
+LOCATION:Lake Clifton
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-national-academy-foundation-naf-lake-clifton-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270218T171500
+DTEND;TZID=America/New_York:20270218T191500
+SUMMARY:Boys Basketball: Lake Clifton at National Academy Foundation (NAF)
+LOCATION:National Academy Foundation (NAF)
+END:VEVENT
+END:VCALENDAR

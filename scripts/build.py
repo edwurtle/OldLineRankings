@@ -16,7 +16,7 @@ Football is ranked by the Old Line Rating instead (see oldline.py); its MPSSAA p
 for playoff seeding.
 """
 import collections, datetime, html, json, pathlib, re, shutil, subprocess, time, urllib.parse, zoneinfo
-import gofan, icons, nfhs, oldline
+import arbiter, gofan, icons, nfhs, oldline
 
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -63,6 +63,31 @@ SOCCER = dict(
              example=[2, 1]),
 )
 
+# Boys and girls basketball: seeded like soccer (winning percentage, 8 regions per class, each region plays down
+# to one champion), rated on points. Winter bulletin: fewer than 15 games divide by 15 (max 20 games).
+# Early season: no rankings or predictions before rank_date, no projected brackets or odds before project_date.
+BASKETBALL = dict(
+    icon="basketball", season="Winter", season_years="2026–27", activity="Basketball",
+    ranked_by="Old Line Rating: capped point margins + opponent strength",
+    classes={"4A": 8, "3A": 7, "2A": 6, "1A": 5},
+    regions=SOCCER["regions"],
+    score=dict(short="PF–PA", name="Point difference", plural="points"),
+    ties=False, example=dict(cls="3A", W=14, L=6, T=0),
+    # last_date: estimated from 2025-26 (Feb 23); update from the 2026-27 winter bulletin
+    playoffs=dict(seed_by="winpct", min_games=15, region_seeds=8, per_region=1, last_date="2027-02-22"),
+    # Backtested on 2025-26 (each week from earlier games): bigger caps kept helping up to about 40, and a small
+    # win bonus helped a little.
+    olr=dict(cap=40, win_bonus=3, prior=3, ladder=50, k=0.145, digits=1, cap_note="so blowouts don't count extra",
+             example=[12, 5]),
+    # Rankings and predictions start rank_date (about when most teams have played 4 games, from the schedules);
+    # projected brackets and odds start project_date (about 8 games)
+    season_start="2026-11-15", rank_date="2026-12-15", project_date="2027-01-12",
+    # Classes and regions from this fall's soccer standings while the basketball standings are last season's
+    alignment="soccer",
+    # Upcoming games from ArbiterLive until MPSSAA posts the season's schedule
+    arbiter=True,
+)
+
 # Everything that differs between the sites. Order here is the order on the splash page and footer. Shared by build.py and passed to app.js as DATA.config.
 SITES = {
     "football": dict(
@@ -90,11 +115,16 @@ SITES = {
                         divisions={"boys": dict(label="Boys Soccer", api="boys-soccer", gender="Boys")}),
     "girls-soccer": dict(SOCCER, out="site/girls-soccer", sport="Girls Soccer", olr=dict(SOCCER["olr"], k=0.95, tested="2026 weeks 3 on using only earlier games: the Old Line Rating picked 68% of winners versus 70% for points from opponent class + opponent wins, about even"),
                          divisions={"girls": dict(label="Girls Soccer", api="girls-soccer", gender="Girls")}),
+    "boys-basketball": dict(BASKETBALL, out="site/boys-basketball", sport="Boys Basketball",
+                            olr=dict(BASKETBALL["olr"], tested="2025-26 (part of the season's results) using only earlier games: the Old Line Rating picked 76% of winners versus 73% for the better record"),
+                            divisions={"boys": dict(label="Boys Basketball", api="boys-basketball", gender="Boys")}),
+    "girls-basketball": dict(BASKETBALL, out="site/girls-basketball", sport="Girls Basketball",
+                             olr=dict(BASKETBALL["olr"], tested="2025-26 using only earlier games: the Old Line Rating picked 82% of winners versus 79% for the better record"),
+                             divisions={"girls": dict(label="Girls Basketball", api="girls-basketball", gender="Girls")}),
 }
 
 # Sports shown on the splash page and in the footer before they have a site
-COMING = [dict(sport="Basketball", icon="basketball", note="Boys & girls · coming winter 2026–27"),
-          dict(sport="Lacrosse", icon="lacrosse", note="Boys & girls · coming spring 2027")]
+COMING = [dict(sport="Lacrosse", icon="lacrosse", note="Boys & girls · coming spring 2027")]
 
 # Opponent spellings that refer to member schools
 ALIAS = {"Mt. Hebron": "Mount Hebron", "Flowers HS": "Charles H. Flowers", "Wise HS": "Dr. Henry A. Wise",
@@ -164,6 +194,7 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
     # Dedupe by (date, teams) and take the most common result when entries disagree.
     entries = collections.defaultdict(list)
     unplayed = {}  # (date, a, b) -> (home team, postponed?)
+    times = {}     # (date, a, b) -> start time, where the source has one (ArbiterLive)
     for x in raw_games:
         r = RES.get(x["result"])
         # Some games are posted as completed with a score but no result: take the result from the score
@@ -172,6 +203,8 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
         a, b = norm(x["school"]), norm(x["opponent"])
         x = dict(x, game_date=same_game.get((frozenset((a, b)), x["game_date"]), x["game_date"]))
         sa, sb, home = x["your_score"], x["opponent_score"], a
+        if x.get("source") == "arbiter":  # ArbiterLive rows say who hosts; MPSSAA rows are entered by the host
+            home = norm(x["home_team"])
         if b in std and b < a:
             a, b, sa, sb = b, a, sb, sa
             r = FLIP.get(r)
@@ -183,6 +216,8 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
         if not r:
             if x["result"] != "Cancelled" and x["game_date"]:
                 unplayed[(x["game_date"], a, b)] = (home, x["result"] == "Postponed")
+                if x.get("time"):
+                    times[(x["game_date"], a, b)] = x["time"]
             continue
         entries[(x["game_date"], a, b)].append((r, sa, sb, home, (x["result"] or "").startswith("Forfeit")))
     if first_meeting_only:
@@ -220,9 +255,10 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
         if dt < stale:
             continue
         status = "postponed" if postponed else ("pending" if dt < today else "scheduled")
-        upcoming[a].append(dict(date=dt, opp=b, home=home == a, status=status))
+        extra = {"time": times[(dt, a, b)]} if (dt, a, b) in times else {}
+        upcoming[a].append(dict(date=dt, opp=b, home=home == a, status=status, **extra))
         if b in std:
-            upcoming[b].append(dict(date=dt, opp=a, home=home == b, status=status))
+            upcoming[b].append(dict(date=dt, opp=a, home=home == b, status=status, **extra))
 
     record = {s: {k: sum(g["res"] == k for g in rec[s]) for k in "WLT"} for s in std}
     opp_wins = {s: r["W"] + 0.5 * r["T"] for s, r in record.items()}
@@ -315,6 +351,51 @@ def project(raw_games, standings, class_pts, teams, first_meeting_only, wins, la
         t[key] = {k: p[k] for k in ("W", "L", "T", "gp", "pts", "avg")}
 
 
+def realign(standings, sport, nonce):
+    """Standings with each school's class and region taken from another sport's standings (this season's alignment),
+    for a sport whose own standings are still last season's. Schools the other sport doesn't have keep theirs."""
+    other = {t["school"]: (c, r["region"]) for c, rs in json.loads(curl(f"{API}standings?sport={sport}", nonce))["classifications"].items()
+             for r in rs for t in r["teams"]}
+    groups = collections.defaultdict(list)
+    for c, rs in standings["classifications"].items():
+        for r in rs:
+            for t in r["teams"]:
+                groups[other.get(t["school"], (c, r["region"]))].append(dict(school=t["school"]))
+    out = collections.defaultdict(list)
+    for (c, reg), ts in sorted(groups.items()):
+        out[c].append(dict(region=reg, teams=ts))
+    return dict(standings, classifications=dict(out))
+
+
+def arbiter_games(raw, standings, gender, cfg):
+    """Upcoming games from ArbiterLive while MPSSAA has few of the season's games scheduled (it is the
+    official source, so once its schedule is posted ArbiterLive is not used)."""
+    today = now_et().date().isoformat()
+    if sum(1 for x in raw if not x["result"] and (x["game_date"] or "") >= today) >= 100:
+        return []
+    names = {t["school"] for rs in standings["classifications"].values() for r in rs for t in r["teams"]}
+    try:
+        arbiter.match(sorted(names), {})   # only searches schools not yet matched
+        schools, _ = match_schools(names)
+        rows, n = arbiter.upcoming(names, gender, datetime.date.fromisoformat(cfg["season_start"]), today,
+                                   {v: k for k, v in DIRECTORY_NAME.items()} | ALIAS, {k: v["county"] for k, v in schools.items()})
+        print(f"  ArbiterLive: {len(rows)} upcoming game entries from {n} teams")
+        return rows
+    except Exception as e:
+        print("  ArbiterLive schedules skipped:", e)
+        return []
+
+
+def preseason(cfg):
+    """Hold dates for a sport with rank_date / project_date: no rankings or game predictions before rank_date, no
+    projected brackets or odds before project_date. Returns {"ranks": d, "proj": d}, each None once that date arrives."""
+    if not cfg.get("rank_date"):
+        return {}
+    today = now_et().date().isoformat()
+    return dict(ranks=None if today >= cfg["rank_date"] else cfg["rank_date"],
+                proj=None if today >= cfg["project_date"] else cfg["project_date"])
+
+
 def build_site(key, cfg, nonce, stamp):
     out = ROOT / cfg["out"]
     out.mkdir(parents=True, exist_ok=True)
@@ -322,18 +403,29 @@ def build_site(key, cfg, nonce, stamp):
     sports = {}
     for div, d in cfg["divisions"].items():
         raw, standings = fetch(d["api"], nonce)
+        if cfg.get("season_start"):
+            raw = [x for x in raw if (x["game_date"] or "") >= cfg["season_start"]]   # drop last season's games
+            # Standings with games played but no results this season are last season's: use this season's alignment
+            stale = not any(x["result"] for x in raw) and any(t["games_played"] for rs in standings["classifications"].values()
+                                                               for r in rs for t in r["teams"])
+            if stale and cfg.get("alignment"):
+                standings = realign(standings, f'{d["gender"].lower()}-{cfg["alignment"]}', nonce)
+        if cfg.get("arbiter"):
+            raw += arbiter_games(raw, standings, d["gender"].lower(), cfg)
         fill_scores(raw, SCORE_FIXES.get(key, {}))
         teams = rank_sport(raw, standings, cfg["classes"], cfg.get("first_meeting_only", False))
         for t in teams:
             t["slug"] = slug(t["school"])   # the team's own page: /<sport>/<slug>/
         sports[div] = dict(teams=teams, through=max((g["date"] for t in teams for g in t["games"]), default=None))
+        hold = sports[div]["hold"] = preseason(cfg)
         if cfg.get("olr"):
             ratings, home, class_means = oldline.rate(teams, cfg["olr"], list(cfg["classes"]))
             assign_ranks(teams)
             project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False),
                     lambda a, b, a_home: oldline.win_prob(ratings[a], ratings[b], 1 if a_home else -1, home, cfg["olr"]["k"]) >= .5,
                     cfg["playoffs"]["last_date"])
-            oldline.simulate(teams, cfg["classes"], ratings, home, cfg["olr"], cfg["playoffs"], cfg["regions"])
+            if hold.get("proj") is None:   # title odds only once projections are live
+                oldline.simulate(teams, cfg["classes"], ratings, home, cfg["olr"], cfg["playoffs"], cfg["regions"])
             members = {t["school"] for t in teams}
             sports[div]["nonmember"] = {x: round(v, 2) for x, v in ratings.items() if x not in members}
             sports[div]["home"] = round(home, 2)
@@ -401,7 +493,8 @@ def write_team_page(out, page, cfg, div, s, t, schools, rel, sport_description):
     year = (s["through"] or now_et().date().isoformat())[:4]
     name = f"{school} {mascot}" if mascot else school
     title = f"{name} {sport} · Rankings, Schedule & Scores · Old Line Rankings"
-    desc = (f"{school} ({cls} {t['region']}) is {rec}, #{t['rank']} in {cls} by Old Line Rating. "
+    ranked = (s.get("hold") or {}).get("ranks") is None   # no rankings yet early in the season
+    desc = (f"{school} ({cls} {t['region']}) is {rec}" + (f", #{t['rank']} in {cls} by Old Line Rating. " if ranked else ". ") +
             f"{year} {sport.lower()} schedule, scores, playoff odds and where to watch.")
     url = f"{SITE_URL}/{rel}{t['slug']}/"
     when = lambda g: datetime.date.fromisoformat(g["date"]).strftime("%b %-d")
@@ -415,8 +508,9 @@ def write_team_page(out, page, cfg, div, s, t, schools, rel, sport_description):
         extra = (f' · {u["time"]}' if u.get("time") else "") + (f' · <a href="{esc(u["watch"])}">Watch on NFHS Network</a>' if u.get("watch") else "")
         rows.append(f'<tr><td>{when(u)}</td><td>{"vs" if u["home"] else "@"} {esc(u["opp"])}</td><td>Upcoming{extra}</td></tr>')
     static = (f'<article class="wrap seo"><h1>{esc(name)} {esc(sport)}</h1><p>{esc(desc)}</p>'
-              f'<p>Record {rec} · Old Line Rating {rating} · #{t["rank"]} in {esc(cls)} · #{region_rank} in {esc(t["region"])} · '
-              f'#{t["stateRank"]} statewide{f" · {esc(city)}" if city else ""}</p>'
+              + (f'<p>Record {rec} · Old Line Rating {rating} · #{t["rank"]} in {esc(cls)} · #{region_rank} in {esc(t["region"])} · '
+                 f'#{t["stateRank"]} statewide{f" · {esc(city)}" if city else ""}</p>' if ranked else
+                 f'<p>Record {rec} · {esc(cls)} {esc(t["region"])}{f" · {esc(city)}" if city else ""}</p>') +
               f'<h2>{year} schedule and results</h2><table>{"".join(rows)}</table></article>')
     team_ld = {"@type": "SportsTeam", "name": f"{name} {sport}"}
     ld = {"@context": "https://schema.org", **team_ld, "sport": cfg.get("activity", sport), "url": url,
@@ -454,6 +548,11 @@ def page_variant(page, cfg, rel, sport_description, path, title, desc, og_title,
 SECTIONS = ("rankings", "schedule", "playoffs", "how-it-works")
 
 
+def hold_text(date):
+    """'Rankings start December 15, once teams have a few games played.'"""
+    return f"Rankings start {datetime.date.fromisoformat(date):%B %-d}, once teams have a few games played."
+
+
 def write_section_pages(out, page, cfg, sports, rel, sport_description):
     """Real pages for the app's sections (rankings overall and by class, schedule, playoffs by class, how it works),
     each with its own title and description and, for rankings, a plain ranked list linking every team's page."""
@@ -463,7 +562,11 @@ def write_section_pages(out, page, cfg, sports, rel, sport_description):
     rated = lambda t: f'{t["rating"]:+.{cfg["olr"].get("digits", 1)}f}' if cfg.get("olr") else f'{t["rating"]:.2f}'
     rec = lambda t: f'{t["W"]}-{t["L"]}' + (f'-{t["T"]}' if cfg.get("ties") else "")
     teams = [t for s in sports.values() for t in s["teams"]]
+    held = next((s["hold"]["ranks"] for s in sports.values() if (s.get("hold") or {}).get("ranks") is not None), None)
+
     def ranked(ts, key):
+        if held is not None:
+            return f"<p>{esc(hold_text(held))}</p>"
         return "<ol>" + "".join(f'<li><a href="{t["slug"]}/">{esc(t["school"])}</a> ({esc(label(t["cls"]))} {esc(t["region"])}) '
                                 f'{rec(t)} · Old Line Rating {rated(t)}</li>' for t in sorted(ts, key=lambda t: t[key])) + "</ol>"
     pages = []   # (path, title, description, h1, body, canonical)
@@ -570,7 +673,7 @@ def game_of_week(b, days=7):
     NFHS Network broadcast, close enough to be a real contest (favorite at most 75%, else 85%), picking the
     highest average Old Line Rating. Returns None when no game qualifies."""
     cfg = b["cfg"]
-    if not cfg.get("olr"):
+    if not cfg.get("olr") or any((s.get("hold") or {}).get("ranks") is not None for s in b["sports"].values()):
         return None
     today = now_et().date()
     best = {}
@@ -600,10 +703,14 @@ def write_splash(built, stamp):
     cards = []
     for b in built:
         cfg, multi = b["cfg"], len(b["cfg"]["divisions"]) > 1
-        through = max(s["through"] for s in b["sports"].values() if s["through"])
+        through = max((s["through"] for s in b["sports"].values() if s["through"]), default=None)
         teams = sum(len(s["teams"]) for s in b["sports"].values())
         leaders = []
         for div, s in b["sports"].items():
+            held = (s.get("hold") or {}).get("ranks")
+            if held is not None:   # early season: no No. 1s yet
+                leaders.append(f'<li class="hold">{esc(hold_text(held))}</li>')
+                continue
             for c in cfg["classes"]:
                 t = next((t for t in s["teams"] if t["cls"] == c), None)
                 if not t:
@@ -613,10 +720,11 @@ def write_splash(built, stamp):
                 label = cfg.get("labels", {}).get(c, c) + (" " + cfg["divisions"][div]["label"] if multi else "")
                 leaders.append(f'<li><span class="logo" style="--sz:26px">{img}</span><b>{esc(t["school"])}</b><small>{esc(label)}</small></li>')
         divs = " & ".join(d["label"] for d in cfg["divisions"].values()) if multi else ""
-        date = datetime.date.fromisoformat(through).strftime("%b %-d")
+        date = through and datetime.date.fromisoformat(through).strftime("%b %-d")
+        season = cfg["season"] + " " + (cfg.get("season_years") or (through or now_et().date().isoformat())[:4])
         cards.append(f'''<a class="sport-card" href="{b["href"]}">
       <div class="sport-top"><span class="sport-icon">{icons.svg(cfg["icon"])}</span><div><h2>{esc(cfg["sport"])}</h2>
-        <small>{esc(" · ".join(filter(None, [divs, cfg["season"] + " " + through[:4], f"{teams} teams", f"through {date}"])))}</small></div></div>
+        <small>{esc(" · ".join(filter(None, [divs, season, f"{teams} teams", date and f"through {date}"])))}</small></div></div>
       <ul class="leaders">{"".join(leaders)}</ul>
       <span class="sport-go">Old Line {esc(cfg["sport"])} Rankings →</span></a>''')
     coming = [f'''<div class="sport-card soon"><div class="sport-top"><span class="sport-icon">{icons.svg(c["icon"])}</span>

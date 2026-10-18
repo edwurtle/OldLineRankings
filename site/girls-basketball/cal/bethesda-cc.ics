@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bethesda-CC Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-20-bethesda-cc-georgetown-day-school-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261120T153000
+DTEND;TZID=America/New_York:20261120T173000
+SUMMARY:Girls Basketball: Georgetown Day School at Bethesda-CC
+LOCATION:Bethesda-CC
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-stone-ridge-school-of-the-sacred-heart-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261123T163000
+DTEND;TZID=America/New_York:20261123T183000
+SUMMARY:Girls Basketball: Bethesda-CC at Stone Ridge School of the Sacred Heart
+LOCATION:Stone Ridge School of the Sacred Heart
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-bethesda-cc-holy-child-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261128T114500
+DTEND;TZID=America/New_York:20261128T134500
+SUMMARY:Girls Basketball: Holy Child at Bethesda-CC
+LOCATION:Bethesda-CC
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-albert-einstein-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261201T153000
+DTEND;TZID=America/New_York:20261201T173000
+SUMMARY:Girls Basketball: Bethesda-CC at Albert Einstein
+LOCATION:Albert Einstein
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Falbert-einstein-high-school-kensington-md%2Fgam4f2fc279ef
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Falbert-einstein-high-school-kensington-md%2Fgam4f2fc279ef
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-bethesda-cc-richard-montgomery-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T191500
+DTEND;TZID=America/New_York:20261204T211500
+SUMMARY:Girls Basketball: Richard Montgomery at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam91f7d85b79\nTickets: https://gofan.co/event/6706567
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam91f7d85b79
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-bethesda-cc-clarksburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261208T191500
+DTEND;TZID=America/New_York:20261208T211500
+SUMMARY:Girls Basketball: Clarksburg at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam7029e0afc7\nTickets: https://gofan.co/event/6706578
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam7029e0afc7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-walt-whitman-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T191500
+DTEND;TZID=America/New_York:20261214T211500
+SUMMARY:Girls Basketball: Bethesda-CC at Walt Whitman
+LOCATION:Walt Whitman
+DESCRIPTION:Tickets: https://gofan.co/event/6709251
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-montgomery-blair-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T191500
+DTEND;TZID=America/New_York:20261216T211500
+SUMMARY:Girls Basketball: Bethesda-CC at Montgomery Blair
+LOCATION:Montgomery Blair
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgamef1b8808eb\nTickets: https://gofan.co/event/6706679
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgamef1b8808eb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-bethesda-cc-quince-orchard-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T191500
+DTEND;TZID=America/New_York:20261218T211500
+SUMMARY:Girls Basketball: Quince Orchard at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgama4033b8ec4\nTickets: https://gofan.co/event/6706559
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgama4033b8ec4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-bethesda-cc-thomas-s-wootton-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261221T191500
+DTEND;TZID=America/New_York:20261221T211500
+SUMMARY:Girls Basketball: Thomas S. Wootton at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgameee1b0ded5\nTickets: https://gofan.co/event/6706563
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgameee1b0ded5
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-walter-johnson-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T191500
+DTEND;TZID=America/New_York:20270105T211500
+SUMMARY:Girls Basketball: Bethesda-CC at Walter Johnson
+LOCATION:Walter Johnson
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgam644ca4993f\nTickets: https://gofan.co/event/6707522
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwalter-johnson-high-school-bethesda-md%2Fgam644ca4993f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-bethesda-cc-winston-churchill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T191500
+DTEND;TZID=America/New_York:20270108T211500
+SUMMARY:Girls Basketball: Winston Churchill at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam644577ab4e\nTickets: https://gofan.co/event/6706564
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam644577ab4e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-gaithersburg-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270112T191500
+DTEND;TZID=America/New_York:20270112T211500
+SUMMARY:Girls Basketball: Bethesda-CC at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Tickets: https://gofan.co/event/6707130
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-bethesda-cc-northwest-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T191500
+DTEND;TZID=America/New_York:20270114T211500
+SUMMARY:Girls Basketball: Northwest at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam7403b0aac5\nTickets: https://gofan.co/event/6706566
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam7403b0aac5
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-bethesda-cc-sherwood-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T191500
+DTEND;TZID=America/New_York:20270119T211500
+SUMMARY:Girls Basketball: Sherwood at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam5de292a138\nTickets: https://gofan.co/event/6706571
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam5de292a138
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-john-f-kennedy-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T191500
+DTEND;TZID=America/New_York:20270122T211500
+SUMMARY:Girls Basketball: Bethesda-CC at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam3cbd150226\nTickets: https://gofan.co/event/6707292
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam3cbd150226
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-bethesda-cc-walt-whitman-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T191500
+DTEND;TZID=America/New_York:20270129T211500
+SUMMARY:Girls Basketball: Walt Whitman at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam802d56aed1\nTickets: https://gofan.co/event/6706570
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam802d56aed1
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-quince-orchard-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270201T191500
+DTEND;TZID=America/New_York:20270201T211500
+SUMMARY:Girls Basketball: Bethesda-CC at Quince Orchard
+LOCATION:Quince Orchard
+DESCRIPTION:Tickets: https://gofan.co/event/6707778
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-thomas-s-wootton-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T191500
+DTEND;TZID=America/New_York:20270203T211500
+SUMMARY:Girls Basketball: Bethesda-CC at Thomas S. Wootton
+LOCATION:Thomas S. Wootton
+DESCRIPTION:Tickets: https://gofan.co/event/6708126
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-bethesda-cc-walter-johnson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T180000
+DTEND;TZID=America/New_York:20270205T200000
+SUMMARY:Girls Basketball: Walter Johnson at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam9c097d90be\nTickets: https://gofan.co/event/6706569
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam9c097d90be
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-winston-churchill-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270208T180000
+DTEND;TZID=America/New_York:20270208T200000
+SUMMARY:Girls Basketball: Bethesda-CC at Winston Churchill
+LOCATION:Winston Churchill
+DESCRIPTION:Tickets: https://gofan.co/event/6707972
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-james-hubert-blake-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T191500
+DTEND;TZID=America/New_York:20270212T211500
+SUMMARY:Girls Basketball: Bethesda-CC at James Hubert Blake
+LOCATION:James Hubert Blake
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjames-hubert-blake-high-school-silver-spring-md%2Fgam1ebfa19126\nTickets: https://gofan.co/event/6706303
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjames-hubert-blake-high-school-silver-spring-md%2Fgam1ebfa19126
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-bethesda-cc-damascus-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T173000
+DTEND;TZID=America/New_York:20270216T193000
+SUMMARY:Girls Basketball: Damascus at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgamb188313840\nTickets: https://gofan.co/event/6706546
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgamb188313840
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-rockville-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T173000
+DTEND;TZID=America/New_York:20270219T193000
+SUMMARY:Girls Basketball: Bethesda-CC at Rockville
+LOCATION:Rockville
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frockville-high-school-rockville-md%2Fgamd1125edbc6\nTickets: https://gofan.co/event/6708194
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frockville-high-school-rockville-md%2Fgamd1125edbc6
+END:VEVENT
+END:VCALENDAR

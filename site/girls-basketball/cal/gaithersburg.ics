@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Gaithersburg Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-04-wheaton-gaithersburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T191500
+DTEND;TZID=America/New_York:20261204T211500
+SUMMARY:Girls Basketball: Gaithersburg at Wheaton
+LOCATION:Wheaton
+DESCRIPTION:Tickets: https://gofan.co/event/6708419
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-watkins-mill-gaithersburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261208T191500
+DTEND;TZID=America/New_York:20261208T211500
+SUMMARY:Girls Basketball: Gaithersburg at Watkins Mill
+LOCATION:Watkins Mill
+DESCRIPTION:Tickets: https://gofan.co/event/6708899
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-gaithersburg-seneca-valley-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T191500
+DTEND;TZID=America/New_York:20261211T211500
+SUMMARY:Girls Basketball: Seneca Valley at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Tickets: https://gofan.co/event/6707092
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-gaithersburg-quince-orchard-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T191500
+DTEND;TZID=America/New_York:20261214T211500
+SUMMARY:Girls Basketball: Quince Orchard at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Tickets: https://gofan.co/event/6707102
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-gaithersburg-sherwood-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T191500
+DTEND;TZID=America/New_York:20261216T211500
+SUMMARY:Girls Basketball: Sherwood at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Tickets: https://gofan.co/event/6707082
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-col-zadok-magruder-gaithersburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T191500
+DTEND;TZID=America/New_York:20261218T211500
+SUMMARY:Girls Basketball: Gaithersburg at Col. Zadok Magruder
+LOCATION:Col. Zadok Magruder
+DESCRIPTION:Tickets: https://gofan.co/event/6707419
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-gaithersburg-paint-branch-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261221T191500
+DTEND;TZID=America/New_York:20261221T211500
+SUMMARY:Girls Basketball: Paint Branch at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Tickets: https://gofan.co/event/6707090
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-springbrook-gaithersburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T191500
+DTEND;TZID=America/New_York:20270105T211500
+SUMMARY:Girls Basketball: Gaithersburg at Springbrook
+LOCATION:Springbrook
+DESCRIPTION:Tickets: https://gofan.co/event/6709068
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-gaithersburg-james-hubert-blake-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T191500
+DTEND;TZID=America/New_York:20270108T211500
+SUMMARY:Girls Basketball: James Hubert Blake at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Tickets: https://gofan.co/event/6707118
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-gaithersburg-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270112T191500
+DTEND;TZID=America/New_York:20270112T211500
+SUMMARY:Girls Basketball: Bethesda-CC at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Tickets: https://gofan.co/event/6707130
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-clarksburg-gaithersburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T191500
+DTEND;TZID=America/New_York:20270114T211500
+SUMMARY:Girls Basketball: Gaithersburg at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgam042307443a\nTickets: https://gofan.co/event/6706800
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgam042307443a
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-walt-whitman-gaithersburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T191500
+DTEND;TZID=America/New_York:20270119T211500
+SUMMARY:Girls Basketball: Gaithersburg at Walt Whitman
+LOCATION:Walt Whitman
+DESCRIPTION:Tickets: https://gofan.co/event/6709235
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-gaithersburg-walter-johnson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T180000
+DTEND;TZID=America/New_York:20270122T200000
+SUMMARY:Girls Basketball: Walter Johnson at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Tickets: https://gofan.co/event/6707147
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-gaithersburg-winston-churchill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T191500
+DTEND;TZID=America/New_York:20270126T211500
+SUMMARY:Girls Basketball: Winston Churchill at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Tickets: https://gofan.co/event/6707073
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-sherwood-gaithersburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T191500
+DTEND;TZID=America/New_York:20270129T211500
+SUMMARY:Girls Basketball: Gaithersburg at Sherwood
+LOCATION:Sherwood
+DESCRIPTION:Tickets: https://gofan.co/event/6708799
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-gaithersburg-col-zadok-magruder-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270201T191500
+DTEND;TZID=America/New_York:20270201T211500
+SUMMARY:Girls Basketball: Col. Zadok Magruder at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Tickets: https://gofan.co/event/6707110
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-paint-branch-gaithersburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T180000
+DTEND;TZID=America/New_York:20270203T200000
+SUMMARY:Girls Basketball: Gaithersburg at Paint Branch
+LOCATION:Paint Branch
+DESCRIPTION:Tickets: https://gofan.co/event/6709129
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-gaithersburg-springbrook-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T180000
+DTEND;TZID=America/New_York:20270205T200000
+SUMMARY:Girls Basketball: Springbrook at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Tickets: https://gofan.co/event/6707086
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-james-hubert-blake-gaithersburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270208T180000
+DTEND;TZID=America/New_York:20270208T200000
+SUMMARY:Girls Basketball: Gaithersburg at James Hubert Blake
+LOCATION:James Hubert Blake
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjames-hubert-blake-high-school-silver-spring-md%2Fgam97f0c07e17\nTickets: https://gofan.co/event/6706294
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjames-hubert-blake-high-school-silver-spring-md%2Fgam97f0c07e17
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-gaithersburg-northwood-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270218T173000
+DTEND;TZID=America/New_York:20270218T193000
+SUMMARY:Girls Basketball: Northwood at Gaithersburg
+LOCATION:Gaithersburg
+DESCRIPTION:Tickets: https://gofan.co/event/6707162
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Leonardtown Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-11-chopticon-leonardtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T183000
+DTEND;TZID=America/New_York:20261211T203000
+SUMMARY:Girls Basketball: Leonardtown at Chopticon
+LOCATION:Chopticon
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-leonardtown-chopticon-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T181500
+DTEND;TZID=America/New_York:20270108T201500
+SUMMARY:Girls Basketball: Chopticon at Leonardtown
+LOCATION:Leonardtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-leonardtown-thomas-stone-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270113T181500
+DTEND;TZID=America/New_York:20270113T201500
+SUMMARY:Girls Basketball: Thomas Stone at Leonardtown
+LOCATION:Leonardtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-calvert-leonardtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T181500
+DTEND;TZID=America/New_York:20270115T201500
+SUMMARY:Girls Basketball: Leonardtown at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-westlake-leonardtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270120T181500
+DTEND;TZID=America/New_York:20270120T201500
+SUMMARY:Girls Basketball: Leonardtown at Westlake
+LOCATION:Westlake
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam91dc3fa830
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestlake-high-school-waldorf-md%2Fgam91dc3fa830
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-leonardtown-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T181500
+DTEND;TZID=America/New_York:20270122T201500
+SUMMARY:Girls Basketball: Huntingtown at Leonardtown
+LOCATION:Leonardtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-leonardtown-la-plata-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270127T181500
+DTEND;TZID=America/New_York:20270127T201500
+SUMMARY:Girls Basketball: La Plata at Leonardtown
+LOCATION:Leonardtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-great-mills-leonardtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T181500
+DTEND;TZID=America/New_York:20270129T201500
+SUMMARY:Girls Basketball: Leonardtown at Great Mills
+LOCATION:Great Mills
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-henry-e-lackey-leonardtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T181500
+DTEND;TZID=America/New_York:20270203T201500
+SUMMARY:Girls Basketball: Leonardtown at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam5f29eadabb
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flackey-high-school-indian-head-md%2Fgam5f29eadabb
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-northern-c-leonardtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T181500
+DTEND;TZID=America/New_York:20270205T201500
+SUMMARY:Girls Basketball: Leonardtown at Northern-C
+LOCATION:Northern-C
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgamacad276241
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgamacad276241
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-leonardtown-mcdonough-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T181500
+DTEND;TZID=America/New_York:20270210T201500
+SUMMARY:Girls Basketball: McDonough at Leonardtown
+LOCATION:Leonardtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-leonardtown-st-charles-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T181500
+DTEND;TZID=America/New_York:20270212T201500
+SUMMARY:Girls Basketball: St. Charles at Leonardtown
+LOCATION:Leonardtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-north-point-leonardtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270217T181500
+DTEND;TZID=America/New_York:20270217T201500
+SUMMARY:Girls Basketball: Leonardtown at North Point
+LOCATION:North Point
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-point-high-school-waldorf-md%2Fgam88ad5712ba
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-point-high-school-waldorf-md%2Fgam88ad5712ba
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-leonardtown-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T181500
+DTEND;TZID=America/New_York:20270219T201500
+SUMMARY:Girls Basketball: Patuxent at Leonardtown
+LOCATION:Leonardtown
+END:VEVENT
+END:VCALENDAR

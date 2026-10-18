@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Reservoir Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-04-glenelg-reservoir-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261204T180000
+DTEND;TZID=America/New_York:20261204T200000
+SUMMARY:Boys Basketball: Reservoir at Glenelg
+LOCATION:Glenelg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgam76c5b0d22b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgam76c5b0d22b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-centennial-reservoir-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261207T173000
+DTEND;TZID=America/New_York:20261207T193000
+SUMMARY:Boys Basketball: Reservoir at Centennial
+LOCATION:Centennial
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcentennial-high-school-ellicott-city-md%2Fgamd3db423e6f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcentennial-high-school-ellicott-city-md%2Fgamd3db423e6f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-reservoir-guilford-park-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261209T173000
+DTEND;TZID=America/New_York:20261209T193000
+SUMMARY:Boys Basketball: Guilford Park at Reservoir
+LOCATION:Reservoir
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-winters-mill-reservoir-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261211T183000
+DTEND;TZID=America/New_York:20261211T203000
+SUMMARY:Boys Basketball: Reservoir at Winters Mill
+LOCATION:Winters Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-atholton-reservoir-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261214T173000
+DTEND;TZID=America/New_York:20261214T193000
+SUMMARY:Boys Basketball: Reservoir at Atholton
+LOCATION:Atholton
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-reservoir-howard-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Boys Basketball: Howard at Reservoir
+LOCATION:Reservoir
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Freservoir-high-school-fulton-md%2Fgamf92a00e2da
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Freservoir-high-school-fulton-md%2Fgamf92a00e2da
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-marriotts-ridge-reservoir-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Boys Basketball: Reservoir at Marriotts Ridge
+LOCATION:Marriotts Ridge
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-reservoir-arundel-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261223T173000
+DTEND;TZID=America/New_York:20261223T193000
+SUMMARY:Boys Basketball: Arundel at Reservoir
+LOCATION:Reservoir
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Freservoir-high-school-fulton-md%2Fgamf7c30596e9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Freservoir-high-school-fulton-md%2Fgamf7c30596e9
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Southern-AA Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-21-southern-aa-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261121T123000
+DTEND;TZID=America/New_York:20261121T143000
+SUMMARY:Girls Basketball: Calvert at Southern-AA
+LOCATION:Southern-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-southern-aa-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261124T173000
+DTEND;TZID=America/New_York:20261124T193000
+SUMMARY:Girls Basketball: Northern-C at Southern-AA
+LOCATION:Southern-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-meade-southern-aa-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T170000
+DTEND;TZID=America/New_York:20261204T190000
+SUMMARY:Girls Basketball: Southern-AA at Meade
+LOCATION:Meade
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-southern-aa-south-river-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T170000
+DTEND;TZID=America/New_York:20261211T190000
+SUMMARY:Girls Basketball: South River at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-high-school-harwood-md%2Fgam325a40ea9e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-high-school-harwood-md%2Fgam325a40ea9e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-north-county-southern-aa-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T170000
+DTEND;TZID=America/New_York:20261218T190000
+SUMMARY:Girls Basketball: Southern-AA at North County
+LOCATION:North County
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-county-high-school-glen-burnie-md%2Fgam863b82c760
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-county-high-school-glen-burnie-md%2Fgam863b82c760
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-southern-aa-great-mills-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:Girls Basketball: Great Mills at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-high-school-harwood-md%2Fgam9f18250b53
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-high-school-harwood-md%2Fgam9f18250b53
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-northeast-aa-southern-aa-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Girls Basketball: Southern-AA at Northeast-AA
+LOCATION:Northeast-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-westlake-southern-aa-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270106T181500
+DTEND;TZID=America/New_York:20270106T201500
+SUMMARY:Girls Basketball: Southern-AA at Westlake
+LOCATION:Westlake
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-glen-burnie-southern-aa-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T170000
+DTEND;TZID=America/New_York:20270108T190000
+SUMMARY:Girls Basketball: Southern-AA at Glen Burnie
+LOCATION:Glen Burnie
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-southern-aa-severna-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T170000
+DTEND;TZID=America/New_York:20270115T190000
+SUMMARY:Girls Basketball: Severna Park at Southern-AA
+LOCATION:Southern-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-southern-aa-arundel-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T180000
+DTEND;TZID=America/New_York:20270119T200000
+SUMMARY:Girls Basketball: Arundel at Southern-AA
+LOCATION:Southern-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-crofton-southern-aa-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T170000
+DTEND;TZID=America/New_York:20270122T190000
+SUMMARY:Girls Basketball: Southern-AA at Crofton
+LOCATION:Crofton
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-severn-run-southern-aa-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T180000
+DTEND;TZID=America/New_York:20270126T200000
+SUMMARY:Girls Basketball: Southern-AA at Severn Run
+LOCATION:Severn Run
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-southern-aa-annapolis-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T170000
+DTEND;TZID=America/New_York:20270129T190000
+SUMMARY:Girls Basketball: Annapolis at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-high-school-harwood-md%2Fgame095ee3a42
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-high-school-harwood-md%2Fgame095ee3a42
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-southern-aa-old-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270202T180000
+DTEND;TZID=America/New_York:20270202T200000
+SUMMARY:Girls Basketball: Old Mill at Southern-AA
+LOCATION:Southern-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-southern-aa-meade-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
+SUMMARY:Girls Basketball: Meade at Southern-AA
+LOCATION:Southern-AA
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-high-school-harwood-md%2Fgam782eb4a650
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-high-school-harwood-md%2Fgam782eb4a650
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-broadneck-southern-aa-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T180000
+DTEND;TZID=America/New_York:20270210T200000
+SUMMARY:Girls Basketball: Southern-AA at Broadneck
+LOCATION:Broadneck
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-south-river-southern-aa-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T170000
+DTEND;TZID=America/New_York:20270212T190000
+SUMMARY:Girls Basketball: Southern-AA at South River
+LOCATION:South River
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-chesapeake-aa-southern-aa-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T180000
+DTEND;TZID=America/New_York:20270216T200000
+SUMMARY:Girls Basketball: Southern-AA at Chesapeake-AA
+LOCATION:Chesapeake-AA
+END:VEVENT
+END:VCALENDAR

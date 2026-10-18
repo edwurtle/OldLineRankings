@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Patapsco Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-16-chesapeake-b-patapsco-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Girls Basketball: Patapsco at Chesapeake-B
+LOCATION:Chesapeake-B
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-baltimore-md%2Fgam2f0dd2c8b0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-baltimore-md%2Fgam2f0dd2c8b0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-patapsco-eastern-tech-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Girls Basketball: Eastern Tech at Patapsco
+LOCATION:Patapsco
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatapsco-high-school-baltimore-md%2Fgamdd8054dc47
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatapsco-high-school-baltimore-md%2Fgamdd8054dc47
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-towson-patapsco-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270106T173000
+DTEND;TZID=America/New_York:20270106T193000
+SUMMARY:Girls Basketball: Patapsco at Towson
+LOCATION:Towson
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-dundalk-patapsco-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Girls Basketball: Patapsco at Dundalk
+LOCATION:Dundalk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-patapsco-carver-aandt-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270113T173000
+DTEND;TZID=America/New_York:20270113T193000
+SUMMARY:Girls Basketball: Carver A&T at Patapsco
+LOCATION:Patapsco
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-kenwood-patapsco-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T173000
+DTEND;TZID=America/New_York:20270114T193000
+SUMMARY:Girls Basketball: Patapsco at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgamed42d17651\nTickets: https://gofan.co/event/6890992
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgamed42d17651
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-patapsco-loch-raven-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270120T173000
+DTEND;TZID=America/New_York:20270120T193000
+SUMMARY:Girls Basketball: Loch Raven at Patapsco
+LOCATION:Patapsco
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatapsco-high-school-baltimore-md%2Fgam37540b496f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatapsco-high-school-baltimore-md%2Fgam37540b496f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-patapsco-chesapeake-b-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T173000
+DTEND;TZID=America/New_York:20270122T193000
+SUMMARY:Girls Basketball: Chesapeake-B at Patapsco
+LOCATION:Patapsco
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatapsco-high-school-baltimore-md%2Fgam84f6d38668
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatapsco-high-school-baltimore-md%2Fgam84f6d38668
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-overlea-patapsco-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270127T173000
+DTEND;TZID=America/New_York:20270127T193000
+SUMMARY:Girls Basketball: Patapsco at Overlea
+LOCATION:Overlea
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foverlea-high-school-baltimore-md%2Fgamda70051d0c\nTickets: https://gofan.co/event/6737999
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foverlea-high-school-baltimore-md%2Fgamda70051d0c
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-patapsco-sparrows-point-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T173000
+DTEND;TZID=America/New_York:20270129T193000
+SUMMARY:Girls Basketball: Sparrows Point at Patapsco
+LOCATION:Patapsco
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatapsco-high-school-baltimore-md%2Fgamc5a85d2b15
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatapsco-high-school-baltimore-md%2Fgamc5a85d2b15
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-perry-hall-patapsco-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T173000
+DTEND;TZID=America/New_York:20270203T193000
+SUMMARY:Girls Basketball: Patapsco at Perry Hall
+LOCATION:Perry Hall
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fperry-hall-high-school-baltimore-md%2Fgama1182b357f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fperry-hall-high-school-baltimore-md%2Fgama1182b357f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-patapsco-joppatowne-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270209T173000
+DTEND;TZID=America/New_York:20270209T193000
+SUMMARY:Girls Basketball: Joppatowne at Patapsco
+LOCATION:Patapsco
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-patapsco-kenwood-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T173000
+DTEND;TZID=America/New_York:20270210T193000
+SUMMARY:Girls Basketball: Kenwood at Patapsco
+LOCATION:Patapsco
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-patapsco-dundalk-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T173000
+DTEND;TZID=America/New_York:20270212T193000
+SUMMARY:Girls Basketball: Dundalk at Patapsco
+LOCATION:Patapsco
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-patapsco-parkville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270217T173000
+DTEND;TZID=America/New_York:20270217T193000
+SUMMARY:Girls Basketball: Parkville at Patapsco
+LOCATION:Patapsco
+END:VEVENT
+END:VCALENDAR

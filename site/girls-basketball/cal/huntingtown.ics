@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Huntingtown Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-19-clinton-grace-christian-school-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261119T183000
+DTEND;TZID=America/New_York:20261119T203000
+SUMMARY:Girls Basketball: Huntingtown at Clinton Grace Christian School
+LOCATION:Clinton Grace Christian School
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-frederick-douglass-pg-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261121T130000
+DTEND;TZID=America/New_York:20261121T150000
+SUMMARY:Girls Basketball: Huntingtown at Frederick Douglass-PG
+LOCATION:Frederick Douglass-PG
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-huntingtown-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261201T183000
+DTEND;TZID=America/New_York:20261201T203000
+SUMMARY:Girls Basketball: Bowie at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-huntingtown-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T181500
+DTEND;TZID=America/New_York:20261204T201500
+SUMMARY:Girls Basketball: Patuxent at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-great-mills-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T181500
+DTEND;TZID=America/New_York:20261207T201500
+SUMMARY:Girls Basketball: Huntingtown at Great Mills
+LOCATION:Great Mills
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-calvert-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261209T181500
+DTEND;TZID=America/New_York:20261209T201500
+SUMMARY:Girls Basketball: Huntingtown at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-northern-c-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T180000
+DTEND;TZID=America/New_York:20261211T200000
+SUMMARY:Girls Basketball: Huntingtown at Northern-C
+LOCATION:Northern-C
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam4a499ff818
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam4a499ff818
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-huntingtown-digital-harbor-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T181500
+DTEND;TZID=America/New_York:20261216T201500
+SUMMARY:Girls Basketball: Digital Harbor at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-colonial-beach-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261219T180000
+DTEND;TZID=America/New_York:20261219T200000
+SUMMARY:Girls Basketball: Huntingtown at Colonial Beach
+LOCATION:Colonial Beach
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonial-beach-high-school-colonial-beach-va%2Fgam5cc7f05282
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonial-beach-high-school-colonial-beach-va%2Fgam5cc7f05282
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-huntingtown-great-mills-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T181500
+DTEND;TZID=America/New_York:20270108T201500
+SUMMARY:Girls Basketball: Great Mills at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-huntingtown-st-charles-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270113T181500
+DTEND;TZID=America/New_York:20270113T201500
+SUMMARY:Girls Basketball: St. Charles at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-chopticon-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T181500
+DTEND;TZID=America/New_York:20270115T201500
+SUMMARY:Girls Basketball: Huntingtown at Chopticon
+LOCATION:Chopticon
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-thomas-stone-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270120T181500
+DTEND;TZID=America/New_York:20270120T201500
+SUMMARY:Girls Basketball: Huntingtown at Thomas Stone
+LOCATION:Thomas Stone
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam474c25d8d6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam474c25d8d6
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-leonardtown-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T181500
+DTEND;TZID=America/New_York:20270122T201500
+SUMMARY:Girls Basketball: Huntingtown at Leonardtown
+LOCATION:Leonardtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-huntingtown-westlake-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270127T181500
+DTEND;TZID=America/New_York:20270127T201500
+SUMMARY:Girls Basketball: Westlake at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-huntingtown-north-point-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T181500
+DTEND;TZID=America/New_York:20270129T201500
+SUMMARY:Girls Basketball: North Point at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-la-plata-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T181500
+DTEND;TZID=America/New_York:20270203T201500
+SUMMARY:Girls Basketball: Huntingtown at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgama9730eb5af
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgama9730eb5af
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-patuxent-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T181500
+DTEND;TZID=America/New_York:20270205T201500
+SUMMARY:Girls Basketball: Huntingtown at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgamdab934ed38\nTickets: https://gofan.co/event/6802822
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgamdab934ed38
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-huntingtown-henry-e-lackey-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T181500
+DTEND;TZID=America/New_York:20270210T201500
+SUMMARY:Girls Basketball: Henry E. Lackey at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-huntingtown-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T180000
+DTEND;TZID=America/New_York:20270212T200000
+SUMMARY:Girls Basketball: Northern-C at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-mcdonough-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270217T181500
+DTEND;TZID=America/New_York:20270217T201500
+SUMMARY:Girls Basketball: Huntingtown at McDonough
+LOCATION:McDonough
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam6794bdb7b7
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam6794bdb7b7
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-huntingtown-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T181500
+DTEND;TZID=America/New_York:20270219T201500
+SUMMARY:Girls Basketball: Calvert at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-gwynn-park-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270222T190000
+DTEND;TZID=America/New_York:20270222T210000
+SUMMARY:Girls Basketball: Huntingtown at Gwynn Park
+LOCATION:Gwynn Park
+END:VEVENT
+END:VCALENDAR

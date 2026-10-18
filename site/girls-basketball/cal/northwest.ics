@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Northwest Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-04-northwood-northwest-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T191500
+DTEND;TZID=America/New_York:20261204T211500
+SUMMARY:Girls Basketball: Northwest at Northwood
+LOCATION:Northwood
+DESCRIPTION:Tickets: https://gofan.co/event/6707673
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-northwest-richard-montgomery-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261208T191500
+DTEND;TZID=America/New_York:20261208T211500
+SUMMARY:Girls Basketball: Richard Montgomery at Northwest
+LOCATION:Northwest
+DESCRIPTION:Tickets: https://gofan.co/event/6707949
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-col-zadok-magruder-northwest-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261210T191500
+DTEND;TZID=America/New_York:20261210T211500
+SUMMARY:Girls Basketball: Northwest at Col. Zadok Magruder
+LOCATION:Col. Zadok Magruder
+DESCRIPTION:Tickets: https://gofan.co/event/6707373
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-seneca-valley-northwest-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T191500
+DTEND;TZID=America/New_York:20261216T211500
+SUMMARY:Girls Basketball: Northwest at Seneca Valley
+LOCATION:Seneca Valley
+DESCRIPTION:Tickets: https://gofan.co/event/6708370
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-northwest-poolesville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T191500
+DTEND;TZID=America/New_York:20261218T211500
+SUMMARY:Girls Basketball: Poolesville at Northwest
+LOCATION:Northwest
+DESCRIPTION:Tickets: https://gofan.co/event/6708018
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-northwest-watkins-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261221T191500
+DTEND;TZID=America/New_York:20261221T211500
+SUMMARY:Girls Basketball: Watkins Mill at Northwest
+LOCATION:Northwest
+DESCRIPTION:Tickets: https://gofan.co/event/6708003
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-clarksburg-northwest-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T191500
+DTEND;TZID=America/New_York:20270105T211500
+SUMMARY:Girls Basketball: Northwest at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgame31089322d\nTickets: https://gofan.co/event/6706796
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgame31089322d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-northwest-damascus-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T191500
+DTEND;TZID=America/New_York:20270108T211500
+SUMMARY:Girls Basketball: Damascus at Northwest
+LOCATION:Northwest
+DESCRIPTION:Tickets: https://gofan.co/event/6708004
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-northwest-walt-whitman-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270112T191500
+DTEND;TZID=America/New_York:20270112T211500
+SUMMARY:Girls Basketball: Walt Whitman at Northwest
+LOCATION:Northwest
+DESCRIPTION:Tickets: https://gofan.co/event/6708020
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-bethesda-cc-northwest-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T191500
+DTEND;TZID=America/New_York:20270114T211500
+SUMMARY:Girls Basketball: Northwest at Bethesda-CC
+LOCATION:Bethesda-CC
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam7403b0aac5\nTickets: https://gofan.co/event/6706566
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbethesda-chevy-chase-high-school-bethesda-md%2Fgam7403b0aac5
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-quince-orchard-northwest-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T191500
+DTEND;TZID=America/New_York:20270119T211500
+SUMMARY:Girls Basketball: Northwest at Quince Orchard
+LOCATION:Quince Orchard
+DESCRIPTION:Tickets: https://gofan.co/event/6707777
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-northwest-james-hubert-blake-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T191500
+DTEND;TZID=America/New_York:20270122T211500
+SUMMARY:Girls Basketball: James Hubert Blake at Northwest
+LOCATION:Northwest
+DESCRIPTION:Tickets: https://gofan.co/event/6707959
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-paint-branch-northwest-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T191500
+DTEND;TZID=America/New_York:20270126T211500
+SUMMARY:Girls Basketball: Northwest at Paint Branch
+LOCATION:Paint Branch
+DESCRIPTION:Tickets: https://gofan.co/event/6709122
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-northwest-seneca-valley-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T191500
+DTEND;TZID=America/New_York:20270129T211500
+SUMMARY:Girls Basketball: Seneca Valley at Northwest
+LOCATION:Northwest
+DESCRIPTION:Tickets: https://gofan.co/event/6707960
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-poolesville-northwest-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270201T191500
+DTEND;TZID=America/New_York:20270201T211500
+SUMMARY:Girls Basketball: Northwest at Poolesville
+LOCATION:Poolesville
+DESCRIPTION:Tickets: https://gofan.co/event/6708629
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-watkins-mill-northwest-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T180000
+DTEND;TZID=America/New_York:20270203T200000
+SUMMARY:Girls Basketball: Northwest at Watkins Mill
+LOCATION:Watkins Mill
+DESCRIPTION:Tickets: https://gofan.co/event/6708914
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-northwest-clarksburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T180000
+DTEND;TZID=America/New_York:20270205T200000
+SUMMARY:Girls Basketball: Clarksburg at Northwest
+LOCATION:Northwest
+DESCRIPTION:Tickets: https://gofan.co/event/6707966
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-damascus-northwest-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270208T180000
+DTEND;TZID=America/New_York:20270208T200000
+SUMMARY:Girls Basketball: Northwest at Damascus
+LOCATION:Damascus
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdamascus-high-school-damascus-md%2Fgam9081b6e4a4\nTickets: https://gofan.co/event/6706906
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdamascus-high-school-damascus-md%2Fgam9081b6e4a4
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-northwest-thomas-s-wootton-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T191500
+DTEND;TZID=America/New_York:20270212T211500
+SUMMARY:Girls Basketball: Thomas S. Wootton at Northwest
+LOCATION:Northwest
+DESCRIPTION:Tickets: https://gofan.co/event/6707986
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-john-f-kennedy-northwest-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T173000
+DTEND;TZID=America/New_York:20270216T193000
+SUMMARY:Girls Basketball: Northwest at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam2ba04cc5ea\nTickets: https://gofan.co/event/6707284
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam2ba04cc5ea
+END:VEVENT
+END:VCALENDAR

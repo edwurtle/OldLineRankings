@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Kent County Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-23-bohemia-manor-kent-county-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261123T160000
+DTEND;TZID=America/New_York:20261123T180000
+SUMMARY:Girls Basketball: Kent County at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbohemia-manor-high-school-chesapeake-city-md%2Fgama2616f4f8d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbohemia-manor-high-school-chesapeake-city-md%2Fgama2616f4f8d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-snow-hill-kent-county-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T180000
+DTEND;TZID=America/New_York:20261204T200000
+SUMMARY:Girls Basketball: Kent County at Snow Hill
+LOCATION:Snow Hill
+END:VEVENT
+END:VCALENDAR

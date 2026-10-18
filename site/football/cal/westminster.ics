@@ -6,7 +6,7 @@ X-WR-CALNAME:Westminster Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-franklin-westminster-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Westminster at Franklin
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Westminster 6\, Franklin 22
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-westminster-urbana-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Urbana at Westminster
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-century-westminster-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Westminster at Century
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Westminster 20\, Century 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-liberty-westminster-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Westminster at Liberty
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Westminster 38\, Liberty 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-south-carroll-westminster-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Westminster at South Carroll
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Westminster 16\, South Carroll 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-damascus-westminster-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Westminster at Damascus
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Westminster 21\, Damascus 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-manchester-valley-westminster-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Football: Westminster at Manchester Valley
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Westminster 42\, Manchester Valley 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-francis-scott-key-westminster-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Westminster at Francis Scott Key
@@ -78,7 +78,7 @@ LOCATION:Francis Scott Key
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-winters-mill-westminster-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Westminster at Winters Mill

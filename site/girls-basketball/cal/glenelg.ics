@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Glenelg Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-04-reservoir-glenelg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T180000
+DTEND;TZID=America/New_York:20261204T200000
+SUMMARY:Girls Basketball: Glenelg at Reservoir
+LOCATION:Reservoir
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Freservoir-high-school-fulton-md%2Fgama03b917775
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Freservoir-high-school-fulton-md%2Fgama03b917775
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-hammond-glenelg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T173000
+DTEND;TZID=America/New_York:20261207T193000
+SUMMARY:Girls Basketball: Glenelg at Hammond
+LOCATION:Hammond
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-glenelg-wilde-lake-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261209T173000
+DTEND;TZID=America/New_York:20261209T193000
+SUMMARY:Girls Basketball: Wilde Lake at Glenelg
+LOCATION:Glenelg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgam219087f54d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgam219087f54d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-glenelg-atholton-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T180000
+DTEND;TZID=America/New_York:20261211T200000
+SUMMARY:Girls Basketball: Atholton at Glenelg
+LOCATION:Glenelg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgam000b23a982
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgam000b23a982
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-glenelg-mount-hebron-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Girls Basketball: Mount Hebron at Glenelg
+LOCATION:Glenelg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgamede63113d2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgamede63113d2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-centennial-glenelg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Girls Basketball: Glenelg at Centennial
+LOCATION:Centennial
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcentennial-high-school-ellicott-city-md%2Fgamee2c5fa48f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcentennial-high-school-ellicott-city-md%2Fgamee2c5fa48f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-century-glenelg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261222T183000
+DTEND;TZID=America/New_York:20261222T203000
+SUMMARY:Girls Basketball: Glenelg at Century
+LOCATION:Century
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-crofton-glenelg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270104T180000
+DTEND;TZID=America/New_York:20270104T200000
+SUMMARY:Girls Basketball: Glenelg at Crofton
+LOCATION:Crofton
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-liberty-glenelg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T183000
+DTEND;TZID=America/New_York:20270219T203000
+SUMMARY:Girls Basketball: Glenelg at Liberty
+LOCATION:Liberty
+END:VEVENT
+END:VCALENDAR

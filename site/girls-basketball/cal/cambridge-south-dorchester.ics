@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Cambridge-South Dorchester Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-01-james-m-bennett-cambridge-south-dorchester-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261201T163000
+DTEND;TZID=America/New_York:20261201T183000
+SUMMARY:Girls Basketball: Cambridge-South Dorchester at James M. Bennett
+LOCATION:James M. Bennett
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-crisfield-cambridge-south-dorchester-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T180000
+DTEND;TZID=America/New_York:20261204T200000
+SUMMARY:Girls Basketball: Cambridge-South Dorchester at Crisfield
+LOCATION:Crisfield
+END:VEVENT
+END:VCALENDAR

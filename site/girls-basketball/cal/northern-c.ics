@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Northern-C Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-24-digital-harbor-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261124T173000
+DTEND;TZID=America/New_York:20261124T193000
+SUMMARY:Girls Basketball: Northern-C at Digital Harbor
+LOCATION:Digital Harbor
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-southern-aa-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261124T173000
+DTEND;TZID=America/New_York:20261124T193000
+SUMMARY:Girls Basketball: Northern-C at Southern-AA
+LOCATION:Southern-AA
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-calvert-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T181500
+DTEND;TZID=America/New_York:20261204T201500
+SUMMARY:Girls Basketball: Northern-C at Calvert
+LOCATION:Calvert
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-northern-c-huntingtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T180000
+DTEND;TZID=America/New_York:20261211T200000
+SUMMARY:Girls Basketball: Huntingtown at Northern-C
+LOCATION:Northern-C
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam4a499ff818
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam4a499ff818
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-northern-c-patuxent-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T181500
+DTEND;TZID=America/New_York:20261218T201500
+SUMMARY:Girls Basketball: Patuxent at Northern-C
+LOCATION:Northern-C
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam1ab8e4de77
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam1ab8e4de77
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-northern-c-calvert-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T181500
+DTEND;TZID=America/New_York:20270108T201500
+SUMMARY:Girls Basketball: Calvert at Northern-C
+LOCATION:Northern-C
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam2952f9c881
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgam2952f9c881
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-patuxent-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T181500
+DTEND;TZID=America/New_York:20270115T201500
+SUMMARY:Girls Basketball: Northern-C at Patuxent
+LOCATION:Patuxent
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam675c86691c\nTickets: https://gofan.co/event/6802819
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatuxent-high-school-lusby-md%2Fgam675c86691c
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-la-plata-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270120T180000
+DTEND;TZID=America/New_York:20270120T200000
+SUMMARY:Girls Basketball: Northern-C at La Plata
+LOCATION:La Plata
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamd13857e1ee
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fla-plata-high-school-la-plata-md%2Fgamd13857e1ee
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-northern-c-great-mills-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T181500
+DTEND;TZID=America/New_York:20270122T201500
+SUMMARY:Girls Basketball: Great Mills at Northern-C
+LOCATION:Northern-C
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgamaaa6d2662f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgamaaa6d2662f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-henry-e-lackey-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270127T180000
+DTEND;TZID=America/New_York:20270127T200000
+SUMMARY:Girls Basketball: Northern-C at Henry E. Lackey
+LOCATION:Henry E. Lackey
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgamcf5c3605c9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgamcf5c3605c9
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-chopticon-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T181500
+DTEND;TZID=America/New_York:20270129T201500
+SUMMARY:Girls Basketball: Northern-C at Chopticon
+LOCATION:Chopticon
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-mcdonough-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T181500
+DTEND;TZID=America/New_York:20270203T201500
+SUMMARY:Girls Basketball: Northern-C at McDonough
+LOCATION:McDonough
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam56a6610a38
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmcdonough-high-school-pomfret-md%2Fgam56a6610a38
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-northern-c-leonardtown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T181500
+DTEND;TZID=America/New_York:20270205T201500
+SUMMARY:Girls Basketball: Leonardtown at Northern-C
+LOCATION:Northern-C
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgamacad276241
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-high-school-owings-md%2Fgamacad276241
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-huntingtown-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T180000
+DTEND;TZID=America/New_York:20270212T200000
+SUMMARY:Girls Basketball: Northern-C at Huntingtown
+LOCATION:Huntingtown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-st-charles-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270217T181500
+DTEND;TZID=America/New_York:20270217T201500
+SUMMARY:Girls Basketball: Northern-C at St. Charles
+LOCATION:St. Charles
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgam4579e778d1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fst-charles-high-school-waldorf-md%2Fgam4579e778d1
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-thomas-stone-northern-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T180000
+DTEND;TZID=America/New_York:20270219T200000
+SUMMARY:Girls Basketball: Northern-C at Thomas Stone
+LOCATION:Thomas Stone
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam13ab5da608
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-stone-high-school-waldorf-md%2Fgam13ab5da608
+END:VEVENT
+END:VCALENDAR

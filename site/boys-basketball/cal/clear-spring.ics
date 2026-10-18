@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Clear Spring Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-02-clear-spring-james-buchanan-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261202T173000
+DTEND;TZID=America/New_York:20261202T193000
+SUMMARY:Boys Basketball: James Buchanan at Clear Spring
+LOCATION:Clear Spring
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-clear-spring-south-hagerstown-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261204T190000
+DTEND;TZID=America/New_York:20261204T210000
+SUMMARY:Boys Basketball: South Hagerstown at Clear Spring
+LOCATION:Clear Spring
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-brunswick-clear-spring-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261211T190000
+DTEND;TZID=America/New_York:20261211T210000
+SUMMARY:Boys Basketball: Clear Spring at Brunswick
+LOCATION:Brunswick
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam0a2bc3cee5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam0a2bc3cee5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-clear-spring-middletown-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261218T190000
+DTEND;TZID=America/New_York:20261218T210000
+SUMMARY:Boys Basketball: Middletown at Clear Spring
+LOCATION:Clear Spring
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-clear-spring-boonsboro-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261222T190000
+DTEND;TZID=America/New_York:20261222T210000
+SUMMARY:Boys Basketball: Boonsboro at Clear Spring
+LOCATION:Clear Spring
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-clear-spring-williamsport-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270105T190000
+DTEND;TZID=America/New_York:20270105T210000
+SUMMARY:Boys Basketball: Williamsport at Clear Spring
+LOCATION:Clear Spring
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-mountain-ridge-clear-spring-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270107T190000
+DTEND;TZID=America/New_York:20270107T210000
+SUMMARY:Boys Basketball: Clear Spring at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam42d7ff5725
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam42d7ff5725
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-clear-spring-smithsburg-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270112T190000
+DTEND;TZID=America/New_York:20270112T210000
+SUMMARY:Boys Basketball: Smithsburg at Clear Spring
+LOCATION:Clear Spring
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-clear-spring-hancock-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270115T190000
+DTEND;TZID=America/New_York:20270115T210000
+SUMMARY:Boys Basketball: Hancock at Clear Spring
+LOCATION:Clear Spring
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-clear-spring-north-hagerstown-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270119T190000
+DTEND;TZID=America/New_York:20270119T210000
+SUMMARY:Boys Basketball: North Hagerstown at Clear Spring
+LOCATION:Clear Spring
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-catoctin-clear-spring-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270122T190000
+DTEND;TZID=America/New_York:20270122T210000
+SUMMARY:Boys Basketball: Clear Spring at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgamf5af982ad5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgamf5af982ad5
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-25-berkeley-springs-clear-spring-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270125T193000
+DTEND;TZID=America/New_York:20270125T213000
+SUMMARY:Boys Basketball: Clear Spring at Berkeley Springs
+LOCATION:Berkeley Springs
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-clear-spring-brunswick-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270126T190000
+DTEND;TZID=America/New_York:20270126T210000
+SUMMARY:Boys Basketball: Brunswick at Clear Spring
+LOCATION:Clear Spring
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-boonsboro-clear-spring-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270129T190000
+DTEND;TZID=America/New_York:20270129T210000
+SUMMARY:Boys Basketball: Clear Spring at Boonsboro
+LOCATION:Boonsboro
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-allegany-clear-spring-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270206T143000
+DTEND;TZID=America/New_York:20270206T163000
+SUMMARY:Boys Basketball: Clear Spring at Allegany
+LOCATION:Allegany
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam04db28792f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam04db28792f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-smithsburg-clear-spring-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270209T173000
+DTEND;TZID=America/New_York:20270209T193000
+SUMMARY:Boys Basketball: Clear Spring at Smithsburg
+LOCATION:Smithsburg
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-clear-spring-berkeley-springs-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270213T190000
+DTEND;TZID=America/New_York:20270213T210000
+SUMMARY:Boys Basketball: Berkeley Springs at Clear Spring
+LOCATION:Clear Spring
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-hancock-clear-spring-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270217T190000
+DTEND;TZID=America/New_York:20270217T210000
+SUMMARY:Boys Basketball: Clear Spring at Hancock
+LOCATION:Hancock
+END:VEVENT
+END:VCALENDAR

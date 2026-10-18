@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Parkdale Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-10-dr-henry-a-wise-parkdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261210T191500
+DTEND;TZID=America/New_York:20261210T211500
+SUMMARY:Girls Basketball: Parkdale at Dr. Henry A. Wise
+LOCATION:Dr. Henry A. Wise
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam8c405542b9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam8c405542b9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-suitland-parkdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261215T191500
+DTEND;TZID=America/New_York:20261215T211500
+SUMMARY:Girls Basketball: Parkdale at Suitland
+LOCATION:Suitland
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgamdbb9ce886b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsuitland-high-school-district-heights-md%2Fgamdbb9ce886b
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-parkdale-duval-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T191500
+DTEND;TZID=America/New_York:20270105T211500
+SUMMARY:Girls Basketball: Duval at Parkdale
+LOCATION:Parkdale
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam4664b179bb\nTickets: https://gofan.co/event/6714868
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam4664b179bb
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-parkdale-eleanor-roosevelt-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270107T191500
+DTEND;TZID=America/New_York:20270107T211500
+SUMMARY:Girls Basketball: Eleanor Roosevelt at Parkdale
+LOCATION:Parkdale
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam57e28e0a5e\nTickets: https://gofan.co/event/6714867
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam57e28e0a5e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-northwestern-parkdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T191500
+DTEND;TZID=America/New_York:20270114T211500
+SUMMARY:Girls Basketball: Parkdale at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam579401d347
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgam579401d347
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-parkdale-laurel-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T191500
+DTEND;TZID=America/New_York:20270119T211500
+SUMMARY:Girls Basketball: Laurel at Parkdale
+LOCATION:Parkdale
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam720d713021\nTickets: https://gofan.co/event/6714866
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam720d713021
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-bladensburg-parkdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270121T180000
+DTEND;TZID=America/New_York:20270121T200000
+SUMMARY:Girls Basketball: Parkdale at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam3e13429bb7\nTickets: https://gofan.co/event/6956499
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgam3e13429bb7
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-parkdale-bowie-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T191500
+DTEND;TZID=America/New_York:20270126T211500
+SUMMARY:Girls Basketball: Bowie at Parkdale
+LOCATION:Parkdale
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgamdb912c6e27\nTickets: https://gofan.co/event/6714865
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgamdb912c6e27
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-parkdale-dr-henry-a-wise-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270202T191500
+DTEND;TZID=America/New_York:20270202T211500
+SUMMARY:Girls Basketball: Dr. Henry A. Wise at Parkdale
+LOCATION:Parkdale
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam0eb4636d2d\nTickets: https://gofan.co/event/6714864
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam0eb4636d2d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-parkdale-suitland-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270204T191500
+DTEND;TZID=America/New_York:20270204T211500
+SUMMARY:Girls Basketball: Suitland at Parkdale
+LOCATION:Parkdale
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam27f984935e\nTickets: https://gofan.co/event/6714863
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam27f984935e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-duval-parkdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T191500
+DTEND;TZID=America/New_York:20270212T211500
+SUMMARY:Girls Basketball: Parkdale at Duval
+LOCATION:Duval
+DESCRIPTION:Tickets: https://gofan.co/event/6697122
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-eleanor-roosevelt-parkdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T191500
+DTEND;TZID=America/New_York:20270216T211500
+SUMMARY:Girls Basketball: Parkdale at Eleanor Roosevelt
+LOCATION:Eleanor Roosevelt
+END:VEVENT
+END:VCALENDAR

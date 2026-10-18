@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Joppatowne Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-01-manchester-valley-joppatowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261201T183000
+DTEND;TZID=America/New_York:20261201T203000
+SUMMARY:Boys Basketball: Joppatowne at Manchester Valley
+LOCATION:Manchester Valley
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-joppatowne-aberdeen-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261204T183000
+DTEND;TZID=America/New_York:20261204T203000
+SUMMARY:Boys Basketball: Aberdeen at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgam8fbe2a2348\nTickets: https://gofan.co/event/6972104
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgam8fbe2a2348
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-joppatowne-fallston-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261210T173000
+DTEND;TZID=America/New_York:20261210T193000
+SUMMARY:Boys Basketball: Fallston at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgam0a2bd4d1c4\nTickets: https://gofan.co/event/6972105
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgam0a2bd4d1c4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-joppatowne-patterson-mill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261215T173000
+DTEND;TZID=America/New_York:20261215T193000
+SUMMARY:Boys Basketball: Patterson Mill at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgam6f6752d571\nTickets: https://gofan.co/event/6972106
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgam6f6752d571
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-north-east-c-joppatowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261222T190000
+DTEND;TZID=America/New_York:20261222T210000
+SUMMARY:Boys Basketball: Joppatowne at North East-C
+LOCATION:North East-C
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-bel-air-joppatowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270105T190000
+DTEND;TZID=America/New_York:20270105T210000
+SUMMARY:Boys Basketball: Joppatowne at Bel Air
+LOCATION:Bel Air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-joppatowne-north-harford-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270107T173000
+DTEND;TZID=America/New_York:20270107T193000
+SUMMARY:Boys Basketball: North Harford at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgam92554ec629\nTickets: https://gofan.co/event/6972107
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgam92554ec629
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-c-milton-wright-joppatowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270108T190000
+DTEND;TZID=America/New_York:20270108T210000
+SUMMARY:Boys Basketball: Joppatowne at C. Milton Wright
+LOCATION:C. Milton Wright
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-joppatowne-havre-de-grace-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270115T183000
+DTEND;TZID=America/New_York:20270115T203000
+SUMMARY:Boys Basketball: Havre de Grace at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgamb974762e37\nTickets: https://gofan.co/event/6972108
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgamb974762e37
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-joppatowne-harford-tech-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270120T173000
+DTEND;TZID=America/New_York:20270120T193000
+SUMMARY:Boys Basketball: Harford Tech at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgam7e35f19f51\nTickets: https://gofan.co/event/6972109
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgam7e35f19f51
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-patterson-mill-joppatowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270126T190000
+DTEND;TZID=America/New_York:20270126T210000
+SUMMARY:Boys Basketball: Joppatowne at Patterson Mill
+LOCATION:Patterson Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-fallston-joppatowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270129T190000
+DTEND;TZID=America/New_York:20270129T210000
+SUMMARY:Boys Basketball: Joppatowne at Fallston
+LOCATION:Fallston
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-joppatowne-north-east-c-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270202T173000
+DTEND;TZID=America/New_York:20270202T193000
+SUMMARY:Boys Basketball: North East-C at Joppatowne
+LOCATION:Joppatowne
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-joppatowne-bel-air-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270205T183000
+DTEND;TZID=America/New_York:20270205T203000
+SUMMARY:Boys Basketball: Bel Air at Joppatowne
+LOCATION:Joppatowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgam7ed6b804a8\nTickets: https://gofan.co/event/6972112
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjoppatowne-high-school-joppa-md%2Fgam7ed6b804a8
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-patapsco-joppatowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270209T170000
+DTEND;TZID=America/New_York:20270209T190000
+SUMMARY:Boys Basketball: Joppatowne at Patapsco
+LOCATION:Patapsco
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatapsco-high-school-baltimore-md%2Fgam805bbdf804
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatapsco-high-school-baltimore-md%2Fgam805bbdf804
+END:VEVENT
+END:VCALENDAR

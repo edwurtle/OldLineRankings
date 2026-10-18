@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Lansdowne Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-07-carver-aandt-lansdowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261207T173000
+DTEND;TZID=America/New_York:20261207T193000
+SUMMARY:Boys Basketball: Lansdowne at Carver A&T
+LOCATION:Carver A&T
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcarver-center-for-arts-technology-high-school-towson-md%2Fgam944042ba9e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcarver-center-for-arts-technology-high-school-towson-md%2Fgam944042ba9e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-lansdowne-sparrows-point-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261209T170000
+DTEND;TZID=America/New_York:20261209T190000
+SUMMARY:Boys Basketball: Sparrows Point at Lansdowne
+LOCATION:Lansdowne
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-lansdowne-new-town-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261211T173000
+DTEND;TZID=America/New_York:20261211T193000
+SUMMARY:Boys Basketball: New Town at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgamb267220b4c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgamb267220b4c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-lansdowne-patapsco-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261214T173000
+DTEND;TZID=America/New_York:20261214T193000
+SUMMARY:Boys Basketball: Patapsco at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam4c5c5468e2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam4c5c5468e2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-lansdowne-milford-mill-academy-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Boys Basketball: Milford Mill Academy at Lansdowne
+LOCATION:Lansdowne
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-western-tech-lansdowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Boys Basketball: Lansdowne at Western Tech
+LOCATION:Western Tech
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestern-school-of-technology-environmental-science-catonsville-md%2Fgam201840a0f0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestern-school-of-technology-environmental-science-catonsville-md%2Fgam201840a0f0
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-dulaney-lansdowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270106T173000
+DTEND;TZID=America/New_York:20270106T193000
+SUMMARY:Boys Basketball: Lansdowne at Dulaney
+LOCATION:Dulaney
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdulaney-high-school-timonium-md%2Fgambfbb9c6907
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdulaney-high-school-timonium-md%2Fgambfbb9c6907
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-woodlawn-lansdowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Boys Basketball: Lansdowne at Woodlawn
+LOCATION:Woodlawn
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwoodlawn-high-school-baltimore-md%2Fgam64a659ac07
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwoodlawn-high-school-baltimore-md%2Fgam64a659ac07
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-lansdowne-catonsville-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270111T173000
+DTEND;TZID=America/New_York:20270111T193000
+SUMMARY:Boys Basketball: Catonsville at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam624d19132c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam624d19132c
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-lansdowne-randallstown-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270113T173000
+DTEND;TZID=America/New_York:20270113T193000
+SUMMARY:Boys Basketball: Randallstown at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam025723322e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam025723322e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-lansdowne-pikesville-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270120T173000
+DTEND;TZID=America/New_York:20270120T193000
+SUMMARY:Boys Basketball: Pikesville at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam935a1502e7
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam935a1502e7
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-milford-mill-academy-lansdowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270122T173000
+DTEND;TZID=America/New_York:20270122T193000
+SUMMARY:Boys Basketball: Lansdowne at Milford Mill Academy
+LOCATION:Milford Mill Academy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgam7218f8a319
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgam7218f8a319
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-hereford-lansdowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270127T173000
+DTEND;TZID=America/New_York:20270127T193000
+SUMMARY:Boys Basketball: Lansdowne at Hereford
+LOCATION:Hereford
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgame8369f7e81
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgame8369f7e81
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-new-town-lansdowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270129T173000
+DTEND;TZID=America/New_York:20270129T193000
+SUMMARY:Boys Basketball: Lansdowne at New Town
+LOCATION:New Town
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnew-town-high-school-owings-mills-md%2Fgam330216537d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnew-town-high-school-owings-mills-md%2Fgam330216537d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-owings-mills-lansdowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270203T173000
+DTEND;TZID=America/New_York:20270203T193000
+SUMMARY:Boys Basketball: Lansdowne at Owings Mills
+LOCATION:Owings Mills
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fowings-mills-high-school-owings-mills-md%2Fgam8e02171f35
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fowings-mills-high-school-owings-mills-md%2Fgam8e02171f35
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-lansdowne-western-tech-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Boys Basketball: Western Tech at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam6c83ec7424
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam6c83ec7424
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-catonsville-lansdowne-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270210T173000
+DTEND;TZID=America/New_York:20270210T193000
+SUMMARY:Boys Basketball: Lansdowne at Catonsville
+LOCATION:Catonsville
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam6273313f1a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam6273313f1a
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-lansdowne-woodlawn-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270212T173000
+DTEND;TZID=America/New_York:20270212T193000
+SUMMARY:Boys Basketball: Woodlawn at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgamd08a43d0e4
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgamd08a43d0e4
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-lansdowne-franklin-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270217T173000
+DTEND;TZID=America/New_York:20270217T193000
+SUMMARY:Boys Basketball: Franklin at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam20461a9932
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam20461a9932
+END:VEVENT
+END:VCALENDAR

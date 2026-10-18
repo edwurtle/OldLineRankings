@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Kenwood Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-24-severn-run-kenwood-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261124T180000
+DTEND;TZID=America/New_York:20261124T200000
+SUMMARY:Girls Basketball: Kenwood at Severn Run
+LOCATION:Severn Run
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-kenwood-edgewood-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261202T173000
+DTEND;TZID=America/New_York:20261202T193000
+SUMMARY:Girls Basketball: Edgewood at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgam3905b632aa
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgam3905b632aa
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-kenwood-dundalk-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T173000
+DTEND;TZID=America/New_York:20261211T193000
+SUMMARY:Girls Basketball: Dundalk at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Tickets: https://gofan.co/event/6890996
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-kenwood-sparrows-point-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Girls Basketball: Sparrows Point at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgam7257ef972b\nTickets: https://gofan.co/event/6890995
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgam7257ef972b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-chesapeake-b-kenwood-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Girls Basketball: Kenwood at Chesapeake-B
+LOCATION:Chesapeake-B
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-baltimore-md%2Fgam61bd3cb69c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-baltimore-md%2Fgam61bd3cb69c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-kenwood-arundel-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:Girls Basketball: Arundel at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgamd8040f5f55\nTickets: https://gofan.co/event/6890982
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgamd8040f5f55
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-perry-hall-kenwood-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270106T173000
+DTEND;TZID=America/New_York:20270106T193000
+SUMMARY:Girls Basketball: Kenwood at Perry Hall
+LOCATION:Perry Hall
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-kenwood-eastern-tech-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Girls Basketball: Eastern Tech at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgam74c06ac8d9\nTickets: https://gofan.co/event/6890994
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgam74c06ac8d9
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-kenwood-towson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270113T173000
+DTEND;TZID=America/New_York:20270113T193000
+SUMMARY:Girls Basketball: Towson at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgamaaf9a1a54f\nTickets: https://gofan.co/event/6890993
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgamaaf9a1a54f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-kenwood-patapsco-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T173000
+DTEND;TZID=America/New_York:20270114T193000
+SUMMARY:Girls Basketball: Patapsco at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgamed42d17651\nTickets: https://gofan.co/event/6890992
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgamed42d17651
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-kenwood-carver-aandt-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270120T173000
+DTEND;TZID=America/New_York:20270120T193000
+SUMMARY:Girls Basketball: Carver A&T at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgamab4f50a43b\nTickets: https://gofan.co/event/6890991
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgamab4f50a43b
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-dundalk-kenwood-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T173000
+DTEND;TZID=America/New_York:20270129T193000
+SUMMARY:Girls Basketball: Kenwood at Dundalk
+LOCATION:Dundalk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-parkville-kenwood-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T173000
+DTEND;TZID=America/New_York:20270203T193000
+SUMMARY:Girls Basketball: Kenwood at Parkville
+LOCATION:Parkville
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkville-high-school-baltimore-md%2Fgam21cd3a86fc
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkville-high-school-baltimore-md%2Fgam21cd3a86fc
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-kenwood-chesapeake-b-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Girls Basketball: Chesapeake-B at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgam2d1afa0795\nTickets: https://gofan.co/event/6890990
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgam2d1afa0795
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-patapsco-kenwood-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T173000
+DTEND;TZID=America/New_York:20270210T193000
+SUMMARY:Girls Basketball: Kenwood at Patapsco
+LOCATION:Patapsco
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-kenwood-overlea-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270217T173000
+DTEND;TZID=America/New_York:20270217T193000
+SUMMARY:Girls Basketball: Overlea at Kenwood
+LOCATION:Kenwood
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foverlea-high-school-baltimore-md%2Fgamf78c4ff326\nTickets: https://gofan.co/event/6890989
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foverlea-high-school-baltimore-md%2Fgamf78c4ff326
+END:VEVENT
+END:VCALENDAR

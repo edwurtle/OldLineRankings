@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:North Hagerstown Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-23-north-hagerstown-brunswick-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261123T181500
+DTEND;TZID=America/New_York:20261123T201500
+SUMMARY:Girls Basketball: Brunswick at North Hagerstown
+LOCATION:North Hagerstown
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-williamsport-north-hagerstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261205T160000
+DTEND;TZID=America/New_York:20261205T180000
+SUMMARY:Girls Basketball: North Hagerstown at Williamsport
+LOCATION:Williamsport
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-smithsburg-north-hagerstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261208T000000
+DTEND;TZID=America/New_York:20261208T020000
+SUMMARY:Girls Basketball: North Hagerstown at Smithsburg
+LOCATION:Smithsburg
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-boonsboro-north-hagerstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T190000
+DTEND;TZID=America/New_York:20261211T210000
+SUMMARY:Girls Basketball: North Hagerstown at Boonsboro
+LOCATION:Boonsboro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-tuscarora-north-hagerstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Girls Basketball: North Hagerstown at Tuscarora
+LOCATION:Tuscarora
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ftuscarora-high-school-frederick-md%2Fgama78d1cf95d\nTickets: https://gofan.co/event/6722892
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ftuscarora-high-school-frederick-md%2Fgama78d1cf95d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-north-hagerstown-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T190000
+DTEND;TZID=America/New_York:20261218T210000
+SUMMARY:Girls Basketball: Urbana at North Hagerstown
+LOCATION:North Hagerstown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-frederick-north-hagerstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T190000
+DTEND;TZID=America/New_York:20270105T210000
+SUMMARY:Girls Basketball: North Hagerstown at Frederick
+LOCATION:Frederick
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-north-hagerstown-boonsboro-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T190000
+DTEND;TZID=America/New_York:20270119T210000
+SUMMARY:Girls Basketball: Boonsboro at North Hagerstown
+LOCATION:North Hagerstown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-north-hagerstown-tuscarora-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T190000
+DTEND;TZID=America/New_York:20270122T210000
+SUMMARY:Girls Basketball: Tuscarora at North Hagerstown
+LOCATION:North Hagerstown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-south-hagerstown-north-hagerstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T173000
+DTEND;TZID=America/New_York:20270126T193000
+SUMMARY:Girls Basketball: North Hagerstown at South Hagerstown
+LOCATION:South Hagerstown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-oakdale-north-hagerstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T190000
+DTEND;TZID=America/New_York:20270129T210000
+SUMMARY:Girls Basketball: North Hagerstown at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-gov-thomas-johnson-north-hagerstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270202T190000
+DTEND;TZID=America/New_York:20270202T210000
+SUMMARY:Girls Basketball: North Hagerstown at Gov. Thomas Johnson
+LOCATION:Gov. Thomas Johnson
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgame168dd6794\nTickets: https://gofan.co/event/6941944
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgame168dd6794
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-linganore-north-hagerstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270208T190000
+DTEND;TZID=America/New_York:20270208T210000
+SUMMARY:Girls Basketball: North Hagerstown at Linganore
+LOCATION:Linganore
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flinganore-high-school-frederick-md%2Fgam7cf0530c86
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flinganore-high-school-frederick-md%2Fgam7cf0530c86
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-catoctin-north-hagerstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T190000
+DTEND;TZID=America/New_York:20270219T210000
+SUMMARY:Girls Basketball: North Hagerstown at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgame2353f1565
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgame2353f1565
+END:VEVENT
+END:VCALENDAR

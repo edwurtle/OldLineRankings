@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Fort Hill Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-30-meyersdale-area-fort-hill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261130T170000
+DTEND;TZID=America/New_York:20261130T190000
+SUMMARY:Girls Basketball: Fort Hill at Meyersdale Area
+LOCATION:Meyersdale Area
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmeyersdale-area-high-school-meyersdale-pa%2Fgam984dc5e427
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmeyersdale-area-high-school-meyersdale-pa%2Fgam984dc5e427
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-keyser-fort-hill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261208T193000
+DTEND;TZID=America/New_York:20261208T213000
+SUMMARY:Girls Basketball: Fort Hill at Keyser
+LOCATION:Keyser
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-fort-hill-morgantown-christian-academy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261210T173000
+DTEND;TZID=America/New_York:20261210T193000
+SUMMARY:Girls Basketball: Morgantown Christian Academy at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam4866c3886c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam4866c3886c
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-fort-hill-windber-area-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261212T120000
+DTEND;TZID=America/New_York:20261212T140000
+SUMMARY:Girls Basketball: Windber Area at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam2f6ddbd434
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam2f6ddbd434
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-fort-hill-preston-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T190000
+DTEND;TZID=America/New_York:20261214T210000
+SUMMARY:Girls Basketball: Preston at Fort Hill
+LOCATION:Fort Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-fort-hill-musselman-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T193000
+DTEND;TZID=America/New_York:20261216T213000
+SUMMARY:Girls Basketball: Musselman at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam58e90dbf67
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam58e90dbf67
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-southern-g-fort-hill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270104T193000
+DTEND;TZID=America/New_York:20270104T213000
+SUMMARY:Girls Basketball: Fort Hill at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam30eb84e2fa
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgam30eb84e2fa
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-fort-hill-washington-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T193000
+DTEND;TZID=America/New_York:20270108T213000
+SUMMARY:Girls Basketball: Washington at Fort Hill
+LOCATION:Fort Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-allegany-fort-hill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270113T190000
+DTEND;TZID=America/New_York:20270113T210000
+SUMMARY:Girls Basketball: Fort Hill at Allegany
+LOCATION:Allegany
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam0bfc69e52f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fallegany-high-school-cumberland-md%2Fgam0bfc69e52f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-fort-hill-northern-g-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270121T190000
+DTEND;TZID=America/New_York:20270121T210000
+SUMMARY:Girls Basketball: Northern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam456e158577
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam456e158577
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-fort-hill-saint-james-school-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T173000
+DTEND;TZID=America/New_York:20270122T193000
+SUMMARY:Girls Basketball: Saint James School at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgamec071cb75f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgamec071cb75f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-fort-hill-allegany-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270127T190000
+DTEND;TZID=America/New_York:20270127T210000
+SUMMARY:Girls Basketball: Allegany at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam08b34b9a05
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam08b34b9a05
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-fort-hill-southern-g-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270201T190000
+DTEND;TZID=America/New_York:20270201T210000
+SUMMARY:Girls Basketball: Southern-G at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgamc474473f46
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgamc474473f46
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-fort-hill-mountain-ridge-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T190000
+DTEND;TZID=America/New_York:20270203T210000
+SUMMARY:Girls Basketball: Mountain Ridge at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam1cefa3bd62
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam1cefa3bd62
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-boonsboro-fort-hill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270208T190000
+DTEND;TZID=America/New_York:20270208T210000
+SUMMARY:Girls Basketball: Fort Hill at Boonsboro
+LOCATION:Boonsboro
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-northern-g-fort-hill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270211T190000
+DTEND;TZID=America/New_York:20270211T210000
+SUMMARY:Girls Basketball: Fort Hill at Northern-G
+LOCATION:Northern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamb55d895241
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthern-garrett-high-school-accident-md%2Fgamb55d895241
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-mountain-ridge-fort-hill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270215T190000
+DTEND;TZID=America/New_York:20270215T210000
+SUMMARY:Girls Basketball: Fort Hill at Mountain Ridge
+LOCATION:Mountain Ridge
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam0601d8a172
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmountain-ridge-high-school-frostburg-md%2Fgam0601d8a172
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-fort-hill-boonsboro-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T190000
+DTEND;TZID=America/New_York:20270219T210000
+SUMMARY:Girls Basketball: Boonsboro at Fort Hill
+LOCATION:Fort Hill
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgame188e326df
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgame188e326df
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-hedgesville-fort-hill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270222T193000
+DTEND;TZID=America/New_York:20270222T213000
+SUMMARY:Girls Basketball: Fort Hill at Hedgesville
+LOCATION:Hedgesville
+END:VEVENT
+END:VCALENDAR

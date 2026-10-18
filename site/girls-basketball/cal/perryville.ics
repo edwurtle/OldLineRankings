@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Perryville Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-08-perryville-north-harford-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261208T190000
+DTEND;TZID=America/New_York:20261208T210000
+SUMMARY:Girls Basketball: North Harford at Perryville
+LOCATION:Perryville
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fperryville-high-school-perryville-md%2Fgam57f5979219
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fperryville-high-school-perryville-md%2Fgam57f5979219
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-perryville-elkton-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T190000
+DTEND;TZID=America/New_York:20261211T210000
+SUMMARY:Girls Basketball: Elkton at Perryville
+LOCATION:Perryville
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fperryville-high-school-perryville-md%2Fgamb98d72329e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fperryville-high-school-perryville-md%2Fgamb98d72329e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-c-milton-wright-perryville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T170000
+DTEND;TZID=America/New_York:20261214T190000
+SUMMARY:Girls Basketball: Perryville at C. Milton Wright
+LOCATION:C. Milton Wright
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-rising-sun-perryville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T170000
+DTEND;TZID=America/New_York:20261218T190000
+SUMMARY:Girls Basketball: Perryville at Rising Sun
+LOCATION:Rising Sun
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frising-sun-high-school-north-east-md%2Fgam374d6db850
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frising-sun-high-school-north-east-md%2Fgam374d6db850
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-bohemia-manor-perryville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T173000
+DTEND;TZID=America/New_York:20270105T193000
+SUMMARY:Girls Basketball: Perryville at Bohemia Manor
+LOCATION:Bohemia Manor
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbohemia-manor-high-school-chesapeake-city-md%2Fgamc5ba9b0f8b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbohemia-manor-high-school-chesapeake-city-md%2Fgamc5ba9b0f8b
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-fallston-perryville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T190000
+DTEND;TZID=America/New_York:20270108T210000
+SUMMARY:Girls Basketball: Perryville at Fallston
+LOCATION:Fallston
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-perryville-fallston-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T190000
+DTEND;TZID=America/New_York:20270115T210000
+SUMMARY:Girls Basketball: Fallston at Perryville
+LOCATION:Perryville
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-perryville-rising-sun-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T190000
+DTEND;TZID=America/New_York:20270119T210000
+SUMMARY:Girls Basketball: Rising Sun at Perryville
+LOCATION:Perryville
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fperryville-high-school-perryville-md%2Fgam6efef7fd25
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fperryville-high-school-perryville-md%2Fgam6efef7fd25
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-elkton-perryville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T190000
+DTEND;TZID=America/New_York:20270122T210000
+SUMMARY:Girls Basketball: Perryville at Elkton
+LOCATION:Elkton
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Felkton-high-school-elkton-md%2Fgam6bf16376bb
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Felkton-high-school-elkton-md%2Fgam6bf16376bb
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-perryville-north-east-c-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270128T190000
+DTEND;TZID=America/New_York:20270128T210000
+SUMMARY:Girls Basketball: North East-C at Perryville
+LOCATION:Perryville
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-north-harford-perryville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270202T170000
+DTEND;TZID=America/New_York:20270202T190000
+SUMMARY:Girls Basketball: Perryville at North Harford
+LOCATION:North Harford
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-tri-state-christian-academy-perryville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T160000
+DTEND;TZID=America/New_York:20270216T180000
+SUMMARY:Girls Basketball: Perryville at Tri-State Christian Academy
+LOCATION:Tri-State Christian Academy
+END:VEVENT
+END:VCALENDAR

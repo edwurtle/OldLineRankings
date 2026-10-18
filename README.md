@@ -2,7 +2,7 @@
 
 Static sites ranking every Maryland public high school team. A splash page at the root links to each sport:
 football (4A, 4A/3A, 3A, 2A, 2A/1A, 1A) at `/football/`, boys soccer at `/boys-soccer/` and girls soccer at
-`/girls-soccer/` (1A–4A);
+`/girls-soccer/`, boys basketball at `/boys-basketball/` and girls basketball at `/girls-basketball/` (1A–4A);
 lacrosse is listed as coming soon. Every site's footer has a sport switcher. Old soccer links (`/#/boys/4A`, `/soccer/…`)
 redirect to the right soccer site.
 
@@ -26,7 +26,8 @@ Old `#/…` links are rewritten to the new addresses.
 
 ## Old Line Rating (all sports)
 Every sport is ranked by the Old Line Rating (`scripts/oldline.py`): football on points (cap 28, ±4 win bonus),
-soccer on goals (cap 4, no win bonus). Football keeps MPSSAA points for seeding; soccer is seeded by winning percentage.
+soccer on goals (cap 4, no win bonus), basketball on points (cap 40, ±3 win bonus). Football keeps MPSSAA points for
+seeding; soccer and basketball are seeded by winning percentage.
 The team drawer's "See calculation" shows every game that went into a team's rating.
 - Each game counts the scoring margin capped at 28, plus 4 for a win (minus 4 for a loss).
 - A team's rating is its average game value plus its opponents' average rating, solved for all teams at
@@ -34,11 +35,19 @@ The team drawer's "See calculation" shows every game that went into a team's rat
 - Rating differences work like point spreads; win chance = 1 / (1 + e^(−0.16 × difference)).
 - Backtested on 2026 weeks 3–6 using only earlier games: 75% of winners picked vs 70% for MPSSAA points.
 
-## Playoffs page (football and soccer)
+## Basketball (early season)
+- No rankings or win chances before `rank_date` (Dec 15) and no projected brackets or title odds before `project_date`
+  (Jan 12); the pages say when they start. Today's seeds by winning percentage show from the start.
+- Last season's games are dropped (`season_start`). While the MPSSAA basketball standings are last season's, classes
+  and regions come from this fall's soccer standings (`alignment`).
+- Upcoming games come from ArbiterLive (`scripts/arbiter.py`, school matches cached in `scripts/cache/arbiter.json`)
+  until MPSSAA has the season's schedule. Results always come from MPSSAA.
+
+## Playoffs page (football, soccer and basketball)
 Each sport seeds the way its MPSSAA bulletin says (`playoffs` in `SITES`):
 - **Football:** each region's top 8 by MPSSAA points play two rounds (1v8, 4v5, 2v7, 3v6); two per region reach the Final 8.
 - **Soccer:** every team is seeded in its region by winning percentage (fewer than 9 games divide by 9) and each region
-  plays down to one champion; the 8 champions make the Final 8.
+  plays down to one champion; the 8 champions make the Final 8. **Basketball** is the same with 15 games as the minimum divisor.
 
 The Final 8 is reseeded 1–8 by the same number. The page shows each region's mini bracket, then the state bracket:
 - **Current:** today's seeds and first-round matchups only; later rounds and the Final 8 bracket stay empty.
@@ -54,7 +63,7 @@ the team drawer (live or replay). If NFHS can't be reached the build continues w
 
 ## Layout
 - `site/` — the deployable site: splash `index.html` and shared `app.js`, `flag.js`, `styles.css`, `logos/`
-- `site/football/`, `site/boys-soccer/`, `site/girls-soccer/` — each site's `index.html`, `data.js` and `cal/` team calendars
+- `site/football/`, `site/boys-soccer/`, `site/girls-soccer/`, `site/boys-basketball/`, `site/girls-basketball/` — each site's `index.html`, `data.js` and `cal/` team calendars
 - `site/soccer/` — redirect for old soccer links
 - `scripts/build.py` — fetches results and writes each site's `data.js` and `index.html`. Sport differences
   (divisions, classes and points, regions, labels) live in its `SITES` config and are passed to `app.js`.

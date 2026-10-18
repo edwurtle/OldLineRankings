@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:South Carroll Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-23-south-carroll-howard-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261123T173000
+DTEND;TZID=America/New_York:20261123T193000
+SUMMARY:Boys Basketball: Howard at South Carroll
+LOCATION:South Carroll
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-old-mill-south-carroll-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261201T171500
+DTEND;TZID=America/New_York:20261201T191500
+SUMMARY:Boys Basketball: South Carroll at Old Mill
+LOCATION:Old Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-smithsburg-south-carroll-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261204T190000
+DTEND;TZID=America/New_York:20261204T210000
+SUMMARY:Boys Basketball: South Carroll at Smithsburg
+LOCATION:Smithsburg
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-south-carroll-boonsboro-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261210T183000
+DTEND;TZID=America/New_York:20261210T203000
+SUMMARY:Boys Basketball: Boonsboro at South Carroll
+LOCATION:South Carroll
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-south-carroll-westminster-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261214T183000
+DTEND;TZID=America/New_York:20261214T203000
+SUMMARY:Boys Basketball: Westminster at South Carroll
+LOCATION:South Carroll
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-south-carroll-liberty-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261215T183000
+DTEND;TZID=America/New_York:20261215T203000
+SUMMARY:Boys Basketball: Liberty at South Carroll
+LOCATION:South Carroll
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-century-south-carroll-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261218T183000
+DTEND;TZID=America/New_York:20261218T203000
+SUMMARY:Boys Basketball: South Carroll at Century
+LOCATION:Century
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-francis-scott-key-south-carroll-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261222T193000
+DTEND;TZID=America/New_York:20261222T213000
+SUMMARY:Boys Basketball: South Carroll at Francis Scott Key
+LOCATION:Francis Scott Key
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-glenelg-south-carroll-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261228T103000
+DTEND;TZID=America/New_York:20261228T123000
+SUMMARY:Boys Basketball: South Carroll at Glenelg
+LOCATION:Glenelg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgamb2fa2e7696
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fglenelg-high-school-glenelg-md%2Fgamb2fa2e7696
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-urbana-south-carroll-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261229T133000
+DTEND;TZID=America/New_York:20261229T153000
+SUMMARY:Boys Basketball: South Carroll at Urbana
+LOCATION:Urbana
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-south-carroll-manchester-valley-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270105T183000
+DTEND;TZID=America/New_York:20270105T203000
+SUMMARY:Boys Basketball: Manchester Valley at South Carroll
+LOCATION:South Carroll
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-brunswick-south-carroll-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270108T190000
+DTEND;TZID=America/New_York:20270108T210000
+SUMMARY:Boys Basketball: South Carroll at Brunswick
+LOCATION:Brunswick
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam78c5739254
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam78c5739254
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-linganore-south-carroll-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270111T190000
+DTEND;TZID=America/New_York:20270111T210000
+SUMMARY:Boys Basketball: South Carroll at Linganore
+LOCATION:Linganore
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-winters-mill-south-carroll-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270112T183000
+DTEND;TZID=America/New_York:20270112T203000
+SUMMARY:Boys Basketball: South Carroll at Winters Mill
+LOCATION:Winters Mill
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-south-carroll-francis-scott-key-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270115T180000
+DTEND;TZID=America/New_York:20270115T200000
+SUMMARY:Boys Basketball: Francis Scott Key at South Carroll
+LOCATION:South Carroll
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-liberty-south-carroll-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270119T183000
+DTEND;TZID=America/New_York:20270119T203000
+SUMMARY:Boys Basketball: South Carroll at Liberty
+LOCATION:Liberty
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-south-carroll-century-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270122T183000
+DTEND;TZID=America/New_York:20270122T203000
+SUMMARY:Boys Basketball: Century at South Carroll
+LOCATION:South Carroll
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-manchester-valley-south-carroll-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270129T183000
+DTEND;TZID=America/New_York:20270129T203000
+SUMMARY:Boys Basketball: South Carroll at Manchester Valley
+LOCATION:Manchester Valley
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-south-carroll-mountain-ridge-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270202T173000
+DTEND;TZID=America/New_York:20270202T193000
+SUMMARY:Boys Basketball: Mountain Ridge at South Carroll
+LOCATION:South Carroll
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-catoctin-south-carroll-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270204T190000
+DTEND;TZID=America/New_York:20270204T210000
+SUMMARY:Boys Basketball: South Carroll at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgam079d602ab6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgam079d602ab6
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-south-carroll-winters-mill-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270205T183000
+DTEND;TZID=America/New_York:20270205T203000
+SUMMARY:Boys Basketball: Winters Mill at South Carroll
+LOCATION:South Carroll
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-walkersville-south-carroll-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270216T190000
+DTEND;TZID=America/New_York:20270216T210000
+SUMMARY:Boys Basketball: South Carroll at Walkersville
+LOCATION:Walkersville
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-south-carroll-middletown-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270219T183000
+DTEND;TZID=America/New_York:20270219T203000
+SUMMARY:Boys Basketball: Middletown at South Carroll
+LOCATION:South Carroll
+END:VEVENT
+END:VCALENDAR

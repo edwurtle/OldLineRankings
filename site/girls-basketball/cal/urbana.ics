@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Urbana Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-23-catoctin-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261123T180000
+DTEND;TZID=America/New_York:20261123T200000
+SUMMARY:Girls Basketball: Urbana at Catoctin
+LOCATION:Catoctin
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-urbana-poolesville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261128T133000
+DTEND;TZID=America/New_York:20261128T153000
+SUMMARY:Girls Basketball: Poolesville at Urbana
+LOCATION:Urbana
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-urbana-richard-montgomery-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261130T183000
+DTEND;TZID=America/New_York:20261130T203000
+SUMMARY:Girls Basketball: Richard Montgomery at Urbana
+LOCATION:Urbana
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-westminster-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T183000
+DTEND;TZID=America/New_York:20261207T203000
+SUMMARY:Girls Basketball: Urbana at Westminster
+LOCATION:Westminster
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-clarksburg-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T191500
+DTEND;TZID=America/New_York:20261211T211500
+SUMMARY:Girls Basketball: Urbana at Clarksburg
+LOCATION:Clarksburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgam120668b9fb\nTickets: https://gofan.co/event/6706786
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fclarksburg-high-school-clarksburg-md%2Fgam120668b9fb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-urbana-gov-thomas-johnson-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Girls Basketball: Gov. Thomas Johnson at Urbana
+LOCATION:Urbana
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgam7e18d22dd6\nTickets: https://gofan.co/event/6898877
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgam7e18d22dd6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-north-hagerstown-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T190000
+DTEND;TZID=America/New_York:20261218T210000
+SUMMARY:Girls Basketball: Urbana at North Hagerstown
+LOCATION:North Hagerstown
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-frederick-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:Girls Basketball: Urbana at Frederick
+LOCATION:Frederick
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-urbana-tuscarora-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T190000
+DTEND;TZID=America/New_York:20270105T210000
+SUMMARY:Girls Basketball: Tuscarora at Urbana
+LOCATION:Urbana
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgam86e273cf16\nTickets: https://gofan.co/event/6898878
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgam86e273cf16
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-urbana-oakdale-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T190000
+DTEND;TZID=America/New_York:20270108T210000
+SUMMARY:Girls Basketball: Oakdale at Urbana
+LOCATION:Urbana
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgamb8d0de0380\nTickets: https://gofan.co/event/6898879
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgamb8d0de0380
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-south-hagerstown-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270112T190000
+DTEND;TZID=America/New_York:20270112T210000
+SUMMARY:Girls Basketball: Urbana at South Hagerstown
+LOCATION:South Hagerstown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-urbana-walkersville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270115T190000
+DTEND;TZID=America/New_York:20270115T210000
+SUMMARY:Girls Basketball: Walkersville at Urbana
+LOCATION:Urbana
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgambc8a5aa355\nTickets: https://gofan.co/event/6898881
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgambc8a5aa355
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-urbana-middletown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T190000
+DTEND;TZID=America/New_York:20270119T210000
+SUMMARY:Girls Basketball: Middletown at Urbana
+LOCATION:Urbana
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgam7ed7a71f57\nTickets: https://gofan.co/event/6898882
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgam7ed7a71f57
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-gov-thomas-johnson-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T190000
+DTEND;TZID=America/New_York:20270122T210000
+SUMMARY:Girls Basketball: Urbana at Gov. Thomas Johnson
+LOCATION:Gov. Thomas Johnson
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgamf670ca01a6\nTickets: https://gofan.co/event/6941899
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgamf670ca01a6
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-linganore-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T171500
+DTEND;TZID=America/New_York:20270126T191500
+SUMMARY:Girls Basketball: Urbana at Linganore
+LOCATION:Linganore
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flinganore-high-school-frederick-md%2Fgam14514108c3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flinganore-high-school-frederick-md%2Fgam14514108c3
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-frederick-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T190000
+DTEND;TZID=America/New_York:20270129T210000
+SUMMARY:Girls Basketball: Urbana at Frederick
+LOCATION:Frederick
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgam11f4559d12\nTickets: https://gofan.co/event/6898884
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgam11f4559d12
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-mc-donogh-school-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270201T183000
+DTEND;TZID=America/New_York:20270201T203000
+SUMMARY:Girls Basketball: Urbana at Mc Donogh School
+LOCATION:Mc Donogh School
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-tuscarora-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270205T190000
+DTEND;TZID=America/New_York:20270205T210000
+SUMMARY:Girls Basketball: Urbana at Tuscarora
+LOCATION:Tuscarora
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ftuscarora-high-school-frederick-md%2Fgam93a8080719\nTickets: https://gofan.co/event/6816897
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ftuscarora-high-school-frederick-md%2Fgam93a8080719
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-urbana-south-hagerstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270209T190000
+DTEND;TZID=America/New_York:20270209T210000
+SUMMARY:Girls Basketball: South Hagerstown at Urbana
+LOCATION:Urbana
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgamd20448a0ca\nTickets: https://gofan.co/event/6898885
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgamd20448a0ca
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-manchester-valley-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T063000
+DTEND;TZID=America/New_York:20270210T083000
+SUMMARY:Girls Basketball: Urbana at Manchester Valley
+LOCATION:Manchester Valley
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-urbana-linganore-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T171500
+DTEND;TZID=America/New_York:20270212T191500
+SUMMARY:Girls Basketball: Linganore at Urbana
+LOCATION:Urbana
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgamd14aedaea7\nTickets: https://gofan.co/event/6898876
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Furbana-high-school-ijamsville-md%2Fgamd14aedaea7
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-oakdale-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270218T190000
+DTEND;TZID=America/New_York:20270218T210000
+SUMMARY:Girls Basketball: Urbana at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-southern-g-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270220T143000
+DTEND;TZID=America/New_York:20270220T163000
+SUMMARY:Girls Basketball: Urbana at Southern-G
+LOCATION:Southern-G
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgama55b01b2ef
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouthern-garrett-high-school-oakland-md%2Fgama55b01b2ef
+END:VEVENT
+END:VCALENDAR

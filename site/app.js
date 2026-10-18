@@ -61,6 +61,20 @@ document.addEventListener("click", e => {
 });
 // Ranking number: MPSSAA points per game (soccer) or the Old Line Rating (football, C.olr)
 const OLR = !!C.olr;
+// Early season (basketball): no rankings or game predictions before C.rank_date, and no projected brackets or
+// title odds before C.project_date. D.sports[g].hold.ranks / .proj: that date, null once it has arrived.
+const HOLD = g => D.sports[g].hold || {};
+const RANKED = g => HOLD(g).ranks == null;
+const PROJ = g => HOLD(g).proj == null;
+function holdCard(g, kind) {
+  const when = fmtDate(HOLD(g)[kind], {month: "long", day: "numeric"});
+  return kind === "proj"
+    ? `<div class="card hold-card"><div class="eyebrow">Early season</div><h2>Projections start ${when}</h2>
+        <p>Projected brackets and title odds start ${when}, once teams have enough games played. Until then, here are today's seeds by ${SEED.name}.</p></div>`
+    : `<div class="card hold-card"><div class="eyebrow">Early season</div><h2>Rankings start ${when}</h2>
+        <p>Old Line Ratings need a few games before they mean much, so rankings and win chances start ${when}.
+        Until then, follow the <a href="${href({page: "schedule"})}">schedule and scores</a> and today's <a href="${href({page: "final8"})}">playoff seeds</a> by ${SEED.name}.</p></div>`;
+}
 // Every sport's ranking number is its Old Line Rating; only the formula differs (see How it works)
 const RATING = "Old Line Rating", RATING_SHORT = "OLR";
 const fmtR = x => (x > 0 ? "+" : x < 0 ? "−" : "") + Math.abs(x).toFixed(C.olr.digits || 1);
@@ -88,7 +102,9 @@ const subline = name => { const s = SCHOOLS[name] || {}; return [s.mascot, s.cou
 const teamsOf = (g, c) => c === "All" ? D.sports[g].teams : D.sports[g].teams.filter(t => t.cls === c);
 const findTeam = (g, name) => D.sports[g].teams.find(t => t.school === name);
 const throughAll = Object.values(D.sports).map(s => s.through).sort().pop();
-document.getElementById("updated").textContent = `Games through ${fmtDate(throughAll, {month: "long", day: "numeric", year: "numeric"})} · updated ${D.updated}`;
+const thru = (d, opts) => d ? fmtDate(d, opts) : "—";   // no games played yet
+const thruText = g => D.sports[g].through ? `games through ${fmtDate(D.sports[g].through, {month: "long", day: "numeric"})}` : "no games played yet";
+document.getElementById("updated").textContent = (throughAll ? `Games through ${fmtDate(throughAll, {month: "long", day: "numeric", year: "numeric"})} · updated` : "Updated") + ` ${D.updated}`;
 // Footer sport switcher: every Old Line Rankings sport, current one highlighted, coming-soon ones dimmed
 document.getElementById("family").innerHTML = C.family.sports.map(s => s.href
   ? `<a href="${esc(s.href)}" class="${s.current ? "on" : ""}"${s.current ? ` aria-current="page"` : ""}>${s.icon}${esc(s.sport)}</a>`
@@ -186,7 +202,7 @@ function renderHome() {
   <section class="hero">
     <div class="hero-inner">
       <div>
-        <div class="eyebrow">Fall ${throughAll.slice(0, 4)} · Maryland Public High School ${MULTI ? Object.values(GENDERS).join(" & ") + " " : ""}${C.sport}</div>
+        <div class="eyebrow">${C.season} ${C.season_years || (throughAll || TODAY).slice(0, 4)} · Maryland Public High School ${MULTI ? Object.values(GENDERS).join(" & ") + " " : ""}${C.sport}</div>
         <h1>Old Line<br><span>${C.sport} Rankings</span></h1>
         <p>${OLR ? `Every public high school ${C.sport.toLowerCase()} team in the state, ranked by the Old Line Rating: how much better than average a team is, built from capped scoring margins and the strength of every opponent.${SEEDS_BY_POINTS ? " MPSSAA playoff points are tracked alongside for seeding." : ""}`
           : `Every public high school ${C.sport.toLowerCase()} team in the state, ranked by who they beat. Strength of schedule is built in: a win over a ${CLASSES[0]} team with a winning record counts for more than a win over a winless ${CLASSES[CLASSES.length - 1]} team.`}</p>
@@ -199,7 +215,7 @@ function renderHome() {
           <div><b>${totalTeams}</b><span>Teams</span></div>
           <div><b>${totalGames.toLocaleString()}</b><span>Games</span></div>
           <div><b>${unbeatenCount}</b><span>Unbeaten</span></div>
-          <div><b>${fmtDate(throughAll)}</b><span>Through</span></div>
+          <div><b>${thru(throughAll)}</b><span>Through</span></div>
         </div>
       </div>
       <div class="hero-flag">${flagSVG()}</div>
@@ -213,7 +229,7 @@ function renderHome() {
         <div class="pick ${g}">
           <div class="pick-head"><h3><i></i>${label}</h3><a href="${href({page: "rank", g, c: "All"})}">All classes →</a></div>
           <div class="pick-grid" style="--n:${CLASSES.length}">${CLASSES.map(c => {
-            const ts = teamsOf(g, c), top = ts[0];
+            const ts = teamsOf(g, c), top = RANKED(g) ? ts[0] : null;
             return `<a class="cls-tile" href="${href({page: "rank", g, c})}">
               <span class="cls-big">${cl(c)}</span>
               ${top ? logo(top.school, 40) : ""}
@@ -224,7 +240,7 @@ function renderHome() {
       </div>
     </section>
 
-    <section class="section">
+    ${!RANKED(homeGender) ? `<section class="section">${holdCard(homeGender, "ranks")}</section>` : `<section class="section">
       <div class="section-head">
         <div><div class="eyebrow">Top of the table</div><h2>Leaders by class</h2><p>The top five in every class by Old Line Rating.</p></div>
         ${MULTI ? `<div class="gender-tabs" role="tablist">${Object.entries(GENDERS).map(([g, l]) => `<button data-hg="${g}" aria-selected="${g === homeGender}">${l}</button>`).join("")}</div>` : ""}
@@ -239,7 +255,7 @@ function renderHome() {
           <div><b>${esc(t.school)}</b><br><small>${recTxt(t)} · ${fmtR(t.rating)} ${RATING_SHORT}</small></div>
           <span class="tag">${cl(t.cls)}</span></div>`).join("") || `<div class="muted">No unbeaten teams.</div>`}
       </div>
-    </section>
+    </section>`}
   </div>`;
 }
 function highlightCard(g, c) {
@@ -269,6 +285,7 @@ function howOLR() {
   const [hi, lo] = o.example, spread = hi - lo, p = 1 / (1 + Math.exp(-o.k * spread));
   const r = x => fmtR(x);
   return `<section class="how-section">
+    ${RANKED(DEF) ? "" : holdCard(DEF, "ranks")}
     ${howHead("The ranking", "Old Line Rating", `How many ${u} better than an average Maryland public school team a team is, judged by every game it has played.`)}
     <div class="how-grid" style="--n:${o.win_bonus ? 3 : 2}">
       <div class="how-card w"><div class="k">Margin</div><h4>Capped at ${o.cap}</h4><p>Each game counts the ${one} margin, capped at ${o.cap} ${u} (${o.cap_note}), so running up the score doesn't help.</p></div>
@@ -360,13 +377,13 @@ function renderRank(r) {
   <section class="page-head"><div class="wrap">
     ${crumbs(["Rankings", href({page: "rank", g: r.g, c: "All"})], r.c === "All" ? "All classes" : "Class " + cl(r.c))}
     <h1>${title}</h1>
-    <div class="sub">${ts.length} teams · games through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})} · ranked by Old Line Rating</div>
+    <div class="sub">${ts.length} teams · ${thruText(r.g)}${RANKED(r.g) ? " · ranked by Old Line Rating" : ""}</div>
     <div class="switches">
       ${MULTI ? `<div class="pill-group ${r.g !== DEF ? "red" : ""}">${Object.entries(GENDERS).map(([g, l]) => `<a class="${g === r.g ? "on" : ""}" href="${href({...r, g, team: null})}">${l}</a>`).join("")}</div>` : ""}
       <div class="pill-group">${[...CLASSES, "All"].map(c => `<a class="${c === r.c ? "on" : ""}" href="${href({...r, c, team: null})}">${cl(c)}</a>`).join("")}</div>
     </div>
   </div></section>
-  <div class="wrap">
+  <div class="wrap">${!RANKED(r.g) ? holdCard(r.g, "ranks") + "</div>" : `
     <div class="card">
       <div class="toolbar">
         <div class="seg" role="tablist">
@@ -382,7 +399,8 @@ function renderRank(r) {
       </div>
       <div id="list"></div>
     </div>
-  </div>`;
+  </div>`}`;
+  if (!RANKED(r.g)) return;
   const sel = document.getElementById("sortSel");
   sel.value = SORTS[sort.key] && [...sel.options].some(o => o.value === sort.key) ? sort.key : "";
   renderList(r, ts);
@@ -543,7 +561,7 @@ function bracketHTML(rounds, names, endName, slot, opts = {}) {
     ${endName ? `<div class="bcol fed end ${opts.endCls || ""}"><h4>${endName}</h4><div class="bgames">${end}</div></div>` : ""}</div>`;
 }
 function renderFinal8(r) {
-  const view = r.view in F8_VIEWS ? r.view : "current", projected = view !== "current";
+  const view = r.view in F8_VIEWS && PROJ(r.g) ? r.view : "current", projected = view !== "current";
   const {val, pick, regions, final8, regionSeed} = seeding(r.g, r.c, view);
   // Each record carries its own seeding number where that isn't just the record (football's MPSSAA points)
   // Team card details: record and (football) MPSSAA points on their own lines; the projected view adds a
@@ -591,14 +609,15 @@ function renderFinal8(r) {
     </div>
   </div></section>
   <div class="wrap">
+    ${PROJ(r.g) ? "" : holdCard(r.g, "proj")}
     <div class="card f8-toggle">
       <div class="toolbar">
         <div class="seg" role="tablist">
-          ${Object.entries(F8_VIEWS).map(([v, l]) => `<button data-view="${v}" aria-selected="${v === view}">${l}</button>`).join("")}
+          ${Object.entries(F8_VIEWS).filter(([v]) => PROJ(r.g) || v === "current").map(([v, l]) => `<button data-view="${v}" aria-selected="${v === view}">${l}</button>`).join("")}
         </div>
         <span class="muted f8-note">${projected
           ? `Projected using Old Line Ratings · seeded by ${SEED.name}`
-          : `Today's seeds by ${SEED.name}, through ${fmtDate(D.sports[r.g].through, {month: "long", day: "numeric"})}`}</span>
+          : `Today's seeds by ${SEED.name}, ${thruText(r.g)}`}</span>
       </div>
     </div>
     <div class="section-head"><div><div class="eyebrow">Step 1 · Region play</div><h2>${divName(r.g, r.c)} regions</h2>
@@ -606,7 +625,7 @@ function renderFinal8(r) {
     <div class="regions f8-regions">${regionCards}</div>
     <div class="section-head"><div><div class="eyebrow">Step 2 · State tournament</div><h2>Final 8</h2>
       <p>The ${regions.length * PL.per_region} region ${PL.per_region === 1 ? "champions" : "survivors"} are reseeded 1–8 by ${SEED.name}: 1v8, 4v5, 2v7, 3v6.
-      ${projected ? "" : "The bracket fills in once region play is done; switch to Projected for a prediction."}</p></div></div>
+      ${projected ? "" : `The bracket fills in once region play is done${PROJ(r.g) ? "; switch to Projected for a prediction" : ""}.`}</p></div></div>
     <div class="card">${bracket}</div>
   </div>`;
 }
@@ -669,7 +688,7 @@ function renderScheduleList(r) {
   const team = (name, right, won, homeTag) => {
     const t = info(name);
     const label = t ? `<button class="tm" data-team="${esc(name)}">${esc(name)}</button>` : `<span class="tm nm">${esc(name)}</span>`;
-    const meta = t ? `<small>${homeTag ? "Home · " : ""}${cl(t.cls)} · #${t.rank} · ${recTxt(t)}</small>` : `<small>${homeTag ? "Home · " : ""}Non-public / out of state</small>`;
+    const meta = t ? `<small>${homeTag ? "Home · " : ""}${cl(t.cls)}${RANKED(r.g) ? ` · #${t.rank}` : ""} · ${recTxt(t)}</small>` : `<small>${homeTag ? "Home · " : ""}Non-public / out of state</small>`;
     return `<div class="gc-team ${won === true ? "won" : ""}">${logo(name, 32)}<div class="who">${label}${meta}</div><div class="gc-r mono">${right}</div></div>`;
   };
   let day = "", rows = "", open = false;
@@ -681,7 +700,7 @@ function renderScheduleList(r) {
     }
     const hw = x.played ? (x.hs > x.as ? true : x.hs < x.as ? false : null) : null;
     // Upcoming: each side's chance to win (home team hosts)
-    const p = !x.played && OLR && info(x.home) ? winProb(r.g, x.home, x.away, 1) : null;
+    const p = !x.played && OLR && RANKED(r.g) && info(x.home) ? winProb(r.g, x.home, x.away, 1) : null;
     const right = (score, chance) => x.played ? (score ?? "–") : chance == null ? "" : `<span class="gc-p">${pct(100 * chance)}</span>`;
     const when = x.played ? (x.ff ? "Forfeit" : "Final") : x.date < TODAY ? "Pending" : x.time ? fmtTime(x.time) : "Time TBA";
     rows += `<div class="gcard">
@@ -703,30 +722,30 @@ function teamView(g, name) {
   const s = SCHOOLS[name] || {};
   const regionRank = D.sports[g].teams.filter(x => x.cls === t.cls && x.region === t.region).indexOf(t) + 1;
   const v = {t, color: teamColor(name),
-    eyebrow: `${divName(g, t.cls)} · #${t.rank} in class · #${regionRank} in ${t.region} · #${t.stateRank} statewide`,
+    eyebrow: RANKED(g) ? `${divName(g, t.cls)} · #${t.rank} in class · #${regionRank} in ${t.region} · #${t.stateRank} statewide` : `${divName(g, t.cls)} · ${t.region}`,
     meta: [s.mascot, s.city, s.county && s.county + (/(City|County)$/.test(s.county) ? "" : " County")].filter(Boolean).join(" · ")};
   v.form = t.games.map(x => `<i class="${x.res}" title="${esc(fmtDate(x.date) + " vs " + x.opp)}">${x.res}</i>`).join("") +
     t.upcoming.filter(u => u.status !== "postponed").map(u => `<i class="U" title="${esc(fmtDate(u.date) + (u.home ? " vs " : " @ ") + u.opp)}"></i>`).join("");
   const scoring = t.games.filter(x => x.res !== "L").map(x => Object.assign(x, {__gs: gameScore(g, x).score}));
   const best = scoring.length ? scoring.reduce((a, b) => b.__gs > a.__gs ? b : a) : null;
   v.body = `
-    <div class="tiles">
+    <div class="tiles">${RANKED(g) ? `
       <div class="tile tile-olr" id="olrTile">
         <button class="olr-head" id="olrBtn" aria-expanded="false" title="Show how this rating is calculated">
           <b class="mono">${fmtR(t.rating)}</b><span>${RATING}</span>
           <svg class="chev" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
         </button>
         <div class="olr-body" hidden>${olrBreakdown(g, t)}</div>
-      </div>
+      </div>` : ""}
       ${PL ? `<div class="tile"><b class="mono">${SEED.fmt(SEED.val(t))}</b><span title="Playoff seeding: ${SEED.name}">${SEED.unit} · seeding</span></div>` : ""}
-      <div class="tile"><b class="mono">${fmtR(t.sos)}</b><span title="Strength of schedule">SOS · #${t.sosRank} in ${cl(t.cls)}</span></div>
+      ${RANKED(g) ? `<div class="tile"><b class="mono">${fmtR(t.sos)}</b><span title="Strength of schedule">SOS · #${t.sosRank} in ${cl(t.cls)}</span></div>` : ""}
       <div class="tile"><b class="mono">${recTxt(t)}</b><span>Record · ${pctStr(t)}</span></div>
       <div class="tile"><b class="mono">${t.gf}–${t.ga}</b><span>${C.score.short}</span></div>
     </div>
     ${t.odds ? `<div class="sect">Odds to reach · 2,000 simulated seasons</div><div class="tiles odds">
       ${[["f8", "Final 8"], ["sf", "Semifinals"], ["fin", "State final"], ["champ", "State champion"]].map(([k, l]) =>
         `<div class="tile"><b class="mono">${pct(t.odds[k])}</b><span>${l}</span></div>`).join("")}</div>` : ""}
-    ${best ? `<div class="sect">Best result</div><div class="best">${logo(best.opp, 40)}<div><b>${best.res === "W" ? "Beat" : "Tied"} ${esc(best.opp)}</b> ${best.gf}–${best.ga} on ${fmtDate(best.date)}<div class="muted" style="font-size:13px">OLR game score ${fmtR(best.__gs)}</div></div></div>` : ""}
+    ${best ? `<div class="sect">Best result</div><div class="best">${logo(best.opp, 40)}<div><b>${best.res === "W" ? "Beat" : "Tied"} ${esc(best.opp)}</b> ${best.gf}–${best.ga} on ${fmtDate(best.date)}${RANKED(g) ? `<div class="muted" style="font-size:13px">OLR game score ${fmtR(best.__gs)}</div>` : ""}</div></div>` : ""}
     ${t.upcoming.length ? `<div class="sect">Upcoming (${t.upcoming.length})</div>${t.upcoming.map(u => upcomingRow(g, t, u)).join("")}<div style="height:10px"></div>` : ""}
     <div class="sect">Games played (${t.gp})</div>
     ${[...t.games].reverse().map(x => gameRow(g, t, x)).join("") || `<div class="muted">No games yet.</div>`}`;
@@ -772,7 +791,7 @@ function gameRow(g, t, x) {
     <div class="res ${x.res}">${x.res}</div>${logo(x.opp, 34)}
     <div><div class="opp">${x.home ? "vs" : "@"} ${name}</div>
       <div class="det"><span>${fmtDate(x.date)}</span>${ctag}${orec}${x.ff ? "<span>Forfeit</span>" : ""}</div></div>
-    <div class="right"><div class="links">${watchBtn(x)}</div><div class="score mono">${x.gf ?? "–"}–${x.ga ?? "–"}</div>${SEEDS_BY_POINTS ? `<div class="pts">${calc} MPSSAA pts</div>` : ""}<div class="pts">OLR game score <b class="mono">${fmtR(gameScore(g, x).score)}</b></div></div>
+    <div class="right"><div class="links">${watchBtn(x)}</div><div class="score mono">${x.gf ?? "–"}–${x.ga ?? "–"}</div>${SEEDS_BY_POINTS ? `<div class="pts">${calc} MPSSAA pts</div>` : ""}${RANKED(g) ? `<div class="pts">OLR game score <b class="mono">${fmtR(gameScore(g, x).score)}</b></div>` : ""}</div>
   </div>`;
 }
 function upcomingRow(g, t, u) {
@@ -788,7 +807,7 @@ function upcomingRow(g, t, u) {
     <div class="when"><small>${d.toLocaleDateString(undefined, {weekday: "short"})}</small><b class="mono">${d.getDate()}</b></div>${logo(u.opp, 34)}
     <div><div class="opp">${u.home ? "vs" : "@"} ${name}</div>
       <div class="det"><span>${fmtDate(u.date)}</span>${ctag}${orec}${status}</div></div>
-    <div class="right"><div class="links">${watchBtn(u)}${ticketBtn(u, u.home ? `${u.opp} at ${t.school}` : `${t.school} at ${u.opp}`)}</div>${OLR ? `<div class="prob mono" title="Chance to win (Old Line Rating)">${pct(100 * winProb(g, t.school, u.opp, u.home ? 1 : -1))} to win</div>` : ""}${SEEDS_BY_POINTS ? `<div class="pts">win worth</div><div class="mono worth">${n2(worth)} <span class="pts">MPSSAA pts</span></div>` : ""}</div>
+    <div class="right"><div class="links">${watchBtn(u)}${ticketBtn(u, u.home ? `${u.opp} at ${t.school}` : `${t.school} at ${u.opp}`)}</div>${OLR && RANKED(g) ? `<div class="prob mono" title="Chance to win (Old Line Rating)">${pct(100 * winProb(g, t.school, u.opp, u.home ? 1 : -1))} to win</div>` : ""}${SEEDS_BY_POINTS ? `<div class="pts">win worth</div><div class="mono worth">${n2(worth)} <span class="pts">MPSSAA pts</span></div>` : ""}</div>
   </div>`;
 }
 // The full Old Line Rating calculation for one team: each game's score, then the blend with the class average.

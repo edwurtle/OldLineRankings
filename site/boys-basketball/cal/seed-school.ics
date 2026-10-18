@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEED School Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2027-02-06-seed-school-great-mills-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270206T150000
+DTEND;TZID=America/New_York:20270206T170000
+SUMMARY:Boys Basketball: Great Mills at SEED School
+LOCATION:SEED School
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-c-milton-wright-seed-school-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270216T170000
+DTEND;TZID=America/New_York:20270216T190000
+SUMMARY:Boys Basketball: SEED School at C. Milton Wright
+LOCATION:C. Milton Wright
+END:VEVENT
+END:VCALENDAR

@@ -6,7 +6,7 @@ X-WR-CALNAME:James M. Bennett Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-colonel-richardson-james-m-bennett-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: James M. Bennett at Colonel Richardson
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-cambridge-south-dorchester-james-m-bennett-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: James M. Bennett at Cambridge-South Dorchester
@@ -25,7 +25,7 @@ DESCRIPTION:Final: James M. Bennett 14\, Cambridge-South Dorchester 18
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-parkside-james-m-bennett-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Football: James M. Bennett at Parkside
@@ -34,7 +34,7 @@ DESCRIPTION:Final: James M. Bennett 6\, Parkside 27
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-kent-island-james-m-bennett-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Football: James M. Bennett at Kent Island
@@ -43,7 +43,7 @@ DESCRIPTION:Final: James M. Bennett 6\, Kent Island 34
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-easton-james-m-bennett-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: James M. Bennett at Easton
@@ -52,7 +52,7 @@ DESCRIPTION:Final: James M. Bennett 0\, Easton 42
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-james-m-bennett-stephen-decatur-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Stephen Decatur at James M. Bennett
@@ -61,7 +61,7 @@ DESCRIPTION:Final: James M. Bennett 6\, Stephen Decatur 42
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-queen-anne-s-james-m-bennett-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Football: James M. Bennett at Queen Anne's
@@ -71,7 +71,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-north-caroline-james-m-bennett-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: James M. Bennett at North Caroline
@@ -79,7 +79,7 @@ LOCATION:North Caroline
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-wicomico-james-m-bennett-football@oldlinerankings
-DTSTAMP:20261018T143235Z
+DTSTAMP:20261018T151000Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Football: James M. Bennett at Wicomico

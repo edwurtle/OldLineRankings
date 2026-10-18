@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Edmondson-Westside Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-10-edmondson-westside-forest-park-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261210T171500
+DTEND;TZID=America/New_York:20261210T191500
+SUMMARY:Girls Basketball: Forest Park at Edmondson-Westside
+LOCATION:Edmondson-Westside
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgam68b81b72cf
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgam68b81b72cf
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-western-b-edmondson-westside-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261217T171500
+DTEND;TZID=America/New_York:20261217T191500
+SUMMARY:Girls Basketball: Edmondson-Westside at Western-B
+LOCATION:Western-B
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestern-high-school-baltimore-md-2%2Fgam9330165054
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestern-high-school-baltimore-md-2%2Fgam9330165054
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-edmondson-westside-frederick-douglass-b-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T171500
+DTEND;TZID=America/New_York:20270105T191500
+SUMMARY:Girls Basketball: Frederick Douglass-B at Edmondson-Westside
+LOCATION:Edmondson-Westside
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgam380347662d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgam380347662d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-carver-vocational-technical-edmondson-westside-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270107T171500
+DTEND;TZID=America/New_York:20270107T191500
+SUMMARY:Girls Basketball: Edmondson-Westside at Carver Vocational-Technical
+LOCATION:Carver Vocational-Technical
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcarver-votechnical-high-school-baltimore-md%2Fgam31c4479463
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcarver-votechnical-high-school-baltimore-md%2Fgam31c4479463
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-edmondson-westside-digital-harbor-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T171500
+DTEND;TZID=America/New_York:20270114T191500
+SUMMARY:Girls Basketball: Digital Harbor at Edmondson-Westside
+LOCATION:Edmondson-Westside
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-edmondson-westside-benjamin-franklin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T171500
+DTEND;TZID=America/New_York:20270119T191500
+SUMMARY:Girls Basketball: Benjamin Franklin at Edmondson-Westside
+LOCATION:Edmondson-Westside
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgamc89ec67a97
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgamc89ec67a97
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-mergenthaler-edmondson-westside-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270121T171500
+DTEND;TZID=America/New_York:20270121T191500
+SUMMARY:Girls Basketball: Edmondson-Westside at Mergenthaler
+LOCATION:Mergenthaler
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmergenthaler-vocational-technical-senior-high-school-baltimore-md%2Fgam478bd99658
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmergenthaler-vocational-technical-senior-high-school-baltimore-md%2Fgam478bd99658
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-lake-clifton-edmondson-westside-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Girls Basketball: Edmondson-Westside at Lake Clifton
+LOCATION:Lake Clifton
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flake-clifton-high-school-baltimore-md%2Fgam5b652dc6c6
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flake-clifton-high-school-baltimore-md%2Fgam5b652dc6c6
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-edmondson-westside-paul-laurence-dunbar-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270202T171500
+DTEND;TZID=America/New_York:20270202T191500
+SUMMARY:Girls Basketball: Paul Laurence Dunbar at Edmondson-Westside
+LOCATION:Edmondson-Westside
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-patterson-edmondson-westside-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270204T171500
+DTEND;TZID=America/New_York:20270204T191500
+SUMMARY:Girls Basketball: Edmondson-Westside at Patterson
+LOCATION:Patterson
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatterson-high-school-baltimore-md%2Fgam1ef402fa8d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpatterson-high-school-baltimore-md%2Fgam1ef402fa8d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-edmondson-westside-baltimore-polytechnic-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270209T171500
+DTEND;TZID=America/New_York:20270209T191500
+SUMMARY:Girls Basketball: Baltimore Polytechnic at Edmondson-Westside
+LOCATION:Edmondson-Westside
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgam85204dacfa
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgam85204dacfa
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-edmondson-westside-carver-vocational-technical-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270211T171500
+DTEND;TZID=America/New_York:20270211T191500
+SUMMARY:Girls Basketball: Carver Vocational-Technical at Edmondson-Westside
+LOCATION:Edmondson-Westside
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgama8b564e28c
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fedmondsonwestside-high-school-baltimore-md%2Fgama8b564e28c
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-forest-park-edmondson-westside-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T154500
+DTEND;TZID=America/New_York:20270216T174500
+SUMMARY:Girls Basketball: Edmondson-Westside at Forest Park
+LOCATION:Forest Park
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fforest-park-high-school-baltimore-md%2Fgamf31bd59013
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fforest-park-high-school-baltimore-md%2Fgamf31bd59013
+END:VEVENT
+END:VCALENDAR

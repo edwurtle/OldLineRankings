@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Duval Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-15-duval-dr-henry-a-wise-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261215T191500
+DTEND;TZID=America/New_York:20261215T211500
+SUMMARY:Boys Basketball: Dr. Henry A. Wise at Duval
+LOCATION:Duval
+DESCRIPTION:Tickets: https://gofan.co/event/6696706
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-duval-charles-h-flowers-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20261217T191500
+DTEND;TZID=America/New_York:20261217T211500
+SUMMARY:Boys Basketball: Charles H. Flowers at Duval
+LOCATION:Duval
+DESCRIPTION:Tickets: https://gofan.co/event/6696744
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-duval-parkdale-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270105T191500
+DTEND;TZID=America/New_York:20270105T211500
+SUMMARY:Boys Basketball: Parkdale at Duval
+LOCATION:Duval
+DESCRIPTION:Tickets: https://gofan.co/event/6696815
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-duval-northwestern-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270112T191500
+DTEND;TZID=America/New_York:20270112T211500
+SUMMARY:Boys Basketball: Northwestern at Duval
+LOCATION:Duval
+DESCRIPTION:Tickets: https://gofan.co/event/6697093
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-bladensburg-duval-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270114T191500
+DTEND;TZID=America/New_York:20270114T211500
+SUMMARY:Boys Basketball: Duval at Bladensburg
+LOCATION:Bladensburg
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamb97cd06891\nTickets: https://gofan.co/event/6956511
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbladensburg-high-school-bladensburg-md%2Fgamb97cd06891
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-duval-high-point-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270119T191500
+DTEND;TZID=America/New_York:20270119T211500
+SUMMARY:Boys Basketball: High Point at Duval
+LOCATION:Duval
+DESCRIPTION:Tickets: https://gofan.co/event/6697102
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-eleanor-roosevelt-duval-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270121T191500
+DTEND;TZID=America/New_York:20270121T211500
+SUMMARY:Boys Basketball: Duval at Eleanor Roosevelt
+LOCATION:Eleanor Roosevelt
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feleanor-roosevelt-high-school-greenbelt-md%2Fgamfc0e0319e3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feleanor-roosevelt-high-school-greenbelt-md%2Fgamfc0e0319e3
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-laurel-duval-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270126T191500
+DTEND;TZID=America/New_York:20270126T211500
+SUMMARY:Boys Basketball: Duval at Laurel
+LOCATION:Laurel
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam7ec9cafaee
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam7ec9cafaee
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-dr-henry-a-wise-duval-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270204T191500
+DTEND;TZID=America/New_York:20270204T211500
+SUMMARY:Boys Basketball: Duval at Dr. Henry A. Wise
+LOCATION:Dr. Henry A. Wise
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam4a3e346fe4
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdr-henry-a-wise-high-school-upper-marlboro-md%2Fgam4a3e346fe4
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-charles-h-flowers-duval-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270210T191500
+DTEND;TZID=America/New_York:20270210T211500
+SUMMARY:Boys Basketball: Duval at Charles H. Flowers
+LOCATION:Charles H. Flowers
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcharles-herbert-flowers-high-school-springdale-md%2Fgama2f8b70283
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcharles-herbert-flowers-high-school-springdale-md%2Fgama2f8b70283
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-parkdale-duval-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270212T191500
+DTEND;TZID=America/New_York:20270212T211500
+SUMMARY:Boys Basketball: Duval at Parkdale
+LOCATION:Parkdale
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam88520a5dd8\nTickets: https://gofan.co/event/6714845
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fparkdale-high-school-riverdale-md%2Fgam88520a5dd8
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-duval-suitland-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270216T191500
+DTEND;TZID=America/New_York:20270216T211500
+SUMMARY:Boys Basketball: Suitland at Duval
+LOCATION:Duval
+DESCRIPTION:Tickets: https://gofan.co/event/6697106
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-northwestern-duval-boys-basketball@oldlinerankings
+DTSTAMP:20261018T151156Z
+DTSTART;TZID=America/New_York:20270218T191500
+DTEND;TZID=America/New_York:20270218T211500
+SUMMARY:Boys Basketball: Duval at Northwestern
+LOCATION:Northwestern
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgame1bf11e1ab
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwestern-high-school-hyattsville-md%2Fgame1bf11e1ab
+END:VEVENT
+END:VCALENDAR

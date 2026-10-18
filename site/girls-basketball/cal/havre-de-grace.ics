@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Havre de Grace Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-04-havre-de-grace-harford-tech-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T190000
+DTEND;TZID=America/New_York:20261204T210000
+SUMMARY:Girls Basketball: Harford Tech at Havre de Grace
+LOCATION:Havre de Grace
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-havre-de-grace-patterson-mill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261207T190000
+DTEND;TZID=America/New_York:20261207T210000
+SUMMARY:Girls Basketball: Patterson Mill at Havre de Grace
+LOCATION:Havre de Grace
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-elkton-havre-de-grace-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261208T170000
+DTEND;TZID=America/New_York:20261208T190000
+SUMMARY:Girls Basketball: Havre de Grace at Elkton
+LOCATION:Elkton
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Felkton-high-school-elkton-md%2Fgam915f93c5c0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Felkton-high-school-elkton-md%2Fgam915f93c5c0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-north-harford-havre-de-grace-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T170000
+DTEND;TZID=America/New_York:20261211T190000
+SUMMARY:Girls Basketball: Havre de Grace at North Harford
+LOCATION:North Harford
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-c-milton-wright-havre-de-grace-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261215T170000
+DTEND;TZID=America/New_York:20261215T190000
+SUMMARY:Girls Basketball: Havre de Grace at C. Milton Wright
+LOCATION:C. Milton Wright
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-havre-de-grace-john-carroll-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261219T105500
+DTEND;TZID=America/New_York:20261219T125500
+SUMMARY:Girls Basketball: John Carroll at Havre de Grace
+LOCATION:Havre de Grace
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-havre-de-grace-bel-air-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261222T190000
+DTEND;TZID=America/New_York:20261222T210000
+SUMMARY:Girls Basketball: Bel Air at Havre de Grace
+LOCATION:Havre de Grace
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-harford-tech-havre-de-grace-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T190000
+DTEND;TZID=America/New_York:20270105T210000
+SUMMARY:Girls Basketball: Havre de Grace at Harford Tech
+LOCATION:Harford Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-havre-de-grace-c-milton-wright-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270111T190000
+DTEND;TZID=America/New_York:20270111T210000
+SUMMARY:Girls Basketball: C. Milton Wright at Havre de Grace
+LOCATION:Havre de Grace
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-havre-de-grace-north-harford-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T190000
+DTEND;TZID=America/New_York:20270122T210000
+SUMMARY:Girls Basketball: North Harford at Havre de Grace
+LOCATION:Havre de Grace
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-edgewood-havre-de-grace-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T190000
+DTEND;TZID=America/New_York:20270126T210000
+SUMMARY:Girls Basketball: Havre de Grace at Edgewood
+LOCATION:Edgewood
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-fallston-havre-de-grace-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270128T190000
+DTEND;TZID=America/New_York:20270128T210000
+SUMMARY:Girls Basketball: Havre de Grace at Fallston
+LOCATION:Fallston
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-havre-de-grace-elkton-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270202T190000
+DTEND;TZID=America/New_York:20270202T210000
+SUMMARY:Girls Basketball: Elkton at Havre de Grace
+LOCATION:Havre de Grace
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-bel-air-havre-de-grace-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270210T190000
+DTEND;TZID=America/New_York:20270210T210000
+SUMMARY:Girls Basketball: Havre de Grace at Bel Air
+LOCATION:Bel Air
+END:VEVENT
+END:VCALENDAR

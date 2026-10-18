@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:John F. Kennedy Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-12-04-john-f-kennedy-col-zadok-magruder-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T191500
+DTEND;TZID=America/New_York:20261204T211500
+SUMMARY:Girls Basketball: Col. Zadok Magruder at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgamca2cf54c34\nTickets: https://gofan.co/event/6707287
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgamca2cf54c34
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-walt-whitman-john-f-kennedy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261208T191500
+DTEND;TZID=America/New_York:20261208T211500
+SUMMARY:Girls Basketball: John F. Kennedy at Walt Whitman
+LOCATION:Walt Whitman
+DESCRIPTION:Tickets: https://gofan.co/event/6709240
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-john-f-kennedy-winston-churchill-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261211T191500
+DTEND;TZID=America/New_York:20261211T211500
+SUMMARY:Girls Basketball: Winston Churchill at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam082be6f6fd\nTickets: https://gofan.co/event/6707286
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam082be6f6fd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-richard-montgomery-john-f-kennedy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261214T191500
+DTEND;TZID=America/New_York:20261214T211500
+SUMMARY:Girls Basketball: John F. Kennedy at Richard Montgomery
+LOCATION:Richard Montgomery
+DESCRIPTION:Tickets: https://gofan.co/event/6708656
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-john-f-kennedy-northwood-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261216T191500
+DTEND;TZID=America/New_York:20261216T211500
+SUMMARY:Girls Basketball: Northwood at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam30f732ffb7\nTickets: https://gofan.co/event/6707288
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam30f732ffb7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-albert-einstein-john-f-kennedy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T191500
+DTEND;TZID=America/New_York:20261218T211500
+SUMMARY:Girls Basketball: John F. Kennedy at Albert Einstein
+LOCATION:Albert Einstein
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Falbert-einstein-high-school-kensington-md%2Fgamc5f32538c8\nTickets: https://gofan.co/event/6707067
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Falbert-einstein-high-school-kensington-md%2Fgamc5f32538c8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-john-f-kennedy-rockville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261221T191500
+DTEND;TZID=America/New_York:20261221T211500
+SUMMARY:Girls Basketball: Rockville at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgambbd14c248c\nTickets: https://gofan.co/event/6707291
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgambbd14c248c
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-wheaton-john-f-kennedy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270108T191500
+DTEND;TZID=America/New_York:20270108T211500
+SUMMARY:Girls Basketball: John F. Kennedy at Wheaton
+LOCATION:Wheaton
+DESCRIPTION:Tickets: https://gofan.co/event/6708477
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-john-f-kennedy-montgomery-blair-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270112T191500
+DTEND;TZID=America/New_York:20270112T211500
+SUMMARY:Girls Basketball: Montgomery Blair at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgamd9ef7d3678\nTickets: https://gofan.co/event/6707289
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgamd9ef7d3678
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-james-hubert-blake-john-f-kennedy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T191500
+DTEND;TZID=America/New_York:20270114T211500
+SUMMARY:Girls Basketball: John F. Kennedy at James Hubert Blake
+LOCATION:James Hubert Blake
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjames-hubert-blake-high-school-silver-spring-md%2Fgam69a7657dd4\nTickets: https://gofan.co/event/6706304
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjames-hubert-blake-high-school-silver-spring-md%2Fgam69a7657dd4
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-springbrook-john-f-kennedy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T180000
+DTEND;TZID=America/New_York:20270119T200000
+SUMMARY:Girls Basketball: John F. Kennedy at Springbrook
+LOCATION:Springbrook
+DESCRIPTION:Tickets: https://gofan.co/event/6709018
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-john-f-kennedy-bethesda-cc-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270122T191500
+DTEND;TZID=America/New_York:20270122T211500
+SUMMARY:Girls Basketball: Bethesda-CC at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam3cbd150226\nTickets: https://gofan.co/event/6707292
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam3cbd150226
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-john-f-kennedy-richard-montgomery-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T191500
+DTEND;TZID=America/New_York:20270126T211500
+SUMMARY:Girls Basketball: Richard Montgomery at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam60dfe7f71a\nTickets: https://gofan.co/event/6707290
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam60dfe7f71a
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-northwood-john-f-kennedy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T191500
+DTEND;TZID=America/New_York:20270129T211500
+SUMMARY:Girls Basketball: John F. Kennedy at Northwood
+LOCATION:Northwood
+DESCRIPTION:Tickets: https://gofan.co/event/6707662
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-john-f-kennedy-albert-einstein-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270201T191500
+DTEND;TZID=America/New_York:20270201T211500
+SUMMARY:Girls Basketball: Albert Einstein at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam53ce9ed51e\nTickets: https://gofan.co/event/6707283
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam53ce9ed51e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-rockville-john-f-kennedy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270203T191500
+DTEND;TZID=America/New_York:20270203T211500
+SUMMARY:Girls Basketball: John F. Kennedy at Rockville
+LOCATION:Rockville
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frockville-high-school-rockville-md%2Fgama9b03b4e0f\nTickets: https://gofan.co/event/6708225
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frockville-high-school-rockville-md%2Fgama9b03b4e0f
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-john-f-kennedy-wheaton-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270208T180000
+DTEND;TZID=America/New_York:20270208T200000
+SUMMARY:Girls Basketball: Wheaton at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam28c6dee44a\nTickets: https://gofan.co/event/6707285
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam28c6dee44a
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-montgomery-blair-john-f-kennedy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T180000
+DTEND;TZID=America/New_York:20270212T200000
+SUMMARY:Girls Basketball: John F. Kennedy at Montgomery Blair
+LOCATION:Montgomery Blair
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgame17b19b193\nTickets: https://gofan.co/event/6706697
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmontgomery-blair-high-school-silver-spring-md%2Fgame17b19b193
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-john-f-kennedy-northwest-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T173000
+DTEND;TZID=America/New_York:20270216T193000
+SUMMARY:Girls Basketball: Northwest at John F. Kennedy
+LOCATION:John F. Kennedy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam2ba04cc5ea\nTickets: https://gofan.co/event/6707284
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam2ba04cc5ea
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-paint-branch-john-f-kennedy-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T173000
+DTEND;TZID=America/New_York:20270219T193000
+SUMMARY:Girls Basketball: John F. Kennedy at Paint Branch
+LOCATION:Paint Branch
+DESCRIPTION:Tickets: https://gofan.co/event/6709133
+END:VEVENT
+END:VCALENDAR

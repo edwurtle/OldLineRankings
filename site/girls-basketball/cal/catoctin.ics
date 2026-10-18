@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Old Line Rankings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Catoctin Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2026-11-23-catoctin-urbana-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261123T180000
+DTEND;TZID=America/New_York:20261123T200000
+SUMMARY:Girls Basketball: Urbana at Catoctin
+LOCATION:Catoctin
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-frederick-catoctin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261130T190000
+DTEND;TZID=America/New_York:20261130T210000
+SUMMARY:Girls Basketball: Catoctin at Frederick
+LOCATION:Frederick
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-brunswick-catoctin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261204T190000
+DTEND;TZID=America/New_York:20261204T210000
+SUMMARY:Girls Basketball: Catoctin at Brunswick
+LOCATION:Brunswick
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam060f4615a9
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam060f4615a9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-catoctin-tuscarora-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261208T190000
+DTEND;TZID=America/New_York:20261208T210000
+SUMMARY:Girls Basketball: Tuscarora at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgam0b649c9e04
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgam0b649c9e04
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-catoctin-clear-spring-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Girls Basketball: Clear Spring at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgam27b0b06cf1
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgam27b0b06cf1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-williamsport-catoctin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261218T190000
+DTEND;TZID=America/New_York:20261218T210000
+SUMMARY:Girls Basketball: Catoctin at Williamsport
+LOCATION:Williamsport
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-smithsburg-catoctin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:Girls Basketball: Catoctin at Smithsburg
+LOCATION:Smithsburg
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-catoctin-brunswick-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270105T190000
+DTEND;TZID=America/New_York:20270105T210000
+SUMMARY:Girls Basketball: Brunswick at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgameb2a64e063
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgameb2a64e063
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-walkersville-catoctin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270107T190000
+DTEND;TZID=America/New_York:20270107T210000
+SUMMARY:Girls Basketball: Catoctin at Walkersville
+LOCATION:Walkersville
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-boonsboro-catoctin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270112T190000
+DTEND;TZID=America/New_York:20270112T210000
+SUMMARY:Girls Basketball: Catoctin at Boonsboro
+LOCATION:Boonsboro
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-oakdale-catoctin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270114T190000
+DTEND;TZID=America/New_York:20270114T210000
+SUMMARY:Girls Basketball: Catoctin at Oakdale
+LOCATION:Oakdale
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-catoctin-linganore-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270119T190000
+DTEND;TZID=America/New_York:20270119T210000
+SUMMARY:Girls Basketball: Linganore at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgame908214ef3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgame908214ef3
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-catoctin-walkersville-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270126T190000
+DTEND;TZID=America/New_York:20270126T210000
+SUMMARY:Girls Basketball: Walkersville at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgam3f4de749b0
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgam3f4de749b0
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-catoctin-smithsburg-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270129T190000
+DTEND;TZID=America/New_York:20270129T210000
+SUMMARY:Girls Basketball: Smithsburg at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgam927cdcbc34
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgam927cdcbc34
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-middletown-catoctin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270202T190000
+DTEND;TZID=America/New_York:20270202T210000
+SUMMARY:Girls Basketball: Catoctin at Middletown
+LOCATION:Middletown
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-south-carroll-catoctin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270204T183000
+DTEND;TZID=America/New_York:20270204T203000
+SUMMARY:Girls Basketball: Catoctin at South Carroll
+LOCATION:South Carroll
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-catoctin-boonsboro-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270209T190000
+DTEND;TZID=America/New_York:20270209T210000
+SUMMARY:Girls Basketball: Boonsboro at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgama7c66bd2fa
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgama7c66bd2fa
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-gov-thomas-johnson-catoctin-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270212T190000
+DTEND;TZID=America/New_York:20270212T210000
+SUMMARY:Girls Basketball: Catoctin at Gov. Thomas Johnson
+LOCATION:Gov. Thomas Johnson
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgamba030f89a3\nTickets: https://gofan.co/event/6941964
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fthomas-johnson-high-school-frederick-md%2Fgamba030f89a3
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-catoctin-francis-scott-key-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270216T190000
+DTEND;TZID=America/New_York:20270216T210000
+SUMMARY:Girls Basketball: Francis Scott Key at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgamdcd386e518
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgamdcd386e518
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-catoctin-north-hagerstown-girls-basketball@oldlinerankings
+DTSTAMP:20261018T151248Z
+DTSTART;TZID=America/New_York:20270219T190000
+DTEND;TZID=America/New_York:20270219T210000
+SUMMARY:Girls Basketball: North Hagerstown at Catoctin
+LOCATION:Catoctin
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgame2353f1565
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatoctin-high-school-thurmont-md%2Fgame2353f1565
+END:VEVENT
+END:VCALENDAR
