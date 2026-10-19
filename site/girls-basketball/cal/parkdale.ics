@@ -6,7 +6,7 @@ X-WR-CALNAME:Parkdale Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-dr-henry-a-wise-parkdale-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261210T191500
 DTEND;TZID=America/New_York:20261210T211500
 SUMMARY:Girls Basketball: Parkdale at Dr. Henry A. Wise
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-suitland-parkdale-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261215T191500
 DTEND;TZID=America/New_York:20261215T211500
 SUMMARY:Girls Basketball: Parkdale at Suitland
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-parkdale-duval-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: Duval at Parkdale
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-parkdale-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270107T191500
 DTEND;TZID=America/New_York:20270107T211500
 SUMMARY:Girls Basketball: Eleanor Roosevelt at Parkdale
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-northwestern-parkdale-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Girls Basketball: Parkdale at Northwestern
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-parkdale-laurel-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Girls Basketball: Laurel at Parkdale
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-bladensburg-parkdale-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270121T180000
 DTEND;TZID=America/New_York:20270121T200000
 SUMMARY:Girls Basketball: Parkdale at Bladensburg
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-parkdale-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Girls Basketball: Bowie at Parkdale
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-parkdale-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270202T191500
 DTEND;TZID=America/New_York:20270202T211500
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Parkdale
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-parkdale-suitland-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270204T191500
 DTEND;TZID=America/New_York:20270204T211500
 SUMMARY:Girls Basketball: Suitland at Parkdale
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-duval-parkdale-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Girls Basketball: Parkdale at Duval
@@ -115,7 +115,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6697122
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-eleanor-roosevelt-parkdale-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Girls Basketball: Parkdale at Eleanor Roosevelt

@@ -6,7 +6,7 @@ X-WR-CALNAME:James Hubert Blake Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-northwest-james-hubert-blake-football@oldlinerankings
-DTSTAMP:20261019T081825Z
+DTSTAMP:20261019T171247Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: James Hubert Blake at Northwest
@@ -15,7 +15,7 @@ DESCRIPTION:Final: James Hubert Blake 14\, Northwest 29
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-james-hubert-blake-walt-whitman-football@oldlinerankings
-DTSTAMP:20261019T081825Z
+DTSTAMP:20261019T171247Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Walt Whitman at James Hubert Blake
@@ -24,7 +24,7 @@ DESCRIPTION:Final: James Hubert Blake 25\, Walt Whitman 13
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-james-hubert-blake-springbrook-football@oldlinerankings
-DTSTAMP:20261019T081825Z
+DTSTAMP:20261019T171247Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Football: Springbrook at James Hubert Blake
@@ -33,7 +33,7 @@ DESCRIPTION:Final: James Hubert Blake 41\, Springbrook 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-james-hubert-blake-sherwood-football@oldlinerankings
-DTSTAMP:20261019T081825Z
+DTSTAMP:20261019T171247Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Sherwood at James Hubert Blake
@@ -42,7 +42,7 @@ DESCRIPTION:Final: James Hubert Blake 13\, Sherwood 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-james-hubert-blake-montgomery-blair-football@oldlinerankings
-DTSTAMP:20261019T081825Z
+DTSTAMP:20261019T171247Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Montgomery Blair at James Hubert Blake
@@ -51,7 +51,7 @@ DESCRIPTION:Final: James Hubert Blake 32\, Montgomery Blair 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-james-hubert-blake-col-zadok-magruder-football@oldlinerankings
-DTSTAMP:20261019T081825Z
+DTSTAMP:20261019T171247Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Col. Zadok Magruder at James Hubert Blake
@@ -60,7 +60,7 @@ DESCRIPTION:Final: James Hubert Blake 42\, Col. Zadok Magruder 15
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-bethesda-cc-james-hubert-blake-football@oldlinerankings
-DTSTAMP:20261019T081825Z
+DTSTAMP:20261019T171247Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Football: James Hubert Blake at Bethesda-CC
@@ -69,7 +69,7 @@ DESCRIPTION:Final: James Hubert Blake 19\, Bethesda-CC 20
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-james-hubert-blake-paint-branch-football@oldlinerankings
-DTSTAMP:20261019T081825Z
+DTSTAMP:20261019T171247Z
 DTSTART;TZID=America/New_York:20261022T183000
 DTEND;TZID=America/New_York:20261022T203000
 SUMMARY:Football: Paint Branch at James Hubert Blake
@@ -78,7 +78,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6706229
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-walter-johnson-james-hubert-blake-football@oldlinerankings
-DTSTAMP:20261019T081825Z
+DTSTAMP:20261019T171247Z
 DTSTART;TZID=America/New_York:20261030T161500
 DTEND;TZID=America/New_York:20261030T181500
 SUMMARY:Football: James Hubert Blake at Walter Johnson

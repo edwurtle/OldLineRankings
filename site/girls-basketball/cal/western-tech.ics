@@ -6,7 +6,7 @@ X-WR-CALNAME:Western Tech Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-07-western-tech-woodlawn-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261207T173000
 DTEND;TZID=America/New_York:20261207T193000
 SUMMARY:Girls Basketball: Woodlawn at Western Tech
@@ -14,7 +14,7 @@ LOCATION:Western Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-western-tech-francis-scott-key-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T180000
 SUMMARY:Girls Basketball: Francis Scott Key at Western Tech
@@ -22,7 +22,7 @@ LOCATION:Western Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-new-town-western-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Girls Basketball: Western Tech at New Town
@@ -31,8 +31,18 @@ DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnew-town-high-school-owings-mills-md%2Fgame5e3bad34f
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-18-lansdowne-western-tech-girls-basketball@oldlinerankings
+DTSTAMP:20261019T171531Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Girls Basketball: Western Tech at Lansdowne
+LOCATION:Lansdowne
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgama29a74766e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgama29a74766e
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-04-western-tech-pikesville-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270104T173000
 DTEND;TZID=America/New_York:20270104T193000
 SUMMARY:Girls Basketball: Pikesville at Western Tech
@@ -40,7 +50,7 @@ LOCATION:Western Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-western-tech-catonsville-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Girls Basketball: Catonsville at Western Tech
@@ -48,7 +58,7 @@ LOCATION:Western Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-hereford-western-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
 SUMMARY:Girls Basketball: Western Tech at Hereford
@@ -57,8 +67,18 @@ DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhereford-high-school-parkton-md%2Fgam46bc08620c
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-15-milford-mill-academy-western-tech-girls-basketball@oldlinerankings
+DTSTAMP:20261019T171531Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Girls Basketball: Western Tech at Milford Mill Academy
+LOCATION:Milford Mill Academy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgam72b49a11c3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgam72b49a11c3
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-22-western-tech-new-town-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270122T173000
 DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Girls Basketball: New Town at Western Tech
@@ -66,7 +86,7 @@ LOCATION:Western Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-western-tech-owings-mills-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Girls Basketball: Owings Mills at Western Tech
@@ -74,7 +94,7 @@ LOCATION:Western Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-woodlawn-western-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270129T173000
 DTEND;TZID=America/New_York:20270129T193000
 SUMMARY:Girls Basketball: Western Tech at Woodlawn
@@ -82,7 +102,7 @@ LOCATION:Woodlawn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-western-tech-randallstown-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Girls Basketball: Randallstown at Western Tech
@@ -90,7 +110,7 @@ LOCATION:Western Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-western-tech-lansdowne-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270205T173000
 DTEND;TZID=America/New_York:20270205T193000
 SUMMARY:Girls Basketball: Lansdowne at Western Tech
@@ -98,7 +118,7 @@ LOCATION:Western Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-western-tech-milford-mill-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270210T173000
 DTEND;TZID=America/New_York:20270210T193000
 SUMMARY:Girls Basketball: Milford Mill Academy at Western Tech
@@ -106,7 +126,7 @@ LOCATION:Western Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-catonsville-western-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Girls Basketball: Western Tech at Catonsville

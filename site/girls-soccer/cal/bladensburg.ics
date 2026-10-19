@@ -6,7 +6,7 @@ X-WR-CALNAME:Bladensburg Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-laurel-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261019T081928Z
+DTSTAMP:20261019T171346Z
 DTSTART;TZID=America/New_York:20260910T153000
 DTEND;TZID=America/New_York:20260910T173000
 SUMMARY:Girls Soccer: Bladensburg at Laurel
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-bladensburg-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261019T081928Z
+DTSTAMP:20261019T171346Z
 DTSTART;TZID=America/New_York:20260914T153000
 DTEND;TZID=America/New_York:20260914T173000
 SUMMARY:Girls Soccer: Bowie at Bladensburg
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-bladensburg-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261019T081928Z
+DTSTAMP:20261019T171346Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Suitland at Bladensburg
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Bladensburg 6\, Suitland 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-gwynn-park-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261019T081928Z
+DTSTAMP:20261019T171346Z
 DTSTART;TZID=America/New_York:20260924T163000
 DTEND;TZID=America/New_York:20260924T183000
 SUMMARY:Girls Soccer: Bladensburg at Gwynn Park
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-bladensburg-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261019T081928Z
+DTSTAMP:20261019T171346Z
 DTSTART;TZID=America/New_York:20260928T163000
 DTEND;TZID=America/New_York:20260928T183000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Bladensburg
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-bladensburg-eleanor-roosevelt-girls-soccer@oldlinerankings
-DTSTAMP:20261019T081928Z
+DTSTAMP:20261019T171346Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
 SUMMARY:Girls Soccer: Eleanor Roosevelt at Bladensburg
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-bladensburg-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261019T081928Z
+DTSTAMP:20261019T171346Z
 DTSTART;TZID=America/New_York:20261005T163000
 DTEND;TZID=America/New_York:20261005T183000
 SUMMARY:Girls Soccer: Duval at Bladensburg
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-northwestern-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261019T081928Z
+DTSTAMP:20261019T171346Z
 DTSTART;TZID=America/New_York:20261007T174500
 DTEND;TZID=America/New_York:20261007T194500
 SUMMARY:Girls Soccer: Bladensburg at Northwestern
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-bladensburg-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261019T081928Z
+DTSTAMP:20261019T171346Z
 DTSTART;TZID=America/New_York:20261012T174500
 DTEND;TZID=America/New_York:20261012T194500
 SUMMARY:Girls Soccer: Parkdale at Bladensburg
@@ -95,7 +95,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-bladensburg-charles-h-flowers-girls-soccer@oldlinerankings
-DTSTAMP:20261019T081928Z
+DTSTAMP:20261019T171346Z
 DTSTART;TZID=America/New_York:20261015T174500
 DTEND;TZID=America/New_York:20261015T194500
 SUMMARY:Girls Soccer: Charles H. Flowers at Bladensburg
@@ -105,7 +105,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-high-point-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261019T081928Z
+DTSTAMP:20261019T171346Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Bladensburg at High Point

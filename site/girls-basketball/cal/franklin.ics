@@ -6,7 +6,7 @@ X-WR-CALNAME:Franklin Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-18-pikesville-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261218T173000
 DTEND;TZID=America/New_York:20261218T193000
 SUMMARY:Girls Basketball: Franklin at Pikesville
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-new-town-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Girls Basketball: Franklin at New Town
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-hereford-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Girls Basketball: Franklin at Hereford
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-owings-mills-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270122T173000
 DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Girls Basketball: Franklin at Owings Mills
@@ -44,12 +44,32 @@ LOCATION:Owings Mills
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-catonsville-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Girls Basketball: Franklin at Catonsville
 LOCATION:Catonsville
 DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam16bb8ce9a7
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam16bb8ce9a7
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-milford-mill-academy-franklin-girls-basketball@oldlinerankings
+DTSTAMP:20261019T171531Z
+DTSTART;TZID=America/New_York:20270203T173000
+DTEND;TZID=America/New_York:20270203T193000
+SUMMARY:Girls Basketball: Franklin at Milford Mill Academy
+LOCATION:Milford Mill Academy
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgam542a63672e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgam542a63672e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-randallstown-franklin-girls-basketball@oldlinerankings
+DTSTAMP:20261019T171531Z
+DTSTART;TZID=America/New_York:20270209T173000
+DTEND;TZID=America/New_York:20270209T193000
+SUMMARY:Girls Basketball: Franklin at Randallstown
+LOCATION:Randallstown
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frandallstown-high-school-randallstown-md%2Fgam27b0f79658
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frandallstown-high-school-randallstown-md%2Fgam27b0f79658
 END:VEVENT
 END:VCALENDAR

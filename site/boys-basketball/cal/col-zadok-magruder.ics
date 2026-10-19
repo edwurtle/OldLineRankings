@@ -6,7 +6,7 @@ X-WR-CALNAME:Col. Zadok Magruder Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-19-col-zadok-magruder-the-bullis-school-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261119T170000
 DTEND;TZID=America/New_York:20261119T190000
 SUMMARY:Boys Basketball: The Bullis School at Col. Zadok Magruder
@@ -14,7 +14,7 @@ LOCATION:Col. Zadok Magruder
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-col-zadok-magruder-meade-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261121T110000
 DTEND;TZID=America/New_York:20261121T130000
 SUMMARY:Boys Basketball: Meade at Col. Zadok Magruder
@@ -22,7 +22,7 @@ LOCATION:Col. Zadok Magruder
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-walt-whitman-col-zadok-magruder-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261124T150000
 DTEND;TZID=America/New_York:20261124T170000
 SUMMARY:Boys Basketball: Col. Zadok Magruder at Walt Whitman
@@ -30,7 +30,7 @@ LOCATION:Walt Whitman
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-col-zadok-magruder-bethesda-cc-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261128T090000
 DTEND;TZID=America/New_York:20261128T110000
 SUMMARY:Boys Basketball: Bethesda-CC at Col. Zadok Magruder
@@ -38,25 +38,27 @@ LOCATION:Col. Zadok Magruder
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-col-zadok-magruder-john-f-kennedy-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261204T191500
 DTEND;TZID=America/New_York:20261204T211500
 SUMMARY:Boys Basketball: John F. Kennedy at Col. Zadok Magruder
 LOCATION:Col. Zadok Magruder
-DESCRIPTION:Tickets: https://gofan.co/event/6707383
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgame10712e4e4\nTickets: https://gofan.co/event/6707383
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgame10712e4e4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-col-zadok-magruder-thomas-s-wootton-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Boys Basketball: Thomas S. Wootton at Col. Zadok Magruder
 LOCATION:Col. Zadok Magruder
-DESCRIPTION:Tickets: https://gofan.co/event/6707358
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgam2648c7193c\nTickets: https://gofan.co/event/6707358
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgam2648c7193c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-northwest-col-zadok-magruder-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261211T191500
 DTEND;TZID=America/New_York:20261211T211500
 SUMMARY:Boys Basketball: Col. Zadok Magruder at Northwest
@@ -65,25 +67,27 @@ DESCRIPTION:Tickets: https://gofan.co/event/6707968
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-col-zadok-magruder-walter-johnson-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261214T191500
 DTEND;TZID=America/New_York:20261214T211500
 SUMMARY:Boys Basketball: Walter Johnson at Col. Zadok Magruder
 LOCATION:Col. Zadok Magruder
-DESCRIPTION:Tickets: https://gofan.co/event/6707393
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgamaa360c6fa0\nTickets: https://gofan.co/event/6707393
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgamaa360c6fa0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-col-zadok-magruder-james-hubert-blake-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261216T191500
 DTEND;TZID=America/New_York:20261216T211500
 SUMMARY:Boys Basketball: James Hubert Blake at Col. Zadok Magruder
 LOCATION:Col. Zadok Magruder
-DESCRIPTION:Tickets: https://gofan.co/event/6707403
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgam3d11419516\nTickets: https://gofan.co/event/6707403
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgam3d11419516
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-gaithersburg-col-zadok-magruder-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261218T191500
 DTEND;TZID=America/New_York:20261218T211500
 SUMMARY:Boys Basketball: Col. Zadok Magruder at Gaithersburg
@@ -93,25 +97,27 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-col-zadok-magruder-sherwood-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261221T191500
 DTEND;TZID=America/New_York:20261221T211500
 SUMMARY:Boys Basketball: Sherwood at Col. Zadok Magruder
 LOCATION:Col. Zadok Magruder
-DESCRIPTION:Tickets: https://gofan.co/event/6707370
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgam97e3be9f69\nTickets: https://gofan.co/event/6707370
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgam97e3be9f69
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-col-zadok-magruder-paint-branch-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Boys Basketball: Paint Branch at Col. Zadok Magruder
 LOCATION:Col. Zadok Magruder
-DESCRIPTION:Tickets: https://gofan.co/event/6707371
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgamfb590432e1\nTickets: https://gofan.co/event/6707371
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgamfb590432e1
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-springbrook-col-zadok-magruder-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270108T191500
 DTEND;TZID=America/New_York:20270108T211500
 SUMMARY:Boys Basketball: Col. Zadok Magruder at Springbrook
@@ -120,16 +126,17 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709071
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-col-zadok-magruder-damascus-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Boys Basketball: Damascus at Col. Zadok Magruder
 LOCATION:Col. Zadok Magruder
-DESCRIPTION:Tickets: https://gofan.co/event/6707365
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgam533315d1e6\nTickets: https://gofan.co/event/6707365
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgam533315d1e6
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-northwood-col-zadok-magruder-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Boys Basketball: Col. Zadok Magruder at Northwood
@@ -138,16 +145,17 @@ DESCRIPTION:Tickets: https://gofan.co/event/6707643
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-col-zadok-magruder-rockville-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Boys Basketball: Rockville at Col. Zadok Magruder
 LOCATION:Col. Zadok Magruder
-DESCRIPTION:Tickets: https://gofan.co/event/6707379
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgame1e74592d7\nTickets: https://gofan.co/event/6707379
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgame1e74592d7
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-watkins-mill-col-zadok-magruder-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270122T191500
 DTEND;TZID=America/New_York:20270122T211500
 SUMMARY:Boys Basketball: Col. Zadok Magruder at Watkins Mill
@@ -156,7 +164,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708915
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-james-hubert-blake-col-zadok-magruder-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270129T191500
 DTEND;TZID=America/New_York:20270129T211500
 SUMMARY:Boys Basketball: Col. Zadok Magruder at James Hubert Blake
@@ -166,16 +174,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-col-zadok-magruder-gaithersburg-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270201T191500
 DTEND;TZID=America/New_York:20270201T211500
 SUMMARY:Boys Basketball: Gaithersburg at Col. Zadok Magruder
 LOCATION:Col. Zadok Magruder
-DESCRIPTION:Tickets: https://gofan.co/event/6707380
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgame4c5b96a4d\nTickets: https://gofan.co/event/6707380
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgame4c5b96a4d
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-sherwood-col-zadok-magruder-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270203T180000
 DTEND;TZID=America/New_York:20270203T200000
 SUMMARY:Boys Basketball: Col. Zadok Magruder at Sherwood
@@ -184,7 +193,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708749
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-paint-branch-col-zadok-magruder-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Boys Basketball: Col. Zadok Magruder at Paint Branch
@@ -193,16 +202,17 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709127
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-col-zadok-magruder-springbrook-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270208T180000
 DTEND;TZID=America/New_York:20270208T200000
 SUMMARY:Boys Basketball: Springbrook at Col. Zadok Magruder
 LOCATION:Col. Zadok Magruder
-DESCRIPTION:Tickets: https://gofan.co/event/6707414
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgame2ca169725\nTickets: https://gofan.co/event/6707414
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgame2ca169725
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-clarksburg-col-zadok-magruder-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Boys Basketball: Col. Zadok Magruder at Clarksburg
@@ -212,11 +222,12 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-col-zadok-magruder-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270219T191500
 DTEND;TZID=America/New_York:20270219T211500
 SUMMARY:Boys Basketball: Poolesville at Col. Zadok Magruder
 LOCATION:Col. Zadok Magruder
-DESCRIPTION:Tickets: https://gofan.co/event/6707387
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgam9fc359a1ea\nTickets: https://gofan.co/event/6707387
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcolonel-zadok-magruder-high-school-rockville-md%2Fgam9fc359a1ea
 END:VEVENT
 END:VCALENDAR

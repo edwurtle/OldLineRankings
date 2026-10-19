@@ -6,7 +6,7 @@ X-WR-CALNAME:Brunswick Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-allegany-brunswick-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260905T100000
 DTEND;TZID=America/New_York:20260905T120000
 SUMMARY:Boys Soccer: Brunswick at Allegany
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-brunswick-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Boys Soccer: Frederick at Brunswick
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-brunswick-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Boys Soccer: Tuscarora at Brunswick
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-brunswick-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Brunswick
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-brunswick-boonsboro-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Boonsboro at Brunswick
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Brunswick 7\, Boonsboro 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-brunswick-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Boys Soccer: Williamsport at Brunswick
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-brunswick-catoctin-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Catoctin at Brunswick
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-brunswick-south-carroll-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260926T133000
 DTEND;TZID=America/New_York:20260926T153000
 SUMMARY:Boys Soccer: South Carroll at Brunswick
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-brunswick-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Boys Soccer: Walkersville at Brunswick
@@ -95,7 +95,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-clear-spring-brunswick-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Boys Soccer: Brunswick at Clear Spring
@@ -105,7 +105,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-brunswick-smithsburg-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Smithsburg at Brunswick
@@ -114,7 +114,7 @@ DESCRIPTION:Final: Brunswick 7\, Smithsburg 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-brunswick-middletown-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Boys Soccer: Middletown at Brunswick
@@ -124,7 +124,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-brunswick-linganore-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Linganore at Brunswick

@@ -6,7 +6,7 @@ X-WR-CALNAME:Brunswick Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-21-poolesville-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261121T113000
 DTEND;TZID=America/New_York:20261121T133000
 SUMMARY:Girls Basketball: Brunswick at Poolesville
@@ -14,7 +14,7 @@ LOCATION:Poolesville
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-north-hagerstown-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261123T181500
 DTEND;TZID=America/New_York:20261123T201500
 SUMMARY:Girls Basketball: Brunswick at North Hagerstown
@@ -22,7 +22,7 @@ LOCATION:North Hagerstown
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-oakdale-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261201T190000
 DTEND;TZID=America/New_York:20261201T210000
 SUMMARY:Girls Basketball: Brunswick at Oakdale
@@ -30,7 +30,7 @@ LOCATION:Oakdale
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-brunswick-catoctin-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261204T190000
 DTEND;TZID=America/New_York:20261204T210000
 SUMMARY:Girls Basketball: Catoctin at Brunswick
@@ -40,7 +40,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-winters-mill-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261208T183000
 DTEND;TZID=America/New_York:20261208T203000
 SUMMARY:Girls Basketball: Brunswick at Winters Mill
@@ -48,7 +48,7 @@ LOCATION:Winters Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-clear-spring-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261211T190000
 DTEND;TZID=America/New_York:20261211T210000
 SUMMARY:Girls Basketball: Brunswick at Clear Spring
@@ -56,7 +56,7 @@ LOCATION:Clear Spring
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-walkersville-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261215T190000
 DTEND;TZID=America/New_York:20261215T210000
 SUMMARY:Girls Basketball: Brunswick at Walkersville
@@ -64,7 +64,7 @@ LOCATION:Walkersville
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-brunswick-smithsburg-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261218T210000
 SUMMARY:Girls Basketball: Smithsburg at Brunswick
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-brunswick-williamsport-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20261221T190000
 DTEND;TZID=America/New_York:20261221T210000
 SUMMARY:Girls Basketball: Williamsport at Brunswick
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-catoctin-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270105T190000
 DTEND;TZID=America/New_York:20270105T210000
 SUMMARY:Girls Basketball: Brunswick at Catoctin
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-brunswick-middletown-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270112T190000
 DTEND;TZID=America/New_York:20270112T210000
 SUMMARY:Girls Basketball: Middletown at Brunswick
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-boonsboro-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270114T190000
 DTEND;TZID=America/New_York:20270114T210000
 SUMMARY:Girls Basketball: Brunswick at Boonsboro
@@ -112,7 +112,7 @@ LOCATION:Boonsboro
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-brunswick-walkersville-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000
 SUMMARY:Girls Basketball: Walkersville at Brunswick
@@ -122,7 +122,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-brunswick-clear-spring-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270126T190000
 DTEND;TZID=America/New_York:20270126T210000
 SUMMARY:Girls Basketball: Clear Spring at Brunswick
@@ -132,7 +132,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-williamsport-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270129T190000
 DTEND;TZID=America/New_York:20270129T210000
 SUMMARY:Girls Basketball: Brunswick at Williamsport
@@ -140,7 +140,7 @@ LOCATION:Williamsport
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-brunswick-boonsboro-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270202T190000
 DTEND;TZID=America/New_York:20270202T210000
 SUMMARY:Girls Basketball: Boonsboro at Brunswick
@@ -150,7 +150,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-smithsburg-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270205T190000
 DTEND;TZID=America/New_York:20270205T210000
 SUMMARY:Girls Basketball: Brunswick at Smithsburg
@@ -158,7 +158,7 @@ LOCATION:Smithsburg
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-middletown-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270209T190000
 DTEND;TZID=America/New_York:20270209T210000
 SUMMARY:Girls Basketball: Brunswick at Middletown
@@ -166,7 +166,7 @@ LOCATION:Middletown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-brunswick-liberty-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270212T190000
 DTEND;TZID=America/New_York:20270212T210000
 SUMMARY:Girls Basketball: Liberty at Brunswick
@@ -176,7 +176,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-tuscarora-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270216T190000
 DTEND;TZID=America/New_York:20270216T210000
 SUMMARY:Girls Basketball: Brunswick at Tuscarora
@@ -186,7 +186,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-brunswick-south-hagerstown-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270219T190000
 DTEND;TZID=America/New_York:20270219T210000
 SUMMARY:Girls Basketball: South Hagerstown at Brunswick

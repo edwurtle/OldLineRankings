@@ -5,8 +5,17 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:College Park Academy Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+UID:2026-12-04-laurel-college-park-academy-boys-basketball@oldlinerankings
+DTSTAMP:20261019T171435Z
+DTSTART;TZID=America/New_York:20261204T191500
+DTEND;TZID=America/New_York:20261204T211500
+SUMMARY:Boys Basketball: College Park Academy at Laurel
+LOCATION:Laurel
+DESCRIPTION:Tickets: https://gofan.co/event/6977709
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-08-bladensburg-college-park-academy-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Boys Basketball: College Park Academy at Bladensburg
@@ -14,7 +23,7 @@ LOCATION:Bladensburg
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-surrattsville-college-park-academy-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261210T191500
 DTEND;TZID=America/New_York:20261210T211500
 SUMMARY:Boys Basketball: College Park Academy at Surrattsville
@@ -22,7 +31,7 @@ LOCATION:Surrattsville
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-college-park-academy-central-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261217T193000
 DTEND;TZID=America/New_York:20261217T213000
 SUMMARY:Boys Basketball: Central at College Park Academy
@@ -30,7 +39,7 @@ LOCATION:College Park Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-college-park-academy-frederick-douglass-pg-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270107T193000
 DTEND;TZID=America/New_York:20270107T213000
 SUMMARY:Boys Basketball: Frederick Douglass-PG at College Park Academy
@@ -38,7 +47,7 @@ LOCATION:College Park Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-college-park-academy-fairmont-heights-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270112T193000
 DTEND;TZID=America/New_York:20270112T213000
 SUMMARY:Boys Basketball: Fairmont Heights at College Park Academy
@@ -46,7 +55,7 @@ LOCATION:College Park Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-college-park-academy-potomac-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270121T193000
 DTEND;TZID=America/New_York:20270121T213000
 SUMMARY:Boys Basketball: Potomac at College Park Academy
@@ -54,7 +63,7 @@ LOCATION:College Park Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-college-park-academy-gwynn-park-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270202T193000
 DTEND;TZID=America/New_York:20270202T213000
 SUMMARY:Boys Basketball: Gwynn Park at College Park Academy
@@ -62,7 +71,7 @@ LOCATION:College Park Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-college-park-academy-surrattsville-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270210T193000
 DTEND;TZID=America/New_York:20270210T213000
 SUMMARY:Boys Basketball: Surrattsville at College Park Academy
@@ -70,7 +79,7 @@ LOCATION:College Park Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-central-college-park-academy-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270216T193000
 DTEND;TZID=America/New_York:20270216T213000
 SUMMARY:Boys Basketball: College Park Academy at Central

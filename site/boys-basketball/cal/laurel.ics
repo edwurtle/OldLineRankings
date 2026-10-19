@@ -5,8 +5,17 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Laurel Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+UID:2026-12-04-laurel-college-park-academy-boys-basketball@oldlinerankings
+DTSTAMP:20261019T171435Z
+DTSTART;TZID=America/New_York:20261204T191500
+DTEND;TZID=America/New_York:20261204T211500
+SUMMARY:Boys Basketball: College Park Academy at Laurel
+LOCATION:Laurel
+DESCRIPTION:Tickets: https://gofan.co/event/6977709
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-08-james-hubert-blake-laurel-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Boys Basketball: Laurel at James Hubert Blake
@@ -16,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-bladensburg-laurel-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261210T191500
 DTEND;TZID=America/New_York:20261210T211500
 SUMMARY:Boys Basketball: Laurel at Bladensburg
@@ -26,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-northwestern-laurel-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261215T191500
 DTEND;TZID=America/New_York:20261215T211500
 SUMMARY:Boys Basketball: Laurel at Northwestern
@@ -36,37 +45,37 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-laurel-dr-henry-a-wise-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20261217T191500
 DTEND;TZID=America/New_York:20261217T211500
 SUMMARY:Boys Basketball: Dr. Henry A. Wise at Laurel
 LOCATION:Laurel
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamfc04e27d2a
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamfc04e27d2a\nTickets: https://gofan.co/event/6977758
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamfc04e27d2a
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-laurel-charles-h-flowers-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Boys Basketball: Charles H. Flowers at Laurel
 LOCATION:Laurel
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam84e75ab866
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam84e75ab866\nTickets: https://gofan.co/event/6977761
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam84e75ab866
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-laurel-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270107T191500
 DTEND;TZID=America/New_York:20270107T211500
 SUMMARY:Boys Basketball: High Point at Laurel
 LOCATION:Laurel
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam63cec9802c
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam63cec9802c\nTickets: https://gofan.co/event/6977762
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam63cec9802c
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-bowie-laurel-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Boys Basketball: Laurel at Bowie
@@ -76,17 +85,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-laurel-parkdale-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Boys Basketball: Parkdale at Laurel
 LOCATION:Laurel
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamce1ac6973b
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamce1ac6973b\nTickets: https://gofan.co/event/6977783
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgamce1ac6973b
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-suitland-laurel-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270121T191500
 DTEND;TZID=America/New_York:20270121T211500
 SUMMARY:Boys Basketball: Laurel at Suitland
@@ -94,17 +103,17 @@ LOCATION:Suitland
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-laurel-duval-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Boys Basketball: Duval at Laurel
 LOCATION:Laurel
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam7ec9cafaee
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam7ec9cafaee\nTickets: https://gofan.co/event/6977799
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam7ec9cafaee
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-eleanor-roosevelt-laurel-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270128T191500
 DTEND;TZID=America/New_York:20270128T211500
 SUMMARY:Boys Basketball: Laurel at Eleanor Roosevelt
@@ -114,27 +123,27 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-laurel-bladensburg-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270202T191500
 DTEND;TZID=America/New_York:20270202T211500
 SUMMARY:Boys Basketball: Bladensburg at Laurel
 LOCATION:Laurel
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgameadb60cc49
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgameadb60cc49\nTickets: https://gofan.co/event/6977802
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgameadb60cc49
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-laurel-northwestern-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270204T191500
 DTEND;TZID=America/New_York:20270204T211500
 SUMMARY:Boys Basketball: Northwestern at Laurel
 LOCATION:Laurel
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam515041247c
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam515041247c\nTickets: https://gofan.co/event/6977811
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam515041247c
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-dr-henry-a-wise-laurel-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270210T191500
 DTEND;TZID=America/New_York:20270210T211500
 SUMMARY:Boys Basketball: Laurel at Dr. Henry A. Wise
@@ -144,7 +153,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-charles-h-flowers-laurel-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Boys Basketball: Laurel at Charles H. Flowers
@@ -154,7 +163,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-high-point-laurel-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Boys Basketball: Laurel at High Point
@@ -164,12 +173,12 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-laurel-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261019T082010Z
+DTSTAMP:20261019T171435Z
 DTSTART;TZID=America/New_York:20270222T191500
 DTEND;TZID=America/New_York:20270222T211500
 SUMMARY:Boys Basketball: Severna Park at Laurel
 LOCATION:Laurel
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam419577a1c3
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam419577a1c3\nTickets: https://gofan.co/event/6977813
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgam419577a1c3
 END:VEVENT
 END:VCALENDAR

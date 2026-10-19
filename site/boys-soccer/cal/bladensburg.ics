@@ -6,7 +6,7 @@ X-WR-CALNAME:Bladensburg Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-bladensburg-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Boys Soccer: Annapolis at Bladensburg
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Bladensburg 0\, Annapolis 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-laurel-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260910T163000
 DTEND;TZID=America/New_York:20260910T183000
 SUMMARY:Boys Soccer: Bladensburg at Laurel
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-bladensburg-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260914T163000
 DTEND;TZID=America/New_York:20260914T183000
 SUMMARY:Boys Soccer: Bowie at Bladensburg
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-bladensburg-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260917T163000
 DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Boys Soccer: Suitland at Bladensburg
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-calvert-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260922T181500
 DTEND;TZID=America/New_York:20260922T201500
 SUMMARY:Boys Soccer: Bladensburg at Calvert
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-gwynn-park-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260924T180000
 DTEND;TZID=America/New_York:20260924T200000
 SUMMARY:Boys Soccer: Bladensburg at Gwynn Park
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-bladensburg-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Bladensburg
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-eleanor-roosevelt-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20261001T174500
 DTEND;TZID=America/New_York:20261001T194500
 SUMMARY:Boys Soccer: Bladensburg at Eleanor Roosevelt
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-bladensburg-duval-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Duval at Bladensburg
@@ -94,7 +94,7 @@ DESCRIPTION:Final: Bladensburg 4\, Duval 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-northwestern-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Boys Soccer: Bladensburg at Northwestern
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-bladensburg-parkdale-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Parkdale at Bladensburg
@@ -113,7 +113,7 @@ DESCRIPTION:Final: Bladensburg 2\, Parkdale 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-bladensburg-charles-h-flowers-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20261015T150000
 DTEND;TZID=America/New_York:20261015T170000
 SUMMARY:Boys Soccer: Charles H. Flowers at Bladensburg
@@ -123,7 +123,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-high-point-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261019T081856Z
+DTSTAMP:20261019T171316Z
 DTSTART;TZID=America/New_York:20261019T180000
 DTEND;TZID=America/New_York:20261019T200000
 SUMMARY:Boys Soccer: Bladensburg at High Point

@@ -6,7 +6,7 @@ X-WR-CALNAME:North Point Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2027-01-08-north-point-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270108T190000
 DTEND;TZID=America/New_York:20270108T210000
 SUMMARY:Girls Basketball: McDonough at North Point
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-great-mills-north-point-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270113T181500
 DTEND;TZID=America/New_York:20270113T201500
 SUMMARY:Girls Basketball: North Point at Great Mills
@@ -24,7 +24,7 @@ LOCATION:Great Mills
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-henry-e-lackey-north-point-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270115T181500
 DTEND;TZID=America/New_York:20270115T201500
 SUMMARY:Girls Basketball: North Point at Henry E. Lackey
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-north-point-chopticon-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270120T181500
 DTEND;TZID=America/New_York:20270120T201500
 SUMMARY:Girls Basketball: Chopticon at North Point
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-st-charles-north-point-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000
 SUMMARY:Girls Basketball: North Point at St. Charles
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-calvert-north-point-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270127T181500
 DTEND;TZID=America/New_York:20270127T201500
 SUMMARY:Girls Basketball: North Point at Calvert
@@ -62,7 +62,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-huntingtown-north-point-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270129T181500
 DTEND;TZID=America/New_York:20270129T201500
 SUMMARY:Girls Basketball: North Point at Huntingtown
@@ -70,7 +70,7 @@ LOCATION:Huntingtown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-north-point-patuxent-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270203T181500
 DTEND;TZID=America/New_York:20270203T201500
 SUMMARY:Girls Basketball: Patuxent at North Point
@@ -80,7 +80,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-westlake-north-point-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270205T190000
 DTEND;TZID=America/New_York:20270205T210000
 SUMMARY:Girls Basketball: North Point at Westlake
@@ -90,7 +90,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-north-point-thomas-stone-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270211T190000
 DTEND;TZID=America/New_York:20270211T210000
 SUMMARY:Girls Basketball: Thomas Stone at North Point
@@ -100,7 +100,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-north-point-leonardtown-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270217T181500
 DTEND;TZID=America/New_York:20270217T201500
 SUMMARY:Girls Basketball: Leonardtown at North Point
@@ -110,7 +110,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-north-point-la-plata-girls-basketball@oldlinerankings
-DTSTAMP:20261019T082101Z
+DTSTAMP:20261019T171531Z
 DTSTART;TZID=America/New_York:20270219T190000
 DTEND;TZID=America/New_York:20270219T210000
 SUMMARY:Girls Basketball: La Plata at North Point
