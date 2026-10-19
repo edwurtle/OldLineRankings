@@ -6,7 +6,7 @@ X-WR-CALNAME:Sparrows Point Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-16-kenwood-sparrows-point-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151616Z
+DTSTAMP:20261019T082101Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Girls Basketball: Sparrows Point at Kenwood
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-dundalk-sparrows-point-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151616Z
+DTSTAMP:20261019T082101Z
 DTSTART;TZID=America/New_York:20261218T173000
 DTEND;TZID=America/New_York:20261218T193000
 SUMMARY:Girls Basketball: Sparrows Point at Dundalk
@@ -24,7 +24,7 @@ LOCATION:Dundalk
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-carver-aandt-sparrows-point-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151616Z
+DTSTAMP:20261019T082101Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Girls Basketball: Sparrows Point at Carver A&T
@@ -32,7 +32,7 @@ LOCATION:Carver A&T
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-parkville-sparrows-point-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151616Z
+DTSTAMP:20261019T082101Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Girls Basketball: Sparrows Point at Parkville
@@ -42,7 +42,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-patapsco-sparrows-point-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151616Z
+DTSTAMP:20261019T082101Z
 DTSTART;TZID=America/New_York:20270129T173000
 DTEND;TZID=America/New_York:20270129T193000
 SUMMARY:Girls Basketball: Sparrows Point at Patapsco
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-towson-sparrows-point-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151616Z
+DTSTAMP:20261019T082101Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Girls Basketball: Sparrows Point at Towson
@@ -60,7 +60,7 @@ LOCATION:Towson
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-chesapeake-b-sparrows-point-girls-basketball@oldlinerankings
-DTSTAMP:20261018T151616Z
+DTSTAMP:20261019T082101Z
 DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Girls Basketball: Sparrows Point at Chesapeake-B

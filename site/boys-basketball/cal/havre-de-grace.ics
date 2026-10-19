@@ -6,7 +6,7 @@ X-WR-CALNAME:Havre de Grace Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-07-rising-sun-havre-de-grace-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20261207T170000
 DTEND;TZID=America/New_York:20261207T190000
 SUMMARY:Boys Basketball: Havre de Grace at Rising Sun
@@ -14,7 +14,7 @@ LOCATION:Rising Sun
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-havre-de-grace-c-milton-wright-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20261215T190000
 DTEND;TZID=America/New_York:20261215T210000
 SUMMARY:Boys Basketball: C. Milton Wright at Havre de Grace
@@ -22,7 +22,7 @@ LOCATION:Havre de Grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-havre-de-grace-edgewood-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261218T210000
 SUMMARY:Boys Basketball: Edgewood at Havre de Grace
@@ -30,7 +30,7 @@ LOCATION:Havre de Grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-north-harford-havre-de-grace-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270105T170000
 DTEND;TZID=America/New_York:20270105T190000
 SUMMARY:Boys Basketball: Havre de Grace at North Harford
@@ -38,7 +38,7 @@ LOCATION:North Harford
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-havre-de-grace-north-east-c-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270108T190000
 DTEND;TZID=America/New_York:20270108T210000
 SUMMARY:Boys Basketball: North East-C at Havre de Grace
@@ -46,7 +46,7 @@ LOCATION:Havre de Grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-havre-de-grace-harford-tech-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270112T190000
 DTEND;TZID=America/New_York:20270112T210000
 SUMMARY:Boys Basketball: Harford Tech at Havre de Grace
@@ -54,7 +54,7 @@ LOCATION:Havre de Grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-joppatowne-havre-de-grace-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270115T183000
 DTEND;TZID=America/New_York:20270115T203000
 SUMMARY:Boys Basketball: Havre de Grace at Joppatowne
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-edgewood-havre-de-grace-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270129T190000
 DTEND;TZID=America/New_York:20270129T210000
 SUMMARY:Boys Basketball: Havre de Grace at Edgewood
@@ -72,7 +72,7 @@ LOCATION:Edgewood
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-havre-de-grace-north-harford-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270205T190000
 DTEND;TZID=America/New_York:20270205T210000
 SUMMARY:Boys Basketball: North Harford at Havre de Grace
@@ -80,7 +80,7 @@ LOCATION:Havre de Grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-north-east-c-havre-de-grace-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270210T190000
 DTEND;TZID=America/New_York:20270210T210000
 SUMMARY:Boys Basketball: Havre de Grace at North East-C
@@ -88,7 +88,7 @@ LOCATION:North East-C
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-patterson-mill-havre-de-grace-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270212T190000
 DTEND;TZID=America/New_York:20270212T210000
 SUMMARY:Boys Basketball: Havre de Grace at Patterson Mill

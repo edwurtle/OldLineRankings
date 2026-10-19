@@ -6,7 +6,7 @@ X-WR-CALNAME:Catoctin Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-catoctin-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260908T180000
 DTEND;TZID=America/New_York:20260908T200000
 SUMMARY:Girls Soccer: South Hagerstown at Catoctin
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-catoctin-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260915T180000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Girls Soccer: Tuscarora at Catoctin
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-catoctin-middletown-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Girls Soccer: Middletown at Catoctin
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-catoctin-smithsburg-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260922T180000
 DTEND;TZID=America/New_York:20260922T200000
 SUMMARY:Girls Soccer: Smithsburg at Catoctin
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-brunswick-catoctin-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Girls Soccer: Catoctin at Brunswick
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-clear-spring-catoctin-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Catoctin at Clear Spring
@@ -65,7 +65,7 @@ DESCRIPTION:Final: Catoctin 6\, Clear Spring 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-catoctin-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20261001T180000
 DTEND;TZID=America/New_York:20261001T200000
 SUMMARY:Girls Soccer: North Hagerstown at Catoctin
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-catoctin-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20261006T180000
 DTEND;TZID=America/New_York:20261006T200000
 SUMMARY:Girls Soccer: Walkersville at Catoctin
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-catoctin-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Williamsport at Catoctin
@@ -94,7 +94,7 @@ DESCRIPTION:Final: Catoctin 3\, Williamsport 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-catoctin-boonsboro-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Boonsboro at Catoctin
@@ -103,7 +103,7 @@ DESCRIPTION:Final: Catoctin 2\, Boonsboro 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-catoctin-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Catoctin
@@ -113,7 +113,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-catoctin-md-private-saint-james-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20261022T180000
 DTEND;TZID=America/New_York:20261022T200000
 SUMMARY:Girls Soccer: MD Private- Saint James at Catoctin

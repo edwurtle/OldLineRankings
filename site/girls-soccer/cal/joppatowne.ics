@@ -6,7 +6,7 @@ X-WR-CALNAME:Joppatowne Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-joppatowne-elkton-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260904T171500
 DTEND;TZID=America/New_York:20260904T191500
 SUMMARY:Girls Soccer: Elkton at Joppatowne
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-joppatowne-woodlawn-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260908T160000
 DTEND;TZID=America/New_York:20260908T180000
 SUMMARY:Girls Soccer: Woodlawn at Joppatowne
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-joppatowne-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260910T153000
 DTEND;TZID=America/New_York:20260910T173000
 SUMMARY:Girls Soccer: Aberdeen at Joppatowne
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-bel-air-joppatowne-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260914T152000
 DTEND;TZID=America/New_York:20260914T172000
 SUMMARY:Girls Soccer: Joppatowne at Bel Air
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-joppatowne-patterson-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260922T153000
 DTEND;TZID=America/New_York:20260922T173000
 SUMMARY:Girls Soccer: Patterson Mill at Joppatowne
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-joppatowne-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260924T173000
 DTEND;TZID=America/New_York:20260924T193000
 SUMMARY:Girls Soccer: Edgewood at Joppatowne
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-joppatowne-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260925T154500
 DTEND;TZID=America/New_York:20260925T174500
 SUMMARY:Girls Soccer: Patapsco at Joppatowne
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-joppatowne-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260928T173000
 DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Girls Soccer: Edgewood at Joppatowne
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-joppatowne-fallston-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Girls Soccer: Fallston at Joppatowne
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-joppatowne-bohemia-manor-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
 SUMMARY:Girls Soccer: Bohemia Manor at Joppatowne
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-joppatowne-north-east-c-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: North East-C at Joppatowne

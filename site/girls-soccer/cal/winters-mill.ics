@@ -6,7 +6,7 @@ X-WR-CALNAME:Winters Mill Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-winters-mill-glen-burnie-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260905T090000
 DTEND;TZID=America/New_York:20260905T110000
 SUMMARY:Girls Soccer: Glen Burnie at Winters Mill
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-winters-mill-sparrows-point-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Girls Soccer: Sparrows Point at Winters Mill
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Winters Mill 0\, Sparrows Point 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-winters-mill-severna-park-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Girls Soccer: Severna Park at Winters Mill
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-winters-mill-baltimore-city-college-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Baltimore City College at Winters Mill
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Winters Mill 7\, Baltimore City College 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-winters-mill-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20260917T173000
 DTEND;TZID=America/New_York:20260917T193000
 SUMMARY:Girls Soccer: Rising Sun at Winters Mill
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-manchester-valley-winters-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Winters Mill at Manchester Valley
@@ -63,7 +63,7 @@ DESCRIPTION:Final: Winters Mill 1\, Manchester Valley 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-francis-scott-key-winters-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Winters Mill at Francis Scott Key
@@ -72,7 +72,7 @@ DESCRIPTION:Final: Winters Mill 8\, Francis Scott Key 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-century-winters-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Winters Mill at Century
@@ -81,7 +81,7 @@ DESCRIPTION:Final: Winters Mill 3\, Century 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-liberty-winters-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Winters Mill at Liberty
@@ -90,7 +90,7 @@ DESCRIPTION:Final: Winters Mill 1\, Liberty 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-winters-mill-perry-hall-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Girls Soccer: Perry Hall at Winters Mill
@@ -99,7 +99,7 @@ DESCRIPTION:Final: Winters Mill 0\, Perry Hall 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-winters-mill-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Westminster at Winters Mill
@@ -108,7 +108,7 @@ DESCRIPTION:Final: Winters Mill 9\, Westminster 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-winters-mill-guilford-park-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Guilford Park at Winters Mill
@@ -117,7 +117,7 @@ DESCRIPTION:Final: Winters Mill 12\, Guilford Park 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-woodlawn-winters-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Girls Soccer: Winters Mill at Woodlawn
@@ -127,7 +127,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-south-carroll-winters-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Girls Soccer: Winters Mill at South Carroll

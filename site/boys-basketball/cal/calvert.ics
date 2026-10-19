@@ -6,7 +6,7 @@ X-WR-CALNAME:Calvert Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-northern-c-calvert-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20261204T181500
 DTEND;TZID=America/New_York:20261204T201500
 SUMMARY:Boys Basketball: Calvert at Northern-C
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-huntingtown-calvert-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20261209T181500
 DTEND;TZID=America/New_York:20261209T201500
 SUMMARY:Boys Basketball: Calvert at Huntingtown
@@ -24,7 +24,7 @@ LOCATION:Huntingtown
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-calvert-patuxent-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20261211T181500
 DTEND;TZID=America/New_York:20261211T201500
 SUMMARY:Boys Basketball: Patuxent at Calvert
@@ -32,7 +32,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-colonial-beach-calvert-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20261214T190000
 DTEND;TZID=America/New_York:20261214T210000
 SUMMARY:Boys Basketball: Calvert at Colonial Beach
@@ -42,7 +42,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-calvert-leonardtown-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20261216T181500
 DTEND;TZID=America/New_York:20261216T201500
 SUMMARY:Boys Basketball: Leonardtown at Calvert
@@ -50,7 +50,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-mcdonough-calvert-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270106T181500
 DTEND;TZID=America/New_York:20270106T201500
 SUMMARY:Boys Basketball: Calvert at McDonough
@@ -60,7 +60,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-calvert-northern-c-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270108T181500
 DTEND;TZID=America/New_York:20270108T201500
 SUMMARY:Boys Basketball: Northern-C at Calvert
@@ -68,7 +68,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-henry-e-lackey-calvert-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270113T181500
 DTEND;TZID=America/New_York:20270113T201500
 SUMMARY:Boys Basketball: Calvert at Henry E. Lackey
@@ -78,7 +78,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-leonardtown-calvert-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270115T181500
 DTEND;TZID=America/New_York:20270115T201500
 SUMMARY:Boys Basketball: Calvert at Leonardtown
@@ -86,7 +86,7 @@ LOCATION:Leonardtown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-calvert-mcdonough-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270120T181500
 DTEND;TZID=America/New_York:20270120T201500
 SUMMARY:Boys Basketball: McDonough at Calvert
@@ -94,7 +94,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-calvert-la-plata-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270122T181500
 DTEND;TZID=America/New_York:20270122T201500
 SUMMARY:Boys Basketball: La Plata at Calvert
@@ -102,7 +102,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-north-point-calvert-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270127T181500
 DTEND;TZID=America/New_York:20270127T201500
 SUMMARY:Boys Basketball: Calvert at North Point
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-patuxent-calvert-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270129T181500
 DTEND;TZID=America/New_York:20270129T201500
 SUMMARY:Boys Basketball: Calvert at Patuxent
@@ -122,7 +122,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-calvert-st-charles-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270203T181500
 DTEND;TZID=America/New_York:20270203T201500
 SUMMARY:Boys Basketball: St. Charles at Calvert
@@ -130,7 +130,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-great-mills-calvert-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270205T181500
 DTEND;TZID=America/New_York:20270205T201500
 SUMMARY:Boys Basketball: Calvert at Great Mills
@@ -138,7 +138,7 @@ LOCATION:Great Mills
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-thomas-stone-calvert-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270210T181500
 DTEND;TZID=America/New_York:20270210T201500
 SUMMARY:Boys Basketball: Calvert at Thomas Stone
@@ -148,7 +148,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-calvert-chopticon-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270212T181500
 DTEND;TZID=America/New_York:20270212T201500
 SUMMARY:Boys Basketball: Chopticon at Calvert
@@ -156,7 +156,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-calvert-westlake-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270217T181500
 DTEND;TZID=America/New_York:20270217T201500
 SUMMARY:Boys Basketball: Westlake at Calvert
@@ -164,7 +164,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-calvert-huntingtown-boys-basketball@oldlinerankings
-DTSTAMP:20261018T151529Z
+DTSTAMP:20261019T082010Z
 DTSTART;TZID=America/New_York:20270219T181500
 DTEND;TZID=America/New_York:20270219T201500
 SUMMARY:Boys Basketball: Huntingtown at Calvert

@@ -6,7 +6,7 @@ X-WR-CALNAME:St. Charles Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-henry-e-lackey-st-charles-football@oldlinerankings
-DTSTAMP:20261018T151357Z
+DTSTAMP:20261019T081825Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: St. Charles at Henry E. Lackey
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-northern-c-st-charles-football@oldlinerankings
-DTSTAMP:20261018T151357Z
+DTSTAMP:20261019T081825Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: St. Charles at Northern-C
@@ -25,7 +25,7 @@ DESCRIPTION:Final: St. Charles 20\, Northern-C 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-patuxent-st-charles-football@oldlinerankings
-DTSTAMP:20261018T151357Z
+DTSTAMP:20261019T081825Z
 DTSTART;TZID=America/New_York:20260918T180000
 DTEND;TZID=America/New_York:20260918T200000
 SUMMARY:Football: St. Charles at Patuxent
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-st-charles-chopticon-football@oldlinerankings
-DTSTAMP:20261018T151357Z
+DTSTAMP:20261019T081825Z
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T130000
 SUMMARY:Football: Chopticon at St. Charles
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-westlake-st-charles-football@oldlinerankings
-DTSTAMP:20261018T151357Z
+DTSTAMP:20261019T081825Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: St. Charles at Westlake
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-la-plata-st-charles-football@oldlinerankings
-DTSTAMP:20261018T151357Z
+DTSTAMP:20261019T081825Z
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:Football: St. Charles at La Plata
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-huntingtown-st-charles-football@oldlinerankings
-DTSTAMP:20261018T151357Z
+DTSTAMP:20261019T081825Z
 DTSTART;TZID=America/New_York:20261016T170000
 DTEND;TZID=America/New_York:20261016T190000
 SUMMARY:Football: St. Charles at Huntingtown
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-thomas-stone-st-charles-football@oldlinerankings
-DTSTAMP:20261018T151357Z
+DTSTAMP:20261019T081825Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: St. Charles at Thomas Stone
@@ -84,7 +84,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6952150
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-st-charles-north-point-football@oldlinerankings
-DTSTAMP:20261018T151357Z
+DTSTAMP:20261019T081825Z
 DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T200000
 SUMMARY:Football: North Point at St. Charles

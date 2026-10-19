@@ -6,7 +6,7 @@ X-WR-CALNAME:Fairmont Heights Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-fairmont-heights-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Oxon Hill at Fairmont Heights
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Fairmont Heights 0\, Oxon Hill 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-friendly-fairmont-heights-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Fairmont Heights at Friendly
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Fairmont Heights 1\, Friendly 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-fairmont-heights-frederick-douglass-pg-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Frederick Douglass-PG at Fairmont Heights
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Fairmont Heights 0\, Frederick Douglass-PG 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-college-park-academy-fairmont-heights-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Fairmont Heights at College Park Academy
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Fairmont Heights 0\, College Park Academy 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-fairmont-heights-surrattsville-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Surrattsville at Fairmont Heights
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Fairmont Heights 7\, Surrattsville 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-gwynn-park-fairmont-heights-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Girls Soccer: Fairmont Heights at Gwynn Park
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Fairmont Heights 1\, Gwynn Park 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-cmit-north-fairmont-heights-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Fairmont Heights at CMIT - North
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Fairmont Heights 0\, CMIT - North 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-crossland-fairmont-heights-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Fairmont Heights at Crossland
@@ -78,7 +78,7 @@ DESCRIPTION:Final: Fairmont Heights 1\, Crossland 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-fairmont-heights-largo-girls-soccer@oldlinerankings
-DTSTAMP:20261018T151451Z
+DTSTAMP:20261019T081928Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Largo at Fairmont Heights
