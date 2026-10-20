@@ -6,7 +6,7 @@ X-WR-CALNAME:Brunswick Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-21-watkins-mill-brunswick-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20261121T110000
 DTEND;TZID=America/New_York:20261121T130000
 SUMMARY:Boys Basketball: Brunswick at Watkins Mill
@@ -14,7 +14,7 @@ LOCATION:Watkins Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-catoctin-brunswick-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20261204T190000
 DTEND;TZID=America/New_York:20261204T210000
 SUMMARY:Boys Basketball: Brunswick at Catoctin
@@ -24,37 +24,37 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-brunswick-winters-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20261208T190000
 DTEND;TZID=America/New_York:20261208T210000
 SUMMARY:Boys Basketball: Winters Mill at Brunswick
 LOCATION:Brunswick
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam581ed740b5
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam581ed740b5\nTickets: https://gofan.co/event/6980179
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam581ed740b5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-brunswick-clear-spring-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20261211T190000
 DTEND;TZID=America/New_York:20261211T210000
 SUMMARY:Boys Basketball: Clear Spring at Brunswick
 LOCATION:Brunswick
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam0a2bc3cee5
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam0a2bc3cee5\nTickets: https://gofan.co/event/6980180
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam0a2bc3cee5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-brunswick-walkersville-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20261215T190000
 DTEND;TZID=America/New_York:20261215T210000
 SUMMARY:Boys Basketball: Walkersville at Brunswick
 LOCATION:Brunswick
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgamef370cdffb
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgamef370cdffb\nTickets: https://gofan.co/event/6980181
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgamef370cdffb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-smithsburg-brunswick-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261218T210000
 SUMMARY:Boys Basketball: Brunswick at Smithsburg
@@ -62,7 +62,7 @@ LOCATION:Smithsburg
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-williamsport-brunswick-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20261221T190000
 DTEND;TZID=America/New_York:20261221T210000
 SUMMARY:Boys Basketball: Brunswick at Williamsport
@@ -70,27 +70,27 @@ LOCATION:Williamsport
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-brunswick-catoctin-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270105T190000
 DTEND;TZID=America/New_York:20270105T210000
 SUMMARY:Boys Basketball: Catoctin at Brunswick
 LOCATION:Brunswick
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgamc667f68fa3
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgamc667f68fa3\nTickets: https://gofan.co/event/6980182
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgamc667f68fa3
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-brunswick-south-carroll-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270108T190000
 DTEND;TZID=America/New_York:20270108T210000
 SUMMARY:Boys Basketball: South Carroll at Brunswick
 LOCATION:Brunswick
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam78c5739254
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam78c5739254\nTickets: https://gofan.co/event/6980183
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam78c5739254
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-middletown-brunswick-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270112T190000
 DTEND;TZID=America/New_York:20270112T210000
 SUMMARY:Boys Basketball: Brunswick at Middletown
@@ -98,27 +98,27 @@ LOCATION:Middletown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-brunswick-boonsboro-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270115T190000
 DTEND;TZID=America/New_York:20270115T210000
 SUMMARY:Boys Basketball: Boonsboro at Brunswick
 LOCATION:Brunswick
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgamf70566caef
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgamf70566caef\nTickets: https://gofan.co/event/6980184
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgamf70566caef
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-brunswick-jefferson-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270121T190000
 DTEND;TZID=America/New_York:20270121T210000
 SUMMARY:Boys Basketball: Jefferson at Brunswick
 LOCATION:Brunswick
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam63ebb10804
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam63ebb10804\nTickets: https://gofan.co/event/6980186
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam63ebb10804
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-walkersville-brunswick-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000
 SUMMARY:Boys Basketball: Brunswick at Walkersville
@@ -126,7 +126,7 @@ LOCATION:Walkersville
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-clear-spring-brunswick-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270126T190000
 DTEND;TZID=America/New_York:20270126T210000
 SUMMARY:Boys Basketball: Brunswick at Clear Spring
@@ -134,17 +134,17 @@ LOCATION:Clear Spring
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-brunswick-williamsport-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270129T190000
 DTEND;TZID=America/New_York:20270129T210000
 SUMMARY:Boys Basketball: Williamsport at Brunswick
 LOCATION:Brunswick
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam09504a5552
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam09504a5552\nTickets: https://gofan.co/event/6980188
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam09504a5552
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-boonsboro-brunswick-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270202T190000
 DTEND;TZID=America/New_York:20270202T210000
 SUMMARY:Boys Basketball: Brunswick at Boonsboro
@@ -152,37 +152,37 @@ LOCATION:Boonsboro
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-brunswick-smithsburg-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270205T190000
 DTEND;TZID=America/New_York:20270205T210000
 SUMMARY:Boys Basketball: Smithsburg at Brunswick
 LOCATION:Brunswick
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam354a15c0bd
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam354a15c0bd\nTickets: https://gofan.co/event/6980191
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgam354a15c0bd
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-new-life-christian-school-brunswick-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270208T000100
 DTEND;TZID=America/New_York:20270208T020100
 SUMMARY:Boys Basketball: Brunswick at New Life Christian School
 LOCATION:New Life Christian School
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnew-life-christian-school-frederick-md%2Fgam60341c61a4
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnew-life-christian-school-frederick-md%2Fgam60341c61a4\nTickets: https://gofan.co/event/6980193
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnew-life-christian-school-frederick-md%2Fgam60341c61a4
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-brunswick-middletown-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270209T190000
 DTEND;TZID=America/New_York:20270209T210000
 SUMMARY:Boys Basketball: Middletown at Brunswick
 LOCATION:Brunswick
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgamd9ce23a413
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgamd9ce23a413\nTickets: https://gofan.co/event/6980193
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbrunswick-high-school-brunswick-md%2Fgamd9ce23a413
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-liberty-brunswick-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270212T190000
 DTEND;TZID=America/New_York:20270212T210000
 SUMMARY:Boys Basketball: Brunswick at Liberty
@@ -190,7 +190,7 @@ LOCATION:Liberty
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-south-hagerstown-brunswick-boys-basketball@oldlinerankings
-DTSTAMP:20261020T081954Z
+DTSTAMP:20261020T152602Z
 DTSTART;TZID=America/New_York:20270219T190000
 DTEND;TZID=America/New_York:20270219T210000
 SUMMARY:Boys Basketball: Brunswick at South Hagerstown

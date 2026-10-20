@@ -6,7 +6,7 @@ X-WR-CALNAME:Benjamin Franklin Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-benjamin-franklin-national-academy-foundation-naf-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20261204T154500
 DTEND;TZID=America/New_York:20261204T174500
 SUMMARY:Girls Basketball: National Academy Foundation (NAF) at Benjamin Franklin
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-benjamin-franklin-reginald-lewis-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20261208T171500
 DTEND;TZID=America/New_York:20261208T191500
 SUMMARY:Girls Basketball: Reginald Lewis at Benjamin Franklin
@@ -24,7 +24,7 @@ LOCATION:Benjamin Franklin
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-benjamin-franklin-baltimore-polytechnic-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20261210T171500
 DTEND;TZID=America/New_York:20261210T191500
 SUMMARY:Girls Basketball: Baltimore Polytechnic at Benjamin Franklin
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-benjamin-franklin-seed-school-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20261215T154500
 DTEND;TZID=America/New_York:20261215T174500
 SUMMARY:Girls Basketball: SEED School at Benjamin Franklin
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-forest-park-benjamin-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20261217T160000
 DTEND;TZID=America/New_York:20261217T180000
 SUMMARY:Girls Basketball: Benjamin Franklin at Forest Park
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-benjamin-franklin-baltimore-city-college-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20261222T171500
 DTEND;TZID=America/New_York:20261222T191500
 SUMMARY:Girls Basketball: Baltimore City College at Benjamin Franklin
@@ -62,7 +62,7 @@ LOCATION:Benjamin Franklin
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-patterson-benjamin-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270105T171500
 DTEND;TZID=America/New_York:20270105T191500
 SUMMARY:Girls Basketball: Benjamin Franklin at Patterson
@@ -72,7 +72,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-benjamin-franklin-paul-laurence-dunbar-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270107T171500
 DTEND;TZID=America/New_York:20270107T191500
 SUMMARY:Girls Basketball: Paul Laurence Dunbar at Benjamin Franklin
@@ -80,7 +80,7 @@ LOCATION:Benjamin Franklin
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-benjamin-franklin-digital-harbor-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Girls Basketball: Digital Harbor at Benjamin Franklin
@@ -88,7 +88,7 @@ LOCATION:Benjamin Franklin
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-benjamin-franklin-mergenthaler-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270114T171500
 DTEND;TZID=America/New_York:20270114T191500
 SUMMARY:Girls Basketball: Mergenthaler at Benjamin Franklin
@@ -98,7 +98,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-edmondson-westside-benjamin-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270119T171500
 DTEND;TZID=America/New_York:20270119T191500
 SUMMARY:Girls Basketball: Benjamin Franklin at Edmondson-Westside
@@ -108,7 +108,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-lake-clifton-benjamin-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270121T160000
 DTEND;TZID=America/New_York:20270121T180000
 SUMMARY:Girls Basketball: Benjamin Franklin at Lake Clifton
@@ -116,7 +116,7 @@ LOCATION:Lake Clifton
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-benjamin-franklin-forest-park-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270128T160000
 DTEND;TZID=America/New_York:20270128T180000
 SUMMARY:Girls Basketball: Forest Park at Benjamin Franklin
@@ -126,7 +126,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-carver-vocational-technical-benjamin-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270202T171500
 DTEND;TZID=America/New_York:20270202T191500
 SUMMARY:Girls Basketball: Benjamin Franklin at Carver Vocational-Technical
@@ -136,7 +136,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-benjamin-franklin-city-neighbors-charter-school-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270204T171500
 DTEND;TZID=America/New_York:20270204T191500
 SUMMARY:Girls Basketball: City Neighbors Charter School at Benjamin Franklin
@@ -146,7 +146,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-western-b-benjamin-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270209T171500
 DTEND;TZID=America/New_York:20270209T191500
 SUMMARY:Girls Basketball: Benjamin Franklin at Western-B
@@ -156,7 +156,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-benjamin-franklin-lake-clifton-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270211T160000
 DTEND;TZID=America/New_York:20270211T180000
 SUMMARY:Girls Basketball: Lake Clifton at Benjamin Franklin
@@ -164,7 +164,7 @@ LOCATION:Benjamin Franklin
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-digital-harbor-benjamin-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270216T171500
 DTEND;TZID=America/New_York:20270216T191500
 SUMMARY:Girls Basketball: Benjamin Franklin at Digital Harbor
@@ -172,7 +172,7 @@ LOCATION:Digital Harbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-coppin-academy-benjamin-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270218T154500
 DTEND;TZID=America/New_York:20270218T174500
 SUMMARY:Girls Basketball: Benjamin Franklin at Coppin Academy
@@ -180,7 +180,7 @@ LOCATION:Coppin Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-23-benjamin-franklin-acce-girls-basketball@oldlinerankings
-DTSTAMP:20261020T082039Z
+DTSTAMP:20261020T152653Z
 DTSTART;TZID=America/New_York:20270223T154500
 DTEND;TZID=America/New_York:20270223T174500
 SUMMARY:Girls Basketball: ACCE at Benjamin Franklin

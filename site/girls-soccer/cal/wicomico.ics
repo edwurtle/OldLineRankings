@@ -6,7 +6,7 @@ X-WR-CALNAME:Wicomico Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-wicomico-stephen-decatur-girls-soccer@oldlinerankings
-DTSTAMP:20261020T081918Z
+DTSTAMP:20261020T152523Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Girls Soccer: Stephen Decatur at Wicomico
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Wicomico 0\, Stephen Decatur 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-kent-island-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261020T081918Z
+DTSTAMP:20261020T152523Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Girls Soccer: Wicomico at Kent Island
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-wicomico-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261020T081918Z
+DTSTAMP:20261020T152523Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: James M. Bennett at Wicomico
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Wicomico 0\, James M. Bennett 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-easton-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261020T081918Z
+DTSTAMP:20261020T152523Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Wicomico at Easton
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Wicomico 3\, Easton 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-parkside-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261020T081918Z
+DTSTAMP:20261020T152523Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Wicomico at Parkside
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Wicomico 1\, Parkside 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-wicomico-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261020T081918Z
+DTSTAMP:20261020T152523Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: James M. Bennett at Wicomico
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Wicomico 1\, James M. Bennett 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-north-caroline-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261020T081918Z
+DTSTAMP:20261020T152523Z
 DTSTART;TZID=America/New_York:20260929T173000
 DTEND;TZID=America/New_York:20260929T193000
 SUMMARY:Girls Soccer: Wicomico at North Caroline
@@ -71,7 +71,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-mardela-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261020T081918Z
+DTSTAMP:20261020T152523Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Wicomico at Mardela
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Wicomico 3\, Mardela 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-snow-hill-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261020T081918Z
+DTSTAMP:20261020T152523Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Wicomico at Snow Hill
@@ -89,7 +89,7 @@ DESCRIPTION:Final: Wicomico 0\, Snow Hill 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-crisfield-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261020T081918Z
+DTSTAMP:20261020T152523Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Wicomico at Crisfield
@@ -98,7 +98,7 @@ DESCRIPTION:Final: Wicomico -\, Crisfield -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-queen-anne-s-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261020T081918Z
+DTSTAMP:20261020T152523Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Wicomico at Queen Anne's
@@ -107,7 +107,7 @@ DESCRIPTION:Final: Wicomico 0\, Queen Anne's 15
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-wicomico-crisfield-girls-soccer@oldlinerankings
-DTSTAMP:20261020T081918Z
+DTSTAMP:20261020T152523Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Crisfield at Wicomico
@@ -116,7 +116,7 @@ DESCRIPTION:Final: Wicomico 1\, Crisfield 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-wicomico-stephen-decatur-girls-soccer@oldlinerankings
-DTSTAMP:20261020T081918Z
+DTSTAMP:20261020T152523Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Stephen Decatur at Wicomico

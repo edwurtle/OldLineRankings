@@ -6,7 +6,7 @@ X-WR-CALNAME:Atholton Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-carver-vocational-technical-atholton-football@oldlinerankings
-DTSTAMP:20261020T081819Z
+DTSTAMP:20261020T152436Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Atholton at Carver Vocational-Technical
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Atholton 0\, Carver Vocational-Technical 16
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-wilde-lake-atholton-football@oldlinerankings
-DTSTAMP:20261020T081819Z
+DTSTAMP:20261020T152436Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Atholton at Wilde Lake
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-atholton-reservoir-football@oldlinerankings
-DTSTAMP:20261020T081819Z
+DTSTAMP:20261020T152436Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Reservoir at Atholton
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Atholton 15\, Reservoir 23
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-mount-hebron-atholton-football@oldlinerankings
-DTSTAMP:20261020T081819Z
+DTSTAMP:20261020T152436Z
 DTSTART;TZID=America/New_York:20260926T130000
 DTEND;TZID=America/New_York:20260926T150000
 SUMMARY:Football: Atholton at Mount Hebron
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-atholton-guilford-park-football@oldlinerankings
-DTSTAMP:20261020T081819Z
+DTSTAMP:20261020T152436Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: Guilford Park at Atholton
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-long-reach-atholton-football@oldlinerankings
-DTSTAMP:20261020T081819Z
+DTSTAMP:20261020T152436Z
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:Football: Atholton at Long Reach
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-howard-atholton-football@oldlinerankings
-DTSTAMP:20261020T081819Z
+DTSTAMP:20261020T152436Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Football: Atholton at Howard
@@ -73,7 +73,7 @@ DESCRIPTION:Final: Atholton 0\, Howard 44
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-oakland-mills-atholton-football@oldlinerankings
-DTSTAMP:20261020T081819Z
+DTSTAMP:20261020T152436Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Atholton at Oakland Mills
@@ -83,7 +83,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-glenelg-atholton-football@oldlinerankings
-DTSTAMP:20261020T081819Z
+DTSTAMP:20261020T152436Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Atholton at Glenelg
