@@ -6,7 +6,7 @@ X-WR-CALNAME:Marriotts Ridge Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-catonsville-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261019T171247Z
+DTSTAMP:20261020T081819Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Marriotts Ridge at Catonsville
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-century-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261019T171247Z
+DTSTAMP:20261020T081819Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Football: Marriotts Ridge at Century
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-howard-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261019T171247Z
+DTSTAMP:20261020T081819Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Marriotts Ridge at Howard
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Marriotts Ridge 0\, Howard 28
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-glenelg-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261019T171247Z
+DTSTAMP:20261020T081819Z
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T200000
 SUMMARY:Football: Marriotts Ridge at Glenelg
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-reservoir-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261019T171247Z
+DTSTAMP:20261020T081819Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Marriotts Ridge at Reservoir
@@ -54,7 +54,7 @@ DESCRIPTION:Final: Marriotts Ridge 27\, Reservoir 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-mount-hebron-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261019T171247Z
+DTSTAMP:20261020T081819Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Marriotts Ridge at Mount Hebron
@@ -63,7 +63,7 @@ DESCRIPTION:Final: Marriotts Ridge 42\, Mount Hebron 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-wilde-lake-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261019T171247Z
+DTSTAMP:20261020T081819Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Football: Marriotts Ridge at Wilde Lake
@@ -73,7 +73,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-river-hill-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261019T171247Z
+DTSTAMP:20261020T081819Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Marriotts Ridge at River Hill
@@ -83,7 +83,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-hammond-marriotts-ridge-football@oldlinerankings
-DTSTAMP:20261019T171247Z
+DTSTAMP:20261020T081819Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Marriotts Ridge at Hammond

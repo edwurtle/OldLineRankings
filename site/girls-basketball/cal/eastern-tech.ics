@@ -5,16 +5,64 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Eastern Tech Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+UID:2026-11-30-eastern-tech-new-town-girls-basketball@oldlinerankings
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20261130T173000
+DTEND;TZID=America/New_York:20261130T193000
+SUMMARY:Girls Basketball: New Town at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgam7db0260e4f
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgam7db0260e4f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-eastern-tech-c-milton-wright-girls-basketball@oldlinerankings
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20261202T173000
+DTEND;TZID=America/New_York:20261202T193000
+SUMMARY:Girls Basketball: C. Milton Wright at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgam49477d663e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgam49477d663e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-eastern-tech-st-paul-s-school-for-girls-girls-basketball@oldlinerankings
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20261208T173000
+DTEND;TZID=America/New_York:20261208T193000
+SUMMARY:Girls Basketball: St. Paul's School For Girls at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgam613289d907
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgam613289d907
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-eastern-tech-chesapeake-b-girls-basketball@oldlinerankings
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20261210T173000
+DTEND;TZID=America/New_York:20261210T193000
+SUMMARY:Girls Basketball: Chesapeake-B at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgam4ef09577cd
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgam4ef09577cd
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-14-garrison-forest-school-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
+DTSTAMP:20261020T082039Z
 DTSTART;TZID=America/New_York:20261214T163000
 DTEND;TZID=America/New_York:20261214T183000
 SUMMARY:Girls Basketball: Eastern Tech at Garrison Forest School
 LOCATION:Garrison Forest School
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-16-eastern-tech-dundalk-girls-basketball@oldlinerankings
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Girls Basketball: Dundalk at Eastern Tech
+LOCATION:Eastern Tech
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-18-patapsco-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
+DTSTAMP:20261020T082039Z
 DTSTART;TZID=America/New_York:20261218T173000
 DTEND;TZID=America/New_York:20261218T193000
 SUMMARY:Girls Basketball: Eastern Tech at Patapsco
@@ -24,7 +72,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-parkville-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
+DTSTAMP:20261020T082039Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Girls Basketball: Eastern Tech at Parkville
@@ -34,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-kenwood-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
+DTSTAMP:20261020T082039Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Girls Basketball: Eastern Tech at Kenwood
@@ -43,16 +91,56 @@ DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fkenwood-high-school-baltimore-md%2Fgam74c06ac8d9
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-13-eastern-tech-perry-hall-girls-basketball@oldlinerankings
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20270113T173000
+DTEND;TZID=America/New_York:20270113T193000
+SUMMARY:Girls Basketball: Perry Hall at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgam6f58996a0e
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgam6f58996a0e
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-eastern-tech-sparrows-point-girls-basketball@oldlinerankings
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Girls Basketball: Sparrows Point at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgam866c971efd
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgam866c971efd
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-eastern-tech-towson-girls-basketball@oldlinerankings
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20270120T173000
+DTEND;TZID=America/New_York:20270120T193000
+SUMMARY:Girls Basketball: Towson at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgameb9412b408
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgameb9412b408
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-22-dundalk-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
+DTSTAMP:20261020T082039Z
 DTSTART;TZID=America/New_York:20270122T173000
 DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Girls Basketball: Eastern Tech at Dundalk
 LOCATION:Dundalk
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-25-eastern-tech-northeast-aa-girls-basketball@oldlinerankings
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20270125T160000
+DTEND;TZID=America/New_York:20270125T180000
+SUMMARY:Girls Basketball: Northeast-AA at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgamc8e2e9cc25
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgamc8e2e9cc25
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-27-carver-aandt-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
+DTSTAMP:20261020T082039Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Girls Basketball: Eastern Tech at Carver A&T
@@ -60,7 +148,7 @@ LOCATION:Carver A&T
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-chesapeake-b-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
+DTSTAMP:20261020T082039Z
 DTSTART;TZID=America/New_York:20270129T173000
 DTEND;TZID=America/New_York:20270129T193000
 SUMMARY:Girls Basketball: Eastern Tech at Chesapeake-B
@@ -68,12 +156,42 @@ LOCATION:Chesapeake-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-overlea-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
+DTSTAMP:20261020T082039Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Girls Basketball: Eastern Tech at Overlea
 LOCATION:Overlea
 DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foverlea-high-school-baltimore-md%2Fgambd2a28ebf8\nTickets: https://gofan.co/event/6737998
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foverlea-high-school-baltimore-md%2Fgambd2a28ebf8
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-eastern-tech-patapsco-girls-basketball@oldlinerankings
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Girls Basketball: Patapsco at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgamdf8d1f9966
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgamdf8d1f9966
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-eastern-tech-kenwood-girls-basketball@oldlinerankings
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20270212T173000
+DTEND;TZID=America/New_York:20270212T193000
+SUMMARY:Girls Basketball: Kenwood at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgamdb41978c9d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgamdb41978c9d
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-eastern-tech-loch-raven-girls-basketball@oldlinerankings
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20270217T173000
+DTEND;TZID=America/New_York:20270217T193000
+SUMMARY:Girls Basketball: Loch Raven at Eastern Tech
+LOCATION:Eastern Tech
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgamdef684da41
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Feastern-technical-high-school-baltimore-md%2Fgamdef684da41
 END:VEVENT
 END:VCALENDAR

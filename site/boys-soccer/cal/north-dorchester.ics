@@ -6,7 +6,7 @@ X-WR-CALNAME:North Dorchester Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-st-michael-s-north-dorchester-boys-soccer@oldlinerankings
-DTSTAMP:20261019T171316Z
+DTSTAMP:20261020T081849Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Boys Soccer: North Dorchester at St. Michael's
@@ -15,7 +15,7 @@ DESCRIPTION:Final: North Dorchester 3\, St. Michael's 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-north-dorchester-kent-island-boys-soccer@oldlinerankings
-DTSTAMP:20261019T171316Z
+DTSTAMP:20261020T081849Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Boys Soccer: Kent Island at North Dorchester
@@ -24,7 +24,7 @@ DESCRIPTION:Final: North Dorchester 1\, Kent Island 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-north-dorchester-snow-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261019T171316Z
+DTSTAMP:20261020T081849Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Boys Soccer: Snow Hill at North Dorchester
@@ -33,7 +33,7 @@ DESCRIPTION:Final: North Dorchester 1\, Snow Hill 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-colonel-richardson-north-dorchester-boys-soccer@oldlinerankings
-DTSTAMP:20261019T171316Z
+DTSTAMP:20261020T081849Z
 DTSTART;TZID=America/New_York:20260914T173000
 DTEND;TZID=America/New_York:20260914T193000
 SUMMARY:Boys Soccer: North Dorchester at Colonel Richardson
@@ -43,7 +43,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-north-dorchester-pocomoke-boys-soccer@oldlinerankings
-DTSTAMP:20261019T171316Z
+DTSTAMP:20261020T081849Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Boys Soccer: Pocomoke at North Dorchester
@@ -52,7 +52,7 @@ DESCRIPTION:Final: North Dorchester 1\, Pocomoke 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-kent-county-north-dorchester-boys-soccer@oldlinerankings
-DTSTAMP:20261019T171316Z
+DTSTAMP:20261020T081849Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Boys Soccer: North Dorchester at Kent County
@@ -61,7 +61,7 @@ DESCRIPTION:Final: North Dorchester 1\, Kent County 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-north-dorchester-north-caroline-boys-soccer@oldlinerankings
-DTSTAMP:20261019T171316Z
+DTSTAMP:20261020T081849Z
 DTSTART;TZID=America/New_York:20260924T174500
 DTEND;TZID=America/New_York:20260924T194500
 SUMMARY:Boys Soccer: North Caroline at North Dorchester
@@ -71,7 +71,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-north-dorchester-queen-anne-s-boys-soccer@oldlinerankings
-DTSTAMP:20261019T171316Z
+DTSTAMP:20261020T081849Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Boys Soccer: Queen Anne's at North Dorchester
@@ -80,7 +80,7 @@ DESCRIPTION:Final: North Dorchester 0\, Queen Anne's 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-north-dorchester-easton-boys-soccer@oldlinerankings
-DTSTAMP:20261019T171316Z
+DTSTAMP:20261020T081849Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Easton at North Dorchester
@@ -89,7 +89,7 @@ DESCRIPTION:Final: North Dorchester 0\, Easton 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-north-dorchester-crisfield-boys-soccer@oldlinerankings
-DTSTAMP:20261019T171316Z
+DTSTAMP:20261020T081849Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Boys Soccer: Crisfield at North Dorchester
@@ -98,7 +98,7 @@ DESCRIPTION:Final: North Dorchester 2\, Crisfield 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-north-dorchester-cambridge-south-dorchester-boys-soccer@oldlinerankings
-DTSTAMP:20261019T171316Z
+DTSTAMP:20261020T081849Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Boys Soccer: Cambridge-South Dorchester at North Dorchester
@@ -107,7 +107,7 @@ DESCRIPTION:Final: North Dorchester 6\, Cambridge-South Dorchester 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-north-dorchester-washington-boys-soccer@oldlinerankings
-DTSTAMP:20261019T171316Z
+DTSTAMP:20261020T081849Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Washington at North Dorchester

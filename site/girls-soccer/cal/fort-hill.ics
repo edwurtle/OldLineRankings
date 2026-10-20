@@ -6,7 +6,7 @@ X-WR-CALNAME:Fort Hill Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-05-fort-hill-boonsboro-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20260905T120000
 DTEND;TZID=America/New_York:20260905T140000
 SUMMARY:Girls Soccer: Boonsboro at Fort Hill
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05-fort-hill-mountain-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20260905T160000
 DTEND;TZID=America/New_York:20260905T180000
 SUMMARY:Girls Soccer: Mountain Ridge at Fort Hill
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-allegany-fort-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20260908T170000
 DTEND;TZID=America/New_York:20260908T190000
 SUMMARY:Girls Soccer: Fort Hill at Allegany
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12-fort-hill-wv-hampshire-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Girls Soccer: WV- Hampshire at Fort Hill
@@ -45,7 +45,7 @@ DESCRIPTION:Final: Fort Hill 4\, WV- Hampshire 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-fort-hill-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20260916T180000
 DTEND;TZID=America/New_York:20260916T200000
 SUMMARY:Girls Soccer: Southern-G at Fort Hill
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-fort-hill-wv-keyser-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20260917T180000
 DTEND;TZID=America/New_York:20260917T200000
 SUMMARY:Girls Soccer: WV- Keyser at Fort Hill
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-fort-hill-northern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20260919T110000
 DTEND;TZID=America/New_York:20260919T130000
 SUMMARY:Girls Soccer: Northern-G at Fort Hill
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-fort-hill-wv-spring-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20260923T180000
 DTEND;TZID=America/New_York:20260923T200000
 SUMMARY:Girls Soccer: WV- Spring Mills at Fort Hill
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-fort-hill-northern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20260929T173000
 DTEND;TZID=America/New_York:20260929T193000
 SUMMARY:Girls Soccer: Northern-G at Fort Hill
@@ -95,7 +95,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-allegany-fort-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20261001T170000
 DTEND;TZID=America/New_York:20261001T190000
 SUMMARY:Girls Soccer: Fort Hill at Allegany
@@ -105,7 +105,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-fort-hill-mountain-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Girls Soccer: Mountain Ridge at Fort Hill
@@ -115,7 +115,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-fort-hill-wv-moorefield-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Girls Soccer: WV- Moorefield at Fort Hill
@@ -125,7 +125,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-fort-hill-wv-musselman-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Girls Soccer: WV- Musselman at Fort Hill
@@ -135,7 +135,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-fort-hill-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20261021T180000
 DTEND;TZID=America/New_York:20261021T200000
 SUMMARY:Girls Soccer: Southern-G at Fort Hill

@@ -6,7 +6,7 @@ X-WR-CALNAME:Severn Run Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-severn-run-st-timothys-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: St. Timothys at Severn Run
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Severn Run 5\, St. Timothys 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-sparrows-point-severn-run-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20260910T173000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:Girls Soccer: Severn Run at Sparrows Point
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-severn-run-glen-burnie-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Girls Soccer: Glen Burnie at Severn Run
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-severn-run-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Girls Soccer: Leonardtown at Severn Run
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Severn Run 1\, Leonardtown 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-severn-run-rolland-park-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Girls Soccer: Rolland Park at Severn Run
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Severn Run 2\, Rolland Park 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-severna-park-severn-run-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Girls Soccer: Severn Run at Severna Park
@@ -63,7 +63,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-northeast-aa-severn-run-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Severn Run at Northeast-AA
@@ -72,7 +72,7 @@ DESCRIPTION:Final: Severn Run 6\, Northeast-AA 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-severn-run-annapolis-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20261001T170000
 DTEND;TZID=America/New_York:20261001T190000
 SUMMARY:Girls Soccer: Annapolis at Severn Run
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-chesapeake-science-point-severn-run-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: Severn Run at Chesapeake Science Point
@@ -92,7 +92,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-severn-run-meade-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T190000
 SUMMARY:Girls Soccer: Meade at Severn Run
@@ -102,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-severn-run-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Crofton at Severn Run
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-severn-run-north-county-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: North County at Severn Run
@@ -121,7 +121,7 @@ DESCRIPTION:Final: Severn Run 2\, North County 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-southern-aa-severn-run-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Girls Soccer: Severn Run at Southern-AA
@@ -131,7 +131,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-arundel-severn-run-girls-soccer@oldlinerankings
-DTSTAMP:20261019T171346Z
+DTSTAMP:20261020T081918Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Girls Soccer: Severn Run at Arundel

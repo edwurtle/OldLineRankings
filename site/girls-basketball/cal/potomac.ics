@@ -5,18 +5,10 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Potomac Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:2027-02-10-potomac-gwynn-park-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
-DTSTART;TZID=America/New_York:20270210T173000
-DTEND;TZID=America/New_York:20270210T193000
-SUMMARY:Girls Basketball: Gwynn Park at Potomac
-LOCATION:Potomac
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-02-12-potomac-fairmont-heights-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
-DTSTART;TZID=America/New_York:20270212T173000
-DTEND;TZID=America/New_York:20270212T193000
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20270212T191500
+DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Girls Basketball: Fairmont Heights at Potomac
 LOCATION:Potomac
 END:VEVENT

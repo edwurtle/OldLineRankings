@@ -6,49 +6,41 @@ X-WR-CALNAME:Fairmont Heights Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-crossland-fairmont-heights-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
-DTSTART;TZID=America/New_York:20261210T173000
-DTEND;TZID=America/New_York:20261210T193000
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20261210T174500
+DTEND;TZID=America/New_York:20261210T194500
 SUMMARY:Girls Basketball: Fairmont Heights at Crossland
 LOCATION:Crossland
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-fairmont-heights-largo-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
-DTSTART;TZID=America/New_York:20270105T190000
-DTEND;TZID=America/New_York:20270105T210000
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20270105T191500
+DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: Largo at Fairmont Heights
 LOCATION:Fairmont Heights
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-surrattsville-fairmont-heights-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
-DTSTART;TZID=America/New_York:20270114T190000
-DTEND;TZID=America/New_York:20270114T210000
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20270114T191500
+DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Girls Basketball: Fairmont Heights at Surrattsville
 LOCATION:Surrattsville
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-oxon-hill-fairmont-heights-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
+DTSTAMP:20261020T082039Z
 DTSTART;TZID=America/New_York:20270128T173000
 DTEND;TZID=America/New_York:20270128T193000
 SUMMARY:Girls Basketball: Fairmont Heights at Oxon Hill
 LOCATION:Oxon Hill
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-02-02-friendly-fairmont-heights-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
-DTSTART;TZID=America/New_York:20270202T173000
-DTEND;TZID=America/New_York:20270202T193000
-SUMMARY:Girls Basketball: Fairmont Heights at Friendly
-LOCATION:Friendly
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-02-12-potomac-fairmont-heights-girls-basketball@oldlinerankings
-DTSTAMP:20261019T171531Z
-DTSTART;TZID=America/New_York:20270212T173000
-DTEND;TZID=America/New_York:20270212T193000
+DTSTAMP:20261020T082039Z
+DTSTART;TZID=America/New_York:20270212T191500
+DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Girls Basketball: Fairmont Heights at Potomac
 LOCATION:Potomac
 END:VEVENT
