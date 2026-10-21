@@ -291,8 +291,11 @@ td.team-td { white-space: normal; width: 100%; }  /* the only column allowed to 
 .best { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px; margin-bottom: 18px; display: flex; gap: 12px; align-items: center; }
 .game { display: grid; grid-template-columns: 30px 34px 1fr auto; gap: 12px; align-items: center; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 10px 14px; margin-bottom: 8px; }
 .game .res { width: 30px; height: 30px; border-radius: 9px; display: grid; place-items: center; font-weight: 800; font-size: 13px; }
-.game .opp { font-weight: 600; }
-.game .opp button { background: none; border: 0; padding: 0; font-weight: 600; cursor: pointer; text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 3px; }
+.game .mid { min-width: 0; }
+/* The opponent stays on one line (cut with … if it can't fit), never folding under the "@" */
+.game .opp { font-weight: 600; display: flex; gap: .3em; min-width: 0; white-space: nowrap; }
+.game .opp .on { min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+.game .opp button { background: none; border: 0; padding: 0; font-weight: 600; cursor: pointer; text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 3px; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; text-align: left; vertical-align: bottom; }
 .game .opp button:hover { color: var(--accent); text-decoration-color: var(--accent); }
 .game .det { font-size: 12px; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 2px; }
 .form i.U { background: transparent; box-shadow: inset 0 0 0 1.5px rgba(255,255,255,.28); }
@@ -357,7 +360,7 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 /* Final 8 bracket. Every column's games area is the same height and each match sits centred in an
    equal share of it, so a pair of feeders (centred at 25% / 75% of the pair) lines up with the next
    round's match (centred at 50%). A pair draws ] on its right; a fed match draws a stub on its left. */
-.bracket { --line: #cfc7b4; --gap: 32px; --colw: 220px; display: grid; grid-template-columns: repeat(var(--cols, 4), minmax(var(--colw), 1fr)); gap: 0 var(--gap); padding: 16px; overflow-x: auto; }
+.bracket { --line: #cfc7b4; --gap: 32px; --colw: 220px; display: grid; grid-template-columns: repeat(var(--cols, 4), minmax(var(--colw), var(--colmax, 1fr))); gap: 0 var(--gap); padding: 16px; overflow-x: auto; }
 .bcol { display: flex; flex-direction: column; min-width: 0; }
 .bcol h4 .h4-pct { float: right; padding-right: 8px; font-weight: 600; letter-spacing: .04em; text-transform: none; color: var(--faint); }
 .bcol h4 { margin: 0 0 10px; font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 700; }
@@ -596,6 +599,16 @@ body.embed .drawer { width: 100%; box-shadow: none; transition: none; }
 @media (max-width: 640px) {
   .hero-flag { display: none; }
   .hero-inner { padding: 28px 16px 32px; }
+  /* Brackets: rounds stacked one under another (no sideways scrolling, no connector lines) */
+  .bracket, .bracket.mini { grid-template-columns: 1fr; gap: 18px; overflow-x: visible; }
+  .bgames, .bpair, .bslot { flex: none; }
+  .bpair::after, .fed .match::before, .to-next .match::after { display: none; }
+  .bpair { gap: 0; }
+  .bracket .slot .nm { white-space: nowrap; overflow-wrap: normal; }
+  /* Drawer game rows: tighter, so the opponent's name has room */
+  .game { gap: 10px; padding: 10px 12px; grid-template-columns: 30px 30px minmax(0, 1fr) auto; }
+  .game .logo { --sz: 30px !important; }
+  .game .det { gap: 6px; }
 }
 
 /* Early season (basketball): rankings / projections not started yet */

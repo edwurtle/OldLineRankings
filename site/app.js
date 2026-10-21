@@ -557,7 +557,7 @@ function bracketHTML(rounds, names, endName, slot, opts = {}) {
     return `<div class="bcol${i ? " fed" : ""}${last && endName ? " to-next" : ""}"><h4>${names[i]}</h4><div class="bgames">${body}</div></div>`;
   });
   const end = rounds[rounds.length - 1].map(m => cell(`<div class="match">${slot(m.w === BYE ? null : m.w, null, isTeam(m.w) ? "win" : "")}${opts.endExtra ? opts.endExtra(m.w) : ""}</div>`)).join("");
-  return `<div class="bracket ${opts.cls || ""}" style="grid-template-columns:repeat(${rounds.length + (endName ? 1 : 0)}, minmax(var(--colw), var(--colmax, 1fr)))">${cols.join("")}
+  return `<div class="bracket ${opts.cls || ""}" style="--cols:${rounds.length + (endName ? 1 : 0)}">${cols.join("")}
     ${endName ? `<div class="bcol fed end ${opts.endCls || ""}"><h4>${endName}</h4><div class="bgames">${end}</div></div>` : ""}</div>`;
 }
 function renderFinal8(r) {
@@ -785,13 +785,13 @@ function gameRow(g, t, x) {
   const ctag = opp ? `<span class="ctag">${cl(opp.cls)}</span>` : `<span class="ctag nm">Non-public / out of state</span>`;
   const orec = opp ? `<span class="mono">${recTxt(opp)}</span><span>${esc(opp.region)}</span>` : "";
   const raw = x.res === "T" ? [x.cp * 2, x.ow * 2] : [x.cp, x.ow];
-  const calc = x.res === "W" ? `<span class="mono">${n2(raw[0])} + ${n2(raw[1])} =</span> <b class="mono">${n2(x.pts)}</b>`
-    : x.res === "T" ? `<span class="mono">½ × (${n2(raw[0])} + ${n2(raw[1])}) =</span> <b class="mono">${n2(x.pts)}</b>` : `<b class="mono">0</b>`;
+  const calc = x.res === "W" ? `<span class="mono hide-xs">${n2(raw[0])} + ${n2(raw[1])} =</span> <b class="mono">${n2(x.pts)}</b>`
+    : x.res === "T" ? `<span class="mono hide-xs">½ × (${n2(raw[0])} + ${n2(raw[1])}) =</span> <b class="mono">${n2(x.pts)}</b>` : `<b class="mono">0</b>`;
   return `<div class="game">
     <div class="res ${x.res}">${x.res}</div>${logo(x.opp, 34)}
-    <div><div class="opp">${x.home ? "vs" : "@"} ${name}</div>
+    <div class="mid"><div class="opp"><span>${x.home ? "vs" : "@"}</span> <span class="on">${name}</span></div>
       <div class="det"><span>${fmtDate(x.date)}</span>${ctag}${orec}${x.ff ? "<span>Forfeit</span>" : ""}</div></div>
-    <div class="right"><div class="links">${watchBtn(x)}</div><div class="score mono">${x.gf ?? "–"}–${x.ga ?? "–"}</div>${SEEDS_BY_POINTS ? `<div class="pts">${calc} MPSSAA pts</div>` : ""}${RANKED(g) ? `<div class="pts">OLR game score <b class="mono">${fmtR(gameScore(g, x).score)}</b></div>` : ""}</div>
+    <div class="right"><div class="links">${watchBtn(x)}</div><div class="score mono">${x.gf ?? "–"}–${x.ga ?? "–"}</div>${SEEDS_BY_POINTS ? `<div class="pts">${calc} MPSSAA pts</div>` : ""}${RANKED(g) ? `<div class="pts">OLR<span class="lbl-long"> game score</span> <b class="mono">${fmtR(gameScore(g, x).score)}</b></div>` : ""}</div>
   </div>`;
 }
 function upcomingRow(g, t, u) {
@@ -805,7 +805,7 @@ function upcomingRow(g, t, u) {
   const d = new Date(u.date + "T12:00:00");
   return `<div class="game upcoming">
     <div class="when"><small>${d.toLocaleDateString(undefined, {weekday: "short"})}</small><b class="mono">${d.getDate()}</b></div>${logo(u.opp, 34)}
-    <div><div class="opp">${u.home ? "vs" : "@"} ${name}</div>
+    <div class="mid"><div class="opp"><span>${u.home ? "vs" : "@"}</span> <span class="on">${name}</span></div>
       <div class="det"><span>${fmtDate(u.date)}</span>${ctag}${orec}${status}</div></div>
     <div class="right"><div class="links">${watchBtn(u)}${ticketBtn(u, u.home ? `${u.opp} at ${t.school}` : `${t.school} at ${u.opp}`)}</div>${OLR && RANKED(g) ? `<div class="prob mono" title="Chance to win (Old Line Rating)">${pct(100 * winProb(g, t.school, u.opp, u.home ? 1 : -1))} to win</div>` : ""}${SEEDS_BY_POINTS ? `<div class="pts">win worth</div><div class="mono worth">${n2(worth)} <span class="pts">MPSSAA pts</span></div>` : ""}</div>
   </div>`;
