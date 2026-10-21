@@ -6,7 +6,7 @@ X-WR-CALNAME:Edmondson-Westside Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-edmondson-westside-forest-park-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234244Z
+DTSTAMP:20261021T234628Z
 DTSTART;TZID=America/New_York:20261210T171500
 DTEND;TZID=America/New_York:20261210T191500
 SUMMARY:Girls Basketball: Forest Park at Edmondson-Westside
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-western-b-edmondson-westside-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234244Z
+DTSTAMP:20261021T234628Z
 DTSTART;TZID=America/New_York:20261217T171500
 DTEND;TZID=America/New_York:20261217T191500
 SUMMARY:Girls Basketball: Edmondson-Westside at Western-B
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-edmondson-westside-frederick-douglass-b-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234244Z
+DTSTAMP:20261021T234628Z
 DTSTART;TZID=America/New_York:20270105T171500
 DTEND;TZID=America/New_York:20270105T191500
 SUMMARY:Girls Basketball: Frederick Douglass-B at Edmondson-Westside
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-carver-vocational-technical-edmondson-westside-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234244Z
+DTSTAMP:20261021T234628Z
 DTSTART;TZID=America/New_York:20270107T171500
 DTEND;TZID=America/New_York:20270107T191500
 SUMMARY:Girls Basketball: Edmondson-Westside at Carver Vocational-Technical
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-edmondson-westside-digital-harbor-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234244Z
+DTSTAMP:20261021T234628Z
 DTSTART;TZID=America/New_York:20270114T171500
 DTEND;TZID=America/New_York:20270114T191500
 SUMMARY:Girls Basketball: Digital Harbor at Edmondson-Westside
@@ -54,7 +54,7 @@ LOCATION:Edmondson-Westside
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-edmondson-westside-benjamin-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234244Z
+DTSTAMP:20261021T234628Z
 DTSTART;TZID=America/New_York:20270119T171500
 DTEND;TZID=America/New_York:20270119T191500
 SUMMARY:Girls Basketball: Benjamin Franklin at Edmondson-Westside
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-mergenthaler-edmondson-westside-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234244Z
+DTSTAMP:20261021T234628Z
 DTSTART;TZID=America/New_York:20270121T171500
 DTEND;TZID=America/New_York:20270121T191500
 SUMMARY:Girls Basketball: Edmondson-Westside at Mergenthaler
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-lake-clifton-edmondson-westside-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234244Z
+DTSTAMP:20261021T234628Z
 DTSTART;TZID=America/New_York:20270128T160000
 DTEND;TZID=America/New_York:20270128T180000
 SUMMARY:Girls Basketball: Edmondson-Westside at Lake Clifton
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-edmondson-westside-paul-laurence-dunbar-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234244Z
+DTSTAMP:20261021T234628Z
 DTSTART;TZID=America/New_York:20270202T171500
 DTEND;TZID=America/New_York:20270202T191500
 SUMMARY:Girls Basketball: Paul Laurence Dunbar at Edmondson-Westside
@@ -92,7 +92,7 @@ LOCATION:Edmondson-Westside
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-patterson-edmondson-westside-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234244Z
+DTSTAMP:20261021T234628Z
 DTSTART;TZID=America/New_York:20270204T171500
 DTEND;TZID=America/New_York:20270204T191500
 SUMMARY:Girls Basketball: Edmondson-Westside at Patterson
@@ -102,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-edmondson-westside-baltimore-polytechnic-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234244Z
+DTSTAMP:20261021T234628Z
 DTSTART;TZID=America/New_York:20270209T171500
 DTEND;TZID=America/New_York:20270209T191500
 SUMMARY:Girls Basketball: Baltimore Polytechnic at Edmondson-Westside
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-edmondson-westside-carver-vocational-technical-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234244Z
+DTSTAMP:20261021T234628Z
 DTSTART;TZID=America/New_York:20270211T171500
 DTEND;TZID=America/New_York:20270211T191500
 SUMMARY:Girls Basketball: Carver Vocational-Technical at Edmondson-Westside
@@ -122,7 +122,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-forest-park-edmondson-westside-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234244Z
+DTSTAMP:20261021T234628Z
 DTSTART;TZID=America/New_York:20270216T154500
 DTEND;TZID=America/New_York:20270216T174500
 SUMMARY:Girls Basketball: Edmondson-Westside at Forest Park

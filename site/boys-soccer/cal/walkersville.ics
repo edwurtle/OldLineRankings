@@ -6,7 +6,7 @@ X-WR-CALNAME:Walkersville Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-liberty-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261021T233803Z
+DTSTAMP:20261021T234502Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Boys Soccer: Walkersville at Liberty
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-walkersville-linganore-boys-soccer@oldlinerankings
-DTSTAMP:20261021T233803Z
+DTSTAMP:20261021T234502Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Boys Soccer: Linganore at Walkersville
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-francis-scott-key-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261021T233803Z
+DTSTAMP:20261021T234502Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Walkersville at Francis Scott Key
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Walkersville 4\, Francis Scott Key 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-clear-spring-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261021T233803Z
+DTSTAMP:20261021T234502Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Boys Soccer: Walkersville at Clear Spring
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-middletown-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261021T233803Z
+DTSTAMP:20261021T234502Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Boys Soccer: Walkersville at Middletown
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-smithsburg-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261021T233803Z
+DTSTAMP:20261021T234502Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Walkersville at Smithsburg
@@ -64,7 +64,7 @@ DESCRIPTION:Final: Walkersville 3\, Smithsburg 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-brunswick-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261021T233803Z
+DTSTAMP:20261021T234502Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Boys Soccer: Walkersville at Brunswick
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-catoctin-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261021T233803Z
+DTSTAMP:20261021T234502Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Boys Soccer: Walkersville at Catoctin
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-boonsboro-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261021T233803Z
+DTSTAMP:20261021T234502Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Walkersville at Boonsboro
@@ -93,7 +93,7 @@ DESCRIPTION:Final: Walkersville 5\, Boonsboro 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-walkersville-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261021T233803Z
+DTSTAMP:20261021T234502Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Boys Soccer: Williamsport at Walkersville
@@ -103,7 +103,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-south-carroll-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261021T233803Z
+DTSTAMP:20261021T234502Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Walkersville at South Carroll
@@ -112,7 +112,7 @@ DESCRIPTION:Final: Walkersville 0\, South Carroll 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-walkersville-manchester-valley-boys-soccer@oldlinerankings
-DTSTAMP:20261021T233803Z
+DTSTAMP:20261021T234502Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Manchester Valley at Walkersville
