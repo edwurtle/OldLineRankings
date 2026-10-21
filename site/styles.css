@@ -319,6 +319,8 @@ td.team-td { white-space: normal; width: 100%; }  /* the only column allowed to 
 /* Footer: Old Line Rankings home + sport switcher */
 .footer .family-home { color: var(--ink); font-weight: 700; }
 .footer .family-home:hover { color: var(--md-gold); }
+.footer .contact { color: var(--ink); font-weight: 600; }
+.footer .contact:hover { color: var(--md-gold); text-decoration: underline; }
 .family { display: flex; gap: 6px; flex-wrap: wrap; }
 .family a, .family > span { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 999px; border: 1px solid #2c2c2c; color: var(--ink-muted); white-space: nowrap; }
 .family a:hover { color: var(--ink); border-color: #4a4a4a; }

@@ -6,7 +6,7 @@ X-WR-CALNAME:Bethesda-CC Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-northwest-bethesda-cc-girls-soccer@oldlinerankings
-DTSTAMP:20261021T231957Z
+DTSTAMP:20261021T233921Z
 DTSTART;TZID=America/New_York:20260908T191500
 DTEND;TZID=America/New_York:20260908T211500
 SUMMARY:Girls Soccer: Bethesda-CC at Northwest
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-thomas-s-wootton-bethesda-cc-girls-soccer@oldlinerankings
-DTSTAMP:20261021T231957Z
+DTSTAMP:20261021T233921Z
 DTSTART;TZID=America/New_York:20260914T191500
 DTEND;TZID=America/New_York:20260914T211500
 SUMMARY:Girls Soccer: Bethesda-CC at Thomas S. Wootton
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-bethesda-cc-winston-churchill-girls-soccer@oldlinerankings
-DTSTAMP:20261021T231957Z
+DTSTAMP:20261021T233921Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Girls Soccer: Winston Churchill at Bethesda-CC
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Bethesda-CC 0\, Winston Churchill 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-bethesda-cc-walter-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261021T231957Z
+DTSTAMP:20261021T233921Z
 DTSTART;TZID=America/New_York:20260924T191500
 DTEND;TZID=America/New_York:20260924T211500
 SUMMARY:Girls Soccer: Walter Johnson at Bethesda-CC
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-bethesda-cc-walt-whitman-girls-soccer@oldlinerankings
-DTSTAMP:20261021T231957Z
+DTSTAMP:20261021T233921Z
 DTSTART;TZID=America/New_York:20260928T191500
 DTEND;TZID=America/New_York:20260928T211500
 SUMMARY:Girls Soccer: Walt Whitman at Bethesda-CC
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-bethesda-cc-quince-orchard-girls-soccer@oldlinerankings
-DTSTAMP:20261021T231957Z
+DTSTAMP:20261021T233921Z
 DTSTART;TZID=America/New_York:20261005T191500
 DTEND;TZID=America/New_York:20261005T211500
 SUMMARY:Girls Soccer: Quince Orchard at Bethesda-CC
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-watkins-mill-bethesda-cc-girls-soccer@oldlinerankings
-DTSTAMP:20261021T231957Z
+DTSTAMP:20261021T233921Z
 DTSTART;TZID=America/New_York:20261006T191500
 DTEND;TZID=America/New_York:20261006T211500
 SUMMARY:Girls Soccer: Bethesda-CC at Watkins Mill
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-bethesda-cc-gaithersburg-girls-soccer@oldlinerankings
-DTSTAMP:20261021T231957Z
+DTSTAMP:20261021T233921Z
 DTSTART;TZID=America/New_York:20261009T191500
 DTEND;TZID=America/New_York:20261009T211500
 SUMMARY:Girls Soccer: Gaithersburg at Bethesda-CC
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-bethesda-cc-albert-einstein-girls-soccer@oldlinerankings
-DTSTAMP:20261021T231957Z
+DTSTAMP:20261021T233921Z
 DTSTART;TZID=America/New_York:20261012T191500
 DTEND;TZID=America/New_York:20261012T211500
 SUMMARY:Girls Soccer: Albert Einstein at Bethesda-CC
@@ -95,7 +95,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-bethesda-cc-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261021T231957Z
+DTSTAMP:20261021T233921Z
 DTSTART;TZID=America/New_York:20261014T191500
 DTEND;TZID=America/New_York:20261014T211500
 SUMMARY:Girls Soccer: Montgomery Blair at Bethesda-CC
@@ -105,7 +105,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-northwood-bethesda-cc-girls-soccer@oldlinerankings
-DTSTAMP:20261021T231957Z
+DTSTAMP:20261021T233921Z
 DTSTART;TZID=America/New_York:20261019T171500
 DTEND;TZID=America/New_York:20261019T191500
 SUMMARY:Girls Soccer: Bethesda-CC at Northwood
@@ -115,7 +115,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-bethesda-cc-wheaton-girls-soccer@oldlinerankings
-DTSTAMP:20261021T231957Z
+DTSTAMP:20261021T233921Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
 SUMMARY:Girls Soccer: Wheaton at Bethesda-CC
