@@ -6,7 +6,7 @@ X-WR-CALNAME:South Hagerstown Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-catoctin-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261021T235115Z
+DTSTAMP:20261021T235547Z
 DTSTART;TZID=America/New_York:20260908T180000
 DTEND;TZID=America/New_York:20260908T200000
 SUMMARY:Girls Soccer: South Hagerstown at Catoctin
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-williamsport-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261021T235115Z
+DTSTAMP:20261021T235547Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: South Hagerstown at Williamsport
@@ -25,7 +25,7 @@ DESCRIPTION:Final: South Hagerstown 0\, Williamsport 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-tuscarora-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261021T235115Z
+DTSTAMP:20261021T235547Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Girls Soccer: South Hagerstown at Tuscarora
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-frederick-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261021T235115Z
+DTSTAMP:20261021T235547Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: South Hagerstown at Frederick
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-oakdale-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261021T235115Z
+DTSTAMP:20261021T235547Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Girls Soccer: South Hagerstown at Oakdale
@@ -54,7 +54,7 @@ DESCRIPTION:Final: South Hagerstown 0\, Oakdale 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-gov-thomas-johnson-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261021T235115Z
+DTSTAMP:20261021T235547Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: South Hagerstown at Gov. Thomas Johnson
@@ -63,7 +63,7 @@ DESCRIPTION:Final: South Hagerstown 0\, Gov. Thomas Johnson 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-north-hagerstown-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261021T235115Z
+DTSTAMP:20261021T235547Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: South Hagerstown at North Hagerstown
@@ -72,7 +72,7 @@ DESCRIPTION:Final: South Hagerstown 0\, North Hagerstown 12
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-linganore-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261021T235115Z
+DTSTAMP:20261021T235547Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: South Hagerstown at Linganore
@@ -81,7 +81,7 @@ DESCRIPTION:Final: South Hagerstown 0\, Linganore 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-urbana-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261021T235115Z
+DTSTAMP:20261021T235547Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Girls Soccer: South Hagerstown at Urbana
@@ -90,7 +90,7 @@ DESCRIPTION:Final: South Hagerstown 0\, Urbana 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-francis-scott-key-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261021T235115Z
+DTSTAMP:20261021T235547Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: South Hagerstown at Francis Scott Key
@@ -99,7 +99,7 @@ DESCRIPTION:Final: South Hagerstown 0\, Francis Scott Key 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-boonsboro-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261021T235115Z
+DTSTAMP:20261021T235547Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: South Hagerstown at Boonsboro
@@ -108,7 +108,7 @@ DESCRIPTION:Final: South Hagerstown 0\, Boonsboro 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-clear-spring-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261021T235115Z
+DTSTAMP:20261021T235547Z
 DTSTART;TZID=America/New_York:20261022T180000
 DTEND;TZID=America/New_York:20261022T200000
 SUMMARY:Girls Soccer: South Hagerstown at Clear Spring
