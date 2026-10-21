@@ -6,7 +6,7 @@ X-WR-CALNAME:North Point Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-calvert-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261021T234527Z
+DTSTAMP:20261021T235115Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: North Point at Calvert
@@ -15,7 +15,7 @@ DESCRIPTION:Final: North Point 0\, Calvert 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-mcdonough-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261021T234527Z
+DTSTAMP:20261021T235115Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Girls Soccer: North Point at McDonough
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-patuxent-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261021T234527Z
+DTSTAMP:20261021T235115Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: North Point at Patuxent
@@ -34,7 +34,7 @@ DESCRIPTION:Final: North Point 5\, Patuxent 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-chopticon-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261021T234527Z
+DTSTAMP:20261021T235115Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: North Point at Chopticon
@@ -43,7 +43,7 @@ DESCRIPTION:Final: North Point 5\, Chopticon 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-north-point-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261021T234527Z
+DTSTAMP:20261021T235115Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Leonardtown at North Point
@@ -52,7 +52,7 @@ DESCRIPTION:Final: North Point 0\, Leonardtown 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-great-mills-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261021T234527Z
+DTSTAMP:20261021T235115Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Girls Soccer: North Point at Great Mills
@@ -62,7 +62,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-north-point-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261021T234527Z
+DTSTAMP:20261021T235115Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Girls Soccer: Bowie at North Point
@@ -72,7 +72,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-la-plata-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261021T234527Z
+DTSTAMP:20261021T235115Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Girls Soccer: North Point at La Plata
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-st-charles-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261021T234527Z
+DTSTAMP:20261021T235115Z
 DTSTART;TZID=America/New_York:20261008T181500
 DTEND;TZID=America/New_York:20261008T201500
 SUMMARY:Girls Soccer: North Point at St. Charles
@@ -92,7 +92,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-henry-e-lackey-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261021T234527Z
+DTSTAMP:20261021T235115Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: North Point at Henry E. Lackey
@@ -101,7 +101,7 @@ DESCRIPTION:Final: North Point 3\, Henry E. Lackey 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-westlake-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261021T234527Z
+DTSTAMP:20261021T235115Z
 DTSTART;TZID=America/New_York:20261021T181500
 DTEND;TZID=America/New_York:20261021T201500
 SUMMARY:Girls Soccer: North Point at Westlake

@@ -6,7 +6,7 @@ X-WR-CALNAME:Easton Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2027-01-20-st-peter-and-paul-easton-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270120T183000
 DTEND;TZID=America/New_York:20270120T203000
 SUMMARY:Boys Basketball: Easton at St. Peter & Paul
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-wicomico-easton-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270212T180000
 DTEND;TZID=America/New_York:20270212T200000
 SUMMARY:Boys Basketball: Easton at Wicomico

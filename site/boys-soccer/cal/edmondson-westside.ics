@@ -6,7 +6,7 @@ X-WR-CALNAME:Edmondson-Westside Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-edmondson-westside-baltimore-city-college-boys-soccer@oldlinerankings
-DTSTAMP:20261021T234502Z
+DTSTAMP:20261021T235005Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Baltimore City College at Edmondson-Westside
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Edmondson-Westside 1\, Baltimore City College 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-edmondson-westside-baltimore-polytechnic-boys-soccer@oldlinerankings
-DTSTAMP:20261021T234502Z
+DTSTAMP:20261021T235005Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Baltimore Polytechnic at Edmondson-Westside
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Edmondson-Westside 0\, Baltimore Polytechnic 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-benjamin-franklin-edmondson-westside-boys-soccer@oldlinerankings
-DTSTAMP:20261021T234502Z
+DTSTAMP:20261021T235005Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Edmondson-Westside at Benjamin Franklin
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Edmondson-Westside -\, Benjamin Franklin -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-edmondson-westside-national-academy-foundation-naf-boys-soccer@oldlinerankings
-DTSTAMP:20261021T234502Z
+DTSTAMP:20261021T235005Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: National Academy Foundation (NAF) at Edmondson-Westside
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Edmondson-Westside -\, National Academy Foundation (NAF) -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-edmondson-westside-paul-laurence-dunbar-boys-soccer@oldlinerankings
-DTSTAMP:20261021T234502Z
+DTSTAMP:20261021T235005Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Paul Laurence Dunbar at Edmondson-Westside
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Edmondson-Westside 3\, Paul Laurence Dunbar 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-benjamin-franklin-edmondson-westside-boys-soccer@oldlinerankings
-DTSTAMP:20261021T234502Z
+DTSTAMP:20261021T235005Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Edmondson-Westside at Benjamin Franklin
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Edmondson-Westside 4\, Benjamin Franklin 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-edmondson-westside-national-academy-foundation-naf-boys-soccer@oldlinerankings
-DTSTAMP:20261021T234502Z
+DTSTAMP:20261021T235005Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: National Academy Foundation (NAF) at Edmondson-Westside
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Edmondson-Westside -\, National Academy Foundation (NAF) -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-edmondson-westside-paul-laurence-dunbar-boys-soccer@oldlinerankings
-DTSTAMP:20261021T234502Z
+DTSTAMP:20261021T235005Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: Paul Laurence Dunbar at Edmondson-Westside
@@ -78,7 +78,7 @@ DESCRIPTION:Final: Edmondson-Westside 1\, Paul Laurence Dunbar 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-edmondson-westside-digital-harbor-boys-soccer@oldlinerankings
-DTSTAMP:20261021T234502Z
+DTSTAMP:20261021T235005Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Digital Harbor at Edmondson-Westside

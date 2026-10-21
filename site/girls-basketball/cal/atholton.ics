@@ -6,7 +6,7 @@ X-WR-CALNAME:Atholton Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-24-atholton-winters-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261124T173000
 DTEND;TZID=America/New_York:20261124T193000
 SUMMARY:Girls Basketball: Winters Mill at Atholton
@@ -14,7 +14,7 @@ LOCATION:Atholton
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-northeast-aa-atholton-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T200000
 SUMMARY:Girls Basketball: Atholton at Northeast-AA
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-atholton-long-reach-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261204T180000
 DTEND;TZID=America/New_York:20261204T200000
 SUMMARY:Girls Basketball: Long Reach at Atholton
@@ -32,7 +32,7 @@ LOCATION:Atholton
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-marriotts-ridge-atholton-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261207T173000
 DTEND;TZID=America/New_York:20261207T193000
 SUMMARY:Girls Basketball: Atholton at Marriotts Ridge
@@ -40,7 +40,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-atholton-river-hill-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261209T173000
 DTEND;TZID=America/New_York:20261209T193000
 SUMMARY:Girls Basketball: River Hill at Atholton
@@ -48,7 +48,7 @@ LOCATION:Atholton
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-glenelg-atholton-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261211T180000
 DTEND;TZID=America/New_York:20261211T200000
 SUMMARY:Girls Basketball: Atholton at Glenelg
@@ -58,7 +58,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-reservoir-atholton-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261214T173000
 DTEND;TZID=America/New_York:20261214T193000
 SUMMARY:Girls Basketball: Atholton at Reservoir
@@ -66,7 +66,7 @@ LOCATION:Reservoir
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-atholton-hammond-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Girls Basketball: Hammond at Atholton

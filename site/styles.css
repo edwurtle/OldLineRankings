@@ -534,14 +534,6 @@ body.embed .drawer { width: 100%; box-shadow: none; transition: none; }
 .gw-tix:hover { border-color: var(--text); }
 
 /* Splash: where the name comes from */
-.origin { display: grid; grid-template-columns: 180px 1fr; gap: 24px; align-items: center; margin-top: 8px; padding: 22px; border-radius: 18px;
-  background: var(--surface); border: 1px solid var(--border); box-shadow: var(--shadow); }
-.origin .origin-flag { aspect-ratio: 3 / 2; border-radius: 10px; overflow: hidden; }
-.origin .origin-flag img { width: 100%; height: 100%; display: block; object-fit: cover; }
-.origin h2 { margin: 0 0 8px; font-family: "Barlow Condensed", sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase; }
-.origin p { margin: 0 0 8px; color: var(--muted); line-height: 1.6; }
-.origin a { color: var(--accent-ink); font-weight: 600; }
-@media (max-width: 640px) { .origin { grid-template-columns: 1fr; } .origin .origin-flag { max-width: 180px; } }
 
 /* Bracket detail lines and the "Projected" chip + panel */
 .proj-pop { position: absolute; z-index: 60; width: 300px; max-width: calc(100vw - 16px); padding: 12px 14px; border-radius: 12px; background: var(--surface);

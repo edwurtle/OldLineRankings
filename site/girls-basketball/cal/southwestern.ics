@@ -6,7 +6,7 @@ X-WR-CALNAME:Southwestern Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-reginald-lewis-southwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261210T171500
 DTEND;TZID=America/New_York:20261210T191500
 SUMMARY:Girls Basketball: Southwestern at Reginald Lewis
@@ -14,7 +14,7 @@ LOCATION:Reginald Lewis
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-southwestern-coppin-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261217T171500
 DTEND;TZID=America/New_York:20261217T191500
 SUMMARY:Girls Basketball: Coppin Academy at Southwestern
@@ -22,7 +22,7 @@ LOCATION:Southwestern
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-acce-southwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261222T171500
 DTEND;TZID=America/New_York:20261222T191500
 SUMMARY:Girls Basketball: Southwestern at ACCE
@@ -32,7 +32,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-southwestern-city-neighbors-charter-school-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270107T171500
 DTEND;TZID=America/New_York:20270107T191500
 SUMMARY:Girls Basketball: City Neighbors Charter School at Southwestern
@@ -42,7 +42,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-patterson-southwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Girls Basketball: Southwestern at Patterson
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-southwestern-national-academy-foundation-naf-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270119T171500
 DTEND;TZID=America/New_York:20270119T191500
 SUMMARY:Girls Basketball: National Academy Foundation (NAF) at Southwestern
@@ -62,7 +62,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-green-street-academy-southwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270121T171500
 DTEND;TZID=America/New_York:20270121T191500
 SUMMARY:Girls Basketball: Southwestern at Green Street Academy
@@ -70,7 +70,7 @@ LOCATION:Green Street Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-coppin-academy-southwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270128T171500
 DTEND;TZID=America/New_York:20270128T191500
 SUMMARY:Girls Basketball: Southwestern at Coppin Academy
@@ -78,7 +78,7 @@ LOCATION:Coppin Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-national-academy-foundation-naf-southwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270209T171500
 DTEND;TZID=America/New_York:20270209T191500
 SUMMARY:Girls Basketball: Southwestern at National Academy Foundation (NAF)
@@ -86,7 +86,7 @@ LOCATION:National Academy Foundation (NAF)
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-frederick-douglass-b-southwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270211T171500
 DTEND;TZID=America/New_York:20270211T191500
 SUMMARY:Girls Basketball: Southwestern at Frederick Douglass-B

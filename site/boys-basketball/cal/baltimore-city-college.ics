@@ -6,7 +6,7 @@ X-WR-CALNAME:Baltimore City College Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-05-baltimore-city-college-indian-creek-upper-school-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20261205T173000
 DTEND;TZID=America/New_York:20261205T193000
 SUMMARY:Boys Basketball: Indian Creek Upper School at Baltimore City College
@@ -14,7 +14,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-digital-harbor-baltimore-city-college-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20261210T171500
 DTEND;TZID=America/New_York:20261210T191500
 SUMMARY:Boys Basketball: Baltimore City College at Digital Harbor
@@ -22,7 +22,7 @@ LOCATION:Digital Harbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-paul-laurence-dunbar-baltimore-city-college-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20261217T171500
 DTEND;TZID=America/New_York:20261217T191500
 SUMMARY:Boys Basketball: Baltimore City College at Paul Laurence Dunbar
@@ -30,7 +30,7 @@ LOCATION:Paul Laurence Dunbar
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-baltimore-city-college-benjamin-franklin-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20261222T171500
 DTEND;TZID=America/New_York:20261222T191500
 SUMMARY:Boys Basketball: Benjamin Franklin at Baltimore City College
@@ -38,7 +38,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-springdale-preparatory-school-baltimore-city-college-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270108T183000
 DTEND;TZID=America/New_York:20270108T203000
 SUMMARY:Boys Basketball: Baltimore City College at Springdale Preparatory School
@@ -48,7 +48,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-baltimore-city-college-roosevelt-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270109T160000
 DTEND;TZID=America/New_York:20270109T180000
 SUMMARY:Boys Basketball: Roosevelt at Baltimore City College
@@ -58,7 +58,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-baltimore-city-college-forest-park-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Boys Basketball: Forest Park at Baltimore City College
@@ -66,7 +66,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-carver-vocational-technical-baltimore-city-college-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270114T171500
 DTEND;TZID=America/New_York:20270114T191500
 SUMMARY:Boys Basketball: Baltimore City College at Carver Vocational-Technical
@@ -74,7 +74,7 @@ LOCATION:Carver Vocational-Technical
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-baltimore-city-college-baltimore-polytechnic-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270119T171500
 DTEND;TZID=America/New_York:20270119T191500
 SUMMARY:Boys Basketball: Baltimore Polytechnic at Baltimore City College
@@ -82,7 +82,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-baltimore-city-college-edmondson-westside-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270126T171500
 DTEND;TZID=America/New_York:20270126T191500
 SUMMARY:Boys Basketball: Edmondson-Westside at Baltimore City College
@@ -90,7 +90,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-mergenthaler-baltimore-city-college-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270128T171500
 DTEND;TZID=America/New_York:20270128T191500
 SUMMARY:Boys Basketball: Baltimore City College at Mergenthaler
@@ -98,7 +98,7 @@ LOCATION:Mergenthaler
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-baltimore-city-college-lake-clifton-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270202T171500
 DTEND;TZID=America/New_York:20270202T191500
 SUMMARY:Boys Basketball: Lake Clifton at Baltimore City College
@@ -106,7 +106,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-baltimore-city-college-seed-school-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270204T171500
 DTEND;TZID=America/New_York:20270204T191500
 SUMMARY:Boys Basketball: SEED School at Baltimore City College
@@ -114,7 +114,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-forest-park-baltimore-city-college-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270209T171500
 DTEND;TZID=America/New_York:20270209T191500
 SUMMARY:Boys Basketball: Baltimore City College at Forest Park
@@ -124,7 +124,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-baltimore-city-college-paul-laurence-dunbar-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270211T171500
 DTEND;TZID=America/New_York:20270211T191500
 SUMMARY:Boys Basketball: Paul Laurence Dunbar at Baltimore City College
@@ -132,7 +132,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-baltimore-polytechnic-baltimore-city-college-boys-basketball@oldlinerankings
-DTSTAMP:20261021T234556Z
+DTSTAMP:20261021T235240Z
 DTSTART;TZID=America/New_York:20270216T171500
 DTEND;TZID=America/New_York:20270216T191500
 SUMMARY:Boys Basketball: Baltimore City College at Baltimore Polytechnic

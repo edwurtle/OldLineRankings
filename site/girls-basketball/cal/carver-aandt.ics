@@ -6,7 +6,7 @@ X-WR-CALNAME:Carver A&T Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-07-carver-aandt-lansdowne-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261207T160000
 DTEND;TZID=America/New_York:20261207T180000
 SUMMARY:Girls Basketball: Lansdowne at Carver A&T
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-overlea-carver-aandt-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261211T173000
 DTEND;TZID=America/New_York:20261211T193000
 SUMMARY:Girls Basketball: Carver A&T at Overlea
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-carver-aandt-perry-hall-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Girls Basketball: Perry Hall at Carver A&T
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-carver-aandt-parkville-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20261218T173000
 DTEND;TZID=America/New_York:20261218T193000
 SUMMARY:Girls Basketball: Parkville at Carver A&T
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-carver-aandt-sparrows-point-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Girls Basketball: Sparrows Point at Carver A&T
@@ -54,7 +54,7 @@ LOCATION:Carver A&T
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-towson-carver-aandt-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Girls Basketball: Carver A&T at Towson
@@ -62,7 +62,7 @@ LOCATION:Towson
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-carver-aandt-loch-raven-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270111T173000
 DTEND;TZID=America/New_York:20270111T193000
 SUMMARY:Girls Basketball: Loch Raven at Carver A&T
@@ -70,7 +70,7 @@ LOCATION:Carver A&T
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-patapsco-carver-aandt-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
 SUMMARY:Girls Basketball: Carver A&T at Patapsco
@@ -78,7 +78,7 @@ LOCATION:Patapsco
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-kenwood-carver-aandt-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270120T173000
 DTEND;TZID=America/New_York:20270120T193000
 SUMMARY:Girls Basketball: Carver A&T at Kenwood
@@ -88,7 +88,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-perry-hall-carver-aandt-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270122T173000
 DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Girls Basketball: Carver A&T at Perry Hall
@@ -98,7 +98,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-carver-aandt-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Girls Basketball: Eastern Tech at Carver A&T
@@ -106,7 +106,7 @@ LOCATION:Carver A&T
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-carver-aandt-overlea-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270129T173000
 DTEND;TZID=America/New_York:20270129T193000
 SUMMARY:Girls Basketball: Overlea at Carver A&T
@@ -116,7 +116,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-carver-aandt-chesapeake-b-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Girls Basketball: Chesapeake-B at Carver A&T
@@ -124,7 +124,7 @@ LOCATION:Carver A&T
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-parkville-carver-aandt-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270205T173000
 DTEND;TZID=America/New_York:20270205T193000
 SUMMARY:Girls Basketball: Carver A&T at Parkville
@@ -134,7 +134,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-carver-aandt-towson-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Girls Basketball: Towson at Carver A&T
@@ -142,7 +142,7 @@ LOCATION:Carver A&T
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-dundalk-carver-aandt-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270217T173000
 DTEND;TZID=America/New_York:20270217T193000
 SUMMARY:Girls Basketball: Carver A&T at Dundalk
@@ -151,7 +151,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6984131
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-loch-raven-carver-aandt-girls-basketball@oldlinerankings
-DTSTAMP:20261021T234628Z
+DTSTAMP:20261021T235413Z
 DTSTART;TZID=America/New_York:20270219T173000
 DTEND;TZID=America/New_York:20270219T193000
 SUMMARY:Girls Basketball: Carver A&T at Loch Raven
