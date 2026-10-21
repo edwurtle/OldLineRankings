@@ -6,7 +6,7 @@ X-WR-CALNAME:Howard Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-28-georgetown-visitation-prep-school-howard-girls-basketball@oldlinerankings
-DTSTAMP:20261021T082046Z
+DTSTAMP:20261021T211712Z
 DTSTART;TZID=America/New_York:20261128T110000
 DTEND;TZID=America/New_York:20261128T130000
 SUMMARY:Girls Basketball: Howard at Georgetown Visitation Prep School
@@ -14,7 +14,7 @@ LOCATION:Georgetown Visitation Prep School
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-pikesville-howard-girls-basketball@oldlinerankings
-DTSTAMP:20261021T082046Z
+DTSTAMP:20261021T211712Z
 DTSTART;TZID=America/New_York:20261201T173000
 DTEND;TZID=America/New_York:20261201T193000
 SUMMARY:Girls Basketball: Howard at Pikesville
@@ -22,17 +22,17 @@ LOCATION:Pikesville
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-howard-oakland-mills-girls-basketball@oldlinerankings
-DTSTAMP:20261021T082046Z
+DTSTAMP:20261021T211712Z
 DTSTART;TZID=America/New_York:20261207T173000
 DTEND;TZID=America/New_York:20261207T193000
 SUMMARY:Girls Basketball: Oakland Mills at Howard
 LOCATION:Howard
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhoward-high-school-ellicott-city-md%2Fgama4355b73a9\nTickets: https://gofan.co/event/6973586
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhoward-high-school-ellicott-city-md%2Fgama4355b73a9
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhoward-high-school-ellicott-city-md%2Fgama4355b73a9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-centennial-howard-girls-basketball@oldlinerankings
-DTSTAMP:20261021T082046Z
+DTSTAMP:20261021T211712Z
 DTSTART;TZID=America/New_York:20261209T173000
 DTEND;TZID=America/New_York:20261209T193000
 SUMMARY:Girls Basketball: Howard at Centennial
@@ -42,7 +42,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-pikesville-howard-girls-basketball@oldlinerankings
-DTSTAMP:20261021T082046Z
+DTSTAMP:20261021T211712Z
 DTSTART;TZID=America/New_York:20261212T000100
 DTEND;TZID=America/New_York:20261212T020100
 SUMMARY:Girls Basketball: Howard at Pikesville
@@ -52,27 +52,27 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-howard-guilford-park-girls-basketball@oldlinerankings
-DTSTAMP:20261021T082046Z
+DTSTAMP:20261021T211712Z
 DTSTART;TZID=America/New_York:20261214T173000
 DTEND;TZID=America/New_York:20261214T193000
 SUMMARY:Girls Basketball: Guilford Park at Howard
 LOCATION:Howard
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhoward-high-school-ellicott-city-md%2Fgam79869517d0\nTickets: https://gofan.co/event/6973587
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhoward-high-school-ellicott-city-md%2Fgam79869517d0
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhoward-high-school-ellicott-city-md%2Fgam79869517d0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-howard-reservoir-girls-basketball@oldlinerankings
-DTSTAMP:20261021T082046Z
+DTSTAMP:20261021T211712Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Girls Basketball: Reservoir at Howard
 LOCATION:Howard
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhoward-high-school-ellicott-city-md%2Fgam5f1e495fa8\nTickets: https://gofan.co/event/6973589
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhoward-high-school-ellicott-city-md%2Fgam5f1e495fa8
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fhoward-high-school-ellicott-city-md%2Fgam5f1e495fa8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-long-reach-howard-girls-basketball@oldlinerankings
-DTSTAMP:20261021T082046Z
+DTSTAMP:20261021T211712Z
 DTSTART;TZID=America/New_York:20261221T173000
 DTEND;TZID=America/New_York:20261221T193000
 SUMMARY:Girls Basketball: Howard at Long Reach
@@ -80,7 +80,7 @@ LOCATION:Long Reach
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-c-milton-wright-howard-girls-basketball@oldlinerankings
-DTSTAMP:20261021T082046Z
+DTSTAMP:20261021T211712Z
 DTSTART;TZID=America/New_York:20270204T170000
 DTEND;TZID=America/New_York:20270204T190000
 SUMMARY:Girls Basketball: Howard at C. Milton Wright

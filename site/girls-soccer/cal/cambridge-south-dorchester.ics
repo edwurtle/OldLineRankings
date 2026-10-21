@@ -6,7 +6,7 @@ X-WR-CALNAME:Cambridge-South Dorchester Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-kent-county-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at Kent County
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 10\, Kent County 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-mardela-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at Mardela
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 1\, Mardela 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-colonel-richardson-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;TZID=America/New_York:20260910T173000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at Colonel Richardson
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-snow-hill-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at Snow Hill
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 3\, Snow Hill 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-colonel-richardson-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at Colonel Richardson
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 2\, Colonel Richardson 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-cambridge-south-dorchester-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
 SUMMARY:Girls Soccer: Queen Anne's at Cambridge-South Dorchester
@@ -62,7 +62,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-cambridge-south-dorchester-kent-island-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Kent Island at Cambridge-South Dorchester
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 0\, Kent Island 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-kent-county-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at Kent County
@@ -81,7 +81,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-cambridge-south-dorchester-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Easton at Cambridge-South Dorchester
@@ -90,7 +90,7 @@ DESCRIPTION:Final: Cambridge-South Dorchester 7\, Easton 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-cambridge-south-dorchester-north-caroline-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Girls Soccer: North Caroline at Cambridge-South Dorchester
@@ -100,7 +100,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-crisfield-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at Crisfield
@@ -109,11 +109,11 @@ DESCRIPTION:Final: Cambridge-South Dorchester 11\, Crisfield 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-north-dorchester-cambridge-south-dorchester-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Cambridge-South Dorchester at North Dorchester
 LOCATION:North Dorchester
-DESCRIPTION:Final: Cambridge-South Dorchester 6\, North Dorchester 0
+DESCRIPTION:Final: Cambridge-South Dorchester -\, North Dorchester -
 END:VEVENT
 END:VCALENDAR

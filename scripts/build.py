@@ -56,6 +56,9 @@ SOCCER = dict(
     # divide by 9); each region plays down to one champion; the 8 champions are reseeded by it
     # last_date: the bulletin's "last play date for seeding consideration"; later games don't count
     playoffs=dict(seed_by="winpct", min_games=9, region_seeds=8, per_region=1, last_date="2026-10-24"),
+    # Dates whose games MPSSAA's standings leave out (Sat Sep 5: preseason jamborees and showcases, many teams
+    # playing twice); they count for no one's record or rating
+    uncounted_dates=["2026-09-05"],
     # Old Line Rating as for football but on goals: margin capped at 4, no win bonus. Backtested on 2026
     # weeks 3+ (each week from earlier games): boys 73% of winners vs 70% for class+opponent-wins points;
     # girls 68% vs 70% (within noise). k is set per site below.
@@ -195,6 +198,7 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
     entries = collections.defaultdict(list)
     unplayed = {}  # (date, a, b) -> (home team, postponed?)
     times = {}     # (date, a, b) -> start time, where the source has one (ArbiterLive)
+    sides = collections.defaultdict(set)  # (date, a, b) -> schools whose sheets report the result
     for x in raw_games:
         r = RES.get(x["result"])
         # Some games are posted as completed with a score but no result: take the result from the score
@@ -220,6 +224,18 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
                     times[(x["game_date"], a, b)] = x["time"]
             continue
         entries[(x["game_date"], a, b)].append((r, sa, sb, home, (x["result"] or "").startswith("Forfeit")))
+        sides[(x["game_date"], a, b)].add(norm(x["school"]))
+    # The same game is sometimes entered by each school under a different date: two days apart, or the
+    # right day in the wrong month. Two such dates for one matchup with the same result and score, each
+    # reported by a different single school, are one game, dated by the earliest.
+    def misdated(d1, d2):
+        d1, d2 = datetime.date.fromisoformat(d1), datetime.date.fromisoformat(d2)
+        return (d2 - d1).days <= 2 or (d1.day == d2.day and (d2.year * 12 + d2.month) - (d1.year * 12 + d1.month) == 1)
+    top = lambda k: collections.Counter(entries[k]).most_common(1)[0][0][:3]
+    for k1, k2 in sorted((k1, k2) for k1 in entries for k2 in entries if k1[1:] == k2[1:] and k1[0] < k2[0]):
+        if k1 in entries and k2 in entries and misdated(k1[0], k2[0]) and len(sides[k1]) == len(sides[k2]) == 1 \
+                and sides[k1] != sides[k2] and None not in top(k1) and top(k1) == top(k2):
+            del entries[k2]
     if first_meeting_only:
         # Only the first meeting between two teams counts (football bulletin II.A.2.h); this also
         # drops repeat entries the source has under the wrong date. Later scheduled repeats are dropped too.
@@ -412,6 +428,7 @@ def build_site(key, cfg, nonce, stamp):
                 standings = realign(standings, f'{d["gender"].lower()}-{cfg["alignment"]}', nonce)
         if cfg.get("arbiter"):
             raw += arbiter_games(raw, standings, d["gender"].lower(), cfg)
+        raw = [x for x in raw if x["game_date"] not in cfg.get("uncounted_dates", [])]
         fill_scores(raw, SCORE_FIXES.get(key, {}))
         teams = rank_sport(raw, standings, cfg["classes"], cfg.get("first_meeting_only", False))
         for t in teams:

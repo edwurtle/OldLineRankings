@@ -6,17 +6,17 @@ X-WR-CALNAME:Northwood Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-northwood-paint-branch-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;TZID=America/New_York:20260908T191500
 DTEND;TZID=America/New_York:20260908T211500
 SUMMARY:Girls Soccer: Paint Branch at Northwood
 LOCATION:Northwood
-DESCRIPTION:Final: Northwood 2\, Paint Branch 4\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpaint-branch-high-school-burtonsville-md%2Fgam05d4f0875d
+DESCRIPTION:Final: Northwood -\, Paint Branch -\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpaint-branch-high-school-burtonsville-md%2Fgam05d4f0875d
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpaint-branch-high-school-burtonsville-md%2Fgam05d4f0875d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-northwood-watkins-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Watkins Mill at Northwood
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Northwood 5\, Watkins Mill 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-northwood-rockville-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Rockville at Northwood
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Northwood 3\, Rockville 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-john-f-kennedy-northwood-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;TZID=America/New_York:20260916T180000
 DTEND;TZID=America/New_York:20260916T200000
 SUMMARY:Girls Soccer: Northwood at John F. Kennedy
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-northwood-wheaton-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;TZID=America/New_York:20260923T173000
 DTEND;TZID=America/New_York:20260923T193000
 SUMMARY:Girls Soccer: Wheaton at Northwood
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-northwood-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;TZID=America/New_York:20260925T173000
 DTEND;TZID=America/New_York:20260925T193000
 SUMMARY:Girls Soccer: Montgomery Blair at Northwood
@@ -64,17 +64,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-northwood-richard-montgomery-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;TZID=America/New_York:20260929T191500
 DTEND;TZID=America/New_York:20260929T211500
 SUMMARY:Girls Soccer: Richard Montgomery at Northwood
 LOCATION:Northwood
-DESCRIPTION:Final: Northwood 0\, Richard Montgomery 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwood-high-school-silver-spring-md%2Fgam74f03c026f
+DESCRIPTION:Final: Northwood -\, Richard Montgomery -\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwood-high-school-silver-spring-md%2Fgam74f03c026f
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwood-high-school-silver-spring-md%2Fgam74f03c026f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-northwood-albert-einstein-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;TZID=America/New_York:20261005T191500
 DTEND;TZID=America/New_York:20261005T211500
 SUMMARY:Girls Soccer: Albert Einstein at Northwood
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-northwood-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;TZID=America/New_York:20261008T191500
 DTEND;TZID=America/New_York:20261008T211500
 SUMMARY:Girls Soccer: Springbrook at Northwood
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-northwood-thomas-s-wootton-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Thomas S. Wootton at Northwood
@@ -103,25 +103,17 @@ DESCRIPTION:Final: Northwood 0\, Thomas S. Wootton 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-northwood-bethesda-cc-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;TZID=America/New_York:20261019T171500
 DTEND;TZID=America/New_York:20261019T191500
 SUMMARY:Girls Soccer: Bethesda-CC at Northwood
 LOCATION:Northwood
-DESCRIPTION:Final: Northwood 0\, Bethesda-CC 8\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwood-high-school-silver-spring-md%2Fgam21beb42008
+DESCRIPTION:Final: Northwood -\, Bethesda-CC -\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwood-high-school-silver-spring-md%2Fgam21beb42008
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorthwood-high-school-silver-spring-md%2Fgam21beb42008
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-16-northwood-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Girls Soccer: John F. Kennedy at Northwood
-LOCATION:Northwood
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-23-northwood-james-hubert-blake-girls-soccer@oldlinerankings
-DTSTAMP:20261021T081918Z
+DTSTAMP:20261021T211529Z
 DTSTART;TZID=America/New_York:20261023T171500
 DTEND;TZID=America/New_York:20261023T191500
 SUMMARY:Girls Soccer: James Hubert Blake at Northwood

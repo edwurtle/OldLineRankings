@@ -20,6 +20,9 @@ Old `#/…` links are rewritten to the new addresses.
 - **Loss:** 0
 - Opponent wins count their ties as half a win. Non-public / out-of-state opponents = lowest class, 0 wins.
 - Football counts only the first meeting between two teams (MPSSAA football bulletin).
+- Soccer leaves out Sat Sep 5 (preseason jamborees and showcases; MPSSAA's standings don't count them), set by
+  `uncounted_dates`. One game entered by each school under different dates (2 days apart, or the same day a
+  month off) with the same score counts once.
 - Soccer's Old Line Rating = total points ÷ games played, ranked within class. For football the same formula
   is the MPSSAA points (football's Old Line Rating is margin-based; see below).
 - SOS (strength of schedule) = the rating a team would have if it had won every game.

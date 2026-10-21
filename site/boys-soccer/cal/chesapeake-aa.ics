@@ -6,7 +6,7 @@ X-WR-CALNAME:Chesapeake-AA Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-linganore-chesapeake-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20260904T190000
 DTEND;TZID=America/New_York:20260904T210000
 SUMMARY:Boys Soccer: Chesapeake-AA at Linganore
@@ -15,18 +15,8 @@ DESCRIPTION:Final: Chesapeake-AA 1\, Linganore 2\nWatch: https://nfhs-network.px
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fchesapeake-high-school-pasadena-md%2Fgamdcf81826da
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-05-oakdale-chesapeake-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
-DTSTART;TZID=America/New_York:20260905T190000
-DTEND;TZID=America/New_York:20260905T210000
-SUMMARY:Boys Soccer: Chesapeake-AA at Oakdale
-LOCATION:Oakdale
-DESCRIPTION:Final: Chesapeake-AA 1\, Oakdale 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam7bd566bf07
-URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Foakdale-high-school-ijamsville-md%2Fgam7bd566bf07
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-09-08-chesapeake-aa-northeast-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Northeast-AA at Chesapeake-AA
@@ -35,7 +25,7 @@ DESCRIPTION:Final: Chesapeake-AA 2\, Northeast-AA 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-chesapeake-aa-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: North County at Chesapeake-AA
@@ -44,7 +34,7 @@ DESCRIPTION:Final: Chesapeake-AA 5\, North County 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-chesapeake-science-point-chesapeake-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T190000
 SUMMARY:Boys Soccer: Chesapeake-AA at Chesapeake Science Point
@@ -54,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-chesapeake-aa-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Crofton at Chesapeake-AA
@@ -64,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-chesapeake-aa-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20260929T170000
 DTEND;TZID=America/New_York:20260929T190000
 SUMMARY:Boys Soccer: Meade at Chesapeake-AA
@@ -74,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-chesapeake-aa-arundel-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Boys Soccer: Arundel at Chesapeake-AA
@@ -84,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-chesapeake-aa-glen-burnie-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Boys Soccer: Glen Burnie at Chesapeake-AA
@@ -94,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-chesapeake-aa-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Severna Park at Chesapeake-AA
@@ -104,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-chesapeake-aa-old-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Old Mill at Chesapeake-AA
@@ -113,7 +103,7 @@ DESCRIPTION:Final: Chesapeake-AA 9\, Old Mill 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-chesapeake-aa-broadneck-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Broadneck at Chesapeake-AA
@@ -123,7 +113,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-chesapeake-aa-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Boys Soccer: South River at Chesapeake-AA
@@ -133,7 +123,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-chesapeake-aa-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Annapolis at Chesapeake-AA

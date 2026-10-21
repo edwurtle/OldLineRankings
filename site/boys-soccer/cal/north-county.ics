@@ -5,26 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:North County Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:2026-09-05-north-county-south-carroll-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:Boys Soccer: South Carroll at North County
-LOCATION:North County
-DESCRIPTION:Final: North County 1\, South Carroll 2
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-05-north-county-eleanor-roosevelt-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:Boys Soccer: Eleanor Roosevelt at North County
-LOCATION:North County
-DESCRIPTION:Final: North County 1\, Eleanor Roosevelt 3
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-09-09-north-county-saints-peter-and-paul-high-school-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20260909T155000
 DTEND;TZID=America/New_York:20260909T175000
 SUMMARY:Boys Soccer: Saints Peter and Paul High School at North County
@@ -34,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-chesapeake-aa-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: North County at Chesapeake-AA
@@ -43,7 +25,7 @@ DESCRIPTION:Final: North County 0\, Chesapeake-AA 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-north-county-severn-school-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Severn School at North County
@@ -52,7 +34,7 @@ DESCRIPTION:Final: North County 2\, Severn School 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-arundel-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: North County at Arundel
@@ -62,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-north-county-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20260929T170000
 DTEND;TZID=America/New_York:20260929T190000
 SUMMARY:Boys Soccer: Crofton at North County
@@ -72,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-southern-aa-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: North County at Southern-AA
@@ -81,7 +63,7 @@ DESCRIPTION:Final: North County 0\, Southern-AA 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-severna-park-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Boys Soccer: North County at Severna Park
@@ -91,7 +73,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-old-mill-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: North County at Old Mill
@@ -101,7 +83,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-north-county-broadneck-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Boys Soccer: Broadneck at North County
@@ -111,7 +93,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-severn-run-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: North County at Severn Run
@@ -121,7 +103,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-northeast-aa-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261020T164500
 DTEND;TZID=America/New_York:20261020T184500
 SUMMARY:Boys Soccer: North County at Northeast-AA
@@ -131,7 +113,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-northeast-aa-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: North County at Northeast-AA
@@ -139,7 +121,7 @@ LOCATION:Northeast-AA
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-south-river-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: North County at South River

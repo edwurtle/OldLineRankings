@@ -6,7 +6,7 @@ X-WR-CALNAME:Catonsville Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-30-towson-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20261130T173000
 DTEND;TZID=America/New_York:20261130T193000
 SUMMARY:Boys Basketball: Catonsville at Towson
@@ -14,7 +14,7 @@ LOCATION:Towson
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-sparrows-point-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20261204T173000
 DTEND;TZID=America/New_York:20261204T193000
 SUMMARY:Boys Basketball: Catonsville at Sparrows Point
@@ -24,147 +24,147 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-catonsville-milford-mill-academy-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20261209T173000
 DTEND;TZID=America/New_York:20261209T193000
 SUMMARY:Boys Basketball: Milford Mill Academy at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam35fe286d44
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam35fe286d44\nTickets: https://gofan.co/event/6985649
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam35fe286d44
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-catonsville-woodlawn-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20261212T143000
 DTEND;TZID=America/New_York:20261212T163000
 SUMMARY:Boys Basketball: Woodlawn at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam0a7837a633
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam0a7837a633\nTickets: https://gofan.co/event/6985650
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam0a7837a633
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-catonsville-crofton-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20261214T173000
 DTEND;TZID=America/New_York:20261214T193000
 SUMMARY:Boys Basketball: Crofton at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam73b3ceafbb
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam73b3ceafbb\nTickets: https://gofan.co/event/6985651
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam73b3ceafbb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-woodlawn-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Boys Basketball: Catonsville at Woodlawn
 LOCATION:Woodlawn
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwoodlawn-high-school-baltimore-md%2Fgamb54cf926ba
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwoodlawn-high-school-baltimore-md%2Fgamb54cf926ba\nTickets: https://gofan.co/event/6985659
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwoodlawn-high-school-baltimore-md%2Fgamb54cf926ba
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-new-town-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20261218T173000
 DTEND;TZID=America/New_York:20261218T193000
 SUMMARY:Boys Basketball: Catonsville at New Town
 LOCATION:New Town
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnew-town-high-school-owings-mills-md%2Fgam79c1c9a732
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnew-town-high-school-owings-mills-md%2Fgam79c1c9a732\nTickets: https://gofan.co/event/6985660
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnew-town-high-school-owings-mills-md%2Fgam79c1c9a732
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-randallstown-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Boys Basketball: Catonsville at Randallstown
 LOCATION:Randallstown
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frandallstown-high-school-randallstown-md%2Fgam2329a0e814
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frandallstown-high-school-randallstown-md%2Fgam2329a0e814\nTickets: https://gofan.co/event/6985661
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Frandallstown-high-school-randallstown-md%2Fgam2329a0e814
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-catonsville-western-tech-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Boys Basketball: Western Tech at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam61c43c7d17
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam61c43c7d17\nTickets: https://gofan.co/event/6985652
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam61c43c7d17
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-lansdowne-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20270111T173000
 DTEND;TZID=America/New_York:20270111T193000
 SUMMARY:Boys Basketball: Catonsville at Lansdowne
 LOCATION:Lansdowne
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam624d19132c
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam624d19132c\nTickets: https://gofan.co/event/6985662
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flansdowne-high-school-baltimore-md%2Fgam624d19132c
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-catonsville-pikesville-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
 SUMMARY:Boys Basketball: Pikesville at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam2887ebac41
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam2887ebac41\nTickets: https://gofan.co/event/6985653
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam2887ebac41
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-catonsville-hereford-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20270120T173000
 DTEND;TZID=America/New_York:20270120T193000
 SUMMARY:Boys Basketball: Hereford at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam97c7071f27
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam97c7071f27\nTickets: https://gofan.co/event/6985654
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam97c7071f27
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-franklin-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Boys Basketball: Catonsville at Franklin
 LOCATION:Franklin
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffranklin-high-school-reisterstown-md%2Fgam7b5098949f
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffranklin-high-school-reisterstown-md%2Fgam7b5098949f\nTickets: https://gofan.co/event/6985663
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffranklin-high-school-reisterstown-md%2Fgam7b5098949f
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-milford-mill-academy-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20270129T173000
 DTEND;TZID=America/New_York:20270129T193000
 SUMMARY:Boys Basketball: Catonsville at Milford Mill Academy
 LOCATION:Milford Mill Academy
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgam919543a759
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgam919543a759\nTickets: https://gofan.co/event/6985664
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fmilford-mill-academy-baltimore-md%2Fgam919543a759
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-dulaney-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Boys Basketball: Catonsville at Dulaney
 LOCATION:Dulaney
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdulaney-high-school-timonium-md%2Fgamb3d1cf2a8b
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdulaney-high-school-timonium-md%2Fgamb3d1cf2a8b\nTickets: https://gofan.co/event/6985668
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fdulaney-high-school-timonium-md%2Fgamb3d1cf2a8b
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-catonsville-new-town-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20270205T173000
 DTEND;TZID=America/New_York:20270205T193000
 SUMMARY:Boys Basketball: New Town at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam9bbd9b17f6
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam9bbd9b17f6\nTickets: https://gofan.co/event/6985655
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam9bbd9b17f6
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-loch-raven-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20270208T173000
 DTEND;TZID=America/New_York:20270208T193000
 SUMMARY:Boys Basketball: Catonsville at Loch Raven
@@ -174,32 +174,32 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-catonsville-lansdowne-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20270210T173000
 DTEND;TZID=America/New_York:20270210T193000
 SUMMARY:Boys Basketball: Lansdowne at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam6273313f1a
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam6273313f1a\nTickets: https://gofan.co/event/6985656
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam6273313f1a
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-western-tech-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Boys Basketball: Catonsville at Western Tech
 LOCATION:Western Tech
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestern-school-of-technology-environmental-science-catonsville-md%2Fgam58ccb8ba2e
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestern-school-of-technology-environmental-science-catonsville-md%2Fgam58ccb8ba2e\nTickets: https://gofan.co/event/6985666
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwestern-school-of-technology-environmental-science-catonsville-md%2Fgam58ccb8ba2e
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-catonsville-owings-mills-boys-basketball@oldlinerankings
-DTSTAMP:20261021T081957Z
+DTSTAMP:20261021T211617Z
 DTSTART;TZID=America/New_York:20270217T173000
 DTEND;TZID=America/New_York:20270217T193000
 SUMMARY:Boys Basketball: Owings Mills at Catonsville
 LOCATION:Catonsville
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam5a9637f901
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam5a9637f901\nTickets: https://gofan.co/event/6985657
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcatonsville-high-school-baltimore-md%2Fgam5a9637f901
 END:VEVENT
 END:VCALENDAR

@@ -6,7 +6,7 @@ X-WR-CALNAME:St. Michael's Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2027-02-12-mardela-st-michael-s-girls-basketball@oldlinerankings
-DTSTAMP:20261021T082046Z
+DTSTAMP:20261021T211712Z
 DTSTART;TZID=America/New_York:20270212T193000
 DTEND;TZID=America/New_York:20270212T213000
 SUMMARY:Girls Basketball: St. Michael's at Mardela
@@ -14,7 +14,7 @@ LOCATION:Mardela
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-crisfield-st-michael-s-girls-basketball@oldlinerankings
-DTSTAMP:20261021T082046Z
+DTSTAMP:20261021T211712Z
 DTSTART;TZID=America/New_York:20270215T163000
 DTEND;TZID=America/New_York:20270215T183000
 SUMMARY:Girls Basketball: St. Michael's at Crisfield

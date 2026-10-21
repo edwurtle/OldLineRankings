@@ -5,28 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Mountain Ridge Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:2026-09-05-fort-hill-mountain-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
-DTSTART;TZID=America/New_York:20260905T180000
-DTEND;TZID=America/New_York:20260905T200000
-SUMMARY:Boys Soccer: Mountain Ridge at Fort Hill
-LOCATION:Fort Hill
-DESCRIPTION:Final: Mountain Ridge 3\, Fort Hill 2\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam2eb14ae806
-URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam2eb14ae806
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-05-mountain-ridge-broadfording-private-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
-DTSTART;TZID=America/New_York:20260905T180000
-DTEND;TZID=America/New_York:20260905T200000
-SUMMARY:Boys Soccer: Broadfording (Private) at Mountain Ridge
-LOCATION:Mountain Ridge
-DESCRIPTION:Final: Mountain Ridge 5\, Broadfording (Private) 4\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam2eb14ae806
-URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Ffort-hill-high-school-cumberland-md%2Fgam2eb14ae806
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-09-08-mountain-ridge-northern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20260908T180000
 DTEND;TZID=America/New_York:20260908T200000
 SUMMARY:Boys Soccer: Northern-G at Mountain Ridge
@@ -36,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-mountain-ridge-clear-spring-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Boys Soccer: Clear Spring at Mountain Ridge
@@ -46,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-allegany-mountain-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Boys Soccer: Mountain Ridge at Allegany
@@ -56,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-mountain-ridge-hampshire-wv-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Hampshire WV at Mountain Ridge
@@ -65,7 +45,7 @@ DESCRIPTION:Final: Mountain Ridge 4\, Hampshire WV 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-mountain-ridge-northern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20260922T193000
 DTEND;TZID=America/New_York:20260922T213000
 SUMMARY:Boys Soccer: Northern-G at Mountain Ridge
@@ -75,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-fort-hill-mountain-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Mountain Ridge at Fort Hill
@@ -85,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-mountain-ridge-university-wv-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: University WV at Mountain Ridge
@@ -94,7 +74,7 @@ DESCRIPTION:Final: Mountain Ridge 7\, University WV 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-mountain-ridge-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Boys Soccer: Southern-G at Mountain Ridge
@@ -104,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-allegany-mountain-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261005T183000
 DTEND;TZID=America/New_York:20261005T203000
 SUMMARY:Boys Soccer: Mountain Ridge at Allegany
@@ -114,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-mountain-ridge-bishop-walsh-private-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Bishop Walsh Private at Mountain Ridge
@@ -124,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-mountain-ridge-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Williamsport at Mountain Ridge
@@ -134,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-mountain-ridge-southern-g-boys-soccer@oldlinerankings
-DTSTAMP:20261021T081849Z
+DTSTAMP:20261021T211454Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Boys Soccer: Southern-G at Mountain Ridge
