@@ -6,7 +6,7 @@ X-WR-CALNAME:Crossland Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-crossland-fairmont-heights-girls-basketball@oldlinerankings
-DTSTAMP:20261021T211712Z
+DTSTAMP:20261021T212047Z
 DTSTART;TZID=America/New_York:20261210T174500
 DTEND;TZID=America/New_York:20261210T194500
 SUMMARY:Girls Basketball: Fairmont Heights at Crossland
@@ -14,7 +14,7 @@ LOCATION:Crossland
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-crossland-gwynn-park-girls-basketball@oldlinerankings
-DTSTAMP:20261021T211712Z
+DTSTAMP:20261021T212047Z
 DTSTART;TZID=America/New_York:20270216T173000
 DTEND;TZID=America/New_York:20270216T193000
 SUMMARY:Girls Basketball: Gwynn Park at Crossland

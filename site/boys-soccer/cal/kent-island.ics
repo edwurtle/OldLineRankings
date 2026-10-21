@@ -6,7 +6,7 @@ X-WR-CALNAME:Kent Island Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-cambridge-south-dorchester-kent-island-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Boys Soccer: Kent Island at Cambridge-South Dorchester
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Kent Island 6\, Cambridge-South Dorchester 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-north-dorchester-kent-island-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Boys Soccer: Kent Island at North Dorchester
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Kent Island 6\, North Dorchester 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-st-michael-s-kent-island-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
 SUMMARY:Boys Soccer: Kent Island at St. Michael's
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-kent-island-wicomico-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Boys Soccer: Wicomico at Kent Island
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Kent Island 4\, Wicomico 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-colonel-richardson-kent-island-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;TZID=America/New_York:20260923T173000
 DTEND;TZID=America/New_York:20260923T193000
 SUMMARY:Boys Soccer: Kent Island at Colonel Richardson
@@ -53,7 +53,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-kent-island-parkside-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;TZID=America/New_York:20260928T173000
 DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Boys Soccer: Parkside at Kent Island
@@ -63,7 +63,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-kent-county-kent-island-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;TZID=America/New_York:20260930T174500
 DTEND;TZID=America/New_York:20260930T194500
 SUMMARY:Boys Soccer: Kent Island at Kent County
@@ -73,7 +73,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-north-caroline-kent-island-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;TZID=America/New_York:20261005T174500
 DTEND;TZID=America/New_York:20261005T194500
 SUMMARY:Boys Soccer: Kent Island at North Caroline
@@ -83,7 +83,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-kent-island-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Boys Soccer: James M. Bennett at Kent Island
@@ -92,7 +92,7 @@ DESCRIPTION:Final: Kent Island 1\, James M. Bennett 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-kent-island-easton-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;TZID=America/New_York:20261012T174500
 DTEND;TZID=America/New_York:20261012T194500
 SUMMARY:Boys Soccer: Easton at Kent Island
@@ -102,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-kent-island-queen-anne-s-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;TZID=America/New_York:20261014T183000
 DTEND;TZID=America/New_York:20261014T203000
 SUMMARY:Boys Soccer: Queen Anne's at Kent Island
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-kent-island-stephen-decatur-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;TZID=America/New_York:20261019T173000
 DTEND;TZID=America/New_York:20261019T193000
 SUMMARY:Boys Soccer: Stephen Decatur at Kent Island

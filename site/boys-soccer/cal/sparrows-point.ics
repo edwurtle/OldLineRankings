@@ -6,7 +6,7 @@ X-WR-CALNAME:Sparrows Point Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-sparrows-point-boys-latin-md-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Boys Soccer: Boys' Latin - MD at Sparrows Point
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-sparrows-point-annapolis-area-christian-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Annapolis Area Christian at Sparrows Point
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Sparrows Point 3\, Annapolis Area Christian 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-century-sparrows-point-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Sparrows Point at Century
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Sparrows Point 1\, Century 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-eastern-tech-sparrows-point-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Sparrows Point at Eastern Tech
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Sparrows Point 4\, Eastern Tech 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-sparrows-point-dundalk-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Dundalk at Sparrows Point
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Sparrows Point 2\, Dundalk 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-hereford-sparrows-point-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
 SUMMARY:Boys Soccer: Sparrows Point at Hereford
@@ -62,7 +62,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-sparrows-point-perry-hall-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Perry Hall at Sparrows Point
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Sparrows Point 1\, Perry Hall 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-sparrows-point-towson-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T193000
 SUMMARY:Boys Soccer: Towson at Sparrows Point
@@ -81,7 +81,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-sparrows-point-catonsville-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Boys Soccer: Catonsville at Sparrows Point
@@ -91,7 +91,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-sparrows-point-dulaney-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Boys Soccer: Dulaney at Sparrows Point
@@ -100,7 +100,7 @@ DESCRIPTION:Final: Sparrows Point 3\, Dulaney 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-sparrows-point-patterson-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211454Z
+DTSTAMP:20261021T211845Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Patterson at Sparrows Point
