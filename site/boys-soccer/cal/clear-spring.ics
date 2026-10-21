@@ -6,7 +6,7 @@ X-WR-CALNAME:Clear Spring Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-mountain-ridge-clear-spring-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211845Z
+DTSTAMP:20261021T231936Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Boys Soccer: Clear Spring at Mountain Ridge
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-clear-spring-north-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211845Z
+DTSTAMP:20261021T231936Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: North Hagerstown at Clear Spring
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Clear Spring 2\, North Hagerstown 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-clear-spring-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211845Z
+DTSTAMP:20261021T231936Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Boys Soccer: Walkersville at Clear Spring
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-clear-spring-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211845Z
+DTSTAMP:20261021T231936Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Williamsport at Clear Spring
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Clear Spring 2\, Williamsport 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-clear-spring-catoctin-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211845Z
+DTSTAMP:20261021T231936Z
 DTSTART;TZID=America/New_York:20260929T173000
 DTEND;TZID=America/New_York:20260929T193000
 SUMMARY:Boys Soccer: Catoctin at Clear Spring
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-clear-spring-grace-academy-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211845Z
+DTSTAMP:20261021T231936Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Grace Academy at Clear Spring
@@ -63,7 +63,7 @@ DESCRIPTION:Final: Clear Spring 0\, Grace Academy 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-clear-spring-brunswick-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211845Z
+DTSTAMP:20261021T231936Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Boys Soccer: Brunswick at Clear Spring
@@ -73,7 +73,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-clear-spring-middletown-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211845Z
+DTSTAMP:20261021T231936Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Middletown at Clear Spring
@@ -82,7 +82,7 @@ DESCRIPTION:Final: Clear Spring 0\, Middletown 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-clear-spring-smithsburg-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211845Z
+DTSTAMP:20261021T231936Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Smithsburg at Clear Spring
@@ -91,7 +91,7 @@ DESCRIPTION:Final: Clear Spring 2\, Smithsburg 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-southern-g-clear-spring-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211845Z
+DTSTAMP:20261021T231936Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Boys Soccer: Clear Spring at Southern-G
@@ -100,7 +100,7 @@ DESCRIPTION:Final: Clear Spring 3\, Southern-G 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-clear-spring-boonsboro-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211845Z
+DTSTAMP:20261021T231936Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Boonsboro at Clear Spring
@@ -109,7 +109,7 @@ DESCRIPTION:Final: Clear Spring 0\, Boonsboro 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-clear-spring-south-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261021T211845Z
+DTSTAMP:20261021T231936Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: South Hagerstown at Clear Spring
