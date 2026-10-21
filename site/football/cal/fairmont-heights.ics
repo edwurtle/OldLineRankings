@@ -6,7 +6,7 @@ X-WR-CALNAME:Fairmont Heights Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-fairmont-heights-chesapeake-aa-football@oldlinerankings
-DTSTAMP:20261020T152436Z
+DTSTAMP:20261021T081820Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Chesapeake-AA at Fairmont Heights
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Fairmont Heights 0\, Chesapeake-AA 47
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-frederick-douglass-b-fairmont-heights-football@oldlinerankings
-DTSTAMP:20261020T152436Z
+DTSTAMP:20261021T081820Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: Fairmont Heights at Frederick Douglass-B
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Fairmont Heights 21\, Frederick Douglass-B 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-fairmont-heights-gwynn-park-football@oldlinerankings
-DTSTAMP:20261020T152436Z
+DTSTAMP:20261021T081820Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Gwynn Park at Fairmont Heights
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Fairmont Heights 0\, Gwynn Park 47
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-fairmont-heights-friendly-football@oldlinerankings
-DTSTAMP:20261020T152436Z
+DTSTAMP:20261021T081820Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Friendly at Fairmont Heights
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Fairmont Heights 0\, Friendly 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-fairmont-heights-largo-football@oldlinerankings
-DTSTAMP:20261020T152436Z
+DTSTAMP:20261021T081820Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Largo at Fairmont Heights
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Fairmont Heights 0\, Largo 51
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-crossland-fairmont-heights-football@oldlinerankings
-DTSTAMP:20261020T152436Z
+DTSTAMP:20261021T081820Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Football: Fairmont Heights at Crossland
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Fairmont Heights 19\, Crossland 18
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-fairmont-heights-surrattsville-football@oldlinerankings
-DTSTAMP:20261020T152436Z
+DTSTAMP:20261021T081820Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Football: Surrattsville at Fairmont Heights
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Fairmont Heights 29\, Surrattsville 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-fairmont-heights-frederick-douglass-pg-football@oldlinerankings
-DTSTAMP:20261020T152436Z
+DTSTAMP:20261021T081820Z
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
 SUMMARY:Football: Frederick Douglass-PG at Fairmont Heights
@@ -78,7 +78,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6711921
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-central-fairmont-heights-football@oldlinerankings
-DTSTAMP:20261020T152436Z
+DTSTAMP:20261021T081820Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Fairmont Heights at Central

@@ -6,7 +6,7 @@ X-WR-CALNAME:John F. Kennedy Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-19-charles-h-flowers-john-f-kennedy-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20261119T191500
 DTEND;TZID=America/New_York:20261119T211500
 SUMMARY:Boys Basketball: John F. Kennedy at Charles H. Flowers
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-seneca-valley-john-f-kennedy-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20261119T191500
 DTEND;TZID=America/New_York:20261119T211500
 SUMMARY:Boys Basketball: John F. Kennedy at Seneca Valley
@@ -24,7 +24,7 @@ LOCATION:Seneca Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-col-zadok-magruder-john-f-kennedy-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20261204T191500
 DTEND;TZID=America/New_York:20261204T211500
 SUMMARY:Boys Basketball: John F. Kennedy at Col. Zadok Magruder
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-john-f-kennedy-walt-whitman-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Boys Basketball: Walt Whitman at John F. Kennedy
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-winston-churchill-john-f-kennedy-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20261211T191500
 DTEND;TZID=America/New_York:20261211T211500
 SUMMARY:Boys Basketball: John F. Kennedy at Winston Churchill
@@ -53,7 +53,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6707928
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-john-f-kennedy-richard-montgomery-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20261214T191500
 DTEND;TZID=America/New_York:20261214T211500
 SUMMARY:Boys Basketball: Richard Montgomery at John F. Kennedy
@@ -63,7 +63,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-northwood-john-f-kennedy-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20261216T191500
 DTEND;TZID=America/New_York:20261216T211500
 SUMMARY:Boys Basketball: John F. Kennedy at Northwood
@@ -72,7 +72,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6707646
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-john-f-kennedy-albert-einstein-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20261218T191500
 DTEND;TZID=America/New_York:20261218T211500
 SUMMARY:Boys Basketball: Albert Einstein at John F. Kennedy
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-rockville-john-f-kennedy-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20261221T191500
 DTEND;TZID=America/New_York:20261221T211500
 SUMMARY:Boys Basketball: John F. Kennedy at Rockville
@@ -92,7 +92,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-john-f-kennedy-wheaton-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20270108T191500
 DTEND;TZID=America/New_York:20270108T211500
 SUMMARY:Boys Basketball: Wheaton at John F. Kennedy
@@ -102,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-montgomery-blair-john-f-kennedy-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Boys Basketball: John F. Kennedy at Montgomery Blair
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-john-f-kennedy-james-hubert-blake-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Boys Basketball: James Hubert Blake at John F. Kennedy
@@ -122,7 +122,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-john-f-kennedy-springbrook-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20270119T180000
 DTEND;TZID=America/New_York:20270119T200000
 SUMMARY:Boys Basketball: Springbrook at John F. Kennedy
@@ -132,7 +132,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-bethesda-cc-john-f-kennedy-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20270122T191500
 DTEND;TZID=America/New_York:20270122T211500
 SUMMARY:Boys Basketball: John F. Kennedy at Bethesda-CC
@@ -142,7 +142,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-richard-montgomery-john-f-kennedy-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Boys Basketball: John F. Kennedy at Richard Montgomery
@@ -151,7 +151,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708601
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-john-f-kennedy-northwood-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20270129T191500
 DTEND;TZID=America/New_York:20270129T211500
 SUMMARY:Boys Basketball: Northwood at John F. Kennedy
@@ -161,7 +161,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-albert-einstein-john-f-kennedy-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20270201T191500
 DTEND;TZID=America/New_York:20270201T211500
 SUMMARY:Boys Basketball: John F. Kennedy at Albert Einstein
@@ -171,7 +171,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-john-f-kennedy-rockville-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20270203T191500
 DTEND;TZID=America/New_York:20270203T211500
 SUMMARY:Boys Basketball: Rockville at John F. Kennedy
@@ -181,7 +181,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-wheaton-john-f-kennedy-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20270208T180000
 DTEND;TZID=America/New_York:20270208T200000
 SUMMARY:Boys Basketball: John F. Kennedy at Wheaton
@@ -190,7 +190,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708461
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-john-f-kennedy-montgomery-blair-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20270212T180000
 DTEND;TZID=America/New_York:20270212T200000
 SUMMARY:Boys Basketball: Montgomery Blair at John F. Kennedy
@@ -200,7 +200,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-john-f-kennedy-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Boys Basketball: Northwest at John F. Kennedy
@@ -210,7 +210,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-paint-branch-john-f-kennedy-boys-basketball@oldlinerankings
-DTSTAMP:20261020T152602Z
+DTSTAMP:20261021T081957Z
 DTSTART;TZID=America/New_York:20270219T191500
 DTEND;TZID=America/New_York:20270219T211500
 SUMMARY:Boys Basketball: John F. Kennedy at Paint Branch

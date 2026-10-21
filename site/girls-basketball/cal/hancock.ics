@@ -6,7 +6,7 @@ X-WR-CALNAME:Hancock Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-11-northern-g-hancock-girls-basketball@oldlinerankings
-DTSTAMP:20261020T152653Z
+DTSTAMP:20261021T082046Z
 DTSTART;TZID=America/New_York:20261211T173000
 DTEND;TZID=America/New_York:20261211T193000
 SUMMARY:Girls Basketball: Hancock at Northern-G
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-clear-spring-hancock-girls-basketball@oldlinerankings
-DTSTAMP:20261020T152653Z
+DTSTAMP:20261021T082046Z
 DTSTART;TZID=America/New_York:20270115T173000
 DTEND;TZID=America/New_York:20270115T193000
 SUMMARY:Girls Basketball: Hancock at Clear Spring
@@ -24,7 +24,7 @@ LOCATION:Clear Spring
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-hancock-northern-g-girls-basketball@oldlinerankings
-DTSTAMP:20261020T152653Z
+DTSTAMP:20261021T082046Z
 DTSTART;TZID=America/New_York:20270126T173000
 DTEND;TZID=America/New_York:20270126T193000
 SUMMARY:Girls Basketball: Northern-G at Hancock
@@ -32,7 +32,7 @@ LOCATION:Hancock
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-hancock-south-hagerstown-girls-basketball@oldlinerankings
-DTSTAMP:20261020T152653Z
+DTSTAMP:20261021T082046Z
 DTSTART;TZID=America/New_York:20270208T173000
 DTEND;TZID=America/New_York:20270208T193000
 SUMMARY:Girls Basketball: South Hagerstown at Hancock
@@ -40,7 +40,7 @@ LOCATION:Hancock
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-hancock-clear-spring-girls-basketball@oldlinerankings
-DTSTAMP:20261020T152653Z
+DTSTAMP:20261021T082046Z
 DTSTART;TZID=America/New_York:20270217T173000
 DTEND;TZID=America/New_York:20270217T193000
 SUMMARY:Girls Basketball: Clear Spring at Hancock

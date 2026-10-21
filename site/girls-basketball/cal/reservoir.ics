@@ -6,7 +6,7 @@ X-WR-CALNAME:Reservoir Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-30-mount-de-sales-academy-reservoir-girls-basketball@oldlinerankings
-DTSTAMP:20261020T152653Z
+DTSTAMP:20261021T082046Z
 DTSTART;TZID=America/New_York:20261130T173000
 DTEND;TZID=America/New_York:20261130T193000
 SUMMARY:Girls Basketball: Reservoir at Mount De Sales Academy
@@ -14,7 +14,7 @@ LOCATION:Mount De Sales Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-reservoir-glenelg-girls-basketball@oldlinerankings
-DTSTAMP:20261020T152653Z
+DTSTAMP:20261021T082046Z
 DTSTART;TZID=America/New_York:20261204T180000
 DTEND;TZID=America/New_York:20261204T200000
 SUMMARY:Girls Basketball: Glenelg at Reservoir
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-reservoir-centennial-girls-basketball@oldlinerankings
-DTSTAMP:20261020T152653Z
+DTSTAMP:20261021T082046Z
 DTSTART;TZID=America/New_York:20261207T173000
 DTEND;TZID=America/New_York:20261207T193000
 SUMMARY:Girls Basketball: Centennial at Reservoir
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-guilford-park-reservoir-girls-basketball@oldlinerankings
-DTSTAMP:20261020T152653Z
+DTSTAMP:20261021T082046Z
 DTSTART;TZID=America/New_York:20261209T173000
 DTEND;TZID=America/New_York:20261209T193000
 SUMMARY:Girls Basketball: Reservoir at Guilford Park
@@ -42,7 +42,7 @@ LOCATION:Guilford Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-reservoir-seed-school-girls-basketball@oldlinerankings
-DTSTAMP:20261020T152653Z
+DTSTAMP:20261021T082046Z
 DTSTART;TZID=America/New_York:20261210T173000
 DTEND;TZID=America/New_York:20261210T193000
 SUMMARY:Girls Basketball: SEED School at Reservoir
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-reservoir-atholton-girls-basketball@oldlinerankings
-DTSTAMP:20261020T152653Z
+DTSTAMP:20261021T082046Z
 DTSTART;TZID=America/New_York:20261214T173000
 DTEND;TZID=America/New_York:20261214T193000
 SUMMARY:Girls Basketball: Atholton at Reservoir
@@ -60,7 +60,7 @@ LOCATION:Reservoir
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-howard-reservoir-girls-basketball@oldlinerankings
-DTSTAMP:20261020T152653Z
+DTSTAMP:20261021T082046Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Girls Basketball: Reservoir at Howard
@@ -70,7 +70,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-reservoir-marriotts-ridge-girls-basketball@oldlinerankings
-DTSTAMP:20261020T152653Z
+DTSTAMP:20261021T082046Z
 DTSTART;TZID=America/New_York:20261221T173000
 DTEND;TZID=America/New_York:20261221T193000
 SUMMARY:Girls Basketball: Marriotts Ridge at Reservoir

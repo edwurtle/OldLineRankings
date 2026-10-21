@@ -6,7 +6,7 @@ X-WR-CALNAME:Great Mills Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-westlake-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261020T152523Z
+DTSTAMP:20261021T081918Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Great Mills at Westlake
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Great Mills 9\, Westlake 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-liberty-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261020T152523Z
+DTSTAMP:20261021T081918Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Great Mills at Liberty
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Great Mills 2\, Liberty 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-huntingtown-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261020T152523Z
+DTSTAMP:20261021T081918Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Great Mills at Huntingtown
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Great Mills 0\, Huntingtown 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-patuxent-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261020T152523Z
+DTSTAMP:20261021T081918Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: Great Mills at Patuxent
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Great Mills 6\, Patuxent 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-henry-e-lackey-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261020T152523Z
+DTSTAMP:20261021T081918Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Great Mills at Henry E. Lackey
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Great Mills 8\, Henry E. Lackey 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-northern-c-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261020T152523Z
+DTSTAMP:20261021T081918Z
 DTSTART;TZID=America/New_York:20260925T181500
 DTEND;TZID=America/New_York:20260925T201500
 SUMMARY:Girls Soccer: Great Mills at Northern-C
@@ -61,7 +61,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-great-mills-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261020T152523Z
+DTSTAMP:20261021T081918Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Girls Soccer: North Point at Great Mills
@@ -71,7 +71,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-mcdonough-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261020T152523Z
+DTSTAMP:20261021T081918Z
 DTSTART;TZID=America/New_York:20261001T183000
 DTEND;TZID=America/New_York:20261001T203000
 SUMMARY:Girls Soccer: Great Mills at McDonough
@@ -81,7 +81,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-chopticon-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261020T152523Z
+DTSTAMP:20261021T081918Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Great Mills at Chopticon
@@ -90,7 +90,7 @@ DESCRIPTION:Final: Great Mills 0\, Chopticon 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-patuxent-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261020T152523Z
+DTSTAMP:20261021T081918Z
 DTSTART;TZID=America/New_York:20261008T181500
 DTEND;TZID=America/New_York:20261008T201500
 SUMMARY:Girls Soccer: Great Mills at Patuxent
@@ -100,7 +100,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-st-charles-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261020T152523Z
+DTSTAMP:20261021T081918Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Great Mills at St. Charles
@@ -109,7 +109,7 @@ DESCRIPTION:Final: Great Mills 7\, St. Charles 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-great-mills-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261020T152523Z
+DTSTAMP:20261021T081918Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Leonardtown at Great Mills
