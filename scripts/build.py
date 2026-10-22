@@ -127,7 +127,7 @@ SITES = {
 }
 
 # Sports shown on the splash page and in the footer before they have a site
-COMING = [dict(sport="Lacrosse", icon="lacrosse", note="Boys & girls · coming spring 2027")]
+COMING = [dict(sport="Lacrosse", icon="lacrosse", season="Spring", note="Boys & girls · coming spring 2027")]
 
 # Opponent spellings that refer to member schools
 ALIAS = {"Mt. Hebron": "Mount Hebron", "Flowers HS": "Charles H. Flowers", "Wise HS": "Dr. Henry A. Wise",
@@ -480,7 +480,8 @@ def build_site(key, cfg, nonce, stamp):
     description = (f"Rankings, schedules, playoff brackets and live-stream links for every Maryland public high school "
                    f"{cfg['sport'].lower()} team, Class 1A through 4A, updated nightly from MPSSAA results.")
     for k, v in dict(root=root, sport=cfg["sport"], sport_lower=cfg["sport"].lower(), favicon=icons.favicon(cfg["icon"]), stamp=stamp,
-                     description=description, url=f"{SITE_URL}/{rel}", site_url=SITE_URL).items():
+                     description=description, url=f"{SITE_URL}/{rel}", site_url=SITE_URL,
+                     family=footer_sports(root, key), year=str(now_et().year)).items():
         page = page.replace("{{" + k + "}}", v)
     (out / "index.html").write_text(page)
     # A page for every team (for search engines and sharing); old team folders are cleared first
@@ -633,6 +634,23 @@ def fill_scores(raw, fixes):
                 x["home_score"], x["away_score"] = (x["your_score"], x["opponent_score"]) if home == x["school"] else (x["opponent_score"], x["your_score"])
 
 
+def footer_sports(root, current):
+    """Footer sport links in one column per season (Fall, Winter, Spring); the current site is marked."""
+    sports = [dict(sport=c["sport"], season=c["season"], on=k == current,
+                   href=root + "".join(p + "/" for p in pathlib.Path(c["out"]).parts[1:])) for k, c in SITES.items()]
+    sports += [dict(c, on=False, href=None) for c in COMING]
+    cols = []
+    for season in ("Fall", "Winter", "Spring"):
+        items = []
+        for s in (s for s in sports if s["season"] == season):
+            on = ' class="on" aria-current="page"' if s["on"] else ""
+            items.append(f'<li><a href="{s["href"]}"{on}>{esc(s["sport"])}</a></li>' if s["href"] else
+                         f'<li><span class="soon" title="{esc(s["note"])}">{esc(s["sport"])} <small>soon</small></span></li>')
+        if items:
+            cols.append(f'<div><h4>{season}</h4><ul>{"".join(items)}</ul></div>')
+    return "".join(cols)
+
+
 def slug(name):
     return re.sub(r"[^a-z0-9]+", "-", name.lower().replace("&", "and")).strip("-")
 
@@ -782,14 +800,12 @@ def write_splash(built, stamp):
                  f'<div class="gw-grid">{"".join(gotw)}</div></section>') if gotw else ""
     links = "".join(f'<a class="btn ghost" href="{b["href"]}">{icons.svg(b["cfg"]["icon"])}{esc(b["cfg"]["sport"])}</a>'
                     for b in built)
-    # Footer: the same sport switcher as the sport pages, plus when results were last updated
-    family = "".join(f'<a href="{b["href"]}">{icons.svg(b["cfg"]["icon"])}{esc(b["cfg"]["sport"])}</a>' for b in built) + "".join(
-        f'<span class="soon" title="{esc(c["note"])}">{icons.svg(c["icon"])}{esc(c["sport"])} <small>soon</small></span>' for c in COMING)
-    through = max(s["through"] for b in built for s in b["sports"].values() if s["through"])
-    updated = f'Games through {datetime.date.fromisoformat(through):%B %-d, %Y} · updated {updated_et()}'
+    # Footer: the same sport links as the sport pages, plus when results were last updated
+    family = footer_sports("", None)
+    updated = f'Updated {updated_et()}'
     description = ("Rankings, schedules, playoff brackets and games of the week for every Maryland public high school team: "
                    + ", ".join(b["cfg"]["sport"].lower() for b in built) + ". Updated nightly from MPSSAA results.")
-    for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), gotw=gotw_html, sportlinks=links, family=family, updated=updated,
+    for k, v in dict(cards="\n    ".join(cards), coming="\n    ".join(coming), gotw=gotw_html, sportlinks=links, family=family, updated=updated, year=str(now_et().year),
                      description=description, site_url=SITE_URL,
                      favicon=icons.favicon(), stamp=stamp).items():
         page = page.replace("{{" + k + "}}", v)

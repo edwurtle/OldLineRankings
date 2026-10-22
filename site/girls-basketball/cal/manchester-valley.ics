@@ -6,7 +6,7 @@ X-WR-CALNAME:Manchester Valley Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-manchester-valley-oakdale-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20261204T183000
 DTEND;TZID=America/New_York:20261204T203000
 SUMMARY:Girls Basketball: Oakdale at Manchester Valley
@@ -14,7 +14,7 @@ LOCATION:Manchester Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-hereford-manchester-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20261209T183000
 DTEND;TZID=America/New_York:20261209T203000
 SUMMARY:Girls Basketball: Manchester Valley at Hereford
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-manchester-valley-tuscarora-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20261211T183000
 DTEND;TZID=America/New_York:20261211T203000
 SUMMARY:Girls Basketball: Tuscarora at Manchester Valley
@@ -32,7 +32,7 @@ LOCATION:Manchester Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-pikesville-manchester-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20261212T170000
 DTEND;TZID=America/New_York:20261212T190000
 SUMMARY:Girls Basketball: Manchester Valley at Pikesville
@@ -42,7 +42,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-francis-scott-key-manchester-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20261215T183000
 DTEND;TZID=America/New_York:20261215T203000
 SUMMARY:Girls Basketball: Manchester Valley at Francis Scott Key
@@ -50,7 +50,7 @@ LOCATION:Francis Scott Key
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-manchester-valley-winters-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20261218T183000
 DTEND;TZID=America/New_York:20261218T203000
 SUMMARY:Girls Basketball: Winters Mill at Manchester Valley
@@ -58,7 +58,7 @@ LOCATION:Manchester Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-manchester-valley-liberty-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20261223T063000
 DTEND;TZID=America/New_York:20261223T083000
 SUMMARY:Girls Basketball: Liberty at Manchester Valley
@@ -66,7 +66,7 @@ LOCATION:Manchester Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-manchester-valley-south-carroll-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20270105T063000
 DTEND;TZID=America/New_York:20270105T083000
 SUMMARY:Girls Basketball: South Carroll at Manchester Valley
@@ -74,7 +74,7 @@ LOCATION:Manchester Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-patterson-mill-manchester-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20270106T190000
 DTEND;TZID=America/New_York:20270106T210000
 SUMMARY:Girls Basketball: Manchester Valley at Patterson Mill
@@ -82,7 +82,7 @@ LOCATION:Patterson Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-westminster-manchester-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20270108T183000
 DTEND;TZID=America/New_York:20270108T203000
 SUMMARY:Girls Basketball: Manchester Valley at Westminster
@@ -90,7 +90,7 @@ LOCATION:Westminster
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-century-manchester-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20270112T170000
 DTEND;TZID=America/New_York:20270112T190000
 SUMMARY:Girls Basketball: Manchester Valley at Century
@@ -98,7 +98,7 @@ LOCATION:Century
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-manchester-valley-old-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20270115T183000
 DTEND;TZID=America/New_York:20270115T203000
 SUMMARY:Girls Basketball: Old Mill at Manchester Valley
@@ -106,7 +106,7 @@ LOCATION:Manchester Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-manchester-valley-francis-scott-key-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20270120T183000
 DTEND;TZID=America/New_York:20270120T203000
 SUMMARY:Girls Basketball: Francis Scott Key at Manchester Valley
@@ -114,7 +114,7 @@ LOCATION:Manchester Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-winters-mill-manchester-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20270122T183000
 DTEND;TZID=America/New_York:20270122T203000
 SUMMARY:Girls Basketball: Manchester Valley at Winters Mill
@@ -122,7 +122,7 @@ LOCATION:Winters Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-liberty-manchester-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20270126T183000
 DTEND;TZID=America/New_York:20270126T203000
 SUMMARY:Girls Basketball: Manchester Valley at Liberty
@@ -130,7 +130,7 @@ LOCATION:Liberty
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-south-carroll-manchester-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20270129T183000
 DTEND;TZID=America/New_York:20270129T203000
 SUMMARY:Girls Basketball: Manchester Valley at South Carroll
@@ -138,7 +138,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-manchester-valley-westminster-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20270203T183000
 DTEND;TZID=America/New_York:20270203T203000
 SUMMARY:Girls Basketball: Westminster at Manchester Valley
@@ -146,7 +146,7 @@ LOCATION:Manchester Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-manchester-valley-century-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20270205T170000
 DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Girls Basketball: Century at Manchester Valley
@@ -154,7 +154,7 @@ LOCATION:Manchester Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-manchester-valley-urbana-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20270210T063000
 DTEND;TZID=America/New_York:20270210T083000
 SUMMARY:Girls Basketball: Urbana at Manchester Valley
@@ -162,7 +162,7 @@ LOCATION:Manchester Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-linganore-manchester-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261021T235701Z
+DTSTAMP:20261022T001620Z
 DTSTART;TZID=America/New_York:20270219T190000
 DTEND;TZID=America/New_York:20270219T210000
 SUMMARY:Girls Basketball: Manchester Valley at Linganore

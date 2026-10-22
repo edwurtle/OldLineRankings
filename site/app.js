@@ -104,11 +104,7 @@ const findTeam = (g, name) => D.sports[g].teams.find(t => t.school === name);
 const throughAll = Object.values(D.sports).map(s => s.through).sort().pop();
 const thru = (d, opts) => d ? fmtDate(d, opts) : "—";   // no games played yet
 const thruText = g => D.sports[g].through ? `games through ${fmtDate(D.sports[g].through, {month: "long", day: "numeric"})}` : "no games played yet";
-document.getElementById("updated").textContent = (throughAll ? `Games through ${fmtDate(throughAll, {month: "long", day: "numeric", year: "numeric"})} · updated` : "Updated") + ` ${D.updated}`;
-// Footer sport switcher: every Old Line Rankings sport, current one highlighted, coming-soon ones dimmed
-document.getElementById("family").innerHTML = C.family.sports.map(s => s.href
-  ? `<a href="${esc(s.href)}" class="${s.current ? "on" : ""}"${s.current ? ` aria-current="page"` : ""}>${s.icon}${esc(s.sport)}</a>`
-  : `<span class="soon" title="${esc(s.note || "")}">${s.icon}${esc(s.sport)} <small>soon</small></span>`).join("");
+document.getElementById("updated").textContent = `Updated ${D.updated}`;
 
 // ---------- routing: clean paths under the sport's folder ----------
 //   ./  rankings/  rankings/4a-3a/  schedule/  playoffs/4a/?view=projected  how-it-works/   (?team=Glenelg opens a drawer)

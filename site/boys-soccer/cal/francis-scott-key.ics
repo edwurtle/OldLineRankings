@@ -6,7 +6,7 @@ X-WR-CALNAME:Francis Scott Key Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-smithsburg-francis-scott-key-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Francis Scott Key at Smithsburg
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Francis Scott Key 5\, Smithsburg 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-boonsboro-francis-scott-key-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Francis Scott Key at Boonsboro
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Francis Scott Key 4\, Boonsboro 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-francis-scott-key-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Walkersville at Francis Scott Key
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Francis Scott Key 3\, Walkersville 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-francis-scott-key-manchester-valley-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Manchester Valley at Francis Scott Key
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Francis Scott Key 4\, Manchester Valley 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-francis-scott-key-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Boys Soccer: Williamsport at Francis Scott Key
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Francis Scott Key 0\, Williamsport 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-francis-scott-key-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Winters Mill at Francis Scott Key
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Francis Scott Key 0\, Winters Mill 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-francis-scott-key-liberty-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Liberty at Francis Scott Key
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Francis Scott Key 0\, Liberty 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-francis-scott-key-century-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Century at Francis Scott Key
@@ -78,7 +78,7 @@ DESCRIPTION:Final: Francis Scott Key 0\, Century 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-south-carroll-francis-scott-key-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Francis Scott Key at South Carroll
@@ -87,7 +87,7 @@ DESCRIPTION:Final: Francis Scott Key 0\, South Carroll 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-francis-scott-key-middletown-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Middletown at Francis Scott Key
@@ -96,7 +96,7 @@ DESCRIPTION:Final: Francis Scott Key 2\, Middletown 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-francis-scott-key-south-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: South Hagerstown at Francis Scott Key
@@ -105,7 +105,7 @@ DESCRIPTION:Final: Francis Scott Key 4\, South Hagerstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-francis-scott-key-westminster-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20261021T170000
 DTEND;TZID=America/New_York:20261021T190000
 SUMMARY:Boys Soccer: Westminster at Francis Scott Key

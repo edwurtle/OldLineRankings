@@ -6,7 +6,7 @@ X-WR-CALNAME:Woodlawn Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-parkville-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Woodlawn at Parkville
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Woodlawn 3\, Parkville 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-franklin-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
 SUMMARY:Boys Soccer: Woodlawn at Franklin
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-overlea-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20260917T160000
 DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Boys Soccer: Woodlawn at Overlea
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-pikesville-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20260923T160000
 DTEND;TZID=America/New_York:20260923T180000
 SUMMARY:Boys Soccer: Woodlawn at Pikesville
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-chesapeake-b-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Boys Soccer: Woodlawn at Chesapeake-B
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-patapsco-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Woodlawn at Patapsco
@@ -64,7 +64,7 @@ DESCRIPTION:Final: Woodlawn 13\, Patapsco 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-kenwood-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20261001T180000
 DTEND;TZID=America/New_York:20261001T200000
 SUMMARY:Boys Soccer: Woodlawn at Kenwood
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-randallstown-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Boys Soccer: Woodlawn at Randallstown
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-new-town-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Woodlawn at New Town
@@ -93,7 +93,7 @@ DESCRIPTION:Final: Woodlawn 5\, New Town 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-western-tech-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20261012T170000
 DTEND;TZID=America/New_York:20261012T190000
 SUMMARY:Boys Soccer: Woodlawn at Western Tech
@@ -103,7 +103,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-carver-aandt-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Boys Soccer: Woodlawn at Carver A&T
@@ -113,7 +113,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-woodlawn-carver-vocational-technical-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20261013T160000
 DTEND;TZID=America/New_York:20261013T180000
 SUMMARY:Boys Soccer: Carver Vocational-Technical at Woodlawn

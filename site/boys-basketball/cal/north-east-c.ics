@@ -6,7 +6,7 @@ X-WR-CALNAME:North East-C Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-perryville-north-east-c-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20261204T190000
 DTEND;TZID=America/New_York:20261204T210000
 SUMMARY:Boys Basketball: North East-C at Perryville
@@ -14,7 +14,7 @@ LOCATION:Perryville
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-north-east-c-elkton-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20261215T190000
 DTEND;TZID=America/New_York:20261215T210000
 SUMMARY:Boys Basketball: Elkton at North East-C
@@ -22,7 +22,7 @@ LOCATION:North East-C
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-north-east-c-bohemia-manor-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261218T210000
 SUMMARY:Boys Basketball: Bohemia Manor at North East-C
@@ -30,7 +30,7 @@ LOCATION:North East-C
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-north-east-c-joppatowne-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20261222T190000
 DTEND;TZID=America/New_York:20261222T210000
 SUMMARY:Boys Basketball: Joppatowne at North East-C
@@ -38,7 +38,7 @@ LOCATION:North East-C
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-north-east-c-aberdeen-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20270104T190000
 DTEND;TZID=America/New_York:20270104T210000
 SUMMARY:Boys Basketball: Aberdeen at North East-C
@@ -46,7 +46,7 @@ LOCATION:North East-C
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-rising-sun-north-east-c-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20270105T170000
 DTEND;TZID=America/New_York:20270105T190000
 SUMMARY:Boys Basketball: North East-C at Rising Sun
@@ -54,7 +54,7 @@ LOCATION:Rising Sun
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-havre-de-grace-north-east-c-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20270108T190000
 DTEND;TZID=America/New_York:20270108T210000
 SUMMARY:Boys Basketball: North East-C at Havre de Grace
@@ -62,7 +62,7 @@ LOCATION:Havre de Grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-north-east-c-perryville-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20270112T190000
 DTEND;TZID=America/New_York:20270112T210000
 SUMMARY:Boys Basketball: Perryville at North East-C
@@ -70,7 +70,7 @@ LOCATION:North East-C
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-north-east-c-tri-state-christian-academy-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20270114T173000
 DTEND;TZID=America/New_York:20270114T193000
 SUMMARY:Boys Basketball: Tri-State Christian Academy at North East-C
@@ -80,7 +80,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-elkton-north-east-c-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20270126T190000
 DTEND;TZID=America/New_York:20270126T210000
 SUMMARY:Boys Basketball: North East-C at Elkton
@@ -88,7 +88,7 @@ LOCATION:Elkton
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-bohemia-manor-north-east-c-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20270129T190000
 DTEND;TZID=America/New_York:20270129T210000
 SUMMARY:Boys Basketball: North East-C at Bohemia Manor
@@ -96,7 +96,7 @@ LOCATION:Bohemia Manor
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-joppatowne-north-east-c-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20270202T173000
 DTEND;TZID=America/New_York:20270202T193000
 SUMMARY:Boys Basketball: North East-C at Joppatowne
@@ -104,7 +104,7 @@ LOCATION:Joppatowne
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-north-east-c-rising-sun-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20270205T190000
 DTEND;TZID=America/New_York:20270205T210000
 SUMMARY:Boys Basketball: Rising Sun at North East-C
@@ -112,7 +112,7 @@ LOCATION:North East-C
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-north-east-c-havre-de-grace-boys-basketball@oldlinerankings
-DTSTAMP:20261021T235622Z
+DTSTAMP:20261022T001441Z
 DTSTART;TZID=America/New_York:20270210T190000
 DTEND;TZID=America/New_York:20270210T210000
 SUMMARY:Boys Basketball: Havre de Grace at North East-C

@@ -70,13 +70,15 @@
 </main>
 
 <footer class="footer">
-  <div class="wrap">
-    <span class="brand-flag small" data-flag></span>
-    <a class="family-home" href="./">Old Line Rankings</a>
+  <div class="wrap foot-main">
+    <div class="foot-brand">
+      <a class="family-home" href="./"><span class="brand-flag small" data-flag></span>Old Line Rankings</a>
+      <p>Maryland public high school rankings, refreshed every night.</p>
+    </div>
     <nav class="family" aria-label="Sports">{{family}}</nav>
-    <span class="muted">{{updated}}</span>
-    <a class="contact" href="mailto:contact@oldlinerankings.com">contact@oldlinerankings.com</a>
+    <div class="foot-contact"><h4>Contact</h4><a class="contact" href="mailto:contact@oldlinerankings.com">contact@oldlinerankings.com</a></div>
   </div>
+  <div class="foot-base"><div class="wrap"><span>© {{year}} Old Line Rankings</span><span>{{updated}}</span></div></div>
 </footer>
 <script src="flag.js?v={{stamp}}"></script>
 <div class="team-scrim" id="teamScrim"></div>

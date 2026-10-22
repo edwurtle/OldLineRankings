@@ -44,13 +44,15 @@
 <main id="app"></main>
 
 <footer class="footer">
-  <div class="wrap">
-    <span class="brand-flag small" data-flag></span>
-    <a class="family-home" href="{{root}}">Old Line Rankings</a>
-    <nav class="family" id="family" aria-label="Sports"></nav>
-    <span class="muted" id="updated"></span>
-    <a class="contact" href="mailto:contact@oldlinerankings.com">contact@oldlinerankings.com</a>
+  <div class="wrap foot-main">
+    <div class="foot-brand">
+      <a class="family-home" href="{{root}}"><span class="brand-flag small" data-flag></span>Old Line Rankings</a>
+      <p>Maryland public high school rankings, refreshed every night.</p>
+    </div>
+    <nav class="family" aria-label="Sports">{{family}}</nav>
+    <div class="foot-contact"><h4>Contact</h4><a class="contact" href="mailto:contact@oldlinerankings.com">contact@oldlinerankings.com</a></div>
   </div>
+  <div class="foot-base"><div class="wrap"><span>© {{year}} Old Line Rankings</span><span id="updated"></span></div></div>
 </footer>
 
 <div class="scrim" id="scrim"></div>

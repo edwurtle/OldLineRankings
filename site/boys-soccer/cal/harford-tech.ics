@@ -6,7 +6,7 @@ X-WR-CALNAME:Harford Tech Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-06-harford-tech-hereford-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20260906T082000
 DTEND;TZID=America/New_York:20260906T102000
 SUMMARY:Boys Soccer: Hereford at Harford Tech
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-06-harford-tech-eastern-tech-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20260906T132000
 DTEND;TZID=America/New_York:20260906T152000
 SUMMARY:Boys Soccer: Eastern Tech at Harford Tech
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-harford-tech-patterson-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20260910T170000
 DTEND;TZID=America/New_York:20260910T190000
 SUMMARY:Boys Soccer: Patterson Mill at Harford Tech
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-harford-tech-c-milton-wright-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20260915T170000
 DTEND;TZID=America/New_York:20260915T190000
 SUMMARY:Boys Soccer: C. Milton Wright at Harford Tech
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-harford-tech-rising-sun-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Boys Soccer: Rising Sun at Harford Tech
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-harford-tech-edgewood-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Boys Soccer: Edgewood at Harford Tech
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-harford-tech-havre-de-grace-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Havre de Grace at Harford Tech
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-harford-tech-perryville-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Perryville at Harford Tech
@@ -85,7 +85,7 @@ DESCRIPTION:Final: Harford Tech 3\, Perryville 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-harford-tech-north-harford-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
 SUMMARY:Boys Soccer: North Harford at Harford Tech
@@ -95,7 +95,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-harford-tech-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20261005T190000
 DTEND;TZID=America/New_York:20261005T210000
 SUMMARY:Boys Soccer: Aberdeen at Harford Tech
@@ -105,7 +105,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-harford-tech-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20261009T185000
 DTEND;TZID=America/New_York:20261009T205000
 SUMMARY:Boys Soccer: Bel Air at Harford Tech
@@ -115,7 +115,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-harford-tech-fallston-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Boys Soccer: Fallston at Harford Tech
@@ -125,7 +125,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-harford-tech-perry-hall-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20261021T153000
 DTEND;TZID=America/New_York:20261021T173000
 SUMMARY:Boys Soccer: Perry Hall at Harford Tech
@@ -135,7 +135,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-harford-tech-c-milton-wright-boys-soccer@oldlinerankings
-DTSTAMP:20261021T235522Z
+DTSTAMP:20261022T001211Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Boys Soccer: C. Milton Wright at Harford Tech

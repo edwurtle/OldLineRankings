@@ -313,20 +313,24 @@ td.team-td { white-space: normal; width: 100%; }  /* the only column allowed to 
 .pts b { color: var(--text); font-size: 15px; }
 .pts.missed { font-size: 11px; color: var(--faint); }
 
-.footer { background: var(--md-black); color: var(--ink-muted); padding: 22px 0; font-size: 13px; margin-top: 40px; }
-.footer .wrap { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
-.footer .muted { color: #8a857b; margin-left: auto; }
-/* Footer: Old Line Rankings home + sport switcher */
-.footer .family-home { color: var(--ink); font-weight: 700; }
-.footer .family-home:hover { color: var(--md-gold); }
-.footer .contact { color: var(--ink); font-weight: 600; }
-.footer .contact:hover { color: var(--md-gold); text-decoration: underline; }
-.family { display: flex; gap: 6px; flex-wrap: wrap; }
-.family a, .family > span { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 999px; border: 1px solid #2c2c2c; color: var(--ink-muted); white-space: nowrap; }
-.family a:hover { color: var(--ink); border-color: #4a4a4a; }
-.family a.on { background: var(--md-gold); border-color: var(--md-gold); color: var(--md-black); font-weight: 700; }
+/* Footer: a gold band (brand, sports by season, contact) over a black strip with the last update */
+.footer { background: var(--md-gold); color: var(--md-black); font-size: 13px; margin-top: 40px; }
+.foot-main { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 3fr) auto; gap: 24px; padding-top: 28px; padding-bottom: 24px; }
+.footer .family-home { display: inline-flex; align-items: center; gap: 10px; font-family: "Barlow Condensed", sans-serif; font-size: 24px; font-weight: 800; text-transform: uppercase; line-height: 1; }
+.footer .brand-flag { box-shadow: 0 0 0 1px rgba(0,0,0,.25); }
+.foot-brand p { margin: 10px 0 0; max-width: 30ch; line-height: 1.5; }
+.footer h4 { margin: 0 0 8px; font-family: "Barlow Condensed", sans-serif; font-size: 16px; font-weight: 800; line-height: 1; text-transform: uppercase; letter-spacing: .04em; }
+.family { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
+.family ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.family a { font-weight: 600; }
+.family a:hover, .family a.on { text-decoration: underline; text-underline-offset: 3px; }
+.family a.on { font-weight: 800; }
 .family .soon { opacity: .55; }
-.family .soon small { font-size: 10px; text-transform: uppercase; letter-spacing: .08em; }
+.family .soon small { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; }
+.footer .contact { font-weight: 700; text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; }   /* the address never splits */
+.foot-base { background: var(--md-black); color: #8a857b; font-size: 12px; }
+.foot-base .wrap { display: flex; justify-content: space-between; gap: 4px 12px; flex-wrap: wrap; padding-top: 10px; padding-bottom: 10px; }
+@media (max-width: 820px) { .foot-main { grid-template-columns: minmax(0, 1fr); gap: 20px; padding-top: 24px; padding-bottom: 20px; } }
 
 /* Splash: one card per sport */
 .sport-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 18px; }
@@ -336,7 +340,6 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 .sport-icon { width: 52px; height: 52px; border-radius: 14px; display: grid; place-items: center; flex: none; background: var(--md-black); color: var(--md-gold); }
 .sport-icon .icon { width: 30px; height: 30px; }
 .sport-card.soon .sport-icon { background: var(--surface-2); color: var(--muted); }
-.family .icon { width: 15px; height: 15px; }
 .sport-top h2 { margin: 0; font-family: "Barlow Condensed", sans-serif; font-size: 32px; font-weight: 800; text-transform: uppercase; line-height: 1; }
 .sport-top small { color: var(--muted); font-size: 13px; }
 .ranked-by { margin-top: 14px; padding: 8px 10px; border-radius: 10px; background: var(--surface-2); font-size: 13px; color: var(--muted); }
