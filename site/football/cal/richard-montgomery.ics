@@ -6,7 +6,7 @@ X-WR-CALNAME:Richard Montgomery Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-damascus-richard-montgomery-football@oldlinerankings
-DTSTAMP:20261022T003019Z
+DTSTAMP:20261022T003637Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
 SUMMARY:Football: Richard Montgomery at Damascus
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-richard-montgomery-john-f-kennedy-football@oldlinerankings
-DTSTAMP:20261022T003019Z
+DTSTAMP:20261022T003637Z
 DTSTART;TZID=America/New_York:20260910T183000
 DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Football: John F. Kennedy at Richard Montgomery
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-richard-montgomery-col-zadok-magruder-football@oldlinerankings
-DTSTAMP:20261022T003019Z
+DTSTAMP:20261022T003637Z
 DTSTART;TZID=America/New_York:20260918T183000
 DTEND;TZID=America/New_York:20260918T203000
 SUMMARY:Football: Col. Zadok Magruder at Richard Montgomery
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-clarksburg-richard-montgomery-football@oldlinerankings
-DTSTAMP:20261022T003019Z
+DTSTAMP:20261022T003637Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Football: Richard Montgomery at Clarksburg
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-richard-montgomery-wheaton-football@oldlinerankings
-DTSTAMP:20261022T003019Z
+DTSTAMP:20261022T003637Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Football: Wheaton at Richard Montgomery
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-richard-montgomery-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261022T003019Z
+DTSTAMP:20261022T003637Z
 DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T203000
 SUMMARY:Football: Thomas S. Wootton at Richard Montgomery
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-gaithersburg-richard-montgomery-football@oldlinerankings
-DTSTAMP:20261022T003019Z
+DTSTAMP:20261022T003637Z
 DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T210000
 SUMMARY:Football: Richard Montgomery at Gaithersburg
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-rockville-richard-montgomery-football@oldlinerankings
-DTSTAMP:20261022T003019Z
+DTSTAMP:20261022T003637Z
 DTSTART;TZID=America/New_York:20261022T183000
 DTEND;TZID=America/New_York:20261022T203000
 SUMMARY:Football: Richard Montgomery at Rockville
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-richard-montgomery-sherwood-football@oldlinerankings
-DTSTAMP:20261022T003019Z
+DTSTAMP:20261022T003637Z
 DTSTART;TZID=America/New_York:20261029T183000
 DTEND;TZID=America/New_York:20261029T203000
 SUMMARY:Football: Sherwood at Richard Montgomery

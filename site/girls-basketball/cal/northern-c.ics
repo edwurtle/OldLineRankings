@@ -6,7 +6,7 @@ X-WR-CALNAME:Northern-C Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-calvert-northern-c-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20261204T181500
 DTEND;TZID=America/New_York:20261204T201500
 SUMMARY:Girls Basketball: Northern-C at Calvert
@@ -14,7 +14,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-northern-c-huntingtown-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20261211T180000
 DTEND;TZID=America/New_York:20261211T200000
 SUMMARY:Girls Basketball: Huntingtown at Northern-C
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-northern-c-patuxent-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20261218T181500
 DTEND;TZID=America/New_York:20261218T201500
 SUMMARY:Girls Basketball: Patuxent at Northern-C
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-northern-c-calvert-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20270108T181500
 DTEND;TZID=America/New_York:20270108T201500
 SUMMARY:Girls Basketball: Calvert at Northern-C
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-patuxent-northern-c-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20270115T181500
 DTEND;TZID=America/New_York:20270115T201500
 SUMMARY:Girls Basketball: Northern-C at Patuxent
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-la-plata-northern-c-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20270120T180000
 DTEND;TZID=America/New_York:20270120T200000
 SUMMARY:Girls Basketball: Northern-C at La Plata
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-northern-c-great-mills-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20270122T181500
 DTEND;TZID=America/New_York:20270122T201500
 SUMMARY:Girls Basketball: Great Mills at Northern-C
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-henry-e-lackey-northern-c-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20270127T180000
 DTEND;TZID=America/New_York:20270127T200000
 SUMMARY:Girls Basketball: Northern-C at Henry E. Lackey
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-chopticon-northern-c-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20270129T181500
 DTEND;TZID=America/New_York:20270129T201500
 SUMMARY:Girls Basketball: Northern-C at Chopticon
@@ -92,7 +92,7 @@ LOCATION:Chopticon
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-mcdonough-northern-c-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20270203T181500
 DTEND;TZID=America/New_York:20270203T201500
 SUMMARY:Girls Basketball: Northern-C at McDonough
@@ -102,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-northern-c-leonardtown-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20270205T181500
 DTEND;TZID=America/New_York:20270205T201500
 SUMMARY:Girls Basketball: Leonardtown at Northern-C
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-huntingtown-northern-c-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20270212T180000
 DTEND;TZID=America/New_York:20270212T200000
 SUMMARY:Girls Basketball: Northern-C at Huntingtown
@@ -120,7 +120,7 @@ LOCATION:Huntingtown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-st-charles-northern-c-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20270217T181500
 DTEND;TZID=America/New_York:20270217T201500
 SUMMARY:Girls Basketball: Northern-C at St. Charles
@@ -130,7 +130,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-thomas-stone-northern-c-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003555Z
+DTSTAMP:20261022T003843Z
 DTSTART;TZID=America/New_York:20270219T180000
 DTEND;TZID=America/New_York:20270219T200000
 SUMMARY:Girls Basketball: Northern-C at Thomas Stone

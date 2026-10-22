@@ -6,7 +6,7 @@ X-WR-CALNAME:Williamsport Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-14-williamsport-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: North Hagerstown at Williamsport
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Williamsport 0\, North Hagerstown 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-williamsport-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: South Hagerstown at Williamsport
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Williamsport 4\, South Hagerstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-smithsburg-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Williamsport at Smithsburg
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Williamsport 1\, Smithsburg 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-clear-spring-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Williamsport at Clear Spring
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Williamsport 0\, Clear Spring 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-middletown-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Girls Soccer: Williamsport at Middletown
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-williamsport-wv-spring-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Girls Soccer: WV-Spring Mills at Williamsport
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Williamsport 2\, WV-Spring Mills 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-boonsboro-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Williamsport at Boonsboro
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Williamsport 2\, Boonsboro 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-catoctin-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Williamsport at Catoctin
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Williamsport 0\, Catoctin 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-walkersville-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Williamsport at Walkersville
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Williamsport 0\, Walkersville 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-francis-scott-key-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: Williamsport at Francis Scott Key
@@ -97,15 +97,16 @@ DESCRIPTION:Final: Williamsport 0\, Francis Scott Key 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-williamsport-brunswick-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Girls Soccer: Brunswick at Williamsport
 LOCATION:Williamsport
+DESCRIPTION:Final: Williamsport 0\, Brunswick 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-mountain-ridge-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Girls Soccer: Williamsport at Mountain Ridge

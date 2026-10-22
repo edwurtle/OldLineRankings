@@ -6,7 +6,7 @@ X-WR-CALNAME:Westlake Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-westlake-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Great Mills at Westlake
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Westlake 1\, Great Mills 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-westlake-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Leonardtown at Westlake
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Westlake 0\, Leonardtown 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-henry-e-lackey-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20260917T183000
 DTEND;TZID=America/New_York:20260917T203000
 SUMMARY:Girls Soccer: Westlake at Henry E. Lackey
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-huntingtown-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20260923T183000
 DTEND;TZID=America/New_York:20260923T203000
 SUMMARY:Girls Soccer: Westlake at Huntingtown
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-patuxent-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Girls Soccer: Westlake at Patuxent
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-calvert-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Girls Soccer: Westlake at Calvert
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-westlake-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20261008T183000
 DTEND;TZID=America/New_York:20261008T203000
 SUMMARY:Girls Soccer: Northern-C at Westlake
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-la-plata-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20261013T163000
 DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Girls Soccer: Westlake at La Plata
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-mcdonough-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20261015T181500
 DTEND;TZID=America/New_York:20261015T201500
 SUMMARY:Girls Soccer: Westlake at McDonough
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-westlake-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20261021T181500
 DTEND;TZID=America/New_York:20261021T201500
 SUMMARY:Girls Soccer: North Point at Westlake

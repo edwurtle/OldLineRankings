@@ -6,7 +6,7 @@ X-WR-CALNAME:Bowie Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-eleanor-roosevelt-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Bowie at Eleanor Roosevelt
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Bowie 1\, Eleanor Roosevelt 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-bladensburg-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20260914T153000
 DTEND;TZID=America/New_York:20260914T173000
 SUMMARY:Girls Soccer: Bowie at Bladensburg
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-calvert-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
 SUMMARY:Girls Soccer: Bowie at Calvert
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-bowie-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20260923T150000
 DTEND;TZID=America/New_York:20260923T170000
 SUMMARY:Girls Soccer: Northwestern at Bowie
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-charles-h-flowers-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Bowie at Charles H. Flowers
@@ -54,7 +54,7 @@ DESCRIPTION:Final: Bowie 2\, Charles H. Flowers 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-suitland-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Girls Soccer: Bowie at Suitland
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-north-point-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Girls Soccer: Bowie at North Point
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-laurel-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T173000
 SUMMARY:Girls Soccer: Bowie at Laurel
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-dr-henry-a-wise-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20261008T183000
 DTEND;TZID=America/New_York:20261008T203000
 SUMMARY:Girls Soccer: Bowie at Dr. Henry A. Wise
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-high-point-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;TZID=America/New_York:20261012T153000
 DTEND;TZID=America/New_York:20261012T173000
 SUMMARY:Girls Soccer: Bowie at High Point
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-parkdale-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Bowie at Parkdale
@@ -113,7 +113,7 @@ DESCRIPTION:Final: Bowie 3\, Parkdale 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-duval-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261022T003241Z
+DTSTAMP:20261022T003729Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Bowie at Duval
