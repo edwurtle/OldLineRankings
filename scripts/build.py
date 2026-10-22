@@ -614,6 +614,20 @@ def write_section_pages(out, page, cfg, sports, rel, sport_description):
         (out / path).mkdir(parents=True, exist_ok=True)
         (out / path / "index.html").write_text(
             page_variant(page, cfg, rel, sport_description, path, title, desc, title.split(" · ")[0], static, canonical=canonical))
+    # The sport's home (/<sport>/): each class's top teams (every team before rankings start) and a link to every
+    # section, so search engines reach the whole sport from its front page
+    classes = []
+    for c in cfg["classes"]:
+        ts = [t for t in teams if t["cls"] == c]
+        body = (ranked(sorted(ts, key=lambda t: t["rank"])[:5], "rank") if held is None else
+                "<ul>" + "".join(f'<li><a href="{t["slug"]}/">{esc(t["school"])}</a> ({esc(t["region"])})</li>'
+                                 for t in sorted(ts, key=lambda t: t["school"])) + "</ul>")
+        classes.append(f'<h2><a href="rankings/{cslug(c)}/">Maryland {esc(label(c))} {esc(sport)} Rankings</a></h2>{body}')
+    links = "".join(f'<li><a href="{path}">{esc(h1)}</a></li>' for path, _, _, h1, _, canonical in pages if not canonical)
+    static = (f'<article class="wrap seo"><h1>Maryland {esc(sport)} Rankings</h1><p>{esc(sport_description)}</p>'
+              + (f"<p>{esc(hold_text(held))}</p>" if held is not None else "")
+              + "".join(classes) + f"<h2>More {esc(lower)}</h2><ul>{links}</ul></article>")
+    (out / "index.html").write_text(page.replace('<main id="app"></main>', f'<main id="app">{static}</main>', 1))
     return [path for path, *_, canonical in pages if not canonical]
 
 

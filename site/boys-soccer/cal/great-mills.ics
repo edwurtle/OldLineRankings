@@ -6,7 +6,7 @@ X-WR-CALNAME:Great Mills Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-westlake-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001816Z
+DTSTAMP:20261022T003130Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Great Mills at Westlake
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Great Mills 9\, Westlake 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-great-mills-northeast-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001816Z
+DTSTAMP:20261022T003130Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Northeast-AA at Great Mills
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Great Mills 4\, Northeast-AA 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-huntingtown-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001816Z
+DTSTAMP:20261022T003130Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Great Mills at Huntingtown
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Great Mills 2\, Huntingtown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-thomas-stone-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001816Z
+DTSTAMP:20261022T003130Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Great Mills at Thomas Stone
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Great Mills 10\, Thomas Stone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-henry-e-lackey-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001816Z
+DTSTAMP:20261022T003130Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Great Mills at Henry E. Lackey
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Great Mills 8\, Henry E. Lackey 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-great-mills-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001816Z
+DTSTAMP:20261022T003130Z
 DTSTART;TZID=America/New_York:20260929T181500
 DTEND;TZID=America/New_York:20260929T201500
 SUMMARY:Boys Soccer: North Point at Great Mills
@@ -61,7 +61,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-mcdonough-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001816Z
+DTSTAMP:20261022T003130Z
 DTSTART;TZID=America/New_York:20261001T163000
 DTEND;TZID=America/New_York:20261001T183000
 SUMMARY:Boys Soccer: Great Mills at McDonough
@@ -71,7 +71,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-calvert-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001816Z
+DTSTAMP:20261022T003130Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Great Mills at Calvert
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Great Mills 7\, Calvert 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-chopticon-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001816Z
+DTSTAMP:20261022T003130Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Great Mills at Chopticon
@@ -89,7 +89,7 @@ DESCRIPTION:Final: Great Mills 2\, Chopticon 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-patuxent-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001816Z
+DTSTAMP:20261022T003130Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: Great Mills at Patuxent
@@ -99,7 +99,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-st-charles-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001816Z
+DTSTAMP:20261022T003130Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Great Mills at St. Charles
@@ -108,7 +108,7 @@ DESCRIPTION:Final: Great Mills 4\, St. Charles 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-great-mills-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001816Z
+DTSTAMP:20261022T003130Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Leonardtown at Great Mills
