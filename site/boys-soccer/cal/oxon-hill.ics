@@ -6,7 +6,7 @@ X-WR-CALNAME:Oxon Hill Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-oxon-hill-charles-h-flowers-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Boys Soccer: Charles H. Flowers at Oxon Hill
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-fairmont-heights-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Oxon Hill at Fairmont Heights
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Oxon Hill 1\, Fairmont Heights 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-cmit-south-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Oxon Hill at CMIT - South
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Oxon Hill 7\, CMIT - South 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-oxon-hill-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Potomac at Oxon Hill
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Oxon Hill 3\, Potomac 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-friendly-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20260928T163000
 DTEND;TZID=America/New_York:20260928T183000
 SUMMARY:Boys Soccer: Oxon Hill at Friendly
@@ -53,7 +53,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-largo-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Oxon Hill at Largo
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Oxon Hill 4\, Largo 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-international-hs-at-largo-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20261005T163000
 DTEND;TZID=America/New_York:20261005T183000
 SUMMARY:Boys Soccer: Oxon Hill at International HS at Largo
@@ -72,7 +72,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-frederick-douglass-pg-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: Oxon Hill at Frederick Douglass-PG
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-cmit-north-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Oxon Hill at CMIT - North
@@ -91,7 +91,7 @@ DESCRIPTION:Final: Oxon Hill 4\, CMIT - North 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-gwynn-park-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Oxon Hill at Gwynn Park
@@ -100,7 +100,7 @@ DESCRIPTION:Final: Oxon Hill 5\, Gwynn Park 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-surrattsville-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20261022T150000
 DTEND;TZID=America/New_York:20261022T170000
 SUMMARY:Boys Soccer: Oxon Hill at Surrattsville

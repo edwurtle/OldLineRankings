@@ -6,7 +6,7 @@ X-WR-CALNAME:Dr. Henry A. Wise Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-dr-henry-a-wise-parkdale-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261210T191500
 DTEND;TZID=America/New_York:20261210T211500
 SUMMARY:Girls Basketball: Parkdale at Dr. Henry A. Wise
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-dr-henry-a-wise-duval-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261215T191500
 DTEND;TZID=America/New_York:20261215T211500
 SUMMARY:Girls Basketball: Duval at Dr. Henry A. Wise
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-dr-henry-a-wise-laurel-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261217T191500
 DTEND;TZID=America/New_York:20261217T211500
 SUMMARY:Girls Basketball: Laurel at Dr. Henry A. Wise
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-eleanor-roosevelt-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Eleanor Roosevelt
@@ -44,7 +44,7 @@ LOCATION:Eleanor Roosevelt
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-bladensburg-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270107T180000
 DTEND;TZID=America/New_York:20270107T200000
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Bladensburg
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-dr-henry-a-wise-high-point-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Girls Basketball: High Point at Dr. Henry A. Wise
@@ -62,7 +62,7 @@ LOCATION:Dr. Henry A. Wise
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-dr-henry-a-wise-charles-h-flowers-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Girls Basketball: Charles H. Flowers at Dr. Henry A. Wise
@@ -72,7 +72,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-bowie-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Bowie
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-northwestern-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270121T191500
 DTEND;TZID=America/New_York:20270121T211500
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Northwestern
@@ -92,7 +92,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-suitland-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270128T191500
 DTEND;TZID=America/New_York:20270128T211500
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Suitland
@@ -102,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-parkdale-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270202T191500
 DTEND;TZID=America/New_York:20270202T211500
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Parkdale
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-holy-cross-academy-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270203T170000
 DTEND;TZID=America/New_York:20270203T190000
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Holy Cross Academy
@@ -122,7 +122,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-duval-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270204T191500
 DTEND;TZID=America/New_York:20270204T211500
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Duval
@@ -131,7 +131,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6697117
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-laurel-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270210T191500
 DTEND;TZID=America/New_York:20270210T211500
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Laurel
@@ -141,7 +141,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-dr-henry-a-wise-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Girls Basketball: Eleanor Roosevelt at Dr. Henry A. Wise
@@ -151,7 +151,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-dr-henry-a-wise-bladensburg-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Girls Basketball: Bladensburg at Dr. Henry A. Wise
@@ -161,7 +161,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-high-point-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270218T191500
 DTEND;TZID=America/New_York:20270218T211500
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at High Point

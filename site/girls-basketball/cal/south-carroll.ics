@@ -6,7 +6,7 @@ X-WR-CALNAME:South Carroll Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-south-carroll-smithsburg-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261204T183000
 DTEND;TZID=America/New_York:20261204T203000
 SUMMARY:Girls Basketball: Smithsburg at South Carroll
@@ -14,7 +14,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-boonsboro-south-carroll-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261210T190000
 DTEND;TZID=America/New_York:20261210T210000
 SUMMARY:Girls Basketball: South Carroll at Boonsboro
@@ -22,7 +22,7 @@ LOCATION:Boonsboro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-westminster-south-carroll-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261214T183000
 DTEND;TZID=America/New_York:20261214T203000
 SUMMARY:Girls Basketball: South Carroll at Westminster
@@ -30,7 +30,7 @@ LOCATION:Westminster
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-liberty-south-carroll-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261215T183000
 DTEND;TZID=America/New_York:20261215T203000
 SUMMARY:Girls Basketball: South Carroll at Liberty
@@ -38,7 +38,7 @@ LOCATION:Liberty
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-south-carroll-century-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261218T183000
 DTEND;TZID=America/New_York:20261218T203000
 SUMMARY:Girls Basketball: Century at South Carroll
@@ -46,7 +46,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-francis-scott-key-south-carroll-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261222T180000
 DTEND;TZID=America/New_York:20261222T200000
 SUMMARY:Girls Basketball: South Carroll at Francis Scott Key
@@ -54,7 +54,7 @@ LOCATION:Francis Scott Key
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-manchester-valley-south-carroll-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270105T063000
 DTEND;TZID=America/New_York:20270105T083000
 SUMMARY:Girls Basketball: South Carroll at Manchester Valley
@@ -62,7 +62,7 @@ LOCATION:Manchester Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-south-carroll-linganore-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270111T183000
 DTEND;TZID=America/New_York:20270111T203000
 SUMMARY:Girls Basketball: Linganore at South Carroll
@@ -70,7 +70,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-south-carroll-winters-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270112T183000
 DTEND;TZID=America/New_York:20270112T203000
 SUMMARY:Girls Basketball: Winters Mill at South Carroll
@@ -78,7 +78,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-south-carroll-francis-scott-key-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270115T193000
 DTEND;TZID=America/New_York:20270115T213000
 SUMMARY:Girls Basketball: Francis Scott Key at South Carroll
@@ -86,7 +86,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-south-carroll-liberty-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270119T183000
 DTEND;TZID=America/New_York:20270119T203000
 SUMMARY:Girls Basketball: Liberty at South Carroll
@@ -94,7 +94,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-century-south-carroll-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270122T183000
 DTEND;TZID=America/New_York:20270122T203000
 SUMMARY:Girls Basketball: South Carroll at Century
@@ -102,7 +102,7 @@ LOCATION:Century
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-south-carroll-westminster-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270126T183000
 DTEND;TZID=America/New_York:20270126T203000
 SUMMARY:Girls Basketball: Westminster at South Carroll
@@ -110,7 +110,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-south-carroll-manchester-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270129T183000
 DTEND;TZID=America/New_York:20270129T203000
 SUMMARY:Girls Basketball: Manchester Valley at South Carroll
@@ -118,7 +118,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-south-carroll-catoctin-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270204T183000
 DTEND;TZID=America/New_York:20270204T203000
 SUMMARY:Girls Basketball: Catoctin at South Carroll
@@ -126,7 +126,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-winters-mill-south-carroll-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270205T183000
 DTEND;TZID=America/New_York:20270205T203000
 SUMMARY:Girls Basketball: South Carroll at Winters Mill
@@ -134,7 +134,7 @@ LOCATION:Winters Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-south-carroll-frederick-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270208T183000
 DTEND;TZID=America/New_York:20270208T203000
 SUMMARY:Girls Basketball: Frederick at South Carroll
@@ -142,7 +142,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-mountain-ridge-south-carroll-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270211T173000
 DTEND;TZID=America/New_York:20270211T193000
 SUMMARY:Girls Basketball: South Carroll at Mountain Ridge
@@ -152,7 +152,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-south-carroll-walkersville-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270216T183000
 DTEND;TZID=America/New_York:20270216T203000
 SUMMARY:Girls Basketball: Walkersville at South Carroll
@@ -160,7 +160,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-middletown-south-carroll-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270219T190000
 DTEND;TZID=America/New_York:20270219T210000
 SUMMARY:Girls Basketball: South Carroll at Middletown

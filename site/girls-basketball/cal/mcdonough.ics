@@ -6,7 +6,7 @@ X-WR-CALNAME:McDonough Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-mcdonough-henry-e-lackey-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261204T184500
 DTEND;TZID=America/New_York:20261204T204500
 SUMMARY:Girls Basketball: Henry E. Lackey at McDonough
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-st-charles-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261209T181500
 DTEND;TZID=America/New_York:20261209T201500
 SUMMARY:Girls Basketball: McDonough at St. Charles
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-mcdonough-chopticon-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261214T181500
 DTEND;TZID=America/New_York:20261214T201500
 SUMMARY:Girls Basketball: Chopticon at McDonough
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-westlake-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261218T170000
 DTEND;TZID=America/New_York:20261218T190000
 SUMMARY:Girls Basketball: McDonough at Westlake
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-calvert-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270106T170000
 DTEND;TZID=America/New_York:20270106T190000
 SUMMARY:Girls Basketball: McDonough at Calvert
@@ -54,7 +54,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-north-point-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270108T190000
 DTEND;TZID=America/New_York:20270108T210000
 SUMMARY:Girls Basketball: McDonough at North Point
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-chopticon-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270113T181500
 DTEND;TZID=America/New_York:20270113T201500
 SUMMARY:Girls Basketball: McDonough at Chopticon
@@ -72,7 +72,7 @@ LOCATION:Chopticon
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-great-mills-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270115T181500
 DTEND;TZID=America/New_York:20270115T201500
 SUMMARY:Girls Basketball: McDonough at Great Mills
@@ -80,7 +80,7 @@ LOCATION:Great Mills
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-thomas-stone-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270119T190000
 DTEND;TZID=America/New_York:20270119T210000
 SUMMARY:Girls Basketball: McDonough at Thomas Stone
@@ -90,7 +90,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-mcdonough-calvert-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270120T181500
 DTEND;TZID=America/New_York:20270120T201500
 SUMMARY:Girls Basketball: Calvert at McDonough
@@ -100,7 +100,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-patuxent-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270127T181500
 DTEND;TZID=America/New_York:20270127T201500
 SUMMARY:Girls Basketball: McDonough at Patuxent
@@ -110,7 +110,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-mcdonough-st-charles-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270129T190000
 DTEND;TZID=America/New_York:20270129T210000
 SUMMARY:Girls Basketball: St. Charles at McDonough
@@ -120,7 +120,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-mcdonough-northern-c-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270203T181500
 DTEND;TZID=America/New_York:20270203T201500
 SUMMARY:Girls Basketball: Northern-C at McDonough
@@ -130,7 +130,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-la-plata-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270205T181500
 DTEND;TZID=America/New_York:20270205T201500
 SUMMARY:Girls Basketball: McDonough at La Plata
@@ -140,7 +140,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-leonardtown-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270210T181500
 DTEND;TZID=America/New_York:20270210T201500
 SUMMARY:Girls Basketball: McDonough at Leonardtown
@@ -148,7 +148,7 @@ LOCATION:Leonardtown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-mcdonough-westlake-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270212T190000
 DTEND;TZID=America/New_York:20270212T210000
 SUMMARY:Girls Basketball: Westlake at McDonough
@@ -158,7 +158,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-mcdonough-huntingtown-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270217T181500
 DTEND;TZID=America/New_York:20270217T201500
 SUMMARY:Girls Basketball: Huntingtown at McDonough
@@ -168,7 +168,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-mcdonough-henry-e-lackey-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270219T190000
 DTEND;TZID=America/New_York:20270219T210000
 SUMMARY:Girls Basketball: Henry E. Lackey at McDonough

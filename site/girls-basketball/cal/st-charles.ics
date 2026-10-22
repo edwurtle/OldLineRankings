@@ -6,7 +6,7 @@ X-WR-CALNAME:St. Charles Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-24-south-river-st-charles-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261124T181500
 DTEND;TZID=America/New_York:20261124T201500
 SUMMARY:Girls Basketball: St. Charles at South River
@@ -14,7 +14,7 @@ LOCATION:South River
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-st-charles-frederick-douglass-pg-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261204T061500
 DTEND;TZID=America/New_York:20261204T081500
 SUMMARY:Girls Basketball: Frederick Douglass-PG at St. Charles
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-st-charles-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261209T181500
 DTEND;TZID=America/New_York:20261209T201500
 SUMMARY:Girls Basketball: McDonough at St. Charles
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-westlake-st-charles-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261214T181500
 DTEND;TZID=America/New_York:20261214T201500
 SUMMARY:Girls Basketball: St. Charles at Westlake
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-st-charles-thomas-stone-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20261216T180000
 DTEND;TZID=America/New_York:20261216T200000
 SUMMARY:Girls Basketball: Thomas Stone at St. Charles
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-st-charles-henry-e-lackey-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270108T181500
 DTEND;TZID=America/New_York:20270108T201500
 SUMMARY:Girls Basketball: Henry E. Lackey at St. Charles
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-huntingtown-st-charles-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270113T181500
 DTEND;TZID=America/New_York:20270113T201500
 SUMMARY:Girls Basketball: St. Charles at Huntingtown
@@ -72,7 +72,7 @@ LOCATION:Huntingtown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-la-plata-st-charles-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270115T181500
 DTEND;TZID=America/New_York:20270115T201500
 SUMMARY:Girls Basketball: St. Charles at La Plata
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-st-charles-great-mills-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270120T181500
 DTEND;TZID=America/New_York:20270120T201500
 SUMMARY:Girls Basketball: Great Mills at St. Charles
@@ -92,7 +92,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-st-charles-north-point-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000
 SUMMARY:Girls Basketball: North Point at St. Charles
@@ -102,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-chopticon-st-charles-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270127T181500
 DTEND;TZID=America/New_York:20270127T201500
 SUMMARY:Girls Basketball: St. Charles at Chopticon
@@ -110,7 +110,7 @@ LOCATION:Chopticon
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-mcdonough-st-charles-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270129T190000
 DTEND;TZID=America/New_York:20270129T210000
 SUMMARY:Girls Basketball: St. Charles at McDonough
@@ -120,7 +120,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-st-charles-calvert-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270203T181500
 DTEND;TZID=America/New_York:20270203T201500
 SUMMARY:Girls Basketball: Calvert at St. Charles
@@ -130,7 +130,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-thomas-stone-st-charles-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Girls Basketball: St. Charles at Thomas Stone
@@ -140,7 +140,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-patuxent-st-charles-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270210T181500
 DTEND;TZID=America/New_York:20270210T201500
 SUMMARY:Girls Basketball: St. Charles at Patuxent
@@ -150,7 +150,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-leonardtown-st-charles-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270212T181500
 DTEND;TZID=America/New_York:20270212T201500
 SUMMARY:Girls Basketball: St. Charles at Leonardtown
@@ -158,7 +158,7 @@ LOCATION:Leonardtown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-st-charles-northern-c-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270217T181500
 DTEND;TZID=America/New_York:20270217T201500
 SUMMARY:Girls Basketball: Northern-C at St. Charles
@@ -168,7 +168,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-st-charles-westlake-girls-basketball@oldlinerankings
-DTSTAMP:20261022T003843Z
+DTSTAMP:20261022T082002Z
 DTSTART;TZID=America/New_York:20270219T181500
 DTEND;TZID=America/New_York:20270219T201500
 SUMMARY:Girls Basketball: Westlake at St. Charles

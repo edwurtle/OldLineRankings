@@ -6,7 +6,7 @@ X-WR-CALNAME:Laurel Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-laurel-md-dematha-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Boys Soccer: MD-Dematha at Laurel
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-laurel-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20260910T163000
 DTEND;TZID=America/New_York:20260910T183000
 SUMMARY:Boys Soccer: Bladensburg at Laurel
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-laurel-northwestern-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Northwestern at Laurel
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Laurel 2\, Northwestern 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-laurel-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20260917T153000
 DTEND;TZID=America/New_York:20260917T173000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Laurel
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-laurel-charles-h-flowers-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20260922T154000
 DTEND;TZID=America/New_York:20260922T174000
 SUMMARY:Boys Soccer: Charles H. Flowers at Laurel
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-high-point-laurel-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20260928T153000
 DTEND;TZID=America/New_York:20260928T173000
 SUMMARY:Boys Soccer: Laurel at High Point
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-laurel-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T173000
 SUMMARY:Boys Soccer: Bowie at Laurel
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-laurel-parkdale-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20261008T153000
 DTEND;TZID=America/New_York:20261008T173000
 SUMMARY:Boys Soccer: Parkdale at Laurel
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-laurel-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Suitland at Laurel
@@ -94,7 +94,7 @@ DESCRIPTION:Final: Laurel 3\, Suitland 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-laurel-duval-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20261015T153000
 DTEND;TZID=America/New_York:20261015T173000
 SUMMARY:Boys Soccer: Duval at Laurel
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-laurel-eleanor-roosevelt-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20261019T180000
 DTEND;TZID=America/New_York:20261019T200000
 SUMMARY:Boys Soccer: Eleanor Roosevelt at Laurel
@@ -114,12 +114,12 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-cmit-north-laurel-boys-soccer@oldlinerankings
-DTSTAMP:20261022T003703Z
+DTSTAMP:20261022T081835Z
 DTSTART;TZID=America/New_York:20261021T190000
 DTEND;TZID=America/New_York:20261021T210000
 SUMMARY:Boys Soccer: Laurel at CMIT - North
 LOCATION:CMIT - North
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgama224fd8f5f\nTickets: https://gofan.co/event/6721396
+DESCRIPTION:Final: Laurel 7\, CMIT - North 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgama224fd8f5f
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Flaurel-high-school-laurel-md%2Fgama224fd8f5f
 END:VEVENT
 END:VCALENDAR
