@@ -6,7 +6,7 @@ X-WR-CALNAME:Springbrook Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-poolesville-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20260909T191500
 DTEND;TZID=America/New_York:20260909T211500
 SUMMARY:Girls Soccer: Springbrook at Poolesville
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-sherwood-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20260915T191500
 DTEND;TZID=America/New_York:20260915T211500
 SUMMARY:Girls Soccer: Springbrook at Sherwood
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-james-hubert-blake-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20260918T180000
 DTEND;TZID=America/New_York:20260918T200000
 SUMMARY:Girls Soccer: Springbrook at James Hubert Blake
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-springbrook-paint-branch-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
 SUMMARY:Girls Soccer: Paint Branch at Springbrook
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-gaithersburg-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20260925T191500
 DTEND;TZID=America/New_York:20260925T211500
 SUMMARY:Girls Soccer: Springbrook at Gaithersburg
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-col-zadok-magruder-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20260930T191500
 DTEND;TZID=America/New_York:20260930T211500
 SUMMARY:Girls Soccer: Springbrook at Col. Zadok Magruder
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-seneca-valley-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20261006T191500
 DTEND;TZID=America/New_York:20261006T211500
 SUMMARY:Girls Soccer: Springbrook at Seneca Valley
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-northwood-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20261008T191500
 DTEND;TZID=America/New_York:20261008T211500
 SUMMARY:Girls Soccer: Springbrook at Northwood
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-northwest-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20261012T171500
 DTEND;TZID=America/New_York:20261012T191500
 SUMMARY:Girls Soccer: Springbrook at Northwest
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-watkins-mill-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20261016T171500
 DTEND;TZID=America/New_York:20261016T191500
 SUMMARY:Girls Soccer: Springbrook at Watkins Mill
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-damascus-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20261020T191500
 DTEND;TZID=America/New_York:20261020T211500
 SUMMARY:Girls Soccer: Springbrook at Damascus
@@ -116,7 +116,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-clarksburg-springbrook-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20261022T191500
 DTEND;TZID=America/New_York:20261022T211500
 SUMMARY:Girls Soccer: Springbrook at Clarksburg

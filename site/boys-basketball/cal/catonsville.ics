@@ -6,7 +6,7 @@ X-WR-CALNAME:Catonsville Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-30-towson-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20261130T173000
 DTEND;TZID=America/New_York:20261130T193000
 SUMMARY:Boys Basketball: Catonsville at Towson
@@ -14,7 +14,7 @@ LOCATION:Towson
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-sparrows-point-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20261204T173000
 DTEND;TZID=America/New_York:20261204T193000
 SUMMARY:Boys Basketball: Catonsville at Sparrows Point
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-catonsville-milford-mill-academy-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20261209T173000
 DTEND;TZID=America/New_York:20261209T193000
 SUMMARY:Boys Basketball: Milford Mill Academy at Catonsville
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-catonsville-woodlawn-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20261212T143000
 DTEND;TZID=America/New_York:20261212T163000
 SUMMARY:Boys Basketball: Woodlawn at Catonsville
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-catonsville-crofton-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20261214T173000
 DTEND;TZID=America/New_York:20261214T193000
 SUMMARY:Boys Basketball: Crofton at Catonsville
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-woodlawn-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Boys Basketball: Catonsville at Woodlawn
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-new-town-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20261218T173000
 DTEND;TZID=America/New_York:20261218T193000
 SUMMARY:Boys Basketball: Catonsville at New Town
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-randallstown-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Boys Basketball: Catonsville at Randallstown
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-catonsville-western-tech-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Boys Basketball: Western Tech at Catonsville
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-lansdowne-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20270111T173000
 DTEND;TZID=America/New_York:20270111T193000
 SUMMARY:Boys Basketball: Catonsville at Lansdowne
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-catonsville-pikesville-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
 SUMMARY:Boys Basketball: Pikesville at Catonsville
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-catonsville-hereford-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20270120T173000
 DTEND;TZID=America/New_York:20270120T193000
 SUMMARY:Boys Basketball: Hereford at Catonsville
@@ -124,7 +124,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-franklin-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Boys Basketball: Catonsville at Franklin
@@ -134,7 +134,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-milford-mill-academy-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20270129T173000
 DTEND;TZID=America/New_York:20270129T193000
 SUMMARY:Boys Basketball: Catonsville at Milford Mill Academy
@@ -144,7 +144,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-dulaney-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Boys Basketball: Catonsville at Dulaney
@@ -154,7 +154,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-catonsville-new-town-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20270205T173000
 DTEND;TZID=America/New_York:20270205T193000
 SUMMARY:Boys Basketball: New Town at Catonsville
@@ -164,7 +164,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-loch-raven-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20270208T173000
 DTEND;TZID=America/New_York:20270208T193000
 SUMMARY:Boys Basketball: Catonsville at Loch Raven
@@ -174,7 +174,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-catonsville-lansdowne-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20270210T173000
 DTEND;TZID=America/New_York:20270210T193000
 SUMMARY:Boys Basketball: Lansdowne at Catonsville
@@ -184,7 +184,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-western-tech-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Boys Basketball: Catonsville at Western Tech
@@ -194,7 +194,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-catonsville-owings-mills-boys-basketball@oldlinerankings
-DTSTAMP:20261022T001441Z
+DTSTAMP:20261022T001928Z
 DTSTART;TZID=America/New_York:20270217T173000
 DTEND;TZID=America/New_York:20270217T193000
 SUMMARY:Boys Basketball: Owings Mills at Catonsville

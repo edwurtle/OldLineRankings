@@ -6,7 +6,7 @@ X-WR-CALNAME:Severn Run Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-15-severn-run-glen-burnie-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001211Z
+DTSTAMP:20261022T001816Z
 DTSTART;TZID=America/New_York:20260915T170000
 DTEND;TZID=America/New_York:20260915T190000
 SUMMARY:Boys Soccer: Glen Burnie at Severn Run
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-baltimore-polytechnic-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001211Z
+DTSTAMP:20261022T001816Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Severn Run at Baltimore Polytechnic
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Severn Run 3\, Baltimore Polytechnic 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-baltimore-city-college-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001211Z
+DTSTAMP:20261022T001816Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Boys Soccer: Severn Run at Baltimore City College
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Severn Run 7\, Baltimore City College 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-severna-park-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001211Z
+DTSTAMP:20261022T001816Z
 DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T190000
 SUMMARY:Boys Soccer: Severn Run at Severna Park
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-northeast-aa-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001211Z
+DTSTAMP:20261022T001816Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Severn Run at Northeast-AA
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-severn-run-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001211Z
+DTSTAMP:20261022T001816Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Boys Soccer: Annapolis at Severn Run
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-chesapeake-science-point-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001211Z
+DTSTAMP:20261022T001816Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Boys Soccer: Severn Run at Chesapeake Science Point
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-severn-run-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001211Z
+DTSTAMP:20261022T001816Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Meade at Severn Run
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-severn-run-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001211Z
+DTSTAMP:20261022T001816Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Boys Soccer: Crofton at Severn Run
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-severn-run-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001211Z
+DTSTAMP:20261022T001816Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: North County at Severn Run
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-southern-aa-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001211Z
+DTSTAMP:20261022T001816Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Boys Soccer: Severn Run at Southern-AA
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-arundel-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261022T001211Z
+DTSTAMP:20261022T001816Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Severn Run at Arundel

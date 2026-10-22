@@ -6,7 +6,7 @@ X-WR-CALNAME:Brunswick Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-brunswick-frederick-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Girls Soccer: Frederick at Brunswick
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-brunswick-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Girls Soccer: Tuscarora at Brunswick
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-brunswick-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Brunswick
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-brunswick-boonsboro-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20260917T180000
 DTEND;TZID=America/New_York:20260917T200000
 SUMMARY:Girls Soccer: Boonsboro at Brunswick
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-brunswick-catoctin-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Girls Soccer: Catoctin at Brunswick
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-brunswick-south-carroll-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Girls Soccer: South Carroll at Brunswick
@@ -65,7 +65,7 @@ DESCRIPTION:Final: Brunswick 0\, South Carroll 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-brunswick-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: Walkersville at Brunswick
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-clear-spring-brunswick-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Brunswick at Clear Spring
@@ -84,7 +84,7 @@ DESCRIPTION:Final: Brunswick -\, Clear Spring -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-brunswick-smithsburg-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Girls Soccer: Smithsburg at Brunswick
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-brunswick-middletown-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Middletown at Brunswick
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-brunswick-linganore-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Girls Soccer: Linganore at Brunswick
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-williamsport-brunswick-girls-soccer@oldlinerankings
-DTSTAMP:20261022T001321Z
+DTSTAMP:20261022T001844Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Girls Soccer: Brunswick at Williamsport
