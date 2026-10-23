@@ -6,7 +6,7 @@ X-WR-CALNAME:Duval Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-15-dr-henry-a-wise-duval-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20261215T191500
 DTEND;TZID=America/New_York:20261215T211500
 SUMMARY:Girls Basketball: Duval at Dr. Henry A. Wise
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-charles-h-flowers-duval-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20261217T191500
 DTEND;TZID=America/New_York:20261217T211500
 SUMMARY:Girls Basketball: Duval at Charles H. Flowers
@@ -24,7 +24,7 @@ LOCATION:Charles H. Flowers
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-parkdale-duval-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: Duval at Parkdale
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-duval-suitland-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20270107T191500
 DTEND;TZID=America/New_York:20270107T211500
 SUMMARY:Girls Basketball: Suitland at Duval
@@ -43,7 +43,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6697108
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-northwestern-duval-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Girls Basketball: Duval at Northwestern
@@ -53,7 +53,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-duval-bladensburg-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Girls Basketball: Bladensburg at Duval
@@ -62,7 +62,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6697109
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-high-point-duval-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Girls Basketball: Duval at High Point
@@ -70,7 +70,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-duval-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20270121T191500
 DTEND;TZID=America/New_York:20270121T211500
 SUMMARY:Girls Basketball: Eleanor Roosevelt at Duval
@@ -79,7 +79,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6697112
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-duval-laurel-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Girls Basketball: Laurel at Duval
@@ -88,7 +88,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6697114
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-duval-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20270128T191500
 DTEND;TZID=America/New_York:20270128T211500
 SUMMARY:Girls Basketball: Bowie at Duval
@@ -97,7 +97,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6697116
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-duval-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20270204T191500
 DTEND;TZID=America/New_York:20270204T211500
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Duval
@@ -106,7 +106,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6697117
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-duval-charles-h-flowers-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20270210T191500
 DTEND;TZID=America/New_York:20270210T211500
 SUMMARY:Girls Basketball: Charles H. Flowers at Duval
@@ -115,7 +115,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6697120
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-duval-parkdale-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Girls Basketball: Parkdale at Duval
@@ -124,7 +124,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6697122
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-suitland-duval-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Girls Basketball: Duval at Suitland
@@ -134,7 +134,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-duval-northwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20270218T191500
 DTEND;TZID=America/New_York:20270218T211500
 SUMMARY:Girls Basketball: Northwestern at Duval

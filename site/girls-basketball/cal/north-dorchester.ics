@@ -6,7 +6,7 @@ X-WR-CALNAME:North Dorchester Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-washington-north-dorchester-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20261204T180000
 DTEND;TZID=America/New_York:20261204T200000
 SUMMARY:Girls Basketball: North Dorchester at Washington
@@ -14,7 +14,7 @@ LOCATION:Washington
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-arcadia-north-dorchester-girls-basketball@oldlinerankings
-DTSTAMP:20261023T014157Z
+DTSTAMP:20261023T014453Z
 DTSTART;TZID=America/New_York:20261214T160000
 DTEND;TZID=America/New_York:20261214T180000
 SUMMARY:Girls Basketball: North Dorchester at Arcadia

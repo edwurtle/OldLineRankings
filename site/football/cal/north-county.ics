@@ -6,7 +6,7 @@ X-WR-CALNAME:North County Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-north-county-kenwood-football@oldlinerankings
-DTSTAMP:20261023T013853Z
+DTSTAMP:20261023T014242Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Kenwood at North County
@@ -15,7 +15,7 @@ DESCRIPTION:Final: North County 6\, Kenwood 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-owings-mills-north-county-football@oldlinerankings
-DTSTAMP:20261023T013853Z
+DTSTAMP:20261023T014242Z
 DTSTART;TZID=America/New_York:20260910T183000
 DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Football: North County at Owings Mills
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-meade-north-county-football@oldlinerankings
-DTSTAMP:20261023T013853Z
+DTSTAMP:20261023T014242Z
 DTSTART;TZID=America/New_York:20260918T190000
 DTEND;TZID=America/New_York:20260918T210000
 SUMMARY:Football: North County at Meade
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-glen-burnie-north-county-football@oldlinerankings
-DTSTAMP:20261023T013853Z
+DTSTAMP:20261023T014242Z
 DTSTART;TZID=America/New_York:20260925T174500
 DTEND;TZID=America/New_York:20260925T194500
 SUMMARY:Football: North County at Glen Burnie
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-north-county-old-mill-football@oldlinerankings
-DTSTAMP:20261023T013853Z
+DTSTAMP:20261023T014242Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Old Mill at North County
@@ -54,7 +54,7 @@ DESCRIPTION:Final: North County 0\, Old Mill 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-broadneck-north-county-football@oldlinerankings
-DTSTAMP:20261023T013853Z
+DTSTAMP:20261023T014242Z
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:Football: North County at Broadneck
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-annapolis-north-county-football@oldlinerankings
-DTSTAMP:20261023T013853Z
+DTSTAMP:20261023T014242Z
 DTSTART;TZID=America/New_York:20261016T173000
 DTEND;TZID=America/New_York:20261016T193000
 SUMMARY:Football: North County at Annapolis
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-north-county-severna-park-football@oldlinerankings
-DTSTAMP:20261023T013853Z
+DTSTAMP:20261023T014242Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Severna Park at North County
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-north-county-severn-run-football@oldlinerankings
-DTSTAMP:20261023T013853Z
+DTSTAMP:20261023T014242Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Football: Severn Run at North County
