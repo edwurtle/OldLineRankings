@@ -606,12 +606,22 @@ body.embed .drawer { width: 100%; box-shadow: none; transition: none; }
 @media (max-width: 640px) {
   .hero-flag { display: none; }
   .hero-inner { padding: 28px 16px 32px; }
-  /* Brackets: rounds stacked one under another (no sideways scrolling, no connector lines) */
-  .bracket, .bracket.mini { grid-template-columns: 1fr; gap: 18px; overflow-x: visible; }
-  .bgames, .bpair, .bslot { flex: none; }
-  .bpair::after, .fed .match::before, .to-next .match::after { display: none; }
-  .bpair { gap: 0; }
-  .bracket .slot .nm { white-space: nowrap; overflow-wrap: normal; }
+  /* Brackets: the first round keeps full team cards; later rounds are narrow columns of seed + logo,
+     still joined by the connector lines */
+  .bracket, .bracket.mini { --gap: 16px; grid-template-columns: minmax(0, 1fr); grid-auto-columns: 56px; grid-auto-flow: column; padding: 12px; }
+  .bracket .bcol.fed h4 { font-size: 8.5px; letter-spacing: 0; text-align: center; }
+  .bracket .slot.tcard .wp { min-width: 40px; padding: 0 6px; }
+  .rhead { gap: 12px; }
+  .rhead h3 { white-space: nowrap; }
+  .rhead small { text-align: right; font-size: 11px; }
+  .bracket .bcol.fed .slot { grid-template-columns: 1fr; justify-items: center; gap: 2px; padding: 6px 2px; }
+  .bracket .bcol.fed .slot .info, .bracket .bcol.fed .slot .wp, .bracket .bcol.fed .coin-tag { display: none; }
+  .bracket .bcol.fed .slot .seed { font-size: 10px; line-height: 1; }
+  .bracket .bcol.fed .slot .logo { --sz: 30px !important; }
+  .bracket .bcol.fed .slot.tbd { min-height: 0; padding: 10px 2px; }
+  .bracket .bcol.fed .slot.tbd .nm { font-size: 10px; }
+  .bracket .bcol.fed .slot.tbd > span:not(.nm) { display: none; }
+  .bracket .bcol.fed .coin-ic { width: 30px; height: 30px; }
   /* Drawer game rows: tighter, so the opponent's name has room */
   .game { gap: 10px; padding: 10px 12px; grid-template-columns: 30px 30px minmax(0, 1fr) auto; }
   .game .logo { --sz: 30px !important; }

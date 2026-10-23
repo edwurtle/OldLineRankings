@@ -6,7 +6,7 @@ X-WR-CALNAME:Severna Park Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-annapolis-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20261204T184500
 DTEND;TZID=America/New_York:20261204T204500
 SUMMARY:Boys Basketball: Severna Park at Annapolis
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-surrattsville-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Boys Basketball: Severna Park at Surrattsville
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-severna-park-broadneck-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20261211T184500
 DTEND;TZID=America/New_York:20261211T204500
 SUMMARY:Boys Basketball: Broadneck at Severna Park
@@ -34,7 +34,7 @@ LOCATION:Severna Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-green-street-academy-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20261214T171500
 DTEND;TZID=America/New_York:20261214T191500
 SUMMARY:Boys Basketball: Severna Park at Green Street Academy
@@ -42,7 +42,7 @@ LOCATION:Green Street Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-westlake-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20261216T181500
 DTEND;TZID=America/New_York:20261216T201500
 SUMMARY:Boys Basketball: Severna Park at Westlake
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-severna-park-chesapeake-science-point-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20261218T184500
 DTEND;TZID=America/New_York:20261218T204500
 SUMMARY:Boys Basketball: Chesapeake Science Point at Severna Park
@@ -60,7 +60,7 @@ LOCATION:Severna Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-glen-burnie-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270105T180000
 DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:Boys Basketball: Severna Park at Glen Burnie
@@ -68,7 +68,7 @@ LOCATION:Glen Burnie
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-north-county-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270108T184500
 DTEND;TZID=America/New_York:20270108T204500
 SUMMARY:Boys Basketball: Severna Park at North County
@@ -76,7 +76,7 @@ LOCATION:North County
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-northeast-aa-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270112T180000
 DTEND;TZID=America/New_York:20270112T200000
 SUMMARY:Boys Basketball: Severna Park at Northeast-AA
@@ -84,7 +84,7 @@ LOCATION:Northeast-AA
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-southern-aa-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270115T184500
 DTEND;TZID=America/New_York:20270115T204500
 SUMMARY:Boys Basketball: Severna Park at Southern-AA
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-arundel-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270122T184500
 DTEND;TZID=America/New_York:20270122T204500
 SUMMARY:Boys Basketball: Severna Park at Arundel
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-severna-park-crofton-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270126T180000
 DTEND;TZID=America/New_York:20270126T200000
 SUMMARY:Boys Basketball: Crofton at Severna Park
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-severna-park-old-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270129T184500
 DTEND;TZID=America/New_York:20270129T204500
 SUMMARY:Boys Basketball: Old Mill at Severna Park
@@ -124,7 +124,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-severn-run-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270202T180000
 DTEND;TZID=America/New_York:20270202T200000
 SUMMARY:Boys Basketball: Severna Park at Severn Run
@@ -132,7 +132,7 @@ LOCATION:Severn Run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-severna-park-annapolis-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270205T184500
 DTEND;TZID=America/New_York:20270205T204500
 SUMMARY:Boys Basketball: Annapolis at Severna Park
@@ -140,7 +140,7 @@ LOCATION:Severna Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-severna-park-meade-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270210T180000
 DTEND;TZID=America/New_York:20270210T200000
 SUMMARY:Boys Basketball: Meade at Severna Park
@@ -150,7 +150,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-broadneck-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270212T184500
 DTEND;TZID=America/New_York:20270212T204500
 SUMMARY:Boys Basketball: Severna Park at Broadneck
@@ -158,7 +158,7 @@ LOCATION:Broadneck
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-severna-park-south-river-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270216T180000
 DTEND;TZID=America/New_York:20270216T200000
 SUMMARY:Boys Basketball: South River at Severna Park
@@ -168,7 +168,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-chesapeake-aa-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270218T180000
 DTEND;TZID=America/New_York:20270218T200000
 SUMMARY:Boys Basketball: Severna Park at Chesapeake-AA
@@ -176,7 +176,7 @@ LOCATION:Chesapeake-AA
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-laurel-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261023T014412Z
+DTSTAMP:20261023T020302Z
 DTSTART;TZID=America/New_York:20270222T191500
 DTEND;TZID=America/New_York:20270222T211500
 SUMMARY:Boys Basketball: Severna Park at Laurel
