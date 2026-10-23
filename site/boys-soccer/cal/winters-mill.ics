@@ -6,7 +6,7 @@ X-WR-CALNAME:Winters Mill Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-winters-mill-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020516Z
+DTSTAMP:20261023T082017Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Boys Soccer: Frederick at Winters Mill
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Winters Mill 4\, Frederick 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-hereford-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020516Z
+DTSTAMP:20261023T082017Z
 DTSTART;TZID=America/New_York:20260916T183000
 DTEND;TZID=America/New_York:20260916T203000
 SUMMARY:Boys Soccer: Winters Mill at Hereford
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-manchester-valley-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020516Z
+DTSTAMP:20261023T082017Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Winters Mill at Manchester Valley
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Winters Mill 10\, Manchester Valley 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-francis-scott-key-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020516Z
+DTSTAMP:20261023T082017Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Winters Mill at Francis Scott Key
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Winters Mill 5\, Francis Scott Key 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-century-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020516Z
+DTSTAMP:20261023T082017Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Winters Mill at Century
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Winters Mill 2\, Century 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-liberty-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020516Z
+DTSTAMP:20261023T082017Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Winters Mill at Liberty
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Winters Mill 4\, Liberty 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-south-carroll-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020516Z
+DTSTAMP:20261023T082017Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Winters Mill at South Carroll
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Winters Mill 4\, South Carroll 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-winters-mill-westminster-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020516Z
+DTSTAMP:20261023T082017Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Westminster at Winters Mill
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Winters Mill 4\, Westminster 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-winters-mill-north-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020516Z
+DTSTAMP:20261023T082017Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: North Hagerstown at Winters Mill
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Winters Mill 1\, North Hagerstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-westminster-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020516Z
+DTSTAMP:20261023T082017Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Boys Soccer: Winters Mill at Westminster
@@ -97,7 +97,7 @@ DESCRIPTION:Final: Winters Mill 4\, Westminster 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-winters-mill-perry-hall-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020516Z
+DTSTAMP:20261023T082017Z
 DTSTART;TZID=America/New_York:20261020T160000
 DTEND;TZID=America/New_York:20261020T180000
 SUMMARY:Boys Soccer: Perry Hall at Winters Mill
@@ -107,7 +107,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-winters-mill-dulaney-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020516Z
+DTSTAMP:20261023T082017Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Dulaney at Winters Mill
@@ -116,10 +116,11 @@ DESCRIPTION:Final: Winters Mill 2\, Dulaney 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-owings-mills-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020516Z
+DTSTAMP:20261023T082017Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Boys Soccer: Winters Mill at Owings Mills
 LOCATION:Owings Mills
+DESCRIPTION:Final: Winters Mill 1\, Owings Mills 0
 END:VEVENT
 END:VCALENDAR
