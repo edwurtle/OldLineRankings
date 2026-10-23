@@ -6,7 +6,7 @@ X-WR-CALNAME:Perryville Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-patterson-mill-perryville-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020126Z
+DTSTAMP:20261023T020516Z
 DTSTART;TZID=America/New_York:20260908T170000
 DTEND;TZID=America/New_York:20260908T190000
 SUMMARY:Boys Soccer: Perryville at Patterson Mill
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-perryville-c-milton-wright-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020126Z
+DTSTAMP:20261023T020516Z
 DTSTART;TZID=America/New_York:20260917T170000
 DTEND;TZID=America/New_York:20260917T190000
 SUMMARY:Boys Soccer: C. Milton Wright at Perryville
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-bohemia-manor-perryville-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020126Z
+DTSTAMP:20261023T020516Z
 DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T190000
 SUMMARY:Boys Soccer: Perryville at Bohemia Manor
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-perryville-elkton-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020126Z
+DTSTAMP:20261023T020516Z
 DTSTART;TZID=America/New_York:20260924T170000
 DTEND;TZID=America/New_York:20260924T190000
 SUMMARY:Boys Soccer: Elkton at Perryville
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-harford-tech-perryville-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020126Z
+DTSTAMP:20261023T020516Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Perryville at Harford Tech
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Perryville 1\, Harford Tech 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-perryville-edgewood-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020126Z
+DTSTAMP:20261023T020516Z
 DTSTART;TZID=America/New_York:20261005T170000
 DTEND;TZID=America/New_York:20261005T190000
 SUMMARY:Boys Soccer: Edgewood at Perryville
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-perryville-fallston-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020126Z
+DTSTAMP:20261023T020516Z
 DTSTART;TZID=America/New_York:20261007T190000
 DTEND;TZID=America/New_York:20261007T210000
 SUMMARY:Boys Soccer: Fallston at Perryville
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-perryville-rising-sun-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020126Z
+DTSTAMP:20261023T020516Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Rising Sun at Perryville
@@ -84,7 +84,7 @@ DESCRIPTION:Final: Perryville 3\, Rising Sun 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-havre-de-grace-perryville-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020126Z
+DTSTAMP:20261023T020516Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Perryville at Havre de Grace
@@ -93,7 +93,7 @@ DESCRIPTION:Final: Perryville 0\, Havre de Grace 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-perryville-north-east-c-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020126Z
+DTSTAMP:20261023T020516Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: North East-C at Perryville
@@ -102,7 +102,7 @@ DESCRIPTION:Final: Perryville 2\, North East-C 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-perryville-tbd-ucbac-boys-soccer@oldlinerankings
-DTSTAMP:20261023T020126Z
+DTSTAMP:20261023T020516Z
 DTSTART;TZID=America/New_York:20261023T185000
 DTEND;TZID=America/New_York:20261023T205000
 SUMMARY:Boys Soccer: TBD- UCBAC at Perryville

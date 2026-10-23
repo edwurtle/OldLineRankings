@@ -6,7 +6,7 @@ X-WR-CALNAME:James M. Bennett Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-parkside-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261023T020211Z
+DTSTAMP:20261023T020546Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Girls Soccer: James M. Bennett at Parkside
@@ -15,7 +15,7 @@ DESCRIPTION:Final: James M. Bennett 5\, Parkside 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-easton-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261023T020211Z
+DTSTAMP:20261023T020546Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: James M. Bennett at Easton
@@ -24,7 +24,7 @@ DESCRIPTION:Final: James M. Bennett 4\, Easton 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-wicomico-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261023T020211Z
+DTSTAMP:20261023T020546Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: James M. Bennett at Wicomico
@@ -33,7 +33,7 @@ DESCRIPTION:Final: James M. Bennett 8\, Wicomico 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-kent-island-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261023T020211Z
+DTSTAMP:20261023T020546Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: James M. Bennett at Kent Island
@@ -42,7 +42,7 @@ DESCRIPTION:Final: James M. Bennett 1\, Kent Island 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-crisfield-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261023T020211Z
+DTSTAMP:20261023T020546Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: James M. Bennett at Crisfield
@@ -51,7 +51,7 @@ DESCRIPTION:Final: James M. Bennett 8\, Crisfield 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-wicomico-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261023T020211Z
+DTSTAMP:20261023T020546Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: James M. Bennett at Wicomico
@@ -60,7 +60,7 @@ DESCRIPTION:Final: James M. Bennett 8\, Wicomico 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-queen-anne-s-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261023T020211Z
+DTSTAMP:20261023T020546Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: James M. Bennett at Queen Anne's
@@ -69,7 +69,7 @@ DESCRIPTION:Final: James M. Bennett 0\, Queen Anne's 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-mardela-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261023T020211Z
+DTSTAMP:20261023T020546Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: James M. Bennett at Mardela
@@ -78,7 +78,7 @@ DESCRIPTION:Final: James M. Bennett 9\, Mardela 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-snow-hill-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261023T020211Z
+DTSTAMP:20261023T020546Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: James M. Bennett at Snow Hill
@@ -87,7 +87,7 @@ DESCRIPTION:Final: James M. Bennett 8\, Snow Hill 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-james-m-bennett-stephen-decatur-girls-soccer@oldlinerankings
-DTSTAMP:20261023T020211Z
+DTSTAMP:20261023T020546Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Stephen Decatur at James M. Bennett
@@ -96,7 +96,7 @@ DESCRIPTION:Final: James M. Bennett 0\, Stephen Decatur 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-north-caroline-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261023T020211Z
+DTSTAMP:20261023T020546Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: James M. Bennett at North Caroline
@@ -105,7 +105,7 @@ DESCRIPTION:Final: James M. Bennett 7\, North Caroline 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-parkside-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261023T020211Z
+DTSTAMP:20261023T020546Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: James M. Bennett at Parkside

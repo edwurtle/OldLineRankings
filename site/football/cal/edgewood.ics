@@ -6,7 +6,7 @@ X-WR-CALNAME:Edgewood Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-bel-air-edgewood-football@oldlinerankings
-DTSTAMP:20261023T020047Z
+DTSTAMP:20261023T020447Z
 DTSTART;TZID=America/New_York:20260904T185000
 DTEND;TZID=America/New_York:20260904T205000
 SUMMARY:Football: Edgewood at Bel Air
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-aberdeen-edgewood-football@oldlinerankings
-DTSTAMP:20261023T020047Z
+DTSTAMP:20261023T020447Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Football: Edgewood at Aberdeen
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-harford-tech-edgewood-football@oldlinerankings
-DTSTAMP:20261023T020047Z
+DTSTAMP:20261023T020447Z
 DTSTART;TZID=America/New_York:20260918T183000
 DTEND;TZID=America/New_York:20260918T203000
 SUMMARY:Football: Edgewood at Harford Tech
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-perryville-edgewood-football@oldlinerankings
-DTSTAMP:20261023T020047Z
+DTSTAMP:20261023T020447Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Football: Edgewood at Perryville
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-havre-de-grace-edgewood-football@oldlinerankings
-DTSTAMP:20261023T020047Z
+DTSTAMP:20261023T020447Z
 DTSTART;TZID=America/New_York:20261002T183000
 DTEND;TZID=America/New_York:20261002T203000
 SUMMARY:Football: Edgewood at Havre de Grace
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-patterson-mill-edgewood-football@oldlinerankings
-DTSTAMP:20261023T020047Z
+DTSTAMP:20261023T020447Z
 DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T203000
 SUMMARY:Football: Edgewood at Patterson Mill
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-c-milton-wright-edgewood-football@oldlinerankings
-DTSTAMP:20261023T020047Z
+DTSTAMP:20261023T020447Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Football: Edgewood at C. Milton Wright
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-north-harford-edgewood-football@oldlinerankings
-DTSTAMP:20261023T020047Z
+DTSTAMP:20261023T020447Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Edgewood at North Harford
@@ -84,7 +84,7 @@ LOCATION:North Harford
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-fallston-edgewood-football@oldlinerankings
-DTSTAMP:20261023T020047Z
+DTSTAMP:20261023T020447Z
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:Football: Edgewood at Fallston
