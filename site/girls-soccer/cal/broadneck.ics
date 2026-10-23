@@ -6,7 +6,7 @@ X-WR-CALNAME:Broadneck Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-15-severna-park-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Girls Soccer: Broadneck at Severna Park
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-broadneck-private-st-mary-s-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Girls Soccer: Private - St. Mary's at Broadneck
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Broadneck 2\, Private - St. Mary's 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-meade-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: Broadneck at Meade
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Broadneck 8\, Meade 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-glen-burnie-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20260924T170000
 DTEND;TZID=America/New_York:20260924T190000
 SUMMARY:Girls Soccer: Broadneck at Glen Burnie
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-annapolis-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: Broadneck at Annapolis
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-south-river-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20261001T164500
 DTEND;TZID=America/New_York:20261001T184500
 SUMMARY:Girls Soccer: Broadneck at South River
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-arundel-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: Broadneck at Arundel
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-chesapeake-science-point-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T190000
 SUMMARY:Girls Soccer: Broadneck at Chesapeake Science Point
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-north-county-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Broadneck at North County
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-chesapeake-aa-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
 SUMMARY:Girls Soccer: Broadneck at Chesapeake-AA
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-old-mill-broadneck-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Girls Soccer: Broadneck at Old Mill
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-broadneck-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Girls Soccer: Crofton at Broadneck

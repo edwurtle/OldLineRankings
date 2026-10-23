@@ -6,7 +6,7 @@ X-WR-CALNAME:Bowie Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-bowie-annapolis-area-christian-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Annapolis Area Christian at Bowie
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Bowie 3\, Annapolis Area Christian 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-eleanor-roosevelt-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;TZID=America/New_York:20260910T164500
 DTEND;TZID=America/New_York:20260910T184500
 SUMMARY:Boys Soccer: Bowie at Eleanor Roosevelt
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-bladensburg-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;TZID=America/New_York:20260914T163000
 DTEND;TZID=America/New_York:20260914T183000
 SUMMARY:Boys Soccer: Bowie at Bladensburg
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-bowie-glen-burnie-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T120000
 SUMMARY:Boys Soccer: Glen Burnie at Bowie
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-northwestern-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;TZID=America/New_York:20260924T173000
 DTEND;TZID=America/New_York:20260924T193000
 SUMMARY:Boys Soccer: Bowie at Northwestern
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-charles-h-flowers-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Boys Soccer: Bowie at Charles H. Flowers
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-bowie-indian-creek-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;TZID=America/New_York:20260929T170000
 DTEND;TZID=America/New_York:20260929T190000
 SUMMARY:Boys Soccer: Indian Creek at Bowie
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-suitland-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Bowie at Suitland
@@ -84,7 +84,7 @@ DESCRIPTION:Final: Bowie -\, Suitland -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-laurel-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T173000
 SUMMARY:Boys Soccer: Bowie at Laurel
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-dr-henry-a-wise-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;TZID=America/New_York:20261008T150000
 DTEND;TZID=America/New_York:20261008T170000
 SUMMARY:Boys Soccer: Bowie at Dr. Henry A. Wise
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-high-point-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;TZID=America/New_York:20261012T170000
 DTEND;TZID=America/New_York:20261012T190000
 SUMMARY:Boys Soccer: Bowie at High Point
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-parkdale-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
 SUMMARY:Boys Soccer: Bowie at Parkdale
@@ -124,7 +124,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-duval-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;TZID=America/New_York:20261019T171500
 DTEND;TZID=America/New_York:20261019T191500
 SUMMARY:Boys Soccer: Bowie at Duval

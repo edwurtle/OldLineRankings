@@ -6,7 +6,7 @@ X-WR-CALNAME:CMIT - North Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-cmit-north-gwynn-park-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Gwynn Park at CMIT - North
@@ -15,7 +15,7 @@ DESCRIPTION:Final: CMIT - North 7\, Gwynn Park 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-cmit-north-frederick-douglass-pg-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Frederick Douglass-PG at CMIT - North
@@ -24,7 +24,7 @@ DESCRIPTION:Final: CMIT - North 6\, Frederick Douglass-PG 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-cmit-north-surrattsville-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Surrattsville at CMIT - North
@@ -33,7 +33,7 @@ DESCRIPTION:Final: CMIT - North 7\, Surrattsville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-cmit-north-crossland-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Crossland at CMIT - North
@@ -42,7 +42,7 @@ DESCRIPTION:Final: CMIT - North 8\, Crossland 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-cmit-north-international-hs-at-langley-park-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: International HS at Langley Park at CMIT - North
@@ -51,7 +51,7 @@ DESCRIPTION:Final: CMIT - North 6\, International HS at Langley Park 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-cmit-north-fairmont-heights-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Fairmont Heights at CMIT - North
@@ -60,7 +60,7 @@ DESCRIPTION:Final: CMIT - North 8\, Fairmont Heights 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-cmit-north-college-park-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: College Park Academy at CMIT - North
@@ -69,7 +69,7 @@ DESCRIPTION:Final: CMIT - North -\, College Park Academy -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-cmit-north-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Oxon Hill at CMIT - North
@@ -78,7 +78,7 @@ DESCRIPTION:Final: CMIT - North 3\, Oxon Hill 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-cmit-north-laurel-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20261021T170000
 DTEND;TZID=America/New_York:20261021T190000
 SUMMARY:Girls Soccer: Laurel at CMIT - North

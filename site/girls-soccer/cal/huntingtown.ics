@@ -6,7 +6,7 @@ X-WR-CALNAME:Huntingtown Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-southern-aa-huntingtown-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Girls Soccer: Huntingtown at Southern-AA
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Huntingtown -\, Southern-AA -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-henry-e-lackey-huntingtown-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Huntingtown at Henry E. Lackey
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Huntingtown 11\, Henry E. Lackey 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-huntingtown-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Great Mills at Huntingtown
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Huntingtown 4\, Great Mills 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-huntingtown-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: McDonough at Huntingtown
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Huntingtown -\, McDonough -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-huntingtown-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: Chopticon at Huntingtown
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Huntingtown 6\, Chopticon 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-huntingtown-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20260923T183000
 DTEND;TZID=America/New_York:20260923T203000
 SUMMARY:Girls Soccer: Westlake at Huntingtown
@@ -61,7 +61,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-calvert-huntingtown-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Girls Soccer: Huntingtown at Calvert
@@ -71,7 +71,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-patuxent-huntingtown-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Girls Soccer: Huntingtown at Patuxent
@@ -81,7 +81,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-huntingtown-la-plata-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20261008T181500
 DTEND;TZID=America/New_York:20261008T201500
 SUMMARY:Girls Soccer: La Plata at Huntingtown
@@ -91,7 +91,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-huntingtown-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Northern-C at Huntingtown
@@ -100,7 +100,7 @@ DESCRIPTION:Final: Huntingtown 1\, Northern-C 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-huntingtown-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;TZID=America/New_York:20261015T181500
 DTEND;TZID=America/New_York:20261015T201500
 SUMMARY:Girls Soccer: St. Charles at Huntingtown
@@ -110,7 +110,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-huntingtown-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261023T082046Z
+DTSTAMP:20261023T123028Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: Chopticon at Huntingtown

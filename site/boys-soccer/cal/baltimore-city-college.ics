@@ -6,7 +6,7 @@ X-WR-CALNAME:Baltimore City College Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-edmondson-westside-baltimore-city-college-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Baltimore City College at Edmondson-Westside
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Baltimore City College 10\, Edmondson-Westside 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-baltimore-city-college-md-park-school-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: MD- Park School at Baltimore City College
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Baltimore City College 1\, MD- Park School 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-paul-laurence-dunbar-baltimore-city-college-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Baltimore City College at Paul Laurence Dunbar
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Baltimore City College 6\, Paul Laurence Dunbar 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-baltimore-city-college-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Boys Soccer: Severn Run at Baltimore City College
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Baltimore City College 1\, Severn Run 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-baltimore-city-college-baltimore-polytechnic-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Baltimore Polytechnic at Baltimore City College
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Baltimore City College 0\, Baltimore Polytechnic 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-baltimore-city-college-digital-harbor-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Digital Harbor at Baltimore City College
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Baltimore City College 1\, Digital Harbor 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-baltimore-city-college-patterson-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Patterson at Baltimore City College
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Baltimore City College 0\, Patterson 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-baltimore-city-college-high-point-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Boys Soccer: High Point at Baltimore City College
@@ -78,7 +78,7 @@ DESCRIPTION:Final: Baltimore City College 2\, High Point 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-baltimore-city-college-baltimore-polytechnic-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Boys Soccer: Baltimore Polytechnic at Baltimore City College
@@ -88,7 +88,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-baltimore-city-college-digital-harbor-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Digital Harbor at Baltimore City College
@@ -97,7 +97,7 @@ DESCRIPTION:Final: Baltimore City College 0\, Digital Harbor 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-towson-baltimore-city-college-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Baltimore City College at Towson
@@ -106,7 +106,7 @@ DESCRIPTION:Final: Baltimore City College 1\, Towson 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-baltimore-city-college-patterson-boys-soccer@oldlinerankings
-DTSTAMP:20261023T082017Z
+DTSTAMP:20261023T123001Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: Patterson at Baltimore City College

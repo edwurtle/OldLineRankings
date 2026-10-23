@@ -6,7 +6,7 @@ X-WR-CALNAME:Frederick Douglass-PG Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-frederick-douglass-pg-suitland-football@oldlinerankings
-DTSTAMP:20261023T081948Z
+DTSTAMP:20261023T122935Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Suitland at Frederick Douglass-PG
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 0\, Suitland 15
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-lake-clifton-frederick-douglass-pg-football@oldlinerankings
-DTSTAMP:20261023T081948Z
+DTSTAMP:20261023T122935Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: Frederick Douglass-PG at Lake Clifton
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 37\, Lake Clifton 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-frederick-douglass-pg-surrattsville-football@oldlinerankings
-DTSTAMP:20261023T081948Z
+DTSTAMP:20261023T122935Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Surrattsville at Frederick Douglass-PG
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 32\, Surrattsville 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-crossland-frederick-douglass-pg-football@oldlinerankings
-DTSTAMP:20261023T081948Z
+DTSTAMP:20261023T122935Z
 DTSTART;TZID=America/New_York:20260926T140000
 DTEND;TZID=America/New_York:20260926T160000
 SUMMARY:Football: Frederick Douglass-PG at Crossland
@@ -43,7 +43,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-frederick-douglass-pg-central-football@oldlinerankings
-DTSTAMP:20261023T081948Z
+DTSTAMP:20261023T122935Z
 DTSTART;TZID=America/New_York:20261003T130000
 DTEND;TZID=America/New_York:20261003T150000
 SUMMARY:Football: Central at Frederick Douglass-PG
@@ -53,7 +53,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-frederick-douglass-pg-largo-football@oldlinerankings
-DTSTAMP:20261023T081948Z
+DTSTAMP:20261023T122935Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Largo at Frederick Douglass-PG
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 0\, Largo 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-frederick-douglass-pg-friendly-football@oldlinerankings
-DTSTAMP:20261023T081948Z
+DTSTAMP:20261023T122935Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Football: Friendly at Frederick Douglass-PG
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 56\, Friendly 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-fairmont-heights-frederick-douglass-pg-football@oldlinerankings
-DTSTAMP:20261023T081948Z
+DTSTAMP:20261023T122935Z
 DTSTART;TZID=America/New_York:20261023T173000
 DTEND;TZID=America/New_York:20261023T193000
 SUMMARY:Football: Frederick Douglass-PG at Fairmont Heights
@@ -80,7 +80,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6711921
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-frederick-douglass-pg-gwynn-park-football@oldlinerankings
-DTSTAMP:20261023T081948Z
+DTSTAMP:20261023T122935Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Gwynn Park at Frederick Douglass-PG
