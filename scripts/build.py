@@ -54,8 +54,9 @@ SOCCER = dict(
     ties=True, example=dict(cls="3A", W=7, L=2, T=1),
     # Soccer bulletin: every team is seeded in its region by winning percentage (fewer than 9 games
     # divide by 9); each region plays down to one champion; the 8 champions are reseeded by it
-    # last_date: the bulletin's "last play date for seeding consideration"; later games don't count
-    playoffs=dict(seed_by="winpct", min_games=9, region_seeds=8, per_region=1, last_date="2026-10-24"),
+    # last_date: the bulletin's "last play date for seeding consideration"; later games don't count.
+    # seed_date: the seeding meeting, where ties are broken (coin flips included) and brackets posted the same day
+    playoffs=dict(seed_by="winpct", min_games=9, region_seeds=8, per_region=1, last_date="2026-10-24", seed_date="2026-10-26"),
     # Dates whose games MPSSAA's standings leave out (Sat Sep 5: preseason jamborees and showcases, many teams
     # playing twice); they count for no one's record or rating
     uncounted_dates=["2026-09-05"],
@@ -76,7 +77,7 @@ BASKETBALL = dict(
     regions=SOCCER["regions"],
     score=dict(short="PF–PA", name="Point difference", plural="points"),
     ties=False, example=dict(cls="3A", W=14, L=6, T=0),
-    # last_date: estimated from 2025-26 (Feb 23); update from the 2026-27 winter bulletin
+    # last_date: estimated from 2025-26 (Feb 23); update from the 2026-27 winter bulletin (and add its seed_date)
     playoffs=dict(seed_by="winpct", min_games=15, region_seeds=8, per_region=1, last_date="2027-02-22"),
     # Backtested on 2025-26 (each week from earlier games): bigger caps kept helping up to about 40, and a small
     # win bonus helped a little.

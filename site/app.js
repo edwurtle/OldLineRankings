@@ -309,7 +309,7 @@ function howFinal8() {
       : `in each class, the top ${pl.region_seeds} teams in each of the ${REGION_ORDER.length} regions by MPSSAA points play two region rounds (1v8, 4v5, 2v7, 3v6).
          The two survivors from each region reach the state quarterfinals (the Final 8), which are reseeded 1–8 by MPSSAA points.`}
       Teams tied on ${SEED.name} are separated by head-to-head result; if they didn't play each other (or tied) the MPSSAA flips a coin.
-      ${SEED_BY_WINPCT ? "Until the flip, the Current bracket lists the tied teams together in each of their seeds; Projected uses the Old Line Rating in place of the coin." : "We use the Old Line Rating in place of the coin."}</div>
+      ${SEED_BY_WINPCT ? `Until the flip, the Current bracket lists the tied teams together in each of their seeds; Projected uses the Old Line Rating in place of the coin. ${FLIP_WHEN}` : "We use the Old Line Rating in place of the coin."}</div>
     <div class="example"><b>Current:</b> today's seeds and first-round matchups for every region. Later rounds and the Final 8 bracket stay empty until games are played.</div>
     <div class="example"><b>Projected:</b> every remaining game, regular season and playoffs, goes to the team with the higher Old Line Rating, and teams are seeded by
       the ${SEED.name} those results produce, the way the MPSSAA seeds.${OLR ? " The % next to each team is its chance to win that game." : ""}</div>
@@ -486,6 +486,9 @@ const SEED = PL && PL.seed_by === "winpct"
 // Views: "current", and "projected" (every remaining game goes to the higher Old Line Rating; t.proj).
 const F8_VIEWS = {current: "Current", projected: "Projected"};
 const SEED_BY_WINPCT = !!PL && PL.seed_by === "winpct";
+// When the MPSSAA's coin flips happen: at the seeding meeting, which posts the brackets the same day
+const FLIP_WHEN = SEED_BY_WINPCT ? `The MPSSAA breaks ties, coin flips included, at its seeding meeting${PL.seed_date
+  ? ` on ${fmtDate(PL.seed_date, {weekday: "long", month: "long", day: "numeric"})}` : " right after the regular season"} (a conference call with the state tournament chair) and posts the official brackets the same day.` : "";
 const COIN_SVG = `<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5.5"/></svg>`;
 function seeding(g, c, view) {
   const projected = view !== "current";
@@ -610,7 +613,7 @@ function renderFinal8(r) {
   // Region play: each region's own bracket
   const regionRounds = Math.log2(8 / PL.per_region);
   const regionNames = regionRounds === 3 ? ["Quarterfinals", "Semifinals", "Region final"] : ["Round 1", "Round 2"];
-  const coins = !projected && coin.size ? `<p class="coin-note">${COIN_SVG} Teams tied on ${SEED.name} that head-to-head doesn't separate are listed together in each of their seeds until the MPSSAA flips a coin.</p>` : "";
+  const coins = !projected && coin.size ? `<p class="coin-note">${COIN_SVG} Teams tied on ${SEED.name} that head-to-head doesn't separate are listed together in each of their seeds until the MPSSAA flips a coin. ${FLIP_WHEN}</p>` : "";
   const regionCards = regions.map(({reg, teams, rounds}) => `<div class="rcard"><div class="rhead"><h3>${reg}</h3>
       <small>${teams.length} teams · seeded by ${projected ? "projected " : ""}${SEED.name}</small></div>
       ${bracketHTML(rounds, regionNames, PL.per_region === 1 ? null : "To Final 8", slotFor(t => regionSeed.get(t), true), {cls: "mini", pct: projected && OLR})}</div>`).join("");
