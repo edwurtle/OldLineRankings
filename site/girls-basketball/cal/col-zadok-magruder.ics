@@ -6,7 +6,7 @@ X-WR-CALNAME:Col. Zadok Magruder Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-21-albert-einstein-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20261121T110000
 DTEND;TZID=America/New_York:20261121T130000
 SUMMARY:Girls Basketball: Col. Zadok Magruder at Albert Einstein
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-col-zadok-magruder-walt-whitman-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20261124T173000
 DTEND;TZID=America/New_York:20261124T193000
 SUMMARY:Girls Basketball: Walt Whitman at Col. Zadok Magruder
@@ -24,7 +24,7 @@ LOCATION:Col. Zadok Magruder
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-col-zadok-magruder-seneca-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20261128T124500
 DTEND;TZID=America/New_York:20261128T144500
 SUMMARY:Girls Basketball: Seneca Valley at Col. Zadok Magruder
@@ -32,7 +32,7 @@ LOCATION:Col. Zadok Magruder
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-john-f-kennedy-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20261204T191500
 DTEND;TZID=America/New_York:20261204T211500
 SUMMARY:Girls Basketball: Col. Zadok Magruder at John F. Kennedy
@@ -42,7 +42,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-thomas-s-wootton-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Girls Basketball: Col. Zadok Magruder at Thomas S. Wootton
@@ -51,7 +51,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708232
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-col-zadok-magruder-northwest-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20261210T191500
 DTEND;TZID=America/New_York:20261210T211500
 SUMMARY:Girls Basketball: Northwest at Col. Zadok Magruder
@@ -61,7 +61,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-walter-johnson-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20261214T191500
 DTEND;TZID=America/New_York:20261214T211500
 SUMMARY:Girls Basketball: Col. Zadok Magruder at Walter Johnson
@@ -71,7 +71,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-james-hubert-blake-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20261216T191500
 DTEND;TZID=America/New_York:20261216T211500
 SUMMARY:Girls Basketball: Col. Zadok Magruder at James Hubert Blake
@@ -81,7 +81,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-col-zadok-magruder-gaithersburg-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20261218T191500
 DTEND;TZID=America/New_York:20261218T211500
 SUMMARY:Girls Basketball: Gaithersburg at Col. Zadok Magruder
@@ -91,7 +91,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-sherwood-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20261221T191500
 DTEND;TZID=America/New_York:20261221T211500
 SUMMARY:Girls Basketball: Col. Zadok Magruder at Sherwood
@@ -100,7 +100,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708855
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-paint-branch-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: Col. Zadok Magruder at Paint Branch
@@ -109,7 +109,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708985
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-col-zadok-magruder-springbrook-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20270108T191500
 DTEND;TZID=America/New_York:20270108T211500
 SUMMARY:Girls Basketball: Springbrook at Col. Zadok Magruder
@@ -119,7 +119,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-damascus-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Girls Basketball: Col. Zadok Magruder at Damascus
@@ -129,7 +129,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-col-zadok-magruder-northwood-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Girls Basketball: Northwood at Col. Zadok Magruder
@@ -139,7 +139,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-rockville-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Girls Basketball: Col. Zadok Magruder at Rockville
@@ -149,7 +149,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-col-zadok-magruder-watkins-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20270122T191500
 DTEND;TZID=America/New_York:20270122T211500
 SUMMARY:Girls Basketball: Watkins Mill at Col. Zadok Magruder
@@ -159,7 +159,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-col-zadok-magruder-james-hubert-blake-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20270129T191500
 DTEND;TZID=America/New_York:20270129T211500
 SUMMARY:Girls Basketball: James Hubert Blake at Col. Zadok Magruder
@@ -169,7 +169,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-gaithersburg-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20270201T191500
 DTEND;TZID=America/New_York:20270201T211500
 SUMMARY:Girls Basketball: Col. Zadok Magruder at Gaithersburg
@@ -178,7 +178,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6707110
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-col-zadok-magruder-sherwood-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20270203T180000
 DTEND;TZID=America/New_York:20270203T200000
 SUMMARY:Girls Basketball: Sherwood at Col. Zadok Magruder
@@ -188,7 +188,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-col-zadok-magruder-paint-branch-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Girls Basketball: Paint Branch at Col. Zadok Magruder
@@ -198,7 +198,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-springbrook-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20270208T180000
 DTEND;TZID=America/New_York:20270208T200000
 SUMMARY:Girls Basketball: Col. Zadok Magruder at Springbrook
@@ -207,7 +207,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709041
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-clarksburg-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Girls Basketball: Col. Zadok Magruder at Clarksburg
@@ -217,7 +217,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-col-zadok-magruder-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261023T013117Z
+DTSTAMP:20261023T013832Z
 DTSTART;TZID=America/New_York:20270219T173000
 DTEND;TZID=America/New_York:20270219T193000
 SUMMARY:Girls Basketball: Poolesville at Col. Zadok Magruder
