@@ -6,7 +6,7 @@ X-WR-CALNAME:North Caroline Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-north-caroline-parkside-girls-soccer@oldlinerankings
-DTSTAMP:20261023T123028Z
+DTSTAMP:20261023T153107Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Girls Soccer: Parkside at North Caroline
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-north-caroline-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261023T123028Z
+DTSTAMP:20261023T153107Z
 DTSTART;TZID=America/New_York:20260910T173000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:Girls Soccer: Easton at North Caroline
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-north-caroline-stephen-decatur-girls-soccer@oldlinerankings
-DTSTAMP:20261023T123028Z
+DTSTAMP:20261023T153107Z
 DTSTART;TZID=America/New_York:20260915T173000
 DTEND;TZID=America/New_York:20260915T193000
 SUMMARY:Girls Soccer: Stephen Decatur at North Caroline
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-north-dorchester-north-caroline-girls-soccer@oldlinerankings
-DTSTAMP:20261023T123028Z
+DTSTAMP:20261023T153107Z
 DTSTART;TZID=America/New_York:20260917T173000
 DTEND;TZID=America/New_York:20260917T193000
 SUMMARY:Girls Soccer: North Caroline at North Dorchester
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-colonel-richardson-north-caroline-girls-soccer@oldlinerankings
-DTSTAMP:20261023T123028Z
+DTSTAMP:20261023T153107Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
 SUMMARY:Girls Soccer: North Caroline at Colonel Richardson
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-north-caroline-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261023T123028Z
+DTSTAMP:20261023T153107Z
 DTSTART;TZID=America/New_York:20260924T173000
 DTEND;TZID=America/New_York:20260924T193000
 SUMMARY:Girls Soccer: Queen Anne's at North Caroline
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-north-caroline-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261023T123028Z
+DTSTAMP:20261023T153107Z
 DTSTART;TZID=America/New_York:20260929T173000
 DTEND;TZID=America/New_York:20260929T193000
 SUMMARY:Girls Soccer: Wicomico at North Caroline
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-north-caroline-kent-island-girls-soccer@oldlinerankings
-DTSTAMP:20261023T123028Z
+DTSTAMP:20261023T153107Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
 SUMMARY:Girls Soccer: Kent Island at North Caroline
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-kent-county-north-caroline-girls-soccer@oldlinerankings
-DTSTAMP:20261023T123028Z
+DTSTAMP:20261023T153107Z
 DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Girls Soccer: North Caroline at Kent County
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-cambridge-south-dorchester-north-caroline-girls-soccer@oldlinerankings
-DTSTAMP:20261023T123028Z
+DTSTAMP:20261023T153107Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Girls Soccer: North Caroline at Cambridge-South Dorchester
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-north-caroline-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261023T123028Z
+DTSTAMP:20261023T153107Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: James M. Bennett at North Caroline
@@ -115,7 +115,7 @@ DESCRIPTION:Final: North Caroline 0\, James M. Bennett 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-north-caroline-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261023T123028Z
+DTSTAMP:20261023T153107Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: Easton at North Caroline

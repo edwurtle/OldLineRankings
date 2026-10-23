@@ -6,7 +6,7 @@ X-WR-CALNAME:Winters Mill Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-24-atholton-winters-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20261124T173000
 DTEND;TZID=America/New_York:20261124T193000
 SUMMARY:Girls Basketball: Winters Mill at Atholton
@@ -14,7 +14,7 @@ LOCATION:Atholton
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-mount-de-sales-academy-winters-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20261204T173000
 DTEND;TZID=America/New_York:20261204T193000
 SUMMARY:Girls Basketball: Winters Mill at Mount De Sales Academy
@@ -22,7 +22,7 @@ LOCATION:Mount De Sales Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-winters-mill-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20261208T183000
 DTEND;TZID=America/New_York:20261208T203000
 SUMMARY:Girls Basketball: Brunswick at Winters Mill
@@ -30,7 +30,7 @@ LOCATION:Winters Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-manchester-valley-winters-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20261218T183000
 DTEND;TZID=America/New_York:20261218T203000
 SUMMARY:Girls Basketball: Winters Mill at Manchester Valley
@@ -38,7 +38,7 @@ LOCATION:Manchester Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-winters-mill-century-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20270105T183000
 DTEND;TZID=America/New_York:20270105T203000
 SUMMARY:Girls Basketball: Century at Winters Mill
@@ -46,7 +46,7 @@ LOCATION:Winters Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-winters-mill-liberty-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20270108T183000
 DTEND;TZID=America/New_York:20270108T203000
 SUMMARY:Girls Basketball: Liberty at Winters Mill
@@ -54,7 +54,7 @@ LOCATION:Winters Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-south-carroll-winters-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20270112T183000
 DTEND;TZID=America/New_York:20270112T203000
 SUMMARY:Girls Basketball: Winters Mill at South Carroll
@@ -62,7 +62,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-winters-mill-westminster-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20270114T183000
 DTEND;TZID=America/New_York:20270114T203000
 SUMMARY:Girls Basketball: Westminster at Winters Mill
@@ -70,7 +70,7 @@ LOCATION:Winters Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-winters-mill-smithsburg-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20270119T183000
 DTEND;TZID=America/New_York:20270119T203000
 SUMMARY:Girls Basketball: Smithsburg at Winters Mill
@@ -78,7 +78,7 @@ LOCATION:Winters Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-winters-mill-manchester-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20270122T183000
 DTEND;TZID=America/New_York:20270122T203000
 SUMMARY:Girls Basketball: Manchester Valley at Winters Mill
@@ -86,7 +86,7 @@ LOCATION:Winters Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-francis-scott-key-winters-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20270126T183000
 DTEND;TZID=America/New_York:20270126T203000
 SUMMARY:Girls Basketball: Winters Mill at Francis Scott Key
@@ -94,7 +94,7 @@ LOCATION:Francis Scott Key
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-century-winters-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20270128T183000
 DTEND;TZID=America/New_York:20270128T203000
 SUMMARY:Girls Basketball: Winters Mill at Century
@@ -102,7 +102,7 @@ LOCATION:Century
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-liberty-winters-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20270202T183000
 DTEND;TZID=America/New_York:20270202T203000
 SUMMARY:Girls Basketball: Winters Mill at Liberty
@@ -110,7 +110,7 @@ LOCATION:Liberty
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-winters-mill-south-carroll-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20270205T183000
 DTEND;TZID=America/New_York:20270205T203000
 SUMMARY:Girls Basketball: South Carroll at Winters Mill
@@ -118,7 +118,7 @@ LOCATION:Winters Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-francis-scott-key-winters-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20270208T183000
 DTEND;TZID=America/New_York:20270208T203000
 SUMMARY:Girls Basketball: Winters Mill at Francis Scott Key
@@ -126,7 +126,7 @@ LOCATION:Francis Scott Key
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-gov-thomas-johnson-winters-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261023T123140Z
+DTSTAMP:20261023T153239Z
 DTSTART;TZID=America/New_York:20270216T190000
 DTEND;TZID=America/New_York:20270216T210000
 SUMMARY:Girls Basketball: Winters Mill at Gov. Thomas Johnson

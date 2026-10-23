@@ -6,7 +6,7 @@ X-WR-CALNAME:Frederick Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-brunswick-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Boys Soccer: Frederick at Brunswick
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-winters-mill-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Boys Soccer: Frederick at Winters Mill
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Frederick 2\, Winters Mill 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-frederick-st-john-s-catholic-prep-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: St. John's Catholic Prep at Frederick
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Frederick 9\, St. John's Catholic Prep 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-linganore-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Boys Soccer: Frederick at Linganore
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-frederick-urbana-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Boys Soccer: Urbana at Frederick
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-north-hagerstown-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Frederick at North Hagerstown
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-tuscarora-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Boys Soccer: Frederick at Tuscarora
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-oakdale-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Frederick at Oakdale
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-frederick-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20261013T200200
 DTEND;TZID=America/New_York:20261013T220200
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Frederick
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-boonsboro-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Boys Soccer: Frederick at Boonsboro
@@ -103,7 +103,7 @@ DESCRIPTION:Final: Frederick 1\, Boonsboro 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-frederick-south-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Boys Soccer: South Hagerstown at Frederick
@@ -112,7 +112,7 @@ DESCRIPTION:Final: Frederick 4\, South Hagerstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-liberty-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Boys Soccer: Frederick at Liberty

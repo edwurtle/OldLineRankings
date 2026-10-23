@@ -6,7 +6,7 @@ X-WR-CALNAME:Sherwood Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-sherwood-clarksburg-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20260904T191500
 DTEND;TZID=America/New_York:20260904T211500
 SUMMARY:Boys Soccer: Clarksburg at Sherwood
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-sherwood-richard-montgomery-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20260908T191500
 DTEND;TZID=America/New_York:20260908T211500
 SUMMARY:Boys Soccer: Richard Montgomery at Sherwood
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-sherwood-springbrook-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20260915T191500
 DTEND;TZID=America/New_York:20260915T211500
 SUMMARY:Boys Soccer: Springbrook at Sherwood
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-sherwood-paint-branch-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20260917T191500
 DTEND;TZID=America/New_York:20260917T211500
 SUMMARY:Boys Soccer: Paint Branch at Sherwood
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-sherwood-gaithersburg-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20260923T191500
 DTEND;TZID=America/New_York:20260923T211500
 SUMMARY:Boys Soccer: Gaithersburg at Sherwood
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-col-zadok-magruder-sherwood-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20260925T191500
 DTEND;TZID=America/New_York:20260925T211500
 SUMMARY:Boys Soccer: Sherwood at Col. Zadok Magruder
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-sherwood-james-hubert-blake-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20260930T191500
 DTEND;TZID=America/New_York:20260930T211500
 SUMMARY:Boys Soccer: James Hubert Blake at Sherwood
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-sherwood-quince-orchard-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20261007T191500
 DTEND;TZID=America/New_York:20261007T211500
 SUMMARY:Boys Soccer: Quince Orchard at Sherwood
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-sherwood-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20261012T191500
 DTEND;TZID=America/New_York:20261012T211500
 SUMMARY:Boys Soccer: Wheaton at Sherwood
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-damascus-sherwood-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20261015T191500
 DTEND;TZID=America/New_York:20261015T211500
 SUMMARY:Boys Soccer: Sherwood at Damascus
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-sherwood-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20261020T191500
 DTEND;TZID=America/New_York:20261020T211500
 SUMMARY:Boys Soccer: John F. Kennedy at Sherwood
@@ -116,7 +116,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-poolesville-sherwood-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20261023T171500
 DTEND;TZID=America/New_York:20261023T191500
 SUMMARY:Boys Soccer: Sherwood at Poolesville

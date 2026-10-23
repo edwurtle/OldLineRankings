@@ -6,7 +6,7 @@ X-WR-CALNAME:Williamsport Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-williamsport-north-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: North Hagerstown at Williamsport
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Williamsport 1\, North Hagerstown 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-williamsport-south-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: South Hagerstown at Williamsport
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Williamsport 3\, South Hagerstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-smithsburg-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Williamsport at Smithsburg
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Williamsport 4\, Smithsburg 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-brunswick-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Boys Soccer: Williamsport at Brunswick
@@ -43,7 +43,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-clear-spring-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Williamsport at Clear Spring
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Williamsport 3\, Clear Spring 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-francis-scott-key-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Boys Soccer: Williamsport at Francis Scott Key
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Williamsport 1\, Francis Scott Key 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-middletown-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Williamsport at Middletown
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Williamsport 0\, Middletown 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-williamsport-wv-hedgesville-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: WV-Hedgesville at Williamsport
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Williamsport 0\, WV-Hedgesville 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-boonsboro-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Williamsport at Boonsboro
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Williamsport 3\, Boonsboro 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-catoctin-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Boys Soccer: Williamsport at Catoctin
@@ -98,7 +98,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-walkersville-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Boys Soccer: Williamsport at Walkersville
@@ -108,7 +108,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-mountain-ridge-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261023T123001Z
+DTSTAMP:20261023T153039Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Williamsport at Mountain Ridge
