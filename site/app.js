@@ -308,8 +308,8 @@ function howFinal8() {
          The ${REGION_ORDER.length} region champions make the Final 8 and are reseeded 1–8 by winning percentage.`
       : `in each class, the top ${pl.region_seeds} teams in each of the ${REGION_ORDER.length} regions by MPSSAA points play two region rounds (1v8, 4v5, 2v7, 3v6).
          The two survivors from each region reach the state quarterfinals (the Final 8), which are reseeded 1–8 by MPSSAA points.`}
-      Teams tied on ${SEED.name} are separated by head-to-head result; if they didn't play each other the MPSSAA flips a coin,
-      and we use the Old Line Rating in its place.</div>
+      Teams tied on ${SEED.name} are separated by head-to-head result; if they didn't play each other (or tied) the MPSSAA flips a coin.
+      ${SEED_BY_WINPCT ? "Until the flip, the Current bracket lists the tied teams together in each of their seeds; Projected uses the Old Line Rating in place of the coin." : "We use the Old Line Rating in place of the coin."}</div>
     <div class="example"><b>Current:</b> today's seeds and first-round matchups for every region. Later rounds and the Final 8 bracket stay empty until games are played.</div>
     <div class="example"><b>Projected:</b> every remaining game, regular season and playoffs, goes to the team with the higher Old Line Rating, and teams are seeded by
       the ${SEED.name} those results produce, the way the MPSSAA seeds.${OLR ? " The % next to each team is its chance to win that game." : ""}</div>
@@ -485,6 +485,8 @@ const SEED = PL && PL.seed_by === "winpct"
   : {name: "MPSSAA points", unit: "MPSSAA pts", val: x => x.avg, fmt: v => v.toFixed(2)};
 // Views: "current", and "projected" (every remaining game goes to the higher Old Line Rating; t.proj).
 const F8_VIEWS = {current: "Current", projected: "Projected"};
+const SEED_BY_WINPCT = !!PL && PL.seed_by === "winpct";
+const COIN_SVG = `<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5.5"/></svg>`;
 function seeding(g, c, view) {
   const projected = view !== "current";
   const val = t => projected ? t.proj : t;
@@ -494,12 +496,29 @@ function seeding(g, c, view) {
     : (a, b) => ({p: null, w: val(b).avg > val(a).avg ? b : a});
   // MPSSAA tiebreak: head-to-head winner first; otherwise a coin flip, which we stand in for with the
   // Old Line Rating (higher first)
-  const h2h = (a, b) => { const g = a.games.find(x => x.opp === b.school); return g ? {W: -1, L: 1, T: 0}[g.res] : 0; };
+  // (every meeting counts: a split series is no better than not playing)
+  const h2h = (a, b) => -Math.sign(a.games.filter(x => x.opp === b.school).reduce((n, x) => n + {W: 1, L: -1, T: 0}[x.res], 0));
   const order = (a, b) => SEED.val(val(b)) - SEED.val(val(a)) || h2h(a, b) || b.rating - a.rating || a.stateRank - b.stateRank;
   const ts = teamsOf(g, c);
   const regionRounds = Math.log2(8 / PL.per_region);   // rounds until per_region teams are left
+  // Today's ties the MPSSAA settles with a coin flip (winning-percentage seeding): teams level on winning
+  // percentage that head-to-head doesn't order (they didn't play, they tied, or 3+ teams without a clean
+  // head-to-head order). team -> its tied group, best Old Line Rating first
+  const coin = new Map();
+  const markCoins = teams => {
+    for (let i = 0; i < teams.length;) {
+      let j = i + 1;
+      while (j < teams.length && Math.abs(SEED.val(teams[j]) - SEED.val(teams[i])) < 1e-9) j++;
+      const grp = teams.slice(i, j);
+      const beats = grp.map(a => grp.filter(b => b !== a && h2h(a, b) < 0).length);
+      const ordered = grp.every(a => grp.every(b => a === b || h2h(a, b) !== 0)) && new Set(beats).size === grp.length;
+      if (grp.length > 1 && !ordered) grp.forEach(t => coin.set(t, grp));
+      i = j;
+    }
+  };
   const regions = REGION_ORDER.map(reg => {
     const teams = ts.filter(t => t.region === reg).sort(order);
+    if (!projected && PL.seed_by === "winpct") markCoins(teams);
     const rounds = playBracket(teams.slice(0, PL.region_seeds), regionRounds, pick);
     // Current: assume the top seeds advance. Projected: the predicted region winners advance.
     const adv = projected ? rounds[rounds.length - 1].map(m => m.w).filter(isTeam) : teams.slice(0, PL.per_region);
@@ -507,7 +526,7 @@ function seeding(g, c, view) {
   }).filter(x => x.teams.length);
   const final8 = regions.flatMap(x => [...x.adv]).sort(order);
   const regionSeed = new Map(regions.flatMap(x => x.teams.map((t, i) => [t, i + 1])));
-  return {val, pick, regions, final8, regionSeed};
+  return {val, pick, regions, final8, regionSeed, coin};
 }
 // Bracket slots hold a team, BYE (no team at that seed), a {label} placeholder, or null (winner TBD).
 const BYE = {bye: true};
@@ -558,7 +577,7 @@ function bracketHTML(rounds, names, endName, slot, opts = {}) {
 }
 function renderFinal8(r) {
   const view = r.view in F8_VIEWS && PROJ(r.g) ? r.view : "current", projected = view !== "current";
-  const {val, pick, regions, final8, regionSeed} = seeding(r.g, r.c, view);
+  const {val, pick, regions, final8, regionSeed, coin} = seeding(r.g, r.c, view);
   // Each record carries its own seeding number where that isn't just the record (football's MPSSAA points)
   // Team card details: record and (football) MPSSAA points on their own lines; the projected view adds a
   // small "Projected ⓘ" label that opens the games behind the projection
@@ -575,6 +594,13 @@ function renderFinal8(r) {
   const slotFor = (seedOf, mini) => (x, p, cls) => {
     if (x === BYE) return `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">Bye</span></div>`;
     if (!isTeam(x)) return `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">${x && x.label ? esc(x.label) : "TBD"}</span></div>`;
+    // A seed decided by a coin flip: list every tied team in it until the flip is done
+    if (mini && coin.has(x)) {
+      const grp = coin.get(x), seeds = grp.map(seedOf).sort((a, b) => a - b);
+      return `<div class="slot tcard coin"><span class="seed mono">${seedOf(x)}</span><span class="coin-ic" title="Coin flip">${COIN_SVG}</span>
+        <div class="info">${grp.map(t => `<span class="nm" data-team="${esc(t.school)}">${esc(t.school)} <span class="mono coin-rec">${recTxt(t)}</span></span>`).join("")}
+        <span class="coin-tag">Coin flip for seeds ${seeds[0]}–${seeds[seeds.length - 1]}</span></div></div>`;
+    }
     // Sections: seed + logo | name, region, record | win chance
     return `<div class="slot tcard ${cls}" data-team="${esc(x.school)}"><span class="seed mono">${seedOf(x)}</span>${logo(x.school, mini ? 32 : 40)}
       <div class="info"><span class="nm" title="${esc(x.school)}">${esc(x.school)}</span>${mini ? "" : `<span class="d-sub">${esc(x.region)}</span>`}${details(x)}</div>
@@ -584,6 +610,7 @@ function renderFinal8(r) {
   // Region play: each region's own bracket
   const regionRounds = Math.log2(8 / PL.per_region);
   const regionNames = regionRounds === 3 ? ["Quarterfinals", "Semifinals", "Region final"] : ["Round 1", "Round 2"];
+  const coins = !projected && coin.size ? `<p class="coin-note">${COIN_SVG} Teams tied on ${SEED.name} that head-to-head doesn't separate are listed together in each of their seeds until the MPSSAA flips a coin.</p>` : "";
   const regionCards = regions.map(({reg, teams, rounds}) => `<div class="rcard"><div class="rhead"><h3>${reg}</h3>
       <small>${teams.length} teams · seeded by ${projected ? "projected " : ""}${SEED.name}</small></div>
       ${bracketHTML(rounds, regionNames, PL.per_region === 1 ? null : "To Final 8", slotFor(t => regionSeed.get(t), true), {cls: "mini", pct: projected && OLR})}</div>`).join("");
@@ -617,7 +644,7 @@ function renderFinal8(r) {
       </div>
     </div>
     <div class="section-head"><div><div class="eyebrow">Step 1 · Region play</div><h2>${divName(r.g, r.c)} regions</h2>
-      <p>${regionHow} ${projected ? "" : "Later rounds fill in as games are played."}</p></div></div>
+      <p>${regionHow} ${projected ? "" : "Later rounds fill in as games are played."}</p>${coins}</div></div>
     <div class="regions f8-regions">${regionCards}</div>
     <div class="section-head"><div><div class="eyebrow">Step 2 · State tournament</div><h2>Final 8</h2>
       <p>The ${regions.length * PL.per_region} region ${PL.per_region === 1 ? "champions" : "survivors"} are reseeded 1–8 by ${SEED.name}: 1v8, 4v5, 2v7, 3v6.

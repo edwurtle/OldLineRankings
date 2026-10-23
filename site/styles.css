@@ -564,6 +564,16 @@ body.embed .drawer { width: 100%; box-shadow: none; transition: none; }
 .bracket .slot.tcard.win .wp { color: var(--accent-ink); }
 .bracket.mini .slot.tcard { padding: 8px 0 8px 8px; gap: 8px; }
 .bracket.mini .slot.tcard .nm { font-size: 13px; }
+/* A seed still to be settled by a coin flip: every tied team listed, a gold coin, dashed gold border */
+.bracket .slot.tcard.coin { cursor: default; background: var(--accent-soft); }
+.bracket .slot.tcard.coin .nm { cursor: pointer; }
+.bracket .slot.tcard.coin .nm:hover { color: var(--accent-ink); text-decoration: underline; }
+.coin-rec { font-size: 11px; font-weight: 600; color: var(--muted); }
+.coin-ic { display: grid; place-items: center; width: 32px; height: 32px; border-radius: 50%; background: var(--md-gold); color: var(--md-black); }
+.coin-ic .icon { width: 18px; height: 18px; }
+.coin-tag { margin-top: 3px; font-size: 10px; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: var(--accent-ink); }
+.coin-note { display: flex; gap: 8px; align-items: center; margin-top: 8px; padding: 8px 12px; border-radius: 10px; background: var(--accent-soft); color: var(--accent-ink); font-size: 13px; font-weight: 600; }
+.coin-note .icon { width: 18px; height: 18px; flex: none; }
 .bracket.mini .slot.tcard .wp { min-width: 48px; font-size: 13px; }
 .proj-link { all: unset; margin-top: 3px; font-size: 11px; font-weight: 600; color: var(--muted); cursor: pointer; }
 .proj-link:hover { color: var(--accent-ink); }

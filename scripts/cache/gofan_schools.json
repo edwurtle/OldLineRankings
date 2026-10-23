@@ -54,6 +54,11 @@
   "name": "South River High School",
   "type": "High School"
  },
+ "MD10949": {
+  "city": "Baltimore",
+  "name": "Western Senior High School",
+  "type": "High School"
+ },
  "MD10964": {
   "city": "Glenelg",
   "name": "Glenelg High School",
@@ -828,6 +833,11 @@
   "city": "Ellicott City",
   "name": "Howard High School",
   "type": "High School"
+ },
+ "MD9597_1": {
+  "city": "Ellicott City",
+  "name": "Howard High School Special Events",
+  "type": "Subaccount"
  },
  "MD9600": {
   "city": "Bel Air",
