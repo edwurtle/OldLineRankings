@@ -6,7 +6,7 @@ X-WR-CALNAME:South River Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-15-south-river-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260915T170000
 DTEND;TZID=America/New_York:20260915T190000
 SUMMARY:Boys Soccer: Meade at South River
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-south-river-st-mary-s-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260917T181500
 DTEND;TZID=America/New_York:20260917T201500
 SUMMARY:Boys Soccer: St. Mary's at South River
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-south-river-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260922T164500
 DTEND;TZID=America/New_York:20260922T184500
 SUMMARY:Boys Soccer: Annapolis at South River
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-severna-park-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: South River at Severna Park
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-chesapeake-science-point-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260929T164500
 DTEND;TZID=America/New_York:20260929T184500
 SUMMARY:Boys Soccer: South River at Chesapeake Science Point
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-south-river-broadneck-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261001T184500
 DTEND;TZID=America/New_York:20261001T204500
 SUMMARY:Boys Soccer: Broadneck at South River
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-old-mill-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Boys Soccer: South River at Old Mill
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-south-river-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261008T184500
 DTEND;TZID=America/New_York:20261008T204500
 SUMMARY:Boys Soccer: Crofton at South River
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-south-river-glen-burnie-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Boys Soccer: Glen Burnie at South River
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-arundel-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261015T184500
 DTEND;TZID=America/New_York:20261015T204500
 SUMMARY:Boys Soccer: South River at Arundel
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-chesapeake-aa-south-river-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Boys Soccer: South River at Chesapeake-AA
@@ -116,12 +116,12 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-south-river-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: North County at South River
 LOCATION:South River
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-county-high-school-glen-burnie-md%2Fgam0470dfaddf\nTickets: https://gofan.co/event/6897774
+DESCRIPTION:Final: South River 0\, North County 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-county-high-school-glen-burnie-md%2Fgam0470dfaddf
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnorth-county-high-school-glen-burnie-md%2Fgam0470dfaddf
 END:VEVENT
 END:VCALENDAR

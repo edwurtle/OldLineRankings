@@ -6,7 +6,7 @@ X-WR-CALNAME:Wheaton Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-wheaton-paint-branch-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260904T191500
 DTEND;TZID=America/New_York:20260904T211500
 SUMMARY:Boys Soccer: Paint Branch at Wheaton
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-quince-orchard-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260909T191500
 DTEND;TZID=America/New_York:20260909T211500
 SUMMARY:Boys Soccer: Wheaton at Quince Orchard
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-wheaton-montgomery-blair-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260915T191500
 DTEND;TZID=America/New_York:20260915T211500
 SUMMARY:Boys Soccer: Montgomery Blair at Wheaton
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-richard-montgomery-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260917T191500
 DTEND;TZID=America/New_York:20260917T211500
 SUMMARY:Boys Soccer: Wheaton at Richard Montgomery
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-northwood-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260923T191500
 DTEND;TZID=America/New_York:20260923T211500
 SUMMARY:Boys Soccer: Wheaton at Northwood
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-albert-einstein-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
 SUMMARY:Boys Soccer: Wheaton at Albert Einstein
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-rockville-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260929T191500
 DTEND;TZID=America/New_York:20260929T211500
 SUMMARY:Boys Soccer: Wheaton at Rockville
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-wheaton-john-f-kennedy-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261001T191500
 DTEND;TZID=America/New_York:20261001T211500
 SUMMARY:Boys Soccer: John F. Kennedy at Wheaton
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-james-hubert-blake-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
 SUMMARY:Boys Soccer: Wheaton at James Hubert Blake
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-sherwood-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261012T191500
 DTEND;TZID=America/New_York:20261012T211500
 SUMMARY:Boys Soccer: Wheaton at Sherwood
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-poolesville-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261015T191500
 DTEND;TZID=America/New_York:20261015T211500
 SUMMARY:Boys Soccer: Wheaton at Poolesville
@@ -116,12 +116,12 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-bethesda-cc-wheaton-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261022T191500
 DTEND;TZID=America/New_York:20261022T211500
 SUMMARY:Boys Soccer: Wheaton at Bethesda-CC
 LOCATION:Bethesda-CC
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwheaton-high-school-silver-spring-md%2Fgamacda513c80\nTickets: https://gofan.co/event/6708438
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwheaton-high-school-silver-spring-md%2Fgamacda513c80
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwheaton-high-school-silver-spring-md%2Fgamacda513c80
 END:VEVENT
 END:VCALENDAR

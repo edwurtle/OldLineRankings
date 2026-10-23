@@ -6,7 +6,7 @@ X-WR-CALNAME:Centennial Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-01-centennial-walkersville-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261201T173000
 DTEND;TZID=America/New_York:20261201T193000
 SUMMARY:Girls Basketball: Walkersville at Centennial
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-centennial-guilford-park-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261204T180000
 DTEND;TZID=America/New_York:20261204T200000
 SUMMARY:Girls Basketball: Guilford Park at Centennial
@@ -24,7 +24,7 @@ LOCATION:Centennial
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-reservoir-centennial-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261207T173000
 DTEND;TZID=America/New_York:20261207T193000
 SUMMARY:Girls Basketball: Centennial at Reservoir
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-centennial-howard-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261209T173000
 DTEND;TZID=America/New_York:20261209T193000
 SUMMARY:Girls Basketball: Howard at Centennial
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-centennial-gov-thomas-johnson-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261214T180000
 DTEND;TZID=America/New_York:20261214T200000
 SUMMARY:Girls Basketball: Gov. Thomas Johnson at Centennial
@@ -52,7 +52,7 @@ LOCATION:Centennial
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-centennial-marriotts-ridge-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Girls Basketball: Marriotts Ridge at Centennial
@@ -62,7 +62,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-centennial-glenelg-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261221T173000
 DTEND;TZID=America/New_York:20261221T193000
 SUMMARY:Girls Basketball: Glenelg at Centennial

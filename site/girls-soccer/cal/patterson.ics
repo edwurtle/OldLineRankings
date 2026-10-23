@@ -6,7 +6,7 @@ X-WR-CALNAME:Patterson Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-digital-harbor-patterson-girls-soccer@oldlinerankings
-DTSTAMP:20261022T081855Z
+DTSTAMP:20261023T012926Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Girls Soccer: Patterson at Digital Harbor
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Patterson 1\, Digital Harbor 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-national-academy-foundation-naf-patterson-girls-soccer@oldlinerankings
-DTSTAMP:20261022T081855Z
+DTSTAMP:20261023T012926Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Girls Soccer: Patterson at National Academy Foundation (NAF)
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Patterson 1\, National Academy Foundation (NAF) 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-baltimore-polytechnic-patterson-girls-soccer@oldlinerankings
-DTSTAMP:20261022T081855Z
+DTSTAMP:20261023T012926Z
 DTSTART;TZID=America/New_York:20260930T154500
 DTEND;TZID=America/New_York:20260930T174500
 SUMMARY:Girls Soccer: Patterson at Baltimore Polytechnic
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-edmondson-westside-patterson-girls-soccer@oldlinerankings
-DTSTAMP:20261022T081855Z
+DTSTAMP:20261023T012926Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: Patterson at Edmondson-Westside
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Patterson 4\, Edmondson-Westside 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-patterson-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261022T081855Z
+DTSTAMP:20261023T012926Z
 DTSTART;TZID=America/New_York:20261007T154500
 DTEND;TZID=America/New_York:20261007T174500
 SUMMARY:Girls Soccer: Western-B at Patterson
@@ -53,7 +53,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-pikesville-patterson-girls-soccer@oldlinerankings
-DTSTAMP:20261022T081855Z
+DTSTAMP:20261023T012926Z
 DTSTART;TZID=America/New_York:20261013T173000
 DTEND;TZID=America/New_York:20261013T193000
 SUMMARY:Girls Soccer: Patterson at Pikesville
@@ -63,7 +63,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-paul-laurence-dunbar-patterson-girls-soccer@oldlinerankings
-DTSTAMP:20261022T081855Z
+DTSTAMP:20261023T012926Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Girls Soccer: Patterson at Paul Laurence Dunbar
@@ -72,7 +72,7 @@ DESCRIPTION:Final: Patterson 5\, Paul Laurence Dunbar 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-patterson-el-haynes-pcs-girls-soccer@oldlinerankings
-DTSTAMP:20261022T081855Z
+DTSTAMP:20261023T012926Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Girls Soccer: EL Haynes PCS at Patterson
@@ -81,7 +81,7 @@ DESCRIPTION:Final: Patterson 3\, EL Haynes PCS 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-baltimore-city-college-patterson-girls-soccer@oldlinerankings
-DTSTAMP:20261022T081855Z
+DTSTAMP:20261023T012926Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Patterson at Baltimore City College
@@ -90,7 +90,7 @@ DESCRIPTION:Final: Patterson -\, Baltimore City College -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-paul-laurence-dunbar-patterson-girls-soccer@oldlinerankings
-DTSTAMP:20261022T081855Z
+DTSTAMP:20261023T012926Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Girls Soccer: Patterson at Paul Laurence Dunbar

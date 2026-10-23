@@ -6,7 +6,7 @@ X-WR-CALNAME:Springbrook Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-28-springbrook-long-reach-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261128T110000
 DTEND;TZID=America/New_York:20261128T130000
 SUMMARY:Girls Basketball: Long Reach at Springbrook
@@ -14,7 +14,7 @@ LOCATION:Springbrook
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-springbrook-bladensburg-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261201T170000
 DTEND;TZID=America/New_York:20261201T190000
 SUMMARY:Girls Basketball: Bladensburg at Springbrook
@@ -22,7 +22,7 @@ LOCATION:Springbrook
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-seneca-valley-springbrook-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261204T191500
 DTEND;TZID=America/New_York:20261204T211500
 SUMMARY:Girls Basketball: Springbrook at Seneca Valley
@@ -31,7 +31,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708402
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-springbrook-wheaton-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Girls Basketball: Wheaton at Springbrook
@@ -40,7 +40,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709004
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-springbrook-quince-orchard-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261211T191500
 DTEND;TZID=America/New_York:20261211T211500
 SUMMARY:Girls Basketball: Quince Orchard at Springbrook
@@ -49,7 +49,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709003
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-albert-einstein-springbrook-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261214T191500
 DTEND;TZID=America/New_York:20261214T211500
 SUMMARY:Girls Basketball: Springbrook at Albert Einstein
@@ -59,7 +59,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-springbrook-paint-branch-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261216T191500
 DTEND;TZID=America/New_York:20261216T211500
 SUMMARY:Girls Basketball: Paint Branch at Springbrook
@@ -68,7 +68,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709074
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-sherwood-springbrook-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261218T191500
 DTEND;TZID=America/New_York:20261218T211500
 SUMMARY:Girls Basketball: Springbrook at Sherwood
@@ -77,7 +77,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708843
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-springbrook-james-hubert-blake-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261221T191500
 DTEND;TZID=America/New_York:20261221T211500
 SUMMARY:Girls Basketball: James Hubert Blake at Springbrook
@@ -86,7 +86,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709050
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-springbrook-gaithersburg-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: Gaithersburg at Springbrook
@@ -95,7 +95,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709068
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-col-zadok-magruder-springbrook-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270108T191500
 DTEND;TZID=America/New_York:20270108T211500
 SUMMARY:Girls Basketball: Springbrook at Col. Zadok Magruder
@@ -105,7 +105,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-springbrook-watkins-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Girls Basketball: Watkins Mill at Springbrook
@@ -114,7 +114,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709066
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-richard-montgomery-springbrook-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Girls Basketball: Springbrook at Richard Montgomery
@@ -123,7 +123,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708694
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-springbrook-john-f-kennedy-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270119T180000
 DTEND;TZID=America/New_York:20270119T200000
 SUMMARY:Girls Basketball: John F. Kennedy at Springbrook
@@ -132,16 +132,17 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709018
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-winston-churchill-springbrook-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270122T191500
 DTEND;TZID=America/New_York:20270122T211500
 SUMMARY:Girls Basketball: Springbrook at Winston Churchill
 LOCATION:Winston Churchill
-DESCRIPTION:Tickets: https://gofan.co/event/6707891
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwinston-churchill-high-school-potomac-md%2Fgam6f94fe67c5\nTickets: https://gofan.co/event/6707891
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fwinston-churchill-high-school-potomac-md%2Fgam6f94fe67c5
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-paint-branch-springbrook-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270129T191500
 DTEND;TZID=America/New_York:20270129T211500
 SUMMARY:Girls Basketball: Springbrook at Paint Branch
@@ -150,7 +151,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709084
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-springbrook-sherwood-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270201T191500
 DTEND;TZID=America/New_York:20270201T211500
 SUMMARY:Girls Basketball: Sherwood at Springbrook
@@ -159,7 +160,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709014
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-james-hubert-blake-springbrook-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270203T191500
 DTEND;TZID=America/New_York:20270203T211500
 SUMMARY:Girls Basketball: Springbrook at James Hubert Blake
@@ -169,7 +170,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-gaithersburg-springbrook-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Girls Basketball: Springbrook at Gaithersburg
@@ -178,7 +179,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6707086
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-springbrook-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270208T180000
 DTEND;TZID=America/New_York:20270208T200000
 SUMMARY:Girls Basketball: Col. Zadok Magruder at Springbrook
@@ -187,7 +188,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709041
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-springbrook-walt-whitman-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Girls Basketball: Walt Whitman at Springbrook
@@ -196,7 +197,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709064
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-montgomery-blair-springbrook-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270219T173000
 DTEND;TZID=America/New_York:20270219T193000
 SUMMARY:Girls Basketball: Springbrook at Montgomery Blair

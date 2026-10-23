@@ -223,6 +223,8 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
                 if x.get("time"):
                     times[(x["game_date"], a, b)] = x["time"]
             continue
+        if not x["game_date"]:
+            continue  # a result with no date anywhere can't be placed in the season
         entries[(x["game_date"], a, b)].append((r, sa, sb, home, (x["result"] or "").startswith("Forfeit")))
         sides[(x["game_date"], a, b)].add(norm(x["school"]))
     # The same game is sometimes entered by each school under a different date: two days apart, or the
@@ -232,7 +234,8 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
         d1, d2 = datetime.date.fromisoformat(d1), datetime.date.fromisoformat(d2)
         return (d2 - d1).days <= 2 or (d1.day == d2.day and (d2.year * 12 + d2.month) - (d1.year * 12 + d1.month) == 1)
     top = lambda k: collections.Counter(entries[k]).most_common(1)[0][0][:3]
-    for k1, k2 in sorted((k1, k2) for k1 in entries for k2 in entries if k1[1:] == k2[1:] and k1[0] < k2[0]):
+    for k1, k2 in sorted((k1, k2) for k1 in entries for k2 in entries
+                      if k1[0] and k2[0] and k1[1:] == k2[1:] and k1[0] < k2[0]):
         if k1 in entries and k2 in entries and misdated(k1[0], k2[0]) and len(sides[k1]) == len(sides[k2]) == 1 \
                 and sides[k1] != sides[k2] and None not in top(k1) and top(k1) == top(k2):
             del entries[k2]
@@ -428,6 +431,15 @@ def build_site(key, cfg, nonce, stamp):
                 standings = realign(standings, f'{d["gender"].lower()}-{cfg["alignment"]}', nonce)
         if cfg.get("arbiter"):
             raw += arbiter_games(raw, standings, d["gender"].lower(), cfg)
+        # A result entered without a date takes the date of the same matchup's only dated entry (the other school's)
+        dated = collections.defaultdict(set)
+        for x in raw:
+            if x["game_date"]:
+                dated[frozenset((x["school"], x["opponent"]))].add(x["game_date"])
+        for x in raw:
+            ds = dated[frozenset((x["school"], x["opponent"]))]
+            if not x["game_date"] and len(ds) == 1:
+                x["game_date"] = next(iter(ds))
         raw = [x for x in raw if x["game_date"] not in cfg.get("uncounted_dates", [])]
         fill_scores(raw, SCORE_FIXES.get(key, {}))
         teams = rank_sport(raw, standings, cfg["classes"], cfg.get("first_meeting_only", False))

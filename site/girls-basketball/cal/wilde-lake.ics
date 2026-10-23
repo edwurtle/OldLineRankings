@@ -6,7 +6,7 @@ X-WR-CALNAME:Wilde Lake Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-wilde-lake-marriotts-ridge-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261204T180000
 DTEND;TZID=America/New_York:20261204T200000
 SUMMARY:Girls Basketball: Marriotts Ridge at Wilde Lake
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-river-hill-wilde-lake-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261207T173000
 DTEND;TZID=America/New_York:20261207T193000
 SUMMARY:Girls Basketball: Wilde Lake at River Hill
@@ -24,7 +24,7 @@ LOCATION:River Hill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-glenelg-wilde-lake-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261209T173000
 DTEND;TZID=America/New_York:20261209T193000
 SUMMARY:Girls Basketball: Wilde Lake at Glenelg
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-wilde-lake-hammond-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261214T173000
 DTEND;TZID=America/New_York:20261214T193000
 SUMMARY:Girls Basketball: Hammond at Wilde Lake
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-calvert-wilde-lake-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261217T181500
 DTEND;TZID=America/New_York:20261217T201500
 SUMMARY:Girls Basketball: Wilde Lake at Calvert
@@ -52,7 +52,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-mount-hebron-wilde-lake-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261221T173000
 DTEND;TZID=America/New_York:20261221T193000
 SUMMARY:Girls Basketball: Wilde Lake at Mount Hebron

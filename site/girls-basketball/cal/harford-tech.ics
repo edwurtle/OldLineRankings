@@ -6,7 +6,7 @@ X-WR-CALNAME:Harford Tech Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-17-beth-tfiloh-harford-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261117T173000
 DTEND;TZID=America/New_York:20261117T193000
 SUMMARY:Girls Basketball: Harford Tech at Beth Tfiloh
@@ -14,7 +14,7 @@ LOCATION:Beth Tfiloh
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-elkton-harford-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261202T170000
 DTEND;TZID=America/New_York:20261202T190000
 SUMMARY:Girls Basketball: Harford Tech at Elkton
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-havre-de-grace-harford-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261204T190000
 DTEND;TZID=America/New_York:20261204T210000
 SUMMARY:Girls Basketball: Harford Tech at Havre de Grace
@@ -32,7 +32,7 @@ LOCATION:Havre de Grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-north-east-c-harford-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261208T190000
 DTEND;TZID=America/New_York:20261208T210000
 SUMMARY:Girls Basketball: Harford Tech at North East-C
@@ -40,7 +40,7 @@ LOCATION:North East-C
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-joppatowne-harford-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261211T183000
 DTEND;TZID=America/New_York:20261211T203000
 SUMMARY:Girls Basketball: Harford Tech at Joppatowne
@@ -50,7 +50,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-harford-tech-edgewood-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261214T190000
 DTEND;TZID=America/New_York:20261214T210000
 SUMMARY:Girls Basketball: Edgewood at Harford Tech
@@ -58,7 +58,7 @@ LOCATION:Harford Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-c-milton-wright-harford-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261217T190000
 DTEND;TZID=America/New_York:20261217T210000
 SUMMARY:Girls Basketball: Harford Tech at C. Milton Wright
@@ -66,7 +66,7 @@ LOCATION:C. Milton Wright
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-harford-tech-aberdeen-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20261222T190000
 DTEND;TZID=America/New_York:20261222T210000
 SUMMARY:Girls Basketball: Aberdeen at Harford Tech
@@ -74,7 +74,7 @@ LOCATION:Harford Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-harford-tech-havre-de-grace-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270105T190000
 DTEND;TZID=America/New_York:20270105T210000
 SUMMARY:Girls Basketball: Havre de Grace at Harford Tech
@@ -82,7 +82,7 @@ LOCATION:Harford Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-bohemia-manor-harford-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270107T173000
 DTEND;TZID=America/New_York:20270107T193000
 SUMMARY:Girls Basketball: Harford Tech at Bohemia Manor
@@ -90,7 +90,7 @@ LOCATION:Bohemia Manor
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-edgewood-harford-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270112T190000
 DTEND;TZID=America/New_York:20270112T210000
 SUMMARY:Girls Basketball: Harford Tech at Edgewood
@@ -98,7 +98,7 @@ LOCATION:Edgewood
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-harford-tech-c-milton-wright-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270119T190000
 DTEND;TZID=America/New_York:20270119T210000
 SUMMARY:Girls Basketball: C. Milton Wright at Harford Tech
@@ -106,7 +106,7 @@ LOCATION:Harford Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-north-harford-harford-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270126T190000
 DTEND;TZID=America/New_York:20270126T210000
 SUMMARY:Girls Basketball: Harford Tech at North Harford
@@ -114,7 +114,7 @@ LOCATION:North Harford
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-north-east-c-harford-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270126T190000
 DTEND;TZID=America/New_York:20270126T210000
 SUMMARY:Girls Basketball: Harford Tech at North East-C
@@ -122,7 +122,7 @@ LOCATION:North East-C
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-harford-tech-north-east-c-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270202T190000
 DTEND;TZID=America/New_York:20270202T210000
 SUMMARY:Girls Basketball: North East-C at Harford Tech
@@ -130,7 +130,7 @@ LOCATION:Harford Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-aberdeen-harford-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270210T170000
 DTEND;TZID=America/New_York:20270210T190000
 SUMMARY:Girls Basketball: Harford Tech at Aberdeen
@@ -138,7 +138,7 @@ LOCATION:Aberdeen
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-harford-tech-patterson-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261022T082002Z
+DTSTAMP:20261023T013117Z
 DTSTART;TZID=America/New_York:20270212T190000
 DTEND;TZID=America/New_York:20270212T210000
 SUMMARY:Girls Basketball: Patterson Mill at Harford Tech

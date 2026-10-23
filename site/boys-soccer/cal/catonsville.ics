@@ -6,7 +6,7 @@ X-WR-CALNAME:Catonsville Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-catonsville-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Boys Soccer: Crofton at Catonsville
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-century-catonsville-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Catonsville at Century
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Catonsville 1\, Century 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-catonsville-dulaney-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Dulaney at Catonsville
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Catonsville 4\, Dulaney 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-eastern-tech-catonsville-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20260924T173000
 DTEND;TZID=America/New_York:20260924T193000
 SUMMARY:Boys Soccer: Catonsville at Eastern Tech
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-manchester-valley-catonsville-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Catonsville at Manchester Valley
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Catonsville 4\, Manchester Valley 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-catonsville-dundalk-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Dundalk at Catonsville
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Catonsville 2\, Dundalk 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-hereford-catonsville-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
 SUMMARY:Boys Soccer: Catonsville at Hereford
@@ -72,7 +72,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-catonsville-perry-hall-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T193000
 SUMMARY:Boys Soccer: Perry Hall at Catonsville
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-sparrows-point-catonsville-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Boys Soccer: Catonsville at Sparrows Point
@@ -92,7 +92,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-towson-catonsville-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261013T164500
 DTEND;TZID=America/New_York:20261013T184500
 SUMMARY:Boys Soccer: Catonsville at Towson
@@ -102,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-catonsville-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261022T081835Z
+DTSTAMP:20261023T012847Z
 DTSTART;TZID=America/New_York:20261020T173000
 DTEND;TZID=America/New_York:20261020T193000
 SUMMARY:Boys Soccer: Franklin at Catonsville
