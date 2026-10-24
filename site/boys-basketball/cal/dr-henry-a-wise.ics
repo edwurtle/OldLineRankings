@@ -6,7 +6,7 @@ X-WR-CALNAME:Dr. Henry A. Wise Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-01-clarksburg-dr-henry-a-wise-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20261201T190000
 DTEND;TZID=America/New_York:20261201T210000
 SUMMARY:Boys Basketball: Dr. Henry A. Wise at Clarksburg
@@ -14,7 +14,7 @@ LOCATION:Clarksburg
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-parkdale-dr-henry-a-wise-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20261210T191500
 DTEND;TZID=America/New_York:20261210T211500
 SUMMARY:Boys Basketball: Dr. Henry A. Wise at Parkdale
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-duval-dr-henry-a-wise-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20261215T191500
 DTEND;TZID=America/New_York:20261215T211500
 SUMMARY:Boys Basketball: Dr. Henry A. Wise at Duval
@@ -33,7 +33,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6696706
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-laurel-dr-henry-a-wise-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20261217T191500
 DTEND;TZID=America/New_York:20261217T211500
 SUMMARY:Boys Basketball: Dr. Henry A. Wise at Laurel
@@ -43,7 +43,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-dr-henry-a-wise-eleanor-roosevelt-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Boys Basketball: Eleanor Roosevelt at Dr. Henry A. Wise
@@ -53,7 +53,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-dr-henry-a-wise-bladensburg-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20270107T191500
 DTEND;TZID=America/New_York:20270107T211500
 SUMMARY:Boys Basketball: Bladensburg at Dr. Henry A. Wise
@@ -63,7 +63,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-high-point-dr-henry-a-wise-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Boys Basketball: Dr. Henry A. Wise at High Point
@@ -73,7 +73,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-charles-h-flowers-dr-henry-a-wise-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Boys Basketball: Dr. Henry A. Wise at Charles H. Flowers
@@ -83,7 +83,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-dr-henry-a-wise-bowie-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Boys Basketball: Bowie at Dr. Henry A. Wise
@@ -93,7 +93,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-dr-henry-a-wise-suitland-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20270128T191500
 DTEND;TZID=America/New_York:20270128T211500
 SUMMARY:Boys Basketball: Suitland at Dr. Henry A. Wise
@@ -103,7 +103,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-dr-henry-a-wise-parkdale-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20270202T191500
 DTEND;TZID=America/New_York:20270202T211500
 SUMMARY:Boys Basketball: Parkdale at Dr. Henry A. Wise
@@ -113,7 +113,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-dr-henry-a-wise-duval-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20270204T191500
 DTEND;TZID=America/New_York:20270204T211500
 SUMMARY:Boys Basketball: Duval at Dr. Henry A. Wise
@@ -123,7 +123,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-dr-henry-a-wise-laurel-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20270210T191500
 DTEND;TZID=America/New_York:20270210T211500
 SUMMARY:Boys Basketball: Laurel at Dr. Henry A. Wise
@@ -133,7 +133,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-eleanor-roosevelt-dr-henry-a-wise-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Boys Basketball: Dr. Henry A. Wise at Eleanor Roosevelt
@@ -143,7 +143,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-bladensburg-dr-henry-a-wise-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Boys Basketball: Dr. Henry A. Wise at Bladensburg
@@ -153,7 +153,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-dr-henry-a-wise-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261024T140955Z
+DTSTAMP:20261024T233357Z
 DTSTART;TZID=America/New_York:20270218T191500
 DTEND;TZID=America/New_York:20270218T211500
 SUMMARY:Boys Basketball: High Point at Dr. Henry A. Wise

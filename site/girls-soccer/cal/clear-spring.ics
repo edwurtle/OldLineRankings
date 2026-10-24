@@ -6,7 +6,7 @@ X-WR-CALNAME:Clear Spring Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-mountain-ridge-clear-spring-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Girls Soccer: Clear Spring at Mountain Ridge
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Clear Spring 0\, Mountain Ridge 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-clear-spring-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: North Hagerstown at Clear Spring
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Clear Spring 0\, North Hagerstown 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-clear-spring-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Walkersville at Clear Spring
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Clear Spring 0\, Walkersville 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-north-hagerstown-clear-spring-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Clear Spring at North Hagerstown
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Clear Spring 0\, North Hagerstown 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-clear-spring-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Williamsport at Clear Spring
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Clear Spring 3\, Williamsport 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-clear-spring-catoctin-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Catoctin at Clear Spring
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Clear Spring 2\, Catoctin 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-clear-spring-brunswick-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Brunswick at Clear Spring
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Clear Spring 0\, Brunswick 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-clear-spring-middletown-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Girls Soccer: Middletown at Clear Spring
@@ -79,7 +79,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-clear-spring-smithsburg-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Smithsburg at Clear Spring
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Clear Spring -\, Smithsburg -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-allegany-clear-spring-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Girls Soccer: Clear Spring at Allegany
@@ -97,7 +97,7 @@ DESCRIPTION:Final: Clear Spring 1\, Allegany 10
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-clear-spring-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: South Hagerstown at Clear Spring
@@ -106,7 +106,7 @@ DESCRIPTION:Final: Clear Spring 5\, South Hagerstown 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-clear-spring-st-james-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: st james at Clear Spring
@@ -114,7 +114,7 @@ LOCATION:Clear Spring
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-boonsboro-clear-spring-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Girls Soccer: Clear Spring at Boonsboro

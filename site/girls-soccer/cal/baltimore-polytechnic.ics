@@ -6,7 +6,7 @@ X-WR-CALNAME:Baltimore Polytechnic Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-baltimore-polytechnic-park-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Girls Soccer: Park at Baltimore Polytechnic
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-baltimore-polytechnic-mount-de-sales-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Girls Soccer: Mount De Sales at Baltimore Polytechnic
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 2\, Mount De Sales 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-edmondson-westside-baltimore-polytechnic-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;TZID=America/New_York:20260916T154500
 DTEND;TZID=America/New_York:20260916T174500
 SUMMARY:Girls Soccer: Baltimore Polytechnic at Edmondson-Westside
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-baltimore-polytechnic-spalding-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;TZID=America/New_York:20260919T131500
 DTEND;TZID=America/New_York:20260919T151500
 SUMMARY:Girls Soccer: Spalding at Baltimore Polytechnic
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-baltimore-polytechnic-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;TZID=America/New_York:20260919T131500
 DTEND;TZID=America/New_York:20260919T151500
 SUMMARY:Girls Soccer: Crofton at Baltimore Polytechnic
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-baltimore-polytechnic-western-b-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;TZID=America/New_York:20260923T154500
 DTEND;TZID=America/New_York:20260923T174500
 SUMMARY:Girls Soccer: Western-B at Baltimore Polytechnic
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-baltimore-polytechnic-friends-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Girls Soccer: Friends at Baltimore Polytechnic
@@ -74,7 +74,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 2\, Friends 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-baltimore-polytechnic-patterson-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;TZID=America/New_York:20260930T154500
 DTEND;TZID=America/New_York:20260930T174500
 SUMMARY:Girls Soccer: Patterson at Baltimore Polytechnic
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-baltimore-city-college-baltimore-polytechnic-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: Baltimore Polytechnic at Baltimore City College
@@ -93,7 +93,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 2\, Baltimore City College 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-paul-laurence-dunbar-baltimore-polytechnic-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Girls Soccer: Baltimore Polytechnic at Paul Laurence Dunbar
@@ -102,7 +102,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 9\, Paul Laurence Dunbar 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-baltimore-polytechnic-digital-harbor-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Digital Harbor at Baltimore Polytechnic
@@ -111,7 +111,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 6\, Digital Harbor 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-baltimore-polytechnic-md-catholic-high-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;TZID=America/New_York:20261015T154500
 DTEND;TZID=America/New_York:20261015T174500
 SUMMARY:Girls Soccer: MD - Catholic High at Baltimore Polytechnic
@@ -121,7 +121,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-sparrows-point-baltimore-polytechnic-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;TZID=America/New_York:20261020T173000
 DTEND;TZID=America/New_York:20261020T193000
 SUMMARY:Girls Soccer: Baltimore Polytechnic at Sparrows Point
@@ -131,7 +131,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-national-academy-foundation-naf-baltimore-polytechnic-girls-soccer@oldlinerankings
-DTSTAMP:20261024T140918Z
+DTSTAMP:20261024T233326Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Girls Soccer: Baltimore Polytechnic at National Academy Foundation (NAF)

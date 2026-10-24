@@ -6,7 +6,7 @@ X-WR-CALNAME:Southern-AA Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-southern-aa-old-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20260909T190000
 DTEND;TZID=America/New_York:20260909T210000
 SUMMARY:Boys Soccer: Old Mill at Southern-AA
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-southern-aa-arundel-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20260915T170000
 DTEND;TZID=America/New_York:20260915T190000
 SUMMARY:Boys Soccer: Arundel at Southern-AA
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-southern-aa-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T190000
 SUMMARY:Boys Soccer: Crofton at Southern-AA
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-southern-aa-glen-burnie-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20260929T170000
 DTEND;TZID=America/New_York:20260929T190000
 SUMMARY:Boys Soccer: Glen Burnie at Southern-AA
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-southern-aa-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: North County at Southern-AA
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Southern-AA 1\, North County 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-southern-aa-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Boys Soccer: Huntingtown at Southern-AA
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-southern-aa-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Boys Soccer: Annapolis at Southern-AA
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-southern-aa-northeast-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Northeast-AA at Southern-AA
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-southern-aa-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Boys Soccer: Meade at Southern-AA
@@ -95,7 +95,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-southern-aa-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Severna Park at Southern-AA
@@ -105,7 +105,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-southern-aa-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Boys Soccer: Severn Run at Southern-AA
@@ -115,7 +115,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-chesapeake-science-point-southern-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Southern-AA at Chesapeake Science Point

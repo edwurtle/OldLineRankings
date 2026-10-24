@@ -6,7 +6,7 @@ X-WR-CALNAME:Aberdeen Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-elkton-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20260908T170000
 DTEND;TZID=America/New_York:20260908T190000
 SUMMARY:Boys Soccer: Aberdeen at Elkton
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-joppatowne-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20260910T172500
 DTEND;TZID=America/New_York:20260910T192500
 SUMMARY:Boys Soccer: Aberdeen at Joppatowne
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-north-harford-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20260914T170000
 DTEND;TZID=America/New_York:20260914T190000
 SUMMARY:Boys Soccer: Aberdeen at North Harford
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-bel-air-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20260916T185000
 DTEND;TZID=America/New_York:20260916T205000
 SUMMARY:Boys Soccer: Aberdeen at Bel Air
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-fallston-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Aberdeen at Fallston
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-c-milton-wright-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20260928T165500
 DTEND;TZID=America/New_York:20260928T185500
 SUMMARY:Boys Soccer: Aberdeen at C. Milton Wright
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-bohemia-manor-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20260930T153000
 DTEND;TZID=America/New_York:20260930T173000
 SUMMARY:Boys Soccer: Aberdeen at Bohemia Manor
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-patterson-mill-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20261001T165500
 DTEND;TZID=America/New_York:20261001T185500
 SUMMARY:Boys Soccer: Aberdeen at Patterson Mill
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-harford-tech-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20261005T190000
 DTEND;TZID=America/New_York:20261005T210000
 SUMMARY:Boys Soccer: Aberdeen at Harford Tech
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-north-east-c-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Boys Soccer: Aberdeen at North East-C
@@ -105,7 +105,7 @@ DESCRIPTION:Final: Aberdeen 5\, North East-C 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-aberdeen-edgewood-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20261013T185500
 DTEND;TZID=America/New_York:20261013T205500
 SUMMARY:Boys Soccer: Edgewood at Aberdeen
@@ -115,7 +115,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-havre-de-grace-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261024T140848Z
+DTSTAMP:20261024T233301Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Aberdeen at Havre de Grace
