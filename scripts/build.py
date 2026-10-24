@@ -744,13 +744,13 @@ def esc(s):
     return html.escape(str(s), quote=True)
 
 
-def game_of_week(b, days=7):
-    """The sport's game of the week: an upcoming game in the next `days` days between two MPSSAA teams with an
-    NFHS Network broadcast, close enough to be a real contest (favorite at most 75%, else 85%), picking the
-    highest average Old Line Rating. Returns None when no game qualifies."""
+def games_of_week(b, days=7):
+    """The sport's games of the week, best first: upcoming games in the next `days` days between two MPSSAA teams
+    with an NFHS Network broadcast, close enough to be a real contest (favorites at most 75% by highest average
+    Old Line Rating, then those up to 85%), with no team in two of them. Empty when no game qualifies."""
     cfg = b["cfg"]
     if not cfg.get("olr") or any((s.get("hold") or {}).get("ranks") is not None for s in b["sports"].values()):
-        return None
+        return []
     today = now_et().date()
     best = {}
     for div, s in b["sports"].items():
@@ -767,11 +767,13 @@ def game_of_week(b, days=7):
                 p = oldline.win_prob(home["rating"], away["rating"], 1, home_edge, cfg["olr"]["k"])
                 best[key] = dict(div=div, date=u["date"], time=u.get("time"), watch=u["watch"], tickets=u.get("tickets"), home=home, away=away, p=p,
                                  fav=max(p, 1 - p), strength=(home["rating"] + away["rating"]) / 2)
-    for limit in (.75, .85):
-        close = [g for g in best.values() if g["fav"] <= limit]
-        if close:
-            return max(close, key=lambda g: g["strength"])
-    return None
+    ranked = sorted((g for g in best.values() if g["fav"] <= .85), key=lambda g: (g["fav"] > .75, -g["strength"]))
+    picks, used = [], set()
+    for g in ranked:
+        if not {g["home"]["school"], g["away"]["school"]} & used:
+            picks.append(g)
+            used |= {g["home"]["school"], g["away"]["school"]}
+    return picks
 
 
 def write_splash(built, stamp):
@@ -805,12 +807,15 @@ def write_splash(built, stamp):
       <span class="sport-go">Old Line {esc(cfg["sport"])} Rankings →</span></a>''')
     coming = [f'''<div class="sport-card soon"><div class="sport-top"><span class="sport-icon">{icons.svg(c["icon"])}</span>
       <div><h2>{esc(c["sport"])}</h2><small>{esc(c["note"])}</small></div></div></div>''' for c in COMING]
-    # Games of the week: one per sport
+    # Games of the week: one per sport, and at least 3 in all, so a sport between seasons (or out of
+    # streamed games) hands its slot to the next-best games of the others
+    ranked = [(b, games_of_week(b)) for b in built]
+    picks = [(b, gs[0]) for b, gs in ranked if gs]
+    extras = sorted(((b, g) for b, gs in ranked for g in gs[1:]), key=lambda bg: (bg[1]["fav"] > .75, -bg[1]["strength"]))
+    picks += extras[:max(0, 3 - len(picks))]
+    picks.sort(key=lambda bg: built.index(bg[0]))
     gotw = []
-    for b in built:
-        g = game_of_week(b)
-        if not g:
-            continue
+    for b, g in picks:
         cfg = b["cfg"]
         def side(t, chance):
             logo = (b["schools"].get(t["school"]) or {}).get("logo")

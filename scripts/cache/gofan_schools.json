@@ -24,6 +24,11 @@
   "name": "International High School - Largo",
   "type": "High School"
  },
+ "MD101549": {
+  "city": "Laurel",
+  "name": "CMIT North Middle School",
+  "type": "Middle School"
+ },
  "MD10399": {
   "city": "Ellicott City",
   "name": "Howard County Public Schools",
@@ -668,6 +673,11 @@
   "city": "Gambrills",
   "name": "Crofton High School",
   "type": "High School"
+ },
+ "MD79859": {
+  "city": "Randallstown",
+  "name": "Deer Park Middle Magnet School",
+  "type": "Middle School"
  },
  "MD79874": {
   "city": "Baltimore",
