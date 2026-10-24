@@ -35,6 +35,7 @@ SCORE_FIXES = {
         ("2026-10-23", "Clear Spring", "WV- Petersburg"): (13, 55),
         ("2026-10-24", "Wilde Lake", "Hammond"): (39, 0),
         ("2026-10-24", "DuVal", "Northwestern"): (35, 12),
+        ("2026-10-24", "Crossland", "Central"): (38, 18),
     },
 }
 
