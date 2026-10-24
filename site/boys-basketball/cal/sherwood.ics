@@ -6,7 +6,7 @@ X-WR-CALNAME:Sherwood Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-21-sherwood-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261121T103000
 DTEND;TZID=America/New_York:20261121T123000
 SUMMARY:Boys Basketball: Northwest at Sherwood
@@ -14,7 +14,7 @@ LOCATION:Sherwood
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-sherwood-clarksburg-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261204T191500
 DTEND;TZID=America/New_York:20261204T211500
 SUMMARY:Boys Basketball: Clarksburg at Sherwood
@@ -23,7 +23,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708809
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-rockville-sherwood-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Boys Basketball: Sherwood at Rockville
@@ -33,7 +33,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-sherwood-damascus-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261211T191500
 DTEND;TZID=America/New_York:20261211T211500
 SUMMARY:Boys Basketball: Damascus at Sherwood
@@ -42,7 +42,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708778
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-poolesville-sherwood-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261214T191500
 DTEND;TZID=America/New_York:20261214T211500
 SUMMARY:Boys Basketball: Sherwood at Poolesville
@@ -51,7 +51,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708510
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-sherwood-gaithersburg-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261216T191500
 DTEND;TZID=America/New_York:20261216T211500
 SUMMARY:Boys Basketball: Gaithersburg at Sherwood
@@ -60,7 +60,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708770
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-springbrook-sherwood-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261218T191500
 DTEND;TZID=America/New_York:20261218T211500
 SUMMARY:Boys Basketball: Sherwood at Springbrook
@@ -69,7 +69,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709030
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-col-zadok-magruder-sherwood-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261221T191500
 DTEND;TZID=America/New_York:20261221T211500
 SUMMARY:Boys Basketball: Sherwood at Col. Zadok Magruder
@@ -79,7 +79,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-sherwood-james-hubert-blake-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Boys Basketball: James Hubert Blake at Sherwood
@@ -88,7 +88,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708820
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-paint-branch-sherwood-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270108T191500
 DTEND;TZID=America/New_York:20270108T211500
 SUMMARY:Boys Basketball: Sherwood at Paint Branch
@@ -97,7 +97,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709052
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-seneca-valley-sherwood-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Boys Basketball: Sherwood at Seneca Valley
@@ -106,7 +106,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708378
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-sherwood-bethesda-cc-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Boys Basketball: Bethesda-CC at Sherwood
@@ -115,7 +115,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708743
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-richard-montgomery-sherwood-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270122T191500
 DTEND;TZID=America/New_York:20270122T211500
 SUMMARY:Boys Basketball: Sherwood at Richard Montgomery
@@ -124,7 +124,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708647
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-sherwood-walt-whitman-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Boys Basketball: Walt Whitman at Sherwood
@@ -133,7 +133,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708832
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-gaithersburg-sherwood-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270129T191500
 DTEND;TZID=America/New_York:20270129T211500
 SUMMARY:Boys Basketball: Sherwood at Gaithersburg
@@ -143,7 +143,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-sherwood-springbrook-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270201T191500
 DTEND;TZID=America/New_York:20270201T211500
 SUMMARY:Boys Basketball: Springbrook at Sherwood
@@ -152,7 +152,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708777
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-sherwood-col-zadok-magruder-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270203T180000
 DTEND;TZID=America/New_York:20270203T200000
 SUMMARY:Boys Basketball: Col. Zadok Magruder at Sherwood
@@ -161,7 +161,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708749
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-james-hubert-blake-sherwood-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Boys Basketball: Sherwood at James Hubert Blake
@@ -171,7 +171,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-sherwood-paint-branch-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270208T180000
 DTEND;TZID=America/New_York:20270208T200000
 SUMMARY:Boys Basketball: Paint Branch at Sherwood
@@ -180,7 +180,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708758
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-sherwood-montgomery-blair-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Boys Basketball: Montgomery Blair at Sherwood
@@ -189,7 +189,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708760
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-walter-johnson-sherwood-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270219T191500
 DTEND;TZID=America/New_York:20270219T211500
 SUMMARY:Boys Basketball: Sherwood at Walter Johnson

@@ -6,7 +6,7 @@ X-WR-CALNAME:Hereford Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-30-hereford-north-harford-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261130T173000
 DTEND;TZID=America/New_York:20261130T193000
 SUMMARY:Boys Basketball: North Harford at Hereford
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-hereford-winters-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261204T183000
 DTEND;TZID=America/New_York:20261204T203000
 SUMMARY:Boys Basketball: Winters Mill at Hereford
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-manchester-valley-hereford-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261209T183000
 DTEND;TZID=America/New_York:20261209T203000
 SUMMARY:Boys Basketball: Hereford at Manchester Valley
@@ -34,7 +34,7 @@ LOCATION:Manchester Valley
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-owings-mills-hereford-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261211T173000
 DTEND;TZID=America/New_York:20261211T193000
 SUMMARY:Boys Basketball: Hereford at Owings Mills
@@ -42,7 +42,7 @@ LOCATION:Owings Mills
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-randallstown-hereford-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Boys Basketball: Hereford at Randallstown
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-hereford-dulaney-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20261218T183000
 DTEND;TZID=America/New_York:20261218T203000
 SUMMARY:Boys Basketball: Dulaney at Hereford
@@ -62,7 +62,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-hereford-woodlawn-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Boys Basketball: Woodlawn at Hereford
@@ -72,7 +72,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-franklin-hereford-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Boys Basketball: Hereford at Franklin
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-western-tech-hereford-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
 SUMMARY:Boys Basketball: Hereford at Western Tech
@@ -92,7 +92,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-pikesville-hereford-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270115T173000
 DTEND;TZID=America/New_York:20270115T193000
 SUMMARY:Boys Basketball: Hereford at Pikesville
@@ -102,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-catonsville-hereford-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270120T173000
 DTEND;TZID=America/New_York:20270120T193000
 SUMMARY:Boys Basketball: Hereford at Catonsville
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-hereford-randallstown-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270122T173000
 DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Boys Basketball: Randallstown at Hereford
@@ -122,7 +122,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-hereford-fallston-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270125T173000
 DTEND;TZID=America/New_York:20270125T193000
 SUMMARY:Boys Basketball: Fallston at Hereford
@@ -132,7 +132,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-hereford-lansdowne-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Boys Basketball: Lansdowne at Hereford
@@ -142,7 +142,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-hereford-owings-mills-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270129T183000
 DTEND;TZID=America/New_York:20270129T203000
 SUMMARY:Boys Basketball: Owings Mills at Hereford
@@ -152,7 +152,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-hereford-new-town-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Boys Basketball: New Town at Hereford
@@ -162,7 +162,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-dulaney-hereford-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270205T173000
 DTEND;TZID=America/New_York:20270205T193000
 SUMMARY:Boys Basketball: Hereford at Dulaney
@@ -172,7 +172,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-hereford-owings-mills-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270210T173000
 DTEND;TZID=America/New_York:20270210T193000
 SUMMARY:Boys Basketball: Owings Mills at Hereford
@@ -182,7 +182,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-hereford-franklin-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270212T183000
 DTEND;TZID=America/New_York:20270212T203000
 SUMMARY:Boys Basketball: Franklin at Hereford
@@ -192,7 +192,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-milford-mill-academy-hereford-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270217T173000
 DTEND;TZID=America/New_York:20270217T193000
 SUMMARY:Boys Basketball: Hereford at Milford Mill Academy
@@ -202,7 +202,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-century-hereford-boys-basketball@oldlinerankings
-DTSTAMP:20261023T153148Z
+DTSTAMP:20261024T082016Z
 DTSTART;TZID=America/New_York:20270219T183000
 DTEND;TZID=America/New_York:20270219T203000
 SUMMARY:Boys Basketball: Hereford at Century

@@ -6,7 +6,7 @@ X-WR-CALNAME:Tuscarora Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-middletown-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Boys Soccer: Tuscarora at Middletown
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-brunswick-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Boys Soccer: Tuscarora at Brunswick
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-tuscarora-georgetown-prep-non-mpssaa-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Georgetown Prep - non MPSSAA at Tuscarora
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Tuscarora 1\, Georgetown Prep - non MPSSAA 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-tuscarora-south-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: South Hagerstown at Tuscarora
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Tuscarora 8\, South Hagerstown 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-tuscarora-mcdonough-non-mpssaa-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Boys Soccer: McDonough - Non MPSSAA at Tuscarora
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Tuscarora 1\, McDonough - Non MPSSAA 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-tuscarora-urbana-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Urbana at Tuscarora
@@ -63,7 +63,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-tuscarora-north-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: North Hagerstown at Tuscarora
@@ -72,7 +72,7 @@ DESCRIPTION:Final: Tuscarora 1\, North Hagerstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-tuscarora-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Boys Soccer: Frederick at Tuscarora
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-tuscarora-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Tuscarora
@@ -92,7 +92,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-oakdale-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Boys Soccer: Tuscarora at Oakdale
@@ -102,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-westminster-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Tuscarora at Westminster
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-tuscarora-howard-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Boys Soccer: Howard at Tuscarora
@@ -121,7 +121,7 @@ DESCRIPTION:Final: Tuscarora 4\, Howard 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-linganore-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Tuscarora at Linganore

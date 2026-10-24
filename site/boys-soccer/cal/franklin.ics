@@ -6,7 +6,7 @@ X-WR-CALNAME:Franklin Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-franklin-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;TZID=America/New_York:20260908T160000
 DTEND;TZID=America/New_York:20260908T180000
 SUMMARY:Boys Soccer: Kenwood at Franklin
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-patapsco-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Franklin at Patapsco
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Franklin 11\, Patapsco 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-franklin-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
 SUMMARY:Boys Soccer: Woodlawn at Franklin
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-lansdowne-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Boys Soccer: Franklin at Lansdowne
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Franklin 6\, Lansdowne 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-loch-raven-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Franklin at Loch Raven
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Franklin 8\, Loch Raven 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-milford-mill-academy-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Franklin at Milford Mill Academy
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Franklin 8\, Milford Mill Academy 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-owings-mills-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Boys Soccer: Franklin at Owings Mills
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Franklin 10\, Owings Mills 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-franklin-parkville-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Parkville at Franklin
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Franklin 8\, Parkville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-pikesville-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;TZID=America/New_York:20261008T173000
 DTEND;TZID=America/New_York:20261008T193000
 SUMMARY:Boys Soccer: Franklin at Pikesville
@@ -90,7 +90,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-western-tech-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Franklin at Western Tech
@@ -99,7 +99,7 @@ DESCRIPTION:Final: Franklin 10\, Western Tech 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-overlea-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Franklin at Overlea
@@ -108,7 +108,7 @@ DESCRIPTION:Final: Franklin 7\, Overlea 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-catonsville-franklin-boys-soccer@oldlinerankings
-DTSTAMP:20261023T153039Z
+DTSTAMP:20261024T081903Z
 DTSTART;TZID=America/New_York:20261020T173000
 DTEND;TZID=America/New_York:20261020T193000
 SUMMARY:Boys Soccer: Franklin at Catonsville
