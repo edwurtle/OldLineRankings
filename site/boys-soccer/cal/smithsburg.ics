@@ -6,7 +6,7 @@ X-WR-CALNAME:Smithsburg Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-smithsburg-francis-scott-key-boys-soccer@oldlinerankings
-DTSTAMP:20261024T081903Z
+DTSTAMP:20261024T140848Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Francis Scott Key at Smithsburg
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Smithsburg 0\, Francis Scott Key 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-south-carroll-smithsburg-boys-soccer@oldlinerankings
-DTSTAMP:20261024T081903Z
+DTSTAMP:20261024T140848Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Smithsburg at South Carroll
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Smithsburg 1\, South Carroll 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-smithsburg-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261024T081903Z
+DTSTAMP:20261024T140848Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Williamsport at Smithsburg
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Smithsburg 2\, Williamsport 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-catoctin-smithsburg-boys-soccer@oldlinerankings
-DTSTAMP:20261024T081903Z
+DTSTAMP:20261024T140848Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Smithsburg at Catoctin
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Smithsburg 1\, Catoctin 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-smithsburg-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261024T081903Z
+DTSTAMP:20261024T140848Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Walkersville at Smithsburg
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Smithsburg 1\, Walkersville 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-boonsboro-smithsburg-boys-soccer@oldlinerankings
-DTSTAMP:20261024T081903Z
+DTSTAMP:20261024T140848Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Smithsburg at Boonsboro
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Smithsburg 0\, Boonsboro 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-smithsburg-north-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261024T081903Z
+DTSTAMP:20261024T140848Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: North Hagerstown at Smithsburg
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Smithsburg 1\, North Hagerstown 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-smithsburg-middletown-boys-soccer@oldlinerankings
-DTSTAMP:20261024T081903Z
+DTSTAMP:20261024T140848Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Boys Soccer: Middletown at Smithsburg
@@ -79,7 +79,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-brunswick-smithsburg-boys-soccer@oldlinerankings
-DTSTAMP:20261024T081903Z
+DTSTAMP:20261024T140848Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Smithsburg at Brunswick
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Smithsburg 1\, Brunswick 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-clear-spring-smithsburg-boys-soccer@oldlinerankings
-DTSTAMP:20261024T081903Z
+DTSTAMP:20261024T140848Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Smithsburg at Clear Spring
@@ -97,7 +97,7 @@ DESCRIPTION:Final: Smithsburg 1\, Clear Spring 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-smithsburg-liberty-boys-soccer@oldlinerankings
-DTSTAMP:20261024T081903Z
+DTSTAMP:20261024T140848Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Liberty at Smithsburg
@@ -106,7 +106,7 @@ DESCRIPTION:Final: Smithsburg 0\, Liberty 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-smithsburg-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261024T081903Z
+DTSTAMP:20261024T140848Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Smithsburg

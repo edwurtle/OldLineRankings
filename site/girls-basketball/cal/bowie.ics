@@ -6,7 +6,7 @@ X-WR-CALNAME:Bowie Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-eleanor-roosevelt-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20261210T191500
 DTEND;TZID=America/New_York:20261210T211500
 SUMMARY:Girls Basketball: Bowie at Eleanor Roosevelt
@@ -14,7 +14,7 @@ LOCATION:Eleanor Roosevelt
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-bowie-bladensburg-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20261215T180000
 DTEND;TZID=America/New_York:20261215T200000
 SUMMARY:Girls Basketball: Bladensburg at Bowie
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-bowie-westlake-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20261216T190000
 DTEND;TZID=America/New_York:20261216T210000
 SUMMARY:Girls Basketball: Westlake at Bowie
@@ -32,7 +32,7 @@ LOCATION:Bowie
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-bowie-northwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: Northwestern at Bowie
@@ -42,7 +42,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-bowie-charles-h-flowers-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20270107T191500
 DTEND;TZID=America/New_York:20270107T211500
 SUMMARY:Girls Basketball: Charles H. Flowers at Bowie
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-laurel-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Girls Basketball: Bowie at Laurel
@@ -62,7 +62,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-bowie-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Bowie
@@ -72,7 +72,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-high-point-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20270121T191500
 DTEND;TZID=America/New_York:20270121T211500
 SUMMARY:Girls Basketball: Bowie at High Point
@@ -80,7 +80,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-bowie-great-mills-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20270123T150000
 DTEND;TZID=America/New_York:20270123T170000
 SUMMARY:Girls Basketball: Great Mills at Bowie
@@ -88,7 +88,7 @@ LOCATION:Bowie
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-parkdale-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Girls Basketball: Bowie at Parkdale
@@ -98,7 +98,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-duval-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20270128T191500
 DTEND;TZID=America/New_York:20270128T211500
 SUMMARY:Girls Basketball: Bowie at Duval
@@ -107,7 +107,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6697116
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-bowie-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20270202T191500
 DTEND;TZID=America/New_York:20270202T211500
 SUMMARY:Girls Basketball: Eleanor Roosevelt at Bowie
@@ -117,7 +117,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-bladensburg-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20270204T180000
 DTEND;TZID=America/New_York:20270204T200000
 SUMMARY:Girls Basketball: Bowie at Bladensburg
@@ -127,7 +127,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-northwestern-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20270212T180000
 DTEND;TZID=America/New_York:20270212T200000
 SUMMARY:Girls Basketball: Bowie at Northwestern
@@ -137,7 +137,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-charles-h-flowers-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Girls Basketball: Bowie at Charles H. Flowers
@@ -145,7 +145,7 @@ LOCATION:Charles H. Flowers
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-suitland-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261024T082107Z
+DTSTAMP:20261024T141041Z
 DTSTART;TZID=America/New_York:20270218T191500
 DTEND;TZID=America/New_York:20270218T211500
 SUMMARY:Girls Basketball: Bowie at Suitland
