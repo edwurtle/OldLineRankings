@@ -22,9 +22,20 @@ API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
 # Scores MPSSAA is missing, filled in by hand: site key -> {(date, team, opponent): (team score, opponent score)}.
-# Only used when MPSSAA has no score for the game; its result still decides who won.
+# Only used when MPSSAA has no score for the game; its result still decides who won (the score does when it has none).
 SCORE_FIXES = {
-    "football": {("2026-09-04", "Linganore", "Mergenthaler"): (29, 28)},
+    "football": {
+        ("2026-09-04", "Linganore", "Mergenthaler"): (29, 28),
+        # Week 9 games MPSSAA hadn't posted by Oct 24 evening, from SI / MaxPreps / ArbiterLive / CSZ.
+        # TODO: check against MPSSAA's official results once posted, then drop these.
+        ("2026-10-23", "Parkville", "Kenwood"): (27, 26),
+        ("2026-10-23", "Milford Mill Academy", "Randallstown"): (35, 24),
+        ("2026-10-23", "Perryville", "Patterson Mill"): (49, 14),
+        ("2026-10-23", "Rising Sun", "North East-C"): (40, 0),
+        ("2026-10-23", "Clear Spring", "WV- Petersburg"): (13, 55),
+        ("2026-10-24", "Wilde Lake", "Hammond"): (39, 0),
+        ("2026-10-24", "DuVal", "Northwestern"): (35, 12),
+    },
 }
 
 # Maryland time: "today" and "updated" follow Eastern time, not the build server's clock (UTC)
@@ -656,6 +667,8 @@ def fill_scores(raw, fixes):
                 x["your_score"], x["opponent_score"] = sb, sa
             else:
                 continue
+            if not x.get("result"):  # no result posted either: the game counts as played, decided by the score
+                x["status"] = "completed"
             home = x.get("home_team")
             if home and x.get("home_score") is None:
                 x["home_score"], x["away_score"] = (x["your_score"], x["opponent_score"]) if home == x["school"] else (x["opponent_score"], x["your_score"])
