@@ -140,6 +140,7 @@ button, select, input { font: inherit; color: inherit; }
 .hl-foot { display: block; padding: 12px 16px; border-top: 1px solid var(--border); font-weight: 700; font-size: 13px; color: var(--accent-ink); }
 .hl-foot:hover { background: var(--surface-2); }
 
+.rec-note { font-size: 13px; margin: 0 0 10px; line-height: 1.45; }
 .unbeaten { display: flex; flex-wrap: wrap; gap: 10px; }
 .ub { display: flex; align-items: center; gap: 10px; background: var(--surface); border: 1px solid var(--border); border-radius: 999px; padding: 6px 14px 6px 6px; cursor: pointer; box-shadow: var(--shadow); transition: transform .12s; }
 .ub:hover { transform: translateY(-1px); }

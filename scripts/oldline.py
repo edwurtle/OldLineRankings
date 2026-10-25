@@ -145,7 +145,9 @@ def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, se
             for a, b, res in results:
                 wins[a] += {"W": 1, "T": .5, "L": 0}[res]
                 wins[b] += {"W": 0, "T": .5, "L": 1}[res]
-            order = lambda s: (-wins[s] / max(gp[s], playoffs["min_games"]), -rating(s))
+            # Seeding uses the official record: seed_adj is what it leaves out (build.official_records)
+            adj = {s: member[s].get("seed_adj") or {"w": 0, "gp": 0} for s in member}
+            order = lambda s: (-(wins[s] + adj[s]["w"]) / max(gp[s] + adj[s]["gp"], playoffs["min_games"]), -rating(s))
         else:
             order = lambda s: (-(pts[s] / gp[s] if gp[s] else 0), -pts[s], -rating(s))
         for c in class_pts:

@@ -144,7 +144,8 @@ COMING = [dict(sport="Lacrosse", icon="lacrosse", season="Spring", note="Boys & 
 
 # Opponent spellings that refer to member schools
 ALIAS = {"Mt. Hebron": "Mount Hebron", "Flowers HS": "Charles H. Flowers", "Wise HS": "Dr. Henry A. Wise",
-         "Northern HS": "Northern-C", "NAF": "National Academy Foundation (NAF)", "Duval": "DuVal"}
+         "Northern HS": "Northern-C", "NAF": "National Academy Foundation (NAF)", "Duval": "DuVal",
+         "OId Mill": "Old Mill"}   # capital I for l (girls soccer)
 RES = {"Win": "W", "Forfeit-Win": "W", "Loss": "L", "Forfeit-Loss": "L", "Tie": "T"}
 FLIP = {"W": "L", "L": "W", "T": "T"}
 
@@ -366,6 +367,31 @@ def match_schools(team_names, logo_prefix=""):
     return out, missing
 
 
+def official_records(teams, standings):
+    """Records from MPSSAA's standings (winning-percentage seeding). They leave out each team's one extra tournament
+    and city, county or conference championship games (the bulletin's seeding rule), which the game rows don't mark.
+    Every game still counts for the rating; W/L/T/gp, the projected record and the title-odds simulation's seeding
+    (seed_adj) use the official record. all_games keeps the record of every game. Returns how many teams changed."""
+    off = {t["school"]: tuple(t.get(k) or 0 for k in ("wins", "losses", "ties"))
+           for rs in standings["classifications"].values() for r in rs for t in r["teams"]}
+    changed = 0
+    for t in teams:
+        if t["school"] not in off or off[t["school"]] == (t["W"], t["L"], t["T"]):
+            continue
+        d = dict(zip("WLT", (o - t[k] for o, k in zip(off[t["school"]], "WLT"))))
+        t["all_games"] = {k: t[k] for k in ("W", "L", "T", "gp")}
+        for k in "WLT":
+            t[k] += d[k]
+            if t.get("proj"):
+                t["proj"][k] += d[k]
+        t["gp"] += sum(d.values())
+        if t.get("proj"):
+            t["proj"]["gp"] += sum(d.values())
+        t["seed_adj"] = {"w": d["W"] + .5 * d["T"], "gp": sum(d.values())}
+        changed += 1
+    return changed
+
+
 def project(raw_games, standings, class_pts, teams, first_meeting_only, wins, last_date, key="proj"):
     """Records and MPSSAA points as if every remaining (non-postponed) game through last_date went to the favorite;
     wins(team, opponent, team_home) says whether `team` is favored. Adds t[key] to each team."""
@@ -435,6 +461,7 @@ def build_site(key, cfg, nonce, stamp):
     sports = {}
     for div, d in cfg["divisions"].items():
         raw, standings = fetch(d["api"], nonce)
+        stale = False
         if cfg.get("season_start"):
             raw = [x for x in raw if (x["game_date"] or "") >= cfg["season_start"]]   # drop last season's games
             # Standings with games played but no results this season are last season's: use this season's alignment
@@ -466,6 +493,8 @@ def build_site(key, cfg, nonce, stamp):
             project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False),
                     lambda a, b, a_home: oldline.win_prob(ratings[a], ratings[b], 1 if a_home else -1, home, cfg["olr"]["k"]) >= .5,
                     cfg["playoffs"]["last_date"])
+            if cfg["playoffs"]["seed_by"] == "winpct" and not stale:
+                print(f"  Official MPSSAA records: {official_records(teams, standings)} teams differ from their games")
             if hold.get("proj") is None:   # title odds only once projections are live
                 oldline.simulate(teams, cfg["classes"], ratings, home, cfg["olr"], cfg["playoffs"], cfg["regions"])
             members = {t["school"] for t in teams}

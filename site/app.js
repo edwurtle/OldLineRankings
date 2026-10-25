@@ -764,7 +764,9 @@ function teamView(g, name) {
         `<div class="tile"><b class="mono">${pct(t.odds[k])}</b><span>${l}</span></div>`).join("")}</div>` : ""}
     ${best ? `<div class="sect">Best result</div><div class="best">${logo(best.opp, 40)}<div><b>${best.res === "W" ? "Beat" : "Tied"} ${esc(best.opp)}</b> ${best.gf}–${best.ga} on ${fmtDate(best.date)}${RANKED(g) ? `<div class="muted" style="font-size:13px">OLR game score ${fmtR(best.__gs)}</div>` : ""}</div></div>` : ""}
     ${t.upcoming.length ? `<div class="sect">Upcoming (${t.upcoming.length})</div>${t.upcoming.map(u => upcomingRow(g, t, u)).join("")}<div style="height:10px"></div>` : ""}
-    <div class="sect">Games played (${t.gp})</div>
+    <div class="sect">Games played (${t.games.length})</div>
+    ${t.all_games ? `<p class="muted rec-note">The record above is MPSSAA's official one, used for seeding; the games listed here add up to ${recTxt(t.all_games)}.
+      MPSSAA's record leaves out each team's one extra tournament and any city, county or conference championship. Every game listed still counts for the ${RATING}.</p>` : ""}
     ${[...t.games].reverse().map(x => gameRow(g, t, x)).join("") || `<div class="muted">No games yet.</div>`}`;
   return v;
 }
