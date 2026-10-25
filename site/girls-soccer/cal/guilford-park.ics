@@ -6,7 +6,7 @@ X-WR-CALNAME:Guilford Park Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-wilde-lake-guilford-park-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Girls Soccer: Guilford Park at Wilde Lake
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Guilford Park 1\, Wilde Lake 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-guilford-park-reservoir-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Reservoir at Guilford Park
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Guilford Park 1\, Reservoir 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-centennial-guilford-park-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Guilford Park at Centennial
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Guilford Park 1\, Centennial 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-guilford-park-bishop-mcnamara-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;TZID=America/New_York:20260919T150000
 DTEND;TZID=America/New_York:20260919T170000
 SUMMARY:Girls Soccer: Bishop McNamara at Guilford Park
@@ -43,7 +43,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-guilford-park-eleanor-roosevelt-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;TZID=America/New_York:20260919T150000
 DTEND;TZID=America/New_York:20260919T170000
 SUMMARY:Girls Soccer: Eleanor Roosevelt at Guilford Park
@@ -53,7 +53,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-guilford-park-st-vincent-pallotti-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: St. Vincent Pallotti at Guilford Park
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Guilford Park 8\, St. Vincent Pallotti 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-hammond-guilford-park-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Guilford Park at Hammond
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Guilford Park 4\, Hammond 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-howard-guilford-park-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
 SUMMARY:Girls Soccer: Guilford Park at Howard
@@ -81,7 +81,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-atholton-guilford-park-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T193000
 SUMMARY:Girls Soccer: Guilford Park at Atholton
@@ -91,7 +91,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-long-reach-guilford-park-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Guilford Park at Long Reach
@@ -100,7 +100,7 @@ DESCRIPTION:Final: Guilford Park 0\, Long Reach 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-marriotts-ridge-guilford-park-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;TZID=America/New_York:20261013T173000
 DTEND;TZID=America/New_York:20261013T193000
 SUMMARY:Girls Soccer: Guilford Park at Marriotts Ridge
@@ -110,7 +110,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-winters-mill-guilford-park-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Guilford Park at Winters Mill
@@ -119,7 +119,7 @@ DESCRIPTION:Final: Guilford Park 0\, Winters Mill 12
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-guilford-park-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: Duval at Guilford Park
@@ -128,7 +128,7 @@ DESCRIPTION:Final: Guilford Park 7\, Duval 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-guilford-park-oakland-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261025T220322Z
+DTSTAMP:20261025T220650Z
 DTSTART;TZID=America/New_York:20261022T173000
 DTEND;TZID=America/New_York:20261022T193000
 SUMMARY:Girls Soccer: Oakland Mills at Guilford Park

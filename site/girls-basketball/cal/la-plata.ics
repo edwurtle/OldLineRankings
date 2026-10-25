@@ -6,7 +6,7 @@ X-WR-CALNAME:La Plata Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-westlake-la-plata-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20261204T181500
 DTEND;TZID=America/New_York:20261204T201500
 SUMMARY:Girls Basketball: La Plata at Westlake
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-la-plata-colonial-beach-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20261214T183000
 DTEND;TZID=America/New_York:20261214T203000
 SUMMARY:Girls Basketball: Colonial Beach at La Plata
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-la-plata-henry-e-lackey-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20261216T170000
 DTEND;TZID=America/New_York:20261216T190000
 SUMMARY:Girls Basketball: Henry E. Lackey at La Plata
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-westmoreland-la-plata-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20261219T160000
 DTEND;TZID=America/New_York:20261219T180000
 SUMMARY:Girls Basketball: La Plata at Westmoreland
@@ -44,7 +44,7 @@ LOCATION:Westmoreland
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-thomas-stone-la-plata-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20270108T180000
 DTEND;TZID=America/New_York:20270108T200000
 SUMMARY:Girls Basketball: La Plata at Thomas Stone
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-patuxent-la-plata-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20270113T181500
 DTEND;TZID=America/New_York:20270113T201500
 SUMMARY:Girls Basketball: La Plata at Patuxent
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-la-plata-st-charles-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20270115T181500
 DTEND;TZID=America/New_York:20270115T201500
 SUMMARY:Girls Basketball: St. Charles at La Plata
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-la-plata-northern-c-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20270120T180000
 DTEND;TZID=America/New_York:20270120T200000
 SUMMARY:Girls Basketball: Northern-C at La Plata
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-la-plata-calvert-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20270122T181500
 DTEND;TZID=America/New_York:20270122T201500
 SUMMARY:Girls Basketball: Calvert at La Plata
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-leonardtown-la-plata-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20270127T181500
 DTEND;TZID=America/New_York:20270127T201500
 SUMMARY:Girls Basketball: La Plata at Leonardtown
@@ -102,7 +102,7 @@ LOCATION:Leonardtown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-la-plata-westlake-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20270129T181500
 DTEND;TZID=America/New_York:20270129T201500
 SUMMARY:Girls Basketball: Westlake at La Plata
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-la-plata-huntingtown-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20270203T181500
 DTEND;TZID=America/New_York:20270203T201500
 SUMMARY:Girls Basketball: Huntingtown at La Plata
@@ -122,7 +122,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-la-plata-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20270205T181500
 DTEND;TZID=America/New_York:20270205T201500
 SUMMARY:Girls Basketball: McDonough at La Plata
@@ -132,7 +132,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-great-mills-la-plata-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20270210T181500
 DTEND;TZID=America/New_York:20270210T201500
 SUMMARY:Girls Basketball: La Plata at Great Mills
@@ -140,7 +140,7 @@ LOCATION:Great Mills
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-henry-e-lackey-la-plata-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20270212T181500
 DTEND;TZID=America/New_York:20270212T201500
 SUMMARY:Girls Basketball: La Plata at Henry E. Lackey
@@ -150,7 +150,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-la-plata-chopticon-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20270217T181500
 DTEND;TZID=America/New_York:20270217T201500
 SUMMARY:Girls Basketball: Chopticon at La Plata
@@ -160,7 +160,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-north-point-la-plata-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220456Z
+DTSTAMP:20261025T220753Z
 DTSTART;TZID=America/New_York:20270219T190000
 DTEND;TZID=America/New_York:20270219T210000
 SUMMARY:Girls Basketball: La Plata at North Point

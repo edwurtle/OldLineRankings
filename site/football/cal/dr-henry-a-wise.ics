@@ -6,7 +6,7 @@ X-WR-CALNAME:Dr. Henry A. Wise Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-11-laurel-dr-henry-a-wise-football@oldlinerankings
-DTSTAMP:20261025T220221Z
+DTSTAMP:20261025T220554Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Football: Dr. Henry A. Wise at Laurel
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-charles-h-flowers-dr-henry-a-wise-football@oldlinerankings
-DTSTAMP:20261025T220221Z
+DTSTAMP:20261025T220554Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Dr. Henry A. Wise at Charles H. Flowers
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Dr. Henry A. Wise 25\, Charles H. Flowers 22
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-dr-henry-a-wise-bowie-football@oldlinerankings
-DTSTAMP:20261025T220221Z
+DTSTAMP:20261025T220554Z
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T203000
 SUMMARY:Football: Bowie at Dr. Henry A. Wise
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-dr-henry-a-wise-duval-football@oldlinerankings
-DTSTAMP:20261025T220221Z
+DTSTAMP:20261025T220554Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Football: DuVal at Dr. Henry A. Wise
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-dr-henry-a-wise-eleanor-roosevelt-football@oldlinerankings
-DTSTAMP:20261025T220221Z
+DTSTAMP:20261025T220554Z
 DTSTART;TZID=America/New_York:20261010T140000
 DTEND;TZID=America/New_York:20261010T160000
 SUMMARY:Football: Eleanor Roosevelt at Dr. Henry A. Wise
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-dr-henry-a-wise-potomac-football@oldlinerankings
-DTSTAMP:20261025T220221Z
+DTSTAMP:20261025T220554Z
 DTSTART;TZID=America/New_York:20261016T163000
 DTEND;TZID=America/New_York:20261016T183000
 SUMMARY:Football: Potomac at Dr. Henry A. Wise
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-suitland-dr-henry-a-wise-football@oldlinerankings
-DTSTAMP:20261025T220221Z
+DTSTAMP:20261025T220554Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Dr. Henry A. Wise at Suitland
@@ -74,7 +74,7 @@ DESCRIPTION:Final: Dr. Henry A. Wise 14\, Suitland 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-northwestern-dr-henry-a-wise-football@oldlinerankings
-DTSTAMP:20261025T220221Z
+DTSTAMP:20261025T220554Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Dr. Henry A. Wise at Northwestern
