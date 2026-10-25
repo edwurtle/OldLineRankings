@@ -388,10 +388,9 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 .bracket .slot .nm, .bracket .slot .d-sub, .bracket .coin-tag, .bracket .coin-rec, .bracket .slot.tbd { white-space: nowrap; overflow: visible; }
 .bracket.mini .slot .nm small { font-size: 10px; }
 .bracket.mini .slot.tbd { min-height: 38px; }
-.f8-toggle { margin-bottom: 0; }
-.f8-toggle + .section-head { margin-top: 40px; }
-.f8-toggle .toolbar { border-bottom: 0; }
-.f8-note { font-size: 13px; flex: 1; min-width: 220px; line-height: 1.4; }
+.f8-body { padding-top: 32px; }
+.f8-proj { align-items: center; gap: 8px; padding: 0 14px; font-weight: 700; font-size: 14px; color: var(--ink); cursor: pointer; }
+.f8-proj input { width: 16px; height: 16px; margin: 0; accent-color: var(--md-gold); cursor: pointer; }
 .slot { display: grid; grid-template-columns: 22px 26px 1fr auto; gap: 8px; align-items: center; padding: 7px 10px; cursor: pointer; }
 .slot + .slot { border-top: 1px solid var(--border); }
 .slot:hover { background: var(--surface-2); }

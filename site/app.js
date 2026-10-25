@@ -632,27 +632,18 @@ function renderFinal8(r) {
     <div class="switches">
       ${MULTI ? `<div class="pill-group ${r.g !== DEF ? "red" : ""}">${Object.entries(GENDERS).map(([g, l]) => `<a class="${g === r.g ? "on" : ""}" href="${href({...r, g, team: null})}">${l}</a>`).join("")}</div>` : ""}
       <div class="pill-group">${CLASSES.map(c => `<a class="${c === r.c ? "on" : ""}" href="${href({...r, c, team: null})}">${cl(c)}</a>`).join("")}</div>
+      ${PROJ(r.g) ? `<label class="pill-group f8-proj"><input type="checkbox" id="f8proj" ${projected ? "checked" : ""}> OLR projection</label>` : ""}
     </div>
   </div></section>
-  <div class="wrap">
+  <div class="wrap f8-body">
     ${PROJ(r.g) ? "" : holdCard(r.g, "proj")}
-    <div class="card f8-toggle">
-      <div class="toolbar">
-        <div class="seg" role="tablist">
-          ${Object.entries(F8_VIEWS).filter(([v]) => PROJ(r.g) || v === "current").map(([v, l]) => `<button data-view="${v}" aria-selected="${v === view}">${l}</button>`).join("")}
-        </div>
-        <span class="muted f8-note">${projected
-          ? `Projected using Old Line Ratings · seeded by ${SEED.name}`
-          : `Today's seeds by ${SEED.name}, ${thruText(r.g)}`}</span>
-      </div>
-    </div>
-    <div class="section-head"><div><div class="eyebrow">Step 1 · Region play</div><h2>${divName(r.g, r.c)} regions</h2>
+    <div class="section-head"><div><h2>Final 8</h2>
+      <p>The ${regions.length * PL.per_region} region ${PL.per_region === 1 ? "champions" : "survivors"} are reseeded 1–8 by ${SEED.name}: 1v8, 4v5, 2v7, 3v6.
+      ${projected ? "" : `The bracket fills in once region play is done${PROJ(r.g) ? "; check OLR projection for a prediction" : ""}.`}</p></div></div>
+    <div class="card">${bracket}</div>
+    <div class="section-head"><div><h2>Regional</h2>
       <p>${regionHow} ${projected ? "" : "Later rounds fill in as games are played."}</p>${coins}</div></div>
     <div class="regions f8-regions">${regionCards}</div>
-    <div class="section-head"><div><div class="eyebrow">Step 2 · State tournament</div><h2>Final 8</h2>
-      <p>The ${regions.length * PL.per_region} region ${PL.per_region === 1 ? "champions" : "survivors"} are reseeded 1–8 by ${SEED.name}: 1v8, 4v5, 2v7, 3v6.
-      ${projected ? "" : `The bracket fills in once region play is done${PROJ(r.g) ? "; switch to Projected for a prediction" : ""}.`}</p></div></div>
-    <div class="card">${bracket}</div>
   </div>`;
 }
 
@@ -949,6 +940,7 @@ app.addEventListener("click", e => {
   renderScheduleList(parseRoute());
 });
 app.addEventListener("input", e => { if (e.target.id === "sq") { schedFilter.q = e.target.value; renderScheduleList(parseRoute()); } });
+app.addEventListener("change", e => { if (e.target.id === "f8proj") go({view: e.target.checked ? "projected" : "current"}); });
 app.addEventListener("change", e => { if (e.target.id === "swatch") { schedFilter.watch = e.target.checked; renderScheduleList(parseRoute()); } });
 app.addEventListener("change", e => { if (e.target.id === "sortSel") setSort(e.target.value, false); });
 document.getElementById("dBody").addEventListener("click", e => {
