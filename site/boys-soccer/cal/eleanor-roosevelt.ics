@@ -6,7 +6,7 @@ X-WR-CALNAME:Eleanor Roosevelt Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-eleanor-roosevelt-bowie-boys-soccer@oldlinerankings
-DTSTAMP:20261025T143629Z
+DTSTAMP:20261025T220251Z
 DTSTART;TZID=America/New_York:20260910T164500
 DTEND;TZID=America/New_York:20260910T184500
 SUMMARY:Boys Soccer: Bowie at Eleanor Roosevelt
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-northwestern-eleanor-roosevelt-boys-soccer@oldlinerankings
-DTSTAMP:20261025T143629Z
+DTSTAMP:20261025T220251Z
 DTSTART;TZID=America/New_York:20260917T173000
 DTEND;TZID=America/New_York:20260917T193000
 SUMMARY:Boys Soccer: Eleanor Roosevelt at Northwestern
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-eleanor-roosevelt-dr-henry-a-wise-boys-soccer@oldlinerankings
-DTSTAMP:20261025T143629Z
+DTSTAMP:20261025T220251Z
 DTSTART;TZID=America/New_York:20260924T150000
 DTEND;TZID=America/New_York:20260924T170000
 SUMMARY:Boys Soccer: Dr. Henry A. Wise at Eleanor Roosevelt
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-eleanor-roosevelt-md-mcnamara-boys-soccer@oldlinerankings
-DTSTAMP:20261025T143629Z
+DTSTAMP:20261025T220251Z
 DTSTART;TZID=America/New_York:20260926T170000
 DTEND;TZID=America/New_York:20260926T190000
 SUMMARY:Boys Soccer: MD - McNamara at Eleanor Roosevelt
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-eleanor-roosevelt-parkdale-boys-soccer@oldlinerankings
-DTSTAMP:20261025T143629Z
+DTSTAMP:20261025T220251Z
 DTSTART;TZID=America/New_York:20260928T173000
 DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Boys Soccer: Parkdale at Eleanor Roosevelt
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-eleanor-roosevelt-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261025T143629Z
+DTSTAMP:20261025T220251Z
 DTSTART;TZID=America/New_York:20261001T174500
 DTEND;TZID=America/New_York:20261001T194500
 SUMMARY:Boys Soccer: Bladensburg at Eleanor Roosevelt
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-eleanor-roosevelt-suitland-boys-soccer@oldlinerankings
-DTSTAMP:20261025T143629Z
+DTSTAMP:20261025T220251Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Suitland at Eleanor Roosevelt
@@ -75,7 +75,7 @@ DESCRIPTION:Final: Eleanor Roosevelt 4\, Suitland 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-eleanor-roosevelt-charles-h-flowers-boys-soccer@oldlinerankings
-DTSTAMP:20261025T143629Z
+DTSTAMP:20261025T220251Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Charles H. Flowers at Eleanor Roosevelt
@@ -84,7 +84,7 @@ DESCRIPTION:Final: Eleanor Roosevelt 1\, Charles H. Flowers 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-eleanor-roosevelt-duval-boys-soccer@oldlinerankings
-DTSTAMP:20261025T143629Z
+DTSTAMP:20261025T220251Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Duval at Eleanor Roosevelt
@@ -93,7 +93,7 @@ DESCRIPTION:Final: Eleanor Roosevelt 1\, Duval 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-high-point-eleanor-roosevelt-boys-soccer@oldlinerankings
-DTSTAMP:20261025T143629Z
+DTSTAMP:20261025T220251Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: Eleanor Roosevelt at High Point
@@ -103,7 +103,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-laurel-eleanor-roosevelt-boys-soccer@oldlinerankings
-DTSTAMP:20261025T143629Z
+DTSTAMP:20261025T220251Z
 DTSTART;TZID=America/New_York:20261019T180000
 DTEND;TZID=America/New_York:20261019T200000
 SUMMARY:Boys Soccer: Eleanor Roosevelt at Laurel
@@ -113,7 +113,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-century-eleanor-roosevelt-boys-soccer@oldlinerankings
-DTSTAMP:20261025T143629Z
+DTSTAMP:20261025T220251Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Eleanor Roosevelt at Century

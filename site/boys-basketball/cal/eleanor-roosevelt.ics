@@ -6,7 +6,7 @@ X-WR-CALNAME:Eleanor Roosevelt Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-bowie-eleanor-roosevelt-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20261210T191500
 DTEND;TZID=America/New_York:20261210T211500
 SUMMARY:Boys Basketball: Eleanor Roosevelt at Bowie
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-henry-e-lackey-eleanor-roosevelt-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20261211T183000
 DTEND;TZID=America/New_York:20261211T203000
 SUMMARY:Boys Basketball: Eleanor Roosevelt at Henry E. Lackey
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-northwestern-eleanor-roosevelt-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20261217T191500
 DTEND;TZID=America/New_York:20261217T211500
 SUMMARY:Boys Basketball: Eleanor Roosevelt at Northwestern
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-eleanor-roosevelt-riverdale-baptist-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20261222T150000
 DTEND;TZID=America/New_York:20261222T170000
 SUMMARY:Boys Basketball: Riverdale Baptist at Eleanor Roosevelt
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-dr-henry-a-wise-eleanor-roosevelt-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Boys Basketball: Eleanor Roosevelt at Dr. Henry A. Wise
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-eleanor-roosevelt-parkdale-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20270107T191500
 DTEND;TZID=America/New_York:20270107T211500
 SUMMARY:Boys Basketball: Parkdale at Eleanor Roosevelt
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-bladensburg-eleanor-roosevelt-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Boys Basketball: Eleanor Roosevelt at Bladensburg
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-suitland-eleanor-roosevelt-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Boys Basketball: Eleanor Roosevelt at Suitland
@@ -84,7 +84,7 @@ LOCATION:Suitland
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-eleanor-roosevelt-charles-h-flowers-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Boys Basketball: Charles H. Flowers at Eleanor Roosevelt
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-eleanor-roosevelt-duval-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20270121T191500
 DTEND;TZID=America/New_York:20270121T211500
 SUMMARY:Boys Basketball: Duval at Eleanor Roosevelt
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-eleanor-roosevelt-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Boys Basketball: High Point at Eleanor Roosevelt
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-eleanor-roosevelt-laurel-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20270128T191500
 DTEND;TZID=America/New_York:20270128T211500
 SUMMARY:Boys Basketball: Laurel at Eleanor Roosevelt
@@ -124,7 +124,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-eleanor-roosevelt-bowie-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20270202T191500
 DTEND;TZID=America/New_York:20270202T211500
 SUMMARY:Boys Basketball: Bowie at Eleanor Roosevelt
@@ -134,7 +134,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-eleanor-roosevelt-northwestern-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20270210T191500
 DTEND;TZID=America/New_York:20270210T211500
 SUMMARY:Boys Basketball: Northwestern at Eleanor Roosevelt
@@ -144,7 +144,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-eleanor-roosevelt-dr-henry-a-wise-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Boys Basketball: Dr. Henry A. Wise at Eleanor Roosevelt
@@ -154,7 +154,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-parkdale-eleanor-roosevelt-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Boys Basketball: Eleanor Roosevelt at Parkdale
@@ -164,7 +164,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-eleanor-roosevelt-bladensburg-boys-basketball@oldlinerankings
-DTSTAMP:20261025T143729Z
+DTSTAMP:20261025T220405Z
 DTSTART;TZID=America/New_York:20270218T191500
 DTEND;TZID=America/New_York:20270218T211500
 SUMMARY:Boys Basketball: Bladensburg at Eleanor Roosevelt
