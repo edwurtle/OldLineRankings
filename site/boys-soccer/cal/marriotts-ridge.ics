@@ -6,7 +6,7 @@ X-WR-CALNAME:Marriotts Ridge Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-11-long-reach-marriotts-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261025T081849Z
+DTSTAMP:20261025T143629Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Boys Soccer: Marriotts Ridge at Long Reach
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Marriotts Ridge 2\, Long Reach 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-marriotts-ridge-reservoir-boys-soccer@oldlinerankings
-DTSTAMP:20261025T081849Z
+DTSTAMP:20261025T143629Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Reservoir at Marriotts Ridge
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Marriotts Ridge 2\, Reservoir 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-river-hill-marriotts-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261025T081849Z
+DTSTAMP:20261025T143629Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Marriotts Ridge at River Hill
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Marriotts Ridge 1\, River Hill 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-mount-hebron-marriotts-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261025T081849Z
+DTSTAMP:20261025T143629Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Boys Soccer: Marriotts Ridge at Mount Hebron
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Marriotts Ridge 1\, Mount Hebron 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-wilde-lake-marriotts-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261025T081849Z
+DTSTAMP:20261025T143629Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Marriotts Ridge at Wilde Lake
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Marriotts Ridge 5\, Wilde Lake 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-marriotts-ridge-atholton-boys-soccer@oldlinerankings
-DTSTAMP:20261025T081849Z
+DTSTAMP:20261025T143629Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Atholton at Marriotts Ridge
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Marriotts Ridge 2\, Atholton 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-centennial-marriotts-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261025T081849Z
+DTSTAMP:20261025T143629Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Marriotts Ridge at Centennial
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Marriotts Ridge 1\, Centennial 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-marriotts-ridge-oakland-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261025T081849Z
+DTSTAMP:20261025T143629Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Oakland Mills at Marriotts Ridge
@@ -78,7 +78,7 @@ DESCRIPTION:Final: Marriotts Ridge 0\, Oakland Mills 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-glenelg-marriotts-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261025T081849Z
+DTSTAMP:20261025T143629Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Marriotts Ridge at Glenelg
@@ -87,7 +87,7 @@ DESCRIPTION:Final: Marriotts Ridge 0\, Glenelg 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-marriotts-ridge-guilford-park-boys-soccer@oldlinerankings
-DTSTAMP:20261025T081849Z
+DTSTAMP:20261025T143629Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Guilford Park at Marriotts Ridge
@@ -96,7 +96,7 @@ DESCRIPTION:Final: Marriotts Ridge 5\, Guilford Park 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-hammond-marriotts-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261025T081849Z
+DTSTAMP:20261025T143629Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: Marriotts Ridge at Hammond
@@ -105,7 +105,7 @@ DESCRIPTION:Final: Marriotts Ridge 1\, Hammond 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-howard-marriotts-ridge-boys-soccer@oldlinerankings
-DTSTAMP:20261025T081849Z
+DTSTAMP:20261025T143629Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Marriotts Ridge at Howard
