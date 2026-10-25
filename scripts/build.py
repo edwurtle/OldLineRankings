@@ -36,6 +36,8 @@ SCORE_FIXES = {
         ("2026-10-24", "Wilde Lake", "Hammond"): (39, 0),
         ("2026-10-24", "DuVal", "Northwestern"): (35, 12),
         ("2026-10-24", "Crossland", "Central"): (38, 18),
+        # Entered by Chopticon as a "Win" 14-14 (MPSSAA flags it as a mismatch); the final was 16-14 (MaxPreps, Yahoo)
+        ("2026-10-23", "Chopticon", "Leonardtown"): (16, 14),
     },
 }
 
@@ -147,6 +149,7 @@ ALIAS = {"Mt. Hebron": "Mount Hebron", "Flowers HS": "Charles H. Flowers", "Wise
          "Northern HS": "Northern-C", "NAF": "National Academy Foundation (NAF)", "Duval": "DuVal",
          "OId Mill": "Old Mill"}   # capital I for l (girls soccer)
 RES = {"Win": "W", "Forfeit-Win": "W", "Loss": "L", "Forfeit-Loss": "L", "Tie": "T"}
+NO_GAME = {"BYE/No Game"}   # rows for an open date (opponent "No Game/Open Date", 0-0): not a game
 FLIP = {"W": "L", "L": "W", "T": "T"}
 
 
@@ -214,6 +217,8 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
     times = {}     # (date, a, b) -> start time, where the source has one (ArbiterLive)
     sides = collections.defaultdict(set)  # (date, a, b) -> schools whose sheets report the result
     for x in raw_games:
+        if x["result"] in NO_GAME:
+            continue
         r = RES.get(x["result"])
         # Some games are posted as completed with a score but no result: take the result from the score
         if not r and x.get("status") == "completed" and x["your_score"] is not None and x["opponent_score"] is not None:
@@ -686,10 +691,12 @@ def write_section_pages(out, page, cfg, sports, rel, sport_description):
 
 
 def fill_scores(raw, fixes):
-    """Fill in hand-entered scores (SCORE_FIXES) where MPSSAA's entry has none, from either team's side."""
+    """Fill in hand-entered scores (SCORE_FIXES) where MPSSAA's entry has none, or has a tied score for a game it
+    calls a win or loss, from either team's side."""
     for x in raw:
         for (date, a, b), (sa, sb) in fixes.items():
-            if x["game_date"] != date or x["your_score"] is not None:
+            contradicts = x["your_score"] == x["opponent_score"] and x.get("result") in ("Win", "Loss")
+            if x["game_date"] != date or (x["your_score"] is not None and not contradicts):
                 continue
             if (x["school"], x["opponent"]) == (a, b):
                 x["your_score"], x["opponent_score"] = sa, sb
