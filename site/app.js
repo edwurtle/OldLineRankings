@@ -642,7 +642,7 @@ function renderFinal8(r) {
       ${projected ? "" : `The bracket fills in once region play is done${PROJ(r.g) ? "; check OLR projection for a prediction" : ""}.`}</p></div></div>
     <div class="card">${bracket}</div>
     <div class="section-head"><div><h2>Regional</h2>
-      <p>${regionHow} ${projected ? "" : "Later rounds fill in as games are played."}</p>${coins}</div></div>
+      <p>${regionHow}</p>${coins}</div></div>
     <div class="regions f8-regions">${regionCards}</div>
   </div>`;
 }
