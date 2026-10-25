@@ -6,7 +6,7 @@ X-WR-CALNAME:Northeast-AA Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-chesapeake-aa-northeast-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261024T233301Z
+DTSTAMP:20261025T081849Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Northeast-AA at Chesapeake-AA
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Northeast-AA 0\, Chesapeake-AA 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-great-mills-northeast-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261024T233301Z
+DTSTAMP:20261025T081849Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Northeast-AA at Great Mills
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Northeast-AA 2\, Great Mills 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-chesapeake-science-point-northeast-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261024T233301Z
+DTSTAMP:20261025T081849Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Northeast-AA at Chesapeake Science Point
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Northeast-AA 1\, Chesapeake Science Point 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-northeast-aa-arundel-boys-soccer@oldlinerankings
-DTSTAMP:20261024T233301Z
+DTSTAMP:20261025T081849Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Arundel at Northeast-AA
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Northeast-AA 0\, Arundel 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-northeast-aa-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261024T233301Z
+DTSTAMP:20261025T081849Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Severn Run at Northeast-AA
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-northeast-aa-severna-park-boys-soccer@oldlinerankings
-DTSTAMP:20261024T233301Z
+DTSTAMP:20261025T081849Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Severna Park at Northeast-AA
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Northeast-AA 0\, Severna Park 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-northeast-aa-crofton-boys-soccer@oldlinerankings
-DTSTAMP:20261024T233301Z
+DTSTAMP:20261025T081849Z
 DTSTART;TZID=America/New_York:20261006T170000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:Boys Soccer: Crofton at Northeast-AA
@@ -71,7 +71,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-southern-aa-northeast-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261024T233301Z
+DTSTAMP:20261025T081849Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Northeast-AA at Southern-AA
@@ -81,7 +81,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-northeast-aa-annapolis-boys-soccer@oldlinerankings
-DTSTAMP:20261024T233301Z
+DTSTAMP:20261025T081849Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Boys Soccer: Annapolis at Northeast-AA
@@ -91,7 +91,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-northeast-aa-glen-burnie-boys-soccer@oldlinerankings
-DTSTAMP:20261024T233301Z
+DTSTAMP:20261025T081849Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Glen Burnie at Northeast-AA
@@ -101,7 +101,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-northeast-aa-north-county-boys-soccer@oldlinerankings
-DTSTAMP:20261024T233301Z
+DTSTAMP:20261025T081849Z
 DTSTART;TZID=America/New_York:20261020T164500
 DTEND;TZID=America/New_York:20261020T184500
 SUMMARY:Boys Soccer: North County at Northeast-AA
@@ -111,7 +111,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-northeast-aa-meade-boys-soccer@oldlinerankings
-DTSTAMP:20261024T233301Z
+DTSTAMP:20261025T081849Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Meade at Northeast-AA

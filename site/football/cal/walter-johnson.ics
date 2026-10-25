@@ -6,7 +6,7 @@ X-WR-CALNAME:Walter Johnson Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-gaithersburg-walter-johnson-football@oldlinerankings
-DTSTAMP:20261024T233233Z
+DTSTAMP:20261025T081819Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Walter Johnson at Gaithersburg
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Walter Johnson 20\, Gaithersburg 19
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-quince-orchard-walter-johnson-football@oldlinerankings
-DTSTAMP:20261024T233233Z
+DTSTAMP:20261025T081819Z
 DTSTART;TZID=America/New_York:20260910T183000
 DTEND;TZID=America/New_York:20260910T203000
 SUMMARY:Football: Walter Johnson at Quince Orchard
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-walter-johnson-winston-churchill-football@oldlinerankings
-DTSTAMP:20261024T233233Z
+DTSTAMP:20261025T081819Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Winston Churchill at Walter Johnson
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Walter Johnson 6\, Winston Churchill 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-walter-johnson-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261024T233233Z
+DTSTAMP:20261025T081819Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Football: Thomas S. Wootton at Walter Johnson
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-seneca-valley-walter-johnson-football@oldlinerankings
-DTSTAMP:20261024T233233Z
+DTSTAMP:20261025T081819Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Football: Walter Johnson at Seneca Valley
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-walter-johnson-bethesda-cc-football@oldlinerankings
-DTSTAMP:20261024T233233Z
+DTSTAMP:20261025T081819Z
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
 SUMMARY:Football: Bethesda-CC at Walter Johnson
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-northwest-walter-johnson-football@oldlinerankings
-DTSTAMP:20261024T233233Z
+DTSTAMP:20261025T081819Z
 DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T210000
 SUMMARY:Football: Walter Johnson at Northwest
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-walter-johnson-walt-whitman-football@oldlinerankings
-DTSTAMP:20261024T233233Z
+DTSTAMP:20261025T081819Z
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:Football: Walt Whitman at Walter Johnson
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-walter-johnson-james-hubert-blake-football@oldlinerankings
-DTSTAMP:20261024T233233Z
+DTSTAMP:20261025T081819Z
 DTSTART;TZID=America/New_York:20261030T190000
 DTEND;TZID=America/New_York:20261030T210000
 SUMMARY:Football: James Hubert Blake at Walter Johnson

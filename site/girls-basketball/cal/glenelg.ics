@@ -6,7 +6,7 @@ X-WR-CALNAME:Glenelg Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-reservoir-glenelg-girls-basketball@oldlinerankings
-DTSTAMP:20261024T233434Z
+DTSTAMP:20261025T082025Z
 DTSTART;TZID=America/New_York:20261204T180000
 DTEND;TZID=America/New_York:20261204T200000
 SUMMARY:Girls Basketball: Glenelg at Reservoir
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-hammond-glenelg-girls-basketball@oldlinerankings
-DTSTAMP:20261024T233434Z
+DTSTAMP:20261025T082025Z
 DTSTART;TZID=America/New_York:20261207T173000
 DTEND;TZID=America/New_York:20261207T193000
 SUMMARY:Girls Basketball: Glenelg at Hammond
@@ -24,7 +24,7 @@ LOCATION:Hammond
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-glenelg-wilde-lake-girls-basketball@oldlinerankings
-DTSTAMP:20261024T233434Z
+DTSTAMP:20261025T082025Z
 DTSTART;TZID=America/New_York:20261209T173000
 DTEND;TZID=America/New_York:20261209T193000
 SUMMARY:Girls Basketball: Wilde Lake at Glenelg
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-glenelg-atholton-girls-basketball@oldlinerankings
-DTSTAMP:20261024T233434Z
+DTSTAMP:20261025T082025Z
 DTSTART;TZID=America/New_York:20261211T180000
 DTEND;TZID=America/New_York:20261211T200000
 SUMMARY:Girls Basketball: Atholton at Glenelg
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-glenelg-mount-hebron-girls-basketball@oldlinerankings
-DTSTAMP:20261024T233434Z
+DTSTAMP:20261025T082025Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Girls Basketball: Mount Hebron at Glenelg
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-centennial-glenelg-girls-basketball@oldlinerankings
-DTSTAMP:20261024T233434Z
+DTSTAMP:20261025T082025Z
 DTSTART;TZID=America/New_York:20261221T173000
 DTEND;TZID=America/New_York:20261221T193000
 SUMMARY:Girls Basketball: Glenelg at Centennial
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-century-glenelg-girls-basketball@oldlinerankings
-DTSTAMP:20261024T233434Z
+DTSTAMP:20261025T082025Z
 DTSTART;TZID=America/New_York:20261222T183000
 DTEND;TZID=America/New_York:20261222T203000
 SUMMARY:Girls Basketball: Glenelg at Century
@@ -72,7 +72,7 @@ LOCATION:Century
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-crofton-glenelg-girls-basketball@oldlinerankings
-DTSTAMP:20261024T233434Z
+DTSTAMP:20261025T082025Z
 DTSTART;TZID=America/New_York:20270104T180000
 DTEND;TZID=America/New_York:20270104T200000
 SUMMARY:Girls Basketball: Glenelg at Crofton
@@ -80,7 +80,7 @@ LOCATION:Crofton
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-liberty-glenelg-girls-basketball@oldlinerankings
-DTSTAMP:20261024T233434Z
+DTSTAMP:20261025T082025Z
 DTSTART;TZID=America/New_York:20270219T183000
 DTEND;TZID=America/New_York:20270219T203000
 SUMMARY:Girls Basketball: Glenelg at Liberty

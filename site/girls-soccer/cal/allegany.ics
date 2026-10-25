@@ -6,7 +6,7 @@ X-WR-CALNAME:Allegany Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-allegany-fort-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261024T233326Z
+DTSTAMP:20261025T081915Z
 DTSTART;TZID=America/New_York:20260908T170000
 DTEND;TZID=America/New_York:20260908T190000
 SUMMARY:Girls Soccer: Fort Hill at Allegany
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-allegany-wv-jefferson-girls-soccer@oldlinerankings
-DTSTAMP:20261024T233326Z
+DTSTAMP:20261025T081915Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: WV - Jefferson at Allegany
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Allegany 1\, WV - Jefferson 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-allegany-wv-hampshire-girls-soccer@oldlinerankings
-DTSTAMP:20261024T233326Z
+DTSTAMP:20261025T081915Z
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T120000
 SUMMARY:Girls Soccer: WV - Hampshire at Allegany
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-allegany-northern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261024T233326Z
+DTSTAMP:20261025T081915Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Girls Soccer: Northern-G at Allegany
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Allegany 3\, Northern-G 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-allegany-mountain-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261024T233326Z
+DTSTAMP:20261025T081915Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Girls Soccer: Mountain Ridge at Allegany
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-allegany-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261024T233326Z
+DTSTAMP:20261025T081915Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
 SUMMARY:Girls Soccer: Southern-G at Allegany
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-allegany-fort-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261024T233326Z
+DTSTAMP:20261025T081915Z
 DTSTART;TZID=America/New_York:20261001T170000
 DTEND;TZID=America/New_York:20261001T190000
 SUMMARY:Girls Soccer: Fort Hill at Allegany
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-allegany-wv-frankfort-girls-soccer@oldlinerankings
-DTSTAMP:20261024T233326Z
+DTSTAMP:20261025T081915Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Girls Soccer: WV - Frankfort at Allegany
@@ -83,7 +83,7 @@ DESCRIPTION:Final: Allegany 10\, WV - Frankfort 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-allegany-northern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261024T233326Z
+DTSTAMP:20261025T081915Z
 DTSTART;TZID=America/New_York:20261007T180000
 DTEND;TZID=America/New_York:20261007T200000
 SUMMARY:Girls Soccer: Northern-G at Allegany
@@ -93,7 +93,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-allegany-mountain-ridge-girls-soccer@oldlinerankings
-DTSTAMP:20261024T233326Z
+DTSTAMP:20261025T081915Z
 DTSTART;TZID=America/New_York:20261012T180000
 DTEND;TZID=America/New_York:20261012T200000
 SUMMARY:Girls Soccer: Mountain Ridge at Allegany
@@ -103,7 +103,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-allegany-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261024T233326Z
+DTSTAMP:20261025T081915Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Girls Soccer: Southern-G at Allegany
@@ -113,7 +113,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-allegany-clear-spring-girls-soccer@oldlinerankings
-DTSTAMP:20261024T233326Z
+DTSTAMP:20261025T081915Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Girls Soccer: Clear Spring at Allegany
