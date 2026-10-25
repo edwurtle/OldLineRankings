@@ -6,7 +6,7 @@ X-WR-CALNAME:Northwestern Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-20-central-northwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20261120T174500
 DTEND;TZID=America/New_York:20261120T194500
 SUMMARY:Girls Basketball: Northwestern at Central
@@ -14,7 +14,7 @@ LOCATION:Central
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-northwestern-gwynn-park-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20261203T174500
 DTEND;TZID=America/New_York:20261203T194500
 SUMMARY:Girls Basketball: Gwynn Park at Northwestern
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-northwestern-high-point-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20261210T180000
 DTEND;TZID=America/New_York:20261210T200000
 SUMMARY:Girls Basketball: High Point at Northwestern
@@ -32,7 +32,7 @@ LOCATION:Northwestern
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-laurel-northwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20261215T191500
 DTEND;TZID=America/New_York:20261215T211500
 SUMMARY:Girls Basketball: Northwestern at Laurel
@@ -42,7 +42,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-eleanor-roosevelt-northwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20261217T191500
 DTEND;TZID=America/New_York:20261217T211500
 SUMMARY:Girls Basketball: Northwestern at Eleanor Roosevelt
@@ -50,7 +50,7 @@ LOCATION:Eleanor Roosevelt
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-bowie-northwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: Northwestern at Bowie
@@ -60,7 +60,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-northwestern-duval-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20270112T180000
 DTEND;TZID=America/New_York:20270112T200000
 SUMMARY:Girls Basketball: Duval at Northwestern
@@ -70,7 +70,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-northwestern-parkdale-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20270114T180000
 DTEND;TZID=America/New_York:20270114T200000
 SUMMARY:Girls Basketball: Parkdale at Northwestern
@@ -80,7 +80,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-bladensburg-northwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20270119T180000
 DTEND;TZID=America/New_York:20270119T200000
 SUMMARY:Girls Basketball: Northwestern at Bladensburg
@@ -90,7 +90,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-northwestern-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20270121T180000
 DTEND;TZID=America/New_York:20270121T200000
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Northwestern
@@ -100,7 +100,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-suitland-northwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Girls Basketball: Northwestern at Suitland
@@ -110,7 +110,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-northwestern-charles-h-flowers-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20270128T180000
 DTEND;TZID=America/New_York:20270128T200000
 SUMMARY:Girls Basketball: Charles H. Flowers at Northwestern
@@ -120,7 +120,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-high-point-northwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20270202T191500
 DTEND;TZID=America/New_York:20270202T211500
 SUMMARY:Girls Basketball: Northwestern at High Point
@@ -128,7 +128,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-northwestern-laurel-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20270204T180000
 DTEND;TZID=America/New_York:20270204T200000
 SUMMARY:Girls Basketball: Laurel at Northwestern
@@ -138,7 +138,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-northwestern-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20270210T180000
 DTEND;TZID=America/New_York:20270210T200000
 SUMMARY:Girls Basketball: Eleanor Roosevelt at Northwestern
@@ -148,7 +148,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-northwestern-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20270212T180000
 DTEND;TZID=America/New_York:20270212T200000
 SUMMARY:Girls Basketball: Bowie at Northwestern
@@ -158,7 +158,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-duval-northwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20270218T191500
 DTEND;TZID=America/New_York:20270218T211500
 SUMMARY:Girls Basketball: Northwestern at Duval

@@ -6,7 +6,7 @@ X-WR-CALNAME:Oakland Mills Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-oakland-mills-mount-hebron-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20261204T180000
 DTEND;TZID=America/New_York:20261204T200000
 SUMMARY:Girls Basketball: Mount Hebron at Oakland Mills
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-howard-oakland-mills-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20261207T173000
 DTEND;TZID=America/New_York:20261207T193000
 SUMMARY:Girls Basketball: Oakland Mills at Howard
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-oakland-mills-long-reach-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20261209T173000
 DTEND;TZID=America/New_York:20261209T193000
 SUMMARY:Girls Basketball: Long Reach at Oakland Mills
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-marriotts-ridge-oakland-mills-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20261214T173000
 DTEND;TZID=America/New_York:20261214T193000
 SUMMARY:Girls Basketball: Oakland Mills at Marriotts Ridge
@@ -44,7 +44,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-river-hill-oakland-mills-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Girls Basketball: Oakland Mills at River Hill
@@ -52,7 +52,7 @@ LOCATION:River Hill
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-oakland-mills-hammond-girls-basketball@oldlinerankings
-DTSTAMP:20261025T220753Z
+DTSTAMP:20261025T225434Z
 DTSTART;TZID=America/New_York:20270111T173000
 DTEND;TZID=America/New_York:20270111T193000
 SUMMARY:Girls Basketball: Hammond at Oakland Mills

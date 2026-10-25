@@ -6,7 +6,7 @@ X-WR-CALNAME:Poolesville Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-20-poolesville-bethesda-cc-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20261120T180000
 DTEND;TZID=America/New_York:20261120T200000
 SUMMARY:Boys Basketball: Bethesda-CC at Poolesville
@@ -14,7 +14,7 @@ LOCATION:Poolesville
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-linganore-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20261124T170000
 DTEND;TZID=America/New_York:20261124T190000
 SUMMARY:Boys Basketball: Poolesville at Linganore
@@ -22,7 +22,7 @@ LOCATION:Linganore
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-walter-johnson-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20261130T183000
 DTEND;TZID=America/New_York:20261130T203000
 SUMMARY:Boys Basketball: Poolesville at Walter Johnson
@@ -32,7 +32,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-poolesville-thomas-s-wootton-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20261204T191500
 DTEND;TZID=America/New_York:20261204T211500
 SUMMARY:Boys Basketball: Thomas S. Wootton at Poolesville
@@ -41,7 +41,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708536
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-montgomery-blair-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Boys Basketball: Poolesville at Montgomery Blair
@@ -51,7 +51,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-poolesville-sherwood-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20261214T191500
 DTEND;TZID=America/New_York:20261214T211500
 SUMMARY:Boys Basketball: Sherwood at Poolesville
@@ -60,7 +60,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708510
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-damascus-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20261216T191500
 DTEND;TZID=America/New_York:20261216T211500
 SUMMARY:Boys Basketball: Poolesville at Damascus
@@ -70,7 +70,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-poolesville-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20261218T191500
 DTEND;TZID=America/New_York:20261218T211500
 SUMMARY:Boys Basketball: Northwest at Poolesville
@@ -79,7 +79,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708558
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-clarksburg-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20261221T191500
 DTEND;TZID=America/New_York:20261221T211500
 SUMMARY:Boys Basketball: Poolesville at Clarksburg
@@ -89,7 +89,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-cmit-north-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20261229T150000
 DTEND;TZID=America/New_York:20261229T170000
 SUMMARY:Boys Basketball: Poolesville at CMIT - North
@@ -97,7 +97,7 @@ LOCATION:CMIT - North
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-seneca-valley-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Boys Basketball: Poolesville at Seneca Valley
@@ -106,7 +106,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708369
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-poolesville-watkins-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270108T191500
 DTEND;TZID=America/New_York:20270108T211500
 SUMMARY:Boys Basketball: Watkins Mill at Poolesville
@@ -115,7 +115,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708547
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-poolesville-quince-orchard-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Boys Basketball: Quince Orchard at Poolesville
@@ -124,7 +124,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708562
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-paint-branch-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Boys Basketball: Poolesville at Paint Branch
@@ -133,7 +133,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709113
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-wheaton-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Boys Basketball: Poolesville at Wheaton
@@ -142,7 +142,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708431
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-poolesville-albert-einstein-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270121T191500
 DTEND;TZID=America/New_York:20270121T211500
 SUMMARY:Boys Basketball: Albert Einstein at Poolesville
@@ -151,7 +151,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708596
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-poolesville-damascus-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270129T191500
 DTEND;TZID=America/New_York:20270129T211500
 SUMMARY:Boys Basketball: Damascus at Poolesville
@@ -160,7 +160,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708575
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-northwest-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270201T191500
 DTEND;TZID=America/New_York:20270201T211500
 SUMMARY:Boys Basketball: Poolesville at Northwest
@@ -170,7 +170,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-poolesville-clarksburg-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270203T191500
 DTEND;TZID=America/New_York:20270203T211500
 SUMMARY:Boys Basketball: Clarksburg at Poolesville
@@ -179,7 +179,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708589
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-poolesville-seneca-valley-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Boys Basketball: Seneca Valley at Poolesville
@@ -188,7 +188,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708646
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-watkins-mill-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270208T180000
 DTEND;TZID=America/New_York:20270208T200000
 SUMMARY:Boys Basketball: Poolesville at Watkins Mill
@@ -198,7 +198,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-winston-churchill-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Boys Basketball: Poolesville at Winston Churchill
@@ -208,7 +208,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-poolesville-rockville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Boys Basketball: Rockville at Poolesville
@@ -217,7 +217,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708570
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-col-zadok-magruder-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T220717Z
+DTSTAMP:20261025T225348Z
 DTSTART;TZID=America/New_York:20270219T191500
 DTEND;TZID=America/New_York:20270219T211500
 SUMMARY:Boys Basketball: Poolesville at Col. Zadok Magruder
