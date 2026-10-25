@@ -6,7 +6,7 @@ X-WR-CALNAME:Tuscarora Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-01-walt-whitman-tuscarora-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20261201T173000
 DTEND;TZID=America/New_York:20261201T193000
 SUMMARY:Boys Basketball: Tuscarora at Walt Whitman
@@ -14,7 +14,7 @@ LOCATION:Walt Whitman
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-tuscarora-manchester-valley-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20261211T190000
 DTEND;TZID=America/New_York:20261211T210000
 SUMMARY:Boys Basketball: Manchester Valley at Tuscarora
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-gov-thomas-johnson-tuscarora-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261218T210000
 SUMMARY:Boys Basketball: Tuscarora at Gov. Thomas Johnson
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-tuscarora-linganore-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20261221T190000
 DTEND;TZID=America/New_York:20261221T210000
 SUMMARY:Boys Basketball: Linganore at Tuscarora
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-tuscarora-urbana-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270105T190000
 DTEND;TZID=America/New_York:20270105T210000
 SUMMARY:Boys Basketball: Urbana at Tuscarora
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-martinsburg-tuscarora-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270108T190000
 DTEND;TZID=America/New_York:20270108T210000
 SUMMARY:Boys Basketball: Tuscarora at Martinsburg
@@ -62,7 +62,7 @@ LOCATION:Martinsburg
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-oakdale-tuscarora-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270112T190000
 DTEND;TZID=America/New_York:20270112T210000
 SUMMARY:Boys Basketball: Tuscarora at Oakdale
@@ -70,7 +70,7 @@ LOCATION:Oakdale
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-tuscarora-smithsburg-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270115T190000
 DTEND;TZID=America/New_York:20270115T210000
 SUMMARY:Boys Basketball: Smithsburg at Tuscarora
@@ -80,7 +80,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-tuscarora-gov-thomas-johnson-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270119T190000
 DTEND;TZID=America/New_York:20270119T210000
 SUMMARY:Boys Basketball: Gov. Thomas Johnson at Tuscarora
@@ -90,7 +90,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-tuscarora-north-hagerstown-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000
 SUMMARY:Boys Basketball: North Hagerstown at Tuscarora
@@ -100,7 +100,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-frederick-tuscarora-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270126T190000
 DTEND;TZID=America/New_York:20270126T210000
 SUMMARY:Boys Basketball: Tuscarora at Frederick
@@ -110,7 +110,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-linganore-tuscarora-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270129T190000
 DTEND;TZID=America/New_York:20270129T210000
 SUMMARY:Boys Basketball: Tuscarora at Linganore
@@ -120,7 +120,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-south-hagerstown-tuscarora-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270202T190000
 DTEND;TZID=America/New_York:20270202T210000
 SUMMARY:Boys Basketball: Tuscarora at South Hagerstown
@@ -128,7 +128,7 @@ LOCATION:South Hagerstown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-urbana-tuscarora-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270205T190000
 DTEND;TZID=America/New_York:20270205T210000
 SUMMARY:Boys Basketball: Tuscarora at Urbana
@@ -138,7 +138,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-tuscarora-oakdale-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270209T173000
 DTEND;TZID=America/New_York:20270209T193000
 SUMMARY:Boys Basketball: Oakdale at Tuscarora
@@ -148,7 +148,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-tuscarora-walkersville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270212T190000
 DTEND;TZID=America/New_York:20270212T210000
 SUMMARY:Boys Basketball: Walkersville at Tuscarora
@@ -158,7 +158,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-tuscarora-century-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270215T190000
 DTEND;TZID=America/New_York:20270215T210000
 SUMMARY:Boys Basketball: Century at Tuscarora
@@ -168,7 +168,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-tuscarora-westminster-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270219T190000
 DTEND;TZID=America/New_York:20270219T210000
 SUMMARY:Boys Basketball: Westminster at Tuscarora

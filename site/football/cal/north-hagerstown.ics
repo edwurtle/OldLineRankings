@@ -6,7 +6,7 @@ X-WR-CALNAME:North Hagerstown Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-north-hagerstown-tuscarora-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Tuscarora at North Hagerstown
@@ -15,7 +15,7 @@ DESCRIPTION:Final: North Hagerstown 7\, Tuscarora 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-manchester-valley-north-hagerstown-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: North Hagerstown at Manchester Valley
@@ -24,7 +24,7 @@ DESCRIPTION:Final: North Hagerstown 7\, Manchester Valley 28
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-north-hagerstown-gov-thomas-johnson-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Gov. Thomas Johnson at North Hagerstown
@@ -33,7 +33,7 @@ DESCRIPTION:Final: North Hagerstown 35\, Gov. Thomas Johnson 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-north-hagerstown-va-central-woodstock-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Football: VA- Central Woodstock at North Hagerstown
@@ -43,7 +43,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-century-north-hagerstown-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: North Hagerstown at Century
@@ -52,7 +52,7 @@ DESCRIPTION:Final: North Hagerstown 17\, Century 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-williamsport-north-hagerstown-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: North Hagerstown at Williamsport
@@ -61,7 +61,7 @@ DESCRIPTION:Final: North Hagerstown 7\, Williamsport 24
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-fort-hill-north-hagerstown-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Football: North Hagerstown at Fort Hill
@@ -70,7 +70,7 @@ DESCRIPTION:Final: North Hagerstown 6\, Fort Hill 42
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-boonsboro-north-hagerstown-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: North Hagerstown at Boonsboro
@@ -79,7 +79,7 @@ DESCRIPTION:Final: North Hagerstown 18\, Boonsboro 19
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-north-hagerstown-south-hagerstown-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: South Hagerstown at North Hagerstown

@@ -6,7 +6,7 @@ X-WR-CALNAME:Northern-C Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-northern-c-chopticon-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Chopticon at Northern-C
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Northern-C 52\, Chopticon 18
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-northern-c-st-charles-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Football: St. Charles at Northern-C
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Northern-C 10\, St. Charles 20
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-northern-c-north-point-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20260919T180000
 DTEND;TZID=America/New_York:20260919T200000
 SUMMARY:Football: North Point at Northern-C
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-northern-c-mcdonough-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: McDonough at Northern-C
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Northern-C 41\, McDonough 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-northern-c-thomas-stone-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: Thomas Stone at Northern-C
@@ -53,7 +53,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-patuxent-northern-c-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:Football: Northern-C at Patuxent
@@ -63,7 +63,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-northern-c-calvert-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Football: Calvert at Northern-C
@@ -73,7 +73,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-huntingtown-northern-c-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Northern-C at Huntingtown
@@ -82,7 +82,7 @@ DESCRIPTION:Final: Northern-C 16\, Huntingtown 24
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-northern-c-leonardtown-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Leonardtown at Northern-C

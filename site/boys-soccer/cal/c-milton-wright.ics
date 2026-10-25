@@ -6,7 +6,7 @@ X-WR-CALNAME:C. Milton Wright Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-c-milton-wright-perry-hall-boys-soccer@oldlinerankings
-DTSTAMP:20261025T225244Z
+DTSTAMP:20261025T233040Z
 DTSTART;TZID=America/New_York:20260904T132000
 DTEND;TZID=America/New_York:20260904T152000
 SUMMARY:Boys Soccer: Perry Hall at C. Milton Wright
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-havre-de-grace-c-milton-wright-boys-soccer@oldlinerankings
-DTSTAMP:20261025T225244Z
+DTSTAMP:20261025T233040Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Boys Soccer: C. Milton Wright at Havre de Grace
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-harford-tech-c-milton-wright-boys-soccer@oldlinerankings
-DTSTAMP:20261025T225244Z
+DTSTAMP:20261025T233040Z
 DTSTART;TZID=America/New_York:20260915T170000
 DTEND;TZID=America/New_York:20260915T190000
 SUMMARY:Boys Soccer: C. Milton Wright at Harford Tech
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-perryville-c-milton-wright-boys-soccer@oldlinerankings
-DTSTAMP:20261025T225244Z
+DTSTAMP:20261025T233040Z
 DTSTART;TZID=America/New_York:20260917T170000
 DTEND;TZID=America/New_York:20260917T190000
 SUMMARY:Boys Soccer: C. Milton Wright at Perryville
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-fallston-c-milton-wright-boys-soccer@oldlinerankings
-DTSTAMP:20261025T225244Z
+DTSTAMP:20261025T233040Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Boys Soccer: C. Milton Wright at Fallston
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-c-milton-wright-north-harford-boys-soccer@oldlinerankings
-DTSTAMP:20261025T225244Z
+DTSTAMP:20261025T233040Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: North Harford at C. Milton Wright
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-c-milton-wright-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261025T225244Z
+DTSTAMP:20261025T233040Z
 DTSTART;TZID=America/New_York:20260928T165500
 DTEND;TZID=America/New_York:20260928T185500
 SUMMARY:Boys Soccer: Aberdeen at C. Milton Wright
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-c-milton-wright-edgewood-boys-soccer@oldlinerankings
-DTSTAMP:20261025T225244Z
+DTSTAMP:20261025T233040Z
 DTSTART;TZID=America/New_York:20260930T170000
 DTEND;TZID=America/New_York:20260930T190000
 SUMMARY:Boys Soccer: Edgewood at C. Milton Wright
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-rising-sun-c-milton-wright-boys-soccer@oldlinerankings
-DTSTAMP:20261025T225244Z
+DTSTAMP:20261025T233040Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: C. Milton Wright at Rising Sun
@@ -95,7 +95,7 @@ DESCRIPTION:Final: C. Milton Wright -\, Rising Sun -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-hereford-c-milton-wright-boys-soccer@oldlinerankings
-DTSTAMP:20261025T225244Z
+DTSTAMP:20261025T233040Z
 DTSTART;TZID=America/New_York:20261009T173000
 DTEND;TZID=America/New_York:20261009T193000
 SUMMARY:Boys Soccer: C. Milton Wright at Hereford
@@ -105,7 +105,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-patterson-mill-c-milton-wright-boys-soccer@oldlinerankings
-DTSTAMP:20261025T225244Z
+DTSTAMP:20261025T233040Z
 DTSTART;TZID=America/New_York:20261013T183000
 DTEND;TZID=America/New_York:20261013T203000
 SUMMARY:Boys Soccer: C. Milton Wright at Patterson Mill
@@ -115,7 +115,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-c-milton-wright-bel-air-boys-soccer@oldlinerankings
-DTSTAMP:20261025T225244Z
+DTSTAMP:20261025T233040Z
 DTSTART;TZID=America/New_York:20261019T190000
 DTEND;TZID=America/New_York:20261019T210000
 SUMMARY:Boys Soccer: Bel Air at C. Milton Wright
@@ -125,7 +125,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-harford-tech-c-milton-wright-boys-soccer@oldlinerankings
-DTSTAMP:20261025T225244Z
+DTSTAMP:20261025T233040Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Boys Soccer: C. Milton Wright at Harford Tech

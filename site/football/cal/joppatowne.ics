@@ -6,7 +6,7 @@ X-WR-CALNAME:Joppatowne Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-north-harford-joppatowne-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20260904T190000
 DTEND;TZID=America/New_York:20260904T210000
 SUMMARY:Football: Joppatowne at North Harford
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-c-milton-wright-joppatowne-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20260918T184500
 DTEND;TZID=America/New_York:20260918T204500
 SUMMARY:Football: Joppatowne at C. Milton Wright
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-bel-air-joppatowne-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20260925T185000
 DTEND;TZID=America/New_York:20260925T205000
 SUMMARY:Football: Joppatowne at Bel Air
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-patterson-mill-joppatowne-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20261002T173000
 DTEND;TZID=America/New_York:20261002T193000
 SUMMARY:Football: Joppatowne at Patterson Mill
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-rising-sun-joppatowne-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20261009T184500
 DTEND;TZID=America/New_York:20261009T204500
 SUMMARY:Football: Joppatowne at Rising Sun
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-fallston-joppatowne-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20261015T184500
 DTEND;TZID=America/New_York:20261015T204500
 SUMMARY:Football: Joppatowne at Fallston
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-joppatowne-aberdeen-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20261023T184500
 DTEND;TZID=America/New_York:20261023T204500
 SUMMARY:Football: Aberdeen at Joppatowne
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-havre-de-grace-joppatowne-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20261030T190000
 DTEND;TZID=America/New_York:20261030T210000
 SUMMARY:Football: Joppatowne at Havre de Grace

@@ -6,7 +6,7 @@ X-WR-CALNAME:Southern-G Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-mountain-ridge-southern-g-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
 SUMMARY:Football: Southern-G at Mountain Ridge
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-southern-g-wv-madonna-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20260911T183000
 DTEND;TZID=America/New_York:20260911T203000
 SUMMARY:Football: WV- Madonna at Southern-G
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-fort-hill-southern-g-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20260917T180000
 DTEND;TZID=America/New_York:20260917T200000
 SUMMARY:Football: Southern-G at Fort Hill
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-southern-g-clear-spring-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T203000
 SUMMARY:Football: Clear Spring at Southern-G
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-southern-g-wv-berkeley-springs-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: WV- Berkeley Springs at Southern-G
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Southern-G 11\, WV- Berkeley Springs 21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-allegany-southern-g-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T203000
 SUMMARY:Football: Southern-G at Allegany
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-southern-g-wv-tucker-county-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Football: WV- Tucker County at Southern-G
@@ -74,7 +74,7 @@ DESCRIPTION:Final: Southern-G 6\, WV- Tucker County 20
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-southern-g-wv-oak-glen-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: WV- Oak Glen at Southern-G
@@ -83,7 +83,7 @@ DESCRIPTION:Final: Southern-G 42\, WV- Oak Glen 30
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-northern-g-southern-g-football@oldlinerankings
-DTSTAMP:20261025T225214Z
+DTSTAMP:20261025T233011Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Southern-G at Northern-G

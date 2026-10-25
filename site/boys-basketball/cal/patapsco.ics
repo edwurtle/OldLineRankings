@@ -6,7 +6,7 @@ X-WR-CALNAME:Patapsco Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-11-patapsco-sparrows-point-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20261211T173000
 DTEND;TZID=America/New_York:20261211T193000
 SUMMARY:Boys Basketball: Sparrows Point at Patapsco
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-lansdowne-patapsco-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20261214T173000
 DTEND;TZID=America/New_York:20261214T193000
 SUMMARY:Boys Basketball: Patapsco at Lansdowne
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-patapsco-chesapeake-b-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Boys Basketball: Chesapeake-B at Patapsco
@@ -34,7 +34,7 @@ LOCATION:Patapsco
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-eastern-tech-patapsco-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20261218T173000
 DTEND;TZID=America/New_York:20261218T193000
 SUMMARY:Boys Basketball: Patapsco at Eastern Tech
@@ -42,7 +42,7 @@ LOCATION:Eastern Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-patapsco-towson-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Boys Basketball: Towson at Patapsco
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-patapsco-dundalk-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Boys Basketball: Dundalk at Patapsco
@@ -60,7 +60,7 @@ LOCATION:Patapsco
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-carver-aandt-patapsco-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
 SUMMARY:Boys Basketball: Patapsco at Carver A&T
@@ -70,7 +70,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-patapsco-kenwood-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270114T173000
 DTEND;TZID=America/New_York:20270114T193000
 SUMMARY:Boys Basketball: Kenwood at Patapsco
@@ -80,7 +80,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-loch-raven-patapsco-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270120T173000
 DTEND;TZID=America/New_York:20270120T193000
 SUMMARY:Boys Basketball: Patapsco at Loch Raven
@@ -90,7 +90,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-chesapeake-b-patapsco-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270122T173000
 DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Boys Basketball: Patapsco at Chesapeake-B
@@ -100,7 +100,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-patapsco-overlea-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Boys Basketball: Overlea at Patapsco
@@ -110,7 +110,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-sparrows-point-patapsco-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270129T173000
 DTEND;TZID=America/New_York:20270129T193000
 SUMMARY:Boys Basketball: Patapsco at Sparrows Point
@@ -120,7 +120,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-chapelgate-christian-academy-patapsco-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270130T150000
 DTEND;TZID=America/New_York:20270130T170000
 SUMMARY:Boys Basketball: Patapsco at Chapelgate Christian Academy
@@ -130,7 +130,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-patapsco-perry-hall-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Boys Basketball: Perry Hall at Patapsco
@@ -140,7 +140,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-patapsco-eastern-tech-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270205T173000
 DTEND;TZID=America/New_York:20270205T193000
 SUMMARY:Boys Basketball: Eastern Tech at Patapsco
@@ -150,7 +150,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-patapsco-joppatowne-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270209T170000
 DTEND;TZID=America/New_York:20270209T190000
 SUMMARY:Boys Basketball: Joppatowne at Patapsco
@@ -160,7 +160,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-kenwood-patapsco-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270210T173000
 DTEND;TZID=America/New_York:20270210T193000
 SUMMARY:Boys Basketball: Patapsco at Kenwood
@@ -170,7 +170,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-dundalk-patapsco-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Boys Basketball: Patapsco at Dundalk
@@ -179,7 +179,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6984123
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-parkville-patapsco-boys-basketball@oldlinerankings
-DTSTAMP:20261025T225348Z
+DTSTAMP:20261025T233141Z
 DTSTART;TZID=America/New_York:20270217T173000
 DTEND;TZID=America/New_York:20270217T193000
 SUMMARY:Boys Basketball: Patapsco at Parkville
