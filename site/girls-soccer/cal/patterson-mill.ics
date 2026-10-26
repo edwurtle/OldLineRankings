@@ -6,7 +6,7 @@ X-WR-CALNAME:Patterson Mill Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-15-patterson-mill-fallston-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;TZID=America/New_York:20260915T183000
 DTEND;TZID=America/New_York:20260915T203000
 SUMMARY:Girls Soccer: Fallston at Patterson Mill
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-patterson-mill-elkton-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Elkton at Patterson Mill
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Patterson Mill 3\, Elkton 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-patterson-mill-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;TZID=America/New_York:20260919T125000
 DTEND;TZID=America/New_York:20260919T145000
 SUMMARY:Girls Soccer: Westminster at Patterson Mill
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-patterson-mill-liberty-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;TZID=America/New_York:20260919T125000
 DTEND;TZID=America/New_York:20260919T145000
 SUMMARY:Girls Soccer: Liberty at Patterson Mill
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-patterson-mill-perryville-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;TZID=America/New_York:20260921T153000
 DTEND;TZID=America/New_York:20260921T173000
 SUMMARY:Girls Soccer: Perryville at Patterson Mill
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-joppatowne-patterson-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;TZID=America/New_York:20260922T153000
 DTEND;TZID=America/New_York:20260922T173000
 SUMMARY:Girls Soccer: Patterson Mill at Joppatowne
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-patterson-mill-bel-air-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;TZID=America/New_York:20260924T185000
 DTEND;TZID=America/New_York:20260924T205000
 SUMMARY:Girls Soccer: Bel Air at Patterson Mill
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-patterson-mill-c-milton-wright-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;TZID=America/New_York:20260929T180000
 DTEND;TZID=America/New_York:20260929T200000
 SUMMARY:Girls Soccer: C. Milton Wright at Patterson Mill
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-patterson-mill-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Girls Soccer: Aberdeen at Patterson Mill
@@ -95,7 +95,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-patterson-mill-mercy-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Mercy at Patterson Mill
@@ -104,7 +104,7 @@ DESCRIPTION:Final: Patterson Mill 0\, Mercy 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-patterson-mill-north-east-c-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: North East-C at Patterson Mill
@@ -113,7 +113,7 @@ DESCRIPTION:Final: Patterson Mill 2\, North East-C 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-patterson-mill-eastern-tech-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Girls Soccer: Eastern Tech at Patterson Mill
@@ -123,7 +123,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-havre-de-grace-patterson-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;TZID=America/New_York:20261019T180000
 DTEND;TZID=America/New_York:20261019T200000
 SUMMARY:Girls Soccer: Patterson Mill at Havre de Grace
@@ -133,7 +133,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-patterson-mill-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261026T161240Z
+DTSTAMP:20261026T163410Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: Rising Sun at Patterson Mill

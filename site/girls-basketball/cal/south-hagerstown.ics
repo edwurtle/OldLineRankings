@@ -6,7 +6,7 @@ X-WR-CALNAME:South Hagerstown Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-11-hedgesville-south-hagerstown-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T213000
 SUMMARY:Girls Basketball: South Hagerstown at Hedgesville
@@ -14,7 +14,7 @@ LOCATION:Hedgesville
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-south-hagerstown-frederick-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Girls Basketball: Frederick at South Hagerstown
@@ -22,7 +22,7 @@ LOCATION:South Hagerstown
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-linganore-south-hagerstown-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261218T210000
 SUMMARY:Girls Basketball: South Hagerstown at Linganore
@@ -32,7 +32,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-gov-thomas-johnson-south-hagerstown-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20261221T190000
 DTEND;TZID=America/New_York:20261221T210000
 SUMMARY:Girls Basketball: South Hagerstown at Gov. Thomas Johnson
@@ -42,7 +42,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-south-hagerstown-smithsburg-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Girls Basketball: Smithsburg at South Hagerstown
@@ -50,7 +50,7 @@ LOCATION:South Hagerstown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-south-hagerstown-urbana-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270112T190000
 DTEND;TZID=America/New_York:20270112T210000
 SUMMARY:Girls Basketball: Urbana at South Hagerstown
@@ -58,7 +58,7 @@ LOCATION:South Hagerstown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-williamsport-south-hagerstown-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270119T190000
 DTEND;TZID=America/New_York:20270119T210000
 SUMMARY:Girls Basketball: South Hagerstown at Williamsport
@@ -66,7 +66,7 @@ LOCATION:Williamsport
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-frederick-south-hagerstown-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000
 SUMMARY:Girls Basketball: South Hagerstown at Frederick
@@ -74,7 +74,7 @@ LOCATION:Frederick
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-south-hagerstown-north-hagerstown-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270126T173000
 DTEND;TZID=America/New_York:20270126T193000
 SUMMARY:Girls Basketball: North Hagerstown at South Hagerstown
@@ -82,7 +82,7 @@ LOCATION:South Hagerstown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-south-hagerstown-gov-thomas-johnson-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Girls Basketball: Gov. Thomas Johnson at South Hagerstown
@@ -90,7 +90,7 @@ LOCATION:South Hagerstown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-tuscarora-south-hagerstown-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270202T190000
 DTEND;TZID=America/New_York:20270202T210000
 SUMMARY:Girls Basketball: South Hagerstown at Tuscarora
@@ -100,7 +100,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-hancock-south-hagerstown-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270208T173000
 DTEND;TZID=America/New_York:20270208T193000
 SUMMARY:Girls Basketball: South Hagerstown at Hancock
@@ -108,7 +108,7 @@ LOCATION:Hancock
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-urbana-south-hagerstown-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270209T190000
 DTEND;TZID=America/New_York:20270209T210000
 SUMMARY:Girls Basketball: South Hagerstown at Urbana
@@ -118,7 +118,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-brunswick-south-hagerstown-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270219T190000
 DTEND;TZID=America/New_York:20270219T210000
 SUMMARY:Girls Basketball: South Hagerstown at Brunswick
@@ -128,7 +128,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-south-hagerstown-francis-scott-key-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270222T190000
 DTEND;TZID=America/New_York:20270222T210000
 SUMMARY:Girls Basketball: Francis Scott Key at South Hagerstown

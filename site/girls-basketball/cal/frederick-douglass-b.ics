@@ -6,7 +6,7 @@ X-WR-CALNAME:Frederick Douglass-B Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-08-lake-clifton-frederick-douglass-b-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20261208T154500
 DTEND;TZID=America/New_York:20261208T174500
 SUMMARY:Girls Basketball: Frederick Douglass-B at Lake Clifton
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-frederick-douglass-b-green-street-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20261217T171500
 DTEND;TZID=America/New_York:20261217T191500
 SUMMARY:Girls Basketball: Green Street Academy at Frederick Douglass-B
@@ -24,7 +24,7 @@ LOCATION:Frederick Douglass-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-reginald-lewis-frederick-douglass-b-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20261222T154500
 DTEND;TZID=America/New_York:20261222T174500
 SUMMARY:Girls Basketball: Frederick Douglass-B at Reginald Lewis
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-edmondson-westside-frederick-douglass-b-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270105T154500
 DTEND;TZID=America/New_York:20270105T174500
 SUMMARY:Girls Basketball: Frederick Douglass-B at Edmondson-Westside
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-frederick-douglass-b-acce-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270107T171500
 DTEND;TZID=America/New_York:20270107T191500
 SUMMARY:Girls Basketball: ACCE at Frederick Douglass-B
@@ -52,7 +52,7 @@ LOCATION:Frederick Douglass-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-frederick-douglass-b-national-academy-foundation-naf-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Girls Basketball: National Academy Foundation (NAF) at Frederick Douglass-B
@@ -60,7 +60,7 @@ LOCATION:Frederick Douglass-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-frederick-douglass-b-city-neighbors-charter-school-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270121T171500
 DTEND;TZID=America/New_York:20270121T191500
 SUMMARY:Girls Basketball: City Neighbors Charter School at Frederick Douglass-B
@@ -68,7 +68,7 @@ LOCATION:Frederick Douglass-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-green-street-academy-frederick-douglass-b-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270128T154500
 DTEND;TZID=America/New_York:20270128T174500
 SUMMARY:Girls Basketball: Frederick Douglass-B at Green Street Academy
@@ -76,7 +76,7 @@ LOCATION:Green Street Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-frederick-douglass-b-reginald-lewis-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270202T171500
 DTEND;TZID=America/New_York:20270202T191500
 SUMMARY:Girls Basketball: Reginald Lewis at Frederick Douglass-B
@@ -84,7 +84,7 @@ LOCATION:Frederick Douglass-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-frederick-douglass-b-coppin-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270209T171500
 DTEND;TZID=America/New_York:20270209T191500
 SUMMARY:Girls Basketball: Coppin Academy at Frederick Douglass-B
@@ -92,7 +92,7 @@ LOCATION:Frederick Douglass-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-frederick-douglass-b-southwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270211T171500
 DTEND;TZID=America/New_York:20270211T191500
 SUMMARY:Girls Basketball: Southwestern at Frederick Douglass-B
@@ -100,7 +100,7 @@ LOCATION:Frederick Douglass-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-frederick-douglass-b-patterson-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161404Z
+DTSTAMP:20261026T163551Z
 DTSTART;TZID=America/New_York:20270216T171500
 DTEND;TZID=America/New_York:20270216T191500
 SUMMARY:Girls Basketball: Patterson at Frederick Douglass-B
