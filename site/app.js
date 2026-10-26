@@ -26,7 +26,12 @@ const crumbs = (...items) => `<div class="crumbs"><a href="${esc(C.family.home |
   items.map(x => `<span>/</span>` + (Array.isArray(x) ? `<a href="${x[1]}">${esc(x[0])}</a>` : `<span>${esc(x)}</span>`)).join("") + `</div>`;
 const rkBadge = n => `<span class="rk mono">${n}</span>`;
 // NFHS Network broadcast link (live or replay) for a game, when one exists
-const watchBtn = g => g.watch ? `<a class="watch" href="${esc(g.watch)}" target="_blank" rel="noopener" title="Watch on NFHS Network">▶ Watch</a>` : "";
+// NFHS stream link: "Replay" once the game has been played
+const watchBtn = g => {
+  if (!g.watch) return "";
+  const played = g.completed || "res" in g || (g.date && g.date < new Date().toLocaleDateString("en-CA"));
+  return `<a class="watch" href="${esc(g.watch)}" target="_blank" rel="noopener" title="${played ? "Replay" : "Watch"} on NFHS Network">▶ ${played ? "Replay" : "Watch"}</a>`;
+};
 // GoFan ticket link, only for games that haven't happened yet
 const TODAY = new Date().toLocaleDateString("en-CA");
 // `game` describes the matchup for the ticket warning ("Linganore vs Urbana")
@@ -550,7 +555,9 @@ function seeding(g, c, view) {
   const stateSeeds = [];
   for (const x of games) if (x.level === "State" && x.round === "State QF")
     for (const s of x.teams) if (s.seed && named(s) && findTeam(g, s.name)) stateSeeds[s.seed - 1] = findTeam(g, s.name);
-  return {val, pick: ob ? play : pick, regions, final8, regionSeed, coin, stateSeeds};
+  // The official game between two teams (for its watch and ticket links)
+  const gameOf = (a, b) => isTeam(a) && isTeam(b) ? games.find(x => x.teams.every(named) && [a.school, b.school].sort().join("|") === x.teams.map(s => s.name).sort().join("|")) : null;
+  return {val, pick: ob ? play : pick, regions, final8, regionSeed, coin, stateSeeds, gameOf};
 }
 // Bracket slots hold a team, BYE (no team at that seed), a {label} placeholder, or null (winner TBD).
 const BYE = {bye: true};
@@ -600,7 +607,7 @@ function bracketHTML(rounds, names, endName, slot, opts = {}) {
   const match = (m, i, j) => {
     const decided = isTeam(m.a) && isTeam(m.b) && m.w;
     const cls = x => decided ? (m.w === x ? "win" : "lose") : "";
-    return `<div class="match" data-at="${i}-${j}"${fed(m, i, j)}>${slot(m.a, m.p, cls(m.a))}${slot(m.b, m.p == null ? null : 1 - m.p, cls(m.b))}</div>`;
+    return `<div class="match" data-at="${i}-${j}"${fed(m, i, j)}>${slot(m.a, m.p, cls(m.a))}${slot(m.b, m.p == null ? null : 1 - m.p, cls(m.b))}${opts.links ? opts.links(m) : ""}</div>`;
   };
   const cols = rounds.map((games, i) => {
     const last = i === rounds.length - 1;
@@ -658,9 +665,17 @@ function drawBrackets(root) {
 }
 addEventListener("resize", () => drawBrackets(document));
 document.fonts?.ready.then(() => drawBrackets(document));
+// Anchors on the playoffs page, for "See in bracket" links: #final-8 and each region's card
+const regionId = reg => "region-" + reg.toLowerCase().replace(/\W+/g, "-");
 function renderFinal8(r) {
   const view = r.view in F8_VIEWS && PROJ(r.g) ? r.view : "current", projected = view !== "current";
-  const {val, pick, regions, final8, regionSeed, coin, stateSeeds} = seeding(r.g, r.c, view);
+  const {val, pick, regions, final8, regionSeed, coin, stateSeeds, gameOf} = seeding(r.g, r.c, view);
+  // Under a bracket game: its NFHS stream (a replay once played) and GoFan tickets (until it's played)
+  const links = m => {
+    const x = gameOf(m.a, m.b);
+    const html = x ? watchBtn(x) + ticketBtn({tickets: x.tickets, date: x.date}, `${x.teams[1].name} at ${x.teams[0].name}`) : "";
+    return html ? `<div class="mlinks">${html}</div>` : "";
+  };
   // Each record carries its own seeding number where that isn't just the record (football's MPSSAA points)
   // Team card details: record and (football) MPSSAA points on their own lines; the projected view adds a
   // small "Projected ⓘ" label that opens the games behind the projection
@@ -694,14 +709,14 @@ function renderFinal8(r) {
   const regionRounds = Math.log2(8 / PL.per_region);
   const regionNames = regionRounds === 3 ? ["Quarterfinals", "Semifinals", "Region final"] : ["Round 1", "Round 2"];
   const coins = !projected && coin.size ? `<p class="coin-note">${COIN_SVG} Teams tied on ${SEED.name} that head-to-head doesn't separate are listed together in each of their seeds until the MPSSAA flips a coin. ${FLIP_WHEN}</p>` : "";
-  const regionCards = regions.map(({reg, teams, rounds, official}) => `<div class="rcard"><div class="rhead"><h3>${reg}</h3>
+  const regionCards = regions.map(({reg, teams, rounds, official}) => `<div class="rcard" id="${regionId(reg)}"><div class="rhead"><h3>${reg}</h3>
       <small>${teams.length} teams · ${official ? "MPSSAA seeds" : `seeded by ${projected ? "projected " : ""}${SEED.name}`}</small></div>
-      ${bracketHTML(rounds, regionNames, PL.per_region === 1 ? null : "To Final 8", slotFor(t => regionSeed.get(t), true), {cls: "mini", pct: projected && OLR})}</div>`).join("");
+      ${bracketHTML(rounds, regionNames, PL.per_region === 1 ? null : "To Final 8", slotFor(t => regionSeed.get(t), true), {cls: "mini", pct: projected && OLR, links})}</div>`).join("");
   // State tournament: current shows only the seed lines; projected plays it out
   const stateRounds = projected ? playBracket(final8, 3, pick)
     : playBracket(Array.from({length: 8}, (_, i) => stateSeeds[i] || {label: `No. ${i + 1} seed`}), 3, stateSeeds.length ? pick : null);
   const bracket = bracketHTML(stateRounds, ["State quarterfinals", "Semifinals", "Final"], "Champion", slotFor(stateSeed),
-    {endCls: "champ", pct: projected && OLR, endExtra: w => isTeam(w) && w.odds && view === "projected" ? `<div class="champ-odds">Title odds ${pct(w.odds.champ)}</div>` : ""});
+    {endCls: "champ", pct: projected && OLR, links, endExtra: w => isTeam(w) && w.odds && view === "projected" ? `<div class="champ-odds">Title odds ${pct(w.odds.champ)}</div>` : ""});
   const regionHow = PL.per_region === 1
     ? `Every team is seeded in its region by ${SEED.name}, and each region plays down to one champion (in a 6-team region the top 2 seeds get byes).`
     : `Each region's top ${PL.region_seeds} by ${SEED.name} play two rounds (1v8, 4v5, 2v7, 3v6); the two survivors reach the Final 8.`;
@@ -717,7 +732,7 @@ function renderFinal8(r) {
   </div></section>
   <div class="wrap f8-body">
     ${PROJ(r.g) ? "" : holdCard(r.g, "proj")}
-    <div class="section-head"><div><h2>Final 8</h2>
+    <div class="section-head" id="final-8"><div><h2>Final 8</h2>
       <p>The ${regions.length * PL.per_region} region ${PL.per_region === 1 ? "champions" : "survivors"} are reseeded 1–8 by ${SEED.name}: 1v8, 4v5, 2v7, 3v6.
       ${projected ? "" : `The bracket fills in once region play is done${PROJ(r.g) ? "; check OLR projection for a prediction" : ""}.`}</p></div></div>
     <div class="card">${bracket}</div>
@@ -847,13 +862,14 @@ function playoffWatch(g, c) {
       <span class="nm">${esc(s.name)}${t ? `<small>${recTxt(t)}</small>` : ""}</span>${OLR ? `<span class="wp mono">${pct(100 * p)}</span>` : ""}</div>`;
   };
   const watchOf = x => x.watch ? x : findTeam(g, x.teams[0].name)?.upcoming.find(u => u.opp === x.teams[1].name && u.watch) || {};
+  const ticketsOf = x => x.tickets ? {tickets: x.tickets, date: x.date} : findTeam(g, x.teams[0].name)?.upcoming.find(u => u.opp === x.teams[1].name && u.tickets) || {};
   const gameCard = ({x, p}) => `<div class="po-game">
       <div class="po-meta"><span>${x.level === "State" ? "" : esc(x.level) + " · "}${esc(roundLabel(x.round))}</span></div>
       ${side(x, 0, p)}${OLR ? `<div class="po-odds"><i style="width:${100 * p}%"></i></div>` : ""}${side(x, 1, 1 - p)}
-      <div class="po-when"><span>${[x.date && fmtDate(x.date, {weekday: "short", month: "short", day: "numeric"}), x.time, x.site && "at " + esc(x.site)].filter(Boolean).join(" · ") || "Date to be set"}</span>${watchBtn(watchOf(x))}</div></div>`;
+      <div class="po-when"><span>${[x.date && fmtDate(x.date, {weekday: "short", month: "short", day: "numeric"}), x.time, x.site && "at " + esc(x.site)].filter(Boolean).join(" · ") || "Date to be set"}</span><span class="po-links">${watchBtn(watchOf(x))}${ticketBtn(ticketsOf(x), `${x.teams[1].name} at ${x.teams[0].name}`)}</span></div></div>`;
   if (!watch.length) return "";
   return `<section class="po-watch"><div class="section-head"><div><div class="eyebrow">MPSSAA state tournament${m.preview ? ` <span class="po-preview">Preview · stand-in bracket from today's seeds</span>` : ""}</div>
-      <h2>Games to watch</h2><p>The closest ${cl(c)} games still to play, by ${RATING}${OLR ? ` (no favorite above ${pct(100 * WATCH_MAX)})` : ""}.</p></div></div>
+      <h2>Games to watch</h2><p>The closest ${cl(c)} games still to play, by ${RATING}.</p></div></div>
     <div class="po-games">${watch.map(gameCard).join("")}</div></section>`;
 }
 // Find your team: where a school stands in the bracket (seed, next game or how its run ended)
@@ -883,7 +899,8 @@ function teamPlayoffCard(g, name) {
   return `<div class="po-team">${logo(name, 44)}
     <div><b>${esc(name)}</b><small>No. ${first.teams.find(s => s.name === name).seed} seed · ${esc(first.level)} · Class ${cl(k.c)}${ss ? ` · No. ${ss} in the state` : ""}</small>
       <p>${status}</p></div>
-    <button class="po-open" data-team="${esc(name)}">Team →</button></div>`;
+    <div class="po-actions"><button class="po-open" data-team="${esc(name)}">Team info</button>
+      <a class="po-open" href="${href({page: "final8", g, c: k.c})}#${ss ? "final-8" : regionId(first.level)}">See in bracket →</a></div></div>`;
 }
 
 // ---------- schedule ----------
@@ -1111,6 +1128,9 @@ function render() {
   if (pageKey !== render.lastKey) {
     ({rank: renderRank, final8: renderFinal8, how: renderHow, schedule: renderSchedule}[r.page] || renderHome)(r);
     if (render.lastKey && r.page !== render.lastPage) window.scrollTo(0, 0);
+    // A link to a spot on the page (#final-8, #region-east-i): scroll to it once it's drawn
+    const spot = /^#[\w-]+$/.test(location.hash) && document.getElementById(location.hash.slice(1));
+    if (spot) spot.scrollIntoView();
     render.lastKey = pageKey; render.lastPage = r.page;
   }
   document.querySelectorAll("[data-nav]").forEach(a => a.classList.toggle("active", r.page === "rank" ? a.dataset.nav === r.g : a.dataset.nav === r.page));
@@ -1207,7 +1227,7 @@ document.addEventListener("click", e => {
   const u = new URL(a.href);
   if (!isRoute(u) || (u.hash && u.pathname === location.pathname && u.search === location.search)) return;
   e.preventDefault();
-  if (u.href !== location.href) history.pushState(null, "", u.pathname + u.search);
+  if (u.href !== location.href) history.pushState(null, "", u.pathname + u.search + u.hash);
   a.blur();   // no page load, so the tapped link would keep its focus ring (a sliver under the old tab on iPhone)
   render();
 });

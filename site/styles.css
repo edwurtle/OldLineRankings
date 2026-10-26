@@ -146,7 +146,7 @@ button, select, input { font: inherit; color: inherit; }
 .po-find { display: flex; flex-direction: column; gap: 4px; min-width: min(320px, 100%); }
 .po-find label { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); }
 .po-find input { height: 44px; padding: 0 14px; border: 1px solid var(--border); border-radius: 12px; background: var(--surface); box-shadow: var(--shadow); }
-.po-team { display: flex; align-items: center; gap: 14px; background: var(--surface); border: 1px solid var(--border); border-left: 6px solid var(--md-gold); border-radius: 14px; box-shadow: var(--shadow); padding: 14px 16px; margin-bottom: 16px; }
+.po-team { display: flex; align-items: center; gap: 14px; background: var(--surface); border: 1px solid var(--border); border-radius: 14px; box-shadow: var(--shadow); padding: 14px 16px; margin-bottom: 16px; }
 .po-team > div { flex: 1; min-width: 0; }
 .po-team b { font-size: 17px; }
 .po-team small { display: block; color: var(--muted); font-size: 13px; }
@@ -156,6 +156,9 @@ button, select, input { font: inherit; color: inherit; }
 .po-st.win { background: var(--md-black); color: var(--md-gold); }
 .po-st.out { background: var(--md-red); color: #fff; }
 .po-open { border: 1px solid var(--border); background: var(--surface-2); border-radius: 10px; padding: 8px 12px; font-weight: 700; font-size: 13px; cursor: pointer; white-space: nowrap; }
+.po-team > .po-actions { flex: none; display: flex; gap: 8px; }
+a.po-open { color: inherit; text-decoration: none; }
+#final-8, .f8-regions .rcard { scroll-margin-top: 80px; }
 .po-tiles { display: grid; grid-template-columns: repeat(var(--n, 4), 1fr); gap: 16px; }
 @media (max-width: 1020px) { .po-tiles { grid-template-columns: repeat(2, 1fr); } }
 /* Phones: tiles two across with the favorite stacked, search full width */
@@ -172,7 +175,7 @@ button, select, input { font: inherit; color: inherit; }
   .po-find { width: 100%; }
   .po-team { flex-wrap: wrap; align-items: flex-start; }
   .po-team > div { flex-basis: calc(100% - 58px); }
-  .po-team .po-open { margin-left: 58px; }
+  .po-team > .po-actions { margin-left: 58px; }
 }
 .po-tile { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; box-shadow: var(--shadow); overflow: hidden; display: flex; flex-direction: column; transition: transform .12s; }
 .po-tile:hover { transform: translateY(-1px); }
@@ -439,6 +442,10 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 .bracket.mini { --gap: 28px; --colw: 190px; --colmax: 300px; padding: 12px 16px 14px; }
 .bracket.mini .bcol h4 { font-size: 10px; margin-bottom: 6px; }
 .bracket.mini .bslot { padding: 4px 0; }
+/* A bracket game's stream and ticket links, under its two rows */
+.mlinks { display: flex; justify-content: flex-end; gap: 6px; padding: 5px 7px; border-top: 1px solid var(--border); }
+.mlinks .icon, .po-links .icon { width: 13px; height: 13px; }
+.po-links { display: flex; gap: 6px; }
 .bracket.mini .slot { grid-template-columns: 16px 24px 1fr auto; gap: 6px; padding: 5px 7px; }
 .bracket.mini .slot .nm { font-size: 13px; }
 /* Names never wrap or get cut: columns grow to fit them and the bracket scrolls sideways when it's wider than the screen */
@@ -643,9 +650,9 @@ body.embed .drawer { width: 100%; box-shadow: none; transition: none; }
 .gc-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 8px 12px; background: var(--surface-2); border-bottom: 1px solid var(--border); min-height: 36px; box-sizing: border-box; }
 .gc-when { font-size: 12px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
 .gc-act { display: flex; gap: 6px; }
-.gc-act .watch, .gc-act .tix { padding: 3px 9px; border-radius: 999px; font-size: 11px; font-weight: 700; white-space: nowrap; }
-.gc-act .watch { background: var(--md-red); color: #fff; }
-.gc-act .tix { display: inline-flex; align-items: center; gap: 4px; padding: 2px 8px; color: var(--text); border: 1px solid var(--border); background: var(--surface); }
+.gc-act .watch, .gc-act .tix, .mlinks .watch, .mlinks .tix, .po-links .watch, .po-links .tix { padding: 3px 9px; border-radius: 999px; font-size: 11px; font-weight: 700; white-space: nowrap; }
+.gc-act .watch, .mlinks .watch, .po-links .watch { background: var(--md-red); color: #fff; }
+.gc-act .tix, .mlinks .tix, .po-links .tix { display: inline-flex; align-items: center; gap: 4px; padding: 2px 8px; color: var(--text); border: 1px solid var(--border); background: var(--surface); }
 .gc-act .tix .icon { width: 15px; height: 15px; }
 .gc-team { display: grid; grid-template-columns: 32px 1fr auto; gap: 10px; align-items: center; padding: 8px 12px; }
 .gc-team + .gc-team { border-top: 1px solid var(--border); }

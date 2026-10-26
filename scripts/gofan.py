@@ -82,7 +82,17 @@ def add_ticket_links(sports, divisions, sport, alt_names, cities):
             for gender in genders or {None}:
                 for sid in schools:
                     idx.setdefault((sid, gender, day), []).append((schools - {sid}, f"https://gofan.co/event/{e['id']}", time))
-    today, linked = datetime.datetime.now(zoneinfo.ZoneInfo("America/New_York")).date(), 0
+    def find(sid, opp, gender, day):
+        """(url, time) of the event for sid's game against opp (None: any opponent) on day ±1, or None."""
+        for d in (day, day - datetime.timedelta(1), day + datetime.timedelta(1)):
+            # Football events are often "Coed"; soccer must match the division's gender
+            entries = [x for g in ((gender,) if sport == "Soccer" else (gender, "Coed", None)) for x in idx.get((sid, g, d), [])]
+            hit = next(((url, time) for others, url, time in entries if not opp or opp in others), None)
+            if hit:
+                return hit
+        return None
+
+    today, linked, bracket_linked = datetime.datetime.now(zoneinfo.ZoneInfo("America/New_York")).date(), 0, 0
     for div, s in sports.items():
         gender = divisions[div]["gender"]
         for t in s["teams"]:
@@ -90,16 +100,20 @@ def add_ticket_links(sports, divisions, sport, alt_names, cities):
             if not sid:
                 continue
             for u in t["upcoming"]:
-                day, opp = datetime.date.fromisoformat(u["date"]), ids.get(u["opp"])
+                day = datetime.date.fromisoformat(u["date"])
                 if day < today or u["status"] == "postponed":
                     continue
-                for d in (day, day - datetime.timedelta(1), day + datetime.timedelta(1)):
-                    # Football events are often "Coed"; soccer must match the division's gender
-                    entries = [x for g in ((gender,) if sport == "Soccer" else (gender, "Coed", None)) for x in idx.get((sid, g, d), [])]
-                    hit = next(((url, time) for others, url, time in entries if not opp or opp in others), None)
-                    if hit:
-                        u["tickets"] = hit[0]
-                        u.setdefault("time", hit[1])
-                        linked += 1
-                        break
-    print(f"  GoFan: {len(ids)}/{len(names)} schools matched, {linked} upcoming team-games with ticket links")
+                if hit := find(sid, ids.get(u["opp"]), gender, day):
+                    u["tickets"] = hit[0]
+                    u.setdefault("time", hit[1])
+                    linked += 1
+        # The official bracket's games (scripts/brackets.py) still to play, once both teams are known and it has a date
+        for g in (s.get("bracket") or {}).get("games", []):
+            a, b = (ids.get(x["name"]) for x in g["teams"])
+            if g["completed"] or not g["date"] or not (a or b) or datetime.date.fromisoformat(g["date"]) < today:
+                continue
+            if hit := find(a or b, b if a else a, gender, datetime.date.fromisoformat(g["date"])):
+                g["tickets"] = hit[0]
+                bracket_linked += 1
+    print(f"  GoFan: {len(ids)}/{len(names)} schools matched, {linked} upcoming team-games with ticket links"
+          + (f", {bracket_linked} bracket games" if bracket_linked else ""))
