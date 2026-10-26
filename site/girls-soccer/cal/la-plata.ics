@@ -6,7 +6,7 @@ X-WR-CALNAME:La Plata Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-la-plata-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Chopticon at La Plata
@@ -15,7 +15,7 @@ DESCRIPTION:Final: La Plata 4\, Chopticon 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-la-plata-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;TZID=America/New_York:20260910T181500
 DTEND;TZID=America/New_York:20260910T201500
 SUMMARY:Girls Soccer: Leonardtown at La Plata
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-la-plata-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;TZID=America/New_York:20260914T181500
 DTEND;TZID=America/New_York:20260914T201500
 SUMMARY:Girls Soccer: Oxon Hill at La Plata
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-henry-e-lackey-la-plata-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: La Plata at Henry E. Lackey
@@ -44,7 +44,7 @@ DESCRIPTION:Final: La Plata 6\, Henry E. Lackey 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-patuxent-la-plata-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: La Plata at Patuxent
@@ -53,7 +53,7 @@ DESCRIPTION:Final: La Plata 6\, Patuxent 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-la-plata-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;TZID=America/New_York:20260924T181500
 DTEND;TZID=America/New_York:20260924T201500
 SUMMARY:Girls Soccer: Northern-C at La Plata
@@ -63,7 +63,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-la-plata-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Girls Soccer: McDonough at La Plata
@@ -73,7 +73,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-la-plata-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;TZID=America/New_York:20261001T181500
 DTEND;TZID=America/New_York:20261001T201500
 SUMMARY:Girls Soccer: Northern-C at La Plata
@@ -83,7 +83,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-la-plata-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Girls Soccer: North Point at La Plata
@@ -93,7 +93,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-huntingtown-la-plata-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;TZID=America/New_York:20261008T181500
 DTEND;TZID=America/New_York:20261008T201500
 SUMMARY:Girls Soccer: La Plata at Huntingtown
@@ -103,7 +103,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-la-plata-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;TZID=America/New_York:20261013T163000
 DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Girls Soccer: Westlake at La Plata
@@ -113,7 +113,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-calvert-la-plata-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;TZID=America/New_York:20261015T181500
 DTEND;TZID=America/New_York:20261015T201500
 SUMMARY:Girls Soccer: La Plata at Calvert

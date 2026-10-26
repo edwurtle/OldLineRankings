@@ -6,7 +6,7 @@ X-WR-CALNAME:Reginald Lewis Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-08-reginald-lewis-benjamin-franklin-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20261208T171500
 DTEND;TZID=America/New_York:20261208T191500
 SUMMARY:Boys Basketball: Benjamin Franklin at Reginald Lewis
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-southwestern-reginald-lewis-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20261210T171500
 DTEND;TZID=America/New_York:20261210T191500
 SUMMARY:Boys Basketball: Reginald Lewis at Southwestern
@@ -24,7 +24,7 @@ LOCATION:Southwestern
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-reginald-lewis-patterson-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20261217T171500
 DTEND;TZID=America/New_York:20261217T191500
 SUMMARY:Boys Basketball: Patterson at Reginald Lewis
@@ -32,7 +32,7 @@ LOCATION:Reginald Lewis
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-frederick-douglass-b-reginald-lewis-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20261222T171500
 DTEND;TZID=America/New_York:20261222T191500
 SUMMARY:Boys Basketball: Reginald Lewis at Frederick Douglass-B
@@ -40,7 +40,7 @@ LOCATION:Frederick Douglass-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-lake-clifton-reginald-lewis-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270105T171500
 DTEND;TZID=America/New_York:20270105T191500
 SUMMARY:Boys Basketball: Reginald Lewis at Lake Clifton
@@ -50,7 +50,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-green-street-academy-reginald-lewis-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270107T171500
 DTEND;TZID=America/New_York:20270107T191500
 SUMMARY:Boys Basketball: Reginald Lewis at Green Street Academy
@@ -58,7 +58,7 @@ LOCATION:Green Street Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-reginald-lewis-city-neighbors-charter-school-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Boys Basketball: City Neighbors Charter School at Reginald Lewis
@@ -68,7 +68,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-reginald-lewis-coppin-academy-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270114T171500
 DTEND;TZID=America/New_York:20270114T191500
 SUMMARY:Boys Basketball: Coppin Academy at Reginald Lewis
@@ -78,7 +78,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-reginald-lewis-national-academy-foundation-naf-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270121T171500
 DTEND;TZID=America/New_York:20270121T191500
 SUMMARY:Boys Basketball: National Academy Foundation (NAF) at Reginald Lewis
@@ -88,7 +88,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-reginald-lewis-southwestern-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270126T171500
 DTEND;TZID=America/New_York:20270126T191500
 SUMMARY:Boys Basketball: Southwestern at Reginald Lewis
@@ -98,7 +98,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-patterson-reginald-lewis-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270128T171500
 DTEND;TZID=America/New_York:20270128T191500
 SUMMARY:Boys Basketball: Reginald Lewis at Patterson
@@ -108,7 +108,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-reginald-lewis-frederick-douglass-b-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270202T171500
 DTEND;TZID=America/New_York:20270202T191500
 SUMMARY:Boys Basketball: Frederick Douglass-B at Reginald Lewis
@@ -118,7 +118,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-mergenthaler-reginald-lewis-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270204T171500
 DTEND;TZID=America/New_York:20270204T191500
 SUMMARY:Boys Basketball: Reginald Lewis at Mergenthaler
@@ -126,7 +126,7 @@ LOCATION:Mergenthaler
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-reginald-lewis-acce-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270216T171500
 DTEND;TZID=America/New_York:20270216T191500
 SUMMARY:Boys Basketball: ACCE at Reginald Lewis

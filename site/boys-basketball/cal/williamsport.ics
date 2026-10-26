@@ -6,7 +6,7 @@ X-WR-CALNAME:Williamsport Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-05-williamsport-north-hagerstown-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20261205T180000
 DTEND;TZID=America/New_York:20261205T200000
 SUMMARY:Boys Basketball: North Hagerstown at Williamsport
@@ -14,7 +14,7 @@ LOCATION:Williamsport
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-williamsport-boonsboro-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20261208T190000
 DTEND;TZID=America/New_York:20261208T210000
 SUMMARY:Boys Basketball: Boonsboro at Williamsport
@@ -22,7 +22,7 @@ LOCATION:Williamsport
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-williamsport-smithsburg-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20261210T190000
 DTEND;TZID=America/New_York:20261210T210000
 SUMMARY:Boys Basketball: Smithsburg at Williamsport
@@ -30,7 +30,7 @@ LOCATION:Williamsport
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-middletown-williamsport-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20261215T190000
 DTEND;TZID=America/New_York:20261215T210000
 SUMMARY:Boys Basketball: Williamsport at Middletown
@@ -38,7 +38,7 @@ LOCATION:Middletown
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-catoctin-williamsport-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261218T210000
 SUMMARY:Boys Basketball: Williamsport at Catoctin
@@ -48,7 +48,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-williamsport-brunswick-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20261221T190000
 DTEND;TZID=America/New_York:20261221T210000
 SUMMARY:Boys Basketball: Brunswick at Williamsport
@@ -56,7 +56,7 @@ LOCATION:Williamsport
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-clear-spring-williamsport-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270105T190000
 DTEND;TZID=America/New_York:20270105T210000
 SUMMARY:Boys Basketball: Williamsport at Clear Spring
@@ -64,7 +64,7 @@ LOCATION:Clear Spring
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-williamsport-walkersville-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270112T190000
 DTEND;TZID=America/New_York:20270112T210000
 SUMMARY:Boys Basketball: Walkersville at Williamsport
@@ -72,7 +72,7 @@ LOCATION:Williamsport
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-williamsport-frederick-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270115T190000
 DTEND;TZID=America/New_York:20270115T210000
 SUMMARY:Boys Basketball: Frederick at Williamsport
@@ -80,7 +80,7 @@ LOCATION:Williamsport
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-williamsport-middletown-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000
 SUMMARY:Boys Basketball: Middletown at Williamsport
@@ -88,7 +88,7 @@ LOCATION:Williamsport
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-boonsboro-williamsport-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270126T190000
 DTEND;TZID=America/New_York:20270126T210000
 SUMMARY:Boys Basketball: Williamsport at Boonsboro
@@ -96,7 +96,7 @@ LOCATION:Boonsboro
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-brunswick-williamsport-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270129T190000
 DTEND;TZID=America/New_York:20270129T210000
 SUMMARY:Boys Basketball: Williamsport at Brunswick
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-smithsburg-williamsport-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270202T190000
 DTEND;TZID=America/New_York:20270202T210000
 SUMMARY:Boys Basketball: Williamsport at Smithsburg
@@ -114,7 +114,7 @@ LOCATION:Smithsburg
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-williamsport-liberty-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270205T190000
 DTEND;TZID=America/New_York:20270205T210000
 SUMMARY:Boys Basketball: Liberty at Williamsport
@@ -122,7 +122,7 @@ LOCATION:Williamsport
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-walkersville-williamsport-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270209T190000
 DTEND;TZID=America/New_York:20270209T210000
 SUMMARY:Boys Basketball: Williamsport at Walkersville
@@ -130,7 +130,7 @@ LOCATION:Walkersville
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-williamsport-south-hagerstown-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270216T190000
 DTEND;TZID=America/New_York:20270216T210000
 SUMMARY:Boys Basketball: South Hagerstown at Williamsport
@@ -138,7 +138,7 @@ LOCATION:Williamsport
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-francis-scott-key-williamsport-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270219T183000
 DTEND;TZID=America/New_York:20270219T203000
 SUMMARY:Boys Basketball: Williamsport at Francis Scott Key
@@ -146,7 +146,7 @@ LOCATION:Francis Scott Key
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-williamsport-century-boys-basketball@oldlinerankings
-DTSTAMP:20261025T233141Z
+DTSTAMP:20261026T083611Z
 DTSTART;TZID=America/New_York:20270222T190000
 DTEND;TZID=America/New_York:20270222T210000
 SUMMARY:Boys Basketball: Century at Williamsport

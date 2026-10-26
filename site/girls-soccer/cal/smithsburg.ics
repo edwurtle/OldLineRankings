@@ -6,7 +6,7 @@ X-WR-CALNAME:Smithsburg Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-smithsburg-francis-scott-key-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Francis Scott Key at Smithsburg
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Smithsburg 8\, Francis Scott Key 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-smithsburg-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Smithsburg
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-south-carroll-smithsburg-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Smithsburg at South Carroll
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Smithsburg 1\, South Carroll 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-smithsburg-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Williamsport at Smithsburg
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Smithsburg 3\, Williamsport 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-catoctin-smithsburg-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;TZID=America/New_York:20260922T180000
 DTEND;TZID=America/New_York:20260922T200000
 SUMMARY:Girls Soccer: Smithsburg at Catoctin
@@ -53,7 +53,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-smithsburg-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Girls Soccer: Walkersville at Smithsburg
@@ -63,7 +63,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-boonsboro-smithsburg-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Smithsburg at Boonsboro
@@ -72,7 +72,7 @@ DESCRIPTION:Final: Smithsburg 8\, Boonsboro 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-smithsburg-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Girls Soccer: North Hagerstown at Smithsburg
@@ -81,7 +81,7 @@ DESCRIPTION:Final: Smithsburg 2\, North Hagerstown 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-smithsburg-middletown-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Middletown at Smithsburg
@@ -90,7 +90,7 @@ DESCRIPTION:Final: Smithsburg 1\, Middletown 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-brunswick-smithsburg-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Girls Soccer: Smithsburg at Brunswick
@@ -100,7 +100,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-clear-spring-smithsburg-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Smithsburg at Clear Spring
@@ -109,7 +109,7 @@ DESCRIPTION:Final: Smithsburg -\, Clear Spring -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-smithsburg-liberty-girls-soccer@oldlinerankings
-DTSTAMP:20261025T233106Z
+DTSTAMP:20261026T083533Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Liberty at Smithsburg
