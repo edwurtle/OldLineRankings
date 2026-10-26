@@ -6,7 +6,7 @@ X-WR-CALNAME:North Hagerstown Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-boonsboro-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T183703Z
+DTSTAMP:20261026T190145Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: North Hagerstown at Boonsboro
@@ -15,7 +15,7 @@ DESCRIPTION:Final: North Hagerstown 4\, Boonsboro 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-williamsport-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T183703Z
+DTSTAMP:20261026T190145Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: North Hagerstown at Williamsport
@@ -24,7 +24,7 @@ DESCRIPTION:Final: North Hagerstown 6\, Williamsport 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-clear-spring-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T183703Z
+DTSTAMP:20261026T190145Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: North Hagerstown at Clear Spring
@@ -33,7 +33,7 @@ DESCRIPTION:Final: North Hagerstown 6\, Clear Spring 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-north-hagerstown-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261026T183703Z
+DTSTAMP:20261026T190145Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at North Hagerstown
@@ -43,7 +43,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-oakdale-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T183703Z
+DTSTAMP:20261026T190145Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: North Hagerstown at Oakdale
@@ -52,7 +52,7 @@ DESCRIPTION:Final: North Hagerstown 0\, Oakdale 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-frederick-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T183703Z
+DTSTAMP:20261026T190145Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: North Hagerstown at Frederick
@@ -61,7 +61,7 @@ DESCRIPTION:Final: North Hagerstown 3\, Frederick 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-tuscarora-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T183703Z
+DTSTAMP:20261026T190145Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: North Hagerstown at Tuscarora
@@ -71,7 +71,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-catoctin-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T183703Z
+DTSTAMP:20261026T190145Z
 DTSTART;TZID=America/New_York:20261001T180000
 DTEND;TZID=America/New_York:20261001T200000
 SUMMARY:Girls Soccer: North Hagerstown at Catoctin
@@ -81,7 +81,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-smithsburg-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T183703Z
+DTSTAMP:20261026T190145Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Girls Soccer: North Hagerstown at Smithsburg
@@ -90,7 +90,7 @@ DESCRIPTION:Final: North Hagerstown 1\, Smithsburg 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-north-hagerstown-south-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T183703Z
+DTSTAMP:20261026T190145Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: South Hagerstown at North Hagerstown
@@ -99,7 +99,7 @@ DESCRIPTION:Final: North Hagerstown 12\, South Hagerstown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-north-hagerstown-urbana-girls-soccer@oldlinerankings
-DTSTAMP:20261026T183703Z
+DTSTAMP:20261026T190145Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Girls Soccer: Urbana at North Hagerstown
@@ -109,7 +109,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-linganore-north-hagerstown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T183703Z
+DTSTAMP:20261026T190145Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: North Hagerstown at Linganore
