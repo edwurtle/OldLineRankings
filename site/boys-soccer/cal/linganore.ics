@@ -6,7 +6,7 @@ X-WR-CALNAME:Linganore Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-linganore-chesapeake-aa-boys-soccer@oldlinerankings
-DTSTAMP:20261026T172225Z
+DTSTAMP:20261026T174934Z
 DTSTART;TZID=America/New_York:20260904T190000
 DTEND;TZID=America/New_York:20260904T210000
 SUMMARY:Boys Soccer: Chesapeake-AA at Linganore
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-manchester-valley-linganore-boys-soccer@oldlinerankings
-DTSTAMP:20261026T172225Z
+DTSTAMP:20261026T174934Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: Linganore at Manchester Valley
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Linganore 3\, Manchester Valley 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-walkersville-linganore-boys-soccer@oldlinerankings
-DTSTAMP:20261026T172225Z
+DTSTAMP:20261026T174934Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Boys Soccer: Linganore at Walkersville
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-linganore-frederick-boys-soccer@oldlinerankings
-DTSTAMP:20261026T172225Z
+DTSTAMP:20261026T174934Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Boys Soccer: Frederick at Linganore
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-linganore-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261026T172225Z
+DTSTAMP:20261026T174934Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at Linganore
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-linganore-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261026T172225Z
+DTSTAMP:20261026T174934Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Boys Soccer: Oakdale at Linganore
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-westminster-linganore-boys-soccer@oldlinerankings
-DTSTAMP:20261026T172225Z
+DTSTAMP:20261026T174934Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Linganore at Westminster
@@ -74,7 +74,7 @@ DESCRIPTION:Final: Linganore 3\, Westminster 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-linganore-urbana-boys-soccer@oldlinerankings
-DTSTAMP:20261026T172225Z
+DTSTAMP:20261026T174934Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Boys Soccer: Urbana at Linganore
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-linganore-south-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261026T172225Z
+DTSTAMP:20261026T174934Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: South Hagerstown at Linganore
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-linganore-north-hagerstown-boys-soccer@oldlinerankings
-DTSTAMP:20261026T172225Z
+DTSTAMP:20261026T174934Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Boys Soccer: North Hagerstown at Linganore
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-brunswick-linganore-boys-soccer@oldlinerankings
-DTSTAMP:20261026T172225Z
+DTSTAMP:20261026T174934Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Boys Soccer: Linganore at Brunswick
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-middletown-linganore-boys-soccer@oldlinerankings
-DTSTAMP:20261026T172225Z
+DTSTAMP:20261026T174934Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Boys Soccer: Linganore at Middletown
@@ -124,7 +124,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-linganore-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261026T172225Z
+DTSTAMP:20261026T174934Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Tuscarora at Linganore

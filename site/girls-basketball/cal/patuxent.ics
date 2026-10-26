@@ -6,7 +6,7 @@ X-WR-CALNAME:Patuxent Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-huntingtown-patuxent-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20261204T181500
 DTEND;TZID=America/New_York:20261204T201500
 SUMMARY:Girls Basketball: Patuxent at Huntingtown
@@ -14,7 +14,7 @@ LOCATION:Huntingtown
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-patuxent-calvert-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20261211T181500
 DTEND;TZID=America/New_York:20261211T201500
 SUMMARY:Girls Basketball: Calvert at Patuxent
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-patuxent-henry-e-lackey-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20261214T170000
 DTEND;TZID=America/New_York:20261214T190000
 SUMMARY:Girls Basketball: Henry E. Lackey at Patuxent
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-northern-c-patuxent-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20261218T181500
 DTEND;TZID=America/New_York:20261218T201500
 SUMMARY:Girls Basketball: Patuxent at Northern-C
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-surrattsville-patuxent-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20261222T180000
 DTEND;TZID=America/New_York:20261222T200000
 SUMMARY:Girls Basketball: Patuxent at Surrattsville
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-westlake-patuxent-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20270108T181500
 DTEND;TZID=America/New_York:20270108T201500
 SUMMARY:Girls Basketball: Patuxent at Westlake
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-patuxent-la-plata-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20270113T181500
 DTEND;TZID=America/New_York:20270113T201500
 SUMMARY:Girls Basketball: La Plata at Patuxent
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-patuxent-northern-c-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20270115T181500
 DTEND;TZID=America/New_York:20270115T201500
 SUMMARY:Girls Basketball: Northern-C at Patuxent
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-henry-e-lackey-patuxent-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20270120T181500
 DTEND;TZID=America/New_York:20270120T201500
 SUMMARY:Girls Basketball: Patuxent at Henry E. Lackey
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-patuxent-chopticon-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20270122T181500
 DTEND;TZID=America/New_York:20270122T201500
 SUMMARY:Girls Basketball: Chopticon at Patuxent
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-patuxent-mcdonough-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20270127T181500
 DTEND;TZID=America/New_York:20270127T201500
 SUMMARY:Girls Basketball: McDonough at Patuxent
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-calvert-patuxent-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20270129T181500
 DTEND;TZID=America/New_York:20270129T201500
 SUMMARY:Girls Basketball: Patuxent at Calvert
@@ -122,7 +122,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-north-point-patuxent-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20270203T181500
 DTEND;TZID=America/New_York:20270203T201500
 SUMMARY:Girls Basketball: Patuxent at North Point
@@ -132,7 +132,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-patuxent-huntingtown-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20270205T181500
 DTEND;TZID=America/New_York:20270205T201500
 SUMMARY:Girls Basketball: Huntingtown at Patuxent
@@ -142,7 +142,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-patuxent-st-charles-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20270210T181500
 DTEND;TZID=America/New_York:20270210T201500
 SUMMARY:Girls Basketball: St. Charles at Patuxent
@@ -152,7 +152,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-great-mills-patuxent-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20270212T181500
 DTEND;TZID=America/New_York:20270212T201500
 SUMMARY:Girls Basketball: Patuxent at Great Mills
@@ -160,7 +160,7 @@ LOCATION:Great Mills
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-leonardtown-patuxent-girls-basketball@oldlinerankings
-DTSTAMP:20261026T172440Z
+DTSTAMP:20261026T175119Z
 DTSTART;TZID=America/New_York:20270219T181500
 DTEND;TZID=America/New_York:20270219T201500
 SUMMARY:Girls Basketball: Patuxent at Leonardtown

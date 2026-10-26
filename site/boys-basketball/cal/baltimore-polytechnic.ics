@@ -6,7 +6,7 @@ X-WR-CALNAME:Baltimore Polytechnic Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-21-springbrook-baltimore-polytechnic-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20261121T120000
 DTEND;TZID=America/New_York:20261121T140000
 SUMMARY:Boys Basketball: Baltimore Polytechnic at Springbrook
@@ -14,7 +14,7 @@ LOCATION:Springbrook
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-st-frances-academy-baltimore-polytechnic-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20261205T160000
 DTEND;TZID=America/New_York:20261205T180000
 SUMMARY:Boys Basketball: Baltimore Polytechnic at St. Frances Academy
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-baltimore-polytechnic-benjamin-franklin-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20261210T171500
 DTEND;TZID=America/New_York:20261210T191500
 SUMMARY:Boys Basketball: Benjamin Franklin at Baltimore Polytechnic
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-mergenthaler-baltimore-polytechnic-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20261217T171500
 DTEND;TZID=America/New_York:20261217T191500
 SUMMARY:Boys Basketball: Baltimore Polytechnic at Mergenthaler
@@ -42,7 +42,7 @@ LOCATION:Mergenthaler
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-baltimore-polytechnic-carver-vocational-technical-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20261222T171500
 DTEND;TZID=America/New_York:20261222T191500
 SUMMARY:Boys Basketball: Carver Vocational-Technical at Baltimore Polytechnic
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-seed-school-baltimore-polytechnic-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20270105T180000
 DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:Boys Basketball: Baltimore Polytechnic at SEED School
@@ -60,7 +60,7 @@ LOCATION:SEED School
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-digital-harbor-baltimore-polytechnic-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20270107T171500
 DTEND;TZID=America/New_York:20270107T191500
 SUMMARY:Boys Basketball: Baltimore Polytechnic at Digital Harbor
@@ -68,7 +68,7 @@ LOCATION:Digital Harbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-baltimore-polytechnic-lake-clifton-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20270114T171500
 DTEND;TZID=America/New_York:20270114T191500
 SUMMARY:Boys Basketball: Lake Clifton at Baltimore Polytechnic
@@ -78,7 +78,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-baltimore-city-college-baltimore-polytechnic-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20270119T171500
 DTEND;TZID=America/New_York:20270119T191500
 SUMMARY:Boys Basketball: Baltimore Polytechnic at Baltimore City College
@@ -86,7 +86,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-forest-park-baltimore-polytechnic-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20270121T171500
 DTEND;TZID=America/New_York:20270121T191500
 SUMMARY:Boys Basketball: Baltimore Polytechnic at Forest Park
@@ -94,7 +94,7 @@ LOCATION:Forest Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-baltimore-polytechnic-paul-laurence-dunbar-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20270126T171500
 DTEND;TZID=America/New_York:20270126T191500
 SUMMARY:Boys Basketball: Paul Laurence Dunbar at Baltimore Polytechnic
@@ -102,7 +102,7 @@ LOCATION:Baltimore Polytechnic
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-carver-vocational-technical-baltimore-polytechnic-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20270204T171500
 DTEND;TZID=America/New_York:20270204T191500
 SUMMARY:Boys Basketball: Baltimore Polytechnic at Carver Vocational-Technical
@@ -110,7 +110,7 @@ LOCATION:Carver Vocational-Technical
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-baltimore-polytechnic-edmondson-westside-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20270209T171500
 DTEND;TZID=America/New_York:20270209T191500
 SUMMARY:Boys Basketball: Edmondson-Westside at Baltimore Polytechnic
@@ -120,7 +120,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-baltimore-polytechnic-mergenthaler-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20270211T171500
 DTEND;TZID=America/New_York:20270211T191500
 SUMMARY:Boys Basketball: Mergenthaler at Baltimore Polytechnic
@@ -130,7 +130,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-baltimore-polytechnic-baltimore-city-college-boys-basketball@oldlinerankings
-DTSTAMP:20261026T172343Z
+DTSTAMP:20261026T175039Z
 DTSTART;TZID=America/New_York:20270216T171500
 DTEND;TZID=America/New_York:20270216T191500
 SUMMARY:Boys Basketball: Baltimore City College at Baltimore Polytechnic
