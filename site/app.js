@@ -583,7 +583,23 @@ function playBracket(seeds, rounds, pick) {
 // CSS can draw the connectors; the last round connects straight across to the survivors column
 // (omitted when endName is null: the last round's winners are then just shown in bold).
 function bracketHTML(rounds, names, endName, slot, opts = {}) {
-  const cell = html => `<div class="bslot">${html}</div>`;
+  // Byes aren't drawn: a first-round game with a bye is left out and its team appears in the next round; the
+  // other game of its pair is centred beside the game it feeds (a round that is all byes is dropped)
+  const bye = m => m.a === BYE || m.b === BYE;
+  if (rounds.length > 1 && rounds[0].every(bye)) return bracketHTML(rounds.slice(1), names.slice(1), endName, slot, opts);
+  // A second-round game fed by one real game and one bye: its line goes into the TBD row (top or bottom), and the
+  // lone first-round game shifts to sit level with that row
+  const tbdRow = new Map();
+  if (rounds.length > 1) rounds[1].forEach((m, j) => {
+    const [x, y] = [rounds[0][2 * j], rounds[0][2 * j + 1]];
+    if (bye(x) !== bye(y)) tbdRow.set(m, isTeam(m.a) ? "bot" : "top").set(bye(x) ? y : x, isTeam(m.a) ? "bot" : "top");
+  });
+  const cell = (html, m, i) => {
+    const skip = i === 0 && bye(m), unfed = i === 1 && bye(rounds[0][2 * rounds[1].indexOf(m)]) && bye(rounds[0][2 * rounds[1].indexOf(m) + 1]);
+    const row = tbdRow.get(m) ? (i ? " tbd-" : " lone-") + tbdRow.get(m) : "";
+    return skip ? "" : `<div class="bslot${unfed ? " unfed" : ""}${row}">${html}</div>`;
+  };
+  const pairCls = (a, b, i) => i ? "" : bye(a) && bye(b) ? " bye-both" : bye(a) || bye(b) ? " bye-one" : "";
   const match = m => {
     const decided = isTeam(m.a) && isTeam(m.b) && m.w;
     const cls = x => decided ? (m.w === x ? "win" : "lose") : "";
@@ -591,14 +607,37 @@ function bracketHTML(rounds, names, endName, slot, opts = {}) {
   };
   const cols = rounds.map((games, i) => {
     const last = i === rounds.length - 1;
-    const body = last ? games.map(m => cell(match(m))).join("")
-      : Array.from({length: games.length / 2}, (_, j) => `<div class="bpair">${cell(match(games[2 * j]))}${cell(match(games[2 * j + 1]))}</div>`).join("");
+    const body = last ? games.map(m => cell(match(m), m, i)).join("")
+      : Array.from({length: games.length / 2}, (_, j) => `<div class="bpair${pairCls(games[2 * j], games[2 * j + 1], i)}">${cell(match(games[2 * j]), games[2 * j], i)}${cell(match(games[2 * j + 1]), games[2 * j + 1], i)}</div>`).join("");
     return `<div class="bcol${i ? " fed" : ""}${last && endName ? " to-next" : ""}"><h4>${names[i]}</h4><div class="bgames">${body}</div></div>`;
   });
   const end = rounds[rounds.length - 1].map(m => cell(`<div class="match">${slot(m.w === BYE ? null : m.w, null, isTeam(m.w) ? "win" : "")}${opts.endExtra ? opts.endExtra(m.w) : ""}</div>`)).join("");
   return `<div class="bracket ${opts.cls || ""}" style="--cols:${rounds.length + (endName ? 1 : 0)}">${cols.join("")}
     ${endName ? `<div class="bcol fed end ${opts.endCls || ""}"><h4>${endName}</h4><div class="bgames">${end}</div></div>` : ""}</div>`;
 }
+// Moves each lone first-round game (a pair with one bye) level with the TBD row it feeds; both lists run in
+// bracket order, one entry per such pair. Rerun on resize and once web fonts load, since row heights can change.
+function alignByes(root) {
+  for (const br of root.querySelectorAll(".bracket")) {
+    const lone = br.querySelectorAll('.bslot[class*="lone-"] .match'), into = br.querySelectorAll('.bslot[class*="tbd-"]');
+    if (!lone.length) continue;
+    br.style.paddingBottom = "";
+    let low = 0;
+    lone.forEach((m, k) => {
+      const row = into[k] && into[k].querySelector(into[k].classList.contains("tbd-bot") ? ".match > :last-child" : ".match > :first-child");
+      if (!row) return;
+      m.style.transform = "";
+      const a = m.getBoundingClientRect(), b = row.getBoundingClientRect(), dy = (b.top + b.height / 2) - (a.top + a.height / 2);
+      m.style.transform = `translateY(${dy}px)`;
+      low = Math.max(low, a.bottom + dy);
+    });
+    // A game moved down past the bracket's bottom edge gets room below it
+    const box = br.getBoundingClientRect(), pad = parseFloat(getComputedStyle(br).paddingBottom);
+    if (low > box.bottom - pad) br.style.paddingBottom = `${pad + low - (box.bottom - pad)}px`;
+  }
+}
+addEventListener("resize", () => alignByes(document));
+document.fonts?.ready.then(() => alignByes(document));
 function renderFinal8(r) {
   const view = r.view in F8_VIEWS && PROJ(r.g) ? r.view : "current", projected = view !== "current";
   const {val, pick, regions, final8, regionSeed, coin, stateSeeds} = seeding(r.g, r.c, view);
@@ -667,6 +706,7 @@ function renderFinal8(r) {
     <div class="regions f8-regions">${regionCards}</div>
     ${playoffWatch(r.g, r.c)}
   </div>`;
+  alignByes(app);
 }
 
 // ---------- playoff summary (front page) ----------
