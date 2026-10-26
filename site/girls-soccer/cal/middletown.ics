@@ -6,7 +6,7 @@ X-WR-CALNAME:Middletown Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-middletown-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261026T163410Z
+DTSTAMP:20261026T170242Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Girls Soccer: Catonsville at Middletown
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-catoctin-middletown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T163410Z
+DTSTAMP:20261026T170242Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Girls Soccer: Middletown at Catoctin
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-middletown-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261026T163410Z
+DTSTAMP:20261026T170242Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Girls Soccer: Walkersville at Middletown
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-boonsboro-middletown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T163410Z
+DTSTAMP:20261026T170242Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Middletown at Boonsboro
@@ -45,7 +45,7 @@ DESCRIPTION:Final: Middletown 3\, Boonsboro 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-middletown-williamsport-girls-soccer@oldlinerankings
-DTSTAMP:20261026T163410Z
+DTSTAMP:20261026T170242Z
 DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Girls Soccer: Williamsport at Middletown
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-middletown-urbana-girls-soccer@oldlinerankings
-DTSTAMP:20261026T163410Z
+DTSTAMP:20261026T170242Z
 DTSTART;TZID=America/New_York:20261001T170000
 DTEND;TZID=America/New_York:20261001T190000
 SUMMARY:Girls Soccer: Urbana at Middletown
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-smithsburg-middletown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T163410Z
+DTSTAMP:20261026T170242Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Middletown at Smithsburg
@@ -74,7 +74,7 @@ DESCRIPTION:Final: Middletown 3\, Smithsburg 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-clear-spring-middletown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T163410Z
+DTSTAMP:20261026T170242Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Girls Soccer: Middletown at Clear Spring
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-middletown-tuscarora-girls-soccer@oldlinerankings
-DTSTAMP:20261026T163410Z
+DTSTAMP:20261026T170242Z
 DTSTART;TZID=America/New_York:20261012T190000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Girls Soccer: Tuscarora at Middletown
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-brunswick-middletown-girls-soccer@oldlinerankings
-DTSTAMP:20261026T163410Z
+DTSTAMP:20261026T170242Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Middletown at Brunswick
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-middletown-linganore-girls-soccer@oldlinerankings
-DTSTAMP:20261026T163410Z
+DTSTAMP:20261026T170242Z
 DTSTART;TZID=America/New_York:20261020T170000
 DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Girls Soccer: Linganore at Middletown
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-middletown-gov-thomas-johnson-girls-soccer@oldlinerankings
-DTSTAMP:20261026T163410Z
+DTSTAMP:20261026T170242Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Girls Soccer: Gov. Thomas Johnson at Middletown

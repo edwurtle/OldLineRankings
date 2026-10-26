@@ -6,7 +6,7 @@ X-WR-CALNAME:Havre de Grace Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-havre-de-grace-joppatowne-boys-soccer@oldlinerankings
-DTSTAMP:20261026T163336Z
+DTSTAMP:20261026T170218Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Boys Soccer: Joppatowne at Havre de Grace
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-havre-de-grace-c-milton-wright-boys-soccer@oldlinerankings
-DTSTAMP:20261026T163336Z
+DTSTAMP:20261026T170218Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Boys Soccer: C. Milton Wright at Havre de Grace
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-havre-de-grace-edgewood-boys-soccer@oldlinerankings
-DTSTAMP:20261026T163336Z
+DTSTAMP:20261026T170218Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Edgewood at Havre de Grace
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Havre de Grace 4\, Edgewood 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-havre-de-grace-bohemia-manor-boys-soccer@oldlinerankings
-DTSTAMP:20261026T163336Z
+DTSTAMP:20261026T170218Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Boys Soccer: Bohemia Manor at Havre de Grace
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-havre-de-grace-north-harford-boys-soccer@oldlinerankings
-DTSTAMP:20261026T163336Z
+DTSTAMP:20261026T170218Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Boys Soccer: North Harford at Havre de Grace
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-harford-tech-havre-de-grace-boys-soccer@oldlinerankings
-DTSTAMP:20261026T163336Z
+DTSTAMP:20261026T170218Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Havre de Grace at Harford Tech
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-havre-de-grace-patterson-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261026T163336Z
+DTSTAMP:20261026T170218Z
 DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Boys Soccer: Patterson Mill at Havre de Grace
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-havre-de-grace-rising-sun-boys-soccer@oldlinerankings
-DTSTAMP:20261026T163336Z
+DTSTAMP:20261026T170218Z
 DTSTART;TZID=America/New_York:20261005T190000
 DTEND;TZID=America/New_York:20261005T210000
 SUMMARY:Boys Soccer: Rising Sun at Havre de Grace
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-havre-de-grace-elkton-boys-soccer@oldlinerankings
-DTSTAMP:20261026T163336Z
+DTSTAMP:20261026T170218Z
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T210000
 SUMMARY:Boys Soccer: Elkton at Havre de Grace
@@ -95,7 +95,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-havre-de-grace-perryville-boys-soccer@oldlinerankings
-DTSTAMP:20261026T163336Z
+DTSTAMP:20261026T170218Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Perryville at Havre de Grace
@@ -104,7 +104,7 @@ DESCRIPTION:Final: Havre de Grace 2\, Perryville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-havre-de-grace-edgewood-boys-soccer@oldlinerankings
-DTSTAMP:20261026T163336Z
+DTSTAMP:20261026T170218Z
 DTSTART;TZID=America/New_York:20261020T180000
 DTEND;TZID=America/New_York:20261020T200000
 SUMMARY:Boys Soccer: Edgewood at Havre de Grace
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-havre-de-grace-aberdeen-boys-soccer@oldlinerankings
-DTSTAMP:20261026T163336Z
+DTSTAMP:20261026T170218Z
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Boys Soccer: Aberdeen at Havre de Grace
