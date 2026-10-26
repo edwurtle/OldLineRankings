@@ -6,7 +6,7 @@ X-WR-CALNAME:Hereford Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-24-hereford-towson-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20261124T173000
 DTEND;TZID=America/New_York:20261124T193000
 SUMMARY:Girls Basketball: Towson at Hereford
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-hereford-patterson-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20261128T120000
 DTEND;TZID=America/New_York:20261128T140000
 SUMMARY:Girls Basketball: Patterson at Hereford
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-hereford-perry-hall-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20261128T150000
 DTEND;TZID=America/New_York:20261128T170000
 SUMMARY:Girls Basketball: Perry Hall at Hereford
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-hereford-park-school-of-baltimore-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20261207T173000
 DTEND;TZID=America/New_York:20261207T193000
 SUMMARY:Girls Basketball: Park School of Baltimore at Hereford
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-hereford-manchester-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20261209T183000
 DTEND;TZID=America/New_York:20261209T203000
 SUMMARY:Girls Basketball: Manchester Valley at Hereford
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-hereford-owings-mills-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20261211T173000
 DTEND;TZID=America/New_York:20261211T193000
 SUMMARY:Girls Basketball: Owings Mills at Hereford
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-hereford-randallstown-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Girls Basketball: Randallstown at Hereford
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-woodlawn-hereford-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Girls Basketball: Hereford at Woodlawn
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-hereford-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Girls Basketball: Franklin at Hereford
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-hereford-western-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
 SUMMARY:Girls Basketball: Western Tech at Hereford
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-hereford-pikesville-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270115T173000
 DTEND;TZID=America/New_York:20270115T193000
 SUMMARY:Girls Basketball: Pikesville at Hereford
@@ -116,7 +116,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-hereford-catonsville-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270120T173000
 DTEND;TZID=America/New_York:20270120T193000
 SUMMARY:Girls Basketball: Catonsville at Hereford
@@ -126,7 +126,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-randallstown-hereford-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270122T173000
 DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Girls Basketball: Hereford at Randallstown
@@ -136,7 +136,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-fallston-hereford-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270125T190000
 DTEND;TZID=America/New_York:20270125T210000
 SUMMARY:Girls Basketball: Hereford at Fallston
@@ -146,7 +146,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-lansdowne-hereford-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Girls Basketball: Hereford at Lansdowne
@@ -156,7 +156,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-owings-mills-hereford-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270129T173000
 DTEND;TZID=America/New_York:20270129T193000
 SUMMARY:Girls Basketball: Hereford at Owings Mills
@@ -164,7 +164,7 @@ LOCATION:Owings Mills
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-new-town-hereford-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Girls Basketball: Hereford at New Town
@@ -174,7 +174,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-hereford-dulaney-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270205T173000
 DTEND;TZID=America/New_York:20270205T193000
 SUMMARY:Girls Basketball: Dulaney at Hereford
@@ -184,7 +184,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-pikesville-hereford-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270210T173000
 DTEND;TZID=America/New_York:20270210T193000
 SUMMARY:Girls Basketball: Hereford at Pikesville
@@ -192,7 +192,7 @@ LOCATION:Pikesville
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-franklin-hereford-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Girls Basketball: Hereford at Franklin
@@ -202,7 +202,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-hereford-milford-mill-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270217T173000
 DTEND;TZID=America/New_York:20270217T193000
 SUMMARY:Girls Basketball: Milford Mill Academy at Hereford
@@ -212,7 +212,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-hereford-century-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270219T183000
 DTEND;TZID=America/New_York:20270219T203000
 SUMMARY:Girls Basketball: Century at Hereford

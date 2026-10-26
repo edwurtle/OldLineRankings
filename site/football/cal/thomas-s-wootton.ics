@@ -6,7 +6,7 @@ X-WR-CALNAME:Thomas S. Wootton Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-rockville-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Thomas S. Wootton at Rockville
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Thomas S. Wootton 47\, Rockville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-damascus-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Thomas S. Wootton at Damascus
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Thomas S. Wootton 7\, Damascus 42
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-thomas-s-wootton-walt-whitman-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Walt Whitman at Thomas S. Wootton
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Thomas S. Wootton 14\, Walt Whitman 28
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-walter-johnson-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Football: Thomas S. Wootton at Walter Johnson
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Thomas S. Wootton 7\, Walter Johnson 13
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-col-zadok-magruder-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Football: Thomas S. Wootton at Col. Zadok Magruder
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Thomas S. Wootton 20\, Col. Zadok Magruder 21
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-richard-montgomery-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: Thomas S. Wootton at Richard Montgomery
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Thomas S. Wootton 27\, Richard Montgomery 59
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-thomas-s-wootton-sherwood-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Football: Sherwood at Thomas S. Wootton
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Thomas S. Wootton 0\, Sherwood 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-winston-churchill-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Thomas S. Wootton at Winston Churchill
@@ -78,7 +78,7 @@ DESCRIPTION:Final: Thomas S. Wootton 0\, Winston Churchill 41
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-clarksburg-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Thomas S. Wootton at Clarksburg

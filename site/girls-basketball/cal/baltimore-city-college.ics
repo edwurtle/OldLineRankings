@@ -6,7 +6,7 @@ X-WR-CALNAME:Baltimore City College Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-baltimore-city-college-digital-harbor-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20261210T171500
 DTEND;TZID=America/New_York:20261210T191500
 SUMMARY:Girls Basketball: Digital Harbor at Baltimore City College
@@ -14,7 +14,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-baltimore-city-college-paul-laurence-dunbar-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20261217T171500
 DTEND;TZID=America/New_York:20261217T191500
 SUMMARY:Girls Basketball: Paul Laurence Dunbar at Baltimore City College
@@ -22,7 +22,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-baltimore-city-college-river-hill-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20261218T171500
 DTEND;TZID=America/New_York:20261218T191500
 SUMMARY:Girls Basketball: River Hill at Baltimore City College
@@ -30,7 +30,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-benjamin-franklin-baltimore-city-college-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20261222T171500
 DTEND;TZID=America/New_York:20261222T191500
 SUMMARY:Girls Basketball: Baltimore City College at Benjamin Franklin
@@ -38,7 +38,7 @@ LOCATION:Benjamin Franklin
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-baltimore-city-college-western-b-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270107T171500
 DTEND;TZID=America/New_York:20270107T191500
 SUMMARY:Girls Basketball: Western-B at Baltimore City College
@@ -46,7 +46,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-forest-park-baltimore-city-college-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Girls Basketball: Baltimore City College at Forest Park
@@ -54,7 +54,7 @@ LOCATION:Forest Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-baltimore-city-college-carver-vocational-technical-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270114T171500
 DTEND;TZID=America/New_York:20270114T191500
 SUMMARY:Girls Basketball: Carver Vocational-Technical at Baltimore City College
@@ -62,7 +62,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-baltimore-polytechnic-baltimore-city-college-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270119T171500
 DTEND;TZID=America/New_York:20270119T191500
 SUMMARY:Girls Basketball: Baltimore City College at Baltimore Polytechnic
@@ -72,7 +72,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-edmondson-westside-baltimore-city-college-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270126T154500
 DTEND;TZID=America/New_York:20270126T174500
 SUMMARY:Girls Basketball: Baltimore City College at Edmondson-Westside
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-baltimore-city-college-mergenthaler-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270128T171500
 DTEND;TZID=America/New_York:20270128T191500
 SUMMARY:Girls Basketball: Mergenthaler at Baltimore City College
@@ -90,7 +90,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-lake-clifton-baltimore-city-college-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270202T171500
 DTEND;TZID=America/New_York:20270202T191500
 SUMMARY:Girls Basketball: Baltimore City College at Lake Clifton
@@ -100,7 +100,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-western-b-baltimore-city-college-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270204T171500
 DTEND;TZID=America/New_York:20270204T191500
 SUMMARY:Girls Basketball: Baltimore City College at Western-B
@@ -110,7 +110,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-baltimore-city-college-forest-park-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270209T171500
 DTEND;TZID=America/New_York:20270209T191500
 SUMMARY:Girls Basketball: Forest Park at Baltimore City College
@@ -118,7 +118,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-paul-laurence-dunbar-baltimore-city-college-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270211T171500
 DTEND;TZID=America/New_York:20270211T191500
 SUMMARY:Girls Basketball: Baltimore City College at Paul Laurence Dunbar
@@ -126,7 +126,7 @@ LOCATION:Paul Laurence Dunbar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-baltimore-city-college-baltimore-polytechnic-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270216T171500
 DTEND;TZID=America/New_York:20270216T191500
 SUMMARY:Girls Basketball: Baltimore Polytechnic at Baltimore City College
@@ -134,7 +134,7 @@ LOCATION:Baltimore City College
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-green-street-academy-baltimore-city-college-girls-basketball@oldlinerankings
-DTSTAMP:20261026T170411Z
+DTSTAMP:20261026T171412Z
 DTSTART;TZID=America/New_York:20270222T154500
 DTEND;TZID=America/New_York:20270222T174500
 SUMMARY:Girls Basketball: Baltimore City College at Green Street Academy

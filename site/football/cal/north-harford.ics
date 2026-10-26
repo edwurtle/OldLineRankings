@@ -6,7 +6,7 @@ X-WR-CALNAME:North Harford Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-north-harford-joppatowne-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;TZID=America/New_York:20260904T190000
 DTEND;TZID=America/New_York:20260904T210000
 SUMMARY:Football: Joppatowne at North Harford
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-north-harford-fallston-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;TZID=America/New_York:20260911T190000
 DTEND;TZID=America/New_York:20260911T210000
 SUMMARY:Football: Fallston at North Harford
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-north-harford-aberdeen-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;TZID=America/New_York:20260918T190000
 DTEND;TZID=America/New_York:20260918T210000
 SUMMARY:Football: Aberdeen at North Harford
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-north-harford-harford-tech-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
 SUMMARY:Football: Harford Tech at North Harford
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-c-milton-wright-north-harford-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Football: North Harford at C. Milton Wright
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-north-harford-north-east-c-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football: North East-C at North Harford
@@ -65,7 +65,7 @@ DESCRIPTION:Final: North Harford 58\, North East-C 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-north-harford-centennial-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T210000
 SUMMARY:Football: Centennial at North Harford
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-havre-de-grace-north-harford-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:Football: North Harford at Havre de Grace
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-north-harford-edgewood-football@oldlinerankings
-DTSTAMP:20261026T170154Z
+DTSTAMP:20261026T171146Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Edgewood at North Harford

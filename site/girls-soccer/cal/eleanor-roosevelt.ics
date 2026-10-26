@@ -6,7 +6,7 @@ X-WR-CALNAME:Eleanor Roosevelt Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-eleanor-roosevelt-seton-girls-soccer@oldlinerankings
-DTSTAMP:20261026T170242Z
+DTSTAMP:20261026T171241Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Seton at Eleanor Roosevelt
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Eleanor Roosevelt 0\, Seton 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-eleanor-roosevelt-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261026T170242Z
+DTSTAMP:20261026T171241Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Bowie at Eleanor Roosevelt
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Eleanor Roosevelt 3\, Bowie 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-northwestern-eleanor-roosevelt-girls-soccer@oldlinerankings
-DTSTAMP:20261026T170242Z
+DTSTAMP:20261026T171241Z
 DTSTART;TZID=America/New_York:20260917T173000
 DTEND;TZID=America/New_York:20260917T193000
 SUMMARY:Girls Soccer: Eleanor Roosevelt at Northwestern
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-guilford-park-eleanor-roosevelt-girls-soccer@oldlinerankings
-DTSTAMP:20261026T170242Z
+DTSTAMP:20261026T171241Z
 DTSTART;TZID=America/New_York:20260919T150000
 DTEND;TZID=America/New_York:20260919T170000
 SUMMARY:Girls Soccer: Eleanor Roosevelt at Guilford Park
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-eleanor-roosevelt-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261026T170242Z
+DTSTAMP:20261026T171241Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Eleanor Roosevelt
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-eleanor-roosevelt-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261026T170242Z
+DTSTAMP:20261026T171241Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Parkdale at Eleanor Roosevelt
@@ -63,7 +63,7 @@ DESCRIPTION:Final: Eleanor Roosevelt 8\, Parkdale 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-eleanor-roosevelt-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261026T170242Z
+DTSTAMP:20261026T171241Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
 SUMMARY:Girls Soccer: Bladensburg at Eleanor Roosevelt
@@ -73,7 +73,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-eleanor-roosevelt-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261026T170242Z
+DTSTAMP:20261026T171241Z
 DTSTART;TZID=America/New_York:20261005T163000
 DTEND;TZID=America/New_York:20261005T183000
 SUMMARY:Girls Soccer: Suitland at Eleanor Roosevelt
@@ -83,7 +83,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-eleanor-roosevelt-charles-h-flowers-girls-soccer@oldlinerankings
-DTSTAMP:20261026T170242Z
+DTSTAMP:20261026T171241Z
 DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T190000
 SUMMARY:Girls Soccer: Charles H. Flowers at Eleanor Roosevelt
@@ -93,7 +93,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-eleanor-roosevelt-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261026T170242Z
+DTSTAMP:20261026T171241Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Duval at Eleanor Roosevelt
@@ -102,7 +102,7 @@ DESCRIPTION:Final: Eleanor Roosevelt -\, Duval -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-high-point-eleanor-roosevelt-girls-soccer@oldlinerankings
-DTSTAMP:20261026T170242Z
+DTSTAMP:20261026T171241Z
 DTSTART;TZID=America/New_York:20261015T153000
 DTEND;TZID=America/New_York:20261015T173000
 SUMMARY:Girls Soccer: Eleanor Roosevelt at High Point
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-laurel-eleanor-roosevelt-girls-soccer@oldlinerankings
-DTSTAMP:20261026T170242Z
+DTSTAMP:20261026T171241Z
 DTSTART;TZID=America/New_York:20261019T153000
 DTEND;TZID=America/New_York:20261019T173000
 SUMMARY:Girls Soccer: Eleanor Roosevelt at Laurel
@@ -122,7 +122,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-eleanor-roosevelt-md-bullis-girls-soccer@oldlinerankings
-DTSTAMP:20261026T170242Z
+DTSTAMP:20261026T171241Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: MD - Bullis at Eleanor Roosevelt

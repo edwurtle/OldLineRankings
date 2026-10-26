@@ -6,7 +6,7 @@ X-WR-CALNAME:Snow Hill Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-snow-hill-parkside-boys-soccer@oldlinerankings
-DTSTAMP:20261026T170218Z
+DTSTAMP:20261026T171214Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Boys Soccer: Parkside at Snow Hill
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Snow Hill 0\, Parkside 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-north-dorchester-snow-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261026T170218Z
+DTSTAMP:20261026T171214Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Boys Soccer: Snow Hill at North Dorchester
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Snow Hill 2\, North Dorchester 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-washington-snow-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261026T170218Z
+DTSTAMP:20261026T171214Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Snow Hill at Washington
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Snow Hill 7\, Washington 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-cambridge-south-dorchester-snow-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261026T170218Z
+DTSTAMP:20261026T171214Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Boys Soccer: Snow Hill at Cambridge-South Dorchester
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Snow Hill 8\, Cambridge-South Dorchester 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-snow-hill-stephen-decatur-boys-soccer@oldlinerankings
-DTSTAMP:20261026T170218Z
+DTSTAMP:20261026T171214Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Boys Soccer: Stephen Decatur at Snow Hill
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Snow Hill 0\, Stephen Decatur 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-snow-hill-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261026T170218Z
+DTSTAMP:20261026T171214Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Boys Soccer: James M. Bennett at Snow Hill
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Snow Hill 1\, James M. Bennett 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-st-michael-s-snow-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261026T170218Z
+DTSTAMP:20261026T171214Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Snow Hill at St. Michael's
@@ -69,7 +69,7 @@ DESCRIPTION:Final: Snow Hill 1\, St. Michael's 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-snow-hill-wicomico-boys-soccer@oldlinerankings
-DTSTAMP:20261026T170218Z
+DTSTAMP:20261026T171214Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Wicomico at Snow Hill
@@ -78,7 +78,7 @@ DESCRIPTION:Final: Snow Hill 1\, Wicomico 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-kent-county-snow-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261026T170218Z
+DTSTAMP:20261026T171214Z
 DTSTART;TZID=America/New_York:20261007T173000
 DTEND;TZID=America/New_York:20261007T193000
 SUMMARY:Boys Soccer: Snow Hill at Kent County
@@ -88,7 +88,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-crisfield-snow-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261026T170218Z
+DTSTAMP:20261026T171214Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Snow Hill at Crisfield
@@ -97,7 +97,7 @@ DESCRIPTION:Final: Snow Hill 3\, Crisfield 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-mardela-snow-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261026T170218Z
+DTSTAMP:20261026T171214Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Boys Soccer: Snow Hill at Mardela
@@ -106,7 +106,7 @@ DESCRIPTION:Final: Snow Hill 1\, Mardela 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-snow-hill-pocomoke-boys-soccer@oldlinerankings
-DTSTAMP:20261026T170218Z
+DTSTAMP:20261026T171214Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Pocomoke at Snow Hill
