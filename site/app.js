@@ -607,6 +607,7 @@ function bracketHTML(rounds, names, endName, slot, opts = {}) {
   const match = (m, i, j) => {
     const decided = isTeam(m.a) && isTeam(m.b) && m.w;
     const cls = x => decided ? (m.w === x ? "win" : "lose") : "";
+    // The game's stream and ticket links (opts.links): a footer row inside its box
     return `<div class="match" data-at="${i}-${j}"${fed(m, i, j)}>${slot(m.a, m.p, cls(m.a))}${slot(m.b, m.p == null ? null : 1 - m.p, cls(m.b))}${opts.links ? opts.links(m) : ""}</div>`;
   };
   const cols = rounds.map((games, i) => {
@@ -621,8 +622,8 @@ function bracketHTML(rounds, names, endName, slot, opts = {}) {
 }
 // Bracket lines, measured from the rendered games so they meet each game exactly: a game's line attaches at the
 // divider between its two rows (the middle of the row it fills when the game is fed by only one earlier game).
-// Two feeders join with a ] into the next game; a lone feeder (its pair partner was a bye) is first moved level
-// with the row it feeds so its line runs straight. Rerun on resize and once web fonts load, since row heights can change.
+// Two feeders join with a ] into the next game; a lone feeder (its pair partner was a bye) runs into the row it
+// fills, stepping up or down at mid-gap with rounded corners. Rerun on resize and once web fonts load, since row heights can change.
 function drawBrackets(root) {
   const R = 8;
   for (const br of root.querySelectorAll(".bracket")) {
@@ -634,20 +635,17 @@ function drawBrackets(root) {
     const rows = el => [...el.children].filter(c => c.classList.contains("slot"));
     const divider = el => { const rs = rows(el), b = el.getBoundingClientRect(); return rs.length > 1 ? rs[1].getBoundingClientRect().top + .5 : b.top + b.height / 2; };
     const fedMid = el => { const t = rows(el)[+el.dataset.fed]; if (!t) return divider(el); const b = t.getBoundingClientRect(); return b.top + b.height / 2; };
-    // Single links first, so their lines run straight: a lone feeder moves level with the row it feeds, and
-    // the end column's box (champion, "to Final 8") moves level with its game's divider
+    // The end column's box (champion, "to Final 8") moves level with its game's divider, so that line runs straight
     let low = 0;
     for (const g of games) {
       const f = feeders(g);
-      if (f.length !== 1) continue;
-      const end = !!g.el.closest(".end"), el = end ? g.el : f[0];
-      el.style.transform = "";
-      const dy = Math.round(end ? divider(f[0]) - divider(g.el) : fedMid(g.el) - divider(f[0]));
-      el.style.transform = `translateY(${dy}px)`;
-      low = Math.max(low, el.getBoundingClientRect().bottom);
+      if (f.length !== 1 || !g.el.closest(".end")) continue;
+      g.el.style.transform = "";
+      g.el.style.transform = `translateY(${Math.round(divider(f[0]) - divider(g.el))}px)`;
+      low = Math.max(low, g.el.getBoundingClientRect().bottom);
     }
     const box = br.getBoundingClientRect(), pad = parseFloat(getComputedStyle(br).paddingBottom);
-    if (low > box.bottom - pad) br.style.paddingBottom = `${Math.ceil(pad + low - (box.bottom - pad))}px`;
+    if (low && low > box.bottom - pad) br.style.paddingBottom = `${Math.ceil(pad + low - (box.bottom - pad))}px`;
     // Then the lines, in the bracket's own coordinates
     const o = br.getBoundingClientRect(), X = x => Math.round(x - o.left + br.scrollLeft), Y = y => Math.round(y - o.top + br.scrollTop);
     const paths = [];
@@ -658,7 +656,11 @@ function drawBrackets(root) {
       if (f.length === 2) {
         const [y0, y1] = f.map(e => Y(divider(e))), yt = Y(divider(g.el)), r = Math.min(R, (y1 - y0) / 2);
         paths.push(`M${xa} ${y0}H${xm - r}Q${xm} ${y0} ${xm} ${y0 + r}V${y1 - r}Q${xm} ${y1} ${xm - r} ${y1}H${xa}`, `M${xm} ${yt}H${xb}`);
-      } else paths.push(`M${xa} ${Y(divider(f[0]))}H${xb}`);   // already level (above)
+      } else {
+        const y0 = Y(divider(f[0])), yt = g.el.closest(".end") ? y0 : Y(fedMid(g.el)), r = Math.min(R, Math.abs(yt - y0) / 2), d = Math.sign(yt - y0);
+        paths.push(Math.abs(yt - y0) < 2 ? `M${xa} ${y0}H${xb}`
+          : `M${xa} ${y0}H${xm - r}Q${xm} ${y0} ${xm} ${y0 + d * r}V${yt - d * r}Q${xm} ${yt} ${xm + r} ${yt}H${xb}`);
+      }
     }
     br.insertAdjacentHTML("afterbegin", `<svg class="blines" width="${br.scrollWidth}" height="${br.scrollHeight}" aria-hidden="true"><path d="${paths.join("")}"/></svg>`);
   }
@@ -686,7 +688,7 @@ function renderFinal8(r) {
     // Projected: a link under both lines opens the games behind the projection
     const left = t.upcoming.filter(seedable).length;
     return lines + (left ? `<button class="proj-link" data-proj="${esc(t.school)}" title="How this was projected">${left} game${left === 1 ? "" : "s"} projected ›</button>`
-      : `<span class="d-done">Season complete</span>`);
+      : bracketSet(r.g) ? "" : `<span class="d-done">Season complete</span>`);   // playoffs: every season is over
   };
   // Region (mini) brackets get a short detail line: record and seeding number
   const slotFor = (seedOf, mini) => (x, p, cls) => {
@@ -717,7 +719,9 @@ function renderFinal8(r) {
     : playBracket(Array.from({length: 8}, (_, i) => stateSeeds[i] || {label: `No. ${i + 1} seed`}), 3, stateSeeds.length ? pick : null);
   const bracket = bracketHTML(stateRounds, ["State quarterfinals", "Semifinals", "Final"], "Champion", slotFor(stateSeed),
     {endCls: "champ", pct: projected && OLR, links, endExtra: w => isTeam(w) && w.odds && view === "projected" ? `<div class="champ-odds">Title odds ${pct(w.odds.champ)}</div>` : ""});
-  const regionHow = PL.per_region === 1
+  const regionHow = regions.some(x => x.official)
+    ? `MPSSAA's official seeds. Each region plays down to one champion; top seeds get byes in regions with fewer than 8 teams.`
+    : PL.per_region === 1
     ? `Every team is seeded in its region by ${SEED.name}, and each region plays down to one champion (in a 6-team region the top 2 seeds get byes).`
     : `Each region's top ${PL.region_seeds} by ${SEED.name} play two rounds (1v8, 4v5, 2v7, 3v6); the two survivors reach the Final 8.`;
   app.innerHTML = `
