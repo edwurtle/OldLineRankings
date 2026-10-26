@@ -6,7 +6,7 @@ X-WR-CALNAME:Green Street Academy Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-green-street-academy-clear-spring-football@oldlinerankings
-DTSTAMP:20261026T174904Z
+DTSTAMP:20261026T183609Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Clear Spring at Green Street Academy
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Green Street Academy 14\, Clear Spring 16
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-green-street-academy-reginald-lewis-football@oldlinerankings
-DTSTAMP:20261026T174904Z
+DTSTAMP:20261026T183609Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: Reginald Lewis at Green Street Academy
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Green Street Academy 64\, Reginald Lewis 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-frederick-douglass-b-green-street-academy-football@oldlinerankings
-DTSTAMP:20261026T174904Z
+DTSTAMP:20261026T183609Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Green Street Academy at Frederick Douglass-B
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Green Street Academy 6\, Frederick Douglass-B 20
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-green-street-academy-carver-vocational-technical-football@oldlinerankings
-DTSTAMP:20261026T174904Z
+DTSTAMP:20261026T183609Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Football: Carver Vocational-Technical at Green Street Academy
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Green Street Academy 12\, Carver Vocational-Technical 29
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-green-street-academy-edmondson-westside-football@oldlinerankings
-DTSTAMP:20261026T174904Z
+DTSTAMP:20261026T183609Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Football: Edmondson-Westside at Green Street Academy
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Green Street Academy 12\, Edmondson-Westside 50
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-green-street-academy-baltimore-city-college-football@oldlinerankings
-DTSTAMP:20261026T174904Z
+DTSTAMP:20261026T183609Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football: Baltimore City College at Green Street Academy
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Green Street Academy 0\, Baltimore City College 59
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-green-street-academy-lake-clifton-football@oldlinerankings
-DTSTAMP:20261026T174904Z
+DTSTAMP:20261026T183609Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Football: Lake Clifton at Green Street Academy

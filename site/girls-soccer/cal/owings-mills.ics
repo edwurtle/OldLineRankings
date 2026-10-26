@@ -6,7 +6,7 @@ X-WR-CALNAME:Owings Mills Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-owings-mills-patapsco-girls-soccer@oldlinerankings
-DTSTAMP:20261026T175002Z
+DTSTAMP:20261026T183703Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Patapsco at Owings Mills
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Owings Mills 0\, Patapsco 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-owings-mills-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261026T175002Z
+DTSTAMP:20261026T183703Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Milford Mill Academy at Owings Mills
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Owings Mills 2\, Milford Mill Academy 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-loch-raven-owings-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261026T175002Z
+DTSTAMP:20261026T183703Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Owings Mills at Loch Raven
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Owings Mills 0\, Loch Raven 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-owings-mills-woodlawn-girls-soccer@oldlinerankings
-DTSTAMP:20261026T175002Z
+DTSTAMP:20261026T183703Z
 DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Girls Soccer: Woodlawn at Owings Mills
@@ -43,7 +43,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-western-tech-owings-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261026T175002Z
+DTSTAMP:20261026T183703Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Owings Mills at Western Tech
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Owings Mills 0\, Western Tech 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-owings-mills-chesapeake-b-girls-soccer@oldlinerankings
-DTSTAMP:20261026T175002Z
+DTSTAMP:20261026T183703Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Chesapeake-B at Owings Mills
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Owings Mills 1\, Chesapeake-B 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-owings-mills-lansdowne-girls-soccer@oldlinerankings
-DTSTAMP:20261026T175002Z
+DTSTAMP:20261026T183703Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Lansdowne at Owings Mills
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Owings Mills 0\, Lansdowne 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-pikesville-owings-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261026T175002Z
+DTSTAMP:20261026T183703Z
 DTSTART;TZID=America/New_York:20261020T160000
 DTEND;TZID=America/New_York:20261020T180000
 SUMMARY:Girls Soccer: Owings Mills at Pikesville
@@ -80,7 +80,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-pikesville-owings-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261026T175002Z
+DTSTAMP:20261026T183703Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: Owings Mills at Pikesville

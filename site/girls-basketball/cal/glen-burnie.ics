@@ -6,7 +6,7 @@ X-WR-CALNAME:Glen Burnie Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-south-river-glen-burnie-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20261204T170000
 DTEND;TZID=America/New_York:20261204T190000
 SUMMARY:Girls Basketball: Glen Burnie at South River
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-glen-burnie-overlea-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20261209T180000
 DTEND;TZID=America/New_York:20261209T200000
 SUMMARY:Girls Basketball: Overlea at Glen Burnie
@@ -24,7 +24,7 @@ LOCATION:Glen Burnie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-glen-burnie-north-county-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20261211T170000
 DTEND;TZID=America/New_York:20261211T190000
 SUMMARY:Girls Basketball: North County at Glen Burnie
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-chesapeake-b-glen-burnie-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20261214T173000
 DTEND;TZID=America/New_York:20261214T193000
 SUMMARY:Girls Basketball: Glen Burnie at Chesapeake-B
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-northeast-aa-glen-burnie-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20261218T170000
 DTEND;TZID=America/New_York:20261218T190000
 SUMMARY:Girls Basketball: Glen Burnie at Northeast-AA
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-severna-park-glen-burnie-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20270105T180000
 DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:Girls Basketball: Glen Burnie at Severna Park
@@ -62,7 +62,7 @@ LOCATION:Severna Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-glen-burnie-southern-aa-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20270108T170000
 DTEND;TZID=America/New_York:20270108T190000
 SUMMARY:Girls Basketball: Southern-AA at Glen Burnie
@@ -70,7 +70,7 @@ LOCATION:Glen Burnie
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-glen-burnie-arundel-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20270112T180000
 DTEND;TZID=America/New_York:20270112T200000
 SUMMARY:Girls Basketball: Arundel at Glen Burnie
@@ -78,7 +78,7 @@ LOCATION:Glen Burnie
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-glen-burnie-crofton-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20270115T170000
 DTEND;TZID=America/New_York:20270115T190000
 SUMMARY:Girls Basketball: Crofton at Glen Burnie
@@ -88,7 +88,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-severn-run-glen-burnie-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20270119T180000
 DTEND;TZID=America/New_York:20270119T200000
 SUMMARY:Girls Basketball: Glen Burnie at Severn Run
@@ -96,7 +96,7 @@ LOCATION:Severn Run
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-old-mill-glen-burnie-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20270122T170000
 DTEND;TZID=America/New_York:20270122T190000
 SUMMARY:Girls Basketball: Glen Burnie at Old Mill
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-annapolis-glen-burnie-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20270126T180000
 DTEND;TZID=America/New_York:20270126T200000
 SUMMARY:Girls Basketball: Glen Burnie at Annapolis
@@ -114,7 +114,7 @@ LOCATION:Annapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-glen-burnie-broadneck-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20270129T170000
 DTEND;TZID=America/New_York:20270129T190000
 SUMMARY:Girls Basketball: Broadneck at Glen Burnie
@@ -124,7 +124,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-glen-burnie-meade-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20270202T180000
 DTEND;TZID=America/New_York:20270202T200000
 SUMMARY:Girls Basketball: Meade at Glen Burnie
@@ -134,7 +134,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-glen-burnie-south-river-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20270205T170000
 DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Girls Basketball: South River at Glen Burnie
@@ -144,7 +144,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-chesapeake-aa-glen-burnie-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20270210T180000
 DTEND;TZID=America/New_York:20270210T200000
 SUMMARY:Girls Basketball: Glen Burnie at Chesapeake-AA
@@ -152,7 +152,7 @@ LOCATION:Chesapeake-AA
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-digital-harbor-glen-burnie-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20270211T171500
 DTEND;TZID=America/New_York:20270211T191500
 SUMMARY:Girls Basketball: Glen Burnie at Digital Harbor
@@ -160,7 +160,7 @@ LOCATION:Digital Harbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-glen-burnie-north-county-girls-basketball@oldlinerankings
-DTSTAMP:20261026T175119Z
+DTSTAMP:20261026T183816Z
 DTSTART;TZID=America/New_York:20270216T180000
 DTEND;TZID=America/New_York:20270216T200000
 SUMMARY:Girls Basketball: North County at Glen Burnie

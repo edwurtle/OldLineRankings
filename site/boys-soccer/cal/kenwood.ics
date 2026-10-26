@@ -6,7 +6,7 @@ X-WR-CALNAME:Kenwood Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-franklin-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261026T174934Z
+DTSTAMP:20261026T183637Z
 DTSTART;TZID=America/New_York:20260908T160000
 DTEND;TZID=America/New_York:20260908T180000
 SUMMARY:Boys Soccer: Kenwood at Franklin
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-western-tech-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261026T174934Z
+DTSTAMP:20261026T183637Z
 DTSTART;TZID=America/New_York:20260909T160000
 DTEND;TZID=America/New_York:20260909T180000
 SUMMARY:Boys Soccer: Kenwood at Western Tech
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-pikesville-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261026T174934Z
+DTSTAMP:20261026T183637Z
 DTSTART;TZID=America/New_York:20260915T173000
 DTEND;TZID=America/New_York:20260915T193000
 SUMMARY:Boys Soccer: Kenwood at Pikesville
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-randallstown-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261026T174934Z
+DTSTAMP:20261026T183637Z
 DTSTART;TZID=America/New_York:20260917T180000
 DTEND;TZID=America/New_York:20260917T200000
 SUMMARY:Boys Soccer: Kenwood at Randallstown
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-eastern-tech-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261026T174934Z
+DTSTAMP:20261026T183637Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Kenwood at Eastern Tech
@@ -55,7 +55,7 @@ DESCRIPTION:Final: Kenwood 0\, Eastern Tech 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-carver-aandt-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261026T174934Z
+DTSTAMP:20261026T183637Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Kenwood at Carver A&T
@@ -64,7 +64,7 @@ DESCRIPTION:Final: Kenwood 1\, Carver A&T 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-chesapeake-b-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261026T174934Z
+DTSTAMP:20261026T183637Z
 DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
 SUMMARY:Boys Soccer: Kenwood at Chesapeake-B
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-kenwood-woodlawn-boys-soccer@oldlinerankings
-DTSTAMP:20261026T174934Z
+DTSTAMP:20261026T183637Z
 DTSTART;TZID=America/New_York:20261001T180000
 DTEND;TZID=America/New_York:20261001T200000
 SUMMARY:Boys Soccer: Woodlawn at Kenwood
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-new-town-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261026T174934Z
+DTSTAMP:20261026T183637Z
 DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Boys Soccer: Kenwood at New Town
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-patapsco-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261026T174934Z
+DTSTAMP:20261026T183637Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Kenwood at Patapsco
@@ -103,7 +103,7 @@ DESCRIPTION:Final: Kenwood 6\, Patapsco 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-kenwood-parkville-boys-soccer@oldlinerankings
-DTSTAMP:20261026T174934Z
+DTSTAMP:20261026T183637Z
 DTSTART;TZID=America/New_York:20261015T160000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Boys Soccer: Parkville at Kenwood
@@ -113,7 +113,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-overlea-kenwood-boys-soccer@oldlinerankings
-DTSTAMP:20261026T174934Z
+DTSTAMP:20261026T183637Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Kenwood at Overlea
