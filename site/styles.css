@@ -140,7 +140,68 @@ button, select, input { font: inherit; color: inherit; }
 .hl-foot { display: block; padding: 12px 16px; border-top: 1px solid var(--border); font-weight: 700; font-size: 13px; color: var(--accent-ink); }
 .hl-foot:hover { background: var(--surface-2); }
 
+/* Front page playoffs: class tiles, games to watch, find your team */
 .rec-note { font-size: 13px; margin: 0 0 10px; line-height: 1.45; }
+.po-preview { margin-left: 8px; padding: 2px 8px; border-radius: 999px; background: var(--accent-soft); color: var(--accent-ink); letter-spacing: .04em; text-transform: none; font-weight: 600; }
+.po-find { display: flex; flex-direction: column; gap: 4px; min-width: min(320px, 100%); }
+.po-find label { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); }
+.po-find input { height: 44px; padding: 0 14px; border: 1px solid var(--border); border-radius: 12px; background: var(--surface); box-shadow: var(--shadow); }
+.po-team { display: flex; align-items: center; gap: 14px; background: var(--surface); border: 1px solid var(--border); border-left: 6px solid var(--md-gold); border-radius: 14px; box-shadow: var(--shadow); padding: 14px 16px; margin-bottom: 16px; }
+.po-team > div { flex: 1; min-width: 0; }
+.po-team b { font-size: 17px; }
+.po-team small { display: block; color: var(--muted); font-size: 13px; }
+.po-team p { margin: 6px 0 0; font-size: 14px; }
+.po-st { font-size: 11px !important; text-transform: uppercase; letter-spacing: .08em; padding: 2px 8px; border-radius: 6px; margin-right: 6px; }
+.po-st.alive { background: var(--md-gold); color: var(--win-ink); }
+.po-st.win { background: var(--md-black); color: var(--md-gold); }
+.po-st.out { background: var(--md-red); color: #fff; }
+.po-open { border: 1px solid var(--border); background: var(--surface-2); border-radius: 10px; padding: 8px 12px; font-weight: 700; font-size: 13px; cursor: pointer; white-space: nowrap; }
+.po-tiles { display: grid; grid-template-columns: repeat(var(--n, 4), 1fr); gap: 16px; }
+@media (max-width: 1020px) { .po-tiles { grid-template-columns: repeat(2, 1fr); } }
+/* Phones: tiles two across with the favorite stacked, search full width */
+@media (max-width: 560px) {
+  .po-tiles { gap: 10px; }
+  .po-tile { text-align: center; }
+  .po-top { flex-direction: column; align-items: center; padding: 10px; }
+  .po-round { text-align: center; }
+  .po-alive { padding: 10px 10px 2px; }
+  .po-fav { flex-direction: column; align-items: center; gap: 6px; padding: 10px; }
+  .po-fav > div { align-items: center; }
+  .po-fav b { font-size: 18px; white-space: normal; }
+  .po-foot { padding: 8px 10px; }
+  .po-find { width: 100%; }
+  .po-team { flex-wrap: wrap; align-items: flex-start; }
+  .po-team > div { flex-basis: calc(100% - 58px); }
+  .po-team .po-open { margin-left: 58px; }
+}
+.po-tile { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; box-shadow: var(--shadow); overflow: hidden; display: flex; flex-direction: column; transition: transform .12s; }
+.po-tile:hover { transform: translateY(-1px); }
+.po-top { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 12px 14px; background: var(--md-black); color: var(--ink); }
+.po-top .hl-cls { white-space: nowrap; background: rgba(255,255,255,.08); }
+.po-round { font-size: 12px; font-weight: 700; color: var(--md-gold); text-align: right; line-height: 1.3; }
+.po-alive { padding: 14px 14px 4px; font-size: 13px; color: var(--muted); }
+.po-alive b { font-size: 22px; color: var(--text); margin-right: 2px; }
+.po-bar { height: 6px; border-radius: 3px; background: var(--surface-2); border: 1px solid var(--border); margin-top: 8px; overflow: hidden; }
+.po-bar i { display: block; height: 100%; background: var(--md-gold); }
+.po-fav { display: flex; align-items: center; gap: 12px; padding: 12px 14px; flex: 1; }
+.po-fav > div { min-width: 0; display: flex; flex-direction: column; }
+.po-fav small { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); }
+.po-fav b { font-family: "Barlow Condensed", sans-serif; font-size: 22px; font-weight: 800; text-transform: uppercase; line-height: 1.1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.po-fav span { font-size: 12px; color: var(--muted); }
+.po-foot { padding: 10px 14px; border-top: 1px solid var(--border); font-weight: 700; font-size: 13px; color: var(--accent-ink); }
+.po-watch { padding-top: 4px; }
+.po-games { margin-bottom: 36px; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+.po-game { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; box-shadow: var(--shadow); padding: 12px 14px; display: flex; flex-direction: column; gap: 6px; }
+.po-meta { display: flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 600; color: var(--muted); margin-bottom: 2px; }
+.po-meta .tag { font-size: 11px; padding: 1px 8px; }
+.po-side { display: grid; grid-template-columns: 18px 30px 1fr auto; gap: 10px; align-items: center; cursor: pointer; }
+.po-side .seed { font-size: 12px; font-weight: 700; color: var(--faint); text-align: center; }
+.po-side .nm { font-weight: 700; font-size: 14px; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.po-side .nm small { color: var(--muted); font-weight: 500; font-size: 12px; margin-left: 6px; }
+.po-side .wp { font-weight: 600; font-size: 13px; }
+.po-odds { height: 4px; border-radius: 2px; background: var(--md-red); overflow: hidden; margin-left: 28px; }
+.po-odds i { display: block; height: 100%; background: var(--md-gold); }
+.po-when { font-size: 12px; color: var(--muted); border-top: 1px solid var(--border); padding-top: 8px; margin-top: 2px; display: flex; align-items: center; justify-content: space-between; gap: 8px; min-height: 36px; }
 .unbeaten { display: flex; flex-wrap: wrap; gap: 10px; }
 .ub { display: flex; align-items: center; gap: 10px; background: var(--surface); border: 1px solid var(--border); border-radius: 999px; padding: 6px 14px 6px 6px; cursor: pointer; box-shadow: var(--shadow); transition: transform .12s; }
 .ub:hover { transform: translateY(-1px); }

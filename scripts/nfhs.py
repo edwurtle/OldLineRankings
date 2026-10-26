@@ -89,7 +89,18 @@ def add_watch_links(sports, divisions, sport, alt_names, cities):
             teams = {t["key"] for t in e.get("teams") or []}
             for k in teams:
                 idx[(k, e.get("gender"), day)].append((teams - {k}, e["site_url"], time))
-    linked = 0
+    def find(k, opp, gender, date):
+        """(url, time) of the event for school key k on date (±1 day) against opponent key opp, or None."""
+        day = datetime.date.fromisoformat(date)
+        for d in (day, day - datetime.timedelta(1), day + datetime.timedelta(1)):
+            # NFHS labels some games "Coed" (common for football) or leaves gender blank
+            entries = idx[(k, gender, d)] + idx[(k, "Coed", d)] + idx[(k, None, d)]
+            hit = next(((url, time) for others, url, time in entries if not opp or opp in others), None)
+            if hit:
+                return hit
+        return None
+
+    linked = bracket_linked = 0
     for div, s in sports.items():
         gender = divisions[div]["gender"]
         for t in s["teams"]:
@@ -97,15 +108,18 @@ def add_watch_links(sports, divisions, sport, alt_names, cities):
             if not k:
                 continue
             for g in t["games"] + t["upcoming"]:
-                day, opp = datetime.date.fromisoformat(g["date"]), keys.get(g["opp"])
-                for d in (day, day - datetime.timedelta(1), day + datetime.timedelta(1)):
-                    # NFHS labels some games "Coed" (common for football) or leaves gender blank
-                    entries = idx[(k, gender, d)] + idx[(k, "Coed", d)] + idx[(k, None, d)]
-                    hit = next(((url, time) for others, url, time in entries if not opp or opp in others), None)
-                    if hit:
-                        g["watch"] = affiliate(hit[0])
-                        if hit[1] and "time" not in g:  # MPSSAA has no start times; NFHS does
-                            g["time"] = hit[1]
-                        linked += 1
-                        break
-    print(f"  NFHS: {len(keys)}/{len(names)} schools matched, {linked} team-games with watch links")
+                hit = find(k, keys.get(g["opp"]), gender, g["date"])
+                if hit:
+                    g["watch"] = affiliate(hit[0])
+                    if hit[1] and "time" not in g:  # MPSSAA has no start times; NFHS does
+                        g["time"] = hit[1]
+                    linked += 1
+        # The official bracket's games (scripts/brackets.py), once both teams are known and the game has a date
+        for g in (s.get("bracket") or {}).get("games", []):
+            a, b = (keys.get(x["name"]) for x in g["teams"])
+            hit = g["date"] and (a or b) and find(a or b, b if a else a, gender, g["date"])
+            if hit:
+                g["watch"] = affiliate(hit[0])
+                bracket_linked += 1
+    print(f"  NFHS: {len(keys)}/{len(names)} schools matched, {linked} team-games with watch links"
+          + (f", {bracket_linked} bracket games" if bracket_linked else ""))

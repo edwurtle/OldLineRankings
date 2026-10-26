@@ -91,13 +91,15 @@ def mpssaa_points(results, member, class_pts):
     return pts, gp
 
 
-def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, seed=1):
+def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, seed=1, official=None):
     """Play out the rest of the regular season and the playoffs n times. Regular-season and playoff
     games are decided by OLR win probability (simulated regular-season games never tie); seeding follows
     playoffs["seed_by"]: MPSSAA points (football) or winning percentage with a min_games divisor (soccer),
     ties broken by rating. Regions play down to playoffs["per_region"] teams. Sets t["odds"], the
     percentage chance to reach each stage: f8 = Final 8 (state quarterfinal), sf = state semifinal,
-    fin = state final, champ = state champion. (Every team makes its region playoffs.)"""
+    fin = state final, champ = state champion. (Every team makes its region playoffs.)
+    official: MPSSAA's posted bracket (scripts/brackets.py), if any. Its region seeds replace the simulated seeding
+    and its finished games keep their real winners."""
     rng = random.Random(seed)
     member = {t["school"]: t for t in teams}
     rating = ratings.__getitem__
@@ -112,15 +114,27 @@ def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, se
             if x["status"] != "postponed" and x["date"] <= playoffs["last_date"] and (not x["member"] or t["school"] < x["opp"]):
                 remaining.append((t["school"], x["opp"], x["home"]))
     tally = {s: collections.Counter() for s in member}
+    fixed_seeds, decided = {}, {}  # (class, region) -> seeds best-first (None = bye); {a, b} -> real winner
+    for g in (official or {}).get("games", []):
+        names = [t["name"] for t in g["teams"]]
+        if g["level"] != "State" and g["round"] == "Region QF":
+            seeds = fixed_seeds.setdefault((g["c"], g["level"]), [None] * playoffs["region_seeds"])
+            for t in g["teams"]:
+                if t["seed"] and t["name"] in member:
+                    seeds[t["seed"] - 1] = t["name"]
+        if g["completed"] and g["winner"] is not None and all(x in member for x in names):
+            decided[frozenset(names)] = names[g["winner"]]
 
     def play(a, b):  # a is the higher seed and hosts
+        if (w := decided.get(frozenset((a, b)))):
+            return w
         return a if rng.random() < win_prob(rating(a), rating(b), 1, home, cfg["k"]) else b
 
     def bracket(seeds, rounds):
         """seeds: list best-first. Standard 1v8, 4v5, 2v7, 3v6 bracket; a missing seed is a bye.
         Returns the survivors after each round."""
         slots = [seeds[i - 1] if i <= len(seeds) else None for i in (1, 8, 4, 5, 2, 7, 3, 6)]
-        rank = {s: i for i, s in enumerate(seeds)}
+        rank = {s: i for i, s in enumerate(seeds) if s}
         survivors = []
         for _ in range(rounds):
             nxt = []
@@ -153,7 +167,7 @@ def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, se
         for c in class_pts:
             final8 = []
             for reg in regions:
-                seeds = sorted((s for s, t in member.items() if t["cls"] == c and t["region"] == reg), key=order)
+                seeds = fixed_seeds.get((c, reg)) or sorted((s for s, t in member.items() if t["cls"] == c and t["region"] == reg), key=order)
                 rounds = {1: 3, 2: 2}[playoffs["per_region"]]  # 8-line bracket down to 1 or 2 teams
                 final8 += bracket(seeds[:playoffs["region_seeds"]], rounds)[-1]
             final8.sort(key=order)

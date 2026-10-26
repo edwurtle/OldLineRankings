@@ -16,7 +16,7 @@ Football is ranked by the Old Line Rating instead (see oldline.py); its MPSSAA p
 for playoff seeding.
 """
 import collections, datetime, html, json, pathlib, re, shutil, subprocess, time, urllib.parse, zoneinfo
-import arbiter, gofan, icons, nfhs, oldline
+import arbiter, brackets, gofan, icons, nfhs, oldline
 
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -71,6 +71,8 @@ SOCCER = dict(
     # last_date: the bulletin's "last play date for seeding consideration"; later games don't count.
     # seed_date: the seeding meeting, where ties are broken (coin flips included) and brackets posted the same day
     playoffs=dict(seed_by="winpct", min_games=9, region_seeds=8, per_region=1, last_date="2026-10-24", seed_date="2026-10-26"),
+    # Read MPSSAA's official bracket (scripts/brackets.py) once seeding has posted it
+    brackets=True,
     # Dates whose games MPSSAA's standings leave out (Sat Sep 5: preseason jamborees and showcases, many teams
     # playing twice); they count for no one's record or rating
     uncounted_dates=["2026-09-05"],
@@ -491,6 +493,9 @@ def build_site(key, cfg, nonce, stamp):
         for t in teams:
             t["slug"] = slug(t["school"])   # the team's own page: /<sport>/<slug>/
         sports[div] = dict(teams=teams, through=max((g["date"] for t in teams for g in t["games"]), default=None))
+        if cfg.get("brackets") and (bracket := official_bracket(cfg, d["api"], teams, nonce)):
+            sports[div]["bracket"] = bracket
+            print(f"  Official bracket: {sum(1 for g in bracket['games'] if g['completed'])} of {len(bracket['games'])} games played")
         hold = sports[div]["hold"] = preseason(cfg)
         if cfg.get("olr"):
             ratings, home, class_means = oldline.rate(teams, cfg["olr"], list(cfg["classes"]))
@@ -501,7 +506,8 @@ def build_site(key, cfg, nonce, stamp):
             if cfg["playoffs"]["seed_by"] == "winpct" and not stale:
                 print(f"  Official MPSSAA records: {official_records(teams, standings)} teams differ from their games")
             if hold.get("proj") is None:   # title odds only once projections are live
-                oldline.simulate(teams, cfg["classes"], ratings, home, cfg["olr"], cfg["playoffs"], cfg["regions"])
+                oldline.simulate(teams, cfg["classes"], ratings, home, cfg["olr"], cfg["playoffs"], cfg["regions"],
+                                 official=sports[div].get("bracket"))
             members = {t["school"] for t in teams}
             sports[div]["nonmember"] = {x: round(v, 2) for x, v in ratings.items() if x not in members}
             sports[div]["home"] = round(home, 2)
@@ -688,6 +694,30 @@ def write_section_pages(out, page, cfg, sports, rel, sport_description):
               + "".join(classes) + f"<h2>More {esc(lower)}</h2><ul>{links}</ul></article>")
     (out / "index.html").write_text(page.replace('<main id="app"></main>', f'<main id="app">{static}</main>', 1))
     return [path for path, *_, canonical in pages if not canonical]
+
+
+def official_bracket(cfg, api, teams, nonce):
+    """MPSSAA's posted bracket (scripts/brackets.py) with its names matched to our schools, or None before seeding.
+    A name we can't match keeps MPSSAA's spelling. Never fails the build."""
+    try:
+        b = brackets.parse(curl(API + brackets.BLOCK.format(sport=api), nonce), list(cfg["classes"]))
+    except Exception as e:
+        print("  Official bracket skipped:", e)
+        return None
+    if not brackets.posted(b):
+        return None
+    by_key = {school_key(t["school"]): t["school"] for t in teams}
+    unmatched = set()
+    for g in b["games"]:
+        for t in g["teams"]:
+            if t["name"] and t["name"] != "Bye":
+                school = by_key.get(school_key(ALIAS.get(t["name"], t["name"])))
+                if not school:
+                    unmatched.add(t["name"])
+                t["name"] = school or t["name"]
+    if unmatched:
+        print("  Bracket names with no school match:", sorted(unmatched))
+    return b
 
 
 def fill_scores(raw, fixes):

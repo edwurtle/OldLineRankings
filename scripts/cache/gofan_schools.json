@@ -139,6 +139,16 @@
   "name": "Francis Scott Key High School",
   "type": "High School"
  },
+ "MD22646": {
+  "city": "Salisbury",
+  "name": "Parkside High School",
+  "type": "High School"
+ },
+ "MD22650": {
+  "city": "Berlin",
+  "name": "Stephen Decatur High School",
+  "type": "High School"
+ },
  "MD24750": {
   "city": "Kensington",
   "name": "Albert Einstein High School",
@@ -594,6 +604,11 @@
   "name": "Marriotts Ridge High School",
   "type": "High School"
  },
+ "MD68050_1": {
+  "city": "Marriottsville",
+  "name": "Marriotts Ridge High School Special Events",
+  "type": "Subaccount"
+ },
  "MD68110": {
   "city": "Westminster",
   "name": "Westminster Senior High School",
@@ -617,6 +632,11 @@
  "MD69687": {
   "city": "North East",
   "name": "Rising Sun High School",
+  "type": "High School"
+ },
+ "MD69697": {
+  "city": "Centreville",
+  "name": "Queen Anne's County High School",
   "type": "High School"
  },
  "MD69704": {
@@ -648,6 +668,11 @@
   "city": "Fulton",
   "name": "Reservoir High School",
   "type": "High School"
+ },
+ "MD69716_1": {
+  "city": "Fulton",
+  "name": "Reservoir High School Special Events",
+  "type": "Subaccount"
  },
  "MD69718": {
   "city": "Perryville",
@@ -787,6 +812,11 @@
  "MD9583": {
   "city": "Timonium",
   "name": "Dulaney High School",
+  "type": "High School"
+ },
+ "MD9584": {
+  "city": "Baltimore",
+  "name": "Dunbar High School",
   "type": "High School"
  },
  "MD9585": {

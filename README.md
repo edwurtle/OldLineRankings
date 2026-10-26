@@ -59,6 +59,17 @@ The Final 8 is reseeded 1–8 by the same number. The page shows each region's m
 - **Final 8 odds (football):** every team makes its region playoffs (regions have at most 8 teams), so odds measure how
   far it goes (Final 8, semifinals, state final, title), from 2,000 simulated seasons and playoffs.
 
+## Official brackets (soccer)
+Once MPSSAA posts seeds, `scripts/brackets.py` reads its bracket pages' data (the sports-data API's
+`blocks/tournament-bracket` block, HTML) into games: class, region or state, round, seeds, teams, scores, winner,
+date, time and site. Names are matched to our schools and the bracket goes in each division's data as `bracket`.
+Before seeding (every slot "TBD") nothing is added. Turned on per site by `brackets=True`.
+
+With a bracket, the front page gets a Playoffs section: a tile per class (round and dates, teams still alive, the
+favorite left) and a find-your-team box (seed, next game or how its run ended). Each class's playoffs page opens
+with that class's games to watch: the closest games still to play.
+`?preview=playoffs` shows it before seeding with a stand-in bracket from today's seeds; `&played=N` plays N rounds.
+
 ## Watch links
 `scripts/nfhs.py` matches schools to NFHS Network (by name, county suffix removed, city as tiebreak) and each game to
 a varsity broadcast by sport, gender, date (±1 day) and both schools. Games with a broadcast get a ▶ Watch button in

@@ -219,6 +219,7 @@ function renderHome() {
   </section>
 
   <div class="wrap">
+    ${playoffSummary(homeGender)}
     <section class="section">
       <div class="section-head"><div><div class="eyebrow">Choose a ${MULTI ? "division" : "class"}</div><h2>Jump to rankings</h2></div></div>
       <div class="picker" style="--picks:${DIVS.length}">${Object.entries(GENDERS).map(([g, label]) => `
@@ -519,17 +520,37 @@ function seeding(g, c, view) {
       i = j;
     }
   };
+  // MPSSAA's official bracket, once posted: its region seeds replace ours and its finished games keep their real
+  // winners (in the current view only those advance; the projection plays the rest)
+  const ob = D.sports[g].bracket, games = ob ? ob.games.filter(x => x.c === c) : [];
+  const decided = new Map(games.filter(x => x.winner != null && x.teams.every(named))
+    .map(x => [x.teams.map(s => s.name).sort().join("|"), x.teams[x.winner].name]));
+  const real = (a, b) => decided.get([a.school, b.school].sort().join("|"));
+  const play = (a, b) => { const w = real(a, b); return w ? {p: null, w: w === a.school ? a : b} : pick ? pick(a, b) : {p: null, w: null}; };
+  const officialSeeds = reg => {
+    const seeds = [];
+    for (const x of games) if (x.level === reg && x.round === "Region QF")
+      for (const s of x.teams) if (s.seed && named(s) && findTeam(g, s.name)) seeds[s.seed - 1] = findTeam(g, s.name);
+    return seeds.length ? seeds : null;
+  };
   const regions = REGION_ORDER.map(reg => {
-    const teams = ts.filter(t => t.region === reg).sort(order);
-    if (!projected && PL.seed_by === "winpct") markCoins(teams);
-    const rounds = playBracket(teams.slice(0, PL.region_seeds), regionRounds, pick);
-    // Current: assume the top seeds advance. Projected: the predicted region winners advance.
-    const adv = projected ? rounds[rounds.length - 1].map(m => m.w).filter(isTeam) : teams.slice(0, PL.per_region);
+    const seeds = officialSeeds(reg);
+    const teams = seeds ? seeds.filter(Boolean) : ts.filter(t => t.region === reg).sort(order);
+    if (!projected && PL.seed_by === "winpct" && !bracketSet(g)) markCoins(teams);
+    const rounds = playBracket(seeds ? Array.from({length: PL.region_seeds}, (_, i) => seeds[i]) : teams.slice(0, PL.region_seeds), regionRounds, ob ? play : pick);
+    // Current: assume the top seeds advance (or the real region winners). Projected: the predicted region winners advance.
+    const won = rounds[rounds.length - 1].map(m => m.w).filter(isTeam);
+    const adv = projected || won.length ? won : teams.slice(0, PL.per_region);
     return {reg, teams, rounds, adv: new Set(adv)};
   }).filter(x => x.teams.length);
   const final8 = regions.flatMap(x => [...x.adv]).sort(order);
-  const regionSeed = new Map(regions.flatMap(x => x.teams.map((t, i) => [t, i + 1])));
-  return {val, pick, regions, final8, regionSeed, coin};
+  const regionSeed = new Map(regions.flatMap(x => x.teams.map(t => [t, null])));
+  for (const x of regions) { const seeds = officialSeeds(x.reg); x.teams.forEach((t, i) => regionSeed.set(t, seeds ? seeds.indexOf(t) + 1 : i + 1)); x.official = !!seeds; }
+  // The Final 8 as MPSSAA seeds it, once its state quarterfinals have names
+  const stateSeeds = [];
+  for (const x of games) if (x.level === "State" && x.round === "State QF")
+    for (const s of x.teams) if (s.seed && named(s) && findTeam(g, s.name)) stateSeeds[s.seed - 1] = findTeam(g, s.name);
+  return {val, pick: ob ? play : pick, regions, final8, regionSeed, coin, stateSeeds};
 }
 // Bracket slots hold a team, BYE (no team at that seed), a {label} placeholder, or null (winner TBD).
 const BYE = {bye: true};
@@ -580,7 +601,7 @@ function bracketHTML(rounds, names, endName, slot, opts = {}) {
 }
 function renderFinal8(r) {
   const view = r.view in F8_VIEWS && PROJ(r.g) ? r.view : "current", projected = view !== "current";
-  const {val, pick, regions, final8, regionSeed, coin} = seeding(r.g, r.c, view);
+  const {val, pick, regions, final8, regionSeed, coin, stateSeeds} = seeding(r.g, r.c, view);
   // Each record carries its own seeding number where that isn't just the record (football's MPSSAA points)
   // Team card details: record and (football) MPSSAA points on their own lines; the projected view adds a
   // small "Projected ⓘ" label that opens the games behind the projection
@@ -609,17 +630,17 @@ function renderFinal8(r) {
       <div class="info"><span class="nm" title="${esc(x.school)}">${esc(x.school)}</span>${mini ? "" : `<span class="d-sub">${esc(x.region)}</span>`}${details(x)}</div>
       ${p == null ? "" : `<div class="wp mono" title="Chance to win this game (Old Line Rating)">${pct(100 * p)}</div>`}</div>`;
   };
-  const stateSeed = t => final8.indexOf(t) + 1;
+  const stateSeed = t => (stateSeeds.length ? stateSeeds : final8).indexOf(t) + 1;
   // Region play: each region's own bracket
   const regionRounds = Math.log2(8 / PL.per_region);
   const regionNames = regionRounds === 3 ? ["Quarterfinals", "Semifinals", "Region final"] : ["Round 1", "Round 2"];
   const coins = !projected && coin.size ? `<p class="coin-note">${COIN_SVG} Teams tied on ${SEED.name} that head-to-head doesn't separate are listed together in each of their seeds until the MPSSAA flips a coin. ${FLIP_WHEN}</p>` : "";
-  const regionCards = regions.map(({reg, teams, rounds}) => `<div class="rcard"><div class="rhead"><h3>${reg}</h3>
-      <small>${teams.length} teams · seeded by ${projected ? "projected " : ""}${SEED.name}</small></div>
+  const regionCards = regions.map(({reg, teams, rounds, official}) => `<div class="rcard"><div class="rhead"><h3>${reg}</h3>
+      <small>${teams.length} teams · ${official ? "MPSSAA seeds" : `seeded by ${projected ? "projected " : ""}${SEED.name}`}</small></div>
       ${bracketHTML(rounds, regionNames, PL.per_region === 1 ? null : "To Final 8", slotFor(t => regionSeed.get(t), true), {cls: "mini", pct: projected && OLR})}</div>`).join("");
   // State tournament: current shows only the seed lines; projected plays it out
   const stateRounds = projected ? playBracket(final8, 3, pick)
-    : playBracket(Array.from({length: 8}, (_, i) => ({label: `No. ${i + 1} seed`})), 3, null);
+    : playBracket(Array.from({length: 8}, (_, i) => stateSeeds[i] || {label: `No. ${i + 1} seed`}), 3, stateSeeds.length ? pick : null);
   const bracket = bracketHTML(stateRounds, ["State quarterfinals", "Semifinals", "Final"], "Champion", slotFor(stateSeed),
     {endCls: "champ", pct: projected && OLR, endExtra: w => isTeam(w) && w.odds && view === "projected" ? `<div class="champ-odds">Title odds ${pct(w.odds.champ)}</div>` : ""});
   const regionHow = PL.per_region === 1
@@ -644,7 +665,162 @@ function renderFinal8(r) {
     <div class="section-head"><div><h2>Regional</h2>
       <p>${regionHow}</p>${coins}</div></div>
     <div class="regions f8-regions">${regionCards}</div>
+    ${playoffWatch(r.g, r.c)}
   </div>`;
+}
+
+// ---------- playoff summary (front page) ----------
+// MPSSAA's official bracket (D.sports[g].bracket, scripts/brackets.py): games {c, level, round, n, teams: [{seed,
+// name, score}], winner, completed, date, time, site}; a name is null while waiting on an earlier game, "Bye" for a bye.
+// Before it is posted, ?preview=playoffs stands one in from today's seeds (&played=N plays N rounds to the favorite).
+const PREVIEW = new URLSearchParams(location.search).get("preview") === "playoffs";
+const PREVIEW_PLAYED = +new URLSearchParams(location.search).get("played") || 0;   // read once: in-app links drop the query
+// Seeds are set (MPSSAA's bracket is out, or previewed): ties are settled, so no coin flips are shown
+const bracketSet = g => !!(D.sports[g].bracket || (PREVIEW && PL && PL.seed_date));
+const ROUND_LABEL = {"Region QF": "Region quarterfinals", "Region SF": "Region semifinals", "Region Finals": "Region finals",
+  "State QF": "State quarterfinals", "State SF": "State semifinals", "State Finals": "State final"};
+const roundLabel = r => ROUND_LABEL[r] || r;
+const named = s => s.name && s.name !== "Bye";
+function previewBracket(g) {
+  const played = PREVIEW_PLAYED;
+  const day = r => { const d = new Date(PL.seed_date + "T12:00:00"); d.setDate(d.getDate() + [2, 4, 8, 11, 18, 25][r]); return d.toLocaleDateString("en-CA"); };
+  const games = [];
+  // A slot is {seed, t}: t a team, "bye", or null (TBD)
+  const play = (c, level, round, n, r, A, B) => {
+    const s = x => ({seed: x.seed, name: x.t === "bye" ? "Bye" : x.t ? x.t.school : null, score: null});
+    const game = {c, level, round, n, teams: [s(A), s(B)], winner: null, completed: false, date: day(r), time: "6:00 PM", site: A.t && A.t !== "bye" ? A.t.school : null};
+    let w = null;
+    if (B.t === "bye") w = A;
+    else if (A.t === "bye") w = B;
+    else if (A.t && B.t && r < played) {
+      w = winProb(g, A.t.school, B.t.school, 1) >= .5 ? A : B;
+      Object.assign(game, {completed: true});
+      game.teams[w === A ? 0 : 1].score = 2;
+      game.teams[w === A ? 1 : 0].score = (A.seed + B.seed) % 2;
+    }
+    if (w) game.winner = w === A ? 0 : 1;
+    games.push(game);
+    return w || {seed: null, t: null};
+  };
+  const order = [1, 8, 4, 5, 2, 7, 3, 6];
+  for (const c of CLASSES) {
+    const champs = seeding(g, c, "current").regions.map(({reg, teams}) => {
+      let slots = order.map(seed => ({seed, t: teams[seed - 1] || "bye"}));
+      ["Region QF", "Region SF", "Region Finals"].forEach((round, r) => {
+        slots = Array.from({length: slots.length / 2}, (_, i) => play(c, reg, round, i + 1, r, slots[2 * i], slots[2 * i + 1]));
+      });
+      return slots[0].t;
+    });
+    const known = champs.every(t => t && t !== "bye");
+    const ranked = known ? [...champs].sort((a, b) => SEED.val(b) - SEED.val(a)) : [];
+    let slots = order.map(seed => ({seed, t: ranked[seed - 1] || null}));
+    ["State QF", "State SF", "State Finals"].forEach((round, r) => {
+      slots = Array.from({length: slots.length / 2}, (_, i) => play(c, "State", round, i + 1, r + 3, slots[2 * i], slots[2 * i + 1]));
+    });
+  }
+  return {games, preview: true};
+}
+// Where each class stands: its teams, who is out, the round being played and its dates, and the champion
+function playoffModel(g) {
+  const b = D.sports[g].bracket || (PREVIEW && PL && PL.seed_date ? previewBracket(g) : null);
+  if (!b) return null;
+  const classes = CLASSES.map(c => {
+    const games = b.games.filter(x => x.c === c);
+    // Rounds in play order: region rounds, then state rounds (each in the order MPSSAA lists them)
+    const rounds = [...new Set([...games.filter(x => x.level !== "State"), ...games.filter(x => x.level === "State")].map(x => x.round))];
+    const teams = new Set(games.filter(x => x.round === rounds[0]).flatMap(x => x.teams.filter(named).map(s => s.name)));
+    const out = new Set(games.filter(x => x.winner != null && x.teams.every(named)).map(x => x.teams[1 - x.winner].name));
+    const current = rounds.find(r => games.some(x => x.round === r && x.winner == null));
+    const dates = games.filter(x => x.round === current && x.winner == null && x.date).map(x => x.date).sort();
+    const fin = games.find(x => x.round === rounds[rounds.length - 1] && x.winner != null);
+    return {c, games, rounds, teams, out, current, dates: [...new Set(dates)], champ: !current && fin ? fin.teams[fin.winner].name : null};
+  }).filter(x => x.teams.size);
+  return {preview: !!b.preview, classes, games: b.games};
+}
+// Chance the first team wins: the host (MPSSAA's listed site) gets the home edge
+const gameProb = (g, x) => winProb(g, x.teams[0].name, x.teams[1].name, x.site === x.teams[0].name ? 1 : x.site === x.teams[1].name ? -1 : 0);
+const roundDates = ds => ds.length ? ds.map((d, i) => fmtDate(d, i ? {day: "numeric"} : {weekday: "short", month: "short", day: "numeric"})).join("/") : "";
+// Front page: a tile per class and the team finder
+function playoffSummary(g) {
+  if (!PL) return "";
+  const m = playoffModel(g);
+  if (!m) return "";
+  const total = m.classes.reduce((s, x) => s + x.teams.size, 0), alive = m.classes.reduce((s, x) => s + x.teams.size - x.out.size, 0);
+  // Class tiles: the round being played, teams left, and the favorite still alive (best title odds, else rating)
+  const tiles = m.classes.map(k => {
+    const left = [...k.teams].filter(n => !k.out.has(n)).map(n => findTeam(g, n)).filter(Boolean);
+    const fav = k.champ ? findTeam(g, k.champ) : left.sort((a, b) => (b.odds?.champ ?? 0) - (a.odds?.champ ?? 0) || b.rating - a.rating)[0];
+    const n = k.teams.size - k.out.size;
+    return `<a class="po-tile" href="${href({page: "final8", g, c: k.c})}">
+      <div class="po-top"><span class="hl-cls">Class <b>${cl(k.c)}</b></span>
+        <span class="po-round">${k.champ ? "Champion crowned" : `${roundLabel(k.current)}${k.dates.length ? `<br>${roundDates(k.dates)}` : ""}`}</span></div>
+      <div class="po-alive"><div><b class="mono">${n}</b> of ${k.teams.size} teams alive</div><div class="po-bar"><i style="width:${100 * n / k.teams.size}%"></i></div></div>
+      ${fav ? `<div class="po-fav">${logo(fav.school, 40)}<div><small>${k.champ ? "State champion" : "Favorite"}</small><b>${esc(fav.school)}</b>
+        <span>${esc(fav.region)}${!k.champ && fav.odds && PROJ(g) ? ` · ${pct(fav.odds.champ)} title odds` : ` · ${fmtR(fav.rating)} ${RATING_SHORT}`}</span></div></div>` : ""}
+      <span class="po-foot">${cl(k.c)} brackets →</span></a>`;
+  }).join("");
+  const names = [...new Set(m.classes.flatMap(k => [...k.teams]))].sort();
+  return `<section class="section po">
+    <div class="section-head">
+      <div><div class="eyebrow">MPSSAA state tournament${m.preview ? ` <span class="po-preview">Preview · stand-in bracket from today's seeds</span>` : ""}</div>
+        <h2>Playoffs</h2><p><b>${alive}</b> of ${total} teams still alive across ${m.classes.length} classes.</p></div>
+      <div class="po-find"><label for="pq">Find your team</label>
+        <input id="pq" list="pqList" placeholder="School name" autocomplete="off"><datalist id="pqList">${names.map(n => `<option value="${esc(n)}">`).join("")}</datalist></div>
+    </div>
+    <div id="pqOut"></div>
+    <div class="po-tiles" style="--n:${m.classes.length}">${tiles}</div>
+  </section>`;
+}
+// Playoffs page: the class's closest games still to play between two known teams, earliest day first
+function playoffWatch(g, c) {
+  const m = PL && playoffModel(g);
+  if (!m) return "";
+  const upcoming = m.games.filter(x => x.c === c && x.winner == null && x.teams.every(named)).map(x => ({x, p: OLR ? gameProb(g, x) : .5}));
+  const soonest = upcoming.map(u => u.x.date || "9").sort()[0];
+  const watch = upcoming.sort((a, b) => ((a.x.date || "9") > soonest) - ((b.x.date || "9") > soonest) || Math.abs(a.p - .5) - Math.abs(b.p - .5)).slice(0, 4);
+  const side = (x, i, p) => {
+    const s = x.teams[i], t = findTeam(g, s.name);
+    return `<div class="po-side" data-team="${esc(s.name)}"><span class="seed mono">${s.seed ?? ""}</span>${logo(s.name, 30)}
+      <span class="nm">${esc(s.name)}${t ? `<small>${recTxt(t)}</small>` : ""}</span>${OLR ? `<span class="wp mono">${pct(100 * p)}</span>` : ""}</div>`;
+  };
+  const watchOf = x => x.watch ? x : findTeam(g, x.teams[0].name)?.upcoming.find(u => u.opp === x.teams[1].name && u.watch) || {};
+  const gameCard = ({x, p}) => `<div class="po-game">
+      <div class="po-meta"><span>${x.level === "State" ? "" : esc(x.level) + " · "}${esc(roundLabel(x.round))}</span></div>
+      ${side(x, 0, p)}${OLR ? `<div class="po-odds"><i style="width:${100 * p}%"></i></div>` : ""}${side(x, 1, 1 - p)}
+      <div class="po-when"><span>${[x.date && fmtDate(x.date, {weekday: "short", month: "short", day: "numeric"}), x.time, x.site && "at " + esc(x.site)].filter(Boolean).join(" · ") || "Date to be set"}</span>${watchBtn(watchOf(x))}</div></div>`;
+  if (!watch.length) return "";
+  return `<section class="po-watch"><div class="section-head"><div><div class="eyebrow">MPSSAA state tournament${m.preview ? ` <span class="po-preview">Preview · stand-in bracket from today's seeds</span>` : ""}</div>
+      <h2>Games to watch</h2><p>The closest ${cl(c)} games still to play, by ${RATING}.</p></div></div>
+    <div class="po-games">${watch.map(gameCard).join("")}</div></section>`;
+}
+// Find your team: where a school stands in the bracket (seed, next game or how its run ended)
+function teamPlayoffCard(g, name) {
+  const m = playoffModel(g), k = m && m.classes.find(x => x.teams.has(name));
+  if (!k) return "";
+  const mine = k.games.filter(x => x.teams.some(s => s.name === name));
+  const seedIn = level => mine.find(x => x.level === level)?.teams.find(s => s.name === name).seed;
+  const first = mine.find(x => x.level !== "State"), side = x => x.teams.findIndex(s => s.name === name);
+  const opp = x => x.teams[1 - side(x)];
+  const oppTxt = x => { const o = opp(x); return o.name === "Bye" ? "a bye" : o.name ? `No. ${o.seed} ${esc(o.name)}` : "the winner of an earlier game"; };
+  const lost = mine.find(x => x.winner != null && x.winner !== side(x) && x.teams.every(named));
+  const next = mine.find(x => x.winner == null);
+  let status;
+  if (k.champ === name) status = `<b class="po-st win">State champion</b>`;
+  else if (lost) {
+    const me = lost.teams[side(lost)], o = opp(lost);
+    status = `<b class="po-st out">Out</b> Lost ${me.score ?? ""}${me.score != null ? "–" : ""}${o.score ?? ""} to No. ${o.seed} ${esc(o.name)} in the ${roundLabel(lost.round).toLowerCase()}`;
+  } else if (next) {
+    const both = next.teams.every(named), p = both && OLR ? gameProb(g, next) : null;
+    const pMe = p == null ? null : side(next) === 0 ? p : 1 - p;
+    status = `<b class="po-st alive">Alive</b> Next: ${roundLabel(next.round).toLowerCase()} vs ${oppTxt(next)}` +
+      `${next.date ? `, ${fmtDate(next.date, {weekday: "short", month: "short", day: "numeric"})}` : ""}${next.time ? ` · ${esc(next.time)}` : ""}${next.site ? ` at ${esc(next.site)}` : ""}` +
+      `${pMe == null ? "" : ` · <span class="mono">${pct(100 * pMe)}</span> to win`}`;
+  } else status = `<b class="po-st alive">Alive</b> Waiting on the next round`;
+  const ss = seedIn("State");
+  return `<div class="po-team">${logo(name, 44)}
+    <div><b>${esc(name)}</b><small>No. ${first.teams.find(s => s.name === name).seed} seed · ${esc(first.level)} · Class ${cl(k.c)}${ss ? ` · No. ${ss} in the state` : ""}</small>
+      <p>${status}</p></div>
+    <button class="po-open" data-team="${esc(name)}">Team →</button></div>`;
 }
 
 // ---------- schedule ----------
@@ -940,6 +1116,12 @@ app.addEventListener("click", e => {
   if (sc) { schedFilter.c = sc.dataset.sc; document.querySelectorAll("#schedCls a").forEach(a => a.classList.toggle("on", a === sc)); }
   if (sw) { schedFilter.when = sw.dataset.sw; document.querySelectorAll("[data-sw]").forEach(b => b.setAttribute("aria-selected", b === sw)); }
   renderScheduleList(parseRoute());
+});
+// Find your team (front page playoffs): show the school's card once the box holds one of the bracket's schools
+app.addEventListener("input", e => {
+  if (e.target.id !== "pq") return;
+  const q = e.target.value.trim().toLowerCase(), opt = [...document.querySelectorAll("#pqList option")].find(o => o.value.toLowerCase() === q);
+  document.getElementById("pqOut").innerHTML = opt ? teamPlayoffCard(parseRoute().page === "final8" ? parseRoute().g : homeGender, opt.value) : "";
 });
 app.addEventListener("input", e => { if (e.target.id === "sq") { schedFilter.q = e.target.value; renderScheduleList(parseRoute()); } });
 app.addEventListener("change", e => { if (e.target.id === "f8proj") go({view: e.target.checked ? "projected" : "current"}); });
