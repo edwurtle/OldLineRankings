@@ -832,10 +832,13 @@ function playoffSummary(g) {
   </section>`;
 }
 // Playoffs page: the class's closest games still to play between two known teams, earliest day first
+const WATCH_MAX = .75;
 function playoffWatch(g, c) {
   const m = PL && playoffModel(g);
   if (!m) return "";
-  const upcoming = m.games.filter(x => x.c === c && x.winner == null && x.teams.every(named)).map(x => ({x, p: OLR ? gameProb(g, x) : .5}));
+  // Only real contests: a game whose favorite is above WATCH_MAX isn't one to watch, even if it's the closest left
+  const upcoming = m.games.filter(x => x.c === c && x.winner == null && x.teams.every(named)).map(x => ({x, p: OLR ? gameProb(g, x) : .5}))
+    .filter(u => Math.max(u.p, 1 - u.p) <= WATCH_MAX);
   const soonest = upcoming.map(u => u.x.date || "9").sort()[0];
   const watch = upcoming.sort((a, b) => ((a.x.date || "9") > soonest) - ((b.x.date || "9") > soonest) || Math.abs(a.p - .5) - Math.abs(b.p - .5)).slice(0, 4);
   const side = (x, i, p) => {
@@ -850,7 +853,7 @@ function playoffWatch(g, c) {
       <div class="po-when"><span>${[x.date && fmtDate(x.date, {weekday: "short", month: "short", day: "numeric"}), x.time, x.site && "at " + esc(x.site)].filter(Boolean).join(" · ") || "Date to be set"}</span>${watchBtn(watchOf(x))}</div></div>`;
   if (!watch.length) return "";
   return `<section class="po-watch"><div class="section-head"><div><div class="eyebrow">MPSSAA state tournament${m.preview ? ` <span class="po-preview">Preview · stand-in bracket from today's seeds</span>` : ""}</div>
-      <h2>Games to watch</h2><p>The closest ${cl(c)} games still to play, by ${RATING}.</p></div></div>
+      <h2>Games to watch</h2><p>The closest ${cl(c)} games still to play, by ${RATING}${OLR ? ` (no favorite above ${pct(100 * WATCH_MAX)})` : ""}.</p></div></div>
     <div class="po-games">${watch.map(gameCard).join("")}</div></section>`;
 }
 // Find your team: where a school stands in the bracket (seed, next game or how its run ended)
