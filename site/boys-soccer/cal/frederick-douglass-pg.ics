@@ -6,7 +6,7 @@ X-WR-CALNAME:Frederick Douglass-PG Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-international-hs-at-largo-frederick-douglass-pg-boys-soccer@oldlinerankings
-DTSTAMP:20261026T190120Z
+DTSTAMP:20261026T191802Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Frederick Douglass-PG at International HS at Largo
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 3\, International HS at Largo 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-cmit-north-frederick-douglass-pg-boys-soccer@oldlinerankings
-DTSTAMP:20261026T190120Z
+DTSTAMP:20261026T191802Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Frederick Douglass-PG at CMIT - North
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 1\, CMIT - North 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-fairmont-heights-frederick-douglass-pg-boys-soccer@oldlinerankings
-DTSTAMP:20261026T190120Z
+DTSTAMP:20261026T191802Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Frederick Douglass-PG at Fairmont Heights
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 2\, Fairmont Heights 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-frederick-douglass-pg-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261026T190120Z
+DTSTAMP:20261026T191802Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Potomac at Frederick Douglass-PG
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 1\, Potomac 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-crossland-frederick-douglass-pg-boys-soccer@oldlinerankings
-DTSTAMP:20261026T190120Z
+DTSTAMP:20261026T191802Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Frederick Douglass-PG at Crossland
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 0\, Crossland 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-central-frederick-douglass-pg-boys-soccer@oldlinerankings
-DTSTAMP:20261026T190120Z
+DTSTAMP:20261026T191802Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Frederick Douglass-PG at Central
@@ -60,7 +60,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 5\, Central 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-frederick-douglass-pg-oxon-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261026T190120Z
+DTSTAMP:20261026T191802Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: Oxon Hill at Frederick Douglass-PG
@@ -70,7 +70,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-college-park-academy-frederick-douglass-pg-boys-soccer@oldlinerankings
-DTSTAMP:20261026T190120Z
+DTSTAMP:20261026T191802Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Frederick Douglass-PG at College Park Academy
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 0\, College Park Academy 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-cmit-south-frederick-douglass-pg-boys-soccer@oldlinerankings
-DTSTAMP:20261026T190120Z
+DTSTAMP:20261026T191802Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Frederick Douglass-PG at CMIT - South
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 1\, CMIT - South 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-frederick-douglass-pg-surrattsville-boys-soccer@oldlinerankings
-DTSTAMP:20261026T190120Z
+DTSTAMP:20261026T191802Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Surrattsville at Frederick Douglass-PG
