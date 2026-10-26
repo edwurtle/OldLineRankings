@@ -6,7 +6,7 @@ X-WR-CALNAME:Eastern Tech Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-30-eastern-tech-new-town-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20261130T173000
 DTEND;TZID=America/New_York:20261130T193000
 SUMMARY:Girls Basketball: New Town at Eastern Tech
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-eastern-tech-c-milton-wright-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20261202T173000
 DTEND;TZID=America/New_York:20261202T193000
 SUMMARY:Girls Basketball: C. Milton Wright at Eastern Tech
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-eastern-tech-st-paul-s-school-for-girls-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20261208T173000
 DTEND;TZID=America/New_York:20261208T193000
 SUMMARY:Girls Basketball: St. Paul's School For Girls at Eastern Tech
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-eastern-tech-chesapeake-b-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20261210T173000
 DTEND;TZID=America/New_York:20261210T193000
 SUMMARY:Girls Basketball: Chesapeake-B at Eastern Tech
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-garrison-forest-school-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20261214T163000
 DTEND;TZID=America/New_York:20261214T183000
 SUMMARY:Girls Basketball: Eastern Tech at Garrison Forest School
@@ -54,7 +54,7 @@ LOCATION:Garrison Forest School
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-eastern-tech-dundalk-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Girls Basketball: Dundalk at Eastern Tech
@@ -62,7 +62,7 @@ LOCATION:Eastern Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-patapsco-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20261218T173000
 DTEND;TZID=America/New_York:20261218T193000
 SUMMARY:Girls Basketball: Eastern Tech at Patapsco
@@ -72,7 +72,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-parkville-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Girls Basketball: Eastern Tech at Parkville
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-kenwood-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Girls Basketball: Eastern Tech at Kenwood
@@ -92,7 +92,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-eastern-tech-perry-hall-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
 SUMMARY:Girls Basketball: Perry Hall at Eastern Tech
@@ -102,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-eastern-tech-sparrows-point-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270115T173000
 DTEND;TZID=America/New_York:20270115T193000
 SUMMARY:Girls Basketball: Sparrows Point at Eastern Tech
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-eastern-tech-towson-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270120T173000
 DTEND;TZID=America/New_York:20270120T193000
 SUMMARY:Girls Basketball: Towson at Eastern Tech
@@ -122,7 +122,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-dundalk-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270122T173000
 DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Girls Basketball: Eastern Tech at Dundalk
@@ -131,7 +131,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6984128
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-eastern-tech-northeast-aa-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270125T160000
 DTEND;TZID=America/New_York:20270125T180000
 SUMMARY:Girls Basketball: Northeast-AA at Eastern Tech
@@ -141,7 +141,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-carver-aandt-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Girls Basketball: Eastern Tech at Carver A&T
@@ -149,7 +149,7 @@ LOCATION:Carver A&T
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-chesapeake-b-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270129T173000
 DTEND;TZID=America/New_York:20270129T193000
 SUMMARY:Girls Basketball: Eastern Tech at Chesapeake-B
@@ -157,7 +157,7 @@ LOCATION:Chesapeake-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-overlea-eastern-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Girls Basketball: Eastern Tech at Overlea
@@ -167,7 +167,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-eastern-tech-patapsco-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270205T173000
 DTEND;TZID=America/New_York:20270205T193000
 SUMMARY:Girls Basketball: Patapsco at Eastern Tech
@@ -177,7 +177,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-eastern-tech-kenwood-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Girls Basketball: Kenwood at Eastern Tech
@@ -187,7 +187,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-eastern-tech-loch-raven-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270217T173000
 DTEND;TZID=America/New_York:20270217T193000
 SUMMARY:Girls Basketball: Loch Raven at Eastern Tech

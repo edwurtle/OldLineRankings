@@ -6,7 +6,7 @@ X-WR-CALNAME:Eleanor Roosevelt Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-eleanor-roosevelt-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20261210T191500
 DTEND;TZID=America/New_York:20261210T211500
 SUMMARY:Girls Basketball: Bowie at Eleanor Roosevelt
@@ -14,7 +14,7 @@ LOCATION:Eleanor Roosevelt
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-eleanor-roosevelt-northwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20261217T191500
 DTEND;TZID=America/New_York:20261217T211500
 SUMMARY:Girls Basketball: Northwestern at Eleanor Roosevelt
@@ -22,7 +22,7 @@ LOCATION:Eleanor Roosevelt
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-eleanor-roosevelt-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at Eleanor Roosevelt
@@ -30,7 +30,7 @@ LOCATION:Eleanor Roosevelt
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-parkdale-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270107T191500
 DTEND;TZID=America/New_York:20270107T211500
 SUMMARY:Girls Basketball: Eleanor Roosevelt at Parkdale
@@ -40,7 +40,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-eleanor-roosevelt-bladensburg-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Girls Basketball: Bladensburg at Eleanor Roosevelt
@@ -48,7 +48,7 @@ LOCATION:Eleanor Roosevelt
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-charles-h-flowers-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Girls Basketball: Eleanor Roosevelt at Charles H. Flowers
@@ -56,7 +56,7 @@ LOCATION:Charles H. Flowers
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-duval-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270121T191500
 DTEND;TZID=America/New_York:20270121T211500
 SUMMARY:Girls Basketball: Eleanor Roosevelt at Duval
@@ -65,7 +65,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6697112
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-high-point-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Girls Basketball: Eleanor Roosevelt at High Point
@@ -73,7 +73,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-bowie-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270202T191500
 DTEND;TZID=America/New_York:20270202T211500
 SUMMARY:Girls Basketball: Eleanor Roosevelt at Bowie
@@ -83,7 +83,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-northwestern-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270210T180000
 DTEND;TZID=America/New_York:20270210T200000
 SUMMARY:Girls Basketball: Eleanor Roosevelt at Northwestern
@@ -93,7 +93,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-dr-henry-a-wise-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Girls Basketball: Eleanor Roosevelt at Dr. Henry A. Wise
@@ -103,7 +103,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-eleanor-roosevelt-parkdale-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Girls Basketball: Parkdale at Eleanor Roosevelt
@@ -111,7 +111,7 @@ LOCATION:Eleanor Roosevelt
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-bladensburg-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261026T171412Z
+DTSTAMP:20261026T172440Z
 DTSTART;TZID=America/New_York:20270218T180000
 DTEND;TZID=America/New_York:20270218T200000
 SUMMARY:Girls Basketball: Eleanor Roosevelt at Bladensburg

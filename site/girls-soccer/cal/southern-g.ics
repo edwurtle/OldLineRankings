@@ -6,7 +6,7 @@ X-WR-CALNAME:Southern-G Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-16-fort-hill-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261026T171241Z
+DTSTAMP:20261026T172257Z
 DTSTART;TZID=America/New_York:20260916T180000
 DTEND;TZID=America/New_York:20260916T200000
 SUMMARY:Girls Soccer: Southern-G at Fort Hill
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-southern-g-wv-keyser-girls-soccer@oldlinerankings
-DTSTAMP:20261026T171241Z
+DTSTAMP:20261026T172257Z
 DTSTART;TZID=America/New_York:20260922T180000
 DTEND;TZID=America/New_York:20260922T200000
 SUMMARY:Girls Soccer: WV-Keyser at Southern-G
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-northern-g-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261026T171241Z
+DTSTAMP:20261026T172257Z
 DTSTART;TZID=America/New_York:20260924T193000
 DTEND;TZID=America/New_York:20260924T213000
 SUMMARY:Girls Soccer: Southern-G at Northern-G
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-allegany-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261026T171241Z
+DTSTAMP:20261026T172257Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
 SUMMARY:Girls Soccer: Southern-G at Allegany
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-mountain-ridge-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261026T171241Z
+DTSTAMP:20261026T172257Z
 DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Girls Soccer: Southern-G at Mountain Ridge
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-northern-g-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261026T171241Z
+DTSTAMP:20261026T172257Z
 DTSTART;TZID=America/New_York:20261005T190000
 DTEND;TZID=America/New_York:20261005T210000
 SUMMARY:Girls Soccer: Southern-G at Northern-G
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-southern-g-wv-hampshire-girls-soccer@oldlinerankings
-DTSTAMP:20261026T171241Z
+DTSTAMP:20261026T172257Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: WV-Hampshire at Southern-G
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-southern-g-wv-berkeley-springs-girls-soccer@oldlinerankings
-DTSTAMP:20261026T171241Z
+DTSTAMP:20261026T172257Z
 DTSTART;TZID=America/New_York:20261013T170000
 DTEND;TZID=America/New_York:20261013T190000
 SUMMARY:Girls Soccer: WV-Berkeley Springs at Southern-G
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-allegany-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261026T171241Z
+DTSTAMP:20261026T172257Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Girls Soccer: Southern-G at Allegany
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-mountain-ridge-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261026T171241Z
+DTSTAMP:20261026T172257Z
 DTSTART;TZID=America/New_York:20261019T180000
 DTEND;TZID=America/New_York:20261019T200000
 SUMMARY:Girls Soccer: Southern-G at Mountain Ridge
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-fort-hill-southern-g-girls-soccer@oldlinerankings
-DTSTAMP:20261026T171241Z
+DTSTAMP:20261026T172257Z
 DTSTART;TZID=America/New_York:20261021T180000
 DTEND;TZID=America/New_York:20261021T200000
 SUMMARY:Girls Soccer: Southern-G at Fort Hill
