@@ -6,7 +6,7 @@ X-WR-CALNAME:Calvert Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-calvert-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261026T160832Z
+DTSTAMP:20261026T161216Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: North Point at Calvert
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Calvert 1\, North Point 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-calvert-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261026T160832Z
+DTSTAMP:20261026T161216Z
 DTSTART;TZID=America/New_York:20260910T163000
 DTEND;TZID=America/New_York:20260910T183000
 SUMMARY:Boys Soccer: St. Charles at Calvert
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-calvert-thomas-stone-boys-soccer@oldlinerankings
-DTSTAMP:20261026T160832Z
+DTSTAMP:20261026T161216Z
 DTSTART;TZID=America/New_York:20260915T181500
 DTEND;TZID=America/New_York:20260915T201500
 SUMMARY:Boys Soccer: Thomas Stone at Calvert
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-calvert-northern-c-boys-soccer@oldlinerankings
-DTSTAMP:20261026T160832Z
+DTSTAMP:20261026T161216Z
 DTSTART;TZID=America/New_York:20260917T163000
 DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Boys Soccer: Northern-C at Calvert
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-calvert-bladensburg-boys-soccer@oldlinerankings
-DTSTAMP:20261026T160832Z
+DTSTAMP:20261026T161216Z
 DTSTART;TZID=America/New_York:20260922T181500
 DTEND;TZID=America/New_York:20260922T201500
 SUMMARY:Boys Soccer: Bladensburg at Calvert
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-calvert-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261026T160832Z
+DTSTAMP:20261026T161216Z
 DTSTART;TZID=America/New_York:20260924T163000
 DTEND;TZID=America/New_York:20260924T183000
 SUMMARY:Boys Soccer: Chopticon at Calvert
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-calvert-huntingtown-boys-soccer@oldlinerankings
-DTSTAMP:20261026T160832Z
+DTSTAMP:20261026T161216Z
 DTSTART;TZID=America/New_York:20260929T181500
 DTEND;TZID=America/New_York:20260929T201500
 SUMMARY:Boys Soccer: Huntingtown at Calvert
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-calvert-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261026T160832Z
+DTSTAMP:20261026T161216Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Great Mills at Calvert
@@ -84,7 +84,7 @@ DESCRIPTION:Final: Calvert 1\, Great Mills 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-calvert-westlake-boys-soccer@oldlinerankings
-DTSTAMP:20261026T160832Z
+DTSTAMP:20261026T161216Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: Westlake at Calvert
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-calvert-mcdonough-boys-soccer@oldlinerankings
-DTSTAMP:20261026T160832Z
+DTSTAMP:20261026T161216Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: McDonough at Calvert
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-patuxent-calvert-boys-soccer@oldlinerankings
-DTSTAMP:20261026T160832Z
+DTSTAMP:20261026T161216Z
 DTSTART;TZID=America/New_York:20261013T181500
 DTEND;TZID=America/New_York:20261013T201500
 SUMMARY:Boys Soccer: Calvert at Patuxent
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-calvert-la-plata-boys-soccer@oldlinerankings
-DTSTAMP:20261026T160832Z
+DTSTAMP:20261026T161216Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: La Plata at Calvert

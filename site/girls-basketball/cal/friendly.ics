@@ -6,7 +6,7 @@ X-WR-CALNAME:Friendly Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-07-bladensburg-friendly-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161042Z
+DTSTAMP:20261026T161404Z
 DTSTART;TZID=America/New_York:20261207T180000
 DTEND;TZID=America/New_York:20261207T200000
 SUMMARY:Girls Basketball: Friendly at Bladensburg
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-friendly-laurel-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161042Z
+DTSTAMP:20261026T161404Z
 DTSTART;TZID=America/New_York:20261223T100000
 DTEND;TZID=America/New_York:20261223T120000
 SUMMARY:Girls Basketball: Laurel at Friendly
@@ -24,7 +24,7 @@ LOCATION:Friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-friendly-largo-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161042Z
+DTSTAMP:20261026T161404Z
 DTSTART;TZID=America/New_York:20270107T191500
 DTEND;TZID=America/New_York:20270107T211500
 SUMMARY:Girls Basketball: Largo at Friendly
@@ -32,7 +32,7 @@ LOCATION:Friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-thomas-stone-friendly-girls-basketball@oldlinerankings
-DTSTAMP:20261026T161042Z
+DTSTAMP:20261026T161404Z
 DTSTART;TZID=America/New_York:20270218T170000
 DTEND;TZID=America/New_York:20270218T190000
 SUMMARY:Girls Basketball: Friendly at Thomas Stone
