@@ -640,7 +640,7 @@ function drawBrackets(root) {
       low = Math.max(low, el.getBoundingClientRect().bottom);
     }
     const box = br.getBoundingClientRect(), pad = parseFloat(getComputedStyle(br).paddingBottom);
-    if (low > box.bottom - pad) br.style.paddingBottom = `${pad + low - (box.bottom - pad)}px`;
+    if (low > box.bottom - pad) br.style.paddingBottom = `${Math.ceil(pad + low - (box.bottom - pad))}px`;
     // Then the lines, in the bracket's own coordinates
     const o = br.getBoundingClientRect(), X = x => Math.round(x - o.left + br.scrollLeft), Y = y => Math.round(y - o.top + br.scrollTop);
     const paths = [];

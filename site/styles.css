@@ -426,7 +426,7 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 
 /* Final 8 bracket. Every column's games area is the same height and each match sits centred in an
    equal share of it. The lines between rounds are an SVG drawn from the rendered games (drawBrackets in app.js). */
-.bracket { --line: #cfc7b4; --gap: 32px; --colw: 220px; display: grid; grid-template-columns: repeat(var(--cols, 4), minmax(max-content, var(--colmax, 1fr))); gap: 0 var(--gap); padding: 16px; overflow-x: auto; position: relative; }
+.bracket { --line: #cfc7b4; --gap: 32px; --colw: 220px; display: grid; grid-template-columns: repeat(var(--cols, 4), minmax(max-content, var(--colmax, 1fr))); gap: 0 var(--gap); padding: 16px; overflow-x: auto; overflow-y: hidden; position: relative; }
 .bracket > svg.blines { position: absolute; left: 0; top: 0; pointer-events: none; fill: none; stroke: var(--line); stroke-width: 2; }
 .bcol { display: flex; flex-direction: column; min-width: var(--colw); }
 .bcol h4 .h4-pct { float: right; padding-right: 8px; font-weight: 600; letter-spacing: .04em; text-transform: none; color: var(--faint); }
