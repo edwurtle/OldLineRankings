@@ -583,61 +583,81 @@ function playBracket(seeds, rounds, pick) {
 // CSS can draw the connectors; the last round connects straight across to the survivors column
 // (omitted when endName is null: the last round's winners are then just shown in bold).
 function bracketHTML(rounds, names, endName, slot, opts = {}) {
-  // Byes aren't drawn: a first-round game with a bye is left out and its team appears in the next round; the
-  // other game of its pair is centred beside the game it feeds (a round that is all byes is dropped)
+  // Byes aren't drawn: a first-round game with a bye is left out and its team appears in the next round (a round
+  // that is all byes is dropped). Each match carries data-at="round-index"; drawBrackets draws the lines from it.
   const bye = m => m.a === BYE || m.b === BYE;
   if (rounds.length > 1 && rounds[0].every(bye)) return bracketHTML(rounds.slice(1), names.slice(1), endName, slot, opts);
-  // A second-round game fed by one real game and one bye: its line goes into the TBD row (top or bottom), and the
-  // lone first-round game shifts to sit level with that row
-  const tbdRow = new Map();
-  if (rounds.length > 1) rounds[1].forEach((m, j) => {
-    const [x, y] = [rounds[0][2 * j], rounds[0][2 * j + 1]];
-    if (bye(x) !== bye(y)) tbdRow.set(m, isTeam(m.a) ? "bot" : "top").set(bye(x) ? y : x, isTeam(m.a) ? "bot" : "top");
-  });
-  const cell = (html, m, i) => {
-    const skip = i === 0 && bye(m), unfed = i === 1 && bye(rounds[0][2 * rounds[1].indexOf(m)]) && bye(rounds[0][2 * rounds[1].indexOf(m) + 1]);
-    const row = tbdRow.get(m) ? (i ? " tbd-" : " lone-") + tbdRow.get(m) : "";
-    return skip ? "" : `<div class="bslot${unfed ? " unfed" : ""}${row}">${html}</div>`;
+  const cell = (html, m, i) => i === 0 && rounds.length > 1 && bye(m) ? "" : `<div class="bslot">${html}</div>`;
+  // A second-round game fed by one real game (the other was a bye): data-fed is the row that game's winner
+  // fills (the empty row until it's played)
+  const fed = (m, i, j) => {
+    if (i !== 1) return "";
+    const f = [rounds[0][2 * j], rounds[0][2 * j + 1]].filter(x => !bye(x));
+    if (f.length !== 1) return "";
+    const w = f[0].w;
+    return ` data-fed="${isTeam(w) ? (m.a === w ? 0 : 1) : (isTeam(m.a) ? 1 : 0)}"`;
   };
-  const pairCls = (a, b, i) => i ? "" : bye(a) && bye(b) ? " bye-both" : bye(a) || bye(b) ? " bye-one" : "";
-  const match = m => {
+  const match = (m, i, j) => {
     const decided = isTeam(m.a) && isTeam(m.b) && m.w;
     const cls = x => decided ? (m.w === x ? "win" : "lose") : "";
-    return `<div class="match">${slot(m.a, m.p, cls(m.a))}${slot(m.b, m.p == null ? null : 1 - m.p, cls(m.b))}</div>`;
+    return `<div class="match" data-at="${i}-${j}"${fed(m, i, j)}>${slot(m.a, m.p, cls(m.a))}${slot(m.b, m.p == null ? null : 1 - m.p, cls(m.b))}</div>`;
   };
   const cols = rounds.map((games, i) => {
     const last = i === rounds.length - 1;
-    const body = last ? games.map(m => cell(match(m), m, i)).join("")
-      : Array.from({length: games.length / 2}, (_, j) => `<div class="bpair${pairCls(games[2 * j], games[2 * j + 1], i)}">${cell(match(games[2 * j]), games[2 * j], i)}${cell(match(games[2 * j + 1]), games[2 * j + 1], i)}</div>`).join("");
-    return `<div class="bcol${i ? " fed" : ""}${last && endName ? " to-next" : ""}"><h4>${names[i]}</h4><div class="bgames">${body}</div></div>`;
+    const body = last ? games.map((m, j) => cell(match(m, i, j), m, i)).join("")
+      : Array.from({length: games.length / 2}, (_, j) => `<div class="bpair">${cell(match(games[2 * j], i, 2 * j), games[2 * j], i)}${cell(match(games[2 * j + 1], i, 2 * j + 1), games[2 * j + 1], i)}</div>`).join("");
+    return `<div class="bcol"><h4>${names[i]}</h4><div class="bgames">${body}</div></div>`;
   });
-  const end = rounds[rounds.length - 1].map(m => cell(`<div class="match">${slot(m.w === BYE ? null : m.w, null, isTeam(m.w) ? "win" : "")}${opts.endExtra ? opts.endExtra(m.w) : ""}</div>`)).join("");
+  const end = rounds[rounds.length - 1].map((m, j) => cell(`<div class="match" data-at="${rounds.length}-${j}">${slot(m.w === BYE ? null : m.w, null, isTeam(m.w) ? "win" : "")}${opts.endExtra ? opts.endExtra(m.w) : ""}</div>`)).join("");
   return `<div class="bracket ${opts.cls || ""}" style="--cols:${rounds.length + (endName ? 1 : 0)}">${cols.join("")}
-    ${endName ? `<div class="bcol fed end ${opts.endCls || ""}"><h4>${endName}</h4><div class="bgames">${end}</div></div>` : ""}</div>`;
+    ${endName ? `<div class="bcol end ${opts.endCls || ""}"><h4>${endName}</h4><div class="bgames">${end}</div></div>` : ""}</div>`;
 }
-// Moves each lone first-round game (a pair with one bye) level with the TBD row it feeds; both lists run in
-// bracket order, one entry per such pair. Rerun on resize and once web fonts load, since row heights can change.
-function alignByes(root) {
+// Bracket lines, measured from the rendered games so they meet each game exactly: a game's line attaches at the
+// divider between its two rows (the middle of the row it fills when the game is fed by only one earlier game).
+// Two feeders join with a ] into the next game; a lone feeder (its pair partner was a bye) is first moved level
+// with the row it feeds so its line runs straight. Rerun on resize and once web fonts load, since row heights can change.
+function drawBrackets(root) {
+  const R = 8;
   for (const br of root.querySelectorAll(".bracket")) {
-    const lone = br.querySelectorAll('.bslot[class*="lone-"] .match'), into = br.querySelectorAll('.bslot[class*="tbd-"]');
-    if (!lone.length) continue;
+    br.querySelector(":scope > svg.blines")?.remove();
     br.style.paddingBottom = "";
+    const at = (r, i) => br.querySelector(`.match[data-at="${r}-${i}"]`);
+    const games = [...br.querySelectorAll(".match[data-at]")].map(el => { const [r, i] = el.dataset.at.split("-").map(Number); return {el, r, i}; });
+    const feeders = ({r, i}) => r ? [at(r - 1, 2 * i), at(r - 1, 2 * i + 1)].filter(Boolean) : [];
+    const rows = el => [...el.children].filter(c => c.classList.contains("slot"));
+    const divider = el => { const rs = rows(el), b = el.getBoundingClientRect(); return rs.length > 1 ? rs[1].getBoundingClientRect().top + .5 : b.top + b.height / 2; };
+    const fedMid = el => { const t = rows(el)[+el.dataset.fed]; if (!t) return divider(el); const b = t.getBoundingClientRect(); return b.top + b.height / 2; };
+    // Single links first, so their lines run straight: a lone feeder moves level with the row it feeds, and
+    // the end column's box (champion, "to Final 8") moves level with its game's divider
     let low = 0;
-    lone.forEach((m, k) => {
-      const row = into[k] && into[k].querySelector(into[k].classList.contains("tbd-bot") ? ".match > :last-child" : ".match > :first-child");
-      if (!row) return;
-      m.style.transform = "";
-      const a = m.getBoundingClientRect(), b = row.getBoundingClientRect(), dy = (b.top + b.height / 2) - (a.top + a.height / 2);
-      m.style.transform = `translateY(${dy}px)`;
-      low = Math.max(low, a.bottom + dy);
-    });
-    // A game moved down past the bracket's bottom edge gets room below it
+    for (const g of games) {
+      const f = feeders(g);
+      if (f.length !== 1) continue;
+      const end = !!g.el.closest(".end"), el = end ? g.el : f[0];
+      el.style.transform = "";
+      const dy = Math.round(end ? divider(f[0]) - divider(g.el) : fedMid(g.el) - divider(f[0]));
+      el.style.transform = `translateY(${dy}px)`;
+      low = Math.max(low, el.getBoundingClientRect().bottom);
+    }
     const box = br.getBoundingClientRect(), pad = parseFloat(getComputedStyle(br).paddingBottom);
     if (low > box.bottom - pad) br.style.paddingBottom = `${pad + low - (box.bottom - pad)}px`;
+    // Then the lines, in the bracket's own coordinates
+    const o = br.getBoundingClientRect(), X = x => Math.round(x - o.left + br.scrollLeft), Y = y => Math.round(y - o.top + br.scrollTop);
+    const paths = [];
+    for (const g of games) {
+      const f = feeders(g);
+      if (!f.length) continue;
+      const xb = X(g.el.getBoundingClientRect().left), xa = X(f[0].getBoundingClientRect().right), xm = Math.round((xa + xb) / 2);
+      if (f.length === 2) {
+        const [y0, y1] = f.map(e => Y(divider(e))), yt = Y(divider(g.el)), r = Math.min(R, (y1 - y0) / 2);
+        paths.push(`M${xa} ${y0}H${xm - r}Q${xm} ${y0} ${xm} ${y0 + r}V${y1 - r}Q${xm} ${y1} ${xm - r} ${y1}H${xa}`, `M${xm} ${yt}H${xb}`);
+      } else paths.push(`M${xa} ${Y(divider(f[0]))}H${xb}`);   // already level (above)
+    }
+    br.insertAdjacentHTML("afterbegin", `<svg class="blines" width="${br.scrollWidth}" height="${br.scrollHeight}" aria-hidden="true"><path d="${paths.join("")}"/></svg>`);
   }
 }
-addEventListener("resize", () => alignByes(document));
-document.fonts?.ready.then(() => alignByes(document));
+addEventListener("resize", () => drawBrackets(document));
+document.fonts?.ready.then(() => drawBrackets(document));
 function renderFinal8(r) {
   const view = r.view in F8_VIEWS && PROJ(r.g) ? r.view : "current", projected = view !== "current";
   const {val, pick, regions, final8, regionSeed, coin, stateSeeds} = seeding(r.g, r.c, view);
@@ -656,7 +676,7 @@ function renderFinal8(r) {
   // Region (mini) brackets get a short detail line: record and seeding number
   const slotFor = (seedOf, mini) => (x, p, cls) => {
     if (x === BYE) return `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">Bye</span></div>`;
-    if (!isTeam(x)) return `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">${x && x.label ? esc(x.label) : "TBD"}</span></div>`;
+    if (!isTeam(x)) return `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">${x && x.label ? esc(x.label) : "&nbsp;"}</span></div>`;
     // A seed decided by a coin flip: list every tied team in it until the flip is done
     if (mini && coin.has(x)) {
       const grp = coin.get(x), seeds = grp.map(seedOf).sort((a, b) => a - b);
@@ -706,7 +726,7 @@ function renderFinal8(r) {
     <div class="regions f8-regions">${regionCards}</div>
     ${playoffWatch(r.g, r.c)}
   </div>`;
-  alignByes(app);
+  drawBrackets(app);
 }
 
 // ---------- playoff summary (front page) ----------
