@@ -6,7 +6,7 @@ X-WR-CALNAME:Arundel Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-old-mill-arundel-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20261204T170000
 DTEND;TZID=America/New_York:20261204T190000
 SUMMARY:Girls Basketball: Arundel at Old Mill
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-guilford-park-arundel-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20261207T180000
 DTEND;TZID=America/New_York:20261207T200000
 SUMMARY:Girls Basketball: Arundel at Guilford Park
@@ -24,7 +24,7 @@ LOCATION:Guilford Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-arundel-meade-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20261211T170000
 DTEND;TZID=America/New_York:20261211T190000
 SUMMARY:Girls Basketball: Meade at Arundel
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-arundel-southwestern-multi-plex-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20261214T180000
 DTEND;TZID=America/New_York:20261214T200000
 SUMMARY:Girls Basketball: Southwestern Multi Plex at Arundel
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-arundel-chesapeake-aa-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20261218T170000
 DTEND;TZID=America/New_York:20261218T190000
 SUMMARY:Girls Basketball: Chesapeake-AA at Arundel
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-kenwood-arundel-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20261221T160000
 DTEND;TZID=America/New_York:20261221T180000
 SUMMARY:Girls Basketball: Arundel at Kenwood
@@ -64,15 +64,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-arundel-north-county-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20270105T180000
 DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:Girls Basketball: North County at Arundel
 LOCATION:Arundel
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Farundel-high-school-gambrills-md%2Fgam411bbb1e72
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Farundel-high-school-gambrills-md%2Fgam411bbb1e72
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-glen-burnie-arundel-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20270112T180000
 DTEND;TZID=America/New_York:20270112T200000
 SUMMARY:Girls Basketball: Arundel at Glen Burnie
@@ -80,7 +82,7 @@ LOCATION:Glen Burnie
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-northeast-aa-arundel-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20270115T170000
 DTEND;TZID=America/New_York:20270115T190000
 SUMMARY:Girls Basketball: Arundel at Northeast-AA
@@ -90,7 +92,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-southern-aa-arundel-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20270119T180000
 DTEND;TZID=America/New_York:20270119T200000
 SUMMARY:Girls Basketball: Arundel at Southern-AA
@@ -98,7 +100,7 @@ LOCATION:Southern-AA
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-arundel-severna-park-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20270122T170000
 DTEND;TZID=America/New_York:20270122T190000
 SUMMARY:Girls Basketball: Severna Park at Arundel
@@ -108,7 +110,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-arundel-severn-run-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20270129T170000
 DTEND;TZID=America/New_York:20270129T190000
 SUMMARY:Girls Basketball: Severn Run at Arundel
@@ -116,7 +118,7 @@ LOCATION:Arundel
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-arundel-crofton-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20270202T180000
 DTEND;TZID=America/New_York:20270202T200000
 SUMMARY:Girls Basketball: Crofton at Arundel
@@ -124,7 +126,7 @@ LOCATION:Arundel
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-arundel-old-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20270205T170000
 DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Girls Basketball: Old Mill at Arundel
@@ -132,7 +134,7 @@ LOCATION:Arundel
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-annapolis-arundel-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20270210T180000
 DTEND;TZID=America/New_York:20270210T200000
 SUMMARY:Girls Basketball: Arundel at Annapolis
@@ -140,7 +142,7 @@ LOCATION:Annapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-meade-arundel-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20270212T170000
 DTEND;TZID=America/New_York:20270212T190000
 SUMMARY:Girls Basketball: Arundel at Meade
@@ -148,7 +150,7 @@ LOCATION:Meade
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-broadneck-arundel-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20270216T180000
 DTEND;TZID=America/New_York:20270216T200000
 SUMMARY:Girls Basketball: Arundel at Broadneck
@@ -156,7 +158,7 @@ LOCATION:Broadneck
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-arundel-south-river-girls-basketball@oldlinerankings
-DTSTAMP:20261026T192013Z
+DTSTAMP:20261027T082028Z
 DTSTART;TZID=America/New_York:20270218T180000
 DTEND;TZID=America/New_York:20270218T200000
 SUMMARY:Girls Basketball: South River at Arundel
