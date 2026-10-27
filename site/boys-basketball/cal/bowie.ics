@@ -6,7 +6,7 @@ X-WR-CALNAME:Bowie Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-bowie-eleanor-roosevelt-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20261210T191500
 DTEND;TZID=America/New_York:20261210T211500
 SUMMARY:Boys Basketball: Eleanor Roosevelt at Bowie
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-bladensburg-bowie-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20261215T191500
 DTEND;TZID=America/New_York:20261215T211500
 SUMMARY:Boys Basketball: Bowie at Bladensburg
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-northwestern-bowie-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Boys Basketball: Bowie at Northwestern
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-charles-h-flowers-bowie-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270107T191500
 DTEND;TZID=America/New_York:20270107T211500
 SUMMARY:Boys Basketball: Bowie at Charles H. Flowers
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-bowie-suitland-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Boys Basketball: Suitland at Bowie
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-bowie-laurel-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Boys Basketball: Laurel at Bowie
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-dr-henry-a-wise-bowie-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Boys Basketball: Bowie at Dr. Henry A. Wise
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-bowie-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270121T191500
 DTEND;TZID=America/New_York:20270121T211500
 SUMMARY:Boys Basketball: High Point at Bowie
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-bowie-parkdale-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Boys Basketball: Parkdale at Bowie
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-bowie-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270128T191500
 DTEND;TZID=America/New_York:20270128T211500
 SUMMARY:Boys Basketball: High Point at Bowie
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-eleanor-roosevelt-bowie-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270202T191500
 DTEND;TZID=America/New_York:20270202T211500
 SUMMARY:Boys Basketball: Bowie at Eleanor Roosevelt
@@ -116,7 +116,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-bowie-bladensburg-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270204T191500
 DTEND;TZID=America/New_York:20270204T211500
 SUMMARY:Boys Basketball: Bladensburg at Bowie
@@ -126,7 +126,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-bowie-northwestern-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Boys Basketball: Northwestern at Bowie
@@ -136,7 +136,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-bowie-charles-h-flowers-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Boys Basketball: Charles H. Flowers at Bowie
@@ -146,7 +146,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-bowie-suitland-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270218T191500
 DTEND;TZID=America/New_York:20270218T211500
 SUMMARY:Boys Basketball: Suitland at Bowie

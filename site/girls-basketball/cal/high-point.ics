@@ -6,7 +6,7 @@ X-WR-CALNAME:High Point Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-northwestern-high-point-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20261210T180000
 DTEND;TZID=America/New_York:20261210T200000
 SUMMARY:Girls Basketball: High Point at Northwestern
@@ -14,7 +14,7 @@ LOCATION:Northwestern
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-suitland-high-point-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: High Point at Suitland
@@ -22,7 +22,7 @@ LOCATION:Suitland
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-high-point-laurel-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270107T191500
 DTEND;TZID=America/New_York:20270107T211500
 SUMMARY:Girls Basketball: Laurel at High Point
@@ -30,7 +30,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-dr-henry-a-wise-high-point-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Girls Basketball: High Point at Dr. Henry A. Wise
@@ -38,7 +38,7 @@ LOCATION:Dr. Henry A. Wise
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-high-point-duval-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Girls Basketball: Duval at High Point
@@ -46,7 +46,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-high-point-bowie-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270121T191500
 DTEND;TZID=America/New_York:20270121T211500
 SUMMARY:Girls Basketball: Bowie at High Point
@@ -54,7 +54,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-high-point-eleanor-roosevelt-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Girls Basketball: Eleanor Roosevelt at High Point
@@ -62,7 +62,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-high-point-bladensburg-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270128T191500
 DTEND;TZID=America/New_York:20270128T211500
 SUMMARY:Girls Basketball: Bladensburg at High Point
@@ -70,7 +70,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-high-point-northwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270202T191500
 DTEND;TZID=America/New_York:20270202T211500
 SUMMARY:Girls Basketball: Northwestern at High Point
@@ -78,7 +78,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-high-point-suitland-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Girls Basketball: Suitland at High Point
@@ -86,7 +86,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-laurel-high-point-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Girls Basketball: High Point at Laurel
@@ -95,7 +95,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6977895
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-high-point-dr-henry-a-wise-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270218T191500
 DTEND;TZID=America/New_York:20270218T211500
 SUMMARY:Girls Basketball: Dr. Henry A. Wise at High Point

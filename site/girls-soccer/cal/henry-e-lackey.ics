@@ -6,7 +6,7 @@ X-WR-CALNAME:Henry E. Lackey Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-henry-e-lackey-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Girls Soccer: McDonough at Henry E. Lackey
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-henry-e-lackey-huntingtown-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Huntingtown at Henry E. Lackey
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Henry E. Lackey 0\, Huntingtown 11
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-henry-e-lackey-la-plata-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: La Plata at Henry E. Lackey
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Henry E. Lackey 1\, La Plata 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-henry-e-lackey-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;TZID=America/New_York:20260917T183000
 DTEND;TZID=America/New_York:20260917T203000
 SUMMARY:Girls Soccer: Westlake at Henry E. Lackey
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-henry-e-lackey-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Great Mills at Henry E. Lackey
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Henry E. Lackey 0\, Great Mills 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-henry-e-lackey-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Girls Soccer: Leonardtown at Henry E. Lackey
@@ -63,7 +63,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-henry-e-lackey-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Girls Soccer: St. Charles at Henry E. Lackey
@@ -73,7 +73,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-henry-e-lackey-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: North Point at Henry E. Lackey
@@ -82,7 +82,7 @@ DESCRIPTION:Final: Henry E. Lackey 0\, North Point 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-henry-e-lackey-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Chopticon at Henry E. Lackey
@@ -91,7 +91,7 @@ DESCRIPTION:Final: Henry E. Lackey 0\, Chopticon 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-henry-e-lackey-st-charles-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;TZID=America/New_York:20261019T181500
 DTEND;TZID=America/New_York:20261019T201500
 SUMMARY:Girls Soccer: St. Charles at Henry E. Lackey
@@ -101,7 +101,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-henry-e-lackey-gwynn-park-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Girls Soccer: Gwynn Park at Henry E. Lackey

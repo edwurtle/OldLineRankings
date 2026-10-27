@@ -6,7 +6,7 @@ X-WR-CALNAME:Friendly Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-07-friendly-mcdonough-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20261207T180000
 DTEND;TZID=America/New_York:20261207T200000
 SUMMARY:Boys Basketball: McDonough at Friendly
@@ -14,7 +14,7 @@ LOCATION:Friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-frederick-douglass-pg-friendly-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20261215T191500
 DTEND;TZID=America/New_York:20261215T211500
 SUMMARY:Boys Basketball: Friendly at Frederick Douglass-PG
@@ -22,7 +22,7 @@ LOCATION:Frederick Douglass-PG
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-friendly-surrattsville-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20261217T191500
 DTEND;TZID=America/New_York:20261217T211500
 SUMMARY:Boys Basketball: Surrattsville at Friendly
@@ -30,7 +30,7 @@ LOCATION:Friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-friendly-gwynn-park-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Boys Basketball: Gwynn Park at Friendly
@@ -38,7 +38,7 @@ LOCATION:Friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-potomac-friendly-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270119T193000
 DTEND;TZID=America/New_York:20270119T213000
 SUMMARY:Boys Basketball: Friendly at Potomac
@@ -46,7 +46,7 @@ LOCATION:Potomac
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-central-friendly-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270121T191500
 DTEND;TZID=America/New_York:20270121T211500
 SUMMARY:Boys Basketball: Friendly at Central
@@ -54,7 +54,7 @@ LOCATION:Central
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-fairmont-heights-friendly-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270202T193000
 DTEND;TZID=America/New_York:20270202T213000
 SUMMARY:Boys Basketball: Friendly at Fairmont Heights
@@ -62,7 +62,7 @@ LOCATION:Fairmont Heights
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-friendly-frederick-douglass-pg-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Boys Basketball: Frederick Douglass-PG at Friendly
@@ -70,7 +70,7 @@ LOCATION:Friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-surrattsville-friendly-boys-basketball@oldlinerankings
-DTSTAMP:20261027T081948Z
+DTSTAMP:20261027T160533Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Boys Basketball: Friendly at Surrattsville

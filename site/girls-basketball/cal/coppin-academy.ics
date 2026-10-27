@@ -6,7 +6,7 @@ X-WR-CALNAME:Coppin Academy Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-08-mergenthaler-coppin-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20261208T171500
 DTEND;TZID=America/New_York:20261208T191500
 SUMMARY:Girls Basketball: Coppin Academy at Mergenthaler
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-coppin-academy-patterson-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20261210T171500
 DTEND;TZID=America/New_York:20261210T191500
 SUMMARY:Girls Basketball: Patterson at Coppin Academy
@@ -24,7 +24,7 @@ LOCATION:Coppin Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-southwestern-coppin-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20261217T171500
 DTEND;TZID=America/New_York:20261217T191500
 SUMMARY:Girls Basketball: Coppin Academy at Southwestern
@@ -32,7 +32,7 @@ LOCATION:Southwestern
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-coppin-academy-patterson-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20261222T171500
 DTEND;TZID=America/New_York:20261222T191500
 SUMMARY:Girls Basketball: Patterson at Coppin Academy
@@ -40,7 +40,7 @@ LOCATION:Coppin Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-digital-harbor-coppin-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270105T171500
 DTEND;TZID=America/New_York:20270105T191500
 SUMMARY:Girls Basketball: Coppin Academy at Digital Harbor
@@ -48,7 +48,7 @@ LOCATION:Digital Harbor
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-green-street-academy-coppin-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Girls Basketball: Coppin Academy at Green Street Academy
@@ -56,7 +56,7 @@ LOCATION:Green Street Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-coppin-academy-reginald-lewis-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270114T171500
 DTEND;TZID=America/New_York:20270114T191500
 SUMMARY:Girls Basketball: Reginald Lewis at Coppin Academy
@@ -64,7 +64,7 @@ LOCATION:Coppin Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-acce-coppin-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270121T171500
 DTEND;TZID=America/New_York:20270121T191500
 SUMMARY:Girls Basketball: Coppin Academy at ACCE
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-national-academy-foundation-naf-coppin-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270126T171500
 DTEND;TZID=America/New_York:20270126T191500
 SUMMARY:Girls Basketball: Coppin Academy at National Academy Foundation (NAF)
@@ -82,7 +82,7 @@ LOCATION:National Academy Foundation (NAF)
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-coppin-academy-southwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270128T171500
 DTEND;TZID=America/New_York:20270128T191500
 SUMMARY:Girls Basketball: Southwestern at Coppin Academy
@@ -90,7 +90,7 @@ LOCATION:Coppin Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-patterson-coppin-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270202T171500
 DTEND;TZID=America/New_York:20270202T191500
 SUMMARY:Girls Basketball: Coppin Academy at Patterson
@@ -98,7 +98,7 @@ LOCATION:Patterson
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-frederick-douglass-b-coppin-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270209T171500
 DTEND;TZID=America/New_York:20270209T191500
 SUMMARY:Girls Basketball: Coppin Academy at Frederick Douglass-B
@@ -106,7 +106,7 @@ LOCATION:Frederick Douglass-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-reginald-lewis-coppin-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270211T171500
 DTEND;TZID=America/New_York:20270211T191500
 SUMMARY:Girls Basketball: Coppin Academy at Reginald Lewis
@@ -116,7 +116,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-coppin-academy-city-neighbors-charter-school-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270216T171500
 DTEND;TZID=America/New_York:20270216T191500
 SUMMARY:Girls Basketball: City Neighbors Charter School at Coppin Academy
@@ -124,7 +124,7 @@ LOCATION:Coppin Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-coppin-academy-benjamin-franklin-girls-basketball@oldlinerankings
-DTSTAMP:20261027T082028Z
+DTSTAMP:20261027T160620Z
 DTSTART;TZID=America/New_York:20270218T154500
 DTEND;TZID=America/New_York:20270218T174500
 SUMMARY:Girls Basketball: Benjamin Franklin at Coppin Academy

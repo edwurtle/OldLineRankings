@@ -6,7 +6,7 @@ X-WR-CALNAME:Frederick Douglass-PG Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-international-hs-at-largo-frederick-douglass-pg-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Frederick Douglass-PG at International HS at Largo
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 4\, International HS at Largo 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-cmit-north-frederick-douglass-pg-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Frederick Douglass-PG at CMIT - North
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 1\, CMIT - North 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-fairmont-heights-frederick-douglass-pg-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Frederick Douglass-PG at Fairmont Heights
@@ -33,7 +33,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 3\, Fairmont Heights 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-international-hs-at-langley-park-frederick-douglass-pg-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: Frederick Douglass-PG at International HS at Langley Park
@@ -42,7 +42,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 8\, International HS at Langley Park 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-crossland-frederick-douglass-pg-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Frederick Douglass-PG at Crossland
@@ -51,7 +51,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 8\, Crossland 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-frederick-douglass-pg-oxon-hill-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
 SUMMARY:Girls Soccer: Oxon Hill at Frederick Douglass-PG
@@ -61,7 +61,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-college-park-academy-frederick-douglass-pg-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Frederick Douglass-PG at College Park Academy
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 2\, College Park Academy 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-frederick-douglass-pg-gwynn-park-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Gwynn Park at Frederick Douglass-PG
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Frederick Douglass-PG 3\, Gwynn Park 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-frederick-douglass-pg-surrattsville-girls-soccer@oldlinerankings
-DTSTAMP:20261027T081913Z
+DTSTAMP:20261027T160448Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: Surrattsville at Frederick Douglass-PG
