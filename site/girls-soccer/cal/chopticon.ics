@@ -6,7 +6,7 @@ X-WR-CALNAME:Chopticon Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-northern-c-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20260904T181500
 DTEND;TZID=America/New_York:20260904T201500
 SUMMARY:Girls Soccer: Chopticon at Northern-C
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08-la-plata-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Chopticon at La Plata
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Chopticon 1\, La Plata 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-patuxent-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T200000
 SUMMARY:Girls Soccer: Chopticon at Patuxent
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-mcdonough-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Chopticon at McDonough
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Chopticon 1\, McDonough 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-chopticon-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: North Point at Chopticon
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Chopticon 2\, North Point 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-huntingtown-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: Chopticon at Huntingtown
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Chopticon 0\, Huntingtown 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-calvert-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20260924T181500
 DTEND;TZID=America/New_York:20260924T201500
 SUMMARY:Girls Soccer: Chopticon at Calvert
@@ -72,7 +72,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-st-charles-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20260929T173000
 DTEND;TZID=America/New_York:20260929T193000
 SUMMARY:Girls Soccer: Chopticon at St. Charles
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-chopticon-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Great Mills at Chopticon
@@ -91,7 +91,7 @@ DESCRIPTION:Final: Chopticon 1\, Great Mills 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-chopticon-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Leonardtown at Chopticon
@@ -100,7 +100,7 @@ DESCRIPTION:Final: Chopticon 0\, Leonardtown 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-henry-e-lackey-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Chopticon at Henry E. Lackey
@@ -109,7 +109,7 @@ DESCRIPTION:Final: Chopticon 8\, Henry E. Lackey 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-huntingtown-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: Chopticon at Huntingtown

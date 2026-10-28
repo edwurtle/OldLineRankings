@@ -6,7 +6,7 @@ X-WR-CALNAME:Havre de Grace Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-havre-de-grace-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20260908T180000
 DTEND;TZID=America/New_York:20260908T200000
 SUMMARY:Girls Soccer: Rising Sun at Havre de Grace
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-havre-de-grace-c-milton-wright-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Girls Soccer: C. Milton Wright at Havre de Grace
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-havre-de-grace-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20260915T180000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Girls Soccer: Edgewood at Havre de Grace
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-havre-de-grace-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20260921T153000
 DTEND;TZID=America/New_York:20260921T173000
 SUMMARY:Girls Soccer: North Harford at Havre de Grace
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-harford-tech-havre-de-grace-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20260924T180000
 DTEND;TZID=America/New_York:20260924T200000
 SUMMARY:Girls Soccer: Havre de Grace at Harford Tech
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-havre-de-grace-bohemia-manor-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20260929T180000
 DTEND;TZID=America/New_York:20260929T200000
 SUMMARY:Girls Soccer: Bohemia Manor at Havre de Grace
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-havre-de-grace-elkton-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20261006T180000
 DTEND;TZID=America/New_York:20261006T200000
 SUMMARY:Girls Soccer: Elkton at Havre de Grace
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-havre-de-grace-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20261008T185500
 DTEND;TZID=America/New_York:20261008T205500
 SUMMARY:Girls Soccer: Aberdeen at Havre de Grace
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-havre-de-grace-perryville-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20261013T180000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Girls Soccer: Perryville at Havre de Grace
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-havre-de-grace-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20261015T170000
 DTEND;TZID=America/New_York:20261015T190000
 SUMMARY:Girls Soccer: Edgewood at Havre de Grace
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-havre-de-grace-patterson-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;TZID=America/New_York:20261019T180000
 DTEND;TZID=America/New_York:20261019T200000
 SUMMARY:Girls Soccer: Patterson Mill at Havre de Grace
@@ -116,7 +116,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-havre-de-grace-north-east-c-girls-soccer@oldlinerankings
-DTSTAMP:20261028T081955Z
+DTSTAMP:20261028T165253Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: North East-C at Havre de Grace

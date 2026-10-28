@@ -6,7 +6,7 @@ X-WR-CALNAME:Kent County Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-bohemia-manor-kent-county-football@oldlinerankings
-DTSTAMP:20261028T081828Z
+DTSTAMP:20261028T165134Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Football: Kent County at Bohemia Manor
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Kent County 12\, Bohemia Manor 35
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-kent-county-north-east-c-football@oldlinerankings
-DTSTAMP:20261028T081828Z
+DTSTAMP:20261028T165134Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Football: North East-C at Kent County
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Kent County 64\, North East-C 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-kent-county-queen-anne-s-football@oldlinerankings
-DTSTAMP:20261028T081828Z
+DTSTAMP:20261028T165134Z
 DTSTART;TZID=America/New_York:20261002T110000
 DTEND;TZID=America/New_York:20261002T130000
 SUMMARY:Football: Queen Anne's at Kent County
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-cambridge-south-dorchester-kent-county-football@oldlinerankings
-DTSTAMP:20261028T081828Z
+DTSTAMP:20261028T165134Z
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:Football: Kent County at Cambridge-South Dorchester
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-kent-county-washington-football@oldlinerankings
-DTSTAMP:20261028T081828Z
+DTSTAMP:20261028T165134Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Football: Washington at Kent County
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Kent County 42\, Washington 37
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-kent-county-va-nandua-football@oldlinerankings
-DTSTAMP:20261028T081828Z
+DTSTAMP:20261028T165134Z
 DTSTART;TZID=America/New_York:20261019T174500
 DTEND;TZID=America/New_York:20261019T194500
 SUMMARY:Football: VA- Nandua at Kent County
@@ -63,7 +63,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-colonel-richardson-kent-county-football@oldlinerankings
-DTSTAMP:20261028T081828Z
+DTSTAMP:20261028T165134Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Football: Kent County at Colonel Richardson
@@ -73,7 +73,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-kent-county-snow-hill-football@oldlinerankings
-DTSTAMP:20261028T081828Z
+DTSTAMP:20261028T165134Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Football: Snow Hill at Kent County

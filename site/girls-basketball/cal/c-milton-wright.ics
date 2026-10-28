@@ -6,7 +6,7 @@ X-WR-CALNAME:C. Milton Wright Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-02-eastern-tech-c-milton-wright-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20261202T173000
 DTEND;TZID=America/New_York:20261202T193000
 SUMMARY:Girls Basketball: C. Milton Wright at Eastern Tech
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-north-harford-c-milton-wright-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20261204T170000
 DTEND;TZID=America/New_York:20261204T190000
 SUMMARY:Girls Basketball: C. Milton Wright at North Harford
@@ -24,25 +24,27 @@ LOCATION:North Harford
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-c-milton-wright-bohemia-manor-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20261207T170000
 DTEND;TZID=America/New_York:20261207T190000
 SUMMARY:Girls Basketball: Bohemia Manor at C. Milton Wright
 LOCATION:C. Milton Wright
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgam836e3048a3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgam836e3048a3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-perry-hall-c-milton-wright-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20261207T173000
 DTEND;TZID=America/New_York:20261207T193000
 SUMMARY:Girls Basketball: C. Milton Wright at Perry Hall
 LOCATION:Perry Hall
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fperry-hall-high-school-baltimore-md%2Fgam5f6b028acc
-URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fperry-hall-high-school-baltimore-md%2Fgam5f6b028acc
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgam836e3048a3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgam836e3048a3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-edgewood-c-milton-wright-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20261210T190000
 DTEND;TZID=America/New_York:20261210T210000
 SUMMARY:Girls Basketball: C. Milton Wright at Edgewood
@@ -50,55 +52,67 @@ LOCATION:Edgewood
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-c-milton-wright-perryville-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20261214T170000
 DTEND;TZID=America/New_York:20261214T190000
 SUMMARY:Girls Basketball: Perryville at C. Milton Wright
 LOCATION:C. Milton Wright
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgama711434e38
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgama711434e38
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-c-milton-wright-havre-de-grace-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20261215T170000
 DTEND;TZID=America/New_York:20261215T190000
 SUMMARY:Girls Basketball: Havre de Grace at C. Milton Wright
 LOCATION:C. Milton Wright
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgamb5af932254
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgamb5af932254
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-c-milton-wright-harford-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20261217T190000
 DTEND;TZID=America/New_York:20261217T210000
 SUMMARY:Girls Basketball: Harford Tech at C. Milton Wright
 LOCATION:C. Milton Wright
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgame67a3c53d4
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgame67a3c53d4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-c-milton-wright-joppatowne-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20261222T170000
 DTEND;TZID=America/New_York:20261222T190000
 SUMMARY:Girls Basketball: Joppatowne at C. Milton Wright
 LOCATION:C. Milton Wright
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgam9d23b535f7
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgam9d23b535f7
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-c-milton-wright-aberdeen-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20270104T170000
 DTEND;TZID=America/New_York:20270104T190000
 SUMMARY:Girls Basketball: Aberdeen at C. Milton Wright
 LOCATION:C. Milton Wright
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgamf89799495b
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgamf89799495b
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-c-milton-wright-north-harford-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20270107T190000
 DTEND;TZID=America/New_York:20270107T210000
 SUMMARY:Girls Basketball: North Harford at C. Milton Wright
 LOCATION:C. Milton Wright
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgam350061d8d4
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgam350061d8d4
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-havre-de-grace-c-milton-wright-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20270111T190000
 DTEND;TZID=America/New_York:20270111T210000
 SUMMARY:Girls Basketball: C. Milton Wright at Havre de Grace
@@ -106,7 +120,7 @@ LOCATION:Havre de Grace
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-harford-tech-c-milton-wright-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20270119T190000
 DTEND;TZID=America/New_York:20270119T210000
 SUMMARY:Girls Basketball: C. Milton Wright at Harford Tech
@@ -114,15 +128,17 @@ LOCATION:Harford Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-c-milton-wright-edgewood-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000
 SUMMARY:Girls Basketball: Edgewood at C. Milton Wright
 LOCATION:C. Milton Wright
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgamd9abb730d2
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgamd9abb730d2
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-bohemia-manor-c-milton-wright-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20270202T173000
 DTEND;TZID=America/New_York:20270202T193000
 SUMMARY:Girls Basketball: C. Milton Wright at Bohemia Manor
@@ -132,23 +148,27 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-c-milton-wright-howard-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20270204T170000
 DTEND;TZID=America/New_York:20270204T190000
 SUMMARY:Girls Basketball: Howard at C. Milton Wright
 LOCATION:C. Milton Wright
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgam855daeb6f3
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgam855daeb6f3
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-c-milton-wright-rising-sun-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20270208T170000
 DTEND;TZID=America/New_York:20270208T190000
 SUMMARY:Girls Basketball: Rising Sun at C. Milton Wright
 LOCATION:C. Milton Wright
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgamb106b5f2d8
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgamb106b5f2d8
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-joppatowne-c-milton-wright-girls-basketball@oldlinerankings
-DTSTAMP:20261028T082126Z
+DTSTAMP:20261028T165447Z
 DTSTART;TZID=America/New_York:20270210T173000
 DTEND;TZID=America/New_York:20270210T193000
 SUMMARY:Girls Basketball: C. Milton Wright at Joppatowne

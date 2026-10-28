@@ -6,7 +6,7 @@ X-WR-CALNAME:Potomac Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-crossland-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261028T081917Z
+DTSTAMP:20261028T165209Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Potomac at Crossland
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Potomac 1\, Crossland 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-largo-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261028T081917Z
+DTSTAMP:20261028T165209Z
 DTSTART;TZID=America/New_York:20260917T150000
 DTEND;TZID=America/New_York:20260917T170000
 SUMMARY:Boys Soccer: Potomac at Largo
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-oxon-hill-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261028T081917Z
+DTSTAMP:20261028T165209Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Potomac at Oxon Hill
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Potomac 1\, Oxon Hill 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-frederick-douglass-pg-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261028T081917Z
+DTSTAMP:20261028T165209Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Potomac at Frederick Douglass-PG
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Potomac 0\, Frederick Douglass-PG 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-surrattsville-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261028T081917Z
+DTSTAMP:20261028T165209Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Potomac at Surrattsville
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Potomac 4\, Surrattsville 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-international-hs-at-langley-park-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261028T081917Z
+DTSTAMP:20261028T165209Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Potomac at International HS at Langley Park
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Potomac 0\, International HS at Langley Park 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-fairmont-heights-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261028T081917Z
+DTSTAMP:20261028T165209Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Potomac at Fairmont Heights
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Potomac 0\, Fairmont Heights 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-cmit-north-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261028T081917Z
+DTSTAMP:20261028T165209Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Potomac at CMIT - North
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Potomac 2\, CMIT - North 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-international-hs-at-largo-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261028T081917Z
+DTSTAMP:20261028T165209Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Potomac at International HS at Largo
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Potomac 0\, International HS at Largo 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-friendly-potomac-boys-soccer@oldlinerankings
-DTSTAMP:20261028T081917Z
+DTSTAMP:20261028T165209Z
 DTSTART;TZID=America/New_York:20261019T150000
 DTEND;TZID=America/New_York:20261019T170000
 SUMMARY:Boys Soccer: Potomac at Friendly
