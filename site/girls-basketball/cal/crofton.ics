@@ -6,7 +6,7 @@ X-WR-CALNAME:Crofton Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-21-crofton-winston-churchill-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20261121T123000
 DTEND;TZID=America/New_York:20261121T143000
 SUMMARY:Girls Basketball: Winston Churchill at Crofton
@@ -14,7 +14,7 @@ LOCATION:Crofton
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-hammond-crofton-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20261130T180000
 DTEND;TZID=America/New_York:20261130T200000
 SUMMARY:Girls Basketball: Crofton at Hammond
@@ -22,7 +22,7 @@ LOCATION:Hammond
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-annapolis-crofton-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20261211T170000
 DTEND;TZID=America/New_York:20261211T190000
 SUMMARY:Girls Basketball: Crofton at Annapolis
@@ -32,7 +32,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-south-river-crofton-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20261217T170000
 DTEND;TZID=America/New_York:20261217T190000
 SUMMARY:Girls Basketball: Crofton at South River
@@ -42,15 +42,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-crofton-glenelg-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270104T180000
 DTEND;TZID=America/New_York:20270104T200000
 SUMMARY:Girls Basketball: Glenelg at Crofton
 LOCATION:Crofton
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrofton-high-school-gambrills-md%2Fgamc27c1e7f96
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrofton-high-school-gambrills-md%2Fgamc27c1e7f96
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-chesapeake-aa-crofton-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270108T170000
 DTEND;TZID=America/New_York:20270108T190000
 SUMMARY:Girls Basketball: Crofton at Chesapeake-AA
@@ -60,7 +62,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-crofton-north-county-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270112T180000
 DTEND;TZID=America/New_York:20270112T200000
 SUMMARY:Girls Basketball: North County at Crofton
@@ -68,7 +70,7 @@ LOCATION:Crofton
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-glen-burnie-crofton-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270115T170000
 DTEND;TZID=America/New_York:20270115T190000
 SUMMARY:Girls Basketball: Crofton at Glen Burnie
@@ -78,31 +80,37 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-northeast-aa-crofton-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270119T180000
 DTEND;TZID=America/New_York:20270119T200000
 SUMMARY:Girls Basketball: Crofton at Northeast-AA
 LOCATION:Northeast-AA
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnortheast-high-school-pasadena-md%2Fgam90959dc2b5
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnortheast-high-school-pasadena-md%2Fgam90959dc2b5
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-crofton-southern-aa-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270122T170000
 DTEND;TZID=America/New_York:20270122T190000
 SUMMARY:Girls Basketball: Southern-AA at Crofton
 LOCATION:Crofton
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrofton-high-school-gambrills-md%2Fgamd04fb7b7fe
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrofton-high-school-gambrills-md%2Fgamd04fb7b7fe
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-crofton-severna-park-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270126T180000
 DTEND;TZID=America/New_York:20270126T200000
 SUMMARY:Girls Basketball: Severna Park at Crofton
 LOCATION:Crofton
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrofton-high-school-gambrills-md%2Fgambe7db87c70
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrofton-high-school-gambrills-md%2Fgambe7db87c70
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-centennial-crofton-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270129T180000
 DTEND;TZID=America/New_York:20270129T200000
 SUMMARY:Girls Basketball: Crofton at Centennial
@@ -112,15 +120,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-arundel-crofton-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270202T180000
 DTEND;TZID=America/New_York:20270202T200000
 SUMMARY:Girls Basketball: Crofton at Arundel
 LOCATION:Arundel
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Farundel-high-school-gambrills-md%2Fgam8edda578ea
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Farundel-high-school-gambrills-md%2Fgam8edda578ea
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-old-mill-crofton-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270210T180000
 DTEND;TZID=America/New_York:20270210T200000
 SUMMARY:Girls Basketball: Crofton at Old Mill
@@ -130,7 +140,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-annapolis-crofton-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270212T170000
 DTEND;TZID=America/New_York:20270212T190000
 SUMMARY:Girls Basketball: Crofton at Annapolis
@@ -140,7 +150,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-meade-crofton-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270216T180000
 DTEND;TZID=America/New_York:20270216T200000
 SUMMARY:Girls Basketball: Crofton at Meade
@@ -148,10 +158,12 @@ LOCATION:Meade
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-crofton-broadneck-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270218T180000
 DTEND;TZID=America/New_York:20270218T200000
 SUMMARY:Girls Basketball: Broadneck at Crofton
 LOCATION:Crofton
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrofton-high-school-gambrills-md%2Fgam47fbb148ad
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fcrofton-high-school-gambrills-md%2Fgam47fbb148ad
 END:VEVENT
 END:VCALENDAR

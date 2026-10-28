@@ -6,23 +6,39 @@ X-WR-CALNAME:National Academy Foundation (NAF) Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-benjamin-franklin-national-academy-foundation-naf-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20261204T154500
 DTEND;TZID=America/New_York:20261204T174500
 SUMMARY:Girls Basketball: National Academy Foundation (NAF) at Benjamin Franklin
 LOCATION:Benjamin Franklin
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-22-city-neighbors-charter-school-national-academy-foundation-naf-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
-DTSTART;TZID=America/New_York:20261222T171500
-DTEND;TZID=America/New_York:20261222T191500
-SUMMARY:Girls Basketball: National Academy Foundation (NAF) at City Neighbors Charter School
-LOCATION:City Neighbors Charter School
+UID:2026-12-10-national-academy-foundation-naf-coppin-academy-girls-basketball@oldlinerankings
+DTSTAMP:20261028T082126Z
+DTSTART;TZID=America/New_York:20261210T154500
+DTEND;TZID=America/New_York:20261210T174500
+SUMMARY:Girls Basketball: Coppin Academy at National Academy Foundation (NAF)
+LOCATION:National Academy Foundation (NAF)
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-national-academy-foundation-naf-acce-girls-basketball@oldlinerankings
+DTSTAMP:20261028T082126Z
+DTSTART;TZID=America/New_York:20261217T154500
+DTEND;TZID=America/New_York:20261217T174500
+SUMMARY:Girls Basketball: ACCE at National Academy Foundation (NAF)
+LOCATION:National Academy Foundation (NAF)
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-national-academy-foundation-naf-city-neighbors-charter-school-girls-basketball@oldlinerankings
+DTSTAMP:20261028T082126Z
+DTSTART;TZID=America/New_York:20261222T154500
+DTEND;TZID=America/New_York:20261222T174500
+SUMMARY:Girls Basketball: City Neighbors Charter School at National Academy Foundation (NAF)
+LOCATION:National Academy Foundation (NAF)
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-national-academy-foundation-naf-patterson-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270107T171500
 DTEND;TZID=America/New_York:20270107T191500
 SUMMARY:Girls Basketball: Patterson at National Academy Foundation (NAF)
@@ -30,7 +46,7 @@ LOCATION:National Academy Foundation (NAF)
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-frederick-douglass-b-national-academy-foundation-naf-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Girls Basketball: National Academy Foundation (NAF) at Frederick Douglass-B
@@ -38,7 +54,7 @@ LOCATION:Frederick Douglass-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-southwestern-national-academy-foundation-naf-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270119T171500
 DTEND;TZID=America/New_York:20270119T191500
 SUMMARY:Girls Basketball: National Academy Foundation (NAF) at Southwestern
@@ -46,7 +62,7 @@ LOCATION:Southwestern
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-national-academy-foundation-naf-reginald-lewis-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270121T171500
 DTEND;TZID=America/New_York:20270121T191500
 SUMMARY:Girls Basketball: Reginald Lewis at National Academy Foundation (NAF)
@@ -54,15 +70,23 @@ LOCATION:National Academy Foundation (NAF)
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-national-academy-foundation-naf-coppin-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270126T171500
 DTEND;TZID=America/New_York:20270126T191500
 SUMMARY:Girls Basketball: Coppin Academy at National Academy Foundation (NAF)
 LOCATION:National Academy Foundation (NAF)
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-28-acce-national-academy-foundation-naf-girls-basketball@oldlinerankings
+DTSTAMP:20261028T082126Z
+DTSTART;TZID=America/New_York:20270128T154500
+DTEND;TZID=America/New_York:20270128T174500
+SUMMARY:Girls Basketball: National Academy Foundation (NAF) at ACCE
+LOCATION:ACCE
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-02-city-neighbors-charter-school-national-academy-foundation-naf-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270202T171500
 DTEND;TZID=America/New_York:20270202T191500
 SUMMARY:Girls Basketball: National Academy Foundation (NAF) at City Neighbors Charter School
@@ -70,7 +94,7 @@ LOCATION:City Neighbors Charter School
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-national-academy-foundation-naf-southwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270209T171500
 DTEND;TZID=America/New_York:20270209T191500
 SUMMARY:Girls Basketball: Southwestern at National Academy Foundation (NAF)
@@ -78,7 +102,7 @@ LOCATION:National Academy Foundation (NAF)
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-lake-clifton-national-academy-foundation-naf-girls-basketball@oldlinerankings
-DTSTAMP:20261027T160620Z
+DTSTAMP:20261028T082126Z
 DTSTART;TZID=America/New_York:20270218T154500
 DTEND;TZID=America/New_York:20270218T174500
 SUMMARY:Girls Basketball: National Academy Foundation (NAF) at Lake Clifton

@@ -6,7 +6,7 @@ X-WR-CALNAME:Broadneck Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-broadneck-northeast-aa-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20261204T184500
 DTEND;TZID=America/New_York:20261204T204500
 SUMMARY:Boys Basketball: Northeast-AA at Broadneck
@@ -14,7 +14,7 @@ LOCATION:Broadneck
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-severna-park-broadneck-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20261211T184500
 DTEND;TZID=America/New_York:20261211T204500
 SUMMARY:Boys Basketball: Broadneck at Severna Park
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-broadneck-severn-run-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20261218T184500
 DTEND;TZID=America/New_York:20261218T204500
 SUMMARY:Boys Basketball: Severn Run at Broadneck
@@ -32,7 +32,7 @@ LOCATION:Broadneck
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-annapolis-broadneck-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270105T180000
 DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:Boys Basketball: Broadneck at Annapolis
@@ -42,7 +42,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-broadneck-old-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270108T184500
 DTEND;TZID=America/New_York:20270108T204500
 SUMMARY:Boys Basketball: Old Mill at Broadneck
@@ -50,7 +50,7 @@ LOCATION:Broadneck
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-broadneck-meade-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270112T180000
 DTEND;TZID=America/New_York:20270112T200000
 SUMMARY:Boys Basketball: Meade at Broadneck
@@ -58,7 +58,7 @@ LOCATION:Broadneck
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-paul-laurence-dunbar-broadneck-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270114T180000
 DTEND;TZID=America/New_York:20270114T200000
 SUMMARY:Boys Basketball: Broadneck at Paul Laurence Dunbar
@@ -66,15 +66,17 @@ LOCATION:Paul Laurence Dunbar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-south-river-broadneck-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270119T180000
 DTEND;TZID=America/New_York:20270119T200000
 SUMMARY:Boys Basketball: Broadneck at South River
 LOCATION:South River
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgam24b0e388e7
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsouth-river-high-school-edgewater-md%2Fgam24b0e388e7
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-broadneck-chesapeake-aa-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270122T184500
 DTEND;TZID=America/New_York:20270122T204500
 SUMMARY:Boys Basketball: Chesapeake-AA at Broadneck
@@ -82,7 +84,7 @@ LOCATION:Broadneck
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-chesapeake-science-point-broadneck-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270126T180000
 DTEND;TZID=America/New_York:20270126T200000
 SUMMARY:Boys Basketball: Broadneck at Chesapeake Science Point
@@ -90,7 +92,7 @@ LOCATION:Chesapeake Science Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-glen-burnie-broadneck-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270129T184500
 DTEND;TZID=America/New_York:20270129T204500
 SUMMARY:Boys Basketball: Broadneck at Glen Burnie
@@ -100,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-broadneck-north-county-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270202T180000
 DTEND;TZID=America/New_York:20270202T200000
 SUMMARY:Boys Basketball: North County at Broadneck
@@ -108,15 +110,17 @@ LOCATION:Broadneck
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-northeast-aa-broadneck-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270205T184500
 DTEND;TZID=America/New_York:20270205T204500
 SUMMARY:Boys Basketball: Broadneck at Northeast-AA
 LOCATION:Northeast-AA
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnortheast-high-school-pasadena-md%2Fgame77459cf4a
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fnortheast-high-school-pasadena-md%2Fgame77459cf4a
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-southern-aa-broadneck-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270210T180000
 DTEND;TZID=America/New_York:20270210T200000
 SUMMARY:Boys Basketball: Broadneck at Southern-AA
@@ -126,7 +130,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-broadneck-severna-park-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270212T184500
 DTEND;TZID=America/New_York:20270212T204500
 SUMMARY:Boys Basketball: Severna Park at Broadneck
@@ -134,7 +138,7 @@ LOCATION:Broadneck
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-arundel-broadneck-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270216T180000
 DTEND;TZID=America/New_York:20270216T200000
 SUMMARY:Boys Basketball: Broadneck at Arundel
@@ -144,7 +148,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-broadneck-crofton-boys-basketball@oldlinerankings
-DTSTAMP:20261027T160533Z
+DTSTAMP:20261028T082033Z
 DTSTART;TZID=America/New_York:20270218T180000
 DTEND;TZID=America/New_York:20270218T200000
 SUMMARY:Boys Basketball: Crofton at Broadneck
