@@ -6,7 +6,7 @@ X-WR-CALNAME:South Carroll Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-15-south-carroll-smithsburg-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Smithsburg at South Carroll
@@ -15,7 +15,7 @@ DESCRIPTION:Final: South Carroll 4\, Smithsburg 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-south-carroll-century-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Century at South Carroll
@@ -24,7 +24,7 @@ DESCRIPTION:Final: South Carroll 1\, Century 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-brunswick-south-carroll-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;TZID=America/New_York:20260926T133000
 DTEND;TZID=America/New_York:20260926T153000
 SUMMARY:Boys Soccer: South Carroll at Brunswick
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-south-carroll-westminster-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Westminster at South Carroll
@@ -43,7 +43,7 @@ DESCRIPTION:Final: South Carroll 0\, Westminster 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-south-carroll-manchester-valley-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Manchester Valley at South Carroll
@@ -52,7 +52,7 @@ DESCRIPTION:Final: South Carroll 2\, Manchester Valley 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-south-carroll-liberty-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: Liberty at South Carroll
@@ -61,7 +61,7 @@ DESCRIPTION:Final: South Carroll 2\, Liberty 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-south-carroll-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Winters Mill at South Carroll
@@ -70,7 +70,7 @@ DESCRIPTION:Final: South Carroll 0\, Winters Mill 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-south-carroll-francis-scott-key-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Francis Scott Key at South Carroll
@@ -79,7 +79,7 @@ DESCRIPTION:Final: South Carroll 5\, Francis Scott Key 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-south-carroll-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Walkersville at South Carroll
@@ -88,7 +88,7 @@ DESCRIPTION:Final: South Carroll 2\, Walkersville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-south-carroll-gov-thomas-johnson-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Boys Soccer: Gov. Thomas Johnson at South Carroll
@@ -98,7 +98,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-south-carroll-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Oakdale at South Carroll
@@ -107,7 +107,7 @@ DESCRIPTION:Final: South Carroll 0\, Oakdale 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-south-carroll-westminster-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Boys Soccer: Westminster at South Carroll
@@ -115,7 +115,7 @@ LOCATION:South Carroll
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-south-carroll-catoctin-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;TZID=America/New_York:20261030T190000
 DTEND;TZID=America/New_York:20261030T210000
 SUMMARY:Boys Soccer: Catoctin at South Carroll

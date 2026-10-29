@@ -6,7 +6,7 @@ X-WR-CALNAME:Fort Hill Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-fort-hill-morgantown-christian-academy-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20261210T190000
 DTEND;TZID=America/New_York:20261210T210000
 SUMMARY:Boys Basketball: Morgantown Christian Academy at Fort Hill
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-fort-hill-windber-area-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20261212T133000
 DTEND;TZID=America/New_York:20261212T153000
 SUMMARY:Boys Basketball: Windber Area at Fort Hill
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-fort-hill-university-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20261215T190000
 DTEND;TZID=America/New_York:20261215T210000
 SUMMARY:Boys Basketball: University at Fort Hill
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-fort-hill-broadfording-christian-academy-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20261217T190000
 DTEND;TZID=America/New_York:20261217T210000
 SUMMARY:Boys Basketball: Broadfording Christian Academy at Fort Hill
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-boonsboro-fort-hill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20261221T190000
 DTEND;TZID=America/New_York:20261221T210000
 SUMMARY:Boys Basketball: Fort Hill at Boonsboro
@@ -54,7 +54,7 @@ LOCATION:Boonsboro
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-fort-hill-northern-g-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20270105T190000
 DTEND;TZID=America/New_York:20270105T210000
 SUMMARY:Boys Basketball: Northern-G at Fort Hill
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-allegany-fort-hill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20270108T190000
 DTEND;TZID=America/New_York:20270108T210000
 SUMMARY:Boys Basketball: Fort Hill at Allegany
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-fort-hill-keyser-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20270115T190000
 DTEND;TZID=America/New_York:20270115T210000
 SUMMARY:Boys Basketball: Keyser at Fort Hill
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-fort-hill-southern-g-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20270118T190000
 DTEND;TZID=America/New_York:20270118T210000
 SUMMARY:Boys Basketball: Southern-G at Fort Hill
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-northern-g-fort-hill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20270119T190000
 DTEND;TZID=America/New_York:20270119T210000
 SUMMARY:Boys Basketball: Fort Hill at Northern-G
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-keyser-fort-hill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20270126T193000
 DTEND;TZID=America/New_York:20270126T213000
 SUMMARY:Boys Basketball: Fort Hill at Keyser
@@ -112,7 +112,7 @@ LOCATION:Keyser
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-fort-hill-mountain-ridge-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20270129T190000
 DTEND;TZID=America/New_York:20270129T210000
 SUMMARY:Boys Basketball: Mountain Ridge at Fort Hill
@@ -122,7 +122,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-fort-hill-allegany-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20270205T190000
 DTEND;TZID=America/New_York:20270205T210000
 SUMMARY:Boys Basketball: Allegany at Fort Hill
@@ -132,7 +132,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-mountain-ridge-fort-hill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20270212T190000
 DTEND;TZID=America/New_York:20270212T210000
 SUMMARY:Boys Basketball: Fort Hill at Mountain Ridge
@@ -142,7 +142,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-university-fort-hill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20270216T193000
 DTEND;TZID=America/New_York:20270216T213000
 SUMMARY:Boys Basketball: Fort Hill at University
@@ -150,7 +150,7 @@ LOCATION:University
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-southern-g-fort-hill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20270219T193000
 DTEND;TZID=America/New_York:20270219T213000
 SUMMARY:Boys Basketball: Fort Hill at Southern-G
@@ -160,7 +160,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-fort-hill-boonsboro-boys-basketball@oldlinerankings
-DTSTAMP:20261029T143556Z
+DTSTAMP:20261029T170823Z
 DTSTART;TZID=America/New_York:20270222T190000
 DTEND;TZID=America/New_York:20270222T210000
 SUMMARY:Boys Basketball: Boonsboro at Fort Hill

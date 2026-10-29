@@ -6,7 +6,7 @@ X-WR-CALNAME:John F. Kennedy Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-11-seneca-valley-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20260911T154500
 DTEND;TZID=America/New_York:20260911T174500
 SUMMARY:Girls Soccer: John F. Kennedy at Seneca Valley
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-richard-montgomery-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20260914T191500
 DTEND;TZID=America/New_York:20260914T211500
 SUMMARY:Girls Soccer: John F. Kennedy at Richard Montgomery
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-albert-einstein-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: John F. Kennedy at Albert Einstein
@@ -35,7 +35,7 @@ DESCRIPTION:Final: John F. Kennedy 0\, Albert Einstein 12
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-rockville-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20260924T180000
 DTEND;TZID=America/New_York:20260924T200000
 SUMMARY:Girls Soccer: John F. Kennedy at Rockville
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-wheaton-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261001T180000
 DTEND;TZID=America/New_York:20261001T200000
 SUMMARY:Girls Soccer: John F. Kennedy at Wheaton
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-poolesville-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T130000
 SUMMARY:Girls Soccer: John F. Kennedy at Poolesville
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-john-f-kennedy-montgomery-blair-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261005T191500
 DTEND;TZID=America/New_York:20261005T211500
 SUMMARY:Girls Soccer: Montgomery Blair at John F. Kennedy
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-damascus-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261008T191500
 DTEND;TZID=America/New_York:20261008T211500
 SUMMARY:Girls Soccer: John F. Kennedy at Damascus
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-watkins-mill-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261013T191500
 DTEND;TZID=America/New_York:20261013T211500
 SUMMARY:Girls Soccer: John F. Kennedy at Watkins Mill
@@ -95,7 +95,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-northwood-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Girls Soccer: John F. Kennedy at Northwood
@@ -104,7 +104,7 @@ DESCRIPTION:Final: John F. Kennedy 2\, Northwood 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-sherwood-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261020T171500
 DTEND;TZID=America/New_York:20261020T191500
 SUMMARY:Girls Soccer: John F. Kennedy at Sherwood
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-walter-johnson-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261022T191500
 DTEND;TZID=America/New_York:20261022T211500
 SUMMARY:Girls Soccer: John F. Kennedy at Walter Johnson
@@ -124,7 +124,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-james-hubert-blake-john-f-kennedy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261028T171500
 DTEND;TZID=America/New_York:20261028T191500
 SUMMARY:Girls Soccer: John F. Kennedy at James Hubert Blake

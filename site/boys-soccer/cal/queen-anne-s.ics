@@ -6,7 +6,7 @@ X-WR-CALNAME:Queen Anne's Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-north-caroline-queen-anne-s-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;TZID=America/New_York:20260909T173000
 DTEND;TZID=America/New_York:20260909T193000
 SUMMARY:Boys Soccer: Queen Anne's at North Caroline
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-queen-anne-s-parkside-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;TZID=America/New_York:20260911T173000
 DTEND;TZID=America/New_York:20260911T193000
 SUMMARY:Boys Soccer: Parkside at Queen Anne's
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-queen-anne-s-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Boys Soccer: James M. Bennett at Queen Anne's
@@ -35,7 +35,7 @@ DESCRIPTION:Final: Queen Anne's 0\, James M. Bennett 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-queen-anne-s-easton-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Boys Soccer: Easton at Queen Anne's
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Queen Anne's -\, Easton -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-cambridge-south-dorchester-queen-anne-s-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Boys Soccer: Queen Anne's at Cambridge-South Dorchester
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Queen Anne's 4\, Cambridge-South Dorchester 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-queen-anne-s-stephen-decatur-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;TZID=America/New_York:20260928T173000
 DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Boys Soccer: Stephen Decatur at Queen Anne's
@@ -63,7 +63,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-north-dorchester-queen-anne-s-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Boys Soccer: Queen Anne's at North Dorchester
@@ -72,7 +72,7 @@ DESCRIPTION:Final: Queen Anne's 4\, North Dorchester 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-st-michael-s-queen-anne-s-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Boys Soccer: Queen Anne's at St. Michael's
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-queen-anne-s-wicomico-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Boys Soccer: Wicomico at Queen Anne's
@@ -91,7 +91,7 @@ DESCRIPTION:Final: Queen Anne's 2\, Wicomico 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-colonel-richardson-queen-anne-s-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;TZID=America/New_York:20261009T173000
 DTEND;TZID=America/New_York:20261009T193000
 SUMMARY:Boys Soccer: Queen Anne's at Colonel Richardson
@@ -101,7 +101,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-kent-island-queen-anne-s-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;TZID=America/New_York:20261014T183000
 DTEND;TZID=America/New_York:20261014T203000
 SUMMARY:Boys Soccer: Queen Anne's at Kent Island
@@ -111,7 +111,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-kent-county-queen-anne-s-boys-soccer@oldlinerankings
-DTSTAMP:20261029T143442Z
+DTSTAMP:20261029T170711Z
 DTSTART;TZID=America/New_York:20261019T173000
 DTEND;TZID=America/New_York:20261019T193000
 SUMMARY:Boys Soccer: Queen Anne's at Kent County

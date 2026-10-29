@@ -6,7 +6,7 @@ X-WR-CALNAME:Aberdeen Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-aberdeen-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20260904T153000
 DTEND;TZID=America/New_York:20260904T173000
 SUMMARY:Girls Soccer: Edgewood at Aberdeen
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-joppatowne-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20260910T153000
 DTEND;TZID=America/New_York:20260910T173000
 SUMMARY:Girls Soccer: Aberdeen at Joppatowne
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-north-harford-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20260915T165500
 DTEND;TZID=America/New_York:20260915T185500
 SUMMARY:Girls Soccer: Aberdeen at North Harford
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-bohemia-manor-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Girls Soccer: Aberdeen at Bohemia Manor
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-bel-air-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20260921T185500
 DTEND;TZID=America/New_York:20260921T205500
 SUMMARY:Girls Soccer: Aberdeen at Bel Air
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-fallston-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20260924T152500
 DTEND;TZID=America/New_York:20260924T172500
 SUMMARY:Girls Soccer: Aberdeen at Fallston
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-elkton-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Girls Soccer: Aberdeen at Elkton
@@ -75,7 +75,7 @@ DESCRIPTION:Final: Aberdeen 0\, Elkton 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-patterson-mill-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Girls Soccer: Aberdeen at Patterson Mill
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-harford-tech-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261005T165500
 DTEND;TZID=America/New_York:20261005T185500
 SUMMARY:Girls Soccer: Aberdeen at Harford Tech
@@ -95,7 +95,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-havre-de-grace-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261008T185500
 DTEND;TZID=America/New_York:20261008T205500
 SUMMARY:Girls Soccer: Aberdeen at Havre de Grace
@@ -105,7 +105,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-north-east-c-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Girls Soccer: Aberdeen at North East-C
@@ -114,7 +114,7 @@ DESCRIPTION:Final: Aberdeen 0\, North East-C 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-aberdeen-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261022T172500
 DTEND;TZID=America/New_York:20261022T192500
 SUMMARY:Girls Soccer: Edgewood at Aberdeen
@@ -124,7 +124,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-aberdeen-milford-mill-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261028T165500
 DTEND;TZID=America/New_York:20261028T185500
 SUMMARY:Girls Soccer: Milford Mill Academy at Aberdeen
@@ -134,7 +134,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-patapsco-aberdeen-girls-soccer@oldlinerankings
-DTSTAMP:20261029T143517Z
+DTSTAMP:20261029T170744Z
 DTSTART;TZID=America/New_York:20261030T150000
 DTEND;TZID=America/New_York:20261030T170000
 SUMMARY:Girls Soccer: Aberdeen at Patapsco

@@ -6,7 +6,7 @@ X-WR-CALNAME:Joppatowne Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-green-street-academy-joppatowne-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20261204T154500
 DTEND;TZID=America/New_York:20261204T174500
 SUMMARY:Girls Basketball: Joppatowne at Green Street Academy
@@ -14,7 +14,7 @@ LOCATION:Green Street Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-fallston-joppatowne-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20261207T170000
 DTEND;TZID=America/New_York:20261207T190000
 SUMMARY:Girls Basketball: Joppatowne at Fallston
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-patterson-mill-joppatowne-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20261209T190000
 DTEND;TZID=America/New_York:20261209T210000
 SUMMARY:Girls Basketball: Joppatowne at Patterson Mill
@@ -32,7 +32,7 @@ LOCATION:Patterson Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-joppatowne-harford-tech-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20261211T183000
 DTEND;TZID=America/New_York:20261211T203000
 SUMMARY:Girls Basketball: Harford Tech at Joppatowne
@@ -42,7 +42,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-bel-air-joppatowne-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20261214T190000
 DTEND;TZID=America/New_York:20261214T210000
 SUMMARY:Girls Basketball: Joppatowne at Bel Air
@@ -51,7 +51,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6972133
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-north-harford-joppatowne-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20261216T170000
 DTEND;TZID=America/New_York:20261216T190000
 SUMMARY:Girls Basketball: Joppatowne at North Harford
@@ -59,7 +59,7 @@ LOCATION:North Harford
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-joppatowne-aberdeen-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20261218T183000
 DTEND;TZID=America/New_York:20261218T203000
 SUMMARY:Girls Basketball: Aberdeen at Joppatowne
@@ -69,7 +69,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-c-milton-wright-joppatowne-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20261222T170000
 DTEND;TZID=America/New_York:20261222T190000
 SUMMARY:Girls Basketball: Joppatowne at C. Milton Wright
@@ -79,7 +79,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-joppatowne-fallston-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20270104T173000
 DTEND;TZID=America/New_York:20270104T193000
 SUMMARY:Girls Basketball: Fallston at Joppatowne
@@ -89,7 +89,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-joppatowne-bohemia-manor-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20270108T183000
 DTEND;TZID=America/New_York:20270108T203000
 SUMMARY:Girls Basketball: Bohemia Manor at Joppatowne
@@ -99,7 +99,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-joppatowne-bel-air-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20270111T173000
 DTEND;TZID=America/New_York:20270111T193000
 SUMMARY:Girls Basketball: Bel Air at Joppatowne
@@ -109,7 +109,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-bohemia-manor-joppatowne-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20270115T173000
 DTEND;TZID=America/New_York:20270115T193000
 SUMMARY:Girls Basketball: Joppatowne at Bohemia Manor
@@ -119,7 +119,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-aberdeen-joppatowne-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20270119T170000
 DTEND;TZID=America/New_York:20270119T190000
 SUMMARY:Girls Basketball: Joppatowne at Aberdeen
@@ -127,7 +127,7 @@ LOCATION:Aberdeen
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-joppatowne-patterson-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20270122T183000
 DTEND;TZID=America/New_York:20270122T203000
 SUMMARY:Girls Basketball: Patterson Mill at Joppatowne
@@ -137,7 +137,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-southwestern-joppatowne-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20270204T154500
 DTEND;TZID=America/New_York:20270204T174500
 SUMMARY:Girls Basketball: Joppatowne at Southwestern
@@ -147,7 +147,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-patapsco-joppatowne-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20270209T173000
 DTEND;TZID=America/New_York:20270209T193000
 SUMMARY:Girls Basketball: Joppatowne at Patapsco
@@ -155,7 +155,7 @@ LOCATION:Patapsco
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-joppatowne-c-milton-wright-girls-basketball@oldlinerankings
-DTSTAMP:20261029T143647Z
+DTSTAMP:20261029T170915Z
 DTSTART;TZID=America/New_York:20270210T173000
 DTEND;TZID=America/New_York:20270210T193000
 SUMMARY:Girls Basketball: C. Milton Wright at Joppatowne
