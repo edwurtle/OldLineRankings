@@ -25,6 +25,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{root}}styles.css?v={{stamp}}">
+<!-- Start the scripts (the data is the big one) while the page parses, so the app draws sooner -->
+<link rel="preload" href="data.js?v={{stamp}}" as="script">
+<link rel="preload" href="{{root}}app.js?v={{stamp}}" as="script">
 </head>
 <body>
 <header class="nav">

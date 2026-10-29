@@ -372,6 +372,7 @@ td.team-td { white-space: normal; width: 100%; }  /* the only column allowed to 
 .stat { font-size: 11px; font-weight: 700; padding: 1px 7px; border-radius: 6px; background: var(--accent-soft); color: var(--accent-ink); }
 .ctag { font-size: 11px; font-weight: 800; padding: 1px 7px; border-radius: 6px; background: var(--md-black); color: var(--md-gold); }
 .ctag.nm { background: var(--surface-2); color: var(--muted); border: 1px solid var(--border); font-weight: 600; }
+.ctag.po { background: var(--md-red); color: #fff; }
 .right { text-align: right; }
 .score { font-weight: 600; }
 .pts { font-size: 12px; color: var(--muted); }
@@ -577,6 +578,11 @@ body.embed .drawer { width: 100%; box-shadow: none; transition: none; }
 
 /* Plain team summary in a team page's HTML (search engines; replaced by the full page once app.js runs) */
 .seo { padding-top: 28px; padding-bottom: 28px; }
+/* Each page's text for search engines and no-JS visitors, which app.js replaces: hidden while the app loads so it
+   doesn't flash, shown after 3s if the app never draws; the page keeps its height so the footer doesn't jump up */
+#app > .seo { animation: seo-late 0s 3s both; }
+@keyframes seo-late { from { visibility: hidden; } to { visibility: visible; } }
+#app:has(> .seo) { min-height: 100vh; }
 .seo table { border-collapse: collapse; margin-top: 8px; }
 .seo td { padding: 4px 12px 4px 0; border-bottom: 1px solid var(--border); font-size: 14px; }
 
@@ -641,6 +647,9 @@ body.embed .drawer { width: 100%; box-shadow: none; transition: none; }
 .coin-note { display: flex; gap: 8px; align-items: center; margin-top: 8px; padding: 8px 12px; border-radius: 10px; background: var(--accent-soft); color: var(--accent-ink); font-size: 13px; font-weight: 600; }
 .coin-note .icon { width: 18px; height: 18px; flex: none; }
 .bracket.mini .slot.tcard .wp { min-width: 48px; font-size: 13px; }
+/* A finished game's score sits where the win chance would */
+.bracket .slot.tcard .wp.sc { font-size: 16px; font-weight: 800; color: var(--text); }
+.bracket .slot.tcard.lose .wp.sc { color: var(--muted); font-weight: 600; }
 .proj-link { all: unset; margin-top: 3px; font-size: 11px; font-weight: 600; color: var(--muted); cursor: pointer; }
 .proj-link:hover { color: var(--accent-ink); }
 .bracket .slot.tcard .d-done { margin-top: 3px; font-size: 11px; color: var(--faint); }

@@ -494,8 +494,16 @@ def build_site(key, cfg, nonce, stamp):
             t["slug"] = slug(t["school"])   # the team's own page: /<sport>/<slug>/
         sports[div] = dict(teams=teams, through=max((g["date"] for t in teams for g in t["games"]), default=None))
         if cfg.get("brackets") and (bracket := official_bracket(cfg, d["api"], teams, nonce)):
+            # MPSSAA's results feed has no playoff games: the bracket's finished games count toward the ratings
+            # (and show in each team's games); the official record used for seeding stays the regular season's
+            if rows := bracket_rows(bracket, {t["school"] for t in teams}):
+                teams = rank_sport(raw + rows, standings, cfg["classes"], cfg.get("first_meeting_only", False))
+                for t in teams:
+                    t["slug"] = slug(t["school"])
+                sports[div].update(teams=teams, through=max((g["date"] for t in teams for g in t["games"]), default=None))
             sports[div]["bracket"] = bracket
-            print(f"  Official bracket: {sum(1 for g in bracket['games'] if g['completed'])} of {len(bracket['games'])} games played")
+            print(f"  Official bracket: {sum(1 for g in bracket['games'] if g['completed'])} of {len(bracket['games'])} games played"
+                  + (f", {sum(1 for x in rows if x['result'])} added to the ratings" if rows else ""))
         hold = sports[div]["hold"] = preseason(cfg)
         if cfg.get("olr"):
             ratings, home, class_means = oldline.rate(teams, cfg["olr"], list(cfg["classes"]))
@@ -707,17 +715,73 @@ def official_bracket(cfg, api, teams, nonce):
     if not brackets.posted(b):
         return None
     by_key = {school_key(t["school"]): t["school"] for t in teams}
+    match = lambda name: by_key.get(school_key(ALIAS.get(name, name)))
+    # A region's seeds, from its first round: a later slot whose name doesn't match (MPSSAA once typed "Carver
+    # Vocational-Technical" for No. 3 Carver A&T) is that seed's team
+    seeded = {(g["c"], g["level"], t["seed"]): match(t["name"]) for g in b["games"] if g["level"] != "State" and g["round"] == "Region QF"
+              for t in g["teams"] if t["seed"] and t["name"] and t["name"] != "Bye"}
     unmatched = set()
     for g in b["games"]:
         for t in g["teams"]:
             if t["name"] and t["name"] != "Bye":
-                school = by_key.get(school_key(ALIAS.get(t["name"], t["name"])))
+                school = match(t["name"]) or (g["level"] != "State" and seeded.get((g["c"], g["level"], t["seed"])))
                 if not school:
                     unmatched.add(t["name"])
+                elif not match(t["name"]):
+                    print(f"  Bracket name {t['name']!r} read as No. {t['seed']} {school} ({g['c']} {g['level']})")
                 t["name"] = school or t["name"]
     if unmatched:
         print("  Bracket names with no school match:", sorted(unmatched))
+    # A finished region game whose loser is the one listed in the next round had its result entered on the wrong lines
+    # (MPSSAA once had Western-B 12, Meade 0 with Meade in the semifinal): the next round wins, so the result is flipped
+    order = {"Region QF": "Region SF", "Region SF": "Region Finals"}
+    nxt = {(g["c"], g["level"], g["round"], g["n"]): g for g in b["games"]}
+    for g in b["games"]:
+        n = nxt.get((g["c"], g["level"], order.get(g["round"]), (g["n"] + 1) // 2))
+        if not n or not g["completed"] or g["winner"] is None or not all(t["name"] and t["name"] != "Bye" for t in g["teams"]):
+            continue
+        won, lost = g["teams"][g["winner"]]["name"], g["teams"][1 - g["winner"]]["name"]
+        ahead = {t["name"] for t in n["teams"]}
+        if lost in ahead and won not in ahead:
+            a, z = g["teams"]
+            a["score"], z["score"] = z["score"], a["score"]
+            g["winner"] = 1 - g["winner"]
+            print(f"  Bracket result flipped to match the next round: {g['c']} {g['level']} {g['round']} {lost} over {won}")
     return b
+
+
+def clock(t):
+    """MPSSAA's free-text start time ("5:30pm", "7:00 p.m.", "6:30") as "HH:MM", or None. A bare hour is p.m."""
+    m = re.match(r"\s*(\d{1,2})(?::(\d{2}))?\s*([ap])?", (t or "").lower())
+    if not m:
+        return None
+    h, mins = int(m.group(1)), int(m.group(2) or 0)
+    if m.group(3) != "a" and h < 12:
+        h += 12
+    return f"{h:02d}:{mins:02d}" if h < 24 and mins < 60 else None
+
+
+def bracket_rows(bracket, members):
+    """Rows in the shape of MPSSAA's results feed (entered by the host) for the bracket's games between two of our
+    schools: finished games count toward the ratings and both kinds show in each team's games. A game won on
+    penalties keeps its tied score, so it rates as a tie."""
+    rows = []
+    for g in bracket["games"]:
+        a, b = g["teams"]
+        if not g["date"] or a["name"] not in members or b["name"] not in members:
+            continue
+        host, guest = (b, a) if g["site"] == b["name"] else (a, b)
+        if not g["completed"]:   # still to play
+            rows.append(dict(school=host["name"], opponent=guest["name"], your_score=None, opponent_score=None, result=None,
+                             status="scheduled", game_date=g["date"], week=None, home_team=host["name"], time=clock(g["time"])))
+            continue
+        if g["winner"] is None or a["score"] is None or b["score"] is None:
+            continue
+        result = "Tie" if host["score"] == guest["score"] else "Win" if host is g["teams"][g["winner"]] else "Loss"
+        rows.append(dict(school=host["name"], opponent=guest["name"], your_score=host["score"], opponent_score=guest["score"],
+                         result=result, status="completed", game_date=g["date"], week=None, home_team=host["name"],
+                         away_team=guest["name"], home_score=host["score"], away_score=guest["score"]))
+    return rows
 
 
 def fill_scores(raw, fixes):
