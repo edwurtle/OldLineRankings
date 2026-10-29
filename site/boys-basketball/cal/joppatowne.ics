@@ -6,7 +6,7 @@ X-WR-CALNAME:Joppatowne Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-joppatowne-aberdeen-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20261204T183000
 DTEND;TZID=America/New_York:20261204T203000
 SUMMARY:Boys Basketball: Aberdeen at Joppatowne
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-joppatowne-havre-de-grace-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20261208T183000
 DTEND;TZID=America/New_York:20261208T203000
 SUMMARY:Boys Basketball: Havre de Grace at Joppatowne
@@ -24,7 +24,7 @@ LOCATION:Joppatowne
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-joppatowne-fallston-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20261210T173000
 DTEND;TZID=America/New_York:20261210T193000
 SUMMARY:Boys Basketball: Fallston at Joppatowne
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-joppatowne-patterson-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20261215T173000
 DTEND;TZID=America/New_York:20261215T193000
 SUMMARY:Boys Basketball: Patterson Mill at Joppatowne
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-southwestern-joppatowne-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20261218T171500
 DTEND;TZID=America/New_York:20261218T191500
 SUMMARY:Boys Basketball: Joppatowne at Southwestern
@@ -52,7 +52,7 @@ LOCATION:Southwestern
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-north-east-c-joppatowne-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20261222T190000
 DTEND;TZID=America/New_York:20261222T210000
 SUMMARY:Boys Basketball: Joppatowne at North East-C
@@ -60,7 +60,7 @@ LOCATION:North East-C
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-bel-air-joppatowne-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20270105T170000
 DTEND;TZID=America/New_York:20270105T190000
 SUMMARY:Boys Basketball: Joppatowne at Bel Air
@@ -68,7 +68,7 @@ LOCATION:Bel Air
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-joppatowne-north-harford-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20270107T173000
 DTEND;TZID=America/New_York:20270107T193000
 SUMMARY:Boys Basketball: North Harford at Joppatowne
@@ -78,7 +78,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-c-milton-wright-joppatowne-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20270108T190000
 DTEND;TZID=America/New_York:20270108T210000
 SUMMARY:Boys Basketball: Joppatowne at C. Milton Wright
@@ -88,7 +88,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-aberdeen-joppatowne-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20270112T170000
 DTEND;TZID=America/New_York:20270112T190000
 SUMMARY:Boys Basketball: Joppatowne at Aberdeen
@@ -96,7 +96,7 @@ LOCATION:Aberdeen
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-joppatowne-havre-de-grace-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20270115T183000
 DTEND;TZID=America/New_York:20270115T203000
 SUMMARY:Boys Basketball: Havre de Grace at Joppatowne
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-joppatowne-harford-tech-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20270120T173000
 DTEND;TZID=America/New_York:20270120T193000
 SUMMARY:Boys Basketball: Harford Tech at Joppatowne
@@ -116,7 +116,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-patterson-mill-joppatowne-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20270126T190000
 DTEND;TZID=America/New_York:20270126T210000
 SUMMARY:Boys Basketball: Joppatowne at Patterson Mill
@@ -124,7 +124,7 @@ LOCATION:Patterson Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-fallston-joppatowne-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20270129T190000
 DTEND;TZID=America/New_York:20270129T210000
 SUMMARY:Boys Basketball: Joppatowne at Fallston
@@ -134,7 +134,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-joppatowne-north-east-c-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20270202T173000
 DTEND;TZID=America/New_York:20270202T193000
 SUMMARY:Boys Basketball: North East-C at Joppatowne
@@ -142,7 +142,7 @@ LOCATION:Joppatowne
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-joppatowne-bel-air-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20270205T183000
 DTEND;TZID=America/New_York:20270205T203000
 SUMMARY:Boys Basketball: Bel Air at Joppatowne
@@ -152,7 +152,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-patapsco-joppatowne-boys-basketball@oldlinerankings
-DTSTAMP:20261028T165351Z
+DTSTAMP:20261029T081944Z
 DTSTART;TZID=America/New_York:20270209T170000
 DTEND;TZID=America/New_York:20270209T190000
 SUMMARY:Boys Basketball: Joppatowne at Patapsco

@@ -6,7 +6,7 @@ X-WR-CALNAME:Liberty Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-liberty-walkersville-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: Walkersville at Liberty
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Liberty 3\, Walkersville 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-liberty-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Great Mills at Liberty
@@ -24,7 +24,7 @@ DESCRIPTION:Final: Liberty 10\, Great Mills 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-harford-tech-liberty-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;TZID=America/New_York:20260919T125000
 DTEND;TZID=America/New_York:20260919T145000
 SUMMARY:Girls Soccer: Liberty at Harford Tech
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-patterson-mill-liberty-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;TZID=America/New_York:20260919T125000
 DTEND;TZID=America/New_York:20260919T145000
 SUMMARY:Girls Soccer: Liberty at Patterson Mill
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-liberty-md-mcdonogh-school-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Girls Soccer: MD - McDonogh School at Liberty
@@ -53,7 +53,7 @@ DESCRIPTION:Final: Liberty 1\, MD - McDonogh School 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-liberty-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Westminster at Liberty
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Liberty 1\, Westminster 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-liberty-manchester-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Manchester Valley at Liberty
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Liberty 0\, Manchester Valley 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-francis-scott-key-liberty-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Liberty at Francis Scott Key
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Liberty 5\, Francis Scott Key 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-liberty-winters-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Winters Mill at Liberty
@@ -89,7 +89,7 @@ DESCRIPTION:Final: Liberty 2\, Winters Mill 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-south-carroll-liberty-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Liberty at South Carroll
@@ -98,7 +98,7 @@ DESCRIPTION:Final: Liberty 1\, South Carroll 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-liberty-century-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Century at Liberty
@@ -107,7 +107,7 @@ DESCRIPTION:Final: Liberty 1\, Century 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-smithsburg-liberty-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Liberty at Smithsburg
@@ -116,7 +116,7 @@ DESCRIPTION:Final: Liberty 6\, Smithsburg 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-liberty-frederick-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: Frederick at Liberty
@@ -125,7 +125,7 @@ DESCRIPTION:Final: Liberty 7\, Frederick 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-liberty-bel-air-girls-soccer@oldlinerankings
-DTSTAMP:20261028T165253Z
+DTSTAMP:20261029T081909Z
 DTSTART;TZID=America/New_York:20261021T185000
 DTEND;TZID=America/New_York:20261021T205000
 SUMMARY:Girls Soccer: Bel Air at Liberty

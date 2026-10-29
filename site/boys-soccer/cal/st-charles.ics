@@ -6,7 +6,7 @@ X-WR-CALNAME:St. Charles Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-patuxent-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Boys Soccer: St. Charles at Patuxent
@@ -15,7 +15,7 @@ DESCRIPTION:Final: St. Charles 2\, Patuxent 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-calvert-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;TZID=America/New_York:20260910T163000
 DTEND;TZID=America/New_York:20260910T183000
 SUMMARY:Boys Soccer: St. Charles at Calvert
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-northern-c-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: St. Charles at Northern-C
@@ -34,7 +34,7 @@ DESCRIPTION:Final: St. Charles 0\, Northern-C 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-st-charles-leonardtown-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;TZID=America/New_York:20260917T144900
 DTEND;TZID=America/New_York:20260917T164900
 SUMMARY:Boys Soccer: Leonardtown at St. Charles
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-st-charles-chopticon-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;TZID=America/New_York:20260929T181500
 DTEND;TZID=America/New_York:20260929T201500
 SUMMARY:Boys Soccer: Chopticon at St. Charles
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-henry-e-lackey-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;TZID=America/New_York:20261006T181500
 DTEND;TZID=America/New_York:20261006T201500
 SUMMARY:Boys Soccer: St. Charles at Henry E. Lackey
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-st-charles-north-point-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Boys Soccer: North Point at St. Charles
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-st-charles-great-mills-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Great Mills at St. Charles
@@ -83,7 +83,7 @@ DESCRIPTION:Final: St. Charles 0\, Great Mills 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-huntingtown-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;TZID=America/New_York:20261015T163000
 DTEND;TZID=America/New_York:20261015T183000
 SUMMARY:Boys Soccer: St. Charles at Huntingtown
@@ -93,7 +93,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-thomas-stone-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: St. Charles at Thomas Stone
@@ -102,7 +102,7 @@ DESCRIPTION:Final: St. Charles 1\, Thomas Stone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-mcdonough-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;TZID=America/New_York:20261020T165500
 DTEND;TZID=America/New_York:20261020T185500
 SUMMARY:Boys Soccer: St. Charles at McDonough
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-international-hs-at-langley-park-st-charles-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: St. Charles at International HS at Langley Park

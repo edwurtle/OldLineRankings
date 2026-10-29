@@ -6,7 +6,7 @@ X-WR-CALNAME:Sherwood Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-clarksburg-sherwood-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20261204T191500
 DTEND;TZID=America/New_York:20261204T211500
 SUMMARY:Girls Basketball: Sherwood at Clarksburg
@@ -16,16 +16,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-sherwood-rockville-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Girls Basketball: Rockville at Sherwood
 LOCATION:Sherwood
-DESCRIPTION:Tickets: https://gofan.co/event/6708789
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgam3a9c813c8c\nTickets: https://gofan.co/event/6708789
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgam3a9c813c8c
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-damascus-sherwood-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20261211T191500
 DTEND;TZID=America/New_York:20261211T211500
 SUMMARY:Girls Basketball: Sherwood at Damascus
@@ -35,16 +36,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-sherwood-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20261214T191500
 DTEND;TZID=America/New_York:20261214T211500
 SUMMARY:Girls Basketball: Poolesville at Sherwood
 LOCATION:Sherwood
-DESCRIPTION:Tickets: https://gofan.co/event/6708814
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgam97f45cafaf\nTickets: https://gofan.co/event/6708814
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgam97f45cafaf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-gaithersburg-sherwood-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20261216T191500
 DTEND;TZID=America/New_York:20261216T211500
 SUMMARY:Girls Basketball: Sherwood at Gaithersburg
@@ -54,25 +56,27 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-sherwood-springbrook-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20261218T191500
 DTEND;TZID=America/New_York:20261218T211500
 SUMMARY:Girls Basketball: Springbrook at Sherwood
 LOCATION:Sherwood
-DESCRIPTION:Tickets: https://gofan.co/event/6708843
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgam2e70811650\nTickets: https://gofan.co/event/6708843
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgam2e70811650
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-sherwood-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20261221T191500
 DTEND;TZID=America/New_York:20261221T211500
 SUMMARY:Girls Basketball: Col. Zadok Magruder at Sherwood
 LOCATION:Sherwood
-DESCRIPTION:Tickets: https://gofan.co/event/6708855
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgam082f3a41d5\nTickets: https://gofan.co/event/6708855
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgam082f3a41d5
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-james-hubert-blake-sherwood-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: Sherwood at James Hubert Blake
@@ -82,25 +86,27 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-sherwood-paint-branch-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20270108T191500
 DTEND;TZID=America/New_York:20270108T211500
 SUMMARY:Girls Basketball: Paint Branch at Sherwood
 LOCATION:Sherwood
-DESCRIPTION:Tickets: https://gofan.co/event/6708798
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgambd92163283\nTickets: https://gofan.co/event/6708798
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgambd92163283
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-sherwood-seneca-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Girls Basketball: Seneca Valley at Sherwood
 LOCATION:Sherwood
-DESCRIPTION:Tickets: https://gofan.co/event/6708827
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgamf01620f8c2\nTickets: https://gofan.co/event/6708827
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgamf01620f8c2
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-bethesda-cc-sherwood-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Girls Basketball: Sherwood at Bethesda-CC
@@ -110,16 +116,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-sherwood-richard-montgomery-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20270122T191500
 DTEND;TZID=America/New_York:20270122T211500
 SUMMARY:Girls Basketball: Richard Montgomery at Sherwood
 LOCATION:Sherwood
-DESCRIPTION:Tickets: https://gofan.co/event/6708867
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgam7968dd3411\nTickets: https://gofan.co/event/6708867
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgam7968dd3411
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-walt-whitman-sherwood-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Girls Basketball: Sherwood at Walt Whitman
@@ -128,16 +135,17 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709246
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-sherwood-gaithersburg-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20270129T191500
 DTEND;TZID=America/New_York:20270129T211500
 SUMMARY:Girls Basketball: Gaithersburg at Sherwood
 LOCATION:Sherwood
-DESCRIPTION:Tickets: https://gofan.co/event/6708799
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgamf1c3ee6ba4\nTickets: https://gofan.co/event/6708799
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgamf1c3ee6ba4
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-springbrook-sherwood-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20270201T191500
 DTEND;TZID=America/New_York:20270201T211500
 SUMMARY:Girls Basketball: Sherwood at Springbrook
@@ -146,7 +154,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709014
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-col-zadok-magruder-sherwood-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20270203T180000
 DTEND;TZID=America/New_York:20270203T200000
 SUMMARY:Girls Basketball: Sherwood at Col. Zadok Magruder
@@ -156,16 +164,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-sherwood-james-hubert-blake-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Girls Basketball: James Hubert Blake at Sherwood
 LOCATION:Sherwood
-DESCRIPTION:Tickets: https://gofan.co/event/6708772
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgame742bba9b9\nTickets: https://gofan.co/event/6708772
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgame742bba9b9
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-paint-branch-sherwood-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20270208T180000
 DTEND;TZID=America/New_York:20270208T200000
 SUMMARY:Girls Basketball: Sherwood at Paint Branch
@@ -174,16 +183,17 @@ DESCRIPTION:Tickets: https://gofan.co/event/6709104
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-sherwood-montgomery-blair-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20270216T173000
 DTEND;TZID=America/New_York:20270216T193000
 SUMMARY:Girls Basketball: Montgomery Blair at Sherwood
 LOCATION:Sherwood
-DESCRIPTION:Tickets: https://gofan.co/event/6708760
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgamf621188147\nTickets: https://gofan.co/event/6708760
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fsherwood-high-school-sandy-spring-md%2Fgamf621188147
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-walter-johnson-sherwood-girls-basketball@oldlinerankings
-DTSTAMP:20261028T165447Z
+DTSTAMP:20261029T082023Z
 DTSTART;TZID=America/New_York:20270219T173000
 DTEND;TZID=America/New_York:20270219T193000
 SUMMARY:Girls Basketball: Sherwood at Walter Johnson

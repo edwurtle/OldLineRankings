@@ -6,7 +6,7 @@ X-WR-CALNAME:La Plata Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-la-plata-thomas-stone-football@oldlinerankings
-DTSTAMP:20261028T165134Z
+DTSTAMP:20261029T081815Z
 DTSTART;TZID=America/New_York:20260904T180000
 DTEND;TZID=America/New_York:20260904T200000
 SUMMARY:Football: Thomas Stone at La Plata
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-la-plata-great-mills-football@oldlinerankings
-DTSTAMP:20261028T165134Z
+DTSTAMP:20261029T081815Z
 DTSTART;TZID=America/New_York:20260911T163000
 DTEND;TZID=America/New_York:20260911T183000
 SUMMARY:Football: Great Mills at La Plata
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-la-plata-leonardtown-football@oldlinerankings
-DTSTAMP:20261028T165134Z
+DTSTAMP:20261029T081815Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Football: Leonardtown at La Plata
@@ -35,7 +35,7 @@ DESCRIPTION:Final: La Plata 6\, Leonardtown 32
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-la-plata-calvert-football@oldlinerankings
-DTSTAMP:20261028T165134Z
+DTSTAMP:20261029T081815Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Calvert at La Plata
@@ -44,7 +44,7 @@ DESCRIPTION:Final: La Plata 0\, Calvert 53
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-la-plata-north-point-football@oldlinerankings
-DTSTAMP:20261028T165134Z
+DTSTAMP:20261029T081815Z
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Football: North Point at La Plata
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-la-plata-st-charles-football@oldlinerankings
-DTSTAMP:20261028T165134Z
+DTSTAMP:20261029T081815Z
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:Football: St. Charles at La Plata
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16-la-plata-henry-e-lackey-football@oldlinerankings
-DTSTAMP:20261028T165134Z
+DTSTAMP:20261029T081815Z
 DTSTART;TZID=America/New_York:20261016T173000
 DTEND;TZID=America/New_York:20261016T193000
 SUMMARY:Football: Henry E. Lackey at La Plata
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-la-plata-mcdonough-football@oldlinerankings
-DTSTAMP:20261028T165134Z
+DTSTAMP:20261029T081815Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Football: McDonough at La Plata
@@ -83,7 +83,7 @@ DESCRIPTION:Final: La Plata -\, McDonough -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-la-plata-chopticon-football@oldlinerankings
-DTSTAMP:20261028T165134Z
+DTSTAMP:20261029T081815Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Football: Chopticon at La Plata

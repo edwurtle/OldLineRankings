@@ -6,7 +6,7 @@ X-WR-CALNAME:Crisfield Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-crisfield-stephen-decatur-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Boys Soccer: Stephen Decatur at Crisfield
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-kent-county-crisfield-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Crisfield at Kent County
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Crisfield 2\, Kent County 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-crisfield-james-m-bennett-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: James M. Bennett at Crisfield
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Crisfield 0\, James M. Bennett 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-st-michael-s-crisfield-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Boys Soccer: Crisfield at St. Michael's
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Crisfield 3\, St. Michael's 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-crisfield-wicomico-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Boys Soccer: Wicomico at Crisfield
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Crisfield 1\, Wicomico 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-crisfield-mardela-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Mardela at Crisfield
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Crisfield 1\, Mardela 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-colonel-richardson-crisfield-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Crisfield at Colonel Richardson
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Crisfield 2\, Colonel Richardson 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30-crisfield-parkside-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Boys Soccer: Parkside at Crisfield
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Crisfield 0\, Parkside 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-north-dorchester-crisfield-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Boys Soccer: Crisfield at North Dorchester
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Crisfield 3\, North Dorchester 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-crisfield-snow-hill-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Snow Hill at Crisfield
@@ -97,7 +97,7 @@ DESCRIPTION:Final: Crisfield 2\, Snow Hill 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-crisfield-washington-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Boys Soccer: Washington at Crisfield
@@ -106,7 +106,7 @@ DESCRIPTION:Final: Crisfield 8\, Washington 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-crisfield-pocomoke-boys-soccer@oldlinerankings
-DTSTAMP:20261028T165209Z
+DTSTAMP:20261029T081843Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Boys Soccer: Pocomoke at Crisfield
