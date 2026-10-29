@@ -6,7 +6,7 @@ X-WR-CALNAME:Southwestern Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-southwestern-reginald-lewis-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20261210T171500
 DTEND;TZID=America/New_York:20261210T191500
 SUMMARY:Boys Basketball: Reginald Lewis at Southwestern
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-coppin-academy-southwestern-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20261217T171500
 DTEND;TZID=America/New_York:20261217T191500
 SUMMARY:Boys Basketball: Southwestern at Coppin Academy
@@ -24,7 +24,7 @@ LOCATION:Coppin Academy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-southwestern-joppatowne-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20261218T171500
 DTEND;TZID=America/New_York:20261218T191500
 SUMMARY:Boys Basketball: Joppatowne at Southwestern
@@ -32,7 +32,7 @@ LOCATION:Southwestern
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-southwestern-acce-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20261222T171500
 DTEND;TZID=America/New_York:20261222T191500
 SUMMARY:Boys Basketball: ACCE at Southwestern
@@ -40,7 +40,7 @@ LOCATION:Southwestern
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-southwestern-bard-high-school-early-college-baltimore-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270105T171500
 DTEND;TZID=America/New_York:20270105T191500
 SUMMARY:Boys Basketball: Bard High School Early College Baltimore at Southwestern
@@ -50,7 +50,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-city-neighbors-charter-school-southwestern-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270107T171500
 DTEND;TZID=America/New_York:20270107T191500
 SUMMARY:Boys Basketball: Southwestern at City Neighbors Charter School
@@ -58,7 +58,7 @@ LOCATION:City Neighbors Charter School
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-southwestern-patterson-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Boys Basketball: Patterson at Southwestern
@@ -66,7 +66,7 @@ LOCATION:Southwestern
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-frederick-douglass-b-southwestern-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270114T171500
 DTEND;TZID=America/New_York:20270114T191500
 SUMMARY:Boys Basketball: Southwestern at Frederick Douglass-B
@@ -74,7 +74,7 @@ LOCATION:Frederick Douglass-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-national-academy-foundation-naf-southwestern-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270119T171500
 DTEND;TZID=America/New_York:20270119T191500
 SUMMARY:Boys Basketball: Southwestern at National Academy Foundation (NAF)
@@ -82,7 +82,7 @@ LOCATION:National Academy Foundation (NAF)
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-southwestern-green-street-academy-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270121T171500
 DTEND;TZID=America/New_York:20270121T191500
 SUMMARY:Boys Basketball: Green Street Academy at Southwestern
@@ -92,7 +92,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-reginald-lewis-southwestern-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270126T171500
 DTEND;TZID=America/New_York:20270126T191500
 SUMMARY:Boys Basketball: Southwestern at Reginald Lewis
@@ -102,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-southwestern-coppin-academy-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270128T171500
 DTEND;TZID=America/New_York:20270128T191500
 SUMMARY:Boys Basketball: Coppin Academy at Southwestern
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-southwestern-digital-harbor-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270129T171500
 DTEND;TZID=America/New_York:20270129T191500
 SUMMARY:Boys Basketball: Digital Harbor at Southwestern
@@ -120,7 +120,7 @@ LOCATION:Southwestern
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-acce-southwestern-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270202T171500
 DTEND;TZID=America/New_York:20270202T191500
 SUMMARY:Boys Basketball: Southwestern at ACCE
@@ -130,7 +130,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-southwestern-benjamin-franklin-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270205T171500
 DTEND;TZID=America/New_York:20270205T191500
 SUMMARY:Boys Basketball: Benjamin Franklin at Southwestern
@@ -140,7 +140,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-southwestern-national-academy-foundation-naf-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270209T171500
 DTEND;TZID=America/New_York:20270209T191500
 SUMMARY:Boys Basketball: National Academy Foundation (NAF) at Southwestern
@@ -150,7 +150,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-southwestern-frederick-douglass-b-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270211T171500
 DTEND;TZID=America/New_York:20270211T191500
 SUMMARY:Boys Basketball: Frederick Douglass-B at Southwestern
@@ -160,7 +160,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-lake-clifton-southwestern-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270216T171500
 DTEND;TZID=America/New_York:20270216T191500
 SUMMARY:Boys Basketball: Southwestern at Lake Clifton

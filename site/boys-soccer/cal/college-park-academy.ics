@@ -6,7 +6,7 @@ X-WR-CALNAME:College Park Academy Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-college-park-academy-surrattsville-boys-soccer@oldlinerankings
-DTSTAMP:20261029T081843Z
+DTSTAMP:20261029T143442Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Surrattsville at College Park Academy
@@ -15,7 +15,7 @@ DESCRIPTION:Final: College Park Academy 2\, Surrattsville 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-college-park-academy-international-hs-at-langley-park-boys-soccer@oldlinerankings
-DTSTAMP:20261029T081843Z
+DTSTAMP:20261029T143442Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: International HS at Langley Park at College Park Academy
@@ -24,7 +24,7 @@ DESCRIPTION:Final: College Park Academy 2\, International HS at Langley Park 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-college-park-academy-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261029T081843Z
+DTSTAMP:20261029T143442Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Gwynn Park at College Park Academy
@@ -33,7 +33,7 @@ DESCRIPTION:Final: College Park Academy 1\, Gwynn Park 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-college-park-academy-fairmont-heights-boys-soccer@oldlinerankings
-DTSTAMP:20261029T081843Z
+DTSTAMP:20261029T143442Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Fairmont Heights at College Park Academy
@@ -42,7 +42,7 @@ DESCRIPTION:Final: College Park Academy 1\, Fairmont Heights 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-college-park-academy-northwestern-boys-soccer@oldlinerankings
-DTSTAMP:20261029T081843Z
+DTSTAMP:20261029T143442Z
 DTSTART;TZID=America/New_York:20260928T173000
 DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Boys Soccer: Northwestern at College Park Academy
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-college-park-academy-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261029T081843Z
+DTSTAMP:20261029T143442Z
 DTSTART;TZID=America/New_York:20261001T164500
 DTEND;TZID=America/New_York:20261001T184500
 SUMMARY:Boys Soccer: Friendly at College Park Academy
@@ -62,7 +62,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-cmit-north-college-park-academy-boys-soccer@oldlinerankings
-DTSTAMP:20261029T081843Z
+DTSTAMP:20261029T143442Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Boys Soccer: College Park Academy at CMIT - North
@@ -71,7 +71,7 @@ DESCRIPTION:Final: College Park Academy 0\, CMIT - North 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-college-park-academy-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261029T081843Z
+DTSTAMP:20261029T143442Z
 DTSTART;TZID=America/New_York:20261008T164500
 DTEND;TZID=America/New_York:20261008T184500
 SUMMARY:Boys Soccer: Largo at College Park Academy
@@ -81,7 +81,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-college-park-academy-frederick-douglass-pg-boys-soccer@oldlinerankings
-DTSTAMP:20261029T081843Z
+DTSTAMP:20261029T143442Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Boys Soccer: Frederick Douglass-PG at College Park Academy
@@ -90,7 +90,7 @@ DESCRIPTION:Final: College Park Academy 2\, Frederick Douglass-PG 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-college-park-academy-crossland-boys-soccer@oldlinerankings
-DTSTAMP:20261029T081843Z
+DTSTAMP:20261029T143442Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Crossland at College Park Academy
@@ -99,11 +99,20 @@ DESCRIPTION:Final: College Park Academy 0\, Crossland 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-college-park-academy-cmit-south-boys-soccer@oldlinerankings
-DTSTAMP:20261029T081843Z
+DTSTAMP:20261029T143442Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: CMIT - South at College Park Academy
 LOCATION:College Park Academy
 DESCRIPTION:Final: College Park Academy 0\, CMIT - South 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-cmit-north-college-park-academy-boys-soccer@oldlinerankings
+DTSTAMP:20261029T143442Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Boys Soccer: College Park Academy at CMIT - North
+LOCATION:CMIT - North
+DESCRIPTION:Final: College Park Academy 0\, CMIT - North 1
 END:VEVENT
 END:VCALENDAR

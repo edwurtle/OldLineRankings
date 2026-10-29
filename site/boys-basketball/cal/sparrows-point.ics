@@ -6,7 +6,7 @@ X-WR-CALNAME:Sparrows Point Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-sparrows-point-catonsville-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20261204T173000
 DTEND;TZID=America/New_York:20261204T193000
 SUMMARY:Boys Basketball: Catonsville at Sparrows Point
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-lansdowne-sparrows-point-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20261209T170000
 DTEND;TZID=America/New_York:20261209T190000
 SUMMARY:Boys Basketball: Sparrows Point at Lansdowne
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-patapsco-sparrows-point-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20261211T173000
 DTEND;TZID=America/New_York:20261211T193000
 SUMMARY:Boys Basketball: Sparrows Point at Patapsco
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-sparrows-point-kenwood-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Boys Basketball: Kenwood at Sparrows Point
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-sparrows-point-dundalk-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20261218T173000
 DTEND;TZID=America/New_York:20261218T193000
 SUMMARY:Boys Basketball: Dundalk at Sparrows Point
@@ -54,7 +54,7 @@ LOCATION:Sparrows Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-sparrows-point-carver-aandt-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Boys Basketball: Carver A&T at Sparrows Point
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-chesapeake-b-sparrows-point-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Boys Basketball: Sparrows Point at Chesapeake-B
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-loch-raven-sparrows-point-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
 SUMMARY:Boys Basketball: Sparrows Point at Loch Raven
@@ -82,7 +82,7 @@ LOCATION:Loch Raven
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-sparrows-point-eastern-tech-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270115T173000
 DTEND;TZID=America/New_York:20270115T193000
 SUMMARY:Boys Basketball: Eastern Tech at Sparrows Point
@@ -92,7 +92,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-overlea-sparrows-point-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270120T173000
 DTEND;TZID=America/New_York:20270120T193000
 SUMMARY:Boys Basketball: Sparrows Point at Overlea
@@ -102,7 +102,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-kenwood-sparrows-point-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270122T173000
 DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Boys Basketball: Sparrows Point at Kenwood
@@ -112,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-sparrows-point-parkville-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Boys Basketball: Parkville at Sparrows Point
@@ -122,7 +122,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-sparrows-point-patapsco-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270129T173000
 DTEND;TZID=America/New_York:20270129T193000
 SUMMARY:Boys Basketball: Patapsco at Sparrows Point
@@ -132,7 +132,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-sparrows-point-towson-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Boys Basketball: Towson at Sparrows Point
@@ -142,7 +142,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-dundalk-sparrows-point-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270205T173000
 DTEND;TZID=America/New_York:20270205T193000
 SUMMARY:Boys Basketball: Sparrows Point at Dundalk
@@ -151,7 +151,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6984122
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-bel-air-sparrows-point-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270208T190000
 DTEND;TZID=America/New_York:20270208T210000
 SUMMARY:Boys Basketball: Sparrows Point at Bel Air
@@ -159,7 +159,7 @@ LOCATION:Bel Air
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-eastern-tech-sparrows-point-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270210T173000
 DTEND;TZID=America/New_York:20270210T193000
 SUMMARY:Boys Basketball: Sparrows Point at Eastern Tech
@@ -169,7 +169,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-sparrows-point-chesapeake-b-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Boys Basketball: Chesapeake-B at Sparrows Point
@@ -179,7 +179,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-perry-hall-sparrows-point-boys-basketball@oldlinerankings
-DTSTAMP:20261029T081944Z
+DTSTAMP:20261029T143556Z
 DTSTART;TZID=America/New_York:20270217T173000
 DTEND;TZID=America/New_York:20270217T193000
 SUMMARY:Boys Basketball: Sparrows Point at Perry Hall

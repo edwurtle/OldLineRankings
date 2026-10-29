@@ -6,7 +6,7 @@ X-WR-CALNAME:Baltimore Polytechnic Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-benjamin-franklin-baltimore-polytechnic-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20261210T171500
 DTEND;TZID=America/New_York:20261210T191500
 SUMMARY:Girls Basketball: Baltimore Polytechnic at Benjamin Franklin
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-baltimore-polytechnic-mergenthaler-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20261217T171500
 DTEND;TZID=America/New_York:20261217T191500
 SUMMARY:Girls Basketball: Mergenthaler at Baltimore Polytechnic
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-carver-vocational-technical-baltimore-polytechnic-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20261222T171500
 DTEND;TZID=America/New_York:20261222T191500
 SUMMARY:Girls Basketball: Baltimore Polytechnic at Carver Vocational-Technical
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-baltimore-polytechnic-digital-harbor-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20270107T171500
 DTEND;TZID=America/New_York:20270107T191500
 SUMMARY:Girls Basketball: Digital Harbor at Baltimore Polytechnic
@@ -44,7 +44,7 @@ LOCATION:Baltimore Polytechnic
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-western-b-baltimore-polytechnic-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Girls Basketball: Baltimore Polytechnic at Western-B
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-lake-clifton-baltimore-polytechnic-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20270114T160000
 DTEND;TZID=America/New_York:20270114T180000
 SUMMARY:Girls Basketball: Baltimore Polytechnic at Lake Clifton
@@ -62,7 +62,7 @@ LOCATION:Lake Clifton
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-baltimore-polytechnic-baltimore-city-college-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20270119T171500
 DTEND;TZID=America/New_York:20270119T191500
 SUMMARY:Girls Basketball: Baltimore City College at Baltimore Polytechnic
@@ -72,7 +72,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-baltimore-polytechnic-forest-park-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20270121T171500
 DTEND;TZID=America/New_York:20270121T191500
 SUMMARY:Girls Basketball: Forest Park at Baltimore Polytechnic
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-paul-laurence-dunbar-baltimore-polytechnic-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20270126T171500
 DTEND;TZID=America/New_York:20270126T191500
 SUMMARY:Girls Basketball: Baltimore Polytechnic at Paul Laurence Dunbar
@@ -90,7 +90,7 @@ LOCATION:Paul Laurence Dunbar
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-baltimore-polytechnic-western-b-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20270128T171500
 DTEND;TZID=America/New_York:20270128T191500
 SUMMARY:Girls Basketball: Western-B at Baltimore Polytechnic
@@ -100,7 +100,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-baltimore-polytechnic-carver-vocational-technical-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20270204T171500
 DTEND;TZID=America/New_York:20270204T191500
 SUMMARY:Girls Basketball: Carver Vocational-Technical at Baltimore Polytechnic
@@ -110,7 +110,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-edmondson-westside-baltimore-polytechnic-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20270209T154500
 DTEND;TZID=America/New_York:20270209T174500
 SUMMARY:Girls Basketball: Baltimore Polytechnic at Edmondson-Westside
@@ -120,7 +120,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-mergenthaler-baltimore-polytechnic-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20270211T171500
 DTEND;TZID=America/New_York:20270211T191500
 SUMMARY:Girls Basketball: Baltimore Polytechnic at Mergenthaler
@@ -128,7 +128,7 @@ LOCATION:Mergenthaler
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-baltimore-city-college-baltimore-polytechnic-girls-basketball@oldlinerankings
-DTSTAMP:20261029T082023Z
+DTSTAMP:20261029T143647Z
 DTSTART;TZID=America/New_York:20270216T171500
 DTEND;TZID=America/New_York:20270216T191500
 SUMMARY:Girls Basketball: Baltimore Polytechnic at Baltimore City College

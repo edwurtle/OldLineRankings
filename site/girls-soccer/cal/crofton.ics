@@ -6,7 +6,7 @@ X-WR-CALNAME:Crofton Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-09-catonsville-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20260909T180000
 DTEND;TZID=America/New_York:20260909T200000
 SUMMARY:Girls Soccer: Crofton at Catonsville
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-crofton-notre-dame-prep-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20260911T180000
 DTEND;TZID=America/New_York:20260911T200000
 SUMMARY:Girls Soccer: Notre Dame Prep at Crofton
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19-baltimore-polytechnic-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20260919T131500
 DTEND;TZID=America/New_York:20260919T151500
 SUMMARY:Girls Soccer: Crofton at Baltimore Polytechnic
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-southern-aa-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Girls Soccer: Crofton at Southern-AA
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-chesapeake-aa-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20260924T170000
 DTEND;TZID=America/New_York:20260924T190000
 SUMMARY:Girls Soccer: Crofton at Chesapeake-AA
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-north-county-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Girls Soccer: Crofton at North County
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-severna-park-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20261001T170000
 DTEND;TZID=America/New_York:20261001T190000
 SUMMARY:Girls Soccer: Crofton at Severna Park
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-northeast-aa-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Girls Soccer: Crofton at Northeast-AA
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-south-river-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20261008T164500
 DTEND;TZID=America/New_York:20261008T184500
 SUMMARY:Girls Soccer: Crofton at South River
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-severn-run-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Girls Soccer: Crofton at Severn Run
@@ -106,7 +106,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-old-mill-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Crofton at Old Mill
@@ -115,7 +115,7 @@ DESCRIPTION:Final: Crofton -\, Old Mill -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-arundel-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Girls Soccer: Crofton at Arundel
@@ -125,12 +125,31 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-broadneck-crofton-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20261022T170000
 DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Girls Soccer: Crofton at Broadneck
 LOCATION:Broadneck
 DESCRIPTION:Final: Crofton 3\, Broadneck 4\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbroadneck-high-school-annapolis-md%2Fgamd3acce0afd
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbroadneck-high-school-annapolis-md%2Fgamd3acce0afd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-bowie-crofton-girls-soccer@oldlinerankings
+DTSTAMP:20261029T143517Z
+DTSTART;TZID=America/New_York:20261028T160000
+DTEND;TZID=America/New_York:20261028T180000
+SUMMARY:Girls Soccer: Crofton at Bowie
+LOCATION:Bowie
+DESCRIPTION:Final: Crofton 8\, Bowie 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam9c9b0a9977
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbowie-high-school-bowie-md%2Fgam9c9b0a9977
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-leonardtown-crofton-girls-soccer@oldlinerankings
+DTSTAMP:20261029T143517Z
+DTSTART;TZID=America/New_York:20261031T130000
+DTEND;TZID=America/New_York:20261031T150000
+SUMMARY:Girls Soccer: Crofton at Leonardtown
+LOCATION:Leonardtown
+DESCRIPTION:Tickets: https://gofan.co/event/7003439
 END:VEVENT
 END:VCALENDAR

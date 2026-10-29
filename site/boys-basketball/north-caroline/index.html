@@ -25,7 +25,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../styles.css?v=20261029041749">
+<link rel="stylesheet" href="../styles.css?v=20261029103340">
+<!-- Start the scripts (the data is the big one) while the page parses, so the app draws sooner -->
+<link rel="preload" href="data.js?v=20261029103340" as="script">
+<link rel="preload" href="../app.js?v=20261029103340" as="script">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "SportsTeam", "name": "North Caroline Bulldogs Boys Basketball", "sport": "Basketball", "url": "https://oldlinerankings.com/boys-basketball/north-caroline/", "memberOf": {"@type": "SportsOrganization", "name": "Maryland Public Secondary Schools Athletic Association (MPSSAA)"}, "event": [{"@type": "SportsEvent", "name": "North Caroline at Elkton", "startDate": "2026-11-23T17:00", "sport": "Basketball", "homeTeam": {"@type": "SportsTeam", "name": "Elkton"}, "awayTeam": {"@type": "SportsTeam", "name": "North Caroline"}, "location": {"@type": "Place", "name": "Elkton"}}, {"@type": "SportsEvent", "name": "North Caroline at Lake Forest", "startDate": "2026-11-24T16:00", "sport": "Basketball", "homeTeam": {"@type": "SportsTeam", "name": "Lake Forest"}, "awayTeam": {"@type": "SportsTeam", "name": "North Caroline"}, "location": {"@type": "Place", "name": "Lake Forest"}}, {"@type": "SportsEvent", "name": "North Caroline at Cape Henlopen", "startDate": "2026-12-28T18:00", "sport": "Basketball", "homeTeam": {"@type": "SportsTeam", "name": "Cape Henlopen"}, "awayTeam": {"@type": "SportsTeam", "name": "North Caroline"}, "location": {"@type": "Place", "name": "Cape Henlopen"}}, {"@type": "SportsEvent", "name": "North Caroline at James M. Bennett", "startDate": "2027-02-12T18:00", "sport": "Basketball", "homeTeam": {"@type": "SportsTeam", "name": "James M. Bennett"}, "awayTeam": {"@type": "SportsTeam", "name": "North Caroline"}, "location": {"@type": "Place", "name": "James M. Bennett"}}], "location": {"@type": "Place", "address": {"@type": "PostalAddress", "addressLocality": "Ridgely", "addressRegion": "MD"}}}</script>
 </head>
 <body>
@@ -74,9 +77,9 @@
   <div class="dbody" id="dBody"></div>
 </aside>
 
-<script src="../flag.js?v=20261029041749"></script>
+<script src="../flag.js?v=20261029103340"></script>
 <script>window.TEAM_PAGE = {"g": "boys", "school": "North Caroline"};</script>
-<script src="data.js?v=20261029041749"></script>
-<script src="../app.js?v=20261029041749"></script>
+<script src="data.js?v=20261029103340"></script>
+<script src="../app.js?v=20261029103340"></script>
 </body>
 </html>

@@ -6,7 +6,7 @@ X-WR-CALNAME:Kent Island Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-kent-island-wicomico-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Girls Soccer: Wicomico at Kent Island
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-kent-island-james-m-bennett-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: James M. Bennett at Kent Island
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Kent Island 1\, James M. Bennett 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-kent-island-easton-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Easton at Kent Island
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Kent Island 1\, Easton 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21-kent-island-private-notre-dame-prep-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20260921T164500
 DTEND;TZID=America/New_York:20260921T184500
 SUMMARY:Girls Soccer: Private - Notre Dame Prep at Kent Island
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-kent-county-kent-island-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20260922T164500
 DTEND;TZID=America/New_York:20260922T184500
 SUMMARY:Girls Soccer: Kent Island at Kent County
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-cambridge-south-dorchester-kent-island-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Kent Island at Cambridge-South Dorchester
@@ -63,7 +63,7 @@ DESCRIPTION:Final: Kent Island 8\, Cambridge-South Dorchester 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-kent-island-parkside-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20260929T173000
 DTEND;TZID=America/New_York:20260929T193000
 SUMMARY:Girls Soccer: Parkside at Kent Island
@@ -73,7 +73,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-north-caroline-kent-island-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T193000
 SUMMARY:Girls Soccer: Kent Island at North Caroline
@@ -83,7 +83,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-north-dorchester-kent-island-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T193000
 SUMMARY:Girls Soccer: Kent Island at North Dorchester
@@ -93,7 +93,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09-colonel-richardson-kent-island-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20261009T173000
 DTEND;TZID=America/New_York:20261009T193000
 SUMMARY:Girls Soccer: Kent Island at Colonel Richardson
@@ -103,7 +103,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-kent-island-stephen-decatur-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Stephen Decatur at Kent Island
@@ -112,7 +112,7 @@ DESCRIPTION:Final: Kent Island 0\, Stephen Decatur 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-kent-island-queen-anne-s-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20261014T170000
 DTEND;TZID=America/New_York:20261014T190000
 SUMMARY:Girls Soccer: Queen Anne's at Kent Island

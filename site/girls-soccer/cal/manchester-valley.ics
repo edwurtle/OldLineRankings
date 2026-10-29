@@ -6,7 +6,7 @@ X-WR-CALNAME:Manchester Valley Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-manchester-valley-linganore-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Girls Soccer: Linganore at Manchester Valley
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-manchester-valley-mount-de-sales-academy-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Girls Soccer: Mount De Sales Academy at Manchester Valley
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Manchester Valley 3\, Mount De Sales Academy 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-manchester-valley-eastern-tech-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Eastern Tech at Manchester Valley
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Manchester Valley 3\, Eastern Tech 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-francis-scott-key-manchester-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Manchester Valley at Francis Scott Key
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Manchester Valley 8\, Francis Scott Key 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-manchester-valley-winters-mill-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Girls Soccer: Winters Mill at Manchester Valley
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Manchester Valley 5\, Winters Mill 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-liberty-manchester-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Girls Soccer: Manchester Valley at Liberty
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Manchester Valley 1\, Liberty 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-south-carroll-manchester-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Girls Soccer: Manchester Valley at South Carroll
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Manchester Valley 0\, South Carroll 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-manchester-valley-westminster-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Girls Soccer: Westminster at Manchester Valley
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Manchester Valley 8\, Westminster 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-century-manchester-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Girls Soccer: Manchester Valley at Century
@@ -88,7 +88,7 @@ DESCRIPTION:Final: Manchester Valley 2\, Century 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-manchester-valley-oakdale-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Oakdale at Manchester Valley
@@ -97,7 +97,7 @@ DESCRIPTION:Final: Manchester Valley 2\, Oakdale 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-manchester-valley-dulaney-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Girls Soccer: Dulaney at Manchester Valley
@@ -106,11 +106,20 @@ DESCRIPTION:Final: Manchester Valley 2\, Dulaney 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-walkersville-manchester-valley-girls-soccer@oldlinerankings
-DTSTAMP:20261029T081909Z
+DTSTAMP:20261029T143517Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: Manchester Valley at Walkersville
 LOCATION:Walkersville
 DESCRIPTION:Final: Manchester Valley 1\, Walkersville 0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-manchester-valley-hereford-girls-soccer@oldlinerankings
+DTSTAMP:20261029T143517Z
+DTSTART;TZID=America/New_York:20261030T173000
+DTEND;TZID=America/New_York:20261030T193000
+SUMMARY:Girls Soccer: Hereford at Manchester Valley
+LOCATION:Manchester Valley
+DESCRIPTION:Tickets: https://gofan.co/event/7001011
 END:VEVENT
 END:VCALENDAR
