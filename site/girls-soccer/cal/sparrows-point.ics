@@ -6,7 +6,7 @@ X-WR-CALNAME:Sparrows Point Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-sparrows-point-st-mary-s-girls-soccer@oldlinerankings
-DTSTAMP:20261030T081934Z
+DTSTAMP:20261030T165123Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Girls Soccer: St. Mary's at Sparrows Point
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Sparrows Point 0\, St. Mary's 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-sparrows-point-severn-run-girls-soccer@oldlinerankings
-DTSTAMP:20261030T081934Z
+DTSTAMP:20261030T165123Z
 DTSTART;TZID=America/New_York:20260910T173000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:Girls Soccer: Severn Run at Sparrows Point
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-sparrows-point-catonsville-girls-soccer@oldlinerankings
-DTSTAMP:20261030T081934Z
+DTSTAMP:20261030T165123Z
 DTSTART;TZID=America/New_York:20260917T173000
 DTEND;TZID=America/New_York:20260917T193000
 SUMMARY:Girls Soccer: Catonsville at Sparrows Point
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-sparrows-point-perry-hall-girls-soccer@oldlinerankings
-DTSTAMP:20261030T081934Z
+DTSTAMP:20261030T165123Z
 DTSTART;TZID=America/New_York:20260922T173000
 DTEND;TZID=America/New_York:20260922T193000
 SUMMARY:Girls Soccer: Perry Hall at Sparrows Point
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-hereford-sparrows-point-girls-soccer@oldlinerankings
-DTSTAMP:20261030T081934Z
+DTSTAMP:20261030T165123Z
 DTSTART;TZID=America/New_York:20260924T173000
 DTEND;TZID=America/New_York:20260924T193000
 SUMMARY:Girls Soccer: Sparrows Point at Hereford
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-eastern-tech-sparrows-point-girls-soccer@oldlinerankings
-DTSTAMP:20261030T081934Z
+DTSTAMP:20261030T165123Z
 DTSTART;TZID=America/New_York:20260928T173000
 DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Girls Soccer: Sparrows Point at Eastern Tech
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02-sparrows-point-towson-girls-soccer@oldlinerankings
-DTSTAMP:20261030T081934Z
+DTSTAMP:20261030T165123Z
 DTSTART;TZID=America/New_York:20261002T170000
 DTEND;TZID=America/New_York:20261002T190000
 SUMMARY:Girls Soccer: Towson at Sparrows Point
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-sparrows-point-catholic-private-girls-soccer@oldlinerankings
-DTSTAMP:20261030T081934Z
+DTSTAMP:20261030T165123Z
 DTSTART;TZID=America/New_York:20261005T173000
 DTEND;TZID=America/New_York:20261005T193000
 SUMMARY:Girls Soccer: Catholic - Private at Sparrows Point
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-sparrows-point-dulaney-girls-soccer@oldlinerankings
-DTSTAMP:20261030T081934Z
+DTSTAMP:20261030T165123Z
 DTSTART;TZID=America/New_York:20261013T173000
 DTEND;TZID=America/New_York:20261013T193000
 SUMMARY:Girls Soccer: Dulaney at Sparrows Point
@@ -95,7 +95,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-sparrows-point-rising-sun-girls-soccer@oldlinerankings
-DTSTAMP:20261030T081934Z
+DTSTAMP:20261030T165123Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Rising Sun at Sparrows Point
@@ -104,7 +104,7 @@ DESCRIPTION:Final: Sparrows Point 2\, Rising Sun 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-sparrows-point-baltimore-polytechnic-girls-soccer@oldlinerankings
-DTSTAMP:20261030T081934Z
+DTSTAMP:20261030T165123Z
 DTSTART;TZID=America/New_York:20261020T173000
 DTEND;TZID=America/New_York:20261020T193000
 SUMMARY:Girls Soccer: Baltimore Polytechnic at Sparrows Point
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-sparrows-point-baltimore-city-college-girls-soccer@oldlinerankings
-DTSTAMP:20261030T081934Z
+DTSTAMP:20261030T165123Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Girls Soccer: Baltimore City College at Sparrows Point
@@ -123,7 +123,7 @@ DESCRIPTION:Final: Sparrows Point 2\, Baltimore City College 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-sparrows-point-eastern-tech-girls-soccer@oldlinerankings
-DTSTAMP:20261030T081934Z
+DTSTAMP:20261030T165123Z
 DTSTART;TZID=America/New_York:20261030T150000
 DTEND;TZID=America/New_York:20261030T170000
 SUMMARY:Girls Soccer: Eastern Tech at Sparrows Point

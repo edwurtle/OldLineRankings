@@ -6,7 +6,7 @@ X-WR-CALNAME:Century Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-century-thomas-s-wootton-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;TZID=America/New_York:20260908T191500
 DTEND;TZID=America/New_York:20260908T211500
 SUMMARY:Boys Soccer: Thomas S. Wootton at Century
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-century-catonsville-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Catonsville at Century
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Century 0\, Catonsville 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-century-sparrows-point-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Sparrows Point at Century
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Century 1\, Sparrows Point 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-century-westminster-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Westminster at Century
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Century 1\, Westminster 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23-century-towson-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;TZID=America/New_York:20260923T171500
 DTEND;TZID=America/New_York:20260923T191500
 SUMMARY:Boys Soccer: Towson at Century
@@ -53,7 +53,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-south-carroll-century-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Century at South Carroll
@@ -62,7 +62,7 @@ DESCRIPTION:Final: Century 6\, South Carroll 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-century-winters-mill-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Winters Mill at Century
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Century 1\, Winters Mill 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-francis-scott-key-century-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Century at Francis Scott Key
@@ -80,7 +80,7 @@ DESCRIPTION:Final: Century 5\, Francis Scott Key 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-century-manchester-valley-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Manchester Valley at Century
@@ -89,7 +89,7 @@ DESCRIPTION:Final: Century 2\, Manchester Valley 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14-liberty-century-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Boys Soccer: Century at Liberty
@@ -98,7 +98,7 @@ DESCRIPTION:Final: Century 1\, Liberty 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-century-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Boys Soccer: Oakdale at Century
@@ -108,7 +108,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22-century-eleanor-roosevelt-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Boys Soccer: Eleanor Roosevelt at Century
@@ -117,7 +117,7 @@ DESCRIPTION:Final: Century 3\, Eleanor Roosevelt 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-century-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Boys Soccer: Williamsport at Century
@@ -126,7 +126,7 @@ DESCRIPTION:Final: Century 2\, Williamsport 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-walkersville-century-boys-soccer@oldlinerankings
-DTSTAMP:20261030T081900Z
+DTSTAMP:20261030T165052Z
 DTSTART;TZID=America/New_York:20261030T173000
 DTEND;TZID=America/New_York:20261030T193000
 SUMMARY:Boys Soccer: Century at Walkersville

@@ -6,7 +6,7 @@ X-WR-CALNAME:La Plata Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-09-thomas-stone-la-plata-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20261209T181500
 DTEND;TZID=America/New_York:20261209T201500
 SUMMARY:Boys Basketball: La Plata at Thomas Stone
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-patuxent-la-plata-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20261221T180000
 DTEND;TZID=America/New_York:20261221T200000
 SUMMARY:Boys Basketball: La Plata at Patuxent
@@ -24,7 +24,7 @@ LOCATION:Patuxent
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-la-plata-thomas-stone-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270108T180000
 DTEND;TZID=America/New_York:20270108T200000
 SUMMARY:Boys Basketball: Thomas Stone at La Plata
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-la-plata-patuxent-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270113T181500
 DTEND;TZID=America/New_York:20270113T201500
 SUMMARY:Boys Basketball: Patuxent at La Plata
@@ -44,7 +44,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-st-charles-la-plata-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270115T181500
 DTEND;TZID=America/New_York:20270115T201500
 SUMMARY:Boys Basketball: La Plata at St. Charles
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-northern-c-la-plata-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270120T180000
 DTEND;TZID=America/New_York:20270120T200000
 SUMMARY:Boys Basketball: La Plata at Northern-C
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-calvert-la-plata-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270122T181500
 DTEND;TZID=America/New_York:20270122T201500
 SUMMARY:Boys Basketball: La Plata at Calvert
@@ -72,7 +72,7 @@ LOCATION:Calvert
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-la-plata-leonardtown-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270127T181500
 DTEND;TZID=America/New_York:20270127T201500
 SUMMARY:Boys Basketball: Leonardtown at La Plata
@@ -82,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-westlake-la-plata-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270129T181500
 DTEND;TZID=America/New_York:20270129T201500
 SUMMARY:Boys Basketball: La Plata at Westlake
@@ -92,7 +92,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-huntingtown-la-plata-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270203T181500
 DTEND;TZID=America/New_York:20270203T201500
 SUMMARY:Boys Basketball: La Plata at Huntingtown
@@ -100,7 +100,7 @@ LOCATION:Huntingtown
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-mcdonough-la-plata-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270205T181500
 DTEND;TZID=America/New_York:20270205T201500
 SUMMARY:Boys Basketball: La Plata at McDonough
@@ -110,7 +110,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-la-plata-great-mills-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270210T181500
 DTEND;TZID=America/New_York:20270210T201500
 SUMMARY:Boys Basketball: Great Mills at La Plata
@@ -120,7 +120,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-la-plata-henry-e-lackey-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270212T181500
 DTEND;TZID=America/New_York:20270212T201500
 SUMMARY:Boys Basketball: Henry E. Lackey at La Plata
@@ -130,7 +130,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-chopticon-la-plata-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270217T181500
 DTEND;TZID=America/New_York:20270217T201500
 SUMMARY:Boys Basketball: La Plata at Chopticon

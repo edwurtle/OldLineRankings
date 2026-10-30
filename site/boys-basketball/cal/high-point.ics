@@ -6,7 +6,7 @@ X-WR-CALNAME:High Point Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-10-high-point-northwestern-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20261210T191500
 DTEND;TZID=America/New_York:20261210T211500
 SUMMARY:Boys Basketball: Northwestern at High Point
@@ -14,7 +14,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-high-point-charles-h-flowers-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20261215T191500
 DTEND;TZID=America/New_York:20261215T211500
 SUMMARY:Boys Basketball: Charles H. Flowers at High Point
@@ -22,7 +22,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-crofton-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20261222T184500
 DTEND;TZID=America/New_York:20261222T204500
 SUMMARY:Boys Basketball: High Point at Crofton
@@ -32,7 +32,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-high-point-suitland-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Boys Basketball: Suitland at High Point
@@ -40,7 +40,7 @@ LOCATION:High Point
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-laurel-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270107T191500
 DTEND;TZID=America/New_York:20270107T211500
 SUMMARY:Boys Basketball: High Point at Laurel
@@ -50,7 +50,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-high-point-dr-henry-a-wise-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Boys Basketball: Dr. Henry A. Wise at High Point
@@ -60,7 +60,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-duval-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Boys Basketball: High Point at Duval
@@ -69,7 +69,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6697102
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-bowie-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270121T191500
 DTEND;TZID=America/New_York:20270121T211500
 SUMMARY:Boys Basketball: High Point at Bowie
@@ -79,7 +79,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-eleanor-roosevelt-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Boys Basketball: High Point at Eleanor Roosevelt
@@ -89,7 +89,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-bladensburg-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270128T191500
 DTEND;TZID=America/New_York:20270128T211500
 SUMMARY:Boys Basketball: High Point at Bladensburg
@@ -99,7 +99,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-bowie-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270128T191500
 DTEND;TZID=America/New_York:20270128T211500
 SUMMARY:Boys Basketball: High Point at Bowie
@@ -109,7 +109,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-northwestern-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270202T191500
 DTEND;TZID=America/New_York:20270202T211500
 SUMMARY:Boys Basketball: High Point at Northwestern
@@ -119,7 +119,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-charles-h-flowers-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270204T191500
 DTEND;TZID=America/New_York:20270204T211500
 SUMMARY:Boys Basketball: High Point at Charles H. Flowers
@@ -129,7 +129,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-parkdale-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270210T191500
 DTEND;TZID=America/New_York:20270210T211500
 SUMMARY:Boys Basketball: High Point at Parkdale
@@ -139,7 +139,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-suitland-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Boys Basketball: High Point at Suitland
@@ -147,7 +147,7 @@ LOCATION:Suitland
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-high-point-laurel-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Boys Basketball: Laurel at High Point
@@ -157,7 +157,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-dr-henry-a-wise-high-point-boys-basketball@oldlinerankings
-DTSTAMP:20261030T082019Z
+DTSTAMP:20261030T165211Z
 DTSTART;TZID=America/New_York:20270218T191500
 DTEND;TZID=America/New_York:20270218T211500
 SUMMARY:Boys Basketball: High Point at Dr. Henry A. Wise

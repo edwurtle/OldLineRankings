@@ -6,7 +6,7 @@ X-WR-CALNAME:Marriotts Ridge Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-wilde-lake-marriotts-ridge-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20261204T180000
 DTEND;TZID=America/New_York:20261204T200000
 SUMMARY:Girls Basketball: Marriotts Ridge at Wilde Lake
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-marriotts-ridge-atholton-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20261207T173000
 DTEND;TZID=America/New_York:20261207T193000
 SUMMARY:Girls Basketball: Atholton at Marriotts Ridge
@@ -24,7 +24,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-mount-hebron-marriotts-ridge-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20261209T173000
 DTEND;TZID=America/New_York:20261209T193000
 SUMMARY:Girls Basketball: Marriotts Ridge at Mount Hebron
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-marriotts-ridge-oakland-mills-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20261214T173000
 DTEND;TZID=America/New_York:20261214T193000
 SUMMARY:Girls Basketball: Oakland Mills at Marriotts Ridge
@@ -42,7 +42,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-centennial-marriotts-ridge-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Girls Basketball: Marriotts Ridge at Centennial
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-reservoir-marriotts-ridge-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20261221T173000
 DTEND;TZID=America/New_York:20261221T193000
 SUMMARY:Girls Basketball: Marriotts Ridge at Reservoir
@@ -62,7 +62,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-marriotts-ridge-howard-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Girls Basketball: Howard at Marriotts Ridge
@@ -70,7 +70,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-long-reach-marriotts-ridge-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20270108T180000
 DTEND;TZID=America/New_York:20270108T200000
 SUMMARY:Girls Basketball: Marriotts Ridge at Long Reach
@@ -78,7 +78,7 @@ LOCATION:Long Reach
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-marriotts-ridge-river-hill-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20270111T173000
 DTEND;TZID=America/New_York:20270111T193000
 SUMMARY:Girls Basketball: River Hill at Marriotts Ridge
@@ -86,7 +86,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-glenelg-marriotts-ridge-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20270120T173000
 DTEND;TZID=America/New_York:20270120T193000
 SUMMARY:Girls Basketball: Marriotts Ridge at Glenelg
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-marriotts-ridge-guilford-park-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20270122T180000
 DTEND;TZID=America/New_York:20270122T200000
 SUMMARY:Girls Basketball: Guilford Park at Marriotts Ridge
@@ -104,7 +104,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-marriotts-ridge-hammond-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
 SUMMARY:Girls Basketball: Hammond at Marriotts Ridge
@@ -112,7 +112,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-marriotts-ridge-reservoir-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20270129T180000
 DTEND;TZID=America/New_York:20270129T200000
 SUMMARY:Girls Basketball: Reservoir at Marriotts Ridge
@@ -120,7 +120,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-wilde-lake-marriotts-ridge-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20270201T173000
 DTEND;TZID=America/New_York:20270201T193000
 SUMMARY:Girls Basketball: Marriotts Ridge at Wilde Lake
@@ -130,7 +130,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-hammond-marriotts-ridge-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Girls Basketball: Marriotts Ridge at Hammond
@@ -138,7 +138,7 @@ LOCATION:Hammond
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-marriotts-ridge-mount-hebron-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20270212T180000
 DTEND;TZID=America/New_York:20270212T200000
 SUMMARY:Girls Basketball: Mount Hebron at Marriotts Ridge
@@ -146,7 +146,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-river-hill-marriotts-ridge-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20270217T173000
 DTEND;TZID=America/New_York:20270217T193000
 SUMMARY:Girls Basketball: Marriotts Ridge at River Hill
@@ -154,7 +154,7 @@ LOCATION:River Hill
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-marriotts-ridge-centennial-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20270219T180000
 DTEND;TZID=America/New_York:20270219T200000
 SUMMARY:Girls Basketball: Centennial at Marriotts Ridge
@@ -162,7 +162,7 @@ LOCATION:Marriotts Ridge
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-winters-mill-marriotts-ridge-girls-basketball@oldlinerankings
-DTSTAMP:20261030T082112Z
+DTSTAMP:20261030T165308Z
 DTSTART;TZID=America/New_York:20270222T183000
 DTEND;TZID=America/New_York:20270222T203000
 SUMMARY:Girls Basketball: Marriotts Ridge at Winters Mill
