@@ -6,7 +6,7 @@ X-WR-CALNAME:Rockville Football
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-04-rockville-thomas-s-wootton-football@oldlinerankings
-DTSTAMP:20261029T170639Z
+DTSTAMP:20261030T081826Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
 SUMMARY:Football: Thomas S. Wootton at Rockville
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-poolesville-rockville-football@oldlinerankings
-DTSTAMP:20261029T170639Z
+DTSTAMP:20261030T081826Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Football: Rockville at Poolesville
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Rockville 0\, Poolesville 39
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18-rockville-sherwood-football@oldlinerankings
-DTSTAMP:20261029T170639Z
+DTSTAMP:20261030T081826Z
 DTSTART;TZID=America/New_York:20260918T183000
 DTEND;TZID=America/New_York:20260918T203000
 SUMMARY:Football: Sherwood at Rockville
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25-rockville-col-zadok-magruder-football@oldlinerankings
-DTSTAMP:20261029T170639Z
+DTSTAMP:20261030T081826Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Football: Col. Zadok Magruder at Rockville
@@ -44,7 +44,7 @@ DESCRIPTION:Final: Rockville 13\, Col. Zadok Magruder 42
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-damascus-rockville-football@oldlinerankings
-DTSTAMP:20261029T170639Z
+DTSTAMP:20261030T081826Z
 DTSTART;TZID=America/New_York:20261001T183000
 DTEND;TZID=America/New_York:20261001T203000
 SUMMARY:Football: Rockville at Damascus
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-rockville-clarksburg-football@oldlinerankings
-DTSTAMP:20261029T170639Z
+DTSTAMP:20261030T081826Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Football: Clarksburg at Rockville
@@ -63,7 +63,7 @@ DESCRIPTION:Final: Rockville 6\, Clarksburg 61
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-loch-raven-rockville-football@oldlinerankings
-DTSTAMP:20261029T170639Z
+DTSTAMP:20261030T081826Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Football: Rockville at Loch Raven
@@ -72,7 +72,7 @@ DESCRIPTION:Final: Rockville 6\, Loch Raven 14
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-rockville-seneca-valley-football@oldlinerankings
-DTSTAMP:20261029T170639Z
+DTSTAMP:20261030T081826Z
 DTSTART;TZID=America/New_York:20261030T183000
 DTEND;TZID=America/New_York:20261030T203000
 SUMMARY:Football: Seneca Valley at Rockville

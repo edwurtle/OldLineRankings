@@ -6,7 +6,7 @@ X-WR-CALNAME:Wheaton Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-wheaton-gaithersburg-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261204T191500
 DTEND;TZID=America/New_York:20261204T211500
 SUMMARY:Girls Basketball: Gaithersburg at Wheaton
@@ -16,16 +16,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-springbrook-wheaton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Girls Basketball: Wheaton at Springbrook
 LOCATION:Springbrook
-DESCRIPTION:Tickets: https://gofan.co/event/6709004
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fspringbrook-high-school-silver-spring-md%2Fgam468b107821\nTickets: https://gofan.co/event/6709004
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fspringbrook-high-school-silver-spring-md%2Fgam468b107821
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-wheaton-paint-branch-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261211T191500
 DTEND;TZID=America/New_York:20261211T211500
 SUMMARY:Girls Basketball: Paint Branch at Wheaton
@@ -35,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-montgomery-blair-wheaton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261214T191500
 DTEND;TZID=America/New_York:20261214T211500
 SUMMARY:Girls Basketball: Wheaton at Montgomery Blair
@@ -45,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-wheaton-richard-montgomery-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261216T191500
 DTEND;TZID=America/New_York:20261216T211500
 SUMMARY:Girls Basketball: Richard Montgomery at Wheaton
@@ -55,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-northwood-wheaton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261218T191500
 DTEND;TZID=America/New_York:20261218T211500
 SUMMARY:Girls Basketball: Wheaton at Northwood
@@ -64,7 +65,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6707655
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-wheaton-albert-einstein-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261221T191500
 DTEND;TZID=America/New_York:20261221T211500
 SUMMARY:Girls Basketball: Albert Einstein at Wheaton
@@ -74,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-rockville-wheaton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: Wheaton at Rockville
@@ -84,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-wheaton-john-f-kennedy-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270108T191500
 DTEND;TZID=America/New_York:20270108T211500
 SUMMARY:Girls Basketball: John F. Kennedy at Wheaton
@@ -94,7 +95,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-james-hubert-blake-wheaton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Girls Basketball: Wheaton at James Hubert Blake
@@ -104,7 +105,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-wheaton-thomas-s-wootton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Girls Basketball: Thomas S. Wootton at Wheaton
@@ -114,16 +115,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-poolesville-wheaton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Girls Basketball: Wheaton at Poolesville
 LOCATION:Poolesville
-DESCRIPTION:Tickets: https://gofan.co/event/6708599
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam001b968f60\nTickets: https://gofan.co/event/6708599
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam001b968f60
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-wheaton-montgomery-blair-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Girls Basketball: Montgomery Blair at Wheaton
@@ -133,7 +135,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-richard-montgomery-wheaton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270129T191500
 DTEND;TZID=America/New_York:20270129T211500
 SUMMARY:Girls Basketball: Wheaton at Richard Montgomery
@@ -142,7 +144,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708604
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-wheaton-northwood-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270201T180000
 DTEND;TZID=America/New_York:20270201T200000
 SUMMARY:Girls Basketball: Northwood at Wheaton
@@ -152,7 +154,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-albert-einstein-wheaton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270203T191500
 DTEND;TZID=America/New_York:20270203T211500
 SUMMARY:Girls Basketball: Wheaton at Albert Einstein
@@ -162,7 +164,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-wheaton-rockville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Girls Basketball: Rockville at Wheaton
@@ -172,7 +174,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-john-f-kennedy-wheaton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270208T180000
 DTEND;TZID=America/New_York:20270208T200000
 SUMMARY:Girls Basketball: Wheaton at John F. Kennedy
@@ -182,7 +184,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-quince-orchard-wheaton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270216T173000
 DTEND;TZID=America/New_York:20270216T193000
 SUMMARY:Girls Basketball: Wheaton at Quince Orchard
@@ -192,7 +194,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-wheaton-watkins-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270219T173000
 DTEND;TZID=America/New_York:20270219T193000
 SUMMARY:Girls Basketball: Watkins Mill at Wheaton

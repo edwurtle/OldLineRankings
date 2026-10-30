@@ -6,7 +6,7 @@ X-WR-CALNAME:Northwestern Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-high-point-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261029T170744Z
+DTSTAMP:20261030T081934Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Girls Soccer: Northwestern at High Point
@@ -15,7 +15,7 @@ DESCRIPTION:Final: Northwestern -\, High Point -
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-laurel-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261029T170744Z
+DTSTAMP:20261030T081934Z
 DTSTART;TZID=America/New_York:20260914T153000
 DTEND;TZID=America/New_York:20260914T173000
 SUMMARY:Girls Soccer: Northwestern at Laurel
@@ -25,7 +25,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-northwestern-eleanor-roosevelt-girls-soccer@oldlinerankings
-DTSTAMP:20261029T170744Z
+DTSTAMP:20261030T081934Z
 DTSTART;TZID=America/New_York:20260917T173000
 DTEND;TZID=America/New_York:20260917T193000
 SUMMARY:Girls Soccer: Eleanor Roosevelt at Northwestern
@@ -35,7 +35,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-northwestern-bowie-girls-soccer@oldlinerankings
-DTSTAMP:20261029T170744Z
+DTSTAMP:20261030T081934Z
 DTSTART;TZID=America/New_York:20260924T150000
 DTEND;TZID=America/New_York:20260924T170000
 SUMMARY:Girls Soccer: Bowie at Northwestern
@@ -45,7 +45,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-college-park-academy-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261029T170744Z
+DTSTAMP:20261030T081934Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Girls Soccer: Northwestern at College Park Academy
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-northwestern-duval-girls-soccer@oldlinerankings
-DTSTAMP:20261029T170744Z
+DTSTAMP:20261030T081934Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T173000
 SUMMARY:Girls Soccer: Duval at Northwestern
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-northwestern-parkdale-girls-soccer@oldlinerankings
-DTSTAMP:20261029T170744Z
+DTSTAMP:20261030T081934Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T173000
 SUMMARY:Girls Soccer: Parkdale at Northwestern
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07-northwestern-bladensburg-girls-soccer@oldlinerankings
-DTSTAMP:20261029T170744Z
+DTSTAMP:20261030T081934Z
 DTSTART;TZID=America/New_York:20261007T174500
 DTEND;TZID=America/New_York:20261007T194500
 SUMMARY:Girls Soccer: Bladensburg at Northwestern
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-northwestern-dr-henry-a-wise-girls-soccer@oldlinerankings
-DTSTAMP:20261029T170744Z
+DTSTAMP:20261030T081934Z
 DTSTART;TZID=America/New_York:20261012T153000
 DTEND;TZID=America/New_York:20261012T173000
 SUMMARY:Girls Soccer: Dr. Henry A. Wise at Northwestern
@@ -95,7 +95,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-northwestern-suitland-girls-soccer@oldlinerankings
-DTSTAMP:20261029T170744Z
+DTSTAMP:20261030T081934Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Girls Soccer: Suitland at Northwestern
@@ -104,7 +104,7 @@ DESCRIPTION:Final: Northwestern 4\, Suitland 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-northwestern-charles-h-flowers-girls-soccer@oldlinerankings
-DTSTAMP:20261029T170744Z
+DTSTAMP:20261030T081934Z
 DTSTART;TZID=America/New_York:20261019T170000
 DTEND;TZID=America/New_York:20261019T190000
 SUMMARY:Girls Soccer: Charles H. Flowers at Northwestern
@@ -114,7 +114,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-laurel-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261029T170744Z
+DTSTAMP:20261030T081934Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Girls Soccer: Northwestern at Laurel
@@ -123,7 +123,7 @@ DESCRIPTION:Final: Northwestern 3\, Laurel 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-montgomery-blair-northwestern-girls-soccer@oldlinerankings
-DTSTAMP:20261029T170744Z
+DTSTAMP:20261030T081934Z
 DTSTART;TZID=America/New_York:20261031T140000
 DTEND;TZID=America/New_York:20261031T160000
 SUMMARY:Girls Soccer: Northwestern at Montgomery Blair

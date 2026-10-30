@@ -6,7 +6,7 @@ X-WR-CALNAME:Central Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-10-central-largo-boys-soccer@oldlinerankings
-DTSTAMP:20261029T170711Z
+DTSTAMP:20261030T081900Z
 DTSTART;TZID=America/New_York:20260910T150000
 DTEND;TZID=America/New_York:20260910T170000
 SUMMARY:Boys Soccer: Largo at Central
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-international-hs-at-largo-central-boys-soccer@oldlinerankings
-DTSTAMP:20261029T170711Z
+DTSTAMP:20261030T081900Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Boys Soccer: Central at International HS at Largo
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Central 0\, International HS at Largo 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-international-hs-at-langley-park-central-boys-soccer@oldlinerankings
-DTSTAMP:20261029T170711Z
+DTSTAMP:20261030T081900Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Central at International HS at Langley Park
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Central 1\, International HS at Langley Park 9
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-cmit-south-central-boys-soccer@oldlinerankings
-DTSTAMP:20261029T170711Z
+DTSTAMP:20261030T081900Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Central at CMIT - South
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Central 0\, CMIT - South 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-central-gwynn-park-boys-soccer@oldlinerankings
-DTSTAMP:20261029T170711Z
+DTSTAMP:20261030T081900Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Boys Soccer: Gwynn Park at Central
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Central 1\, Gwynn Park 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-central-crossland-boys-soccer@oldlinerankings
-DTSTAMP:20261029T170711Z
+DTSTAMP:20261030T081900Z
 DTSTART;TZID=America/New_York:20261005T150000
 DTEND;TZID=America/New_York:20261005T170000
 SUMMARY:Boys Soccer: Crossland at Central
@@ -62,7 +62,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-central-frederick-douglass-pg-boys-soccer@oldlinerankings
-DTSTAMP:20261029T170711Z
+DTSTAMP:20261030T081900Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Boys Soccer: Frederick Douglass-PG at Central
@@ -71,7 +71,7 @@ DESCRIPTION:Final: Central 1\, Frederick Douglass-PG 5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12-central-friendly-boys-soccer@oldlinerankings
-DTSTAMP:20261029T170711Z
+DTSTAMP:20261030T081900Z
 DTSTART;TZID=America/New_York:20261012T152500
 DTEND;TZID=America/New_York:20261012T172500
 SUMMARY:Boys Soccer: Friendly at Central
@@ -81,7 +81,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-central-fairmont-heights-boys-soccer@oldlinerankings
-DTSTAMP:20261029T170711Z
+DTSTAMP:20261030T081900Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Fairmont Heights at Central
@@ -90,7 +90,7 @@ DESCRIPTION:Final: Central 0\, Fairmont Heights 7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-cmit-north-central-boys-soccer@oldlinerankings
-DTSTAMP:20261029T170711Z
+DTSTAMP:20261030T081900Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Boys Soccer: Central at CMIT - North
@@ -99,7 +99,7 @@ DESCRIPTION:Final: Central 0\, CMIT - North 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-international-hs-at-langley-park-central-boys-soccer@oldlinerankings
-DTSTAMP:20261029T170711Z
+DTSTAMP:20261030T081900Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Boys Soccer: Central at International HS at Langley Park

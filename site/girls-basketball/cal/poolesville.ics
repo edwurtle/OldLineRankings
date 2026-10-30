@@ -6,23 +6,27 @@ X-WR-CALNAME:Poolesville Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-21-poolesville-brunswick-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261121T113000
 DTEND;TZID=America/New_York:20261121T133000
 SUMMARY:Girls Basketball: Brunswick at Poolesville
 LOCATION:Poolesville
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam5b37eae25d
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam5b37eae25d
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-poolesville-richard-montgomery-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261124T183000
 DTEND;TZID=America/New_York:20261124T203000
 SUMMARY:Girls Basketball: Richard Montgomery at Poolesville
 LOCATION:Poolesville
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgamb299819682
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgamb299819682
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-urbana-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261128T133000
 DTEND;TZID=America/New_York:20261128T153000
 SUMMARY:Girls Basketball: Poolesville at Urbana
@@ -30,15 +34,17 @@ LOCATION:Urbana
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-poolesville-walter-johnson-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261130T190000
 DTEND;TZID=America/New_York:20261130T210000
 SUMMARY:Girls Basketball: Walter Johnson at Poolesville
 LOCATION:Poolesville
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgame8143e6e27
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgame8143e6e27
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-thomas-s-wootton-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261204T191500
 DTEND;TZID=America/New_York:20261204T211500
 SUMMARY:Girls Basketball: Poolesville at Thomas S. Wootton
@@ -47,16 +53,17 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708103
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-poolesville-montgomery-blair-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Girls Basketball: Montgomery Blair at Poolesville
 LOCATION:Poolesville
-DESCRIPTION:Tickets: https://gofan.co/event/6708595
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgame08c41af55\nTickets: https://gofan.co/event/6708595
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgame08c41af55
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-sherwood-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261214T191500
 DTEND;TZID=America/New_York:20261214T211500
 SUMMARY:Girls Basketball: Poolesville at Sherwood
@@ -66,16 +73,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-poolesville-damascus-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261216T191500
 DTEND;TZID=America/New_York:20261216T211500
 SUMMARY:Girls Basketball: Damascus at Poolesville
 LOCATION:Poolesville
-DESCRIPTION:Tickets: https://gofan.co/event/6708542
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgameb882177fb\nTickets: https://gofan.co/event/6708542
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgameb882177fb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-northwest-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261218T191500
 DTEND;TZID=America/New_York:20261218T211500
 SUMMARY:Girls Basketball: Poolesville at Northwest
@@ -85,25 +93,27 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-poolesville-clarksburg-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261221T191500
 DTEND;TZID=America/New_York:20261221T211500
 SUMMARY:Girls Basketball: Clarksburg at Poolesville
 LOCATION:Poolesville
-DESCRIPTION:Tickets: https://gofan.co/event/6708664
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam3b3b6e524f\nTickets: https://gofan.co/event/6708664
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam3b3b6e524f
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-poolesville-seneca-valley-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: Seneca Valley at Poolesville
 LOCATION:Poolesville
-DESCRIPTION:Tickets: https://gofan.co/event/6708673
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam75043793e7\nTickets: https://gofan.co/event/6708673
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam75043793e7
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-watkins-mill-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270108T191500
 DTEND;TZID=America/New_York:20270108T211500
 SUMMARY:Girls Basketball: Poolesville at Watkins Mill
@@ -113,7 +123,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-quince-orchard-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Girls Basketball: Poolesville at Quince Orchard
@@ -123,25 +133,27 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-poolesville-paint-branch-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Girls Basketball: Paint Branch at Poolesville
 LOCATION:Poolesville
-DESCRIPTION:Tickets: https://gofan.co/event/6708535
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam7b3b6e122b\nTickets: https://gofan.co/event/6708535
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam7b3b6e122b
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-poolesville-wheaton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Girls Basketball: Wheaton at Poolesville
 LOCATION:Poolesville
-DESCRIPTION:Tickets: https://gofan.co/event/6708599
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam001b968f60\nTickets: https://gofan.co/event/6708599
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam001b968f60
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-albert-einstein-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270122T191500
 DTEND;TZID=America/New_York:20270122T211500
 SUMMARY:Girls Basketball: Poolesville at Albert Einstein
@@ -151,7 +163,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-damascus-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270129T191500
 DTEND;TZID=America/New_York:20270129T211500
 SUMMARY:Girls Basketball: Poolesville at Damascus
@@ -161,16 +173,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-poolesville-northwest-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270201T191500
 DTEND;TZID=America/New_York:20270201T211500
 SUMMARY:Girls Basketball: Northwest at Poolesville
 LOCATION:Poolesville
-DESCRIPTION:Tickets: https://gofan.co/event/6708629
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam47855353be\nTickets: https://gofan.co/event/6708629
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam47855353be
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-clarksburg-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270203T191500
 DTEND;TZID=America/New_York:20270203T211500
 SUMMARY:Girls Basketball: Poolesville at Clarksburg
@@ -180,25 +193,27 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-seneca-valley-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Girls Basketball: Poolesville at Seneca Valley
 LOCATION:Seneca Valley
-DESCRIPTION:Tickets: https://gofan.co/event/6708414
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseneca-valley-high-school-germantown-md%2Fgam9a39cdcea8\nTickets: https://gofan.co/event/6708414
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseneca-valley-high-school-germantown-md%2Fgam9a39cdcea8
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-poolesville-watkins-mill-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270208T180000
 DTEND;TZID=America/New_York:20270208T200000
 SUMMARY:Girls Basketball: Watkins Mill at Poolesville
 LOCATION:Poolesville
-DESCRIPTION:Tickets: https://gofan.co/event/6708639
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam1eb9234326\nTickets: https://gofan.co/event/6708639
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam1eb9234326
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-winston-churchill-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270212T191500
 DTEND;TZID=America/New_York:20270212T211500
 SUMMARY:Girls Basketball: Poolesville at Winston Churchill
@@ -208,16 +223,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-poolesville-rockville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270216T173000
 DTEND;TZID=America/New_York:20270216T193000
 SUMMARY:Girls Basketball: Rockville at Poolesville
 LOCATION:Poolesville
-DESCRIPTION:Tickets: https://gofan.co/event/6708570
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam530bb0b184\nTickets: https://gofan.co/event/6708570
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgam530bb0b184
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-col-zadok-magruder-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270219T173000
 DTEND;TZID=America/New_York:20270219T193000
 SUMMARY:Girls Basketball: Poolesville at Col. Zadok Magruder

@@ -6,7 +6,7 @@ X-WR-CALNAME:Watkins Mill Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-21-watkins-mill-brunswick-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20261121T110000
 DTEND;TZID=America/New_York:20261121T130000
 SUMMARY:Boys Basketball: Brunswick at Watkins Mill
@@ -14,7 +14,7 @@ LOCATION:Watkins Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-watkins-mill-bethesda-cc-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20261202T190000
 DTEND;TZID=America/New_York:20261202T210000
 SUMMARY:Boys Basketball: Bethesda-CC at Watkins Mill
@@ -22,7 +22,7 @@ LOCATION:Watkins Mill
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-watkins-mill-paint-branch-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20261204T191500
 DTEND;TZID=America/New_York:20261204T211500
 SUMMARY:Boys Basketball: Paint Branch at Watkins Mill
@@ -32,7 +32,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-gaithersburg-watkins-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Boys Basketball: Watkins Mill at Gaithersburg
@@ -42,7 +42,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-northwood-watkins-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20261211T191500
 DTEND;TZID=America/New_York:20261211T211500
 SUMMARY:Boys Basketball: Watkins Mill at Northwood
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-watkins-mill-clarksburg-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20261216T191500
 DTEND;TZID=America/New_York:20261216T211500
 SUMMARY:Boys Basketball: Clarksburg at Watkins Mill
@@ -62,16 +62,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-seneca-valley-watkins-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20261218T191500
 DTEND;TZID=America/New_York:20261218T211500
 SUMMARY:Boys Basketball: Watkins Mill at Seneca Valley
 LOCATION:Seneca Valley
-DESCRIPTION:Tickets: https://gofan.co/event/6708315
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseneca-valley-high-school-germantown-md%2Fgamd443ba20cb\nTickets: https://gofan.co/event/6708315
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseneca-valley-high-school-germantown-md%2Fgamd443ba20cb
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-watkins-mill-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20261221T191500
 DTEND;TZID=America/New_York:20261221T211500
 SUMMARY:Boys Basketball: Northwest at Watkins Mill
@@ -81,7 +82,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-watkins-mill-damascus-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Boys Basketball: Damascus at Watkins Mill
@@ -91,16 +92,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-poolesville-watkins-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270108T191500
 DTEND;TZID=America/New_York:20270108T211500
 SUMMARY:Boys Basketball: Watkins Mill at Poolesville
 LOCATION:Poolesville
-DESCRIPTION:Tickets: https://gofan.co/event/6708547
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgamd504a0a588\nTickets: https://gofan.co/event/6708547
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpoolesville-high-school-poolesville-md%2Fgamd504a0a588
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-watkins-mill-springbrook-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Boys Basketball: Springbrook at Watkins Mill
@@ -110,7 +112,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-rockville-watkins-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Boys Basketball: Watkins Mill at Rockville
@@ -120,7 +122,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-watkins-mill-thomas-s-wootton-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Boys Basketball: Thomas S. Wootton at Watkins Mill
@@ -130,7 +132,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-watkins-mill-col-zadok-magruder-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270122T191500
 DTEND;TZID=America/New_York:20270122T211500
 SUMMARY:Boys Basketball: Col. Zadok Magruder at Watkins Mill
@@ -140,7 +142,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-quince-orchard-watkins-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Boys Basketball: Watkins Mill at Quince Orchard
@@ -150,7 +152,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-clarksburg-watkins-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270129T191500
 DTEND;TZID=America/New_York:20270129T211500
 SUMMARY:Boys Basketball: Watkins Mill at Clarksburg
@@ -160,7 +162,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-watkins-mill-seneca-valley-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270201T191500
 DTEND;TZID=America/New_York:20270201T211500
 SUMMARY:Boys Basketball: Seneca Valley at Watkins Mill
@@ -170,7 +172,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-northwest-watkins-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270203T180000
 DTEND;TZID=America/New_York:20270203T200000
 SUMMARY:Boys Basketball: Watkins Mill at Northwest
@@ -180,7 +182,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-damascus-watkins-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Boys Basketball: Watkins Mill at Damascus
@@ -190,7 +192,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-watkins-mill-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270208T180000
 DTEND;TZID=America/New_York:20270208T200000
 SUMMARY:Boys Basketball: Poolesville at Watkins Mill
@@ -200,7 +202,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-watkins-mill-albert-einstein-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Boys Basketball: Albert Einstein at Watkins Mill
@@ -210,7 +212,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-wheaton-watkins-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261029T170823Z
+DTSTAMP:20261030T082019Z
 DTSTART;TZID=America/New_York:20270219T191500
 DTEND;TZID=America/New_York:20270219T211500
 SUMMARY:Boys Basketball: Watkins Mill at Wheaton

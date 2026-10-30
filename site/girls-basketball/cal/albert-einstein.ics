@@ -6,7 +6,7 @@ X-WR-CALNAME:Albert Einstein Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-21-albert-einstein-col-zadok-magruder-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261121T110000
 DTEND;TZID=America/New_York:20261121T130000
 SUMMARY:Girls Basketball: Col. Zadok Magruder at Albert Einstein
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-albert-einstein-bethesda-cc-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261201T153000
 DTEND;TZID=America/New_York:20261201T173000
 SUMMARY:Girls Basketball: Bethesda-CC at Albert Einstein
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-james-hubert-blake-albert-einstein-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261204T191500
 DTEND;TZID=America/New_York:20261204T211500
 SUMMARY:Girls Basketball: Albert Einstein at James Hubert Blake
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-albert-einstein-walter-johnson-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Girls Basketball: Walter Johnson at Albert Einstein
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-albert-einstein-springbrook-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261214T191500
 DTEND;TZID=America/New_York:20261214T211500
 SUMMARY:Girls Basketball: Springbrook at Albert Einstein
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-rockville-albert-einstein-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261216T191500
 DTEND;TZID=America/New_York:20261216T211500
 SUMMARY:Girls Basketball: Albert Einstein at Rockville
@@ -66,7 +66,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-albert-einstein-john-f-kennedy-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261218T191500
 DTEND;TZID=America/New_York:20261218T211500
 SUMMARY:Girls Basketball: John F. Kennedy at Albert Einstein
@@ -76,7 +76,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-wheaton-albert-einstein-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261221T191500
 DTEND;TZID=America/New_York:20261221T211500
 SUMMARY:Girls Basketball: Albert Einstein at Wheaton
@@ -86,7 +86,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-albert-einstein-montgomery-blair-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Girls Basketball: Montgomery Blair at Albert Einstein
@@ -96,7 +96,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-richard-montgomery-albert-einstein-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270108T191500
 DTEND;TZID=America/New_York:20270108T211500
 SUMMARY:Girls Basketball: Albert Einstein at Richard Montgomery
@@ -105,7 +105,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708593
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-albert-einstein-northwood-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Girls Basketball: Northwood at Albert Einstein
@@ -115,7 +115,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-winston-churchill-albert-einstein-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Girls Basketball: Albert Einstein at Winston Churchill
@@ -125,16 +125,17 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-seneca-valley-albert-einstein-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Girls Basketball: Albert Einstein at Seneca Valley
 LOCATION:Seneca Valley
-DESCRIPTION:Tickets: https://gofan.co/event/6708324
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseneca-valley-high-school-germantown-md%2Fgamc6719f1f50\nTickets: https://gofan.co/event/6708324
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fseneca-valley-high-school-germantown-md%2Fgamc6719f1f50
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-albert-einstein-poolesville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270122T191500
 DTEND;TZID=America/New_York:20270122T211500
 SUMMARY:Girls Basketball: Poolesville at Albert Einstein
@@ -144,7 +145,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-albert-einstein-rockville-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270129T191500
 DTEND;TZID=America/New_York:20270129T211500
 SUMMARY:Girls Basketball: Rockville at Albert Einstein
@@ -154,7 +155,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-john-f-kennedy-albert-einstein-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270201T191500
 DTEND;TZID=America/New_York:20270201T211500
 SUMMARY:Girls Basketball: Albert Einstein at John F. Kennedy
@@ -164,7 +165,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-albert-einstein-wheaton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270203T191500
 DTEND;TZID=America/New_York:20270203T211500
 SUMMARY:Girls Basketball: Wheaton at Albert Einstein
@@ -174,7 +175,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-montgomery-blair-albert-einstein-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Girls Basketball: Albert Einstein at Montgomery Blair
@@ -184,7 +185,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-albert-einstein-richard-montgomery-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270208T180000
 DTEND;TZID=America/New_York:20270208T200000
 SUMMARY:Girls Basketball: Richard Montgomery at Albert Einstein
@@ -194,7 +195,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-northwood-albert-einstein-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270212T180000
 DTEND;TZID=America/New_York:20270212T200000
 SUMMARY:Girls Basketball: Albert Einstein at Northwood
@@ -203,7 +204,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6707660
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-watkins-mill-albert-einstein-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270216T173000
 DTEND;TZID=America/New_York:20270216T193000
 SUMMARY:Girls Basketball: Albert Einstein at Watkins Mill
@@ -213,7 +214,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-albert-einstein-thomas-s-wootton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270219T173000
 DTEND;TZID=America/New_York:20270219T193000
 SUMMARY:Girls Basketball: Thomas S. Wootton at Albert Einstein

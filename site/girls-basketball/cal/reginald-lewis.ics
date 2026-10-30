@@ -6,7 +6,7 @@ X-WR-CALNAME:Reginald Lewis Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-08-benjamin-franklin-reginald-lewis-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261208T154500
 DTEND;TZID=America/New_York:20261208T174500
 SUMMARY:Girls Basketball: Reginald Lewis at Benjamin Franklin
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-reginald-lewis-southwestern-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261210T154500
 DTEND;TZID=America/New_York:20261210T174500
 SUMMARY:Girls Basketball: Southwestern at Reginald Lewis
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-patterson-reginald-lewis-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261217T171500
 DTEND;TZID=America/New_York:20261217T191500
 SUMMARY:Girls Basketball: Reginald Lewis at Patterson
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-reginald-lewis-frederick-douglass-b-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20261222T154500
 DTEND;TZID=America/New_York:20261222T174500
 SUMMARY:Girls Basketball: Frederick Douglass-B at Reginald Lewis
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-reginald-lewis-lake-clifton-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270105T160000
 DTEND;TZID=America/New_York:20270105T180000
 SUMMARY:Girls Basketball: Lake Clifton at Reginald Lewis
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-reginald-lewis-green-street-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270107T154500
 DTEND;TZID=America/New_York:20270107T174500
 SUMMARY:Girls Basketball: Green Street Academy at Reginald Lewis
@@ -65,34 +65,36 @@ DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Freginald-lewis-high-school-baltimore-md%2Fgam3be71d60e4
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-12-city-neighbors-charter-school-reginald-lewis-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
-DTSTART;TZID=America/New_York:20270112T171500
-DTEND;TZID=America/New_York:20270112T191500
-SUMMARY:Girls Basketball: Reginald Lewis at City Neighbors Charter School
-LOCATION:City Neighbors Charter School
+UID:2027-01-12-reginald-lewis-city-neighbors-charter-school-girls-basketball@oldlinerankings
+DTSTAMP:20261030T082112Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Girls Basketball: City Neighbors Charter School at Reginald Lewis
+LOCATION:Reginald Lewis
 DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Freginald-lewis-high-school-baltimore-md%2Fgam0b998d4f06
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Freginald-lewis-high-school-baltimore-md%2Fgam0b998d4f06
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-coppin-academy-reginald-lewis-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270114T171500
 DTEND;TZID=America/New_York:20270114T191500
 SUMMARY:Girls Basketball: Reginald Lewis at Coppin Academy
 LOCATION:Coppin Academy
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-21-national-academy-foundation-naf-reginald-lewis-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
-DTSTART;TZID=America/New_York:20270121T171500
-DTEND;TZID=America/New_York:20270121T191500
-SUMMARY:Girls Basketball: Reginald Lewis at National Academy Foundation (NAF)
-LOCATION:National Academy Foundation (NAF)
+UID:2027-01-21-reginald-lewis-national-academy-foundation-naf-girls-basketball@oldlinerankings
+DTSTAMP:20261030T082112Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Girls Basketball: National Academy Foundation (NAF) at Reginald Lewis
+LOCATION:Reginald Lewis
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Freginald-lewis-high-school-baltimore-md%2Fgam990e762279
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Freginald-lewis-high-school-baltimore-md%2Fgam990e762279
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-southwestern-reginald-lewis-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270126T171500
 DTEND;TZID=America/New_York:20270126T191500
 SUMMARY:Girls Basketball: Reginald Lewis at Southwestern
@@ -102,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-reginald-lewis-patterson-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270128T171500
 DTEND;TZID=America/New_York:20270128T191500
 SUMMARY:Girls Basketball: Patterson at Reginald Lewis
@@ -110,7 +112,7 @@ LOCATION:Reginald Lewis
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-frederick-douglass-b-reginald-lewis-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270202T171500
 DTEND;TZID=America/New_York:20270202T191500
 SUMMARY:Girls Basketball: Reginald Lewis at Frederick Douglass-B
@@ -118,7 +120,7 @@ LOCATION:Frederick Douglass-B
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-reginald-lewis-mergenthaler-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270204T171500
 DTEND;TZID=America/New_York:20270204T191500
 SUMMARY:Girls Basketball: Mergenthaler at Reginald Lewis
@@ -128,7 +130,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-reginald-lewis-coppin-academy-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270211T171500
 DTEND;TZID=America/New_York:20270211T191500
 SUMMARY:Girls Basketball: Coppin Academy at Reginald Lewis
@@ -138,7 +140,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-acce-reginald-lewis-girls-basketball@oldlinerankings
-DTSTAMP:20261029T170915Z
+DTSTAMP:20261030T082112Z
 DTSTART;TZID=America/New_York:20270216T171500
 DTEND;TZID=America/New_York:20270216T191500
 SUMMARY:Girls Basketball: Reginald Lewis at ACCE
