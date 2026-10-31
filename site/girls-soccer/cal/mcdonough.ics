@@ -6,7 +6,7 @@ X-WR-CALNAME:McDonough Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-henry-e-lackey-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
 SUMMARY:Girls Soccer: McDonough at Henry E. Lackey
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11-mcdonough-north-point-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20260911T170000
 DTEND;TZID=America/New_York:20260911T190000
 SUMMARY:Girls Soccer: North Point at McDonough
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-mcdonough-chopticon-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Girls Soccer: Chopticon at McDonough
@@ -35,7 +35,7 @@ DESCRIPTION:Final: McDonough 9\, Chopticon 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-huntingtown-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: McDonough at Huntingtown
@@ -44,7 +44,7 @@ DESCRIPTION:Final: McDonough 1\, Huntingtown 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-patuxent-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20260924T181500
 DTEND;TZID=America/New_York:20260924T201500
 SUMMARY:Girls Soccer: McDonough at Patuxent
@@ -54,7 +54,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-la-plata-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Girls Soccer: McDonough at La Plata
@@ -64,7 +64,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-mcdonough-great-mills-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20261001T183000
 DTEND;TZID=America/New_York:20261001T203000
 SUMMARY:Girls Soccer: Great Mills at McDonough
@@ -74,7 +74,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-mcdonough-northern-c-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Girls Soccer: Northern-C at McDonough
@@ -84,7 +84,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-calvert-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20261008T181500
 DTEND;TZID=America/New_York:20261008T201500
 SUMMARY:Girls Soccer: McDonough at Calvert
@@ -94,7 +94,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-mcdonough-leonardtown-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girls Soccer: Leonardtown at McDonough
@@ -103,7 +103,7 @@ DESCRIPTION:Final: McDonough 0\, Leonardtown 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-mcdonough-westlake-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20261015T181500
 DTEND;TZID=America/New_York:20261015T201500
 SUMMARY:Girls Soccer: Westlake at McDonough
@@ -113,7 +113,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-huntingtown-mcdonough-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20261030T163000
 DTEND;TZID=America/New_York:20261030T183000
 SUMMARY:Girls Soccer: McDonough at Huntingtown

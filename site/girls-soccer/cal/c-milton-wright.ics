@@ -6,7 +6,7 @@ X-WR-CALNAME:C. Milton Wright Girls Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-c-milton-wright-md-john-carroll-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20260908T170000
 DTEND;TZID=America/New_York:20260908T190000
 SUMMARY:Girls Soccer: MD-John Carroll at C. Milton Wright
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-havre-de-grace-c-milton-wright-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20260910T190000
 DTEND;TZID=America/New_York:20260910T210000
 SUMMARY:Girls Soccer: C. Milton Wright at Havre de Grace
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14-harford-tech-c-milton-wright-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20260914T190000
 DTEND;TZID=America/New_York:20260914T210000
 SUMMARY:Girls Soccer: C. Milton Wright at Harford Tech
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-c-milton-wright-bel-air-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Girls Soccer: Bel Air at C. Milton Wright
@@ -45,7 +45,7 @@ DESCRIPTION:Final: C. Milton Wright 1\, Bel Air 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-fallston-c-milton-wright-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Girls Soccer: C. Milton Wright at Fallston
@@ -55,7 +55,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-c-milton-wright-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Girls Soccer: North Harford at C. Milton Wright
@@ -65,7 +65,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-patterson-mill-c-milton-wright-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20260929T180000
 DTEND;TZID=America/New_York:20260929T200000
 SUMMARY:Girls Soccer: C. Milton Wright at Patterson Mill
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-c-milton-wright-edgewood-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20261001T170000
 DTEND;TZID=America/New_York:20261001T190000
 SUMMARY:Girls Soccer: Edgewood at C. Milton Wright
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05-north-east-c-c-milton-wright-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Girls Soccer: C. Milton Wright at North East-C
@@ -94,7 +94,7 @@ DESCRIPTION:Final: C. Milton Wright 3\, North East-C 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-rising-sun-c-milton-wright-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T190000
 SUMMARY:Girls Soccer: C. Milton Wright at Rising Sun
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-19-perryville-c-milton-wright-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Girls Soccer: C. Milton Wright at Perryville
@@ -113,12 +113,22 @@ DESCRIPTION:Final: C. Milton Wright 8\, Perryville 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-c-milton-wright-north-harford-girls-soccer@oldlinerankings
-DTSTAMP:20261031T081923Z
+DTSTAMP:20261031T123358Z
 DTSTART;TZID=America/New_York:20261021T170000
 DTEND;TZID=America/New_York:20261021T190000
 SUMMARY:Girls Soccer: North Harford at C. Milton Wright
 LOCATION:C. Milton Wright
 DESCRIPTION:Final: C. Milton Wright 3\, North Harford 0\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgamb14ea10e52
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgamb14ea10e52
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-c-milton-wright-bel-air-girls-soccer@oldlinerankings
+DTSTAMP:20261031T123358Z
+DTSTART;TZID=America/New_York:20261030T160000
+DTEND;TZID=America/New_York:20261030T180000
+SUMMARY:Girls Soccer: Bel Air at C. Milton Wright
+LOCATION:C. Milton Wright
+DESCRIPTION:Final: C. Milton Wright 1\, Bel Air 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgamfda1c85c11
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fc-milton-wright-high-school-bel-air-md%2Fgamfda1c85c11
 END:VEVENT
 END:VCALENDAR

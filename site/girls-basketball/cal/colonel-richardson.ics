@@ -6,7 +6,7 @@ X-WR-CALNAME:Colonel Richardson Girls Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-12-04-pocomoke-colonel-richardson-girls-basketball@oldlinerankings
-DTSTAMP:20261031T082057Z
+DTSTAMP:20261031T123509Z
 DTSTART;TZID=America/New_York:20261204T180000
 DTEND;TZID=America/New_York:20261204T200000
 SUMMARY:Girls Basketball: Colonel Richardson at Pocomoke
@@ -14,7 +14,7 @@ LOCATION:Pocomoke
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-mardela-colonel-richardson-girls-basketball@oldlinerankings
-DTSTAMP:20261031T082057Z
+DTSTAMP:20261031T123509Z
 DTSTART;TZID=America/New_York:20261211T163000
 DTEND;TZID=America/New_York:20261211T183000
 SUMMARY:Girls Basketball: Colonel Richardson at Mardela
@@ -22,7 +22,7 @@ LOCATION:Mardela
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-seaford-colonel-richardson-girls-basketball@oldlinerankings
-DTSTAMP:20261031T082057Z
+DTSTAMP:20261031T123509Z
 DTSTART;TZID=America/New_York:20270125T160000
 DTEND;TZID=America/New_York:20270125T180000
 SUMMARY:Girls Basketball: Colonel Richardson at Seaford
