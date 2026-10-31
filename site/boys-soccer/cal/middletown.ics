@@ -6,7 +6,7 @@ X-WR-CALNAME:Middletown Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-middletown-tuscarora-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
 SUMMARY:Boys Soccer: Tuscarora at Middletown
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-middletown-oakdale-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T210000
 SUMMARY:Boys Soccer: Oakdale at Middletown
@@ -26,7 +26,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-catoctin-middletown-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T210000
 SUMMARY:Boys Soccer: Middletown at Catoctin
@@ -36,7 +36,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-middletown-walkersville-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Boys Soccer: Walkersville at Middletown
@@ -46,7 +46,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-boonsboro-middletown-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;TZID=America/New_York:20260924T190000
 DTEND;TZID=America/New_York:20260924T210000
 SUMMARY:Boys Soccer: Middletown at Boonsboro
@@ -56,7 +56,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28-middletown-williamsport-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Boys Soccer: Williamsport at Middletown
@@ -65,7 +65,7 @@ DESCRIPTION:Final: Middletown 4\, Williamsport 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01-middletown-urbana-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Boys Soccer: Urbana at Middletown
@@ -75,7 +75,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-smithsburg-middletown-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T210000
 SUMMARY:Boys Soccer: Middletown at Smithsburg
@@ -85,7 +85,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08-clear-spring-middletown-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Boys Soccer: Middletown at Clear Spring
@@ -94,7 +94,7 @@ DESCRIPTION:Final: Middletown 8\, Clear Spring 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-brunswick-middletown-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T210000
 SUMMARY:Boys Soccer: Middletown at Brunswick
@@ -104,7 +104,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15-francis-scott-key-middletown-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Boys Soccer: Middletown at Francis Scott Key
@@ -113,7 +113,7 @@ DESCRIPTION:Final: Middletown 1\, Francis Scott Key 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-middletown-linganore-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;TZID=America/New_York:20261020T190000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:Boys Soccer: Linganore at Middletown
@@ -123,7 +123,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-middletown-poolesville-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;TZID=America/New_York:20261028T190000
 DTEND;TZID=America/New_York:20261028T210000
 SUMMARY:Boys Soccer: Poolesville at Middletown

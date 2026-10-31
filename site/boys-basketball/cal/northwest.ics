@@ -6,7 +6,7 @@ X-WR-CALNAME:Northwest Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-21-sherwood-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261121T121500
 DTEND;TZID=America/New_York:20261121T141500
 SUMMARY:Boys Basketball: Northwest at Sherwood
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-northwest-new-hope-academy-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261130T180000
 DTEND;TZID=America/New_York:20261130T200000
 SUMMARY:Boys Basketball: New Hope Academy at Northwest
@@ -24,7 +24,7 @@ LOCATION:Northwest
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-northwest-northwood-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261204T191500
 DTEND;TZID=America/New_York:20261204T211500
 SUMMARY:Boys Basketball: Northwood at Northwest
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-richard-montgomery-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Boys Basketball: Northwest at Richard Montgomery
@@ -43,7 +43,7 @@ DESCRIPTION:Tickets: https://gofan.co/event/6708670
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-northwest-col-zadok-magruder-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261211T191500
 DTEND;TZID=America/New_York:20261211T211500
 SUMMARY:Boys Basketball: Col. Zadok Magruder at Northwest
@@ -53,7 +53,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-northwest-seneca-valley-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261216T191500
 DTEND;TZID=America/New_York:20261216T211500
 SUMMARY:Boys Basketball: Seneca Valley at Northwest
@@ -63,7 +63,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-poolesville-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261218T191500
 DTEND;TZID=America/New_York:20261218T211500
 SUMMARY:Boys Basketball: Northwest at Poolesville
@@ -73,7 +73,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-watkins-mill-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261221T191500
 DTEND;TZID=America/New_York:20261221T211500
 SUMMARY:Boys Basketball: Northwest at Watkins Mill
@@ -83,7 +83,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-northwest-clarksburg-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270105T191500
 DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:Boys Basketball: Clarksburg at Northwest
@@ -93,7 +93,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-damascus-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270108T191500
 DTEND;TZID=America/New_York:20270108T211500
 SUMMARY:Boys Basketball: Northwest at Damascus
@@ -103,7 +103,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-walt-whitman-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270112T191500
 DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:Boys Basketball: Northwest at Walt Whitman
@@ -113,7 +113,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-northwest-bethesda-cc-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270114T191500
 DTEND;TZID=America/New_York:20270114T211500
 SUMMARY:Boys Basketball: Bethesda-CC at Northwest
@@ -123,7 +123,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-northwest-quince-orchard-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Boys Basketball: Quince Orchard at Northwest
@@ -133,7 +133,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-james-hubert-blake-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270122T191500
 DTEND;TZID=America/New_York:20270122T211500
 SUMMARY:Boys Basketball: Northwest at James Hubert Blake
@@ -143,7 +143,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-northwest-paint-branch-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270126T191500
 DTEND;TZID=America/New_York:20270126T211500
 SUMMARY:Boys Basketball: Paint Branch at Northwest
@@ -153,7 +153,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-seneca-valley-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270129T191500
 DTEND;TZID=America/New_York:20270129T211500
 SUMMARY:Boys Basketball: Northwest at Seneca Valley
@@ -163,7 +163,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-northwest-poolesville-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270201T191500
 DTEND;TZID=America/New_York:20270201T211500
 SUMMARY:Boys Basketball: Poolesville at Northwest
@@ -173,7 +173,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-northwest-watkins-mill-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270203T180000
 DTEND;TZID=America/New_York:20270203T200000
 SUMMARY:Boys Basketball: Watkins Mill at Northwest
@@ -183,7 +183,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-clarksburg-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Boys Basketball: Northwest at Clarksburg
@@ -193,7 +193,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-northwest-damascus-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270208T180000
 DTEND;TZID=America/New_York:20270208T200000
 SUMMARY:Boys Basketball: Damascus at Northwest
@@ -203,7 +203,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-northwest-thomas-s-wootton-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Boys Basketball: Thomas S. Wootton at Northwest
@@ -213,12 +213,11 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-john-f-kennedy-northwest-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270216T191500
 DTEND;TZID=America/New_York:20270216T211500
 SUMMARY:Boys Basketball: Northwest at John F. Kennedy
 LOCATION:John F. Kennedy
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam69f459e870\nTickets: https://gofan.co/event/6707266
-URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fjohn-f-kennedy-high-school-silver-spring-md%2Fgam69f459e870
+DESCRIPTION:Tickets: https://gofan.co/event/6707266
 END:VEVENT
 END:VCALENDAR

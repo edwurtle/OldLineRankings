@@ -6,7 +6,7 @@ X-WR-CALNAME:Howard Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-11-30-howard-albert-einstein-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261130T193000
 DTEND;TZID=America/New_York:20261130T213000
 SUMMARY:Boys Basketball: Albert Einstein at Howard
@@ -14,7 +14,7 @@ LOCATION:Howard
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-oakland-mills-howard-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261207T173000
 DTEND;TZID=America/New_York:20261207T193000
 SUMMARY:Boys Basketball: Howard at Oakland Mills
@@ -24,7 +24,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-howard-centennial-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261209T173000
 DTEND;TZID=America/New_York:20261209T193000
 SUMMARY:Boys Basketball: Centennial at Howard
@@ -34,7 +34,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-guilford-park-howard-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261214T173000
 DTEND;TZID=America/New_York:20261214T193000
 SUMMARY:Boys Basketball: Howard at Guilford Park
@@ -42,7 +42,7 @@ LOCATION:Guilford Park
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-reservoir-howard-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Boys Basketball: Howard at Reservoir
@@ -52,7 +52,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-howard-long-reach-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20261221T173000
 DTEND;TZID=America/New_York:20261221T193000
 SUMMARY:Boys Basketball: Long Reach at Howard
@@ -62,7 +62,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-howard-chopticon-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Boys Basketball: Chopticon at Howard
@@ -70,7 +70,7 @@ LOCATION:Howard
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-howard-marriotts-ridge-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270106T173000
 DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Boys Basketball: Marriotts Ridge at Howard
@@ -80,7 +80,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-river-hill-howard-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270108T180000
 DTEND;TZID=America/New_York:20270108T200000
 SUMMARY:Boys Basketball: Howard at River Hill
@@ -88,7 +88,7 @@ LOCATION:River Hill
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-glenelg-howard-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270111T173000
 DTEND;TZID=America/New_York:20270111T193000
 SUMMARY:Boys Basketball: Howard at Glenelg
@@ -98,7 +98,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-liberty-howard-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270112T183000
 DTEND;TZID=America/New_York:20270112T203000
 SUMMARY:Boys Basketball: Howard at Liberty
@@ -106,7 +106,7 @@ LOCATION:Liberty
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-howard-wilde-lake-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270120T173000
 DTEND;TZID=America/New_York:20270120T193000
 SUMMARY:Boys Basketball: Wilde Lake at Howard
@@ -116,7 +116,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-atholton-howard-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270125T173000
 DTEND;TZID=America/New_York:20270125T193000
 SUMMARY:Boys Basketball: Howard at Atholton
@@ -126,7 +126,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-howard-mount-hebron-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270129T180000
 DTEND;TZID=America/New_York:20270129T200000
 SUMMARY:Boys Basketball: Mount Hebron at Howard
@@ -136,7 +136,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-howard-oakland-mills-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270201T173000
 DTEND;TZID=America/New_York:20270201T193000
 SUMMARY:Boys Basketball: Oakland Mills at Howard
@@ -146,7 +146,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-long-reach-howard-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270205T180000
 DTEND;TZID=America/New_York:20270205T200000
 SUMMARY:Boys Basketball: Howard at Long Reach
@@ -154,7 +154,7 @@ LOCATION:Long Reach
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-howard-atholton-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270210T173000
 DTEND;TZID=America/New_York:20270210T193000
 SUMMARY:Boys Basketball: Atholton at Howard
@@ -162,7 +162,7 @@ LOCATION:Howard
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-howard-guilford-park-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270212T180000
 DTEND;TZID=America/New_York:20270212T200000
 SUMMARY:Boys Basketball: Guilford Park at Howard
@@ -172,7 +172,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-howard-glenelg-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270216T173000
 DTEND;TZID=America/New_York:20270216T193000
 SUMMARY:Boys Basketball: Glenelg at Howard
@@ -182,7 +182,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-hammond-howard-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270217T173000
 DTEND;TZID=America/New_York:20270217T193000
 SUMMARY:Boys Basketball: Howard at Hammond

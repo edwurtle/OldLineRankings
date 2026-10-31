@@ -5,8 +5,18 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Cambridge-South Dorchester Boys Basketball
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+UID:2026-12-30-polytech-cambridge-south-dorchester-boys-basketball@oldlinerankings
+DTSTAMP:20261031T082006Z
+DTSTART;TZID=America/New_York:20261230T100000
+DTEND;TZID=America/New_York:20261230T120000
+SUMMARY:Boys Basketball: Cambridge-South Dorchester at Polytech
+LOCATION:Polytech
+DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpolytech-high-school-woodside-de%2Fgamd7ce1b6a04
+URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fpolytech-high-school-woodside-de%2Fgamd7ce1b6a04
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-12-pocomoke-cambridge-south-dorchester-boys-basketball@oldlinerankings
-DTSTAMP:20261030T165211Z
+DTSTAMP:20261031T082006Z
 DTSTART;TZID=America/New_York:20270212T180000
 DTEND;TZID=America/New_York:20270212T200000
 SUMMARY:Boys Basketball: Cambridge-South Dorchester at Pocomoke

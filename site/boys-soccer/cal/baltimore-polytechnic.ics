@@ -6,7 +6,7 @@ X-WR-CALNAME:Baltimore Polytechnic Boys Soccer
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:2026-09-08-benjamin-franklin-baltimore-polytechnic-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;TZID=America/New_York:20260908T154500
 DTEND;TZID=America/New_York:20260908T174500
 SUMMARY:Boys Soccer: Baltimore Polytechnic at Benjamin Franklin
@@ -16,7 +16,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10-eastern-tech-baltimore-polytechnic-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Boys Soccer: Baltimore Polytechnic at Eastern Tech
@@ -25,7 +25,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 0\, Eastern Tech 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15-edmondson-westside-baltimore-polytechnic-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Boys Soccer: Baltimore Polytechnic at Edmondson-Westside
@@ -34,7 +34,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 11\, Edmondson-Westside 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17-baltimore-polytechnic-severn-run-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Boys Soccer: Severn Run at Baltimore Polytechnic
@@ -43,7 +43,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 2\, Severn Run 3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22-baltimore-city-college-baltimore-polytechnic-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Boys Soccer: Baltimore Polytechnic at Baltimore City College
@@ -52,7 +52,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 2\, Baltimore City College 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24-baltimore-polytechnic-patterson-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Boys Soccer: Patterson at Baltimore Polytechnic
@@ -61,7 +61,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 2\, Patterson 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-baltimore-polytechnic-friends-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Boys Soccer: Friends at Baltimore Polytechnic
@@ -70,7 +70,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 5\, Friends 0
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29-baltimore-polytechnic-digital-harbor-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Boys Soccer: Digital Harbor at Baltimore Polytechnic
@@ -79,7 +79,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 6\, Digital Harbor 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06-baltimore-city-college-baltimore-polytechnic-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Boys Soccer: Baltimore Polytechnic at Baltimore City College
@@ -89,7 +89,7 @@ URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsn
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13-baltimore-polytechnic-patterson-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Boys Soccer: Patterson at Baltimore Polytechnic
@@ -98,7 +98,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 3\, Patterson 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-20-baltimore-polytechnic-digital-harbor-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Boys Soccer: Digital Harbor at Baltimore Polytechnic
@@ -107,7 +107,7 @@ DESCRIPTION:Final: Baltimore Polytechnic 3\, Digital Harbor 1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-baltimore-polytechnic-high-point-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Boys Soccer: High Point at Baltimore Polytechnic
@@ -116,12 +116,12 @@ DESCRIPTION:Final: Baltimore Polytechnic 1\, High Point 2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-baltimore-polytechnic-baltimore-city-college-boys-soccer@oldlinerankings
-DTSTAMP:20261030T165052Z
+DTSTAMP:20261031T081852Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Boys Soccer: Baltimore City College at Baltimore Polytechnic
 LOCATION:Baltimore Polytechnic
-DESCRIPTION:Watch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbaltimore-polytechnic-institute-baltimore-md%2Fgam4c68991a70
+DESCRIPTION:Final: Baltimore Polytechnic 2\, Baltimore City College 1\nWatch: https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbaltimore-polytechnic-institute-baltimore-md%2Fgam4c68991a70
 URL:https://nfhs-network.pxf.io/c/7957348/699473/10661?u=https%3A%2F%2Fwww.nfhsnetwork.com%2Fevents%2Fbaltimore-polytechnic-institute-baltimore-md%2Fgam4c68991a70
 END:VEVENT
 END:VCALENDAR
