@@ -325,6 +325,60 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
     return teams
 
 
+def withdrawn_teams(standings):
+    """Schools MPSSAA's standings note lists as withdrawn from the tournament: "Withdraw: Class 3A West: Rockville, Watkins Mill"."""
+    note = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", standings.get("intro_note") or ""))).replace(" :", ":")
+    listed = note.split("Withdraw:", 1)[1] if "Withdraw:" in note else ""
+    return {name.strip(" .") for part in re.split(r"Class \w+ \w+(?: I+)?:", listed)[1:] for name in part.split(",") if name.strip(" .")}
+
+
+def bulletin_points(teams, standings, class_pts, nonmember):
+    """MPSSAA football points (Football Bulletin II.A.2), replacing rank_sport's simple ones: bonus points scale with
+    each team's schedule length, an opponent past 9 games counts 9 of them, and the average is total ÷ games played,
+    at most 9. Only MPSSAA knows a nonmember's class and wins, so those games take what its standings post: the
+    first call fills `nonmember` (school -> {opponent: (win points, bonus points)}) and later calls reuse it. A
+    nonmember game not played yet (a projection) counts as the lowest class with no bonus."""
+    by = {t["school"]: t for t in teams}
+    posted = {t["school"]: t for rs in standings["classifications"].values() for r in rs for t in r["teams"]}
+    length = {s: 9 if t["gp"] + len(t["upcoming"]) >= 9 else 8 for s, t in by.items()}
+
+    def opp_wins(opp, date):
+        played = by[opp]["games"]
+        at = next((i for i, g in enumerate(played) if g["date"] == date), 0)
+        counted = played[:9] if at < 9 else played[at - 8:at + 1]
+        return sum({"W": 1, "T": .5, "L": 0}[g["res"]] for g in counted)
+
+    fill = not nonmember
+    out = withdrawn_teams(standings)
+    for s, t in by.items():
+        for g in t["games"]:
+            if g["member"]:
+                g["cp"] = class_pts[by[g["opp"]]["cls"]]
+                g["ow"] = opp_wins(g["opp"], g["date"]) * oldline.BONUS_RATE[length[s], length[g["opp"]]]
+        wins = [g for g in t["games"] if g["res"] != "L"]
+        members = [g for g in wins if g["member"]]
+        others = [g for g in wins if not g["member"]]
+        if fill and others:
+            # What MPSSAA posts beyond the member games. Member wins it hasn't posted yet (most recent first) don't count
+            behind = max(0, len(wins) - posted[s]["wins"])
+            known = members[:len(members) - behind] if behind else members
+            win = max(0, posted[s]["win_points"] - sum(g["cp"] for g in known)) / len(others)
+            bonus = max(0, posted[s]["bonus_points"] - sum(g["ow"] for g in known)) / len(others)
+            nonmember[s] = {g["opp"]: (win, bonus) for g in others}
+        for g in t["games"]:
+            mult = {"W": 1, "T": .5, "L": 0}[g["res"]]
+            if not g["member"]:
+                g["cp"], g["ow"] = nonmember.get(s, {}).get(g["opp"], (min(class_pts.values()), 0))
+            g["max"] = g["cp"] + g["ow"]
+            g["pts"], g["cp"], g["ow"] = g["max"] * mult, g["cp"] * mult, g["ow"] * mult
+        t["pts"] = round(sum(g["pts"] for g in t["games"]), 3)
+        t["bonus"] = round(sum(g["ow"] for g in t["games"]), 3)
+        t["avg"] = t["rating"] = round(t["pts"] / min(t["gp"], 9), 4) if t["gp"] else 0
+        t["sched"] = length[s]
+        if s in out:
+            t["withdrawn"] = True
+
+
 def assign_ranks(teams):
     """Order teams by rating and number them statewide and within class, by rating and by SOS."""
     teams.sort(key=lambda t: (-t["rating"], -t["pts"]))
@@ -399,9 +453,9 @@ def official_records(teams, standings):
     return changed
 
 
-def project(raw_games, standings, class_pts, teams, first_meeting_only, wins, last_date, key="proj"):
+def project(raw_games, rank, teams, wins, last_date, key="proj"):
     """Records and MPSSAA points as if every remaining (non-postponed) game through last_date went to the favorite;
-    wins(team, opponent, team_home) says whether `team` is favored. Adds t[key] to each team."""
+    wins(team, opponent, team_home) says whether `team` is favored; rank(rows) ranks them. Adds t[key] to each team."""
     extra = []
     for t in teams:
         for u in t["upcoming"]:
@@ -410,10 +464,10 @@ def project(raw_games, standings, class_pts, teams, first_meeting_only, wins, la
             won = wins(t["school"], u["opp"], u["home"])
             extra.append(dict(school=t["school"], opponent=u["opp"], result="Win" if won else "Loss",
                               your_score=None, opponent_score=None, game_date=u["date"], projected=True))
-    projected = {p["school"]: p for p in rank_sport(raw_games + extra, standings, class_pts, first_meeting_only)}
+    projected = {p["school"]: p for p in rank(raw_games + extra)}
     for t in teams:
         p = projected[t["school"]]
-        t[key] = {k: p[k] for k in ("W", "L", "T", "gp", "pts", "avg")}
+        t[key] = {k: p[k] for k in ("W", "L", "T", "gp", "pts", "avg", "bonus") if k in p}
 
 
 def realign(standings, sport, nonce):
@@ -489,7 +543,16 @@ def build_site(key, cfg, nonce, stamp):
                 x["game_date"] = next(iter(ds))
         raw = [x for x in raw if x["game_date"] not in cfg.get("uncounted_dates", [])]
         fill_scores(raw, SCORE_FIXES.get(key, {}))
-        teams = rank_sport(raw, standings, cfg["classes"], cfg.get("first_meeting_only", False))
+        nonmember = {}   # football: what MPSSAA posts for nonmember opponents (bulletin_points)
+        def rank(rows):
+            ranked = rank_sport(rows, standings, cfg["classes"], cfg.get("first_meeting_only", False))
+            if cfg["playoffs"]["seed_by"] == "mpssaa":
+                bulletin_points(ranked, standings, cfg["classes"], nonmember)
+            return ranked
+        teams = rank(raw)
+        if cfg["playoffs"]["seed_by"] == "mpssaa":
+            posted = {t["school"]: t for rs in standings["classifications"].values() for r in rs for t in r["teams"]}
+            print(f"  MPSSAA points: {sum(abs(t['avg'] - (posted[t['school']]['point_average'] or 0)) > .01 for t in teams)} of {len(teams)} teams differ from MPSSAA's posted average")
         for t in teams:
             t["slug"] = slug(t["school"])   # the team's own page: /<sport>/<slug>/
         sports[div] = dict(teams=teams, through=max((g["date"] for t in teams for g in t["games"]), default=None))
@@ -497,7 +560,7 @@ def build_site(key, cfg, nonce, stamp):
             # MPSSAA's results feed has no playoff games: the bracket's finished games count toward the ratings
             # (and show in each team's games); the official record used for seeding stays the regular season's
             if rows := bracket_rows(bracket, {t["school"] for t in teams}):
-                teams = rank_sport(raw + rows, standings, cfg["classes"], cfg.get("first_meeting_only", False))
+                teams = rank(raw + rows)
                 for t in teams:
                     t["slug"] = slug(t["school"])
                 sports[div].update(teams=teams, through=max((g["date"] for t in teams for g in t["games"]), default=None))
@@ -508,14 +571,14 @@ def build_site(key, cfg, nonce, stamp):
         if cfg.get("olr"):
             ratings, home, class_means = oldline.rate(teams, cfg["olr"], list(cfg["classes"]))
             assign_ranks(teams)
-            project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False),
+            project(raw, rank, teams,
                     lambda a, b, a_home: oldline.win_prob(ratings[a], ratings[b], 1 if a_home else -1, home, cfg["olr"]["k"]) >= .5,
                     cfg["playoffs"]["last_date"])
             if cfg["playoffs"]["seed_by"] == "winpct" and not stale:
                 print(f"  Official MPSSAA records: {official_records(teams, standings)} teams differ from their games")
             if hold.get("proj") is None:   # title odds only once projections are live
                 oldline.simulate(teams, cfg["classes"], ratings, home, cfg["olr"], cfg["playoffs"], cfg["regions"],
-                                 official=sports[div].get("bracket"))
+                                 official=sports[div].get("bracket"), nonmember=nonmember)
             members = {t["school"] for t in teams}
             sports[div]["nonmember"] = {x: round(v, 2) for x, v in ratings.items() if x not in members}
             sports[div]["home"] = round(home, 2)
@@ -524,7 +587,7 @@ def build_site(key, cfg, nonce, stamp):
         elif cfg.get("playoffs"):
             # No game-prediction model: the higher-rated team wins; members beat non-members
             rating = {t["school"]: t["rating"] for t in teams}
-            project(raw, standings, cfg["classes"], teams, cfg.get("first_meeting_only", False),
+            project(raw, rank, teams,
                     lambda a, b, a_home: b not in rating or rating[a] >= rating[b], cfg["playoffs"]["last_date"])
         print(f"{key}/{div}: {len(teams)} teams, games through {sports[div]['through']}")
     names = sorted({t["school"] for s in sports.values() for t in s["teams"]})

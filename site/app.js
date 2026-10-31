@@ -314,8 +314,9 @@ function howFinal8() {
          The ${REGION_ORDER.length} region champions make the Final 8 and are reseeded 1–8 by winning percentage.`
       : `in each class, the top ${pl.region_seeds} teams in each of the ${REGION_ORDER.length} regions by MPSSAA points play two region rounds (1v8, 4v5, 2v7, 3v6).
          The two survivors from each region reach the state quarterfinals (the Final 8), which are reseeded 1–8 by MPSSAA points.`}
-      Teams tied on ${SEED.name} are separated by head-to-head result; if they didn't play each other (or tied) the MPSSAA flips a coin.
-      ${SEED_BY_WINPCT ? `Until the flip, the Current bracket lists the tied teams together in each of their seeds; Projected uses the Old Line Rating in place of the coin. ${FLIP_WHEN}` : "We use the Old Line Rating in place of the coin."}</div>
+      ${SEED_BY_WINPCT ? `Teams tied on ${SEED.name} are separated by head-to-head result; if they didn't play each other (or tied) the MPSSAA flips a coin.
+      Until the flip, the Current bracket lists the tied teams together in each of their seeds; Projected uses the Old Line Rating in place of the coin. ${FLIP_WHEN}`
+      : `Teams tied on ${SEED.name} are separated by the MPSSAA's tiebreakers (see MPSSAA points above). We apply the first two, head-to-head and most bonus points, and use the Old Line Rating in place of the rest.`}</div>
     <div class="example"><b>Current:</b> today's seeds and first-round matchups for every region. Later rounds and the Final 8 bracket stay empty until games are played.</div>
     <div class="example"><b>Projected:</b> every remaining game, regular season and playoffs, goes to the team with the higher Old Line Rating, and teams are seeded by
       the ${SEED.name} those results produce, the way the MPSSAA seeds.${OLR ? " The % next to each team is its chance to win that game." : ""}</div>
@@ -349,21 +350,20 @@ function renderHow() {
     ${SEEDS_BY_POINTS ? `<section class="how-section">
       ${howHead("Playoff seeding", "MPSSAA points", "The MPSSAA's own point system. It decides playoff seeding, so the Final 8 seeds by it.")}
       <div class="how-grid" style="--n:${C.ties ? 3 : 2}">
-        <div class="how-card w"><div class="k">Win</div><h4>Class + opponent's wins</h4><p>${tierText}, plus 1 point for every game your opponent has won this season.</p></div>
+        <div class="how-card w"><div class="k">Win</div><h4>Class + bonus points</h4><p>${tierText}, plus bonus points: 1 for every game the team you beat has won this season.</p></div>
         ${C.ties ? `<div class="how-card t"><div class="k">Tie</div><h4>Half a win</h4><p>A tie earns half of what a win against that opponent would have earned. Ties also count as half a win in an opponent's win total.</p></div>` : ""}
         <div class="how-card l"><div class="k">Loss</div><h4>Zero points</h4><p>Losses earn nothing but still count as a game played, which pulls your average down.</p></div>
       </div>
-      <div class="example"><b>Same as MPSSAA playoff seeding:</b> these are the win points and bonus points the MPSSAA uses to seed the ${C.sport.toLowerCase()} playoffs
+      <div class="example"><b>From the MPSSAA bulletin:</b> these are the win points and bonus points in the <a href="https://www.mpssaa.org/wp-content/uploads/2026/08/Football-Bulletin-2026.pdf">MPSSAA Football Tournament Bulletin</a>
         (${tiers.slice().reverse().map(([pts, cs]) => `${cs.join(" & ")} = ${pts}`).join(", ")}).</div>
       <div class="example">
-        <b>Example:</b> A team beats a ${cl(ex.cls)} opponent that is ${recTxt(ex)} on the season. That win is worth <b>${exPts} + ${n2(exW)} = ${n2(exPts + exW)}</b> points.${C.ties ? ` Had it been a tie, it would be worth <b>${n2((exPts + exW) / 2)}</b>.` : ""}
-        Each team's MPSSAA average is its total MPSSAA points divided by games played.
+        <b>Example:</b> A team beats a ${cl(ex.cls)} opponent that is ${recTxt(ex)} on the season, and both play the same number of games. That win is worth <b>${exPts} + ${n2(exW)} = ${n2(exPts + exW)}</b> points.${C.ties ? ` Had it been a tie, it would be worth <b>${n2((exPts + exW) / 2)}</b>.` : ""}
       </div>
-      <div class="example">
-        <b>Fine print:</b> Opponent win totals are for the full season to date, so MPSSAA points keep changing as opponents play more games.
-        Opponents from outside Maryland public schools (private schools, out of state) count as ${lowest} (${NONMEMBER_PTS} points) with 0 wins; the MPSSAA instead slots them into a class by enrollment and counts their wins, so official numbers can differ slightly. Official tiebreakers and 8- vs 9-game bonus adjustments are not applied.
-        Forfeits count as wins and losses. Records are calculated from game-by-game results, so they may differ slightly from official standings.
-      </div>
+      <div class="example"><b>8- and 9-game schedules:</b> each opponent win is worth 1 bonus point when both teams play the same number of games, 1.125 when a team playing 9 beats a team playing 8, and 0.889 when a team playing 8 beats a team playing 9. An opponent that plays more than 9 games counts for 9 of them.</div>
+      <div class="example"><b>The average:</b> a team's MPSSAA average is its total points divided by games played, up to 9. The MPSSAA's standings show the same division. Only the first game between two teams counts.</div>
+      <div class="example"><b>Private and out-of-state opponents:</b> the MPSSAA places them in a class by enrollment and counts their wins. We use the points it posts for those games, and it updates their bonus points each Monday morning.</div>
+      <div class="example"><b>Tiebreakers:</b> in order, head-to-head; most bonus points; smallest score difference in losses to common opponents; fewest average points allowed; the highest point average among defeated opponents; then a coin flip.</div>
+      <div class="example"><b>Fine print:</b> Opponent win totals are for the season to date, so MPSSAA points keep changing as opponents play. Our points update as results post, so they can briefly run ahead of the MPSSAA's standings. Forfeits count as wins and losses. Teams the MPSSAA lists as withdrawn stay in the rankings but aren't seeded.</div>
     </section>` : ""}
     ${C.playoffs ? howFinal8() : ""}
   </div>`;
@@ -503,11 +503,11 @@ function seeding(g, c, view) {
   const pick = !projected ? null : OLR
     ? (a, b) => { const p = winProb(g, a.school, b.school, 1); return {p, w: p >= .5 ? a : b}; }
     : (a, b) => ({p: null, w: val(b).avg > val(a).avg ? b : a});
-  // MPSSAA tiebreak: head-to-head winner first; otherwise a coin flip, which we stand in for with the
-  // Old Line Rating (higher first)
+  // MPSSAA tiebreak: head-to-head winner first, then (football) most bonus points; the Old Line Rating (higher first)
+  // stands in for the rest, down to the coin flip
   // (every meeting counts: a split series is no better than not playing)
   const h2h = (a, b) => -Math.sign(a.games.filter(x => x.opp === b.school).reduce((n, x) => n + {W: 1, L: -1, T: 0}[x.res], 0));
-  const order = (a, b) => SEED.val(val(b)) - SEED.val(val(a)) || h2h(a, b) || b.rating - a.rating || a.stateRank - b.stateRank;
+  const order = (a, b) => SEED.val(val(b)) - SEED.val(val(a)) || h2h(a, b) || (val(b).bonus || 0) - (val(a).bonus || 0) || b.rating - a.rating || a.stateRank - b.stateRank;
   const ts = teamsOf(g, c);
   const regionRounds = Math.log2(8 / PL.per_region);   // rounds until per_region teams are left
   // Today's ties the MPSSAA settles with a coin flip (winning-percentage seeding): teams level on winning
@@ -540,13 +540,13 @@ function seeding(g, c, view) {
   };
   const regions = REGION_ORDER.map(reg => {
     const seeds = officialSeeds(reg);
-    const teams = seeds ? seeds.filter(Boolean) : ts.filter(t => t.region === reg).sort(order);
+    const teams = seeds ? seeds.filter(Boolean) : ts.filter(t => t.region === reg && !t.withdrawn).sort(order);
     if (!projected && PL.seed_by === "winpct" && !bracketSet(g)) markCoins(teams);
     const rounds = playBracket(seeds ? Array.from({length: PL.region_seeds}, (_, i) => seeds[i]) : teams.slice(0, PL.region_seeds), regionRounds, ob ? play : pick);
     // Current: assume the top seeds advance (or the real region winners). Projected: the predicted region winners advance.
     const won = rounds[rounds.length - 1].map(m => m.w).filter(isTeam);
     const adv = projected || won.length ? won : teams.slice(0, PL.per_region);
-    return {reg, teams, rounds, adv: new Set(adv)};
+    return {reg, teams, rounds, adv: new Set(adv), out: ts.filter(t => t.region === reg && t.withdrawn)};
   }).filter(x => x.teams.length);
   const final8 = regions.flatMap(x => [...x.adv]).sort(order);
   const regionSeed = new Map(regions.flatMap(x => x.teams.map(t => [t, null])));
@@ -720,8 +720,8 @@ function renderFinal8(r) {
   const regionRounds = Math.log2(8 / PL.per_region);
   const regionNames = regionRounds === 3 ? ["Quarterfinals", "Semifinals", "Region final"] : ["Round 1", "Round 2"];
   const coins = !projected && coin.size ? `<p class="coin-note">${COIN_SVG} Teams tied on ${SEED.name} that head-to-head doesn't separate are listed together in each of their seeds until the MPSSAA flips a coin. ${FLIP_WHEN}</p>` : "";
-  const regionCards = regions.map(({reg, teams, rounds, official}) => `<div class="rcard" id="${regionId(reg)}"><div class="rhead"><h3>${reg}</h3>
-      <small>${teams.length} teams · ${official ? "MPSSAA seeds" : `seeded by ${projected ? "projected " : ""}${SEED.name}`}</small></div>
+  const regionCards = regions.map(({reg, teams, rounds, official, out}) => `<div class="rcard" id="${regionId(reg)}"><div class="rhead"><h3>${reg}</h3>
+      <small>${teams.length} teams${out.length ? ` · ${out.map(t => esc(t.school)).join(", ")} withdrew` : ""} · ${official ? "MPSSAA seeds" : `seeded by ${projected ? "projected " : ""}${SEED.name}`}</small></div>
       ${bracketHTML(rounds, regionNames, PL.per_region === 1 ? null : "To Final 8", slotFor(t => regionSeed.get(t), true), {cls: "mini", pct: projected && OLR, links, scores})}</div>`).join("");
   // State tournament: current shows only the seed lines; projected plays it out
   const stateRounds = projected ? playBracket(final8, 3, pick)
@@ -1093,8 +1093,9 @@ function upcomingRow(g, t, u) {
   const ctag = opp ? `<span class="ctag">${cl(opp.cls)}</span>` : `<span class="ctag nm">Non-public / out of state</span>`;
   const orec = opp ? `<span class="mono">${recTxt(opp)}</span><span>${esc(opp.region)}</span>` : "";
   const status = {postponed: `<span class="stat">Postponed</span>`, pending: `<span class="stat">Result pending</span>`}[u.status] || "";
-  // A win would be worth opponent class + opponent wins (to date)
-  const worth = opp ? C.classes[opp.cls] + opp.W + 0.5 * opp.T : NONMEMBER_PTS;
+  // A win would be worth opponent class + opponent wins (to date), at football's rate for the two schedule lengths
+  const rate = !t.sched || !opp || t.sched === opp.sched ? 1 : t.sched > opp.sched ? 1.125 : .889;
+  const worth = opp ? C.classes[opp.cls] + (opp.W + 0.5 * opp.T) * rate : NONMEMBER_PTS;
   const d = new Date(u.date + "T12:00:00");
   const po = playoffTag(g, t.school, u.opp, u.date);
   return `<div class="game upcoming">

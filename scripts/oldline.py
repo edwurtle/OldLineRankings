@@ -75,8 +75,13 @@ def win_prob(ra, rb, home_sign, home, k):
     return 1 / (1 + math.exp(-k * (ra - rb + home * home_sign)))
 
 
-def mpssaa_points(results, member, class_pts):
-    """MPSSAA points and games played from (a, b, result for a) tuples (same rules as build.rank_sport)."""
+# Football bulletin: bonus points per opponent win, by (this team's, the opponent's) schedule length
+BONUS_RATE = {(9, 9): 1, (9, 8): 1.125, (8, 9): .889, (8, 8): 1}
+
+
+def mpssaa_points(results, member, class_pts, nonmember=None):
+    """MPSSAA points and games played from (a, b, result for a) tuples (the rules of build.bulletin_points).
+    nonmember: school -> {opponent: (win points, bonus points)}, from MPSSAA's standings."""
     low = min(class_pts.values())
     wins, gp, pts = collections.Counter(), collections.Counter(), collections.Counter()
     for a, b, res in results:
@@ -84,14 +89,16 @@ def mpssaa_points(results, member, class_pts):
         gp[b] += 1
         wins[a] += {"W": 1, "T": .5, "L": 0}[res]
         wins[b] += {"W": 0, "T": .5, "L": 1}[res]
+    length = lambda s: 9 if gp[s] >= 9 else 8
     for a, b, res in results:
         for x, o, mult in ((a, b, {"W": 1, "T": .5, "L": 0}[res]), (b, a, {"W": 0, "T": .5, "L": 1}[res])):
             if mult and x in member:
-                pts[x] += mult * ((class_pts[member[o]["cls"]] + wins[o]) if o in member else low)
+                pts[x] += mult * (class_pts[member[o]["cls"]] + wins[o] * BONUS_RATE[length(x), length(o)] if o in member
+                                  else sum((nonmember or {}).get(x, {}).get(o, (low, 0))))
     return pts, gp
 
 
-def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, seed=1, official=None):
+def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, seed=1, official=None, nonmember=None):
     """Play out the rest of the regular season and the playoffs n times. Regular-season and playoff
     games are decided by OLR win probability (simulated regular-season games never tie); seeding follows
     playoffs["seed_by"]: MPSSAA points (football) or winning percentage with a min_games divisor (soccer),
@@ -153,7 +160,7 @@ def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, se
         for a, b, a_home in remaining:
             p = win_prob(rating(a), rating(b), 1 if a_home else -1, home, cfg["k"])
             results.append((a, b, "W" if rng.random() < p else "L"))
-        pts, gp = mpssaa_points(results, member, class_pts)
+        pts, gp = mpssaa_points(results, member, class_pts, nonmember)
         if playoffs["seed_by"] == "winpct":
             wins = collections.Counter()
             for a, b, res in results:
@@ -167,7 +174,7 @@ def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, se
         for c in class_pts:
             final8 = []
             for reg in regions:
-                seeds = fixed_seeds.get((c, reg)) or sorted((s for s, t in member.items() if t["cls"] == c and t["region"] == reg), key=order)
+                seeds = fixed_seeds.get((c, reg)) or sorted((s for s, t in member.items() if t["cls"] == c and t["region"] == reg and not t.get("withdrawn")), key=order)
                 rounds = {1: 3, 2: 2}[playoffs["per_region"]]  # 8-line bracket down to 1 or 2 teams
                 final8 += bracket(seeds[:playoffs["region_seeds"]], rounds)[-1]
             final8.sort(key=order)

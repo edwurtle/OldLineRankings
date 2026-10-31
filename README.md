@@ -18,8 +18,13 @@ Old `#/…` links are rewritten to the new addresses.
   - Football: MPSSAA playoff seeding values: 4A & 4A/3A = 8, 3A & 2A = 7, 2A/1A & 1A = 6
 - **Tie:** half of what a win would earn
 - **Loss:** 0
-- Opponent wins count their ties as half a win. Non-public / out-of-state opponents = lowest class, 0 wins.
+- Opponent wins count their ties as half a win. Non-public / out-of-state opponents = lowest class, 0 wins (soccer and basketball).
 - Football counts only the first meeting between two teams (MPSSAA football bulletin).
+- Football's MPSSAA points follow the bulletin (II.A.2, `bulletin_points` in `scripts/build.py`): each opponent win is
+  1 bonus point, 1.125 for a 9-game team beating an 8-game team, 0.889 the other way; an opponent past 9 games counts 9;
+  the average is total ÷ games played, at most 9, as MPSSAA's standings divide. Nonmember games take what MPSSAA posts.
+  Ties go head-to-head, then most bonus points. Teams MPSSAA's standings note lists as withdrawn aren't seeded. Each
+  build prints how many teams differ from MPSSAA's posted average.
 - Soccer leaves out Sat Sep 5 (preseason jamborees and showcases; MPSSAA's standings don't count them), set by
   `uncounted_dates`. One game entered by each school under different dates (2 days apart, or the same day a
   month off) with the same score counts once.
