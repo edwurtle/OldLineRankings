@@ -732,18 +732,29 @@ def official_bracket(cfg, api, teams, nonce):
                 t["name"] = school or t["name"]
     if unmatched:
         print("  Bracket names with no school match:", sorted(unmatched))
-    # A finished region game whose loser is the one listed in the next round had its result entered on the wrong lines
-    # (MPSSAA once had Western-B 12, Meade 0 with Meade in the semifinal): the next round wins, so the result is flipped
-    order = {"Region QF": "Region SF", "Region SF": "Region Finals"}
+    # The round after a game names who moved on: its game by bracket position, or for a region final the state quarterfinals
+    order = {"Region QF": "Region SF", "Region SF": "Region Finals", "State QF": "State SF", "State SF": "State Finals"}
     nxt = {(g["c"], g["level"], g["round"], g["n"]): g for g in b["games"]}
+    def ahead(g):
+        later = ([x for x in b["games"] if x["c"] == g["c"] and x["round"] == "State QF"] if g["round"] == "Region Finals"
+                 else [nxt.get((g["c"], g["level"], order.get(g["round"]), (g["n"] + 1) // 2))])
+        return {t["name"] for x in later if x for t in x["teams"]}
     for g in b["games"]:
-        n = nxt.get((g["c"], g["level"], order.get(g["round"]), (g["n"] + 1) // 2))
-        if not n or not g["completed"] or g["winner"] is None or not all(t["name"] and t["name"] != "Bye" for t in g["teams"]):
+        if not g["completed"] or not all(t["name"] and t["name"] != "Bye" for t in g["teams"]):
             continue
+        a, z = g["teams"]
+        moved_on = ahead(g)
+        if g["winner"] is None:
+            # A game won on penalties: MPSSAA posts the tied score with no winner and lists the winner in the next round.
+            # Until it does the game stays undecided
+            if a["score"] == z["score"] and (a["name"] in moved_on) != (z["name"] in moved_on):
+                g["winner"] = 0 if a["name"] in moved_on else 1
+                print(f"  Bracket tie decided by the next round: {g['c']} {g['level']} {g['round']} {g['teams'][g['winner']]['name']} moved on")
+            continue
+        # A result entered on the wrong lines, its loser listed in the next round (MPSSAA once had Western-B 12, Meade 0
+        # with Meade in the semifinal): the next round wins, so the result is flipped
         won, lost = g["teams"][g["winner"]]["name"], g["teams"][1 - g["winner"]]["name"]
-        ahead = {t["name"] for t in n["teams"]}
-        if lost in ahead and won not in ahead:
-            a, z = g["teams"]
+        if lost in moved_on and won not in moved_on:
             a["score"], z["score"] = z["score"], a["score"]
             g["winner"] = 1 - g["winner"]
             print(f"  Bracket result flipped to match the next round: {g['c']} {g['level']} {g['round']} {lost} over {won}")
@@ -764,7 +775,7 @@ def clock(t):
 def bracket_rows(bracket, members):
     """Rows in the shape of MPSSAA's results feed (entered by the host) for the bracket's games between two of our
     schools: finished games count toward the ratings and both kinds show in each team's games. A game won on
-    penalties keeps its tied score, so it rates as a tie."""
+    penalties keeps its tied score, so it rates as a tie, even before MPSSAA shows who moved on."""
     rows = []
     for g in bracket["games"]:
         a, b = g["teams"]
@@ -775,7 +786,7 @@ def bracket_rows(bracket, members):
             rows.append(dict(school=host["name"], opponent=guest["name"], your_score=None, opponent_score=None, result=None,
                              status="scheduled", game_date=g["date"], week=None, home_team=host["name"], time=clock(g["time"])))
             continue
-        if g["winner"] is None or a["score"] is None or b["score"] is None:
+        if a["score"] is None or b["score"] is None or (g["winner"] is None and a["score"] != b["score"]):
             continue
         result = "Tie" if host["score"] == guest["score"] else "Win" if host is g["teams"][g["winner"]] else "Loss"
         rows.append(dict(school=host["name"], opponent=guest["name"], your_score=host["score"], opponent_score=guest["score"],

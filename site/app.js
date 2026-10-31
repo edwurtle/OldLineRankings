@@ -865,7 +865,7 @@ function playoffWatch(g, c) {
   const m = PL && playoffModel(g);
   if (!m) return "";
   // Only real contests: a game whose favorite is above WATCH_MAX isn't one to watch, even if it's the closest left
-  const upcoming = m.games.filter(x => x.c === c && x.winner == null && x.teams.every(named)).map(x => ({x, p: OLR ? gameProb(g, x) : .5}))
+  const upcoming = m.games.filter(x => x.c === c && x.winner == null && !x.completed && x.teams.every(named)).map(x => ({x, p: OLR ? gameProb(g, x) : .5}))
     .filter(u => Math.max(u.p, 1 - u.p) <= WATCH_MAX);
   const soonest = upcoming.map(u => u.x.date || "9").sort()[0];
   const watch = upcoming.sort((a, b) => ((a.x.date || "9") > soonest) - ((b.x.date || "9") > soonest) || Math.abs(a.p - .5) - Math.abs(b.p - .5)).slice(0, 4);
@@ -895,12 +895,12 @@ function teamPlayoffCard(g, name) {
   const opp = x => x.teams[1 - side(x)];
   const oppTxt = x => { const o = opp(x); return o.name === "Bye" ? "a bye" : o.name ? `No. ${o.seed} ${esc(o.name)}` : "the winner of an earlier game"; };
   const lost = mine.find(x => x.winner != null && x.winner !== side(x) && x.teams.every(named));
-  const next = mine.find(x => x.winner == null);
+  const next = mine.find(x => x.winner == null && !x.completed);
   let status;
   if (k.champ === name) status = `<b class="po-st win">State champion</b>`;
   else if (lost) {
     const me = lost.teams[side(lost)], o = opp(lost);
-    status = `<b class="po-st out">Out</b> Lost ${me.score ?? ""}${me.score != null ? "–" : ""}${o.score ?? ""} to No. ${o.seed} ${esc(o.name)} in the ${roundLabel(lost.round).toLowerCase()}`;
+    status = `<b class="po-st out">Out</b> Lost ${me.score ?? ""}${me.score != null ? "–" : ""}${o.score ?? ""} ${me.score != null && me.score === o.score ? " on penalties" : ""} to No. ${o.seed} ${esc(o.name)} in the ${roundLabel(lost.round).toLowerCase()}`;
   } else if (next) {
     const both = next.teams.every(named), p = both && OLR ? gameProb(g, next) : null;
     const pMe = p == null ? null : side(next) === 0 ? p : 1 - p;
