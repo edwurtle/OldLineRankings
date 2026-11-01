@@ -117,3 +117,40 @@ def add_ticket_links(sports, divisions, sport, alt_names, cities):
                 bracket_linked += 1
     print(f"  GoFan: {len(ids)}/{len(names)} schools matched, {linked} upcoming team-games with ticket links"
           + (f", {bracket_linked} bracket games" if bracket_linked else ""))
+
+
+def schedule_bracket(bracket, sport, gender, alt_names, cities, today):
+    """Tickets for the bracket's open games, with the date, time and site where NFHS had none. A doubleheader is one
+    event: each game's own start time and opponents are in its eventIntegrationDetails."""
+    games = nfhs.open_games(bracket)
+    names = sorted({t["name"] for g in games for t in g["teams"]})
+    directory = json.loads(CACHE.read_text()) if CACHE.exists() else {}
+    ids = nfhs.match_names(names, alt_names, cities, [dict(key=sid, name=d["name"], city=d.get("city")) for sid, d in directory.items()])
+    if not ids:
+        return
+    with ThreadPoolExecutor(8) as pool:
+        events = dict(zip(set(ids.values()), pool.map(school_events, set(ids.values()))))
+    filled = 0
+    for g in games:
+        a, z = (t["name"] for t in g["teams"])
+        hit = None
+        for us, them in ((a, z), (z, a)):
+            for e in events.get(ids.get(us), []):
+                if (e.get("activity") or {}).get("name") != sport or e.get("canceled") or e.get("archived"):
+                    continue
+                start = datetime.datetime.fromisoformat(e["startDateTime"]).astimezone(EASTERN)
+                details = [d for d in e.get("eventIntegrationDetails") or [] if d.get("gender") == gender and d.get("level") == "Varsity"]
+                genders = {x for lv in e.get("resolvedLevels") or e.get("levels") or [] for x in lv.get("genders") or []} | set(e.get("resolvedGenders") or e.get("genders") or [])
+                if not nfhs.in_window(start.date(), g, today) or (genders and gender not in genders):
+                    continue
+                schools = {e.get("schoolHuddleId"), e.get("opponentSchoolId"), *(x for d in details for x in d.get("participants") or [])}
+                if ids.get(them) in schools:
+                    hit = hit or (e, start, details)
+        if hit:
+            e, start, details = hit
+            time = next((d["startTime"] for d in details if d.get("startTime")), None) or start.strftime("%-I:%M %p")
+            host = next((n for n in (a, z) if ids.get(n) == e.get("schoolHuddleId")), None)
+            nfhs.place(g, start.date(), time, host)
+            g["tickets"] = f"https://gofan.co/event/{e['id']}"
+            filled += 1
+    print(f"  GoFan: {filled} of {len(games)} open bracket games have an event")

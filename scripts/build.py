@@ -557,6 +557,13 @@ def build_site(key, cfg, nonce, stamp):
             t["slug"] = slug(t["school"])   # the team's own page: /<sport>/<slug>/
         sports[div] = dict(teams=teams, through=max((g["date"] for t in teams for g in t["games"]), default=None))
         if cfg.get("brackets") and (bracket := official_bracket(cfg, d["api"], teams, nonce)):
+            # The bracket's games MPSSAA hasn't dated yet: their NFHS and GoFan events say when and where
+            cities = {n: s["city"] for n, s in match_schools([t["school"] for t in teams], root)[0].items()}
+            for name, add in (("NFHS", nfhs.schedule_bracket), ("GoFan", gofan.schedule_bracket)):
+                try:
+                    add(bracket, cfg.get("activity", cfg["sport"]), d["gender"], DIRECTORY_NAME, cities, now_et().date())
+                except Exception as e:
+                    print(f"  {name} bracket schedule skipped:", e)
             # MPSSAA's results feed has no playoff games: the bracket's finished games count toward the ratings
             # (and show in each team's games); the official record used for seeding stays the regular season's
             if rows := bracket_rows(bracket, {t["school"] for t in teams}):
@@ -601,6 +608,15 @@ def build_site(key, cfg, nonce, stamp):
             add(sports, cfg["divisions"], cfg.get("activity", cfg["sport"]), DIRECTORY_NAME, cities)
         except Exception as e:
             print(f"  {name} links skipped:", e)
+    # A bracket game's links reach its row in each team's schedule, including events that name only one school
+    for s in sports.values():
+        by = {t["school"]: t for t in s["teams"]}
+        for g in nfhs.open_games(s.get("bracket") or dict(games=[])):
+            a, z = (t["name"] for t in g["teams"])
+            for x, y in ((a, z), (z, a)):
+                for u in by[x]["upcoming"] if x in by else []:
+                    if u["opp"] == y and u["date"] == g["date"]:
+                        u |= {k: g[k] for k in ("watch", "tickets") if g.get(k) and not u.get(k)}
     write_calendars(out, sports, cfg)
     # Every sport, for the footer switcher (paths relative to this site)
     family = dict(home=root, sports=[dict(sport=c["sport"], icon=icons.svg(c["icon"]), current=k == key,

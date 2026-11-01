@@ -123,3 +123,57 @@ def add_watch_links(sports, divisions, sport, alt_names, cities):
                 bracket_linked += 1
     print(f"  NFHS: {len(keys)}/{len(names)} schools matched, {linked} team-games with watch links"
           + (f", {bracket_linked} bracket games" if bracket_linked else ""))
+
+
+def open_games(bracket):
+    """The bracket's games still to play with both teams known."""
+    return [g for g in bracket["games"] if not g["completed"] and all(t["name"] and t["name"] != "Bye" for t in g["teams"])]
+
+
+def in_window(day, g, today):
+    """Whether an event on day can be bracket game g: its date ±1 day, or with no date the coming week."""
+    return abs((day - datetime.date.fromisoformat(g["date"])).days) <= 1 if g["date"] else today <= day <= today + datetime.timedelta(7)
+
+
+def place(g, day, time, site):
+    """Fill what MPSSAA left blank on a bracket game."""
+    g["date"], g["time"], g["site"] = g["date"] or day.isoformat(), g["time"] or time, g["site"] or site
+
+
+def schedule_bracket(bracket, sport, gender, alt_names, cities, today):
+    """MPSSAA posts a bracket game's teams before its date, time or site: take them, and the watch link, from the
+    game's NFHS event. An event naming only one school (hosts often enter it that way) counts when no event names both."""
+    games = [g for g in open_games(bracket) if not (g["date"] and g["time"])]
+    names = sorted({t["name"] for g in games for t in g["teams"]})
+    if not names:
+        return
+    keys = match_schools(names, alt_names, cities)
+    with ThreadPoolExecutor(8) as pool:
+        found = dict(zip(set(keys.values()), pool.map(lambda k: events(k, today.isoformat()), set(keys.values()))))
+    filled = 0
+    for g in games:
+        a, z = (t["name"] for t in g["teams"])
+        both, one = None, None
+        for us, them in ((a, z), (z, a)):
+            for e in found.get(keys.get(us), []):
+                local = e.get("local_start_time") or e["start_time"]
+                day = datetime.date.fromisoformat(local[:10])
+                if (e.get("sport") != sport or e.get("is_deleted") or not e.get("site_url") or not in_window(day, g, today)
+                        or e.get("gender") not in (gender, "Coed", None)):
+                    continue
+                others = {t["key"] for t in e.get("teams") or []} - {keys[us]}
+                if keys.get(them) in others:
+                    both = both or e
+                elif not others and e.get("gender") == gender:
+                    one = one or e
+        e = both or one
+        if e:
+            local = e.get("local_start_time") or e["start_time"]
+            page = re.sub(r"[^a-z0-9]", "", e["site_url"].split("/events/")[-1].split("/")[0].lower())
+            host = next((n for n in (a, z) for t in e.get("teams") or [] if t["key"] == keys.get(n)
+                         and page.startswith(re.sub(r"[^a-z0-9]", "", t.get("name", "").lower()))), None)
+            time = None if e.get("time_to_be_determined") else datetime.time.fromisoformat(local[11:16]).strftime("%-I:%M %p")
+            place(g, datetime.date.fromisoformat(local[:10]), time, host)
+            g["watch"] = affiliate(e["site_url"])
+            filled += 1
+    print(f"  NFHS: {filled} of {len(games)} undated bracket games scheduled")
