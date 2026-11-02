@@ -115,8 +115,10 @@ def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, se
     played = []  # (a, b, result for a), each game once
     for t in teams:
         for g in t["games"]:
-            # Playoff games decide who advances, not seeds: the Final 8 reseeds on regular-season games
-            if (not g["member"] or t["school"] < g["opp"]) and g["date"] <= playoffs["last_date"]:
+            # Playoff games decide who advances, not seeds: the Final 8 reseeds on regular-season games. Winning-percentage
+            # seeding already takes them out with seed_adj (official record minus every game), so only MPSSAA points do it here
+            regular = playoffs["seed_by"] == "winpct" or g["date"] <= playoffs["last_date"]
+            if (not g["member"] or t["school"] < g["opp"]) and regular:
                 played.append((t["school"], g["opp"], g["res"]))
     remaining = []  # (a, b, a home?)
     for t in teams:

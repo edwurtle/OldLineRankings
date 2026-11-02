@@ -565,7 +565,7 @@ def build_site(key, cfg, nonce, stamp):
         for t in teams:
             t["slug"] = slug(t["school"])   # the team's own page: /<sport>/<slug>/
         sports[div] = dict(teams=teams, through=max((g["date"] for t in teams for g in t["games"]), default=None))
-        if cfg.get("brackets") and (bracket := official_bracket(cfg, d["api"], teams, nonce)):
+        if cfg.get("brackets") and (bracket := official_bracket(cfg, div, d["api"], teams, nonce)):
             # The bracket's games MPSSAA hasn't dated yet: their NFHS and GoFan events say when and where
             cities = {n: s["city"] for n, s in match_schools([t["school"] for t in teams], root)[0].items()}
             for name, add in () if QUICK else (("NFHS", nfhs.schedule_bracket), ("GoFan", gofan.schedule_bracket)):
@@ -792,14 +792,33 @@ def write_section_pages(out, page, cfg, sports, rel, sport_description):
     return [path for path, *_, canonical in pages if not canonical]
 
 
-def official_bracket(cfg, api, teams, nonce):
+def last_bracket(cfg, div):
+    """The bracket in this site's current data.js, if it's from this tournament (MPSSAA updated it in the last 30 days;
+    an older one is last season's). None if there isn't one."""
+    try:
+        text = (ROOT / cfg["out"] / "data.js").read_text()
+        b = json.loads(text[text.index("{"):text.rindex("}") + 1])["sports"][div].get("bracket")
+        updated = datetime.datetime.fromisoformat(b["updated"].replace("Z", "+00:00"))
+    except (OSError, ValueError, KeyError, TypeError, AttributeError):
+        return None
+    return b if now_et() - updated <= datetime.timedelta(days=30) else None
+
+
+def official_bracket(cfg, div, api, teams, nonce):
     """MPSSAA's posted bracket (scripts/brackets.py) with its names matched to our schools, or None before seeding.
-    A name we can't match keeps MPSSAA's spelling. Never fails the build."""
+    A name we can't match keeps MPSSAA's spelling. Never fails the build. A read that fails, comes back empty or has
+    fewer games than the last one keeps the last good bracket (with a warning on the GitHub run), so a bad moment at
+    MPSSAA can't take the official bracket off the site."""
+    last = last_bracket(cfg, div)
+    def keep_last(why):
+        print(f"::warning::{cfg['sport']}: {why}; " + ("keeping the last good bracket" if last else "no earlier bracket to keep"))
+        return last
     try:
         b = brackets.parse(curl(API + brackets.BLOCK.format(sport=api), nonce), list(cfg["classes"]))
     except Exception as e:
-        print("  Official bracket skipped:", e)
-        return None
+        return keep_last(f"official bracket not read ({e})")
+    if not b["games"] or (last and len(b["games"]) < len(last["games"])):
+        return keep_last(f"official bracket came back with {len(b['games'])} games")
     if not brackets.posted(b):
         return None
     by_key = {school_key(t["school"]): t["school"] for t in teams}

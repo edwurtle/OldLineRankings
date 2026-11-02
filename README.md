@@ -69,7 +69,9 @@ The Final 8 is reseeded 1–8 by the same number. The page shows each region's m
 Once MPSSAA posts seeds, `scripts/brackets.py` reads its bracket pages' data (the sports-data API's
 `blocks/tournament-bracket` block, HTML) into games: class, region or state, round, seeds, teams, scores, winner,
 date, time and site. Names are matched to our schools and the bracket goes in each division's data as `bracket`.
-Before seeding (every slot "TBD") nothing is added. Turned on per site by `brackets=True`. Football's two region rounds
+Before seeding (every slot "TBD") nothing is added. Turned on per site by `brackets=True`. If a read fails, comes back
+empty or has fewer games than the last one, the bracket in the site's current `data.js` stays (from the last 30 days)
+and the GitHub run shows a warning. Football's two region rounds
 come as one list of 6 games, read as "Region RD 1" and "Region RD 2"; a playoff rematch keeps its game despite the
 first-meeting rule.
 
