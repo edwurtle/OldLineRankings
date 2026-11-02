@@ -22,7 +22,7 @@ Old `#/…` links are rewritten to the new addresses.
 - Football counts only the first meeting between two teams (MPSSAA football bulletin).
 - Football's MPSSAA points follow the bulletin (II.A.2, `bulletin_points` in `scripts/build.py`): each opponent win is
   1 bonus point, 1.125 for a 9-game team beating an 8-game team, 0.889 the other way; an opponent past 9 games counts 9;
-  the average is total ÷ games played, at most 9, as MPSSAA's standings divide. Nonmember games take what MPSSAA posts.
+  the average is total ÷ games played, at least 8 and at most 9, as MPSSAA's standings divide. Nonmember games take what MPSSAA posts.
   Ties go head-to-head, then most bonus points. Teams MPSSAA's standings note lists as withdrawn aren't seeded. Each
   build prints how many teams differ from MPSSAA's posted average.
 - Soccer leaves out Sat Sep 5 (preseason jamborees and showcases; MPSSAA's standings don't count them), set by
@@ -54,6 +54,7 @@ The team drawer's "See calculation" shows every game that went into a team's rat
 ## Playoffs page (football, soccer and basketball)
 Each sport seeds the way its MPSSAA bulletin says (`playoffs` in `SITES`):
 - **Football:** each region's top 8 by MPSSAA points play two rounds (1v8, 4v5, 2v7, 3v6); two per region reach the Final 8.
+  Playoff games count toward records and the Old Line Rating but earn no MPSSAA points, so the reseeding uses regular-season points.
 - **Soccer:** every team is seeded in its region by winning percentage (fewer than 9 games divide by 9) and each region
   plays down to one champion; the 8 champions make the Final 8. **Basketball** is the same with 15 games as the minimum divisor.
 
@@ -64,11 +65,13 @@ The Final 8 is reseeded 1–8 by the same number. The page shows each region's m
 - **Final 8 odds (football):** every team makes its region playoffs (regions have at most 8 teams), so odds measure how
   far it goes (Final 8, semifinals, state final, title), from 2,000 simulated seasons and playoffs.
 
-## Official brackets (soccer)
+## Official brackets (football and soccer)
 Once MPSSAA posts seeds, `scripts/brackets.py` reads its bracket pages' data (the sports-data API's
 `blocks/tournament-bracket` block, HTML) into games: class, region or state, round, seeds, teams, scores, winner,
 date, time and site. Names are matched to our schools and the bracket goes in each division's data as `bracket`.
-Before seeding (every slot "TBD") nothing is added. Turned on per site by `brackets=True`.
+Before seeding (every slot "TBD") nothing is added. Turned on per site by `brackets=True`. Football's two region rounds
+come as one list of 6 games, read as "Region RD 1" and "Region RD 2"; a playoff rematch keeps its game despite the
+first-meeting rule.
 
 With a bracket, the front page gets a Playoffs section: a tile per class (round and dates, teams still alive, the
 favorite left) and a find-your-team box (seed, next game or how its run ended). Each class's playoffs page opens
@@ -93,7 +96,9 @@ the team drawer (live or replay). If NFHS can't be reached the build continues w
 
 ## Update
 ```sh
-python3 scripts/build.py              # refresh results for both sites (run anytime)
+python3 scripts/build.py              # refresh results for every site (run anytime; slow, mostly waiting on NFHS and GoFan)
+python3 scripts/build.py football     # one site only (no splash page or sitemap)
+python3 scripts/build.py --quick football   # local testing: no Watch/Tickets lookups, team pages left as they are
 .venv/bin/python scripts/schools.py   # refresh logos/school info (rarely needed)
 ```
 

@@ -16,6 +16,8 @@ earlier weeks). Seeding still uses MPSSAA points; OLR only decides who is likely
 """
 import collections, math, random
 
+import brackets
+
 
 def game_value(g, cfg):
     sign = {"W": 1, "L": -1, "T": 0}[g["res"]]
@@ -113,7 +115,8 @@ def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, se
     played = []  # (a, b, result for a), each game once
     for t in teams:
         for g in t["games"]:
-            if not g["member"] or t["school"] < g["opp"]:
+            # Playoff games decide who advances, not seeds: the Final 8 reseeds on regular-season games
+            if (not g["member"] or t["school"] < g["opp"]) and g["date"] <= playoffs["last_date"]:
                 played.append((t["school"], g["opp"], g["res"]))
     remaining = []  # (a, b, a home?)
     for t in teams:
@@ -124,7 +127,7 @@ def simulate(teams, class_pts, ratings, home, cfg, playoffs, regions, n=2000, se
     fixed_seeds, decided = {}, {}  # (class, region) -> seeds best-first (None = bye); {a, b} -> real winner
     for g in (official or {}).get("games", []):
         names = [t["name"] for t in g["teams"]]
-        if g["level"] != "State" and g["round"] == "Region QF":
+        if g["level"] != "State" and g["round"] in brackets.REGION_FIRST:
             seeds = fixed_seeds.setdefault((g["c"], g["level"]), [None] * playoffs["region_seeds"])
             for t in g["teams"]:
                 if t["seed"] and t["name"] in member:

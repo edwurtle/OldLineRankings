@@ -15,10 +15,11 @@ would have earned had it won every game.
 Football is ranked by the Old Line Rating instead (see oldline.py); its MPSSAA points are kept
 for playoff seeding.
 """
-import collections, datetime, html, json, pathlib, re, shutil, subprocess, time, urllib.parse, zoneinfo
+import argparse, collections, datetime, html, json, pathlib, re, shutil, subprocess, time, urllib.parse, zoneinfo
 import arbiter, brackets, gofan, icons, nfhs, oldline
 
 API = "https://www.mpssaa.org/wp-json/smartsheet-sports/v1/"
+QUICK = False   # --quick: see main()
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
 # Scores MPSSAA is missing, filled in by hand: site key -> {(date, team, opponent): (team score, opponent score)}.
@@ -123,6 +124,7 @@ SITES = {
         # Football bulletin: region top 8 by MPSSAA points play two rounds; two per region reach the
         # 8-team state quarterfinal, reseeded by MPSSAA points
         playoffs=dict(seed_by="mpssaa", region_seeds=8, per_region=2, last_date="2026-10-31"), first_meeting_only=True,
+        brackets=True,
         # Old Line Rating: margin capped at 28 (under the 35-point running clock), 4-point win bonus,
         # pulled toward class average by 3 games' worth; k = win-probability scale per rating point.
         # Backtested on 2026 weeks 3-6 (games after the week-2 fit): picks 75% of winners vs 70% for MPSSAA points.
@@ -173,7 +175,7 @@ def fetch(sport, nonce):
     return games, json.loads(curl(f"{API}standings?sport={sport}", nonce))
 
 
-def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
+def rank_sport(raw_games, standings, class_pts, first_meeting_until=None):
     std = {t["school"]: {"cls": c, "region": r["region"]}
            for c, rs in standings["classifications"].items() for r in rs for t in r["teams"]}
 
@@ -260,14 +262,16 @@ def rank_sport(raw_games, standings, class_pts, first_meeting_only=False):
         if k1 in entries and k2 in entries and misdated(k1[0], k2[0]) and len(sides[k1]) == len(sides[k2]) == 1 \
                 and sides[k1] != sides[k2] and None not in top(k1) and top(k1) == top(k2):
             del entries[k2]
-    if first_meeting_only:
+    if first_meeting_until:
         # Only the first meeting between two teams counts (football bulletin II.A.2.h); this also
         # drops repeat entries the source has under the wrong date. Later scheduled repeats are dropped too.
+        # Games after the last seeding date are playoffs: a rematch there is a real game.
         first = {}
         for dt, a, b in sorted(list(entries) + list(unplayed)):
             first.setdefault((a, b), dt)
-        entries = {k: v for k, v in entries.items() if first[k[1:]] == k[0]}
-        unplayed = {k: v for k, v in unplayed.items() if first[k[1:]] == k[0]}
+        keep = lambda k: first[k[1:]] == k[0] or k[0] > first_meeting_until
+        entries = {k: v for k, v in entries.items() if keep(k)}
+        unplayed = {k: v for k, v in unplayed.items() if keep(k)}
     rec = collections.defaultdict(list)
     for (dt, a, b), es in entries.items():
         r, sa, sb, home, ff = collections.Counter(es).most_common(1)[0][0]
@@ -332,18 +336,20 @@ def withdrawn_teams(standings):
     return {name.strip(" .") for part in re.split(r"Class \w+ \w+(?: I+)?:", listed)[1:] for name in part.split(",") if name.strip(" .")}
 
 
-def bulletin_points(teams, standings, class_pts, nonmember):
+def bulletin_points(teams, standings, class_pts, nonmember, last_date):
     """MPSSAA football points (Football Bulletin II.A.2), replacing rank_sport's simple ones: bonus points scale with
     each team's schedule length, an opponent past 9 games counts 9 of them, and the average is total ÷ games played,
-    at most 9. Only MPSSAA knows a nonmember's class and wins, so those games take what its standings post: the
+    at least 8 and at most 9. Only MPSSAA knows a nonmember's class and wins, so those games take what its standings post: the
     first call fills `nonmember` (school -> {opponent: (win points, bonus points)}) and later calls reuse it. A
-    nonmember game not played yet (a projection) counts as the lowest class with no bonus."""
+    nonmember game not played yet (a projection) counts as the lowest class with no bonus. Games after last_date are
+    playoffs: they stay in each team's record and games but earn no points, so the Final 8 reseeds on the same points."""
     by = {t["school"]: t for t in teams}
     posted = {t["school"]: t for rs in standings["classifications"].values() for r in rs for t in r["teams"]}
-    length = {s: 9 if t["gp"] + len(t["upcoming"]) >= 9 else 8 for s, t in by.items()}
+    seeding = lambda t, key="games": [g for g in t[key] if g["date"] <= last_date]
+    length = {s: 9 if len(seeding(t)) + len(seeding(t, "upcoming")) >= 9 else 8 for s, t in by.items()}
 
     def opp_wins(opp, date):
-        played = by[opp]["games"]
+        played = seeding(by[opp])
         at = next((i for i, g in enumerate(played) if g["date"] == date), 0)
         counted = played[:9] if at < 9 else played[at - 8:at + 1]
         return sum({"W": 1, "T": .5, "L": 0}[g["res"]] for g in counted)
@@ -351,11 +357,14 @@ def bulletin_points(teams, standings, class_pts, nonmember):
     fill = not nonmember
     out = withdrawn_teams(standings)
     for s, t in by.items():
-        for g in t["games"]:
+        games = seeding(t)
+        for g in games:
             if g["member"]:
                 g["cp"] = class_pts[by[g["opp"]]["cls"]]
                 g["ow"] = opp_wins(g["opp"], g["date"]) * oldline.BONUS_RATE[length[s], length[g["opp"]]]
-        wins = [g for g in t["games"] if g["res"] != "L"]
+        for g in t["games"][len(games):]:
+            g["pts"] = g["cp"] = g["ow"] = g["max"] = 0
+        wins = [g for g in games if g["res"] != "L"]
         members = [g for g in wins if g["member"]]
         others = [g for g in wins if not g["member"]]
         if fill and others:
@@ -365,15 +374,15 @@ def bulletin_points(teams, standings, class_pts, nonmember):
             win = max(0, posted[s]["win_points"] - sum(g["cp"] for g in known)) / len(others)
             bonus = max(0, posted[s]["bonus_points"] - sum(g["ow"] for g in known)) / len(others)
             nonmember[s] = {g["opp"]: (win, bonus) for g in others}
-        for g in t["games"]:
+        for g in games:
             mult = {"W": 1, "T": .5, "L": 0}[g["res"]]
             if not g["member"]:
                 g["cp"], g["ow"] = nonmember.get(s, {}).get(g["opp"], (min(class_pts.values()), 0))
             g["max"] = g["cp"] + g["ow"]
             g["pts"], g["cp"], g["ow"] = g["max"] * mult, g["cp"] * mult, g["ow"] * mult
-        t["pts"] = round(sum(g["pts"] for g in t["games"]), 3)
-        t["bonus"] = round(sum(g["ow"] for g in t["games"]), 3)
-        t["avg"] = t["rating"] = round(t["pts"] / min(t["gp"], 9), 4) if t["gp"] else 0
+        t["pts"] = round(sum(g["pts"] for g in games), 3)
+        t["bonus"] = round(sum(g["ow"] for g in games), 3)
+        t["avg"] = t["rating"] = round(t["pts"] / max(min(len(games), 9), 8), 4) if games else 0
         t["sched"] = length[s]
         if s in out:
             t["withdrawn"] = True
@@ -530,7 +539,7 @@ def build_site(key, cfg, nonce, stamp):
                                                                for r in rs for t in r["teams"])
             if stale and cfg.get("alignment"):
                 standings = realign(standings, f'{d["gender"].lower()}-{cfg["alignment"]}', nonce)
-        if cfg.get("arbiter"):
+        if cfg.get("arbiter") and not QUICK:
             raw += arbiter_games(raw, standings, d["gender"].lower(), cfg)
         # A result entered without a date takes the date of the same matchup's only dated entry (the other school's)
         dated = collections.defaultdict(set)
@@ -545,9 +554,9 @@ def build_site(key, cfg, nonce, stamp):
         fill_scores(raw, SCORE_FIXES.get(key, {}))
         nonmember = {}   # football: what MPSSAA posts for nonmember opponents (bulletin_points)
         def rank(rows):
-            ranked = rank_sport(rows, standings, cfg["classes"], cfg.get("first_meeting_only", False))
+            ranked = rank_sport(rows, standings, cfg["classes"], cfg.get("first_meeting_only") and cfg["playoffs"]["last_date"])
             if cfg["playoffs"]["seed_by"] == "mpssaa":
-                bulletin_points(ranked, standings, cfg["classes"], nonmember)
+                bulletin_points(ranked, standings, cfg["classes"], nonmember, cfg["playoffs"]["last_date"])
             return ranked
         teams = rank(raw)
         if cfg["playoffs"]["seed_by"] == "mpssaa":
@@ -559,7 +568,7 @@ def build_site(key, cfg, nonce, stamp):
         if cfg.get("brackets") and (bracket := official_bracket(cfg, d["api"], teams, nonce)):
             # The bracket's games MPSSAA hasn't dated yet: their NFHS and GoFan events say when and where
             cities = {n: s["city"] for n, s in match_schools([t["school"] for t in teams], root)[0].items()}
-            for name, add in (("NFHS", nfhs.schedule_bracket), ("GoFan", gofan.schedule_bracket)):
+            for name, add in () if QUICK else (("NFHS", nfhs.schedule_bracket), ("GoFan", gofan.schedule_bracket)):
                 try:
                     add(bracket, cfg.get("activity", cfg["sport"]), d["gender"], DIRECTORY_NAME, cities, now_et().date())
                 except Exception as e:
@@ -603,7 +612,7 @@ def build_site(key, cfg, nonce, stamp):
         print("No directory match for:", missing)
     # Watch (NFHS Network) and ticket (GoFan) links are nice-to-haves: never fail the build over them
     cities = {n: s["city"] for n, s in schools.items()}
-    for name, add in (("NFHS watch", nfhs.add_watch_links), ("GoFan ticket", gofan.add_ticket_links)):
+    for name, add in () if QUICK else (("NFHS watch", nfhs.add_watch_links), ("GoFan ticket", gofan.add_ticket_links)):
         try:
             add(sports, cfg["divisions"], cfg.get("activity", cfg["sport"]), DIRECTORY_NAME, cities)
         except Exception as e:
@@ -637,10 +646,10 @@ def build_site(key, cfg, nonce, stamp):
         page = page.replace("{{" + k + "}}", v)
     (out / "index.html").write_text(page)
     # A page for every team (for search engines and sharing); old team folders are cleared first
-    for d in out.iterdir():
+    for d in () if QUICK else out.iterdir():
         if d.is_dir() and d.name != "cal":
             shutil.rmtree(d)
-    for div, s in sports.items():
+    for div, s in () if QUICK else sports.items():
         for t in s["teams"]:
             if t["slug"] in SECTIONS or t["slug"] == "cal":
                 raise SystemExit(f"Team page {t['slug']}/ would collide with a section page")
@@ -797,7 +806,7 @@ def official_bracket(cfg, api, teams, nonce):
     match = lambda name: by_key.get(school_key(ALIAS.get(name, name)))
     # A region's seeds, from its first round: a later slot whose name doesn't match (MPSSAA once typed "Carver
     # Vocational-Technical" for No. 3 Carver A&T) is that seed's team
-    seeded = {(g["c"], g["level"], t["seed"]): match(t["name"]) for g in b["games"] if g["level"] != "State" and g["round"] == "Region QF"
+    seeded = {(g["c"], g["level"], t["seed"]): match(t["name"]) for g in b["games"] if g["level"] != "State" and g["round"] in brackets.REGION_FIRST
               for t in g["teams"] if t["seed"] and t["name"] and t["name"] != "Bye"}
     unmatched = set()
     for g in b["games"]:
@@ -811,11 +820,11 @@ def official_bracket(cfg, api, teams, nonce):
                 t["name"] = school or t["name"]
     if unmatched:
         print("  Bracket names with no school match:", sorted(unmatched))
-    # The round after a game names who moved on: its game by bracket position, or for a region final the state quarterfinals
-    order = {"Region QF": "Region SF", "Region SF": "Region Finals", "State QF": "State SF", "State SF": "State Finals"}
+    # The round after a game names who moved on: its game by bracket position, or for a region's last round the state quarterfinals
+    order = {"Region QF": "Region SF", "Region SF": "Region Finals", "Region RD 1": "Region RD 2", "State QF": "State SF", "State SF": "State Finals"}
     nxt = {(g["c"], g["level"], g["round"], g["n"]): g for g in b["games"]}
     def ahead(g):
-        later = ([x for x in b["games"] if x["c"] == g["c"] and x["round"] == "State QF"] if g["round"] == "Region Finals"
+        later = ([x for x in b["games"] if x["c"] == g["c"] and x["round"] == "State QF"] if g["round"] in ("Region Finals", "Region RD 2")
                  else [nxt.get((g["c"], g["level"], order.get(g["round"]), (g["n"] + 1) // 2))])
         return {t["name"] for x in later if x for t in x["teams"]}
     for g in b["games"]:
@@ -1098,10 +1107,20 @@ def get_nonce():
 
 
 def main():
+    global QUICK
+    parser = argparse.ArgumentParser(description="Fetch results and write each site.")
+    parser.add_argument("sites", nargs="*", help="sites to build (default: all, plus the splash page and sitemap)")
+    parser.add_argument("--quick", action="store_true", help="for local testing: skip NFHS, GoFan and ArbiterLive (no Watch or "
+                        "Tickets buttons, no ArbiterLive schedules) and leave team pages as they are")
+    args = parser.parse_args()
+    if unknown := set(args.sites) - set(SITES):
+        parser.error(f"unknown sites {sorted(unknown)}; choose from {list(SITES)}")
+    QUICK = args.quick
     nonce = get_nonce()
     stamp = now_et().strftime("%Y%m%d%H%M%S")
-    built = [build_site(key, cfg, nonce, stamp) for key, cfg in SITES.items()]
-    write_splash(built, stamp)
+    built = [build_site(key, cfg, nonce, stamp) for key, cfg in SITES.items() if not args.sites or key in args.sites]
+    if not args.sites:   # the splash page and sitemap list every site
+        write_splash(built, stamp)
 
 
 if __name__ == "__main__":
