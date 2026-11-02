@@ -482,6 +482,8 @@ a.sport-card:hover { transform: translateY(-2px); border-color: var(--accent); }
 .bracket .to-f8 .slot.tbd > span:not(.nm) { display: none; }
 .bracket.two-up .slot.tbd { display: flex; align-items: center; justify-content: center; gap: 0; }
 .bracket.two-up .slot.tbd > span:not(.nm) { display: none; }
+.bracket:not(.mini) .slot.tbd { display: flex; align-items: center; justify-content: center; gap: 0; }
+.bracket:not(.mini) .slot.tbd > span:not(.nm) { display: none; }
 .bracket .slot.tbd { cursor: default; color: var(--faint); min-height: 46px; }
 .f8-regions { padding: 0; margin: 16px 0 40px; grid-template-columns: 1fr; }   /* one region per row */
 @media (max-width: 820px) { .f8-regions { grid-template-columns: 1fr; } }
