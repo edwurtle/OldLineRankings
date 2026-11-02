@@ -703,7 +703,7 @@ function renderFinal8(r) {
   const links = m => {
     const x = gameOf(m.a, m.b);
     const html = x ? watchBtn(x) + ticketBtn({tickets: x.tickets, date: x.date}, `${x.teams[1].name} at ${x.teams[0].name}`) : "";
-    return html ? `<div class="mlinks">${html}</div>` : "";
+    return gameWhen(x) + (html ? `<div class="mlinks">${html}</div>` : "");
   };
   // Each record carries its own seeding number where that isn't just the record (football's MPSSAA points)
   // Team card details: record and (football) MPSSAA points on their own lines; the projected view adds a
@@ -742,7 +742,7 @@ function renderFinal8(r) {
   const regionCards = regions.map(({reg, teams, rounds, official, out}) => `<div class="rcard" id="${regionId(reg)}"><div class="rhead"><h3>${reg}</h3>
       <small>${teams.length} teams${out.length ? ` · ${out.map(t => esc(t.school)).join(", ")} withdrew` : ""} · ${official ? "MPSSAA seeds" : `seeded by ${projected ? "projected " : ""}${SEED.name}`}</small></div>
       ${bracketHTML(rounds, regionNames, PL.per_region === 1 ? null : "To Final 8", slotFor(t => regionSeed.get(t), true), {cls: "mini", pct: projected && OLR, links, scores,
-        ...(PL.per_region === 1 ? {} : {endCls: "to-f8", endLabel: "Advances to Final 8", seedOf: t => regionSeed.get(t)})})}</div>`).join("");
+        ...(PL.per_region === 1 ? {} : {cls: "mini two-up", endCls: "to-f8", endLabel: "Advances to Final 8", seedOf: t => regionSeed.get(t)})})}</div>`).join("");
   // State tournament: current shows only the seed lines; projected plays it out
   const stateRounds = projected ? playBracket(final8, 3, pick)
     : playBracket(Array.from({length: 8}, (_, i) => stateSeeds[i] || {label: `No. ${i + 1} seed`}), 3, stateSeeds.length ? pick : null);
@@ -791,6 +791,18 @@ const ROUND_LABEL = {"Region QF": "Region quarterfinals", "Region SF": "Region s
   "State QF": "State quarterfinals", "State SF": "State semifinals", "State Finals": "State final"};
 const roundLabel = r => ROUND_LABEL[r] || r;
 const named = s => s.name && s.name !== "Bye";
+// MPSSAA's free-text start time ("6:00pm", "6:00 p.m.", "5 PM", "6:00") as "6:00 PM"; a bare hour is p.m.
+const bracketTime = t => {
+  const m = (t || "").toLowerCase().match(/(\d{1,2})(?::(\d{2}))?\s*([ap])?/);
+  return m ? `${m[1]}:${m[2] || "00"} ${m[3] === "a" ? "AM" : "PM"}` : "";
+};
+// Above a bracket game's links: when and where. A played game shows its date
+function gameWhen(x) {
+  if (!x) return "";
+  if (!x.date) return `<div class="mwhen tbd">Date to be set</div>`;
+  const parts = [fmtDate(x.date, {weekday: "short", month: "short", day: "numeric"})].concat(x.completed ? [] : [bracketTime(x.time), x.site && "at " + esc(x.site)]);
+  return `<div class="mwhen">${parts.filter(Boolean).join(" · ")}</div>`;
+}
 function previewBracket(g) {
   const played = PREVIEW_PLAYED;
   const day = r => { const d = new Date(PL.seed_date + "T12:00:00"); d.setDate(d.getDate() + [2, 4, 8, 11, 18, 25][r]); return d.toLocaleDateString("en-CA"); };
