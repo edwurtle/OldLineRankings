@@ -79,7 +79,7 @@ With a bracket, the front page gets a Playoffs section: a tile per class (round 
 favorite left) and a find-your-team box (seed, next game or how its run ended). Each class's playoffs page opens
 with that class's games to watch: the closest games still to play.
 Until MPSSAA seeds the state quarterfinals, each playoffs page's Final 8 section lists the teams that have already won
-their way in (full record, plus the seeding record or MPSSAA points) and a row for each spot still being played for.
+their way in (regular-season record, plus MPSSAA points for football) and a row for each spot still being played for.
 `?preview=playoffs` shows it before seeding with a stand-in bracket from today's seeds; `&played=N` plays N rounds.
 
 ## Watch links

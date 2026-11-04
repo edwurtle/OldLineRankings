@@ -752,14 +752,21 @@ function renderFinal8(r) {
     const inn = rows.filter(x => x.t).sort((a, b) => SEED.val(b.t) - SEED.val(a.t));
     if (!inn.length) return "";
     const left = rows.filter(x => !x.t);
+    // Regular-season record, as seeded: soccer's W/L/T are already MPSSAA's official record (no playoff games);
+    // football's count every game, so its playoff games (after the regular season's last day) come off
+    const regular = t => {
+      if (SEED_BY_WINPCT) return t;
+      const n = k => t.games.filter(x => x.date > PL.last_date && x.res === k).length;
+      return {W: t.W - n("W"), L: t.L - n("L"), T: t.T - n("T")};
+    };
     const when = x => x && x.date ? ` · ${fmtDate(x.date, {weekday: "short", month: "short", day: "numeric"})}` : "";
     const roundName = PL.per_region === 1 ? "Region final" : "Region round 2";
     return `<div class="card f8-in"><div class="f8-in-head"><h3>Advanced to Final 8 <span>· Awaiting seeds</span></h3>
         <small>${inn.length} of ${rows.length} in · MPSSAA seeds the Final 8 when region play ends</small></div>
       <div class="f8-in-list">${inn.map(({reg, t}) => `<div class="f8-in-row" data-team="${esc(t.school)}">${logo(t.school, 36)}
           <div class="info"><span class="nm">${esc(t.school)}</span><small>${esc(reg)} ${PL.per_region === 1 ? "champion" : "region"}</small></div>
-          <div class="rec"><span class="mono" title="Record, every game">${recTxt(t.all_games || t)}</span>${SEED_BY_WINPCT
-            ? `<small class="mono" title="MPSSAA's record for seeding (no playoff or extra tournament games)">${recTxt(t)} seeding</small>`
+          <div class="rec"><span class="mono" title="Regular-season record (the Final 8 seeds by it)">${recTxt(regular(t))}</span>${SEED_BY_WINPCT
+            ? `<small>regular season</small>`
             : `<small class="mono" title="MPSSAA points (the Final 8 seeds by them)">${t.avg.toFixed(2)} pts</small>`}</div></div>`).join("")}
         ${left.map(({reg, x}) => `<div class="f8-in-row open"><span class="f8-in-dot"></span>
           <div class="info"><span class="nm">${esc(reg)}</span><small>${roundName} still to play${when(x)}</small></div></div>`).join("")}</div></div>`;
