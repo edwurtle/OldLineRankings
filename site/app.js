@@ -735,6 +735,35 @@ function renderFinal8(r) {
         : p == null ? "" : `<div class="wp mono" title="Chance to win this game (Old Line Rating)">${pct(100 * p)}</div>`}</div>`;
   };
   const stateSeed = t => (stateSeeds.length ? stateSeeds : final8).indexOf(t) + 1;
+  // Until MPSSAA seeds the Final 8: the teams that have already won their way in (region play ends on
+  // different days), then a row for each spot still being played for
+  const advanced = (() => {
+    const ob = D.sports[r.g].bracket;
+    if (!ob || stateSeeds.length) return "";
+    const lastRound = ["Region Finals", "Region RD 2"];
+    const rows = [];
+    for (const {reg} of regions) {
+      const last = ob.games.filter(x => x.c === r.c && x.level === reg && lastRound.includes(x.round)).sort((a, b) => a.n - b.n);
+      for (let i = 0; i < PL.per_region; i++) {
+        const x = last[i], w = x && x.winner != null && named(x.teams[x.winner]) ? findTeam(r.g, x.teams[x.winner].name) : null;
+        rows.push(w ? {reg, t: w} : {reg, x});
+      }
+    }
+    const inn = rows.filter(x => x.t).sort((a, b) => SEED.val(b.t) - SEED.val(a.t));
+    if (!inn.length) return "";
+    const left = rows.filter(x => !x.t);
+    const when = x => x && x.date ? ` · ${fmtDate(x.date, {weekday: "short", month: "short", day: "numeric"})}` : "";
+    const roundName = PL.per_region === 1 ? "Region final" : "Region round 2";
+    return `<div class="card f8-in"><div class="f8-in-head"><h3>Advanced to Final 8 <span>· Awaiting seeds</span></h3>
+        <small>${inn.length} of ${rows.length} in · MPSSAA seeds the Final 8 when region play ends</small></div>
+      <div class="f8-in-list">${inn.map(({reg, t}) => `<div class="f8-in-row" data-team="${esc(t.school)}">${logo(t.school, 36)}
+          <div class="info"><span class="nm">${esc(t.school)}</span><small>${esc(reg)} ${PL.per_region === 1 ? "champion" : "region"}</small></div>
+          <div class="rec"><span class="mono" title="Record, every game">${recTxt(t.all_games || t)}</span>${SEED_BY_WINPCT
+            ? `<small class="mono" title="MPSSAA's record for seeding (no playoff or extra tournament games)">${recTxt(t)} seeding</small>`
+            : `<small class="mono" title="MPSSAA points (the Final 8 seeds by them)">${t.avg.toFixed(2)} pts</small>`}</div></div>`).join("")}
+        ${left.map(({reg, x}) => `<div class="f8-in-row open"><span class="f8-in-dot"></span>
+          <div class="info"><span class="nm">${esc(reg)}</span><small>${roundName} still to play${when(x)}</small></div></div>`).join("")}</div></div>`;
+  })();
   // Region play: each region's own bracket
   const regionRounds = Math.log2(8 / PL.per_region);
   const regionNames = regionRounds === 3 ? ["Quarterfinals", "Semifinals", "Region final"] : ["Round 1", "Round 2"];
@@ -768,6 +797,7 @@ function renderFinal8(r) {
     <div class="section-head" id="final-8"><div><h2>Final 8</h2>
       <p>${PL.per_region === 1 ? `The ${regions.length * PL.per_region} region champions` : `The top 2 from each region`} are reseeded 1–8 by ${SEED.name}: 1v8, 4v5, 2v7, 3v6.
       ${projected ? "" : `The bracket fills in once region play is done${PROJ(r.g) ? "; check OLR projection for a prediction" : ""}.`}</p></div></div>
+    ${advanced}
     <div class="card">${bracket}</div>
     <div class="section-head"><div><h2>Regional</h2>
       <p>${regionHow}</p>${coins}</div></div>
