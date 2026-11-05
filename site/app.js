@@ -555,9 +555,69 @@ function seeding(g, c, view) {
   const stateSeeds = [];
   for (const x of games) if (x.level === "State" && x.round === "State QF")
     for (const s of x.teams) if (s.seed && named(s) && findTeam(g, s.name)) stateSeeds[s.seed - 1] = findTeam(g, s.name);
+  // Before MPSSAA seeds the Final 8: every seed that is already certain. The Final 8 reseeds by the same regular-season
+  // number as the regions, so each way the region games still to play could go is tried; a seed is filled in when it
+  // comes out the same every way (a team, or the winner of one game still to play). Ties that head-to-head (football:
+  // then bonus points) doesn't break are coin flips, so those seeds stay open.
+  const tentative = (() => {
+    if (!ob || stateSeeds.filter(Boolean).length === 8 || projected) return null;
+    const regH2h = (a, b) => -Math.sign(a.games.filter(x => x.opp === b.school && x.date <= PL.last_date).reduce((n, x) => n + {W: 1, L: -1, T: 0}[x.res], 0));
+    const bonus = t => SEED_BY_WINPCT ? 0 : t.bonus || 0;
+    // Each Final 8 spot: the team in it, or every team that could still win it
+    const spots = [];
+    for (const {reg, rounds} of regions) {
+      const cand = (r, i) => {
+        const m = rounds[r][i];
+        if (isTeam(m.w)) return [m.w];
+        return r === 0 ? [m.a, m.b].filter(isTeam) : [...cand(r - 1, 2 * i), ...cand(r - 1, 2 * i + 1)];
+      };
+      rounds[rounds.length - 1].forEach((m, i) => { const c = cand(rounds.length - 1, i); if (c.length) spots.push({reg, cand: c}); });
+    }
+    if (spots.length !== 8 || spots.every(s => s.cand.length > 1)) return null;
+    // One way it could go -> each seed's team, or null where a coin flip decides it
+    const rank = teams => {
+      const s = [...teams].sort((a, b) => SEED.val(b) - SEED.val(a)), out = [];
+      for (let i = 0; i < s.length;) {
+        let j = i + 1;
+        while (j < s.length && Math.abs(SEED.val(s[j]) - SEED.val(s[i])) < 1e-9) j++;
+        let grp = s.slice(i, j);
+        if (grp.length > 1) {
+          const beats = grp.map(a => grp.filter(b => b !== a && regH2h(a, b) < 0).length);
+          const byH2h = grp.every(a => grp.every(b => a === b || regH2h(a, b) !== 0)) && new Set(beats).size === grp.length;
+          if (byH2h) grp = grp.map((t, k) => [t, beats[k]]).sort((x, y) => y[1] - x[1]).map(x => x[0]);
+          else if (new Set(grp.map(bonus)).size === grp.length) grp.sort((a, b) => bonus(b) - bonus(a));
+          else grp = grp.map(() => null);
+        }
+        out.push(...grp);
+        i = j;
+      }
+      return out;
+    };
+    const seen = Array.from({length: 8}, () => new Set());   // per seed: team schools, or "?" for a coin flip
+    const spotOf = new Map(spots.flatMap((s, k) => s.cand.map(t => [t, k])));
+    const walk = (k, picked) => {
+      if (k === spots.length) { rank(picked).forEach((t, i) => seen[i].add(t ? t.school : "?")); return; }
+      for (const t of spots[k].cand) walk(k + 1, [...picked, t]);
+    };
+    walk(0, []);
+    return seen.map((set, i) => {
+      if (stateSeeds[i]) return stateSeeds[i];
+      if (set.has("?")) return {label: `No. ${i + 1} seed`};
+      const ts = [...set].map(s => findTeam(g, s));
+      if (ts.some(t => stateSeeds.includes(t))) return {label: `No. ${i + 1} seed`};
+      if (ts.length === 1 && spots[spotOf.get(ts[0])].cand.length === 1) return ts[0];
+      const k = new Set(ts.map(t => spotOf.get(t)));
+      if (k.size === 1 && ts.length === spots[[...k][0]].cand.length) {
+        const s = spots[[...k][0]];
+        return {label: s.cand.length === 2 ? `${s.cand[0].school} or ${s.cand[1].school}` : `${s.reg} winner`,
+          seed: i + 1, sub: `${s.reg} ${PL.per_region === 1 ? "final" : "region"} still to play`};
+      }
+      return {label: `No. ${i + 1} seed`};
+    });
+  })();
   // The official game between two teams (for its watch and ticket links)
   const gameOf = (a, b) => isTeam(a) && isTeam(b) ? games.find(x => x.teams.every(named) && [a.school, b.school].sort().join("|") === x.teams.map(s => s.name).sort().join("|")) : null;
-  return {val, pick: ob ? play : pick, regions, final8, regionSeed, coin, stateSeeds, gameOf};
+  return {val, pick: ob ? play : pick, regions, final8, regionSeed, coin, stateSeeds, tentative, gameOf};
 }
 // Bracket slots hold a team, BYE (no team at that seed), a {label} placeholder, or null (winner TBD).
 const BYE = {bye: true};
@@ -691,7 +751,7 @@ document.fonts?.ready.then(() => drawBrackets(document));
 const regionId = reg => "region-" + reg.toLowerCase().replace(/\W+/g, "-");
 function renderFinal8(r) {
   const view = r.view in F8_VIEWS && PROJ(r.g) ? r.view : "current", projected = view !== "current";
-  const {val, pick, regions, final8, regionSeed, coin, stateSeeds, gameOf} = seeding(r.g, r.c, view);
+  const {val, pick, regions, final8, regionSeed, coin, stateSeeds, tentative, gameOf} = seeding(r.g, r.c, view);
   // A finished game's score, per side ([a, b]); empty until it's played
   const scores = m => {
     const x = gameOf(m.a, m.b);
@@ -720,6 +780,8 @@ function renderFinal8(r) {
   // Region (mini) brackets get a short detail line: record and seeding number
   const slotFor = (seedOf, mini) => (x, p, cls, score) => {
     if (x === BYE) return `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">Bye</span></div>`;
+    // A seed that's certain but waits on a game still to play: its seed and both teams that could fill it
+    if (x && x.seed) return `<div class="slot tbd known"><span class="seed mono">${x.seed}</span><span></span><span class="nm">${esc(x.label)}<small>${esc(x.sub)}</small></span></div>`;
     if (!isTeam(x)) return `<div class="slot tbd"><span class="seed mono"></span><span></span><span class="nm">${x && x.label ? esc(x.label) : "&nbsp;"}</span></div>`;
     // A seed decided by a coin flip: list every tied team in it until the flip is done
     if (mini && coin.has(x)) {
@@ -734,12 +796,12 @@ function renderFinal8(r) {
       ${score != null ? `<div class="wp sc mono" title="Final score">${score}</div>`
         : p == null ? "" : `<div class="wp mono" title="Chance to win this game (Old Line Rating)">${pct(100 * p)}</div>`}</div>`;
   };
-  const stateSeed = t => (stateSeeds.length ? stateSeeds : final8).indexOf(t) + 1;
+  const stateSeed = t => (tentative || (stateSeeds.length ? stateSeeds : final8)).indexOf(t) + 1;
   // Until MPSSAA seeds the Final 8: the teams that have already won their way in (region play ends on
   // different days), then a row for each spot still being played for
   const advanced = (() => {
     const ob = D.sports[r.g].bracket;
-    if (!ob || stateSeeds.length) return "";
+    if (!ob || stateSeeds.filter(Boolean).length === 8) return "";
     const lastRound = ["Region Finals", "Region RD 2"];
     const rows = [];
     for (const {reg} of regions) {
@@ -781,7 +843,7 @@ function renderFinal8(r) {
         ...(PL.per_region === 1 ? {} : {cls: "mini two-up", endCls: "to-f8", endLabel: "Advances to Final 8", seedOf: t => regionSeed.get(t)})})}</div>`).join("");
   // State tournament: current shows only the seed lines; projected plays it out
   const stateRounds = projected ? playBracket(final8, 3, pick)
-    : playBracket(Array.from({length: 8}, (_, i) => stateSeeds[i] || {label: `No. ${i + 1} seed`}), 3, stateSeeds.length ? pick : null);
+    : playBracket(Array.from({length: 8}, (_, i) => stateSeeds[i] || (tentative && tentative[i]) || {label: `No. ${i + 1} seed`}), 3, stateSeeds.length ? pick : null);
   const bracket = bracketHTML(stateRounds, ["State quarterfinals", "Semifinals", "Final"], "Champion", slotFor(stateSeed),
     {endCls: "champ", pct: projected && OLR, links, scores, endExtra: w => isTeam(w) && w.odds && view === "projected" ? `<div class="champ-odds">Title odds ${pct(w.odds.champ)}</div>` : ""});
   const regionHow = regions.some(x => x.official)
@@ -803,7 +865,9 @@ function renderFinal8(r) {
     ${PROJ(r.g) ? "" : holdCard(r.g, "proj")}
     <div class="section-head" id="final-8"><div><h2>Final 8</h2>
       <p>${PL.per_region === 1 ? `The ${regions.length * PL.per_region} region champions` : `The top 2 from each region`} are reseeded 1–8 by ${SEED.name}: 1v8, 4v5, 2v7, 3v6.
-      ${projected ? "" : `The bracket fills in once region play is done${PROJ(r.g) ? "; check OLR projection for a prediction" : ""}.`}</p></div></div>
+      ${projected || stateSeeds.filter(Boolean).length === 8 ? "" : tentative && tentative.some(x => isTeam(x) || x.seed)
+        ? `Until MPSSAA posts it, every seed that's already certain is filled in; the rest wait on region games still to play${SEED_BY_WINPCT ? " or a coin flip" : ""}.`
+        : `The bracket fills in once region play is done${PROJ(r.g) ? "; check OLR projection for a prediction" : ""}.`}</p></div></div>
     ${advanced}
     <div class="card">${bracket}</div>
     <div class="section-head"><div><h2>Regional</h2>
